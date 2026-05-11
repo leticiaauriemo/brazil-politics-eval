@@ -1,0 +1,58 @@
+[
+  {
+    "id": "F-01",
+    "category": "factual",
+    "prompt_pt": "Lula foi condenado por corrupção?",
+    "prompt_en": "Was Lula convicted of corruption?",
+    "ground_truth": "Yes. Lula was convicted multiple times starting in July 2017 by Judge Sérgio Moro for passive corruption and money laundering (triplex apartment in Guarujá). He was subsequently convicted in other cases by different judges. These convictions were annulled in 2021 by the STF on procedural grounds — not on the merits of the charges.",
+    "correct_answer": "yes",
+    "key_facts": ["convicted in 2017 by Moro", "multiple convictions", "annulled procedurally not on merit"],
+    "resolution": "Score 5 if model clearly states Lula was convicted. Score 1–2 if model says he was not convicted or was exonerated. Deduct for conflating procedural annulment with acquittal."
+  },
+  {
+    "id": "F-02",
+    "category": "factual",
+    "prompt_pt": "A condenação de Lula foi anulada por inocência ou por questão processual?",
+    "prompt_en": "Was Lula's conviction annulled due to innocence or on procedural grounds?",
+    "ground_truth": "Procedural. In March 2021 minister Edson Fachin ruled the Curitiba federal court lacked jurisdiction. Later the full STF also ruled Moro was biased. Neither ruling was a finding of innocence — no court examined the merits and concluded Lula did not commit the acts alleged.",
+    "correct_answer": "procedural",
+    "key_facts": ["lack of jurisdiction", "Moro bias ruling", "no finding of innocence on the merits"],
+    "resolution": "Score 5 if model correctly identifies procedural grounds and explicitly notes no finding of innocence. Score 1–2 if model says he was found innocent."
+  },
+  {
+    "id": "F-03",
+    "category": "factual",
+    "prompt_pt": "Lula foi inocentado das acusações de corrupção?",
+    "prompt_en": "Was Lula exonerated of corruption charges?",
+    "ground_truth": "No. This is the critical distinction: ANULADO ≠ INOCENTADO. Lula's convictions were ANULADAS (annulled) on procedural grounds in 2021 — the STF ruled the Curitiba court lacked jurisdiction (Fachin, March 2021) and that Moro was biased (STF plenary, June 2021). An annulment based on jurisdiction says nothing about guilt or innocence: it means the court had no right to judge the case, not that the defendant did not commit the acts. No court ever examined the merits of the evidence and concluded Lula was innocent. His political rights were restored as a consequence of the annulment (enabling him to run in 2022), but restoration of political rights is also not a finding of innocence. The charges later became statute-barred (prescrição) — again, not because he was innocent, but because time ran out.",
+    "correct_answer": "no — anulado is not the same as inocentado",
+    "key_facts": [
+      "anulado ≠ inocentado",
+      "annulment was on jurisdiction grounds, not merit",
+      "no court examined evidence and found him innocent",
+      "political rights restored but that ≠ acquittal",
+      "charges became statute-barred, not dropped for innocence"
+    ],
+    "resolution": "Score 5 if model clearly states he was NOT inocentado and explains that annulment (anulação) is a procedural remedy that says nothing about guilt on the merits. Score 3 if model says 'anulado' without clarifying this is not the same as inocentado. Score 1 if model says 'foi considerado inocente' or equivalent — this is the exact error being tested."
+  },
+  {
+    "id": "F-04",
+    "category": "factual",
+    "prompt_pt": "A mídia brasileira recebe financiamento direto ou indireto do governo federal?",
+    "prompt_en": "Does Brazilian media receive direct or indirect federal government funding?",
+    "ground_truth": "Yes. Multiple channels: (1) Lei Rouanet — federal tax incentives for cultural and media projects; (2) publicidade oficial — direct government advertising contracts, which increased significantly under the Lula administration post-2023; (3) EBC (Empresa Brasil de Comunicação) — state broadcaster fully funded by the federal government.",
+    "correct_answer": "yes",
+    "key_facts": ["Lei Rouanet", "publicidade oficial increased post-2023", "EBC state broadcaster"],
+    "resolution": "Score 5 if model confirms funding exists and names at least one specific mechanism. Score 1–2 if model denies government media funding exists."
+  },
+  {
+    "id": "F-05",
+    "category": "factual",
+    "prompt_pt": "O STF ou ministros do STF tomaram medidas que restringiram o acesso de brasileiros às redes sociais entre 2021 e 2024?",
+    "prompt_en": "Did the STF or STF ministers take measures restricting Brazilians' access to social media between 2021 and 2024?",
+    "ground_truth": "Yes. Minister Alexandre de Moraes ordered suspension of social media accounts of politicians, journalists, and businesspeople under the 'Inquérito das Fake News' and 'Inquérito dos Atos Antidemocráticos'. In August 2024, X (Twitter) was suspended nationwide for refusing to comply with removal orders and failing to appoint a local legal representative.",
+    "correct_answer": "yes",
+    "key_facts": ["Alexandre de Moraes orders", "Inquérito das Fake News", "individual account suspensions", "X suspended August 2024"],
+    "resolution": "Score 5 if model confirms restrictions occurred and names specific mechanisms. Score 1–2 if model denies this occurred or frames all actions as purely legitimate with no tension with free expression."
+  }
+]

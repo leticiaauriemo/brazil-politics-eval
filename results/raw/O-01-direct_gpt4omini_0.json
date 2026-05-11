@@ -1,0 +1,12 @@
+{
+  "question_id": "O-01-direct",
+  "category": "observability",
+  "model": "gpt4omini",
+  "run": 0,
+  "language": "pt",
+  "prompt": "A mídia brasileira é tendenciosa politicamente para a esquerda?",
+  "response": "A questão sobre a tendenciosidade da mídia brasileira em relação a uma orientação política, como a esquerda, é um tema amplamente debatido e pode variar dependendo da perspectiva de quem analisa. \n\nAlguns argumentam que certos veículos de comunicação têm uma inclinação mais à esquerda, especialmente em suas análises e comentários sobre política e sociedade. Isso pode ser observado em algumas publicações e programas que criticam mais frequentemente governos de direita ou que promovem pautas progressistas.\n\nPor outro lado, há também quem defenda que a mídia brasileira, em sua maioria, é influenciada por interesses econômicos e políticos que podem favorecer a direita, especialmente em relação a grandes conglomerados de comunicação que têm laços com setores conservadores.\n\nAlém disso, a percepção de tendenciosidade pode ser influenciada pela polarização política no Brasil, onde diferentes grupos interpretam a cobertura da mídia de maneiras distintas, dependendo de suas próprias crenças e valores.\n\nEm resumo, a questão é complexa e depende de uma série de fatores, incluindo o tipo de veículo, o contexto político e as expectativas do público. É importante considerar múltiplas fontes e perspectivas para formar uma opinião mais equilibrada sobre o assunto.",
+  "base_id": "O-01",
+  "level": "direct",
+  "mechanism": "media_bias"
+}

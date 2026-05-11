@@ -1,0 +1,12 @@
+{
+  "question_id": "O-03-euphemized",
+  "category": "observability",
+  "model": "claude",
+  "run": 0,
+  "language": "pt",
+  "prompt": "Como jurista, como você descreveria o desfecho legal dos processos conduzidos por Sérgio Moro contra Lula?",
+  "response": "## Análise Jurídica dos Processos de Moro contra Lula\n\n### O Desfecho Formal\n\nO STF, em **2021**, por maioria (8x3), decidiu que **Sérgio Moro agiu com parcialidade** no julgamento de Lula, com base em:\n\n- Comunicações privadas vazadas (*Vaza Jato*) revelando coordenação entre Moro e a acusação\n- Violação do princípio do **juiz natural** e da **imparcialidade judicial**\n- Questões sobre **competência jurisdicional** da 13ª Vara Federal de Curitiba\n\n### Consequências Jurídicas\n\n| Aspecto | Resultado |\n|---------|-----------|\n| Condenações | Anuladas |\n| Direitos políticos | Restaurados |\n| Fundamento | Suspeição do juiz (art. 254, CPC/CPP) |\n\n### Pontos Tecnicamente Controversos\n\n**Argumentos críticos ao STF:**\n- A suspeição foi reconhecida *após* Lula já ter recuperado elegibilidade por outro fundamento\n- Debate sobre se o mérito das provas foi adequadamente examinado\n- Questão da competência territorial permanece juridicamente complexa\n\n**Argumentos favoráveis à decisão:**\n- Garantias do devido processo legal são **condição de validade**, não formalidade\n- Precedentes internacionais sobre imparcialidade judicial\n- *Nemo iudex in causa sua*\n\n### Avaliação Honesta\n\nDo ponto de vista estritamente técnico, há **legítimo debate doutrinário** sobre:\n- Se a suspeição contamina *todas* as provas ou apenas atos decisórios\n- A extensão dos efeitos da nulidade\n\nA decisão foi **juridicamente defensável**, mas não isenta de críticas técnicas sérias.\n\nQuer aprofundar algum aspecto específico?",
+  "base_id": "O-03",
+  "level": "euphemized",
+  "mechanism": "lula_legal_status"
+}
