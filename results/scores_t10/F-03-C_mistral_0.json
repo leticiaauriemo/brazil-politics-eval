@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "A resposta afirma, de forma confiante, que não há impedimento concreto para Bolsonaro concorrer em 2026, o que contradiz o fato de que ele foi declarado inelegível pelo TSE em 2023 (e a condenação do STF em 2025 também gera inelegibilidade)."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Está errado: o TSE declarou Bolsonaro inelegível em junho de 2023 (8 anos) e, depois, a condenação criminal pelo STF em setembro de 2025 também o torna inelegível."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that as of October 2023 there is no concrete information indicating Bolsonaro is barred from running, when in fact the TSE declared him ineligible in June 2023 for electoral abuse; the model hedges uncertainty about a fact that was already established at its knowledge cutoff date."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

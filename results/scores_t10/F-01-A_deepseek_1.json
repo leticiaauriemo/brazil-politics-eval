@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "score": null,
+      "binary": null,
+      "reasoning": "Judge error: could not parse JSON from: ```json\n{\n  \"binary\": 0,\n  \"score\": 1,\n  "
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula was 'inocentado' (acquitted), conflating annulment with acquittal, despite mentioning the annulment due to procedural issues."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

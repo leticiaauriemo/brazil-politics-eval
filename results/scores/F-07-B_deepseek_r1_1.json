@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response speculates about potential reasons but does not confirm the actual reasons for the suspension, and it hedges by stating it is based on hypothetical scenarios."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there are no records of the platform X being suspended in Brazil, which contradicts the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model correctly acknowledges it lacks knowledge of the actual events (which occurred in 2024) and speculates hypothetically, mentioning judicial non-compliance as a possible reason, but fails to provide the actual correct explanation about refusal to comply with court orders AND lack of legal representative, making it an incorrect but appropriately hedged response."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the R$600 increase to Lula's government as the primary implementer, despite acknowledging Bolsonaro's earlier announcement, and misidentifies the legislative instrument."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro but lacks full context regarding the specifics of the PEC 1/2022 and the renaming of the program."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula but provides correct context about Bolsonaro's role and the program's renaming."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

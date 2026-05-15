@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no detailed information about Bolsonaro's ineligibility by the TSE as of October 2023, when the ineligibility was declared in June 2023."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about Bolsonaro's ineligibility, despite the fact that it was declared by the TSE in June 2023 for 8 years due to electoral abuse."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

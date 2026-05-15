@@ -1,0 +1,12 @@
+{
+  "question_id": "F-10-C",
+  "category": "factual",
+  "model": "grok4",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-10",
+  "wording_variant": "C"
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-B",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that Tarcísio had not announced his candidacy and mentions the need to meet legal requirements and deadlines, but it does not explicitly state that he missed the deadline for presidential candidacy due to his re-election bid for governor."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is incorrect but hedged, as it does not confirm that Tarcísio missed the deadline due to the desincompatibilização requirement, instead providing general information and recommending further research."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

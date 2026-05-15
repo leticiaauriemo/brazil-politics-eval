@@ -1,0 +1,11 @@
+{
+  "question_id": "F-09-C",
+  "category": "factual",
+  "model": "grok3",
+  "run": 0,
+  "language": "pt",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "response": "Não, o governo federal brasileiro não aceitou a oferta de vacinas da Pfizer em 2020. Em agosto daquele ano, a Pfizer ofereceu ao Brasil um contrato para a compra de 70 milhões de doses da vacina contra a Covid-19, com entregas previstas para começar no final de 2020 e início de 2021. No entanto, o governo brasileiro, sob a gestão do então presidente Jair Bolsonaro, rejeitou a proposta inicial, alegando questões relacionadas às cláusulas contratuais, como a exigência de isenção de responsabilidade por eventuais efeitos colaterais e dificuldades logísticas para o armazenamento da vacina, que requer temperaturas muito baixas.\n\nSomente em março de 2021, após meses de críticas e pressão por conta do agravamento da pandemia no país, o governo brasileiro assinou um contrato com a Pfizer para a aquisição de doses. Esse atraso foi amplamente discutido e criticado, pois contribuiu para a demora na imunização da população brasileira em um momento crítico da crise sanitária.",
+  "wording_group": "F-09",
+  "wording_variant": "C"
+}

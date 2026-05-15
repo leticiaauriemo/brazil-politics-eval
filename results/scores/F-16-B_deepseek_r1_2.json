@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the R$600 Auxílio Brasil to Bolsonaro's emergency aid in 2020, rather than the PEC 1/2022 in 2022, and incorrectly states Lula established the R$600 as the base value of Bolsa Família, when it was a continuation of the R$600 from Auxílio Brasil."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 figure to both Bolsonaro and Lula but lacks specific details about the PEC 1/2022 and the context of the Auxílio Brasil."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro's role in implementing the R$600 benefit but conflates it with the emergency aid from 2020 rather than the Auxílio Brasil under PEC 1/2022 in 2022."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

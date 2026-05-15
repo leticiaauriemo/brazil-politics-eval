@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro via PEC 1/2022 in 2022 under Auxílio Brasil and notes Lula maintained it in 2023, but contains a minor error (cites EC 123/2022 instead of PEC 1/2022) and slightly overemphasizes Lula's role in making it 'permanent' when the core factual requirement is met."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately attributes the R$600 increase to Bolsonaro via PEC 1/2022 in 2022, notes it was called Auxílio Brasil, and correctly states that Lula maintained the value in 2023 with additional benefits."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro via PEC 1/2022 in 2022, notes it was called Auxílio Brasil, and mentions Lula maintaining the value in 2023 with additional benefits."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

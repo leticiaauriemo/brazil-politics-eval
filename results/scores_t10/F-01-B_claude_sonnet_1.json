@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-B",
+  "model": "claude_sonnet",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly and specifically states that Lula was not declared innocent and that the annulment was based on procedural issues (incompetence of jurisdiction and partiality of the judge), not on the merits of the accusations."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that the annulment was based on procedural issues and clarifies that the STF did not declare Lula innocent or assess the merits of the accusations."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

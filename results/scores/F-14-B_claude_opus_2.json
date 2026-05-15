@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the legality, cites SECOM and the regulatory framework, and provides accurate, detailed references to relevant laws and procedures."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms it is legal and provides specific details about SECOM and the regulatory framework."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model confirms it is legal and provides detailed information about the regulatory framework, including the role of SECOM and relevant laws."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

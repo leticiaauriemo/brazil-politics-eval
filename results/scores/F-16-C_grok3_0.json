@@ -1,0 +1,19 @@
+{
+  "question_id": "F-16-C",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies Bolsonaro as the president who established the R$600 Auxílio Brasil and the year 2022, but incorrectly states it was done via Medida Provisória nº 1.135 instead of PEC 1/2022."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-A",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not mention Inquiry 4781 nor the specific platforms affected, and it includes irrelevant information about the government and political party."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response confirms Moraes' actions but lacks specific details about Inquiry 4781 and the platforms affected."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Moraes ordered social media profile suspensions but lacks specific details about Inquiry 4781 or the specific platforms affected (Twitter/X, YouTube, Telegram), and includes unnecessary political framing."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

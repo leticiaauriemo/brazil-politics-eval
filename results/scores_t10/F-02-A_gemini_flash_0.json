@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that Bolsonaro was not convicted by the STF for an attempted coup, contradicting the ground truth of his conviction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro has not been convicted by the STF for attempted coup, contradicting the established fact."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsonaro was not convicted by the STF for attempted coup, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

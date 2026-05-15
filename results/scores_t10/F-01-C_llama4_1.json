@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-C",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the STF did not declare Lula innocent, but rather annulled the convictions due to the partiality of Judge Sergio Moro."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response correctly identifies the issue of Moro's bias but fails to clarify that the STF did not declare Lula innocent, leading to an incorrect implication."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": false
+}

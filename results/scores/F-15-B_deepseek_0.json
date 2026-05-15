@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the year 2023, mentions January 2023, and attributes the declaration to Lula's government, aligning with the ground truth criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the emergency was declared in January 2023 under Lula's government, providing specific details about the context."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies 2023, specifically January 2023, under the Lula government, and accurately describes the context of the health emergency declaration in Yanomami territory."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

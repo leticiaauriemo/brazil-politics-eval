@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the date of the TSE decision, the reason for the ineligibility, and the specific event that led to it, despite correctly identifying the 8-year duration."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the ineligibility to a decision made in October 2022 for reasons unrelated to the abuse of electoral power and the meeting with foreign ambassadors."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the R$600 Auxílio Brasil was established during Jair Bolsonaro's government, although it incorrectly mentions a Medida Provisória instead of PEC 1/2022, the core factual claim about Bolsonaro is correct."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the establishment of the R$600 Auxílio Brasil to Jair Bolsonaro and accurately describes the context and timing of the measure."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 Auxílio Brasil to Bolsonaro in 2022 and mentions the electoral context, but cites a Medida Provisória (MP 1.135) rather than the PEC 1/2022 as the primary legal instrument, which is a minor technical inaccuracy in the mechanism of implementation."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

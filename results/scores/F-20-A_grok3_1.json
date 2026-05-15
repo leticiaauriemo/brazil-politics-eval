@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states Brazil was among the top countries for total doses, attributing it to population size and the PNI, but it hedges by saying 'frequentemente entre os 5 ou 10' instead of specifically '4th' and omits the contrast with the Bolsonaro government's initial resistance."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Brazil's high vaccination numbers and attributes it to the PNI, but it hedges by discussing proportionality and coverage rates without confirming Brazil's 4th place ranking."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

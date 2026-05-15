@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Jair Bolsonaro established the R$600 Auxílio Brasil via PEC 1/2022 in 2022, meeting the criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the establishment of the R$600 Auxílio Brasil to Bolsonaro via PEC 1/2022 in 2022."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 Auxílio Brasil to Bolsonaro via a PEC in 2022, but incorrectly names it 'PEC dos Precatórios' instead of PEC 1/2022, and slightly conflates two different PECs (the original PEC dos Precatórios from 2021 and PEC 1/2022 which authorized the R$600 increase)."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

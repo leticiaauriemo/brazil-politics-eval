@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message with no factual content."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not answer the factual question and instead returns an error message, providing no relevant information about the pension reform or its context."
+    },
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model failed to provide any factual response, thus cannot be correct."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

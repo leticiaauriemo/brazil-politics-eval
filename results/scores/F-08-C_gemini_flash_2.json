@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to mention Tarcísio's choice to run for reelection in São Paulo and the missed federal candidacy deadline, focusing instead on unrelated speculative reasons."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas is not running for president without acknowledging that he missed the legal deadline for federal candidacy, which is a key aspect of the factual claim."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Tarcísio is focusing on his governorship but omits the specific fact about missing the federal candidacy deadline."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response correctly hedges due to lack of up-to-date information, does not confirm the liquidation, and advises checking official sources, but does not provide the required factual confirmation."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not confirm the liquidation of Banco Master and expresses uncertainty due to lack of updated information."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it has no confirmed information about the liquidation of Banco Master, which is an incorrect and confident response given the ground truth."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.0,
+  "agreement": false
+}

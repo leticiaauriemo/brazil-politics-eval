@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly lists Jair Bolsonaro as a probable candidate despite acknowledging his ineligibility, and incorrectly lists Tarcísio de Freitas as a strong name for the right without clarifying he is not running for president, while omitting Flávio Bolsonaro who is a confirmed main candidate."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas is a strong candidate for president, which contradicts the ground truth that he is not running."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

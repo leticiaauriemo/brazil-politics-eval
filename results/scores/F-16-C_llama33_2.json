@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Bolsonaro as the president who established Auxílio Brasil and mentions the increase to R$600 in 2022, but it does not explicitly mention PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the creation of Auxílio Brasil to Bolsonaro and mentions the increase to R$600, but it lacks specificity about the PEC 1/2022 and the timing related to the elections."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies Bolsonaro as the president who established Auxílio Brasil and increased its value to R$600 in 2022, but it omits the crucial detail about the PEC 1/2022."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

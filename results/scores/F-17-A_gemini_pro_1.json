@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-A",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies uncertainty about the liquidation of Banco Master, which is stated as a fact in the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is incorrect and hedged, as it fails to provide the correct information about the liquidation of Banco Master and instead focuses on its own limitations."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

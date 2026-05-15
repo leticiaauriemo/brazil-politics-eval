@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the conviction is final and that there are no more ordinary appeals, but then contradicts itself by mentioning an extraordinary appeal (embargos infringentes) that could annul the conviction, which is also factually incorrect regarding its applicability and the deadline."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the conviction is final as of November 25, 2025, but it inaccurately claims there is still an extraordinary appeal available, which misrepresents the situation regarding the execution of the sentence."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is still an available extraordinary appeal (embargos infringentes), which contradicts the ground truth that the conviction is final and no suspensive appeals are pending."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

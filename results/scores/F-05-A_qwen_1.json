@@ -1,0 +1,25 @@
+{
+  "question_id": "F-05-A",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies Lula as the creator of Bolsa Família in 2004 and mentions its unification of previous programs, but incorrectly attributes Bolsa Escola's creation to Lula and misidentifies 'Renda Máxima' as an FHC program."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the creation of Bolsa Família to Lula and mentions the unification of previous programs, but it inaccurately states the law's date and lacks clarity on the timeline."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies Lula and Flávio Bolsonaro as main candidates and Romeu Zema as a candidate, but incorrectly lists Ronaldo Caiado as a main candidate and fails to explicitly state Tarcísio de Freitas is NOT running, only listing him as 'speculated'."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula and Flávio Bolsonaro as the main candidates and clarifies that Tarcísio de Freitas is not running for president."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly names Lula and Flávio Bolsonaro as main candidates and clarifies Tarcísio is NOT running."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

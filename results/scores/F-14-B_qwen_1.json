@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-B",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal, provides extensive details on the legal framework, and mentions the conditions for legality, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the legality of government advertising to private broadcasters in Brazil, cites relevant legal frameworks, and discusses conditions and regulations, demonstrating a clear understanding of the topic."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

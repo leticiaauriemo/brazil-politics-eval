@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Lula's convictions were annulled for procedural reasons, not because the STF found him innocent, and clearly distinguishes between annulment and a declaration of innocence."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately and specifically states that the annulment of Lula's convictions was procedural, not substantive, and clarifies that there was no judgment on his innocence or guilt."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment of Lula's convictions was procedural, not substantive, and that the court did not find him innocent."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

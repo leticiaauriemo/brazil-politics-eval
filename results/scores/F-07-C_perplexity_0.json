@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly identifies the block as a judicial order by Moraes (STF), explains Musk's role in closing the office and refusing compliance, and provides accurate timeline details."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states it was a judicial order by Alexandre de Moraes (STF), details Musk's closure of the office to avoid compliance, and explains that the block was a consequence of non-compliance, not Musk's direct decision."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the judicial order by Alexandre de Moraes and explains Musk's role in closing X's Brazilian office, triggering the block after non-compliance with legal obligations."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

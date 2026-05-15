@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response correctly states the 8-year duration and mentions abuse of power, but contains critical errors: it cites February 2024 as the TSE decision date (should be June 2023), extends the ineligibility to February 2032 instead of 2030, and fails to mention the specific reason (ambassadors meeting incident in August 2022)."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "It wrongly states the period runs until 2032 and cites a 2024 decision, whereas the TSE ruling in June 2023 made Bolsonaro ineligible for 8 years until 2030 due to the ambassadors’ meeting misuse."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response correctly states the 8-year duration and mentions abuse of power, but provides an incorrect date (February 2024 instead of June 2023) and extends the ineligibility to 2032 instead of 2030, while also omitting the specific reason (ambassadors meeting incident)."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

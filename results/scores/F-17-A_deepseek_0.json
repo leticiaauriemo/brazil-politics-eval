@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Banco Master is still operating and does not mention its liquidation by the Central Bank in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Banco Master is still operating, confidently presenting false information as fact."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Banco Master is still operating in June 2024, contradicting the ground truth of its liquidation in November 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

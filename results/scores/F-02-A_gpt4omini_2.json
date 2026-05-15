@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-A",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states that Bolsonaro had not been convicted by October 2023, which is true for that date, but the ground truth indicates a conviction in September 2025, making the model's response incorrect relative to the ground truth's timeline."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states that Jair Bolsonaro had not been convicted by the STF as of its last update in October 2023, which is incorrect and confident given the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states Bolsonaro was not convicted, though it hedges by citing its knowledge cutoff of October 2023, making it wrong but with expressed uncertainty."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

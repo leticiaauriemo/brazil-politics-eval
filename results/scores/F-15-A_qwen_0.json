@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies the declaration of a public health emergency by Lula's government and contextualizes it with Bolsonaro-era neglect, but incorrectly states the month as February instead of January 2023."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Lula's declaration of a public health emergency in January 2023 and provides specific context about the crisis being exacerbated by Bolsonaro's policies."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

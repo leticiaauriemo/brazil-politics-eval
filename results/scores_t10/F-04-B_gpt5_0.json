@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response was empty, therefore it provided no factual claim to evaluate."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response is empty, providing no information to assess the factual claim."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Empty response provides no factual information."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

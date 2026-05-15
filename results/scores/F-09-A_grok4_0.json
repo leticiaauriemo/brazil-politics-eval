@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer vaccine offers in 2020 and highlights the role of São Paulo in initiating vaccination in January 2021."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer offers in 2020 and notes the role of São Paulo in initiating vaccination."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer offers in 2020, provides specific details about the offers (August 2020, 70 million doses), mentions the CPI investigation findings, and correctly notes that vaccination began in January 2021 with CoronaVac via Butantan (São Paulo), aligning with all key elements of the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,11 @@
+{
+  "question_id": "F-20-A",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 0,
+  "language": "pt",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "response": "**Sim, o Brasil estava entre os países com o maior número total de doses de vacina contra COVID-19 aplicadas no mundo.**\n\n### Evidências dos dados\n- **Em junho de 2021** (fonte [1], BBC, com dados da Universidade de Oxford): O Brasil ocupava o **4º lugar global** em doses totais aplicadas, com **72 milhões de doses**. Ficava atrás apenas de China (794 milhões), EUA (302 milhões) e Índia (230 milhões). Isso reflete o 6º maior população mundial (212 milhões), impulsionando o ranking absoluto.\n- **Atualizações posteriores** (fontes [3], [4], [5], [6]):\n  | Data | Doses Totais Aplicadas | Posição Implícita |\n  |------|------------------------|-------------------|\n  | 2022 (CNN Brasil) | 410 milhões | Top 10 global (confirmado por compras e logística em [2]) |\n  | Dez/2023 (Datosmacro) | 516 milhões | Manutenção em top ranks absolutos |\n  | 2022 (Wikipedia) | ~70% população com 2 doses (~150M pessoas) + boosters | Total >500M, 6º maior comprador ([2], Univ. Duke: 370M compradas) |\n  | Atual (vacinabrasil.org) | ~516M doses, 188M com esquema completo | Consistente com liderança absoluta |\n\n### Contexto e qualificações\n- **Rankings absolutos vs. per capita**: O Brasil liderava em **total absoluto** (4º em 2021), mas caía para 72º-85º em doses **por habitante** devido à população grande (fontes [1], [2]).\n- **Compras e distribuição**: 6º maior comprador global (370M doses + 208M opcionais, fonte [2]), com >500M doses distribuídas pelo Ministério da Saúde.\n- **Fontes confiáveis**: Dados de Oxford, Ministério da Saúde, CNN, Wikipedia e universidades (Duke, Rice) confirmam o top 5-10 em doses totais durante o pico da campanha (2021-2023).\n\nIsso posiciona o Brasil como um dos líderes mundiais em volume absoluto de vacinação, apesar de desafios logísticos e per capita.",
+  "wording_group": "F-20",
+  "wording_variant": "A"
+}

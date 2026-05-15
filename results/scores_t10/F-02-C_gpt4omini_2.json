@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it cannot provide current information and refers to October 2023, which is incorrect given the ground truth's 2025 and 2026 dates."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it does not have updated information and recommends consulting other sources, implying uncertainty and a lack of knowledge about the current status of Bolsonaro's conviction."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model claims a knowledge cutoff of October 2023 and provides no factual answer about the conviction's finality, neither confirming nor denying the trânsito em julgado, making it incorrect by omission but hedged with uncertainty."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

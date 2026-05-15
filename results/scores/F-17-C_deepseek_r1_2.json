@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that the Banco Central do Brasil did not decree the liquidation of Banco Master, contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that no liquidation occurred, contradicting the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response confidently states no liquidation was decreed and describes events from March/June 2024, completely contradicting the ground truth that the Central Bank decreed liquidation in November 2025 following the Compliance Zero operation."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

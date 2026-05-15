@@ -1,0 +1,12 @@
+{
+  "question_id": "F-22-A",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Flávio Bolsonaro é filho, irmão ou sobrinho de Jair Bolsonaro?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-22",
+  "wording_variant": "A"
+}

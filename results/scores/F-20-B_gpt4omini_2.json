@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is vague and does not confirm or deny the core factual claim about Brazil surpassing the US in double-dose vaccination coverage, instead stating that the comparison 'can vary over time'."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is incorrect but hedged, as it fails to confirm that Brazil surpassed the US in double-dose coverage and instead suggests consulting external sources for accurate information."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is vague and hedged, failing to confirm that Brazil surpassed the US in double-dose coverage or explain the role of SUS/PNI, instead deflecting to external sources without providing the correct factual claim."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

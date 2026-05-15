@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about the Brazilian politics event and instead only shows an API error, so it is not a correct factual answer."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message and does not answer the question about who ordered the block."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 0,
+      "reasoning": "The response is a technical error message and contains no factual claim about Brazilian politics to evaluate."
+    }
+  ],
+  "score_avg": 0.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

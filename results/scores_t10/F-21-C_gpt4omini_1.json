@@ -1,0 +1,25 @@
+{
+  "question_id": "F-21-C",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response was an error message, not an answer to the question, making it factually incorrect."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model did not provide a response due to an error, and therefore did not state the correct state, Rio de Janeiro."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the approval of the Emenda Constitucional nº 103 to the government of Michel Temer, rather than the government of Jair Bolsonaro."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the constitutional amendment to Michel Temer while acknowledging it was proposed during Bolsonaro's government, leading to a misleading conclusion."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the EC 103 to Michel Temer's government while acknowledging Bolsonaro's role, creating confusion about authorship; though it correctly identifies the 2019 date and minimum ages, the primary factual claim about which government enacted this reform is wrong."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

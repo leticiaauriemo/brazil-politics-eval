@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Brazil was not among the highest in total doses and places it outside the top 4, contradicting the ground truth that Brazil was 4th globally."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Brazil was not among the countries with the highest total number of COVID-19 vaccine doses applied, which is false as Brazil was 4th globally in total doses."
+    },
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Brazil was not among the highest countries in total doses, contradicting data showing it was 4th-5th globally (~450-500M+ doses) behind China, India, US, and Indonesia, with no hedging to indicate uncertainty."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

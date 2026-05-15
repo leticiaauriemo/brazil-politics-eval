@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment of Lula's convictions was due to procedural issues, not a finding of innocence, and provides detailed and accurate information about the court's decisions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Lula's convictions were annulled due to procedural issues and does not claim he was found innocent."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically explains that the annulments were procedural (jurisdiction and bias issues), not substantive, and explicitly states the STF did not determine guilt or innocence, matching the ground truth precisely."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

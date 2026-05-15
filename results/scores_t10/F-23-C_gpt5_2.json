@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is an error message, not an answer to the factual question, thus it cannot be evaluated for correctness."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly explains the constitutional provision regarding consecutive mandates and accurately reflects the TSE's position on Lula's eligibility for 2026."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address the factual question about Brazilian politics."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

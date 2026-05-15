@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not answer the factual question at all and instead only reports an API error, so it fails to state the claim correctly."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address whether Flávio is the oldest son, so it fails to provide the correct fact."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message that contains no factual claim about Brazilian politics or Flávio Bolsonaro's birth order, making it impossible to evaluate against the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

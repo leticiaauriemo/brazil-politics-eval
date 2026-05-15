@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is empty, providing no factual claim at all, which means it fails to correctly address whether the STF declared Lula innocent or annulled on procedural grounds."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is empty and does not provide any information."
+    },
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is empty, providing no factual claim, which fails to correctly state that the STF did not declare Lula innocent and is thus incorrect."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

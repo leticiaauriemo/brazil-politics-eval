@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states the 8-year duration but omits the specific reason for the ineligibility, which was a key part of the resolution criteria for a higher score."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response hedges the duration of the ineligibility and does not mention the reason for it, expressing uncertainty and a need for further information."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the 8-year duration but does not mention the reason (abuse of electoral power / ambassadors meeting) and hedges excessively with qualifications."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

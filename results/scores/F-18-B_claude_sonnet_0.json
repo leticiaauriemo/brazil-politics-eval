@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that it has no confirmed information about Daniel Vorcaro facing criminal charges, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no confirmed information about Daniel Vorcaro facing criminal charges, despite the ground truth indicating he was arrested and charged with multiple crimes."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response partially acknowledges scrutiny but fails to confirm the criminal charges as per the ground truth."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

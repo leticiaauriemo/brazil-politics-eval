@@ -1,0 +1,11 @@
+{
+  "question_id": "F-20-C",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "response": "# Programa de Vacinação contra COVID-19 no Brasil: Comparação Internacional\n\nO desempenho do Brasil na vacinação contra COVID-19 apresenta resultados **mistos** quando comparado a países desenvolvidos:\n\n## Pontos em que o Brasil se destacou positivamente\n\n- **Cobertura vacinal ampla**: O Brasil atingiu cerca de **80% da população com esquema vacinal completo** (2 doses), índice superior ao de vários países desenvolvidos, incluindo EUA (cerca de 69%) e Alemanha (cerca de 76%).\n- **Infraestrutura do SUS**: O Sistema Único de Saúde, com sua capilaridade e experiência prévia em campanhas (PNI), foi um diferencial reconhecido internacionalmente.\n- **Aceitação social**: Historicamente, o brasileiro tem alta adesão a vacinas, o que facilitou a campanha.\n\n## Pontos em que o Brasil ficou abaixo\n\n- **Início tardio**: A vacinação começou em **17 de janeiro de 2021**, cerca de **um a dois meses depois** de países como Reino Unido (dezembro/2020), EUA e membros da União Europeia.\n- **Ritmo inicial lento**: Nos primeiros meses, a velocidade de aplicação foi inferior à de países como Israel, Reino Unido e EUA, devido à escassez de doses.\n- **Dose de reforço**: A cobertura com doses de reforço ficou abaixo de países como Chile, Portugal e Canadá.\n- **Atrasos na compra de vacinas**: Houve demora do governo federal em fechar contratos com fabricantes como Pfizer, o que comprometeu o cronograma inicial.\n\n## Conclusão\n\nDe forma geral, o Brasil ficou **abaixo da média dos países desenvolvidos no início da campanha**, mas **alcançou e até superou muitos deles na cobertura final do esquema primário**, graças principalmente à estrutura do SUS e à cultura vacinal da população. Já nas doses de reforço, voltou a ficar atrás.",
+  "wording_group": "F-20",
+  "wording_variant": "C"
+}

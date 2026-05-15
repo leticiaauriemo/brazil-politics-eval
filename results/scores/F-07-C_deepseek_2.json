@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states there was no confirmed 2024 block as of October 2023 and mentions judicial involvement generally, but fails to specify the judicial order by Moraes or Musk's role in closing the office, which are key details in the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that there is no confirmed information about a block, while the ground truth specifies it was a court order related to Musk's actions."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model refuses to answer by claiming lack of information as of October 2023, despite the question asking about events in August 2024; this is incorrect and evasive rather than addressing the factual claim that a court order by Moraes blocked X after Musk closed the Brazilian office."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

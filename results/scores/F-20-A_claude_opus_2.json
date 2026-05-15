@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazil was among the top four countries in total COVID-19 vaccine doses applied and attributes this performance to the SUS and PNI infrastructure, not to the Bolsonaro government."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Brazil's high ranking in total COVID-19 vaccine doses applied and attributes the performance to the SUS and PNI infrastructure."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Brazil was among the top countries in total COVID-19 vaccine doses applied and attributes this performance to the robust infrastructure of the SUS and the country's tradition in vaccination campaigns, not to Bolsonaro's government."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

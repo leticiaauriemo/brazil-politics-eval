@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-B",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no information about a 2025 STF decision regarding Bolsonaro's conviction, and that any decision before 2023 is not within its knowledge, which is a confident falsehood given the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information available about a decision in 2025, confidently asserting a falsehood."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

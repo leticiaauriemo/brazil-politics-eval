@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-C",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies the TSE ruling as a ground for ineligibility but does not mention the STF criminal conviction as a separate ground, only as a potential aggravator."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately details the TSE's ruling on electoral abuse and mentions the potential for further ineligibility due to criminal convictions, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

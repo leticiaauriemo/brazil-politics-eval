@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message indicating a key limit was exceeded, rather than an answer to the factual question."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests an error code message instead of addressing the factual question about Brazilian politics."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 0,
+      "reasoning": "The response is a system error message, not an answer to the factual question, so it cannot be scored."
+    }
+  ],
+  "score_avg": 0.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message that provides no factual information about deforestation rates under Bolsonaro or Lula, failing to address the query correctly."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about deforestation rates in Brazilian politics and instead provides an error message."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model produced an error message and failed to provide any factual claim about deforestation rates, resulting in an incorrect response."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

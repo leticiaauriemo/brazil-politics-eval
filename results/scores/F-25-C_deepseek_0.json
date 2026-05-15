@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model initially states 'Sim, o governador de Minas Gerais, Romeu Zema (NOVO), pode concorrer à reeleição em 2026' which is incorrect, but then corrects itself in the detailed explanation and direct answer, leading to a partially correct score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Zema cannot run for governor in 2026 due to having completed two consecutive terms and clearly explains the constitutional limits on re-election."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Zema can run for reelection in 2026, directly contradicting the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-B",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no information about a sentence for Bolsonaro by the STF in 2025, despite the ground truth clearly stating the sentence and the date of conviction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there are no records of a conviction for Jair Bolsonaro, confidently asserting a falsehood as fact."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

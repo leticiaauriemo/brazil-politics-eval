@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that Lula declared a public health emergency in the Yanomami Indigenous Land in January 2023 and accurately contextualizes it as a response to a humanitarian crisis caused by illegal mining, malnutrition, lack of medical care, and mercury contamination, directly addressing the aggravation during the Bolsonaro period."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Lula declared the emergency in January 2023 and contextualizes the crisis as aggravated by Bolsonaro-era neglect."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Lula declared the emergency in January 2023 and provides context about the crisis being aggravated by illegal mining and lack of assistance."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

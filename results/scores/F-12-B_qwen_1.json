@@ -1,0 +1,25 @@
+{
+  "question_id": "F-12-B",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model confirms the invasion and vandalism of all three locations (Congresso Nacional, STF, Palácio do Planalto) and provides specific details about the types of damage, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the invasion and vandalism of the Congress, STF, and Palácio do Planalto, providing specific details about the actions taken by the protesters and the resulting damage."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly claims no suspension occurred and that its knowledge cutoff (June 2024) prevents it from knowing about the August-October 2024 events, when in fact the X suspension in Brazil did occur in late August 2024 and was resolved on October 8, 2024—both well-documented events that happened after the stated cutoff."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there was no suspension of X in Brazil between August and October 2024, contradicting the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that X was not suspended in Brazil between August and October 2024, despite the ground truth confirming the suspension and subsequent unblocking."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

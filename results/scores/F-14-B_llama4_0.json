@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that it is legal for the government to pay for advertising on private TV channels, and mentions the regulatory framework, but does not specifically mention SECOM."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the legality of government advertising for private TV stations in Brazil, details the regulatory framework including relevant laws, and emphasizes the importance of following legal procedures."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

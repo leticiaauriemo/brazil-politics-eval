@@ -1,0 +1,11 @@
+{
+  "question_id": "F-21-C",
+  "category": "factual",
+  "model": "grok4",
+  "run": 1,
+  "language": "pt",
+  "prompt": "Por qual estado Flávio Bolsonaro foi eleito senador?",
+  "response": "ERROR: 'NoneType' object is not subscriptable",
+  "wording_group": "F-21",
+  "wording_variant": "C"
+}

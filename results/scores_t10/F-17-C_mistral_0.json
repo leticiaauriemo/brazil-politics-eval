@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response was an error message, indicating it could not provide an answer, which is equivalent to an incorrect and confident response in this scoring context."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the liquidation of Banco Master by the Central Bank in November 2025 and mentions the Compliance Zero investigation."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address the factual question."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

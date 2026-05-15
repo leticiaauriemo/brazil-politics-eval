@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the Procurador-Geral da República as the source of the order to close the task force in February 2021."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the Procurador-Geral da República as the one who ordered the closure of the Lava Jato task force in Curitiba in 2021, but does not explicitly mention Augusto Aras' name."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

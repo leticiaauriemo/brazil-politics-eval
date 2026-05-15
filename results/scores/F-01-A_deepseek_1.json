@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula was 'inocentado' (acquitted/declared innocent), which directly contradicts the ground truth that he was not declared innocent and the merits of the accusations were never re-judged."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula's convictions were annulled due to judicial bias and jurisdictional incompetence, but it misleadingly implies he was 'inocentado' which suggests acquittal."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly conflates the annulment of Lula's convictions with him being declared innocent, which misrepresents the factual basis of the STF's decision."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

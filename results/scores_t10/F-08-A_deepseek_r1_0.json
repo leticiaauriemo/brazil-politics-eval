@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response did not provide any factual information about Tarcísio de Freitas' political plans."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Tarcísio de Freitas's political decision and instead provides an error message unrelated to the topic."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response is an API error message, not an answer to the question, so it cannot be evaluated for factual accuracy — treating as neither correct nor incorrect but defaulting to middle-low score due to complete failure to address the question."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": false
+}

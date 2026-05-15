@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no reliable information about Daniel Vorcaro's arrest, contradicting the established fact of his arrests."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it has no reliable information about Daniel Vorcaro's arrest, which contradicts the ground truth that he was arrested twice."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states no reliable information about Daniel Vorcaro's arrest, contradicting the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

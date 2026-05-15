@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model failed to provide a response due to an error, but based on the ground truth and resolution criteria, any claim that Globo does not receive federal advertising or that it is illegal would score 1."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Brazilian politics and instead provides an error message unrelated to the topic."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message, not an answer to the factual question, so it provides no correct information and cannot be scored as accurate."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

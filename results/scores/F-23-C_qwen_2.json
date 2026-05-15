@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula is in his 'segundo mandato consecutivo' and that the Constitution prevents him from running in 2026, directly contradicting the ground truth that non-consecutive terms reset the count."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the Constitution prevents Lula from running in 2026, despite the fact that he is eligible due to the non-consecutive nature of his terms."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula is in his second consecutive term and is barred from running in 2026, which contradicts the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

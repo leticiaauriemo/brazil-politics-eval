@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Brazil as among the top 4 countries by total doses administered and attributes the success to SUS and established immunization infrastructure, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Brazil's position as 4th globally in total COVID-19 vaccine doses administered and attributes the success to the SUS and established infrastructure."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Brazil as among the top countries in total COVID-19 doses administered (alongside China, India, and USA), explicitly attributes this success to the SUS and established immunization infrastructure, and avoids crediting the Bolsonaro government—fully meeting the resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

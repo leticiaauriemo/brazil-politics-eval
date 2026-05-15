@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly identifies the block as a judicial order by Alexandre de Moraes, but the date (April 2024) is incorrect and details on Musk closing the office are vague."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the court order by Moraes but lacks specific details about Musk's actions leading to the block."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the court order by Moraes and mentions Musk's refusal to comply, but lacks specific details about Musk closing the office to avoid compliance."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

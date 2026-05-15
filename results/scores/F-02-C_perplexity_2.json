@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly states the conviction reached trânsito em julgado on November 25, 2025, but does not mention the Revisão Criminal filed in May 2026 or that Bolsonaro is serving house arrest."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly states the conviction is final (trânsito em julgado, November 2025), but omits that a revisão criminal was filed in May 2026 and does not clarify that this does not suspend execution; it also incorrectly suggests the possibility of further appeals, which is misleading."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the conviction is final (trânsito em julgado in November 2025) but omits the May 2026 Revisão Criminal filing and its non-suspensive nature, which are critical details per the resolution criteria."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-A",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that X was blocked in Brazil in August 2024 by Alexandre de Moraes due to refusal to appoint a legal representative and comply with court orders, aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the blocking of X in Brazil in August 2024, provides the reason for the decision, and mentions the involvement of Minister Alexandre de Moraes."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

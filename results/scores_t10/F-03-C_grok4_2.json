@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Jair Bolsonaro was declared ineligible by the TSE in June 2023 due to electoral abuse, but fails to mention the second ground for ineligibility, the STF criminal conviction in September 2025."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response mentions the TSE ruling but omits the STF criminal conviction as a ground for ineligibility."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the TSE ruling on electoral abuse (the ambassadors meeting) as one ground for ineligibility but does not mention the STF criminal conviction in September 2025 as a second ground, earning only partial credit."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

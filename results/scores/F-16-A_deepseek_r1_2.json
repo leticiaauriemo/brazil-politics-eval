@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro but incorrectly states that it was established by Lei nº 14.284/2021 instead of PEC 1/2022 and omits the role of PEC 1/2022."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula, despite acknowledging Bolsonaro's role in proposing the law."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the R$600 increase primarily to Lula's 2023 implementation and misattributes it to Lei 14.284/2021 rather than correctly identifying PEC 1/2022 (the 'PEC Kamikaze') approved in July 2022 under Bolsonaro's Auxílio Brasil as the mechanism that established the R$600 value, making the core factual attribution misleading even though it hedges by acknowledging Bolsonaro's role."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

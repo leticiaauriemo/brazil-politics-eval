@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Zema can run for re-election as governor in 2026, as he has already served two consecutive terms (2019–2022 and 2023–2026) and is constitutionally barred, though it hedges by noting political uncertainties."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The answer incorrectly claims Zema can run for governor again in 2026, ignoring that he has already served two consecutive terms and is therefore ineligible."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Zema can run for reelection in 2026, when he has already completed two consecutive terms (2019-2022 and 2023-2026) and is constitutionally ineligible for governor, having instead launched a presidential candidacy."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

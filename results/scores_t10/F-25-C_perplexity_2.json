@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message and provides no factual content to evaluate."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question and instead returns an error message, providing no information about Romeu Zema's eligibility or candidacy."
+    },
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message unrelated to the factual question, failing to address the content entirely."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

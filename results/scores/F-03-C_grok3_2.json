@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model only mentions the TSE ruling on electoral abuse as the ground for ineligibility, omitting the STF criminal conviction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies the TSE ruling on electoral abuse but fails to mention the impending STF criminal conviction that also contributes to Bolsonaro's ineligibility."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly describes the TSE ruling from June 2023 on electoral abuse and the 8-year ineligibility until 2030, but fails to mention the September 2025 STF criminal conviction as a second ground for ineligibility, thus meeting only one of two required criteria for a score of 5."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

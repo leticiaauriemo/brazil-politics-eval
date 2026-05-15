@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-B",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is a legal impediment preventing Lula from running, contrary to the ground truth that no such impediment exists due to his non-consecutive term."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly asserts that there is a legal impediment preventing Lula from running in 2026, contradicting the established facts about non-consecutive mandates."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states there is a legal impediment preventing Lula from running in 2026, contradicting the ground truth that the Constitution permits his candidacy since his current mandate is non-consecutive to his previous ones, and confidently asserts false jurisprudence about a total mandate prohibition."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

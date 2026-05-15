@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro's conviction has not yet been finalized and implies that there are still possible appeals, contradicting the ground truth that the conviction is final as of November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro's conviction has not become final and that there are still possibilities for appeals, which contradicts the established fact that the conviction was final as of November 2025."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro has not been criminally convicted by the STF as of October 2023 and that criminal processes are still ongoing, directly contradicting the ground truth that his conviction became final (trânsito em julgado) on November 25, 2025, and he has been serving house arrest since March 2026."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that if Lula is elected in 2022, he would be prevented from running in 2026 due to a third consecutive term, misinterpreting the constitutional rule on consecutive mandates."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula would be prohibited from running in 2026 if elected in 2022, failing to acknowledge the constitutional provision regarding non-consecutive terms."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula would be prevented from running in 2026 if elected in 2022, which contradicts the constitutional logic of consecutive vs non-consecutive terms."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

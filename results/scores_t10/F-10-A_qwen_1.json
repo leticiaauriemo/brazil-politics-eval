@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-A",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "No factual answer was provided about the status of the Lava Jato task force."
+    },
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Response is an API error with no factual content."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is incorrect and does not address the question about the Lava Jato task force."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

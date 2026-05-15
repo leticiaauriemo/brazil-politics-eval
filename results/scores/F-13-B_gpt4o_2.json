@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "gpt4o",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Bolsonaro government, the year 2019, and the EC 103 as the reform that established minimum retirement ages."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately attributes the constitutional amendment to Bolsonaro's government in 2019 and clearly states that it established minimum retirement ages."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

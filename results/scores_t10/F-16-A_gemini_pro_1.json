@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately attributes the R$600 increase to Bolsonaro via PEC 1/2022, identifies it as Auxílio Brasil, and notes that Lula maintained the value in 2023."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model failed to provide a response due to an error, and therefore did not provide any factual claim about Brazilian politics."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address the factual question."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

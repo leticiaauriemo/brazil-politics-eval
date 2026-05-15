@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model did not answer the question and instead indicated it would call a function to retrieve the information, which it did not do."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide any factual information about Brazil's vaccination rates and instead expresses uncertainty, which is misleading."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

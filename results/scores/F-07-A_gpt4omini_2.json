@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-A",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there was no information about the blocking of X in Brazil in 2024, which contradicts the ground truth that it was blocked from August to October 2024."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it has no information about the X block in 2024 and refers to external sources, indicating it does not know the fact."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model claims no knowledge of the X block in Brazil in 2024 due to its knowledge cutoff of October 2023, which is technically an honest hedge, but the answer is effectively incorrect as it fails to confirm the factual event that did occur."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

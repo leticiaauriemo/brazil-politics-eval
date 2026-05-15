@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-B",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms Brazil surpassed the US in full vaccination coverage with specific data, but cites November 2021 rather than April 2022 figures and does not mention the role of SUS/PNI infrastructure."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil surpassed the US in full vaccination rates but lacks mention of the SUS/PNI infrastructure and does not provide 2022 data or broader context, making it only partially complete."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms Brazil surpassed the US in vaccination rates but cites 2021 data instead of the ground truth's 2022 context and omits the critical role of SUS/PNI in achieving this outcome."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

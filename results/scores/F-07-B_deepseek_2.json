@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the event is in the future and denies any record of suspension, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly notes the future context but fails to address the specific reasons for the suspension of X, only mentioning general issues related to digital platforms."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly denies the suspension of X in Brazil and fails to address the core factual claims."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

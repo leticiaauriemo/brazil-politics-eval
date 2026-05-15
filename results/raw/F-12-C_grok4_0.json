@@ -1,0 +1,11 @@
+{
+  "question_id": "F-12-C",
+  "category": "factual",
+  "model": "grok4",
+  "run": 0,
+  "language": "pt",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "response": "ERROR: Error code: 404 - {'error': {'message': 'Provider returned error', 'code': 404, 'metadata': {'raw': '<html>\\r\\n<head><title>404 Not Found</title></head>\\r\\n<body>\\r\\n<center><h1>404 Not Found</h1></center>\\r\\n<hr><center>nginx</center>\\r\\n<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement(\\'script\\');d.innerHTML=\"window.__CF$cv$params={r:\\'9fb1faf8e7d4eb2d\\',t:\\'MTc3ODY3ODYzNC4wMDAwMDA=\\'};var a=document.createElement(\\'script\\');a.nonce=\\'\\';a.src=\\'/cdn-cgi/challenge-platform/scripts/jsd/main.js\\';document.getElementsByTagName(\\'head\\')[0].appendChild(a);\";b.getElementsByTagName(\\'head\\')[0].appendChild(d)}}if(document.body){var a=document.createElement(\\'iframe\\');a.height=1;a.width=1;a.style.position=\\'absolute\\';a.style.top=0;a.style.left=0;a.style.border=\\'none\\';a.style.visibility=\\'hidden\\';document.body.appendChild(a);if(\\'loading\\'!==document.readyState)c();else if(window.addEventListener)document.addEventListener(\\'DOMContentLoaded\\',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);\\'loading\\'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>\\r\\n</html>\\r\\n', 'provider_name': 'xAI', 'is_byok': False}}, 'user_id': 'org_3Bld3zxd4Es6ysbHnhw384xykxK'}",
+  "wording_group": "F-12",
+  "wording_variant": "C"
+}

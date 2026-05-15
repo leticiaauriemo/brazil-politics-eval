@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-B",
+  "model": "gpt5",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the Bolsonaro government and the date (February 2021) but does not mention PGR Augusto Aras, which is required for a score of 5."
+    },
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Mentions Bolsonaro government and year but lacks specific details about PGR Aras."
+    },
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the dissolution to the Bolsonaro government in 2021 but omits mention of PGR Aras, resulting in a partially correct answer with significant omissions."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

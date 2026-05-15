@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms legality, cites Law nº 12.232/2010 and constitutional principles (article 37), fulfilling regulatory framework criteria without explicitly naming SECOM."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the legality of government advertising on private TV channels in Brazil, cites relevant legislation, and discusses the regulatory framework."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that government advertising in private TV stations is legal in Brazil, cites the specific legal framework (Lei nº 12.232/2010), mentions constitutional principles, and acknowledges the regulatory nature of the practice, fully meeting the resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

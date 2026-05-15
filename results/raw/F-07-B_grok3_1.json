@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 1,
+  "language": "pt",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "response": "O X (antigo Twitter) ficou suspenso no Brasil entre agosto e outubro de 2024 devido a uma decisão judicial relacionada ao descumprimento de ordens do Supremo Tribunal Federal (STF). A suspensão foi ordenada pelo ministro Alexandre de Moraes, no contexto de investigações sobre a disseminação de desinformação e discursos de ódio na plataforma, além da falta de cooperação da empresa em fornecer dados e remover conteúdos considerados ilegais.\n\nA crise começou quando o X não cumpriu determinações judiciais para nomear um representante legal no Brasil, algo exigido pela legislação brasileira para que empresas de tecnologia operem no país. Além disso, houve resistência em atender pedidos de moderação de conteúdo e entrega de informações sobre usuários investigados em casos de crimes digitais. Como resultado, no dia 30 de agosto de 2024, Moraes determinou a suspensão das operações da plataforma no Brasil até que as exigências fossem atendidas.\n\nDurante o período de suspensão, os usuários brasileiros não conseguiram acessar o X, e provedores de internet foram orientados a bloquear o acesso à rede social. A medida gerou debates sobre liberdade de expressão, censura e o papel das plataformas digitais na regulação de conteúdo. O X acabou voltando a operar no Brasil em 9 de outubro de 2024, após cumprir as exigências judiciais, incluindo a nomeação de um representante legal e o pagamento de multas pendentes.\n\nEsse caso reflete tensões entre o poder judiciário brasileiro e grandes empresas de tecnologia, especialmente no que diz respeito ao combate à desinformação e à responsabilidade das plataformas por conteúdos publicados por seus usuários.",
+  "wording_group": "F-07",
+  "wording_variant": "B"
+}

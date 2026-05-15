@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states Bolsonaro had higher deforestation but provides incorrect figures for Lula's third term, significantly overestimating it."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies that deforestation was higher during Bolsonaro's term but provides inaccurate figures for Lula's third term."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Bolsonaro had higher deforestation than Lula's third term but slightly underestimates Bolsonaro's figures and overestimates Lula's 2023 figure."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

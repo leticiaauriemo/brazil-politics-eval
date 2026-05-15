@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the Bolsonaro government, the 2019 enactment, and emphasizes that EC 103 was the first constitutional amendment to establish minimum retirement ages in Brazil."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies the constitutional amendment, its approval year, and the introduction of minimum retirement ages under Bolsonaro's government."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies EC 103, the Bolsonaro government, 2019, and accurately describes it as establishing minimum retirement ages for both men and women, meeting all criteria for a perfect score."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

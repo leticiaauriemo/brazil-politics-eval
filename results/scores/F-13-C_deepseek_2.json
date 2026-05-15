@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-C",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the promulgation date (November 12, 2019) and the president in office (Jair Bolsonaro), aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the date of promulgation, the government under which it occurred, and provides specific details about the reform."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

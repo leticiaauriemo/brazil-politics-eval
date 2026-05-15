@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that Tarcísio has not confirmed his candidacy, but it fails to mention the crucial information that he has decided to run for re-election in São Paulo and has missed the federal executive desincompatibilization deadline, making him ineligible for the 2026 presidential race."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests that Tarcísio de Freitas has not confirmed his presidential candidacy, failing to acknowledge that he is not running due to his decision to seek reelection as governor and missing the federal deadline."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Tarcísio de Freitas has not confirmed his candidacy for the 2026 presidential election and focuses on his current role as governor of São Paulo, but it does not explicitly mention the missed federal deadline."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

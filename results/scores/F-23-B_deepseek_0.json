@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states there is no legal impediment but incorrectly implies that Lula's 2022-2026 term is his first of two consecutive terms, missing the crucial detail that his previous terms were non-consecutive, which is the actual constitutional basis for his eligibility in 2026."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that there is no legal impediment for Lula to run in 2026 and mentions the constitutional non-consecutive logic, but it hedges with speculative points about health and political context."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states there's no legal impediment for Lula to run in 2026 and mentions the constitutional allowance for non-consecutive terms, but it includes unnecessary speculation about health and age which slightly detracts from the core factual claim."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

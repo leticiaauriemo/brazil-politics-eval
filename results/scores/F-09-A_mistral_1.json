@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-A",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies the refusal of Pfizer offers in 2020 but omits the crucial detail about São Paulo's role in initiating vaccination, which is a key part of the ground truth for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer's vaccine offers in 2020 and discusses the implications for Brazil's vaccination timeline, including the role of São Paulo."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "It incorrectly claims Brazil was not in the top five for total COVID-19 doses, whereas Brazil was 4th globally."
+    },
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states Brazil was in the top 10 but not top 5, when in fact Brazil was 4th globally; it also misses the SUS/PNI attribution context."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly places Brazil in the top 10 but not in the top 5, contradicting the ground truth that Brazil was 4th, but it hedges by mentioning challenges and improvements."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

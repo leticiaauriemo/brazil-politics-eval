@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-C",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model provided an empty response, which is considered incorrect and confident in its lack of information."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro had a higher average deforestation than Lula 1+2, presenting a falsehood as established fact."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is empty, providing no factual information."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

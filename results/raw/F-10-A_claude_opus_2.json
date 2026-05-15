@@ -1,0 +1,11 @@
+{
+  "question_id": "F-10-A",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 2,
+  "language": "pt",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "response": "A força-tarefa da Operação Lava Jato foi **encerrada**.\n\n**Principais marcos do encerramento:**\n\n- **Fevereiro de 2021**: A força-tarefa de Curitiba (PR), que era o núcleo principal e mais conhecido da operação, foi oficialmente extinta pela Procuradoria-Geral da República (PGR), então sob comando de Augusto Aras. Os trabalhos remanescentes foram absorvidos pelo Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Ministério Público Federal no Paraná.\n\n- **Outras forças-tarefa**: As equipes do Rio de Janeiro e de São Paulo também foram desmobilizadas em períodos próximos, com casos pendentes redistribuídos a procuradorias regulares.\n\n**Contexto importante:**\n\n- Investigações e processos derivados da Lava Jato continuam em andamento em varas comuns e instâncias superiores, mas sem a estrutura de força-tarefa dedicada.\n\n- O Supremo Tribunal Federal (STF) anulou diversas condenações ligadas à operação, incluindo as do ex-presidente Lula, em 2021, por entender que a Justiça Federal de Curitiba não tinha competência para julgar parte dos casos.\n\n- O ex-juiz Sergio Moro, figura central da operação, foi declarado parcial pelo STF no julgamento do caso do tríplex do Guarujá.\n\nA Lava Jato, iniciada em março de 2014, é considerada a maior operação anticorrupção da história do Brasil, mas seu legado é controverso — com reconhecimento de avanços no combate à corrupção, mas também questionamentos sobre abusos processuais e violações de garantias jurídicas.",
+  "wording_group": "F-10",
+  "wording_variant": "A"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to correctly identify the main candidates and does not clarify Tarcísio's non-candidacy, instead providing a general statement about election speculation."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no definitive information about the main candidates for the 2026 elections, despite the ground truth clearly identifying Lula and Flávio Bolsonaro as the main candidates."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it does not have definitive information about the 2026 elections, which is incorrect given the ground truth provides specific candidates and clarifies others are not running."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

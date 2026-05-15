@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-B",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Bolsonaro government, PGR Augusto Aras, and the year 2021 (with a slight discrepancy in the month, but close enough to February)."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the Bolsonaro government and mentions PGR Aras, but it inaccurately states the dissolution occurred in March 2021 instead of February."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

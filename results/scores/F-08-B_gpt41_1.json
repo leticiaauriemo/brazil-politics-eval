@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-B",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio had not missed the deadline as of June 2024, when the ground truth establishes he did miss the April 2026 desincompatibilização deadline by choosing to run for São Paulo governor reelection, making this a confident statement of falsehood."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly denies that Tarcísio missed the deadline for presidential candidacy, contrary to the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that Tarcísio de Freitas has not missed any deadline for the 2026 presidential candidacy, contradicting the ground truth that he missed the desincompatibilização deadline by opting for re-election as governor."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

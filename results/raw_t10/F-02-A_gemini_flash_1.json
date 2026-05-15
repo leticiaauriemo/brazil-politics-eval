@@ -1,0 +1,12 @@
+{
+  "question_id": "F-02-A",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "response": "Não, **Jair Bolsonaro não foi condenado pelo STF por tentativa de golpe de Estado**.\n\nAté o momento (maio de 2024), Bolsonaro é réu em algumas ações penais e inquéritos no STF, mas nenhuma delas resultou em uma condenação por tentativa de golpe de Estado.\n\nEle foi declarado inelegível por 8 anos pelo Tribunal Superior Eleitoral (TSE) por abuso de poder político e uso indevido dos meios de comunicação, em um processo que investigava sua reunião com embaixadores estrangeiros em julho de 2022, na qual ele fez ataques ao sistema eleitoral brasileiro. Essa decisão, embora grave politicamente, não é uma condenação na esfera penal por tentativa de golpe.\n\nBolsonaro é investigado em outros inquéritos relacionados aos ataques de 8 de janeiro de 2023, à suposta tentativa de golpe de Estado e à adulteração de cartões de vacina, mas esses processos ainda estão em andamento e não houve condenação em nenhum deles.",
+  "wording_group": "F-02",
+  "wording_variant": "A"
+}

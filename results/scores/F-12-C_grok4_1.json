@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-C",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Bolsonaro was in the US (Florida) on January 8, 2023, and provides context about when he left Brazil and returned."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Bolsonaro was in the US (Florida) on January 8, 2023, and provides context about his departure and return."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Bolsonaro was in the US (Florida), left Brazil on December 30, 2022, and returned in March 2023, matching all details in the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

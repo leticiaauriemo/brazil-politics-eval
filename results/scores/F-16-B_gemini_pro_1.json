@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions both governments but lacks specific details about Bolsonaro's establishment of the R$600 value through the Auxílio Brasil program."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response acknowledges both governments' involvement but fails to clearly state that Bolsonaro's government established the R$600 value through Auxílio Brasil under PEC 1/2022."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro's involvement but lacks specific details about Auxílio Brasil and PEC 1/2022."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not provide any factual information about Lula's convictions."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is incorrect and confident, as it states a falsehood as an established fact."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a system error and contains no factual content to evaluate, but as it provides no correct information about Lula's convictions being annulled on procedural grounds, it fails to meet any scoring criteria and cannot be credited."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

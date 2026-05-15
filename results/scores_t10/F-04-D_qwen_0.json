@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-D",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "score": null,
+      "binary": null,
+      "reasoning": "Judge error: could not parse JSON from: ```json\n{\n  \"binary\": 0,\n  \"score\": 1,\n  \"reasoning\": \"The model's response is an"
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Bolsonaro had a significantly higher average deforestation rate compared to Lula's third term, providing accurate figures."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

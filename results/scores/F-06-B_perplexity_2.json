@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-B",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly confirms Inquérito 4781 resulted in account blocking orders and names multiple specific platforms (Twitter, Facebook, Instagram, Telegram, WhatsApp) with detailed supporting evidence."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Inquérito 4781 led to account blocking orders on multiple platforms, naming Twitter, Facebook, Instagram, and others, with supporting evidence."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that Inquérito 4781 resulted in account blocking orders and names specific platforms (Twitter, Facebook, Instagram), aligning with the ground truth and key evidence from STF documents and reports."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

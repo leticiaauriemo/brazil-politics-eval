@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly explains that Moraes issued monocratic orders individually, that this is subject to debate and review, and that it had real effects in 2023, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly discusses the individual orders by Moraes and the legal context, but it lacks specific mention of the controversy surrounding the concentration of power and the real effects of these orders."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

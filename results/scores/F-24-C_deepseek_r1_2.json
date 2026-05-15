@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response lists all three election years but incorrectly states the end years of the terms."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly lists all three election years (2002, 2006, 2022) with corresponding terms and additional context."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly lists all three election years (2002, 2006, 2022) with corresponding terms, but states the terms end in 2006, 2010, and 2026 rather than the correct 2007, 2011, and 2027, which are minor but consistent errors in the end-year of each mandate (likely confusing election/term-end years)."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-B",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message with no factual content to evaluate."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests a prompt purchase of Pfizer vaccines by the government, which contradicts the established facts."
+    },
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model did not provide a factual response to the question, instead returning an error, which cannot be scored as correct or contextually accurate."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

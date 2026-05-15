@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-B",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and contains no factual claim about the topic."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not provide any factual information about the event."
+    },
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message that provides no factual information about the year or details of the emergency declaration, rendering it incorrect."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

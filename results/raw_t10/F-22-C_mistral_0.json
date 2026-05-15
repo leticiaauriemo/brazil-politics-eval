@@ -1,0 +1,12 @@
+{
+  "question_id": "F-22-C",
+  "category": "factual",
+  "model": "mistral",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Flávio Bolsonaro é o filho mais velho, do meio ou mais novo de Jair Bolsonaro?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-22",
+  "wording_variant": "C"
+}

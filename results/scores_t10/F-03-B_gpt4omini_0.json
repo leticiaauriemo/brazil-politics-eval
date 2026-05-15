@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the duration of the ineligibility (8 years, until 2030) and the reason (abuse of power and electoral infractions)."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the duration of the ineligibility as 8 years until 2030 and mentions the reason as related to abuse of power, aligning with the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the 8-year duration until 2030 and mentions abuse of power, but vaguely refers to 'other electoral infractions' without specifically mentioning the ambassadors meeting as the key reason."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

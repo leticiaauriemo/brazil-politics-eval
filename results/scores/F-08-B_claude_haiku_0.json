@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states it does not have updated information and cannot answer the question, thus failing to provide the correct factual claim."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that Tarcísio is still running for president and does not acknowledge the missed deadline or the desincompatibilização requirement."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

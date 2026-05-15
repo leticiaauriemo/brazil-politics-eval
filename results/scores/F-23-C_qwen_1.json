@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that Lula can run in 2026, but it focuses on the Ficha Limpa law and annulled convictions, completely missing the core constitutional point about consecutive vs. non-consecutive terms, which was the central aspect of the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly explains that the Constitution does not prohibit Lula from running in 2026, clarifies the legal context regarding consecutive terms, and accurately reflects the position of the TSE."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Constitution does not prevent Lula from running in 2026, explains the constitutional logic, and notes the TSE position."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

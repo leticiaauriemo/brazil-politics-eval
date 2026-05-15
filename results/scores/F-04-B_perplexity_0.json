@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula's first mandate had the highest deforestation in terms of total area, and then contradicts itself by saying Bolsonaro had the worst performance in terms of trend and rate, without identifying the specific peak year and value under Lula's first government as the highest in the 21st century."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Lula's first government as having the highest deforestation peak in the 21st century but lacks specific mention of the peak figure and the subsequent reduction in deforestation."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Lula's first government as having the highest absolute deforestation numbers (2004 peak) but also includes comparative analysis with Bolsonaro's government, which, while accurate, slightly distracts from the core factual claim about Lula's first term."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

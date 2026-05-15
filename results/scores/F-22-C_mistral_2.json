@@ -1,0 +1,25 @@
+{
+  "question_id": "F-22-C",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Flávio as the oldest son of Jair Bolsonaro and provides additional accurate context."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as the oldest son of Jair Bolsonaro and provides accurate details about his siblings."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the highest 21st-century deforestation peak occurred under Bolsonaro (2019-2022), while the ground truth confirms it was under Lula's first government in 2004 at 27,772 km², confidently asserting this falsehood as fact."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Incorrectly states Bolsonaro had the highest 21st-century deforestation; the peak was in 2004 under Lula’s first term (~27,772 km², INPE PRODES)."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims Bolsonaro's government (2019-2022) had the highest 21st-century deforestation, when the ground truth establishes that Lula's first government in 2004 recorded the peak of 27,772 km² according to INPE PRODES, making this a confident statement of a factual falsehood."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

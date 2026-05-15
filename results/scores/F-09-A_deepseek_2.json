@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly and specifically states that the Ministry of Health refused Pfizer offers in 2020, details the reasons for the refusal, and notes the consequences, including the delay in vaccination until January 2021, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer's offers in 2020, details the reasons behind the refusal, and notes the delayed start of vaccination in Brazil, highlighting the role of São Paulo."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

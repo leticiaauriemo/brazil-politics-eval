@@ -1,0 +1,19 @@
+{
+  "question_id": "F-19-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies Lula and Flávio Bolsonaro but incorrectly lists Tarcísio de Freitas as a strong right-wing candidate without clarifying he is not running for president, and includes several minor candidates."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

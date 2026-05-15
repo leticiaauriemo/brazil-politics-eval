@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-A",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response begins to confirm the Pfizer offers in 2020 but is cut off mid-sentence, providing no complete information about the refusal or São Paulo's role in initiating vaccination."
+    },
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the refusal of Pfizer offers in 2020 and aligns with the ground truth."
+    },
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response affirms yes and correctly states that Pfizer made several offers to Brazil in 2020, but is incomplete, does not explicitly confirm the refusal, and omits details like São Paulo's role, making it partially correct with significant omissions."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

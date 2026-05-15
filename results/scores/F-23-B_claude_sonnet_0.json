@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states there is no legal impediment and explains the non-consecutive mandate logic, but it overemphasizes the 'uncertainty' and 'debates' around the Lei da Ficha Limpa and re-election, which are largely settled for Lula's case."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that there is no legal impediment for Lula to run in 2026 and acknowledges the constitutional non-consecutive logic, but it hedges with uncertainties and potential legal debates."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

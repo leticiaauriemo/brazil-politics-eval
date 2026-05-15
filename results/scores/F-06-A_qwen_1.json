@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-A",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Moraes did not issue individual orders for social media suspensions, directly contradicting the ground truth about Inquiry 4781."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Moraes did not issue individual orders for suspensions, despite the ground truth confirming he did so in Inquiry 4781."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

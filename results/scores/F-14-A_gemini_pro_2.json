@@ -1,0 +1,19 @@
+{
+  "question_id": "F-14-A",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Rede Globo receives federal advertising funds, but it omits crucial context about legality, historical practice, and variations across administrations."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

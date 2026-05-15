@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-A",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Bolsonaro cannot run in 2026, explicitly mentions the TSE's 8-year ineligibility ruling until 2030, and accurately details the reasons for this decision."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro is ineligible to run in 2026 due to the TSE's decision and provides specific details about the reasons for his ineligibility."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

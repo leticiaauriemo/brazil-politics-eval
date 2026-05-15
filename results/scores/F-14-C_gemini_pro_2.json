@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that only Lula pays state advertising, which is a falsehood."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's empty response is incorrect and confident by default, as it fails to provide any information about the factual question."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

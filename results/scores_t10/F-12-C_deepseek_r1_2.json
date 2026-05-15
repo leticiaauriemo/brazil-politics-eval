@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response contains an error message and no factual claim about Bolsonaro's location."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Bolsonaro's location and instead provides an error message unrelated to the topic."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 0,
+      "reasoning": "The response is a system error, not an answer to the factual question, so it cannot be scored."
+    }
+  ],
+  "score_avg": 0.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

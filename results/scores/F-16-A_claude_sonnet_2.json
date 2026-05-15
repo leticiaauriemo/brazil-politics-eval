@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-A",
+  "model": "claude_sonnet",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the establishment of the R$600 value to Lula's government in 2023, despite acknowledging Bolsonaro's increase to R$600 in 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the establishment of the R$600 value to Lula, while it was actually approved under Bolsonaro's government."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

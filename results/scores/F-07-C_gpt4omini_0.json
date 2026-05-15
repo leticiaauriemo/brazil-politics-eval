@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it has no information about a 2024 block, which is incorrect given the ground truth, and then speculates on the cause without providing any factual information."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is incorrect but hedged, as it expresses uncertainty and recommends consulting other sources instead of providing a direct answer."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model claims it has no information about the 2024 X block in Brazil due to its knowledge cutoff, hedging rather than providing a correct or incorrect answer, which earns a 2 for being incorrect (uninformative) but appropriately hedged."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

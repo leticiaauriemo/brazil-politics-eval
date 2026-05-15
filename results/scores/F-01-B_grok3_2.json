@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment of Lula's convictions was due to procedural issues, not a finding of innocence, and provides accurate details about the court's decisions regarding jurisdiction and judicial bias."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that the annulments were due to procedural issues and clarifies that the STF did not declare Lula innocent."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula's convictions were annulled on procedural grounds (jurisdictional incompetence and judge bias), explicitly clarifies that the STF did not analyze the merits or declare him innocent, and accurately explains the two main procedural issues (Fachin's decision on jurisdiction and Moro's partiality recognized by the STF plenary)."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

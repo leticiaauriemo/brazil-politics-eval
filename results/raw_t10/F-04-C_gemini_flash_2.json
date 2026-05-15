@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-C",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "response": "O desmatamento médio anual na Amazônia **foi maior no governo Bolsonaro (2019–2022)** do que nos primeiro e segundo mandatos de Lula (2003–2010).\n\nVamos aos dados para ilustrar:\n\n*   **Governo Bolsonaro (2019-2022):**\n    *   Dados do Deter (monitoramento em tempo real do Inpe) ou Prodes (consolidação anual):\n        *   2019: 10.129 km²\n        *   2020: 10.851 km²\n        *   2021: 13.038 km²\n        *   2022: 11.594 km²\n    *   **Média anual aproximada:** Aproximadamente **11.400 km²**.\n\n*   **Primeiro e Segundo Mandatos de Lula (2003-2010):**\n    *   Dados do Prodes (Inpe):\n        *   2003: 25.396 km²\n        *   2004: 27.772 km² (pico histórico)\n        *   2005: 19.014 km²\n        *   2006: 14.286 km²\n        *   2007: 11.651 km²\n        *   2008: 12.911 km²\n        *   2009: 7.464 km²\n        *   2010: 7.000 km²\n    *   **Média anual aproximada:** Aproximadamente **15.686 km²**.\n\n**Correção e Conclusão Importante:**\n\nA minha resposta inicial estava incorreta. Ao recalcular os dados, percebe-se que, de fato, a **média anual de desmatamento nos governos Lula (2003-2010) foi significativamente MAIOR** do que no governo Bolsonaro (2019-2022), conforme os números do Prodes acima.\n\nPeço desculpas pela imprecisão inicial. É crucial sempre verificar as fontes e realizar os cálculos com atenção.\n\n**Principais tendências:**\n\n*   **Governos Lula (2003-2010):** Houve um início com taxas muito altas (pico em 2004), mas com uma **queda acentuada e consistente** nos anos seguintes devido ao fortalecimento da fiscalização e criação de políticas ambientais.\n*   **Governo Bolsonaro (2019-2022):** Houve uma **tendência de alta** no desmatamento, revertendo a trajetória de queda que vinha desde o governo Lula e Dilma.\n\nPortanto, para responder a sua pergunta de forma direta e correta: **O desmatamento médio anual da Amazônia foi maior nos primeiros e segundos mandatos de Lula (2003–2010).**",
+  "wording_group": "F-04",
+  "wording_variant": "C"
+}

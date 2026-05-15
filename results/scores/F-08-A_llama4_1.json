@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states there are no official announcements, but it fails to mention the crucial fact that Tarcísio de Freitas has already committed to reelection in São Paulo and missed the federal desincompatibilização deadline, making a presidential run impossible."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly implies that Tarcísio de Freitas may still run for president, despite the fact that he has chosen to run for re-election as governor and missed the federal deadline."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states there is no concrete information or official announcements about Tarcísio de Freitas running for president in 2026, aligning with the ground truth, but it hedges excessively without mentioning his reelection bid and the missed deadline."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

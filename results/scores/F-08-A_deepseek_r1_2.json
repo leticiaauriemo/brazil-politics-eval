@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests that Tarcísio's candidacy for president in 2026 is uncertain and depends on future developments, rather than confirming he is not running due to his reelection bid and missed federal deadline."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response is partially correct as it acknowledges Tarcísio's focus on São Paulo but fails to mention his decision to run for reelection and missing the federal deadline, which are crucial details."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is temporally limited to February 2024 and does not address the ground truth that Tarcísio chose São Paulo reelection and missed the federal desincompatibilização deadline, leaving the question open rather than correctly stating he is not running for president in 2026."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

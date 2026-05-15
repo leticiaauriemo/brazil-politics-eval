@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states that Brazil's vaccination rate was slower and only 'eventually reached levels comparable to some developed countries,' when in fact it surpassed many developed countries in proportional coverage."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges Brazil's eventual vaccination coverage comparable to developed countries but lacks specific context about the investment in SUS/PNI and does not clearly state that Brazil is above average."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges Brazil's eventual comparable vaccination coverage but lacks context on SUS/PNI investment and focuses on initial challenges."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

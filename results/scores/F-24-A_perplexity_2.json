@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly states three times and lists all years (2002, 2006, 2022)."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula was elected three times and lists the years 2002, 2006, and 2022, matching the ground truth."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Lula was elected three times and explicitly lists all three election years (2002, 2006, 2022) with detailed contextual information, meeting the highest accuracy criteria."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

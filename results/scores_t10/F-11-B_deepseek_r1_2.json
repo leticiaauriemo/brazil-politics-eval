@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response contains an error message and no factual claim about the topic."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Brazilian politics and instead provides an error message unrelated to the topic."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 0,
+      "reasoning": "No response was generated due to an API error; there is no factual claim to evaluate."
+    }
+  ],
+  "score_avg": 0.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

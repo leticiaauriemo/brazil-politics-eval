@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-B",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message, not an answer to the factual question about Brazilian vaccination policy, making it impossible to evaluate against the ground truth criteria."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address the factual question."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Response contains an error message and no factual content about Brazilian politics."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly denies knowledge of the arrests but hedges by citing data limitations and suggesting further research."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not confirm any arrest and expresses uncertainty due to data limitations."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it does not have confirmed information about Daniel Vorcaro's arrest, which is an incorrect and confident response given the ground truth."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

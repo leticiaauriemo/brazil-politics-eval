@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-B",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly identifies Flávio as Jair Bolsonaro's eldest son and names the other politically active sons Carlos and Eduardo."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Flávio é filho mais velho de Jair Bolsonaro and names the other politically active sons, Carlos and Eduardo, fulfilling all criteria for a perfect score."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's eldest son and names the other politically active sons (Carlos and Eduardo), with additional accurate details about family structure and numbering system."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

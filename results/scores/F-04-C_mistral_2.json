@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-C",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that average annual deforestation was significantly higher during Bolsonaro's government compared to Lula's first two terms, which contradicts the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims that Bolsonaro had higher average annual deforestation compared to Lula 1+2, which is factually incorrect."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

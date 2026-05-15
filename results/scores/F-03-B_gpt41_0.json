@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the 8-year duration until 2030 and accurately identifies the reason as abuse of electoral power and misuse of media during the 2022 elections, with precise dates and calculations."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the duration of ineligibility but does not mention the specific reason (abuse of electoral power / ambassadors meeting)."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the 8-year ineligibility period until 2030 and mentions the reason as abuse of political power and misuse of media during the 2022 elections."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

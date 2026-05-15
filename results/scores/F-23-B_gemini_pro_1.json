@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-B",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states there is no legal impediment but provides no context about the constitutional non-consecutive logic or the unapproved PEC."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states there is no legal impediment but lacks context about the constitutional logic and the status of the PEC."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states no legal impediment exists, aligns with the constitutional non-consecutive logic, and notes the PEC was not approved by May 2024."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": false
+}

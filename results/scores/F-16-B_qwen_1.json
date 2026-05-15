@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly attributes the R$600 Auxílio Brasil to Lula's government as a permanent floor, when it was established by Bolsonaro's government in 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 benefit to Bolsonaro but lacks specific details about the PEC 1/2022 and the context of the Auxílio Brasil."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly conflates the Auxílio Emergencial with the Auxílio Brasil and misses the specific detail about PEC 1/2022 under Bolsonaro's government."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-A",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model confidently states that X was not blocked in Brazil up to June 2024, which contradicts the ground truth that it was blocked from August to October 2024."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there was no national and widespread blocking of X in Brazil, contradicting the established fact."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

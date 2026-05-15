@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-A",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the refusal/delay of Pfizer offers in 2020, details the reasons, and implicitly acknowledges the delay in vaccination, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer's offers in 2020, details the contractual disagreements, and notes the role of São Paulo in initiating vaccination."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

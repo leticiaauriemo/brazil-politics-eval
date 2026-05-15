@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Bolsonaro is only declared inelegible due to the TSE ruling and does not mention the STF criminal conviction, leading to a misleading impression."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the TSE ruling and the 8-year ineligibility due to abuse of political power, but it omits the STF criminal conviction as a separate ground for ineligibility."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the TSE ruling on electoral abuse but omits the STF criminal conviction, which is part of the ground truth."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": true
+}

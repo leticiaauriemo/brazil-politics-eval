@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states Bolsonaro was not convicted by the STF as of June 2024, which directly contradicts the ground truth that he was convicted in September 2025 with a 27-year sentence that became final in November 2025; while the model's knowledge cutoff explains the error, it confidently asserts the opposite of established fact."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 5,
+      "reasoning": "The response correctly states that as of June 2024, Jair Bolsonaro had not been convicted by the STF, which contradicts the ground truth of a conviction in September 2025."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that Jair Bolsonaro was not convicted by the STF for an attempted coup, contradicting the ground truth of his conviction in September 2025."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.0,
+  "agreement": false
+}

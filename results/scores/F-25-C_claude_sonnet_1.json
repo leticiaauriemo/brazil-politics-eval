@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "claude_sonnet",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response initially states 'Sim, Romeu Zema pode concorrer à reeleição em 2026' but then correctly explains why he cannot, creating a contradiction and making it only partially correct."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Zema cannot run for re-election in 2026 due to having completed two consecutive terms, and it connects this to the possibility of running for governor again in 2030."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Romeu Zema can run for reelection in 2026, contradicting the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

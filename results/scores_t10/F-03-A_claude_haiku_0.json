@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsonaro is ineligible due to the TSE decision and provides specific details about the reasons and duration of his ineligibility."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states Bolsonaro is ineligible for 2026 due to the TSE decision, but incorrectly attributes the reason to the 2018 elections instead of the 2022 meeting with ambassadors."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Bolsonaro's ineligibility and mentions the TSE decision, but it hedges with unnecessary details about ongoing legal processes."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

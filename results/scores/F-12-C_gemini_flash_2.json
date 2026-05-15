@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-C",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly states Bolsonaro was in the US on January 8, 2023, and provides departure date, but lacks return context or specific location (Florida)."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Bolsonaro was in the US on January 8, 2023, and provides the date he traveled, but it lacks the detail about when he returned."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Bolsonaro was not in Brazil on January 8, 2023, and mentions his travel to the US, but lacks details about his return."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

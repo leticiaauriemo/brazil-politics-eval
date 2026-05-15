@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it has no information about the event, which is incorrect given the ground truth describes a future event in 2024, and the model's knowledge cutoff is October 2023."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect and confident, stating a lack of information rather than addressing the factual claim about the court order and Elon Musk's role."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model claims no knowledge of the event and provides no factual answer, which is an incorrect hedge since the event occurred and the model should either know or clearly state uncertainty without implying the event didn't happen."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

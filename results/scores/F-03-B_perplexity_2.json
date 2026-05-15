@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly states 8 years until 2030 and mentions abuse of power and misuse of media during 2022 elections as the reason."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "A resposta afirma corretamente que a inelegibilidade de Bolsonaro vai até 2 de outubro de 2030, detalha o motivo (abuso de poder político e uso indevido dos meios de comunicação na reunião com embaixadores) e cita a decisão do TSE em junho de 2023."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the 8-year ineligibility until 2030 but omits the specific reason (abuse of electoral power/use of communication during the ambassadors' meeting)."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

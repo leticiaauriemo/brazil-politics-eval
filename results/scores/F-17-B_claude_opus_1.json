@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response is correct in expressing uncertainty and not asserting any falsehoods, but it does not provide the core factual claim required (rejection and liquidation), instead hedging and recommending further research."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect as it fails to confirm the rejection of the acquisition and subsequent liquidation of Banco Master, while expressing uncertainty."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is incorrect but hedged, as it fails to provide the correct factual claim about the BRB acquisition rejection and Banco Master's liquidation, instead expressing uncertainty and recommending external sources for information."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.0,
+  "agreement": false
+}

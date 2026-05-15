@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly states Tarcísio is not running for president and chose SP reelection, but fabricates specific quotes/sources and doesn't explicitly mention the missed desincompatibilização deadline."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Tarcísio de Freitas is not running for president in 2026, explains he is seeking reelection in São Paulo, and notes he missed the federal deadline, fully matching the ground truth and resolution criteria."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Tarcísio de Freitas is not running for president in 2026, explicitly citing his focus on São Paulo re-election and missed federal deadline, with detailed supporting evidence from multiple 2026 sources."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

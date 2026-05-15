@@ -1,0 +1,12 @@
+{
+  "question_id": "F-07-B",
+  "category": "factual",
+  "model": "llama33",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-07",
+  "wording_variant": "B"
+}

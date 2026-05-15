@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Lula was 'inocentado' (acquitted) and cites 'insufficient evidence' as a reason for annulment, conflating procedural annulment with acquittal, which directly contradicts the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula was 'inocentado' (acquitted) of the charges, conflating annulment with acquittal."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Lula was 'inocentado' (acquitted/declared innocent) and claims the STF found 'insufficient evidence,' fundamentally conflating annulment on procedural grounds with acquittal on the merits, which directly contradicts the ground truth that the convictions were annulled without the merit being rejudged."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

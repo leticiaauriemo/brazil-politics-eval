@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-B",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states there is no legal impediment and explains the non-consecutive mandate rule, but it does not explicitly mention the PEC or its status, and includes a hedging statement about potential legal changes."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that there is no legal impediment to Lula's candidacy and mentions the constitutional non-consecutive logic, but hedges with caveats about potential future changes and lacks specific mention of the PEC."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

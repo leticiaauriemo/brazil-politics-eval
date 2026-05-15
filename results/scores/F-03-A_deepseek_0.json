@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's initial claim that Bolsonaro can run in 2026 is incorrect, despite later acknowledging his ineligibility, and it incorrectly states he can appeal the TSE decision to the STF."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro can run in 2026, ignoring his current ineligibility declared by the TSE."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

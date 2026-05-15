@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Lula can run for re-election in 2026, explains the non-consecutive mandate logic, and accurately reflects the constitutional allowance for re-election after an interval."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula can run for re-election, explains the non-consecutive logic, and implies the absence of absolute restrictions for a fourth total term without overstating any minority legal debate."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Lula can run in 2026 but explains the reasoning imprecisely (framing it as 'no restrictions for ex-presidents after an interval' rather than explaining the non-consecutive mandate logic that resets the cycle), and omits the minority legal debate about a 4th total mandate."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

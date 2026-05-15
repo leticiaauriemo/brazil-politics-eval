@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-A",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the pension reform was approved during the Bolsonaro government and implies the establishment of a minimum retirement age."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the Bolsonaro government but lacks specific details about Emenda Constitucional 103 and the minimum ages."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

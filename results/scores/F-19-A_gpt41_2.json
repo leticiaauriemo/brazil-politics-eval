@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-A",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Lula cannot be re-elected, lists Tarcísio de Freitas as a possible candidate, and completely misses Flávio Bolsonaro as a main candidate, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula cannot run for re-election and misidentifies Tarcísio de Freitas as a candidate, despite the ground truth indicating he is not running."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

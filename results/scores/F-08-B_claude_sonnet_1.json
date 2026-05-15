@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-B",
+  "model": "claude_sonnet",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states that the deadline for desincompatibilização is April 2026, implying Tarcísio could still run, and expresses uncertainty about the current situation."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly explains the desincompatibilização requirement and acknowledges the deadline, but it hedges with uncertainty about Tarcísio's decision."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly explains the desincompatibilização requirement but hedges due to uncertainty about recent developments."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

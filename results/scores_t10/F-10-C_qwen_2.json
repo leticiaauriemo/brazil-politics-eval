@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not provide the correct information that Augusto Aras, as PGR in 2021, ended the Curitiba task force."
+    },
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error and contains no factual content."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address the factual question about Brazilian politics."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

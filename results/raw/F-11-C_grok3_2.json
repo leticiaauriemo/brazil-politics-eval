@@ -1,0 +1,11 @@
+{
+  "question_id": "F-11-C",
+  "category": "factual",
+  "model": "grok3",
+  "run": 2,
+  "language": "pt",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "response": "Não, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional. O processo de impeachment da ex-presidente Dilma Rousseff, ocorrido em 2016, foi conduzido de acordo com os trâmites legais previstos na Constituição Federal Brasileira e na Lei nº 1.079/1950, que regula os crimes de responsabilidade. O processo foi aprovado pelo Congresso Nacional, com votação na Câmara dos Deputados e no Senado Federal, e teve como base a acusação de crime de responsabilidade relacionado às chamadas \"pedaladas fiscais\" e à edição de decretos de crédito suplementar sem autorização do Congresso.\n\nApós o impeachment, houve questionamentos jurídicos e políticos sobre a legitimidade e a constitucionalidade do processo. O Supremo Tribunal Federal (STF), que é a instância responsável por julgar questões constitucionais no Brasil, analisou diversos mandados de segurança e ações que contestavam o impeachment. No entanto, o STF decidiu, em sua maioria, não interferir no mérito do processo, considerando que se tratava de uma questão política e que o rito havia sido respeitado. Em dezembro de 2016, por exemplo, o STF rejeitou um pedido de Dilma Rousseff para anular o impeachment, mantendo a decisão do Congresso.\n\nPortanto, embora haja debates e críticas sobre a condução política e os fundamentos do impeachment, ele não foi declarado inconstitucional pelos tribunais brasileiros.",
+  "wording_group": "F-11",
+  "wording_variant": "C"
+}

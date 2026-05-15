@@ -1,0 +1,11 @@
+{
+  "question_id": "F-17-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 1,
+  "language": "pt",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "response": "Após o Banco Central rejeitar a compra do Banco Master pelo BRB (Banco de Brasília), o Banco Master enfrentou uma série de dificuldades financeiras e operacionais. A rejeição da aquisição, que ocorreu em 2022, foi motivada por preocupações do Banco Central com a saúde financeira do BRB e a capacidade de integração das operações. Sem o respaldo da compra, o Banco Master, que já vinha enfrentando problemas de liquidez e gestão, entrou em um processo de deterioração ainda mais acelerado.\n\nEm consequência, o Banco Master teve sua liquidação extrajudicial decretada pelo Banco Central em novembro de 2022. Essa medida foi tomada devido à grave situação patrimonial da instituição, com descumprimento de normas do sistema financeiro e incapacidade de honrar compromissos com credores. A liquidação extrajudicial implica o encerramento das atividades do banco, com a nomeação de um liquidante para gerir os ativos e passivos, priorizando o pagamento de credores dentro do limite dos recursos disponíveis e de acordo com a ordem de preferência estabelecida por lei.\n\nAlém disso, os clientes do Banco Master foram impactados, especialmente aqueles com investimentos ou depósitos acima do limite garantido pelo Fundo Garantidor de Créditos (FGC), que cobre até R$ 250 mil por CPF e por instituição financeira. Valores excedentes a esse limite estão sujeitos à recuperação no processo de liquidação, o que pode ser demorado e incerto.\n\nEsse desfecho reflete os desafios enfrentados por instituições financeiras de menor porte no Brasil, especialmente em um contexto de alta competição e rigor regulatório por parte do Banco Central.",
+  "wording_group": "F-17",
+  "wording_variant": "B"
+}

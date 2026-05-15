@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-A",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that there are no official candidates and does not accurately identify the main candidates or clarify that Tarcísio de Freitas is not running."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not provide the main candidates' names and instead focuses on the preliminary nature of the election scenario, expressing uncertainty without directly addressing the factual question."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

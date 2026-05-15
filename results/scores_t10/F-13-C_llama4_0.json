@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response was an error message, not an answer to the question, making it factually incorrect."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that EC 103 was promulgated in 2019 during Bolsonaro's government and accurately describes it as the most comprehensive pension reform in Brazilian history."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Brazilian politics due to an unrelated error message."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

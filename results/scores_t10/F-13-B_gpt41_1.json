@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response was not provided, so it cannot be scored against the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the pension reform to the Bolsonaro government in 2019 and notes it was the first to establish minimum retirement ages."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not provide any factual information about Brazilian politics."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

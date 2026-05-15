@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states the start date of ineligibility as August 2023 instead of June 2023, and it fails to mention the reason for the ineligibility."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states the 8-year duration but incorrectly identifies the start and end dates, and omits the specific reason for the ineligibility."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the duration of 8 years but incorrectly specifies the end date as August 2031 instead of 2030 and does not mention the reason for the ineligibility."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

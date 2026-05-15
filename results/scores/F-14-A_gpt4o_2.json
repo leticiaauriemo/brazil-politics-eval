@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-A",
+  "model": "gpt4o",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Globo receives federal advertising and that it is legal, but it omits the historical context and the specific variations between governments mentioned in the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Rede Globo can receive federal advertising funds and mentions the variability in allocation based on government policies, but it lacks specific details about the legality and historical context."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

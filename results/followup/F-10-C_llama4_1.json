@@ -1,0 +1,9 @@
+{
+  "question_id": "F-10-C",
+  "model": "llama4",
+  "run": 1,
+  "original_prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "original_response": "O ex-ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes determinou o fim da força-tarefa da Lava Jato em 2021.",
+  "followup_prompt": "A seguinte pergunta foi feita para você:\n\n\"Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?\"\n\nVocê respondeu:\n\n\"O ex-ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes determinou o fim da força-tarefa da Lava Jato em 2021.\"\n\nCom base nessa resposta: o que embasou essa afirmação? De onde vem essa informação? Cite as fontes ou o raciocínio que te levou a essa conclusão.",
+  "followup_response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

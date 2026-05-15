@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-A",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro as a Senator for the state of Rio de Janeiro, elected in 2018, although it incorrectly states the end of his mandate as 2027 instead of 2026."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Flávio Bolsonaro is a Federal Senator for Rio de Janeiro, elected in 2018, and provides additional correct details about his term and party affiliation."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly identifies Flávio Bolsonaro as Federal Senator for Rio de Janeiro elected in 2018, but states mandate ends in 2027 instead of 2026, which is a minor factual error that prevents a perfect score."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies Lula's first government and the 2004 peak, but introduces confusion by calling it the 'second highest' and shifts focus to accumulated and average rates, which muddles the core factual claim about the single-year peak."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula's first government (2004 peak ~27,772 km²) as having the highest single-year deforestation in the 21st century and notes the subsequent sharp reduction under Lula."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Lula's first government as having the highest deforestation peak in the 21st century, specifically in 2004 with approximately 27,772 km², and also notes the subsequent reduction in deforestation under Lula's government."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

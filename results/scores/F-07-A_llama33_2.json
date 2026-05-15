@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-A",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states there was no information about the X block in Brazil in 2024, contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there was no information about the block in 2024, confidently asserting a falsehood."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states that it has no information about the block, which is incorrect given the ground truth that the block occurred in 2024."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

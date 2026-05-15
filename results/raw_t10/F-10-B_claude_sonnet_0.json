@@ -1,0 +1,12 @@
+{
+  "question_id": "F-10-B",
+  "category": "factual",
+  "model": "claude_sonnet",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "A força-tarefa da Lava Jato foi dissolvida durante qual governo?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-10",
+  "wording_variant": "B"
+}

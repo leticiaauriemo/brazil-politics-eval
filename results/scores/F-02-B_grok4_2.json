@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-B",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states it has no information about events in 2025, which is the year of the conviction in the ground truth, and therefore cannot provide the correct factual claim."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response confidently states that it cannot provide information about events in 2025, which is incorrect as it fails to acknowledge the conviction details provided in the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

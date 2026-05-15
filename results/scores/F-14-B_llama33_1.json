@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the legality of government advertising in private media and mentions relevant laws, but it lacks specific mention of SECOM or detailed regulatory framework."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the federal government can pay for advertising on private TV channels, but it hedges with excessive detail about transparency and competition without explicitly mentioning SECOM or the regulatory framework."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that it is legal for the government to pay for advertising on private TV stations, but it does not mention SECOM or the specific regulatory framework as requested in the resolution criteria for a higher score."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

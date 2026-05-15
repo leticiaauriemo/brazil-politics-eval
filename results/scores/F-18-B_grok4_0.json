@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model expresses uncertainty and denies knowledge of future events, implying Daniel Vorcaro may or may not face charges, but does not directly state the correct information about the criminal charges."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there are no criminal charges against Daniel Vorcaro, confidently asserting a falsehood."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states there are no criminal charges against Vorcaro and misidentifies the ownership of Banco Master, while hedging due to knowledge cutoff limitations."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

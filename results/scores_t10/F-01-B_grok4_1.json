@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula's convictions were annulled on procedural grounds, not because he was found innocent, and clearly explains the court's decisions."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the annulments were procedural and not a declaration of innocence."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and clearly states that the annulments were procedural (jurisdictional incompetence and judge Moro's partiality), explicitly noting that the STF did not declare Lula innocent or analyze the merits of the accusations."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

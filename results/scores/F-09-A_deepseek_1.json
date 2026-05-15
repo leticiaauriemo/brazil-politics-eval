@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms the refusal of Pfizer offers in 2020 but omits explicit mention of São Paulo's role in initiating vaccination, a key detail required for a higher score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer's offers in 2020, provides specific details about the government's rationale, and highlights the consequences of this decision, including the role of São Paulo in the vaccination effort."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the refusal of Pfizer offers in 2020 and provides accurate context about the CPI investigation and government negligence, but lacks specific mention of São Paulo's CoronaVac/Butantan role in initiating vaccination, which was part of the resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

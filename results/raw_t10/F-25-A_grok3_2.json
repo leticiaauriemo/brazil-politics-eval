@@ -1,0 +1,12 @@
+{
+  "question_id": "F-25-A",
+  "category": "factual",
+  "model": "grok3",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Romeu Zema é governador de qual estado?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-25",
+  "wording_variant": "A"
+}

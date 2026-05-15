@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-B",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies 'pedaladas fiscais' as the reason for impeachment, explains what they were, clarifies that it was not for personal corruption, and notes the political context without conflating it with the formal charges."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains the concept of 'pedaladas fiscais' as violations of fiscal responsibility, clarifies that the impeachment was not based on personal corruption, and provides specific details about the context and consequences."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

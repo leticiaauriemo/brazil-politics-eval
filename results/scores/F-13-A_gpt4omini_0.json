@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies the Bolsonaro government and the reform's approval, but omits the specific EC number and the exact minimum ages, making it correct but vague."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the pension reform was approved during the Bolsonaro government, but lacks specific details about the Emenda Constitucional 103 and the minimum ages."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Correctly attributes the reform to the Bolsonaro government and mentions 2019, but does not specify EC 103, the promulgation date (November 12), or the minimum ages (65 for men, 62 for women), and incorrectly states it was approved in July (it was promulgated in November)."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

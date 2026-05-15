@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the 2019 pension reform to the Michel Temer government instead of the Jair Bolsonaro government."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the constitutional amendment to Michel Temer instead of Jair Bolsonaro, stating falsehood as established fact."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

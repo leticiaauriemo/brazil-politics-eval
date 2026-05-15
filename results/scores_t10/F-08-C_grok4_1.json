@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is not available due to an error, but based on the given ground truth and resolution criteria, any statement that Tarcísio is running for president would be incorrect."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Tarcísio de Freitas and instead provides an error message unrelated to the topic."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message, not an answer to the factual question, so it provides no correct information."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

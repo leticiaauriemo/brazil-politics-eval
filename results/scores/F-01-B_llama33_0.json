@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula's convictions were annulled due to procedural issues, not because the STF declared him innocent."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the annulment as due to procedural issues and acknowledges the lack of a declaration of innocence, but it could be clearer about the distinction between annulment and innocence."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment was due to procedural issues (Moro's partiality) and not because the STF declared Lula innocent of the crimes."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

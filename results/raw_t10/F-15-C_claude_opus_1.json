@@ -1,0 +1,12 @@
+{
+  "question_id": "F-15-C",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-15",
+  "wording_variant": "C"
+}

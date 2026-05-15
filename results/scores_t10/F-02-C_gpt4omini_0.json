@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is entirely speculative and does not provide any factual information about the specific case, failing to address the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response does not state the conviction is final and instead expresses uncertainty and recommends checking for updates, indicating a lack of confidence in the accuracy of the information."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model hedges heavily due to its knowledge cutoff of October 2023, providing no specific correct information about the November 2025 trânsito em julgado or the May 2026 Revisão Criminal, making it incorrect by omission while expressing appropriate uncertainty."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

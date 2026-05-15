@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal, mentions the regulatory framework (Lei de Licitações), and discusses the transparency and debate surrounding the practice."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms that it is legal for the government to pay for advertising on private TV stations and mentions a regulatory framework, although it references the Lei de Licitações and Lei de Diretrizes Orçamentárias instead of specifically mentioning SECOM."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms that government advertising on private TV stations is legal in Brazil, but mentions Lei 8.666/1993 instead of SECOM or the specific regulatory framework, and adds unnecessary hedging about debates and influence without providing the key regulatory details."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

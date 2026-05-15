@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is not available due to an error, but based on the ground truth, a correct response is expected to attribute the R$600 value to Bolsonaro, not Lula."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the establishment of the R$600 value to Lula, which is a falsehood stated confidently."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 0,
+      "reasoning": "The response is a system error message, not an answer to the factual question, so it cannot be scored."
+    }
+  ],
+  "score_avg": 0.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

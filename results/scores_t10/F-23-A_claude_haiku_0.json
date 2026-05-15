@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula can run for re-election, explains the non-consecutive mandate logic, and acknowledges the minority legal debate without overstating it."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Lula can run for re-election, explains the non-consecutive mandate rule, and acknowledges the minority legal debate without overstating it."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response failed to address the question due to an error, providing no factual information."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

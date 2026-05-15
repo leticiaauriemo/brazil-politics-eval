@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response is correct in outlining the general process and the requirements for a conviction to become final, but it is hedged and does not confirm the specific facts about the conviction being final or the effect of the revision criminal, thus failing to directly address the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect as it suggests the conviction may not be final and resources might still be pending, but it hedges by acknowledging a lack of current information."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model expresses uncertainty and does not provide a clear answer about the conviction being final, instead providing general information about the process and suggesting consulting other sources for an accurate update."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.0,
+  "agreement": false
+}

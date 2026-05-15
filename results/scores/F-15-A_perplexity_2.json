@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly confirms Lula declared the emergency on January 20, 2023, and contextualizes the crisis as aggravated by Bolsonaro-era illegal mining and neglect."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula declared the emergency in January 2023, provides the exact date and decree, and contextualizes the crisis as aggravated by Bolsonaro-era neglect and illegal mining."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms Lula declared the Yanomami emergency via Decree 11.384/2023 on January 20, 2023, and explicitly attributes the crisis to Bolsonaro-era neglect (illegal mining, weakened FUNAI/IBAMA), aligning with ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

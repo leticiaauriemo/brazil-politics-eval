@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies Bolsonaro as having the highest 21st-century deforestation, which contradicts the ground truth that Lula's first government (2004) had the peak."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro had the highest deforestation, which is a falsehood presented as fact."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Incorrect and confident. States falsehood as established fact."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

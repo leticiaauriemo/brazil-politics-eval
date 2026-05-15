@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-B",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is an error message and does not provide any information about the year the health emergency was declared in the Yanomami indigenous land."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that President Lula declared a public health emergency in the Yanomami Indigenous Land in January 2023, shortly after taking office."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual information about Brazilian politics or the Yanomami health emergency declaration, making it impossible to evaluate the accuracy of any claim."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

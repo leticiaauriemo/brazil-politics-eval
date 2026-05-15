@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states the 8-year duration and end date but omits the specific reason for the ineligibility."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the duration of ineligibility as 8 years until 2030 and correctly identifies the reason related to abuse of electoral power during a meeting with foreign ambassadors."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

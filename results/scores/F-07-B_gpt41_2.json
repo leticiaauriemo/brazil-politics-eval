@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model claims no official suspension occurred until June 2024 and declines to confirm the actual August-September 2024 suspension, failing to address the factual event and its documented causes (non-compliance with court orders and lack of legal representative)."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states there were no records of X's suspension in Brazil by June 2024, contradicting the ground truth of events in August to October 2024."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect as it fails to acknowledge the actual suspension of X in Brazil between August and October 2024, though it hedges by noting the lack of information up to June 2024."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

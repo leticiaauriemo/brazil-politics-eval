@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states the date as May 2021 instead of February 2021, but correctly attributes the decision to Augusto Aras."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies Augusto Aras as the PGR responsible for ending the Lava Jato task force and the year 2021, but the month is incorrect (May instead of February)."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly names Augusto Aras as the Procurador-Geral da República and specifies the correct timeframe (2021) for the dissolution of the Lava Jato task force."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-B",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the inquiry resulted in account blocking orders and names specific platforms like Twitter, Facebook, Instagram, and YouTube."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the inquiry's result in account blocking orders and specifies the platforms involved."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms the inquiry resulted in account blocking orders and names specific platforms."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

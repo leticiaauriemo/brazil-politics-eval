@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "It incorrectly claims no conviction and that 2025 hadn’t occurred, contradicting the Sept 2025 STF sentence of 27 years and 3 months in closed regime."
+    },
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model denies knowledge of the conviction and fails to provide the sentence."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model denies knowledge of the conviction and provides incorrect information about the timeline and events."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "gpt4o",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Brazil surpassed the US in double-dose vaccination, but it lacks specific data and details about the reasons for this success, as provided in the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Brazil surpassed the US in vaccination rates but lacks specific data and does not mention the role of SUS/PNI."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

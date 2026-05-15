@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is an error message and does not address the factual question about Brazilian politics."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains the constitutional provision regarding consecutive mandates and correctly notes that Lula is eligible to run in 2026 according to the TSE."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message that provides no factual content about Brazilian politics, constitutional law, or Lula's eligibility, making it impossible to evaluate against the ground truth."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

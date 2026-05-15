@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-C",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Tarcísio de Freitas is running for mayor of São Paulo in 2024 and claims there's no information about his 2026 presidential intentions, directly contradicting the ground truth that he chose to run for re-election as governor in 2026 and missed the federal candidacy deadline."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas is running for mayor instead of addressing his choice to run for reelection as governor and missing the federal candidacy deadline."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

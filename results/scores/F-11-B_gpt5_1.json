@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-B",
+  "model": "gpt5",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies 'pedaladas fiscais' and the issuance of supplementary credit decrees as the formal reasons for Dilma Rousseff's impeachment, linking them to violations of the Fiscal Responsibility Law, and implicitly clarifies it was not for personal corruption."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Dilma Rousseff was removed for crimes related to 'pedaladas fiscais' and correctly identifies them as violations of the Fiscal Responsibility Law."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

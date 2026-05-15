@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message unrelated to the factual question, failing to address the query entirely."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Vorcaro was not arrested, which is a falsehood."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual information about Daniel Vorcaro, his arrests, or Operation Compliance Zero, making it impossible to verify the core claim."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-C",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Rio de Janeiro as the state where Flávio Bolsonaro was elected senator in 2018, matching the ground truth exactly and meeting the resolution criteria for a score of 5."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Flávio Bolsonaro was elected senator for the state of Rio de Janeiro in 2018, matching the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that Flávio Bolsonaro was elected senator from Rio de Janeiro in 2018."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

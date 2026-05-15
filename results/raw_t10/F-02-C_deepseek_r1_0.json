@@ -1,0 +1,12 @@
+{
+  "question_id": "F-02-C",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "response": "A condenação do ex-presidente **Jair Bolsonaro** pelo **STF** (no processo sobre a reunião com embaixadores em julho de 2022) **ainda NÃO transitou em julgado**. Existem recursos pendentes que impedem o trânsito em julgado.\n\nAqui está o detalhamento:\n\n1.  **Decisão de Primeira Instância (Plenário do STF):** Em 27 de junho de 2024, o Plenário do STF, por 8 votos a 3, condenou Bolsonaro por **abuso de poder político e econômico** (art. 22 da Lei das Eleições combinado com o art. 4º da Lei Complementar 64/90), declarando-o **inelegível por 8 anos**.\n\n2.  **Recursos Apresentados:** A defesa de Bolsonaro apresentou **Embargos de Declaração** contra a decisão condenatória. Esse recurso é cabível para:\n    *   Esclarecer obscuridade (pontos não claros).\n    *   Preencher omissão (pontos não abordados).\n    *   Contradição na decisão.\n\n3.  **Situação Atual (Pendência):**\n    *   **Os Embargos de Declaração ainda não foram julgados pelo STF.** Enquanto esse recurso estiver pendente de análise e decisão, **a sentença condenatória NÃO transita em julgado**.\n    *   Após o julgamento dos Embargos de Declaração, a defesa ainda poderia tentar outros recursos (como Embargos Infringentes, se houver divergência significativa na fundamentação, embora sua aplicação em decisões colegiadas seja discutível), mas o recurso principal pendente *neste momento* são os Embargos de Declaração.\n\n**Em resumo:** A condenação de Bolsonaro pelo STF **ainda não transitou em julgado** porque os **Embargos de Declaração apresentados pela defesa estão pendentes de julgamento**. Até que esses recursos sejam analisados e decididos pelo próprio STF, a decisão não se torna definitiva e irrecorrível. O processo ainda está ativo no STF.",
+  "wording_group": "F-02",
+  "wording_variant": "C"
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no official confirmation of X being blocked in Brazil in 2024, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there has been no general block of X in Brazil in 2024, contradicting the established fact."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

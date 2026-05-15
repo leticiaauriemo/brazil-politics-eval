@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the legality, cites SECOM and the regulatory framework, and provides detailed legal references, fully meeting the resolution criteria."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the legality of government advertising in private media, provides specific legal references, and mentions SECOM's role."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model confirms it is legal and provides detailed information about the regulatory framework, including the role of SECOM and relevant laws."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that the R$600 value was established by Bolsonaro's government as Auxílio Brasil in 2022, and then institutionalized by Lula's government as Bolsa Família in 2023, providing specific details for both."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 value to Bolsonaro's Auxílio Brasil but is somewhat vague about the specifics of the PEC 1/2022."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

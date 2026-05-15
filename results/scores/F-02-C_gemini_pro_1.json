@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Jair Bolsonaro does not have any final criminal conviction, contradicting the established fact."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Jair Bolsonaro does not have a final criminal conviction, contradicting the ground truth that the conviction is final since November 2025."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response incorrectly states Bolsonaro has no final criminal conviction, contradicting the ground truth."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

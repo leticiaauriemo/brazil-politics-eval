@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Tarcísio de Freitas as the strongest right-wing candidate for president, without mentioning Flávio Bolsonaro's candidacy."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Tarcísio de Freitas as a strong presidential candidate, contrary to the ground truth that he opted for re-election in São Paulo."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response identifies Tarcísio de Freitas as the strongest right-wing candidate with the greatest national growth potential, which directly contradicts the ground truth that Tarcísio chose not to run and that Flávio Bolsonaro announced his candidacy with his father's endorsement."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

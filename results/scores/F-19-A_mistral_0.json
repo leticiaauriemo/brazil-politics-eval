@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no specific information about the main candidates for 2026, which contradicts the ground truth that identifies Lula and Flávio Bolsonaro as main candidates and clarifies Tarcísio's non-candidacy."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response is incorrect in stating that there is no specific information about the main candidates, as the ground truth clearly identifies Lula and Flávio Bolsonaro as the main candidates and clarifies that Tarcísio de Freitas is not running."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response fails to name the main candidates and does not clarify Tarcísio's non-candidacy, instead providing a general statement about the uncertainty of future political scenarios."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": true
+}

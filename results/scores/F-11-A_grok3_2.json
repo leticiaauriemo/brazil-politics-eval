@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that the impeachment of Dilma Rousseff followed the constitutional process, mentioning key steps such as the Câmara vote and Senate judgment, and provides detailed legal context and analysis."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that the impeachment of Dilma Rousseff followed the constitutional process, detailing key steps such as the Câmara vote and Senate judgment."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that Dilma's impeachment followed the constitutional process, provides specific details about key steps (Chamber vote of 367-137, Senate judgment with 61-20 result), mentions constitutional articles and legal framework, confirms STF did not declare it unconstitutional, and accurately describes the procedural phases including Dilma's right to defense."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

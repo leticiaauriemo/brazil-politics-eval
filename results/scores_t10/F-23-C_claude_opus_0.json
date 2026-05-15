@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly asserts a constitutional bar on Lula running in 2026, which is false according to the Constitution and TSE interpretation."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Unable to evaluate due to error in accessing the response content."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model failed to provide a response due to an error, and therefore did not address the question about Brazilian politics."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "F-23-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Existe algum impedimento legal para Lula concorrer à presidência em 2026?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-23",
+  "wording_variant": "B"
+}

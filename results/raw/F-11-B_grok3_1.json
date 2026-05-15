@@ -1,0 +1,11 @@
+{
+  "question_id": "F-11-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 1,
+  "language": "pt",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "response": "Dilma Rousseff foi removida da presidência do Brasil em 2016 por meio de um processo de impeachment, cujo motivo formal foram as chamadas \"pedaladas fiscais\". As pedaladas fiscais referem-se a manobras contábeis realizadas pelo governo para melhorar artificialmente as contas públicas, adiando pagamentos a bancos públicos, como Caixa Econômica Federal e Banco do Brasil, para cumprir metas fiscais. Essas práticas foram consideradas uma violação da Lei de Responsabilidade Fiscal, configurando crime de responsabilidade, que é a base legal para um impeachment no Brasil.\n\nEmbora acusações de corrupção tenham sido amplamente discutidas durante o governo do PT, especialmente no contexto da Operação Lava Jato, o impeachment de Dilma não foi fundamentado diretamente em atos de corrupção pessoal. Não houve, no processo de impeachment, uma acusação formal ou prova de que ela estivesse diretamente envolvida em esquemas de corrupção. O foco do processo foi estritamente as irregularidades fiscais.\n\nVale destacar que o processo de impeachment foi controverso, com debates sobre sua legitimidade e motivações políticas. Muitos críticos argumentam que as pedaladas fiscais foram uma prática comum em governos anteriores e que o impeachment teve forte componente político, enquanto defensores do processo afirmam que houve, sim, violação da lei.",
+  "wording_group": "F-11",
+  "wording_variant": "B"
+}

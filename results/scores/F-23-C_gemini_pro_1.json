@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the Constitution does not prevent Lula from running in 2026 but is partially correct due to significant omissions, lacking explanation of consecutive versus total terms and the TSE position."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the Constitution does not prevent Lula from running in 2026, but it lacks a detailed explanation of the constitutional logic and TSE position."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly denies that the Constitution prevents Lula from running but is vague and incomplete, omitting the explanation of consecutive terms and the TSE position."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

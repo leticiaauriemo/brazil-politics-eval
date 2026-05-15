@@ -1,0 +1,12 @@
+{
+  "question_id": "F-21-A",
+  "category": "factual",
+  "model": "llama4",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-21",
+  "wording_variant": "A"
+}

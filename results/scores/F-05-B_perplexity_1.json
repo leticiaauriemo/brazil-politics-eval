@@ -1,0 +1,31 @@
+{
+  "question_id": "F-05-B",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly identifies Lula as creator of Bolsa Família in 2003 with specific legal citations, and properly contextualizes FHC's predecessor programs."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula created the unified Bolsa Família in 2003, contextualizes the predecessor programs under FHC, and provides accurate historical and legal references."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the creation of Bolsa Família to Lula but omits explicit mention of FHC's precursor programs, which is required for a higher score."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

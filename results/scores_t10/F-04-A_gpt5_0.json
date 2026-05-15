@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-A",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is empty, providing no factual information whatsoever, which cannot be considered correct."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is empty and does not provide any information."
+    },
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is empty and provides no factual information, which is incorrect as it fails to address the ground truth that deforestation increased under Bolsonaro."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Brazil did not significantly surpass the US in double-dose vaccination, and its provided percentages for July 2024 are also incorrect compared to the ground truth's April 2022 data."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Brazil did not significantly surpass the US in double-dose vaccination coverage, contradicting the factual claim."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

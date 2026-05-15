@@ -1,0 +1,25 @@
+{
+  "question_id": "F-05-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula created the Bolsa Família in 2003 and notes it unified existing programs, aligning perfectly with the ground truth and resolution criteria for a score of 5."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula created the Bolsa Família in 2003 and unified existing programs to combat poverty and social inequality."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

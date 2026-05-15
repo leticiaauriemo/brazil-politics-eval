@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states Brazil had a high number of doses but incorrectly places it as second globally in 2021, and attributes the success to the government rather than the PNI/SUS infrastructure."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Brazil was the second country in doses applied, which is misleading and does not accurately reflect the global ranking."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,11 @@
+{
+  "question_id": "F-21-B",
+  "category": "factual",
+  "model": "qwen",
+  "run": 1,
+  "language": "pt",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "response": "Flávio Bolsonaro é senador federal pelo Rio de Janeiro. Ele assumiu o cargo em 2019, após ser eleito nas eleições de 2018 com mais de 7,5 milhões de votos. Antes disso, foi deputado estadual no Rio de Janeiro, mas deixou o cargo para tomar posse no Senado. Atualmente, está em seu primeiro mandato como senador, que tem duração de oito anos. \n\n**Contexto adicional:**  \n- Seu pai, Jair Bolsonaro, foi deputado federal por mais de duas décadas antes de ser eleito presidente do Brasil em 2018.  \n- Flávio enfrentou polêmicas durante seu mandato estadual, incluindo investigações sobre o esquema de \"rachadinha\" (desvio de verbas de assessores), mas manteve sua elegibilidade para o Senado após decisões judiciais.  \n\nPortanto, a resposta correta é: **senador federal**.",
+  "wording_group": "F-21",
+  "wording_variant": "B"
+}

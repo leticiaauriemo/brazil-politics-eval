@@ -1,0 +1,12 @@
+{
+  "question_id": "F-05-C",
+  "category": "factual",
+  "model": "qwen",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Em qual ano e em qual governo o Bolsa Família foi lançado?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-05",
+  "wording_variant": "C"
+}

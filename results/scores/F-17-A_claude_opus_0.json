@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response is correct in expressing uncertainty and not making a false claim, but it fails to state the core factual event (the liquidation in November 2025), making it vague and incomplete."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect as it does not acknowledge the liquidation of Banco Master in November 2025, but it hedges by admitting a lack of current information."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is incorrect but hedged, as it fails to provide the correct information about the Banco Master's liquidation while expressing uncertainty and lack of up-to-date knowledge."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.0,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-A",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that X was blocked by Alexandre de Moraes due to non-compliance with court orders, but it incorrectly identifies the blocking period as April 2024 for two days, instead of August-October 2024."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the access to X was blocked in April 2024 instead of the correct dates in August to October 2024."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

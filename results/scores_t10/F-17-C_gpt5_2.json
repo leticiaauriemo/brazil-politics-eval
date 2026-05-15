@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-C",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a system error message with no factual content about Brazilian politics, so it cannot be scored as correct."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address the factual question."
+    },
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message that fails to provide any factual information or confirmation about the liquidation of Banco Master, rendering it incorrect and uninformative."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

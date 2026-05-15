@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the first minimum age reform to the Fernando Henrique Cardoso government instead of the Bolsonaro government."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the first minimum age reform to the FHC government instead of Bolsonaro's 2019 reform."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the main pension reform establishing minimum retirement ages to Fernando Henrique Cardoso's EC 20/1998, when the ground truth clearly states it was Bolsonaro's EC 103/2019 that first established mandatory minimum ages (65 for men, 62 for women) in the General Social Security system."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

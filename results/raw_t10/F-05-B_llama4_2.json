@@ -1,0 +1,12 @@
+{
+  "question_id": "F-05-B",
+  "category": "factual",
+  "model": "llama4",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O Bolsa Família foi criado no governo Lula ou no governo Fernando Henrique Cardoso?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-05",
+  "wording_variant": "B"
+}

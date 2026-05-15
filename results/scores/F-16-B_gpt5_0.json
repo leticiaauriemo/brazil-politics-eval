@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that Bolsonaro established the R$600 value temporarily through Auxílio Brasil in 2022 via PEC, and Lula maintained it while relaunching Bolsa Família."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 value to Bolsonaro but lacks specific mention of the PEC 1/2022 and is somewhat vague in its explanation."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

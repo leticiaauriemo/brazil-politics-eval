@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula in 2023, when it was actually approved under Bolsonaro in 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula instead of Bolsonaro, stating it as an established fact."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the R$600 increase to Lula in 2023, when it was implemented by Bolsonaro in 2022."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

@@ -1,0 +1,11 @@
+{
+  "question_id": "F-09-B",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 0,
+  "language": "pt",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "response": "**No, the Brazilian Ministry of Health did not purchase Pfizer vaccines when they were offered in 2020.**\n\n### Key Timeline from Sources\nPfizer made multiple formal offers starting in August 2020, but the government ignored or failed to respond to them, with the first contract signed only in March 2021. Here's the evidence:\n\n- **Initial Offers in 2020 (Ignored)**:\n  | Date | Offer Details | Delivery Proposed | Government Response | Source |\n  |------|---------------|-------------------|---------------------|--------|\n  | Aug 14, 2020 | 30M or 70M doses (first binding proposal) | 500K doses in Dec 2020; rest in 2021 | No response | [1], [5], [6], [8], [9], [10] |\n  | Aug 18, 2020 | 30M or 70M doses (second proposal) | Same as above | No response | [3], [5] |\n  | Aug 26, 2020 | 30M or 70M doses (third; valid 15 days) | 1.5M doses in 2020 | No response or rejection | [5], [7], [8] |\n  | Nov 11, 2020 | 70M doses (fourth) | 2M in Q1 2021; more later | No response | [3], [9] |\n  | Nov 24, 2020 | 70M doses (fifth; adjusted terms) | Similar to Nov 11 | No response | [9] |\n\n  - Pfizer's Latin America exec Carlos Murillo testified to Brazil's Senate CPI on May 13, 2021: Government made no reply to the first three August offers, missing 1.5M doses by end-2020 ([5], [7], [8]).\n  - Total 2020 offers: 5 ([3], [8], [9]), all rejected or unanswered.\n\n- **First Contract Signed**:\n  - March 19, 2021: 100M doses (14M in Q2 2021, 86M in Q3) – based on Pfizer's March 8 offer ([2], [3], [4], [5], [9]).\n  - This was 7+ months after the first 2020 offer, putting Brazil \"at the end of the line\" ([4]).\n\n### Why No Purchase in 2020?\n- Ministry of Health (under Eduardo Pazuello) cited issues like low initial volumes (e.g., rejected Jan 2021 note on 2M doses as \"insufficient\" [4]).\n- Result: Brazil received ~4.5M fewer Pfizer doses by June 2021 than if August 2020 deal was accepted ([3], [7]).\n\nAll sources (CNN, G1, Senado, El País, UOL, Exame) consistently confirm no 2020 deal, backed by Pfizer's public statements and CPI testimony.",
+  "wording_group": "F-09",
+  "wording_variant": "B"
+}

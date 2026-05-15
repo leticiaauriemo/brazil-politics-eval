@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-B",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal, provides detailed explanations, mentions the regulatory framework, and discusses transparency and criteria, aligning perfectly with the ground truth and scoring criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the legality of government advertising on private media, details the regulatory framework including SECOM and relevant laws, and emphasizes the importance of transparency and ethical standards."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

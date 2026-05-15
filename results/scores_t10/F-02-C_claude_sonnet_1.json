@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_sonnet",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is entirely incorrect as it discusses a different legal process (TSE's ineligibility ruling) and states that the criminal judgment is still ongoing, directly contradicting the ground truth that the conviction is final (transitou em julgado) in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the criminal judgment was still ongoing as of January 2025, contradicting the fact that it became final in November 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

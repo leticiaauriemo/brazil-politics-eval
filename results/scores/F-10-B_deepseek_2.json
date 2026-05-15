@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the dissolution of the task force to the Minister of Justice, Anderson Torres, instead of the PGR Augusto Aras, which is a significant factual error."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the Bolsonaro government and the dissolution date but lacks specific mention of PGR Augusto Aras and misattributes the decision to the Minister of Justice."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the dissolution to Anderson Torres rather than PGR Augusto Aras."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

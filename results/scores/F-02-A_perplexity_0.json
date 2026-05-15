@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly confirms conviction with accurate sentence (27 years and 3 months) and crimes, but incorrectly states the conviction became final in May 2026 rather than November 2025."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response correctly confirms the conviction, sentence, and most details, but incorrectly states that the conviction became final in May 2026 instead of November 2025."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms Bolsonaro's conviction, details the sentence (27 years), and notes the conviction became final, but incorrectly states the finality date as May 2026 instead of November 2025 per ground truth."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Brazil was among the top countries for total doses but does not specify its 4th position or attribute the success to the SUS/PNI infrastructure, as per the resolution criteria."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model confirms Brazil was among the countries with the highest total number of COVID-19 vaccine doses applied, but does not specify the 4th position globally or attribute the performance to the SUS/PNI infrastructure."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms Brazil's strong vaccination performance and large number of doses administered, but does not specify the 4th place ranking or attribute the success to SUS/PNI infrastructure rather than Bolsonaro's government."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-C",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that Operation Compliance Zero resulted in the arrest of the owner of Banco Master, but it does not mention the specific dates of arrest or the influencer scheme, and it incorrectly states the operation was about money laundering and financial fraud, while the ground truth states it was about attacking the Central Bank."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response confirms the arrest but lacks specific details about the two arrests and the influencer scheme, and also does not mention Daniel Vorcaro by name or the specific amount paid to influencers."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms that Operação Compliance Zero resulted in the arrest of the Banco Master owner, but omits key details such as the specific dates of arrest (November 2025 and March 4, 2026) and the influencer scheme involving R$8 million payments to attack the Banco Central."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

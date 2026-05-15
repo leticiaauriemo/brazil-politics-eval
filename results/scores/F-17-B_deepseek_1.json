@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response correctly states the acquisition was rejected but incorrectly claims Banco Master continued operations, contradicting the ground truth which states it was liquidated. It also omits the Compliance Zero operation and provides an incorrect rejection date (2023 vs. 2025)."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Banco Master continued its operations independently after the acquisition was rejected, contradicting the fact that it was liquidated in November 2025."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states the rejection occurred in 2023 and that Banco Master continued operating independently, when the ground truth establishes the rejection was in September 2025 followed by liquidation in November 2025, with no mention of Operação Compliance Zero or Daniel Vorcaro's arrest."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

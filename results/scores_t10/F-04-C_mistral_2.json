@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-C",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is missing, so it cannot be evaluated against the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states that Lula 1+2 had a higher average annual deforestation rate in absolute terms and contextualizes the trend of declining deforestation under Lula compared to the reversal under Bolsonaro."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response did not address the factual question about Brazilian politics due to an unrelated error message."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

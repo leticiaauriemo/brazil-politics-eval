@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model initially states he can run for reelection, then contradicts itself by saying he cannot, demonstrating a fundamental misunderstanding of the two-term limit."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Zema cannot run for re-election in 2026 but fails to explain that this is due to having completed two consecutive terms."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Romeu Zema can run for reelection as governor in 2026, contradicting the ground truth."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

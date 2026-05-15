@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Romeu Zema's original affiliation with Partido Novo, distinguishes it from PL (Bolsonaro's party), and accurately details the parties' ideological stances, meeting all criteria for a top score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Romeu Zema was originally elected by the Partido Novo and correctly distinguishes his current affiliation with the PL."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies Partido Novo as Zema's original party but then states he currently belongs to PL (Bolsonaro's party), which while factually accurate regarding his 2023 move, directly contradicts the ground truth's implicit framing that Zema represents Partido Novo and is distinct from Bolsonaro's political sphere, making it partially correct but misleading in context."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

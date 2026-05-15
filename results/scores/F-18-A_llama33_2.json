@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Daniel Vorcaro was arrested in 2006 under Operation Satiagraha, which contradicts the ground truth of arrests in 2025 and 2026 under Operation Compliance Zero."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Vorcaro was arrested in 2006 and attributes it to a different operation, failing to mention the correct arrests in 2025 and 2026."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Daniel Vorcaro was arrested in 2006 under 'Operação Satiagraha' and that Banco Master was liquidated, whereas the ground truth indicates arrests in 2025 and 2026 under 'Operação Compliance Zero' with no mention of liquidation."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

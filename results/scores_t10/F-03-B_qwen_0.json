@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the date of the TSE declaration, the specific law and article, and the reason for the ineligibility, while also miscalculating the end date of the 8-year period."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the 8-year duration of ineligibility but hedges by discussing the potential for changes due to ongoing legal proceedings."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the 8-year duration of Bolsonaro's ineligibility and mentions the potential for change, but it does not explicitly link the reason for ineligibility to the abuse of electoral power during the ambassadors meeting as per the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

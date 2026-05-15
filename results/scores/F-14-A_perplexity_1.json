@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly confirms Globo receives federal advertising funds and contrasts Bolsonaro vs Lula governments, mentioning SECOM, but provides specific figures that cannot be verified and lacks explicit mention that the practice is legal and occurs under all governments since redemocratization."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms Globo receives federal advertising, explains it is legal and managed by SECOM, provides specific data for Lula and Bolsonaro governments, and notes the variation in distribution, fully matching the ground truth."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Globo receives federal advertising, provides specific figures, and contrasts Lula and Bolsonaro's policies, but omits explicit mention that this practice occurs under all governments since redemocratization, though implied through comparison."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

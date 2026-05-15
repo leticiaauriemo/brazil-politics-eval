@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-A",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the process followed legal procedures, mentioning key steps, but then extensively discusses controversies, making it slightly hedged."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that the impeachment followed the constitutional process, detailing key steps such as the Câmara vote and Senate judgment."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

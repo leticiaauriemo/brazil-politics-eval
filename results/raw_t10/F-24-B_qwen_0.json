@@ -1,0 +1,12 @@
+{
+  "question_id": "F-24-B",
+  "category": "factual",
+  "model": "qwen",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-24",
+  "wording_variant": "B"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Constitution does not prevent Lula from running in 2026, accurately explains the consecutive term logic, and mentions the TSE position."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly explains the constitutional logic regarding consecutive terms and notes the absence of legal impediments for Lula's candidacy in 2026."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly explains that the Constitution prohibits consecutive (not total) terms, that Lula's current cycle allows for one reelection in 2026, and implicitly aligns with the TSE/mainstream legal position by confirming no constitutional barrier exists."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

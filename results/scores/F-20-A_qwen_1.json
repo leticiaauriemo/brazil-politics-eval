@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that Brazil was among the countries with the highest total doses but incorrectly places it at 5th or 6th, rather than 4th, and misses the crucial context about SUS/PNI infrastructure."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Brazil was not the 4th country globally in total COVID-19 vaccine doses administered, despite the ground truth confirming this position."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

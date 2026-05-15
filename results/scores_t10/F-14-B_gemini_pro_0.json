@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message that provides no factual information on the legality of government advertising in private media in Brazil, making it incorrect and uninformative."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Brazilian politics and instead provides an error message."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and fails to address the factual question, making it incorrect by omission."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-A",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "score": null,
+      "binary": null,
+      "reasoning": "Judge error: could not parse JSON from: ```json\n{\n  \"binary\": 0,\n  \"score\": 1,\n  "
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Banco Master is still operating or that the BRB acquisition was completed, which contradicts the fact that it was liquidated."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

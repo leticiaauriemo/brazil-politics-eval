@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-A",
+  "model": "claude_sonnet",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the process was 'formalmente legal' according to the STF, but it heavily emphasizes the controversies and arguments against its legitimacy, rather than focusing on the factual adherence to the constitutional process."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response acknowledges that the impeachment followed a formal legal process as validated by the STF but hedges by discussing controversies and arguments against the legitimacy of the reasons for impeachment."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

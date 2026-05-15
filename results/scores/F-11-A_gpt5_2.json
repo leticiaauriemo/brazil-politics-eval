@@ -1,0 +1,19 @@
+{
+  "question_id": "F-11-A",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the impeachment followed the constitutional process and provides specific details like the votes in the Chamber and Senate, aligning perfectly with the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

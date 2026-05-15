@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests that Brazil's vaccination performance is complex and implies a slower start without acknowledging its above-average status compared to developed countries."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide a clear answer to the question and does not mention that Brazil's vaccination rate is above average compared to developed countries or contextualize it with decades of investment in SUS and PNI."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

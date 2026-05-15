@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message and contains no factual claims about Flávio's relationship to Jair Bolsonaro or his siblings."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's eldest son and mentions the other politically active sons."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message, not an attempt to answer the factual question about Flávio Bolsonaro, making it impossible to evaluate factual accuracy."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

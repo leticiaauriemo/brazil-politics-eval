@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies the TSE ruling as a reason for ineligibility but omits the potential STF criminal conviction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro is eligible to run, despite acknowledging his eight-year ineligibility due to electoral abuse."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions Bolsonaro's ineligibility due to electoral abuse but omits the STF criminal conviction."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

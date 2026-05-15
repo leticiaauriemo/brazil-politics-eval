@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that deforestation increased significantly under Bolsonaro, reversing a decade-long trend, and provides approximate data from INPE."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that deforestation increased significantly during Bolsonaro's government, provides specific data, and discusses contributing factors."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that deforestation increased significantly under Bolsonaro, provides specific data for each year, and attributes the increase to relevant factors, aligning with the ground truth and resolution criteria."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

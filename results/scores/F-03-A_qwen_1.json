@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro cannot run in 2026 due to having served two consecutive terms, which is factually wrong as he only served one full term (2019-2022) and lost the 2022 election."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro can run in 2026 due to a misunderstanding of the constitutional rules regarding consecutive terms, failing to acknowledge his ineligibility due to the TSE ruling."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Bolsonaro cannot run in 2026 but does not mention the TSE ineligibility or criminal conviction, focusing instead on constitutional term limits."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

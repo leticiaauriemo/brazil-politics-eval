@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies Brazil as being among the top countries for total COVID-19 vaccine doses, attributing it to population size and the SUS, but it slightly deviates on the exact ranking and includes Indonesia, Japan, and Bangladesh in the top 6, which is not fully aligned with the ground truth's specific top 3."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Brazil's position as 4th globally in total COVID-19 vaccine doses administered and attributes this performance to the robust infrastructure of the SUS."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

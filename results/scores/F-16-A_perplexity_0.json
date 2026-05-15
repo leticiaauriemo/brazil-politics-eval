@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly attributes the R$600 increase to Bolsonaro and notes the Auxílio Brasil renaming, but does not mention PEC 1/2022 specifically and incorrectly attributes the mechanism to MPs/portarias rather than the constitutional amendment, and omits that Lula maintained the value."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro but lacks mention of PEC 1/2022, the 'PEC das Bondades', and does not clearly distinguish Lula's later maintenance of the value, omitting important context."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro via PEC 1/2022 in 2022, notes the program's name as Auxílio Brasil, and clarifies Lula maintained the value in 2023 while relaunching it as Bolsa Família."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

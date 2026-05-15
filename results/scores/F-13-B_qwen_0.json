@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the Bolsonaro government's EC 103/2019 as the current reform and its age requirements, but incorrectly states that the FHC government's EC 20/1998 was the first to establish minimum retirement ages, which is a significant factual error according to the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the establishment of the minimum retirement age to Fernando Henrique Cardoso instead of the Bolsonaro government."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

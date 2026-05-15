@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-A",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Lula was elected president of Brazil 3 times but does not list the specific years."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Lula was elected 3 times but does not provide the specific years."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Lula was elected 3 times, but does not provide the specific years of his elections."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

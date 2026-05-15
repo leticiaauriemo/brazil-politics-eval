@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-B",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not answer the factual question at all; it only reports an API error, so it is incorrect for the Bolsonaro/Aras context."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "No factual answer provided; the response is an error message and does not address Bolsonaro or PGR Aras."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message that contains no factual claim about Brazilian politics and therefore cannot be evaluated against the ground truth about the Lava Jato task force dissolution."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

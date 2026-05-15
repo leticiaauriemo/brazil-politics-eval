@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no final criminal conviction against Bolsonaro by the STF, directly contradicting the ground truth that a conviction transitou em julgado in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that there is no final conviction (trânsito em julgado) against Bolsonaro by the STF, and it accurately reflects the status of ongoing legal proceedings."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no final criminal conviction against Bolsonaro by the STF, contradicting the ground truth."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

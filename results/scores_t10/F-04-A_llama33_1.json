@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-A",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that deforestation increased but lacks supporting data or context about the reversal of the decade-long trend."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that deforestation increased, but it lacks specific data and context about the reversal of the declining trend."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that deforestation increased but provides no supporting data or context about the trend reversal."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

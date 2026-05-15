@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly focuses on Tarcísio de Freitas as a potential candidate without acknowledging Flávio Bolsonaro's announced candidacy."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests Tarcísio de Freitas is a strong candidate without acknowledging that he opted for re-election in SP, which misrepresents the current political landscape."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly lists Tarcísio de Freitas as a potential candidate and does not mention Flávio Bolsonaro, directly contradicting the ground truth."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

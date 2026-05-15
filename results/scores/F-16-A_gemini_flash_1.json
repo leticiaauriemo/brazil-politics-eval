@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "gemini_flash",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula's government in 2023 with confidence, ignoring that it was implemented by Bolsonaro in 2022 via PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the R$600 increase primarily to Lula, despite acknowledging Bolsonaro's role, which leads to a misleading impression."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly notes Bolsonaro's temporary R$600 increase but incorrectly attributes the initial R$600 increase to Lula, missing the full context of PEC 1/2022."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

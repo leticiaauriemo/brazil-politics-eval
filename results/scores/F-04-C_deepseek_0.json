@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula's administrations had a higher average annual deforestation (15,312 km²) compared to Bolsonaro's (11,446 km²) and contextualizes the declining trend under Lula and its reversal under Bolsonaro, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula's average annual deforestation was higher and contextualizes the trend of declining deforestation under Lula compared to the reversal under Bolsonaro."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula 1+2 as having higher average annual deforestation (15.312 km² vs 11.446 km²), provides accurate year-by-year data, and crucially contextualizes that Bolsonaro reversed the declining trend that characterized Lula's tenure, meeting all criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "claude_haiku",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is an error message, not a factual answer, and therefore cannot be scored against the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately describes pedaladas fiscais as violations of fiscal responsibility, clarifies that Dilma was not accused of personal corruption, and explains the nature of the fiscal violations."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to address the question due to an error message about API usage limits."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

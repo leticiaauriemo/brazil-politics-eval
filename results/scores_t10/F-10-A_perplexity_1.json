@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states the task force was shut down but lacks the specific details about the date, the PGR responsible, and the distinction between the task force and the ongoing investigations/convictions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the Lava Jato task force was dissolved in February 2021 by PGR Augusto Aras and clearly distinguishes between the dissolution of the task force and the status of ongoing investigations and convictions."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

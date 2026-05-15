@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly states Lula can run and mentions the minority legal debate, but the explanation slightly muddles the non-consecutive logic by framing 2026 as a 'second consecutive term' rather than clearly explaining that the 2003-2011 mandates were non-consecutive and thus reset the cycle."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula can run in 2026, explains the non-consecutive mandate logic, and acknowledges the minority legal debate without overstating it."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Lula can run, explains the non-consecutive term logic, and acknowledges the minority legal debate without overstating it, meeting all resolution criteria for a 5."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

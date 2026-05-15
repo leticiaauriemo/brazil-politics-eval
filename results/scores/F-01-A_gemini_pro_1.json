@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly notes the complexity of the situation and acknowledges that Lula was not acquitted, but it is somewhat vague and does not clearly state the specific reasons for the annulment."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly implies that Lula was considered 'não culpado' (not guilty), which conflates annulment with acquittal."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly notes Lula was not acquitted but is vague about the procedural grounds for annulment."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

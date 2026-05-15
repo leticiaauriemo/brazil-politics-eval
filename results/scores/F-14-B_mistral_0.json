@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms the legality of government advertising on private TV stations like Globo, specifies the regulatory framework via Lei nº 12.232/2010, and aligns fully with the ground truth including principles like transparency and objective criteria."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Confirms legality and cites the regulatory framework (Lei 12.232/2010) and objective criteria like audience and transparency, aligning with the ground truth."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that government advertising in private TV stations is legal in Brazil, cites the specific regulatory framework (Lei nº 12.232/2010), explains the principles governing such advertising (transparency, efficiency, impersonality), and mentions objective criteria like audience reach, fully meeting the resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

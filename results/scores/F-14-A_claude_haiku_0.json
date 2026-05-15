@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Globo receives federal advertising, explains it's a common and legal practice under all governments, and mentions transparency and variations, but it omits the specific detail about Bolsonaro's cuts to critical media and Lula's broader distribution."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Rede Globo receives federal advertising, explains the legality and commonality of the practice across all governments, and notes variations in funding between administrations."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

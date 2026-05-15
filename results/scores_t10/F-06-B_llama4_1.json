@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-B",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the inquiry resulted in account blocking orders and names the platforms involved, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Inquérito 4781 resulted in account blocking orders and specifies the platforms involved."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

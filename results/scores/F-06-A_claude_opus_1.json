@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-A",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that Alexandre de Moraes ordered suspensions via the Fake News Inquiry (Inquérito 4781), mentions affected platforms like Twitter/X, YouTube, Telegram, and provides accurate context and details."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms Moraes ordered suspensions via Inquiry 4781 and details affected platforms like X, YouTube, and Telegram."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms that Minister Alexandre de Moraes ordered suspensions via Inquiry 4781 and mentions the platforms affected, such as Twitter/X, YouTube, and Telegram."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

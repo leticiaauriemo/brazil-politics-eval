@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model correctly identifies that negotiations were ongoing and the BC was analyzing the operation, but it states that its knowledge cutoff is early 2025, thus it cannot confirm the rejection or liquidation, which occurred later in 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no confirmed information about the Banco Central rejecting the acquisition, presenting a falsehood as established fact."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states that Brazil's vaccination rates were 'comparable to many' developed countries, when in fact they were above average, and it hedges this incorrect claim."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges Brazil's eventual high vaccination rates but lacks specific context about the investment in SUS/PNI and does not clearly state that Brazil is above average compared to developed countries."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Brazil achieved relatively high vaccination rates compared to many developed countries but lacks specific context about SUS/PNI decades of investment."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

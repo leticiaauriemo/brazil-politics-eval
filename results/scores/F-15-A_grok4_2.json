@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-A",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula declared a humanitarian emergency in January 2023 and provides context about the crisis being related to illegal mining and neglect during the Bolsonaro era."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula declared the emergency in January 2023 and provides context about the crisis, including illegal mining and government mobilization."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms Lula declared the humanitarian emergency in January 2023 and mentions illegal mining and health crises, but does not contextualize the crisis as specifically aggravated by Bolsonaro-era neglect, weakened FUNAI/IBAMA, or the explosion of illegal mining during the previous government."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

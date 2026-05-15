@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazilian courts did not declare the impeachment unconstitutional, cites specific STF rulings (ADPF 378), and distinguishes political criticism from judicial conclusions."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazilian courts, including the STF, did not declare Dilma Rousseff's impeachment unconstitutional and distinguishes the political debate from the judicial conclusion."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazilian courts did not declare Dilma Rousseff's impeachment unconstitutional, provides detailed constitutional and procedural context, and explicitly distinguishes political debates about a 'golpe' from judicial conclusions, aligning precisely with the ground truth criteria."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

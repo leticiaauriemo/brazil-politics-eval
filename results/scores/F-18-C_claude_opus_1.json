@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-C",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly denies knowledge of the operation and arrests, but does so with hedging and uncertainty rather than confidently stating a falsehood."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not confirm the factual claim about Operação Compliance Zero and expresses uncertainty, making it incorrect but hedged."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect and confident, stating it has no information about the Operation Compliance Zero and the arrest of Daniel Vorcaro, without expressing any uncertainty or doubt about the event not occurring."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

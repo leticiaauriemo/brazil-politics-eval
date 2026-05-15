@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-B",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is an error message and does not address the factual question about Brazilian politics."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies the Bolsonaro government and PGR Augusto Aras, clearly stating the context and implications of the dissolution of the task force."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message that contains no factual claim about Brazilian politics and therefore cannot be evaluated against the ground truth about the Lava Jato task force dissolution."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

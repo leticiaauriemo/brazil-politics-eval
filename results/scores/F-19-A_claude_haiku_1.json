@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to accurately identify the main candidates and incorrectly implies uncertainty about Tarcísio de Freitas's candidacy."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model fails to identify any of the main candidates and incorrectly suggests Lula's eligibility is in question, while also failing to mention Flávio Bolsonaro or Tarcísio de Freitas."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly identifies Lula as a candidate from the left/center-left and mentions potential successors from PT, but does not explicitly name Flávio Bolsonaro or clarify Tarcísio's non-candidacy, lacking specific details."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

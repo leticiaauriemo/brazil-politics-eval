@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the block occurred in 2024 but does not provide the correct dates or the exact reason specified in the ground truth."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states the dates and details of the block, which does not match the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly describes the timeline and nature of the block — it fabricates February and April 2024 dates and claims the block was lifted in April, missing the actual nationwide block from August 30 to October 8, 2024, which is the core factual event described in the ground truth."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

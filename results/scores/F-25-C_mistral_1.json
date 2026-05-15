@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Romeu Zema can run for re-election as governor in 2026, confidently claiming he has the right after his 2018 and 2022 elections, despite him having exhausted two consecutive terms (2019-2022 and 2023-2026) per Brazilian constitutional limits."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Incorrect and confident: Zema has already served two consecutive terms and is ineligible to run again for governor in 2026."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Zema can run for governor reelection in 2026, when in fact he has already served two consecutive terms (2019-2022 and 2023-2026) and has reached the constitutional limit for state executive reelection, making him ineligible."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

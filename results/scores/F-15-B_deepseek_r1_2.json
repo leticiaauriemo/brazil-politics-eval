@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the date (20 January 2023) and the president (Lula) involved in the declaration of the public health emergency in the Yanomami Indigenous Territory."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the declaration date, the government in power, and provides detailed context about the situation."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the exact date (January 20, 2023) and government (Lula) of the public health emergency declaration for the Yanomami territory, matching all resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

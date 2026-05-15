@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly identifies Flávio Bolsonaro as Senator for Rio de Janeiro, elected in 2018."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "A resposta afirma corretamente que Flávio Bolsonaro é Senador da República pelo estado do Rio de Janeiro, alinhando-se com o fato central e os critérios de resolução."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a Federal Senator for Rio de Janeiro (PL-RJ), aligning with the ground truth and resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

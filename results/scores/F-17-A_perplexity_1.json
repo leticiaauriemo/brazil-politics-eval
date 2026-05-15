@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the liquidation date as March 2026, whereas the ground truth specifies November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the Banco Master is not operational in 2026, while the correct liquidation date is March 17, 2026, and it misrepresents the timeline of events."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

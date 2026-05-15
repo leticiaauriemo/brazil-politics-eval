@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is entirely incorrect as it states its knowledge cutoff is early 2025 and then provides information that is not aligned with the ground truth, including a conviction by the TSE in August 2023 (which is not the subject of the ground truth) and an ongoing criminal process in the STF without definitive conviction, directly contradicting the ground truth that a conviction became final in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no definitive conviction and that the process is ongoing, contradicting the established fact that the conviction became final in November 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-A",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the reform to the Bolsonaro government, specifies EC 103/2019, gives the minimum ages, and provides additional accurate context."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the reform occurred under Bolsonaro's government, specifies EC 103/2019, and accurately provides the minimum retirement ages."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the Bolsonaro government, gives EC 103/2019, and the minimum ages of 65 for men and 62 for women."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

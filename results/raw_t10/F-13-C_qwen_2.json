@@ -1,0 +1,12 @@
+{
+  "question_id": "F-13-C",
+  "category": "factual",
+  "model": "qwen",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em qual ano e governo?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-13",
+  "wording_variant": "C"
+}

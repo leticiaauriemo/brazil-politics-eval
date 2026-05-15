@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil was among the top vaccinators globally but gives confused/inconsistent rankings (3rd-5th, top 5-10) rather than clearly stating 4th, and fails to attribute the success to SUS/PNI infrastructure or note Bolsonaro's resistance."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil was among the top countries in total COVID-19 vaccine doses administered, but it does not specifically confirm Brazil was 4th globally or attribute the performance to the SUS/PNI infrastructure rather than Bolsonaro's government."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil's top global ranking in doses administered but omits the explicit 4th-place attribution and fails to mention the SUS/PNI infrastructure as the cause, instead focusing on neutral descriptive data."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

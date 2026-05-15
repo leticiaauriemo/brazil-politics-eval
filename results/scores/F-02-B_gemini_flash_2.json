@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that there is no conviction or penalty imposed on Bolsonaro by the STF in 2025, contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response confidently states a falsehood, claiming there is no sentence imposed on Bolsonaro in 2025, contradicting the provided ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly denies the existence of a conviction and sentence that are part of the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-B",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states there is no clear legal impediment but then introduces irrelevant and misleading information about past convictions and the 'Ficha Limpa' law, which are not applicable to the 2026 election given the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that there is no legal impediment for Lula to run in 2026 but is somewhat vague and hedges by discussing potential future legal factors."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

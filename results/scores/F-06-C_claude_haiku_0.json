@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly asserts that a single justice cannot issue unilateral orders, contradicting the factual claim that Moraes did so."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states that a single minister cannot unilaterally order social media suspensions, despite acknowledging that it has happened and is controversial."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the ability of a single justice to issue orders but hedges with controversy and limitations, aligning with a score of 4 for being correct but somewhat vague."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "claude_sonnet",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states that individual ministers, particularly Moraes, have issued monocratic orders for social media suspensions, highlights the legal controversy surrounding these actions, and confirms their real-world effect."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Moraes issued monocratic orders without full court approval, acknowledges the legal controversy surrounding this practice, and notes its real effects on social media platforms."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

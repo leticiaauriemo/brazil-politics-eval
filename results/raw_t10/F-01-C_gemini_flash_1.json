@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "Não, o STF (Supremo Tribunal Federal) não declarou Lula inocente dos crimes pelos quais ele foi condenado em Curitiba. O que ocorreu foi o seguinte:\n\nEm **abril de 2021**, o Ministro Edson Fachin, do STF, anulou as condenações de Lula nas ações penais da Operação Lava Jato que tramitavam na 13ª Vara Federal de Curitiba. A anulação se deu por **incompetência do juízo de Curitiba**. Isso significa que Fachin entendeu que a Justiça Federal do Paraná não tinha competência legal para julgar esses casos, uma vez que os fatos investigados não estavam diretamente relacionados com a Petrobras, que era o foco original da Lava Jato em Curitiba.\n\nPosteriormente, o plenário do STF referendou essa decisão de Fachin. A consequência direta foi que as condenações foram **anuladas**, e todos os processos deveriam ser remetidos para a Justiça Federal do Distrito Federal, onde o julgamento deveria recomeçar do zero.\n\n**É crucial entender a diferença:**\n\n*   **Anulação por incompetência:** Não declara a inocência do réu. A decisão não adentra no mérito das acusações ou das provas, mas sim na questão processual de qual tribunal tem a competência para julgar o caso. É como dizer: \"Este tribunal não pode julgar este caso, ele precisa ser julgado por outro.\"\n*   **Declaração de inocência:** Seria uma decisão que analisasse as provas e concluísse que o réu não cometeu os crimes pelos quais foi acusado.\n\nAlém da anulação por incompetência, o STF também declarou a **suspeição do ex-juiz Sergio Moro** em relação a um dos processos de Lula (o do tríplex do Guarujá). Essa decisão, posterior à da incompetência, reforçou a anulação da condenação, pois um juiz suspeito não poderia ter julgado o caso. A suspeição significa que Moro não teria atuado de forma imparcial no processo.\n\n**Em resumo:** As condenações foram anuladas por questões processuais (incompetência do juízo e suspeição do juiz), e não por uma análise de mérito que declarasse a inocência de Lula em relação aos fatos. Os processos foram remetidos a outras varas, mas a prescrição dos crimes impediu que novos julgamentos ocorressem para a maioria deles.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

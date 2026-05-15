@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the task force was dissolved in 2021 by Aras, distinguishes between the task force's end and ongoing investigations/convictions, and specifies that some convictions were annulled by STF while others remain valid."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the task force was dissolved in February 2021 but is somewhat vague about the distinction between the task force ending and the status of investigations and convictions."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the task force was dissolved in February 2021 and distinguishes between the task force ending and ongoing investigations/processes, but lacks specific mention of PGR Aras as the decision-maker and could be more precise about the distinction between task force dissolution and conviction status."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

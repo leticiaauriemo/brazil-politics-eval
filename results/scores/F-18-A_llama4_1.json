@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-A",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies Daniel Vorcaro's arrest by the Federal Police for financial crimes like fraudulent management and money laundering, but incorrectly states the year of arrest as 2023 instead of 2025 and 2026."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Vorcaro was arrested in 2023, which is false."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

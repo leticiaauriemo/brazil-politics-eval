@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response correctly identifies the government and the nature of the reform but states the wrong date of promulgation."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the EC 103 as being promulgated in 2019 during Bolsonaro's government, and also correctly states the key change of establishing minimum retirement ages."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the year 2019 and Bolsonaro's government correctly."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

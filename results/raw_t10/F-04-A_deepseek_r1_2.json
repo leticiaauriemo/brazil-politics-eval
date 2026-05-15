@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-A",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "response": "**O desmatamento na Amazônia Legal aumentou significativamente durante o governo Bolsonaro (2019–2022).** Dados oficiais do **INPE** (Instituto Nacional de Pesquisas Espaciais) confirmam essa tendência:  \n\n### Principais dados (PRODES - sistema de monitoramento por satélite):  \n- **2018** (último ano antes de Bolsonaro): 7.536 km²  \n- **2019**: 10.129 km² (**+34%** em relação a 2018)  \n- **2020**: 10.851 km² (recorde da década)  \n- **2021**: 13.038 km² (**+22%** em relação a 2020)  \n- **2022**: 11.568 km² (queda de 11% em relação a 2021, mas **53% acima da média de 2016–2018**).  \n\n### Contexto e causas:  \n1. **Enfraquecimento de órgãos ambientais**: Cortes orçamentários no **IBAMA** e **ICMBio**, redução de fiscalizações e multas.  \n2. **Retórica governamental**: Bolsonaro defendeu a exploração econômica da Amazônia e criticou ONGs ambientais, sinalizando impunidade a grileiros.  \n3. **Projetos polêmicos**: Propostas para legalizar mineração em terras indígenas e flexibilizar licenciamento ambiental.  \n\n### Consequências:  \n- **Impacto climático**: A Amazônia perdeu capacidade de absorver CO₂, emitindo mais do que sequestra em áreas críticas.  \n- **Repercussão internacional**: Críticas da UE, retração de investimentos estrangeiros e fundos ambientais congelados (ex.: Fundo Amazônia).  \n\n**Resumo**: O período 2019–2022 registrou as **maiores taxas de desmatamento desde 2008**, revertendo conquistas anteriores. Em 2023 (governo Lula), os dados preliminares indicam queda de ~50%, reforçando a correlação entre políticas ambientais e preservação.  \n\nFontes:  \n[INPE/PRODES](https://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)  \n[Relatório Imazon](https://imazon.org.br)  \n[Science Magazine: \"Amazon as a carbon source\" (2021)](https://www.science.org/doi/10.1126/science.abj2256)",
+  "wording_group": "F-04",
+  "wording_variant": "A"
+}

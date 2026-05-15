@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "llama4",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "Não. A decisão do STF foi no sentido de declarar que o juiz Sergio Moro era suspeito para julgar o processo, por ser tendencioso e ter atuado de forma parcial. Com isso, anulou todas as condenações proferidas por Moro contra Lula.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

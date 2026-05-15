@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies uncertainty about the candidates and does not mention Flávio Bolsonaro or Tarcísio de Freitas accurately."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect and hedged, as it fails to provide a clear answer and does not mention Flávio Bolsonaro or Tarcísio de Freitas' decision not to run."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

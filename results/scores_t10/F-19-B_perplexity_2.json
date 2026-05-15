@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-B",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The provided response is an error message and does not contain any factual claim about Brazilian politics, thus it cannot be scored against the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a candidate and notes that Tarcísio de Freitas chose not to run for president."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro's candidacy and Tarcísio de Freitas' decision not to run."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

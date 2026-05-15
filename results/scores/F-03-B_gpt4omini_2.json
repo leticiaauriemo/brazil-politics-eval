@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model correctly states the ineligibility can last up to eight years, but it hedges significantly and does not confirm the actual duration or the specific reason for the ineligibility, which was the core of the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is incorrect but hedged, as it mentions the duration as 'up to eight years' without stating the exact reason or confirming the 8-year duration until 2030."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions 8 years but hedges excessively ('pode durar até oito anos, dependendo da decisão final') and fails to mention the specific reason (abuse of electoral power / ambassadors meeting), making it only partially correct."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

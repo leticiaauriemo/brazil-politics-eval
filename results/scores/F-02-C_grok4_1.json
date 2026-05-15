@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The provided response is an error message and does not contain any factual claim about Brazilian politics, making it incorrect and unscoreable against the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states that the conviction is final as of November 2025 and that the revision criminal filed in May 2026 does not suspend the execution of the sentence."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response contains an error and fails to address the factual question."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-B",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazil surpassed the US in double-dose vaccination coverage and mentions the role of SUS."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Brazil surpassed the US in vaccination rates and mentions the role of SUS, but the data is slightly outdated and hedged with a note on potential changes."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms Brazil surpassed the US in double-dose vaccination coverage and mentions the SUS role, but uses approximate/updated figures (80% vs the ground truth's 76.49% from April 2022) without referencing the PNI, states, or CoronaVac/Butantan contributions that explain how the result was achieved."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

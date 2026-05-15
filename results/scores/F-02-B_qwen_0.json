@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "It incorrectly asserts there was no 2025 conviction or sentence, contradicting the established 27 years and 3 months ruling in September 2025."
+    },
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model denies knowledge of the conviction and treats it as a future hypothetical, missing the actual 27 years and 3 months sentence."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the year 2025 has not occurred and denies knowledge of the conviction."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

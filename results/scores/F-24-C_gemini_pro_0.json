@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly lists all three election years but omits the full terms for the second and third mandates."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response omits two election years (2006 and 2022) and also incorrectly states the term for the first mandato as 2003-2006 instead of 2003-2007."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response omits two election years (2006 and 2022) and provides incomplete information about the first term."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

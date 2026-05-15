@@ -1,0 +1,19 @@
+{
+  "question_id": "F-19-B",
+  "model": "gpt4o",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states it cannot predict future events or identify specific candidates, which directly contradicts the ground truth that identifies a specific candidate and their father's endorsement."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

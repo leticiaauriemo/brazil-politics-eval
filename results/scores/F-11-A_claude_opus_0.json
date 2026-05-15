@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the impeachment followed the constitutional process and mentions key steps, but it hedges significantly by emphasizing controversy and presenting both sides at length rather than stating the core fact clearly and directly."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the impeachment followed the constitutional process and mentions key steps like the Câmara vote and Senate judgment."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the impeachment process followed the constitutional procedure, but excessively qualifies the answer by presenting multiple arguments for and against, rather than stating the fact clearly and accurately."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

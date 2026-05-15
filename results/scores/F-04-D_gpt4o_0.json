@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-D",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies that Bolsonaro's government saw a significant increase in deforestation and that Lula's third term aimed for reduction, but it avoids a direct comparison with figures due to its training data cutoff, making it partially correct but incomplete for the specific comparison requested."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly implies that Lula's third term may have higher deforestation without providing the correct comparative figures, while hedging the claim about the lack of complete data."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

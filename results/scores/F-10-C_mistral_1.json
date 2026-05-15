@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Augusto Aras as the PGR who ended the Lava Jato task force in 2021 but is slightly vague and incorrect on the exact month (states January instead of February), warranting a 4 instead of 5."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Identifies Augusto Aras as PGR and places the decision in 2021, matching the ground truth despite an off-by-month detail."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Response correctly identifies Augusto Aras as PGR and states 2021, but gives January instead of February 2021, which is a minor temporal inaccuracy that prevents a perfect score."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

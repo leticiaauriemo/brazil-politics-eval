@@ -1,0 +1,25 @@
+{
+  "question_id": "F-12-A",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately describes the storming and vandalism of all three branches by Bolsonaro supporters, including key details and consequences."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately describes the storming and vandalism of all three branches of government by Bolsonaro supporters, including key details about the events and their aftermath."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

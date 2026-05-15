@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula's convictions were annulled due to procedural issues, not because he was found innocent, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the annulment was due to jurisdictional issues and clarifies that Lula was not found innocent."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment was due to procedural issues (jurisdictional incompetence) and explicitly clarifies that it does not mean Lula was found innocent, aligning perfectly with the ground truth and resolution criteria."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-A",
+  "model": "claude_sonnet",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "score": null,
+      "binary": null,
+      "reasoning": "Judge error: could not parse JSON from: ```json\n{\n  "
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Rede Globo receives federal advertising, explains the legality and regulation of the practice, and notes the variations in funding under different administrations."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

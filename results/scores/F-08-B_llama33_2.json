@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-B",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly notes the registration deadline but fails to mention Tarcísio's missed deadline due to desincompatibilização."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas has not declared his candidacy for president, failing to acknowledge that he missed the deadline for presidential candidacy by opting for re-election as governor."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio de Freitas is the current Minister of Infrastructure and provides an incorrect deadline for presidential candidacies, failing to mention the desincompatibilização requirement."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

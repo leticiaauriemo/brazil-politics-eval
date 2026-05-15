@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests Tarcísio de Freitas is considering a presidential run and does not mention his choice to run for reelection in São Paulo or the missed federal candidacy deadline."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio de Freitas has not publicly ruled out a presidential candidacy and completely misses the core factual claim about his decision to run for re-election in São Paulo and the missed federal candidacy deadline."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly hedges on Tarcísio's presidential candidacy rather than stating he missed the federal candidacy deadline due to focusing on SP reelection."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

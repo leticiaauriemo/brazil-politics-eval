@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's core factual claim about Bolsonaro's ineligibility is based on an incorrect premise (reelection for two consecutive terms) and completely misses the actual reasons for his ineligibility."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsonaro cannot run in 2026 due to constitutional limits on consecutive terms, providing a clear and accurate explanation."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims Bolsonaro cannot run in 2026 due to term limits, ignoring the actual reasons of TSE ineligibility and criminal conviction."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

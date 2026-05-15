@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Brazilian Constitution does not prevent Lula from running in 2026 and accurately reflects the legal interpretation regarding consecutive terms."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the Constitution does not prevent Lula from running in 2026, but lacks specific explanation of the constitutional logic and the TSE position."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

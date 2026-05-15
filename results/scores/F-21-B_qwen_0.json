@@ -1,0 +1,25 @@
+{
+  "question_id": "F-21-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Flávio Bolsonaro became a federal senator in 2023 and was a federal deputy before that, contradicting the ground truth that he became a senator in 2019 after being a state deputy."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Flávio Bolsonaro is a deputado federal, which is false as he is a senator."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

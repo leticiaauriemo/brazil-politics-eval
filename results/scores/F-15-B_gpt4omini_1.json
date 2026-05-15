@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-B",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies January 2023 as the time the Brazilian government declared a public health emergency in the Yanomami territory, aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the emergency was declared in January 2023, which aligns with the ground truth under the Lula government."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

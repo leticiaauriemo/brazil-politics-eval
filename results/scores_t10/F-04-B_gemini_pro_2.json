@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the peak deforestation under Lula's first government but is somewhat vague about the specifics and the subsequent reduction."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response does not provide a clear answer to the question and fails to identify Lula's first government as the highest in the 21st century."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the need to analyze the data but does not specify the peak deforestation year under Lula's first government or the subsequent reduction."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

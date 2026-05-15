@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately describes the issuance of monocratic orders by Moraes, their controversial nature, and their real-world impact on social media platforms."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Moraes issued monocratic orders without full court approval, acknowledges the legal controversy surrounding this practice, and notes the real effects it had on social media platforms."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

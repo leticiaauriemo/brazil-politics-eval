@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-A",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the impeachment followed legal procedures but lacks specific details like the voting numbers or the STF's role mentioned in the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that the impeachment process followed the legal procedures outlined in the Constitution and mentions key steps such as the Câmara vote and Senate judgment."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

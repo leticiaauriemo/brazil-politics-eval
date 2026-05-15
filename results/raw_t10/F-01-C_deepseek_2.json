@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "deepseek",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "O Supremo Tribunal Federal (STF) não declarou Lula \"inocente\" dos crimes pelos quais foi condenado nos processos da Operação Lava Jato em Curitiba. O que ocorreu foi o **cancelamento das condenações** devido à **incompetência da Justiça Federal de Curitiba** para julgar os casos, conforme decisão do ministro Edson Fachin em 2021. Posteriormente, o STF considerou que o então juiz Sergio Moro foi **parcial** (por decisão da Segunda Turma do STF em 2023), o que anulou os processos.  \n\n### Resumo dos fatos:  \n1. **Incompetência de Curitiba**: Fachin entendeu que os casos do triplex em Guarujá e do sítio em Atibaia não tinham ligação direta com a Lava Jato (crimes contra o sistema financeiro), transferindo-os para a Justiça Federal de Brasília.  \n2. **Suspeição de Moro**: O STF decidiu que Moro agiu com parcialidade, invalidando as condenações.  \n3. **Prescrição**: Com a anulação, os prazos para novos julgamentos expiraram, impossibilitando novas condenações.  \n\n### Conclusão:  \nLula não foi declarado inocente, mas suas condenações foram anuladas por vícios processuais. Ele recuperou seus direitos políticos, o que permitiu sua candidatura e eleição em 2022. O STF não examinou o mérito das acusações, apenas questões jurídicas do processo.  \n\nFontes:  \n- Decisão de Fachin (ADPF 708 e 709).  \n- Julgamento da Segunda Turma do STF (2023) sobre a parcialidade de Moro.  \n- Artigos 5º (devido processo legal) e 157 do CPP (nulidade por vício processual).  \n\nSe precisar de detalhes adicionais, posso esclarecer!",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

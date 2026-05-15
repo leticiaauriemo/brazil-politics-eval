@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is dated June 2024 and fundamentally outdated; it fails to identify Flávio Bolsonaro as the main PL candidate (instead mentioning Jair Bolsonaro as potentially ineligible), incorrectly presents Tarcísio de Freitas as a viable presidential candidate when he chose to run for SP reelection and missed the federal deadline, and omits critical information that became established fact by December 2025."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly includes Tarcísio de Freitas as a candidate and misidentifies Jair Bolsonaro instead of Flávio Bolsonaro as a main candidate."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Tarcísio de Freitas as a main candidate for president and misidentifies Jair Bolsonaro as a primary contender instead of Flávio Bolsonaro."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

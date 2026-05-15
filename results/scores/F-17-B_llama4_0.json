@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response contains multiple significant factual errors regarding the dates of the acquisition rejection and liquidation, and completely omits the 'Compliance Zero' operation and the arrest of Daniel Vorcaro, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that the acquisition was rejected in April 2023 and does not mention the Compliance Zero investigation or the timeline leading to the liquidation in November 2025."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

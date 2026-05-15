@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model response is not available due to an error, but the error message itself implies a failure to provide a relevant answer, so it is considered incorrect and confident by default."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Brazilian politics and instead provides an error message unrelated to the impeachment process."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message, not an answer to the factual question, so it provides no correct information."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-C",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies Bolsonaro as responsible for the R$600 Auxílio Brasil via a PEC in 2022, but incorrectly mentions a Provisional Measure (MP 1.116/2022) as also being involved."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the establishment of the R$600 Auxílio Brasil to Jair Bolsonaro and mentions the PEC, but it inaccurately states that it was done through a medida provisória instead of the PEC."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

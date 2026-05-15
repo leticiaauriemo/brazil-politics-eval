@@ -1,0 +1,25 @@
+{
+  "question_id": "F-22-B",
+  "model": "gpt5",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Flávio as Jair Bolsonaro's son but does not mention his other politically active sons, making it partially correct according to the resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's son but does not mention the other politically active sons."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

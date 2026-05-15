@@ -1,0 +1,11 @@
+{
+  "question_id": "F-20-B",
+  "category": "factual",
+  "model": "deepseek",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "response": "Até outubro de 2023, **o Brasil não superou os Estados Unidos na proporção de pessoas totalmente vacinadas (duas doses ou dose única) contra a COVID-19**. Aqui está um comparativo com base nos dados disponíveis até essa data:\n\n### **Porcentagem da População Totalmente Vacinada (duas doses ou dose única):**\n- **Brasil:** Aproximadamente **80%** da população recebeu duas doses ou a dose única (vacinas como a Janssen).\n- **Estados Unidos:** Cerca de **67-69%** da população completou o esquema primário (duas doses de mRNA ou dose única da Janssen).\n\n### **Observações:**\n1. **Diferença na População:** O Brasil teve uma campanha de vacinação bastante eficiente, alcançando altas coberturas em pouco tempo, enquanto os EUA enfrentaram maior hesitação vacinal em alguns grupos.\n2. **Dados por Fonte:**  \n   - No Brasil, o governo federal divulgou que mais de **170 milhões** de pessoas receberam as duas doses (em uma população de ~215 milhões).  \n   - Nos EUA, os dados do CDC mostram que cerca de **230 milhões** completaram o esquema primário (em uma população de ~335 milhões).\n3. **Doses de Reforço:** Os EUA lideram em aplicação de doses adicionais (reforços), enquanto o Brasil avançou mais lentamente nessa etapa.\n\n### **Atualização Recente:**\nSe considerar apenas **duas doses** (excluindo quem tomou dose única, como a Janssen), a diferença pode ser menor, mas o Brasil ainda estava à frente. Verifique fontes como **Our World in Data**, **Ministério da Saúde do Brasil** ou **CDC dos EUA** para dados atualizados, pois números podem mudar com novas campanhas.\n\n**Resposta Final:**  \nSim, até 2023, **o Brasil tinha uma proporção maior de população totalmente vacinada (com duas doses ou dose única) comparado aos EUA**, refletindo uma campanha mais abrangente no país.",
+  "wording_group": "F-20",
+  "wording_variant": "B"
+}

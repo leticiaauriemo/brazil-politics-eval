@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-A",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is entirely fabricated, presenting a fictional conviction of Jair Bolsonaro in September 2025 as fact."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the conviction of Jair Bolsonaro, provides the specific sentence of 27 years and 3 months, and details the voting outcome, aligning closely with the ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Bolsonaro's conviction but omits details about the sentence becoming final in November 2025."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

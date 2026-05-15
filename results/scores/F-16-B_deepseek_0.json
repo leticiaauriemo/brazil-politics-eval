@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the establishment of the R$600 value to Bolsonaro's Auxílio Brasil in 2022 and clarifies Lula's role in maintaining and renaming it to Bolsa Família in 2023, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately attributes the creation of the R$600 value to Bolsonaro under the Auxílio Brasil program and provides clear context about its implementation and subsequent continuation by Lula."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Bolsonaro as the creator of the R$600 benefit through Auxílio Brasil, but lacks specific mention of PEC 1/2022 and its July 2022 approval date, and slightly mischaracterizes the 2021 timeline by suggesting the R$600 was only temporary pandemic-related rather than formally established via PEC in 2022."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

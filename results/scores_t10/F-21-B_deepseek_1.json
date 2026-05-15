@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response contains an error message instead of addressing the factual question about Flávio Bolsonaro's political position."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Flávio Bolsonaro is a deputado federal or governor, which is false."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message that provides no factual information about Flávio Bolsonaro's political position, making it impossible to evaluate the accuracy of any claim about whether he is a senator or deputy."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

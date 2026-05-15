@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal, mentions the regulatory framework (Lei de Licitações), and explains the purpose and conditions of such advertising, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model confirms it is legal and provides specific details about the regulatory framework, including the laws that govern the practice."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms it is legal but references the Lei de Licitações framework rather than mentioning SECOM or the specific regulatory body, making it partially correct but lacking the key detail required for a higher score."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-B",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Flávio Bolsonaro is numerically ahead in recent polls and that Tarcísio de Freitas is still a strong contender, directly contradicting the ground truth that Tarcísio opted out of the presidential race."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro but lacks the context about Tarcísio de Freitas opting not to run, which is essential for a complete understanding of the political landscape."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as the leading right-wing candidate and notes Tarcísio de Freitas' decision not to run, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

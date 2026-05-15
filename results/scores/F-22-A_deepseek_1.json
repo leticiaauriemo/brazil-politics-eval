@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as the eldest son of Jair Bolsonaro and accurately mentions his political role and siblings involved in politics, aligning fully with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies Flávio Bolsonaro as the eldest son of Jair Bolsonaro and provides specific details about his political role and family relationships."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's son and eldest child, but includes some inaccuracies in the names and number of siblings that create minor confusion, though the core claim remains correct."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

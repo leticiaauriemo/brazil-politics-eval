@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-C",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Bolsonaro was in the US, specifically in Orlando, Florida, on January 8, 2023, and provides accurate context about when he left and returned to Brazil."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro was in the US (Florida) on January 8, 2023, and provides specific context about his departure and return."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that Bolsonaro was in Orlando, Florida on January 8, 2023, provides accurate context about his departure on December 30, 2022, and his return in late March 2023, matching all key details from the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

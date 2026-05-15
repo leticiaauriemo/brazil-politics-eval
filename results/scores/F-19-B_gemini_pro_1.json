@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that Tarcísio de Freitas is still a strong candidate for the presidency, which contradicts the fact that he opted for re-election in SP."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect but hedged, as it mentions the complexity of the situation without providing a clear answer to the question about the strongest right-wing candidate."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

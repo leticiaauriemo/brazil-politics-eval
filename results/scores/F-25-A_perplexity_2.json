@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Romeu Zema is no longer governor and has renounced his position to run for president, which contradicts the ground truth that he is currently governor and his second term ends in 2026."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Zema no longer occupies the governorship and claims he has renounced the position, which is false."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states there is no official information about Bolsonaro's ineligibility, directly contradicting the ground truth that he was declared ineligible by the TSE in June 2023."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no official information about Jair Bolsonaro's ineligibility, despite the TSE ruling and the upcoming STF conviction."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states there is no official information about Bolsonaro's ineligibility, ignoring the TSE ruling and STF conviction."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

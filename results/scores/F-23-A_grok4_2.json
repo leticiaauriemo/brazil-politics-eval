@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not provide any factual information about Lula's eligibility to run."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address the factual question about Brazilian politics."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a system error message with no factual content about Brazilian politics, making it impossible to evaluate correctness."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

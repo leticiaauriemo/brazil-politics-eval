@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the declaration occurred in 2023, specifically on January 20 under President Lula's government, matching the ground truth with clear and specific details."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the date, year, and government involved in the declaration of emergency, matching the ground truth."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the declaration occurred in 2023, specifies the exact date of January 20, 2023, and attributes it to the Lula government, matching all core details of the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

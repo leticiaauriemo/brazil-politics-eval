@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-C",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio as the oldest son of Jair Bolsonaro."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio as the oldest son and provides accurate birth years and order for the other children."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly identifies Flávio as the oldest son with accurate birth year, but names the daughter 'Renata' instead of 'Laura,' which is a minor factual error that doesn't affect the core claim being evaluated."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

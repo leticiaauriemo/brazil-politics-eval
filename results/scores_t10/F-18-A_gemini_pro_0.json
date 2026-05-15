@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message that provides no factual information about Daniel Vorcaro's arrests, making it incorrect and failing to address the query."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Daniel Vorcaro's arrests or the Operation Compliance Zero."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Model produced an error response with no factual claim about the arrests."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

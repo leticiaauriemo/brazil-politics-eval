@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-B",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms Brazil surpassed the US in double-dose coverage and mentions the role of Brazil's public health system, but the vaccination percentages are slightly off from the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Brazil surpassed the US in double-dose vaccination coverage but is slightly vague about the exact percentages and does not explicitly mention the role of SUS/PNI."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Brazil surpassed the US in double-dose vaccination coverage, provides accurate percentages for both countries, and explains the role of Brazil's public health structure (SUS/PNI equivalent) in achieving this success."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly states Bolsonaro is ineligible until 2030 by TSE decision, explains the reasons, and mentions the possibility of further criminal convictions, fully matching the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states Bolsonaro's ineligibility until 2030 due to the TSE decision and provides specific details about the reasons for the condemnation."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Bolsonaro is ineligible to run until 2030 and mentions the TSE ineligibility decision."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

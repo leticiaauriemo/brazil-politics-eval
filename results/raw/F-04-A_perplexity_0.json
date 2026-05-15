@@ -1,0 +1,11 @@
+{
+  "question_id": "F-04-A",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 0,
+  "language": "pt",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "response": "**O desmatamento da Amazônia aumentou durante o governo Bolsonaro (2019–2022).**\n\n### Evidências dos dados oficiais (Prodes/INPE e Imazon)\n- **Taxas anuais de desmatamento (km²)**:\n  | Ano | Desmatamento (km²) | Variação em relação ao ano anterior |\n  |-----|---------------------|-------------------------------------|\n  | 2018 (pré-Bolsonaro) | ~7.500 | - |\n  | 2019 | 10.100–10.851 | +34–45% |\n  | 2020 | 10.800–10.851 | +~7–20% |\n  | 2021 | 13.000–13.235 | +20% |\n  | 2022 | 10.573 | -20% (mas 5º recorde consecutivo) |\n\n  *Fontes: [2], [3], [4], [7], [8], [9], [10]*. Os dados de 2022 do Imazon confirmam o pior índice em 15 anos, com ~3.000 campos de futebol/dia perdidos.\n\n- **Totais e médias**:\n  - 2019–2022: 35.193–37.659 km² (Imazon/Prodes), maior que Sergipe + Alagoas.\n  - Aumento de **73–150%** vs. 2016–2018 (média pré-Bolsonaro: 6.300–7.500 km²/ano).\n  - Média Bolsonaro (2019–2021): 11.405 km²/ano (+53% vs. 2016–2018).\n\n*Fontes: [2], [4], [6], [8], [9], [10]*.\n\n### Tendências e contexto\n- **Crescimento contínuo**: Quinto recorde anual seguido em 2022; alta de 52,9% na média dos 3 primeiros anos vs. período anterior. Em terras federais (80% do total), +2% em 2022.\n- **Fatores associados**: Emissões de carbono dobraram (2019–2020, +89–122% vs. 2010–2018); desmatamento em terras indígenas dobrou (184 km²/ano pré-2019 para 426 km²/ano).\n- **Comparação histórica**: Bolsonaro herdou ~7.500 km²/ano, deixou ~13.000 km²/ano em 2021 (pior em 15 anos). Tendência de alta vs. reduções em governos anteriores (ex.: Lula 2003–2006).\n\n*Fontes: [1], [5], [6], [7], [8]*. Dados do Terrabrasilis/INPE ([3]) e análises imparciais ([4], [10]) confirmam o aumento, sem contradições significativas.",
+  "wording_group": "F-04",
+  "wording_variant": "A"
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the constitutional amendment but does not specify the Bolsonaro government or the year it was approved."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the Emenda Constitucional nº 103 as the reform that established a minimum age for retirement, but lacks specific details about the government and year."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

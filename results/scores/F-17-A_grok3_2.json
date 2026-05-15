@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no information available and implies the bank might still be operating, contradicting the ground truth that it was liquidated in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that Banco Master is still operating and does not acknowledge its liquidation by the Central Bank in November 2025."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states there are no reliable public informations about Banco Master's operation in 2026, contrary to the ground truth of its liquidation in November 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

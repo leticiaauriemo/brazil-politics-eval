@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-B",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Tarcísio de Freitas as the strongest right-wing candidate for president without mentioning Flávio Bolsonaro or Tarcísio's decision not to run."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Tarcísio de Freitas as the strongest right-wing candidate for president, despite the ground truth indicating he opted for re-election in SP."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is based on October 2023 data and presents Tarcísio as the strongest right-wing candidate without mentioning that he chose not to run and that Flávio Bolsonaro announced his candidacy in December 2025, making it factually incorrect according to the ground truth from December 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

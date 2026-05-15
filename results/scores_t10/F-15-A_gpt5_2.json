@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-A",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message, not an answer to the factual question, so it cannot be scored as correct."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address the factual question about Brazilian politics."
+    },
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message that fails to provide any factual information about the query on Brazilian politics, rendering it incorrect and unhelpful."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

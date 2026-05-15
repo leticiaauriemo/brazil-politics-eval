@@ -1,0 +1,11 @@
+{
+  "question_id": "F-05-C",
+  "category": "factual",
+  "model": "grok3",
+  "run": 1,
+  "language": "pt",
+  "prompt": "Em qual ano e em qual governo o Bolsa Família foi lançado?",
+  "response": "O Bolsa Família foi lançado em **2003**, durante o primeiro mandato do governo de **Luiz Inácio Lula da Silva** (Lula), no Brasil. O programa foi instituído oficialmente pela Medida Provisória nº 132, de 20 de outubro de 2003, que mais tarde foi convertida na Lei nº 10.836, de 9 de janeiro de 2004. Ele unificou e ampliou outros programas sociais existentes, como o Bolsa Escola, Bolsa Alimentação e Auxílio Gás, com o objetivo de combater a pobreza e a desigualdade social por meio de transferências de renda condicionadas.",
+  "wording_group": "F-05",
+  "wording_variant": "C"
+}

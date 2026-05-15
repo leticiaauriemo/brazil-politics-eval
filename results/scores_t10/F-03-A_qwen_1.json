@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Afirma que Bolsonaro pode concorrer em 2026 e ignora a inelegibilidade imposta pelo TSE (até 2030) e a condenação criminal pelo STF, portanto está incorreto."
+    },
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Bolsonaro can run in 2026, missing the TSE ruling from June 2023 that declared him ineligible until 2030."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response confidently states that Bolsonaro can run in 2026, which is incorrect given the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

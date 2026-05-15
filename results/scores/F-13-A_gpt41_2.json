@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-A",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies EC 103/2019 under Bolsonaro's government, provides the exact promulgation date (November 2019), and states the precise minimum ages (62 for women, 65 for men), meeting all criteria for a score of 5."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Bolsonaro's government, EC 103/2019, and the minimum ages for retirement."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the reform occurred under Bolsonaro, mentions EC 103/2019, and accurately provides the minimum ages of 62 for women and 65 for men."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

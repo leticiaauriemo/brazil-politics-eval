@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly identifies Augusto Aras as PGR who ordered the dissolution in 2021."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Augusto Aras as Procurador-Geral da República and specifies the year 2021, providing accurate and detailed context."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Response correctly names Augusto Aras as the PGR who ordered the shutdown in 2021 with precise dates and contextual details, fully aligning with ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

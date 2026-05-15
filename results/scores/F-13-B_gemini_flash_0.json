@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the final approval and promulgation of EC 103 to Bolsonaro's government but introduces confusion by emphasizing Temer's role in the process."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the approval of the reform during Bolsonaro's government but hedges by attributing the initial proposal and process to Michel Temer."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro's government but incorrectly emphasizes Temer's role, leading to partial accuracy."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "O modelo forneceu corretamente que Flávio Bolsonaro é senador federal pelo Rio de Janeiro, eleito em 2018, com detalhes precisos sobre data de posse e contexto familiar/político, sem erros ou omissões significativas."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Flávio Bolsonaro is a Federal Senator for Rio de Janeiro, elected in 2018, and provides additional relevant context."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as Federal Senator for Rio de Janeiro, elected in 2018, with accurate details about his assumption of office in February 2019, meeting all criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

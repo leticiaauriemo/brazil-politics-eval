@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Flávio Bolsonaro is a senator (senador federal) elected in 2018 for Rio de Janeiro since 2019, and previously a state deputy (deputado estadual), matching the ground truth precisely without errors or hedging."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Accurately states he is a senator elected in 2018 for Rio de Janeiro and previously a state deputy, matching the ground truth."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a senator (senador) elected in 2018 representing Rio de Janeiro, and accurately notes his prior service as a state deputy (deputado estadual), matching the ground truth exactly."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

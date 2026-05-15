@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the 8-year duration of ineligibility, the end date of 2030, and the reason for the ineligibility."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the duration of ineligibility as 8 years but hedges by referencing the election date instead of directly linking it to the TSE's declaration."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Daniel Vorcaro (misidentified as Átila Barros) faces no criminal charges in 2026, contradicting the ground truth about his arrests and formal charges in Operation Compliance Zero."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Átila Barros faces no criminal charges, contradicting the established facts about Daniel Vorcaro's legal issues."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies the founder as 'Átila Barros' instead of 'Daniel Vorcaro' and denies criminal charges entirely, contradicting the ground truth that Vorcaro was arrested twice and faces multiple serious criminal charges from Operação Compliance Zero."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

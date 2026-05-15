@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Tarcísio de Freitas as a potential presidential candidate for 2026, despite the ground truth stating he is not running."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas is a potential candidate for president, despite the ground truth indicating he is not running."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly includes Tarcísio de Freitas as a potential candidate and misrepresents Jair Bolsonaro's eligibility."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

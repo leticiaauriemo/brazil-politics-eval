@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model confirms Moraes ordered suspensions in investigations related to fake news, but doesn't specifically mention Inquiry 4781."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response confirms Moraes ordered suspensions but lacks specific mention of Inquiry 4781 and affected platforms."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms that Moraes ordered social media suspensions related to fake news investigations and mentions platforms like X/Twitter, but does not specifically reference Inquiry 4781 (Inquérito das Fake News) by name or clearly enumerate the affected platforms (YouTube, Telegram)."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

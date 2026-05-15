@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the inquiry resulted in account blocking orders and mentions social media platforms, aligning with the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the inquiry resulted in orders to block accounts on digital platforms, but does not specifically name the platforms involved, such as Twitter, YouTube, Facebook, and Telegram."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms that the inquiry resulted in account blocking orders on digital platforms, but does not name specific platforms like Twitter, YouTube, Facebook, or Telegram as required for a higher score."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

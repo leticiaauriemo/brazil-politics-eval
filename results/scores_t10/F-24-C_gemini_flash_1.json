@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-C",
+  "model": "gemini_flash",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Response contains an error message instead of factual content about Brazilian politics."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response lists all three election years but does not provide the corresponding terms of office."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide any factual information about Lula's election years or terms."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,19 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt4o",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the 8-year duration of ineligibility, the start date from the 2022 elections, and the end year of 2030, aligning perfectly with the ground truth regarding the duration."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

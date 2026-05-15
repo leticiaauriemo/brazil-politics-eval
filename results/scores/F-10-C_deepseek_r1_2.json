@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly names Augusto Aras as the Procurador-Geral da República and specifies the year 2021 for the dissolution of the task force in Curitiba."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Augusto Aras as the Procurador-Geral da República and provides the year 2021, along with specific details about the decision."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically identifies Augusto Aras as the Procurador-Geral da República who dissolved the Lava Jato task force in Curitiba in February 2021, matching all resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

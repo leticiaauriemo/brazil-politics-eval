@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies 'pedaladas fiscais' as the core reason for Dilma's impeachment, explains their nature as fiscal manipulation through delayed transfers and unauthorized credit operations, and clarifies that personal corruption was not the basis for the impeachment charges."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains the concept of 'pedaladas fiscais' as violations of fiscal responsibility, clarifies that the impeachment was not based on personal corruption, and provides specific details about the actions taken."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies pedaladas fiscais as the basis for impeachment, accurately explains what they were (delays in transfers to public banks), correctly distinguishes them from personal corruption charges, and appropriately contextualizes the political nature of the process."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

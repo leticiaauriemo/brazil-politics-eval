@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address Tarcísio's choice for SP reelection or the missed federal candidacy deadline, instead speculating on unrelated factors."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests that Tarcísio de Freitas may not be running for president without acknowledging his actual choice to run for reelection as governor and the missed federal candidacy deadline."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model does not provide the correct reason for Tarcísio de Freitas not running for president in 2026, instead stating it's difficult to determine without updated information."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

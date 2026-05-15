@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message with no factual content to evaluate."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Brazil's COVID-19 vaccination ranking or the reasons for its performance, instead returning an error message unrelated to the topic."
+    },
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message unrelated to the factual question, failing to address Brazil's vaccination performance or its causes."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

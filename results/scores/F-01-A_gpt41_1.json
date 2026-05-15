@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims Lula was declared innocent ('considerado inocente') when the ground truth explicitly states he was NOT declared innocent—the convictions were annulled on procedural grounds (jurisdictional incompetence and judicial bias), not on the merits, conflating annulment with acquittal in direct violation of the resolution criteria."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula was declared innocent, conflating annulment with acquittal, which is factually incorrect."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula was considered innocent and conflates annulment with acquittal."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

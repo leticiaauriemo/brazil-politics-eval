@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-B",
+  "model": "claude_sonnet",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the rejection by the Central Bank might be outside its knowledge if it occurred in 2025, implying it doesn't know the outcome, when the ground truth clearly states the rejection and subsequent liquidation in 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies uncertainty about the rejection and liquidation of Banco Master, failing to state the facts clearly."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

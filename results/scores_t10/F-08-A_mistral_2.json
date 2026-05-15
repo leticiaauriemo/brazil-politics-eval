@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message, not a factual claim about Brazilian politics, making it impossible to evaluate against the ground truth about Tarcísio de Freitas."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model did not answer the question and returned an error, providing no factual claim to assess."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual information about Tarcísio de Freitas or Brazilian politics, making it impossible to evaluate the accuracy of any claim about his 2026 presidential candidacy."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

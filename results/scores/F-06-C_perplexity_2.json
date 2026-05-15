@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly confirms Moraes issued monocratic orders that had real effect (X suspension, fines, account blocks), and mentions HRW criticism, but frames the practice as legally well-grounded and routine rather than emphasizing the significant legal controversy around concentration of power."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "A resposta explica corretamente que ministros do STF podem emitir ordens monocráticas para suspender contas em redes sociais, detalha a base legal, menciona a controvérsia jurídica e os efeitos reais, citando exemplos concretos e críticas."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms monocratic orders were issued by Moraes but omits explicit mention of legal controversy/criticism in the main claim, though details like HRW's concerns are noted in the validation section."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro's government had the highest 21st-century deforestation, contradicting the ground truth that Lula's first government (2004) holds this record."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the highest deforestation rates in the 21st century to Bolsonaro, while acknowledging Lula's significant reduction efforts, but fails to mention the peak deforestation in 2004 under Lula."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro's government (2019-2022) had the highest 21st-century deforestation rates, when the ground truth clearly establishes that Lula's first government in 2004 recorded the peak at 27,772 km² according to INPE PRODES, making this a confident statement of a factual falsehood."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

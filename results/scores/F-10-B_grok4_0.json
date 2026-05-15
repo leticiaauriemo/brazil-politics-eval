@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the fact that the Lava Jato task force was dissolved in February 2021 during Bolsonaro's government and mentions PGR Aras, meeting the criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the dissolution occurred during Bolsonaro's government in 2021 and mentions PGR Augusto Aras."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the dissolution occurred in February 2021 during the Bolsonaro government and specifically names PGR Augusto Aras as the decision-maker."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

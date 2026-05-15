@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response correctly hedges due to knowledge cutoff and does not confirm or deny the charges, but fails to provide the factual claim or list the crimes, thus not meeting the criteria for a higher score."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect as it fails to confirm the criminal charges against Daniel Vorcaro, but it hedges by acknowledging limitations and suggesting further research."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it has no reliable information and does not confirm any criminal charges against Daniel Vorcaro, instead suggesting external sources for accurate information."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.0,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Rede Globo receives federal advertising funds through SECOM and that this is regulated, but it omits the historical context of this practice under different governments and the specific changes under Bolsonaro and Lula."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Rede Globo receives federal advertising and mentions the role of SECOM, but it hedges on the implications of advertising on editorial independence."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

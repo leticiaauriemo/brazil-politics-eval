@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message and does not state the factual reasons for the X suspension, so it is incorrect and uninformative."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is just an API error and does not answer the question or mention the refusal to comply with court orders or the lack of a legal representative in Brazil."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual information about Brazilian politics or the X suspension, making it impossible to evaluate the accuracy of any claim about STF's reasons for the ban."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

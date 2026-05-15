@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-C",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly lists all three election years (2002, 2006, 2022) but omits the corresponding terms."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies the election years but omits the corresponding terms of office."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies all three election years but does not provide the corresponding terms, which is a significant omission according to the resolution criteria."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

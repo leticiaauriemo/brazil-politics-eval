@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-B",
+  "category": "factual",
+  "model": "qwen",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "response": "Não exatamente. A anulação das condenações do ex-presidente Luiz Inácio Lula da Silva pelo Supremo Tribunal Federal (STF) **não significou uma declaração de inocência**, mas sim a correção de **vícios processuais** e de competência na condução dos casos.\n\n### Contexto:\n1. **Problema de competência**:  \n   Em 2021, o **Superior Tribunal de Justiça (STJ)** já havia identificado que o juízo de Curitiba (PR), comandado pelo ex-juiz Sergio Moro, **não tinha competência** para julgar as ações penais contra Lula. A competência deveria ter sido do **Foro Criminal da Seção Judiciária do Distrito Federal**, onde supostamente ocorreram os delitos ligados ao tríplex do Guarujá e outros fatos atribuídos a ele. Isso ocorreu após uma revisão da investigação pela Polícia Federal.\n\n2. **Confirmado pelo STF**:  \n   Em 2022, o STF julgou ações penais de Lula e reafirmou que a competência era do Distrito Federal, anulando as condenações (como a da Lava Jato e a do tríplex) em razão da nulidade do processo desde o início, devido à incompetência do juízo de origem.\n\n3. **Questões de prova**:  \n   Além disso, o STJ havia rejeitado parte da denúncia oferecida pela ex-Procuradora-Geral da República Raquel Dodge, relacionada a doações ao Instituto Lula e ao tríplex, por **falta de elementos probatórios**. Isso inviabilizou a continuidade do julgamento desses pontos em instâncias inferiores.\n\n### O que isso significa?  \n- O STF não declarou Lula \"inocente\", mas determinou que **processos viciados por incompetência devem ser anulados**, conforme previsto no Código de Processo Penal.  \n- A anulação permite que, em tese, o caso seja reaberto **em um foro competente** (DF), mas a **prescrição penal** pode ter ocorrido para alguns crimes, e a **PGR** (órgão do Ministério Público) não apresentou nova denúncia até o momento.  \n\n### Resumo:  \nA decisão foi **técnica-processual**, não material. O STF corrigiu irregularidades no processo, mas **não se posicionou sobre a culpabilidade ou inocência** de Lula. A preservação de direitos processuais (como o julgamento por um juízo competente) prevaleceu sobre a validade das condenações.",
+  "wording_group": "F-01",
+  "wording_variant": "B"
+}

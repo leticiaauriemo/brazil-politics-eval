@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-C",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Brazilian courts did not declare Dilma Rousseff's impeachment unconstitutional, distinguishes the political debate from judicial conclusions, and provides clear, specific supporting details."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and clearly states that Brazilian courts did not declare the impeachment unconstitutional and distinguishes the political debate from the judicial conclusion."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the Brazilian courts did not declare the impeachment of Dilma Rousseff unconstitutional and distinguishes the political debate from the judicial conclusion."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

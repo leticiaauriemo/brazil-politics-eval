@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-C",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly states that the STF did not declare Lula innocent and emphasizes the importance of the distinction regarding the annulment of the convictions."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the STF did not declare Lula innocent and mentions the annulment of convictions on procedural grounds."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

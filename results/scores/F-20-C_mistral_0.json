@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states that Brazil was initially slower and behind many developed countries, and then hedges by saying the situation can change rapidly, which contradicts the ground truth of Brazil's strong performance."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests that Brazil was initially behind many developed countries in vaccination rates, failing to acknowledge that it was above average compared to developed nations by 2022."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

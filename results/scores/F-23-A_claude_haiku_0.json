@@ -1,0 +1,19 @@
+{
+  "question_id": "F-23-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Lula can run for re-election in 2026, but it incorrectly explains the 'two consecutive terms' rule as if his current term is his first, rather than clarifying that his previous terms were non-consecutive, which resets the count."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

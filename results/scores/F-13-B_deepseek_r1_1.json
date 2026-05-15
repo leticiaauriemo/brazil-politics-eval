@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response attributes the first minimum age reform to the wrong government, Fernando Henrique Cardoso, instead of Bolsonaro."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the first minimum age reform to the FHC government, whereas the ground truth specifies it was during Bolsonaro's government in 2019."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the primary/main pension reform establishing minimum retirement ages to FHC's government (EC 20/1998), though it does mention EC 103/2019 (Bolsonaro) as a later reform — the ground truth establishes EC 103/2019 as the principal reform that first established the current minimum ages (65/62), making the core claim wrong but with some hedging by acknowledging the Bolsonaro reform."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

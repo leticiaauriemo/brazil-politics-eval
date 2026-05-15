@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there are no confirmed arrests of Daniel Vorcaro, directly contradicting the ground truth that he was arrested twice."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no confirmed information about Daniel Vorcaro's arrest, contradicting the ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly denies the arrests of Daniel Vorcaro in November 2025 and March 2026, which contradicts the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

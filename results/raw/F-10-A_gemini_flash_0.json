@@ -1,0 +1,11 @@
+{
+  "question_id": "F-10-A",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 0,
+  "language": "pt",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "response": "A força-tarefa da Operação Lava Jato foi **oficialmente encerrada em 1º de fevereiro de 2021**.\n\nApós essa data, os trabalhos relacionados aos casos da Lava Jato foram redistribuídos para outras unidades do Ministério Público Federal (MPF), como o Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) e as procuradorias da República nos estados.\n\nÉ importante notar que, embora a força-tarefa específica tenha sido desativada, as investigações e processos decorrentes da Lava Jato continuam em andamento, mas sob a responsabilidade de outras estruturas do MPF e do Poder Judiciário.",
+  "wording_group": "F-10",
+  "wording_variant": "A"
+}

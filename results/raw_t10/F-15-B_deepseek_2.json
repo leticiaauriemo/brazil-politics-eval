@@ -1,0 +1,12 @@
+{
+  "question_id": "F-15-B",
+  "category": "factual",
+  "model": "deepseek",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-15",
+  "wording_variant": "B"
+}

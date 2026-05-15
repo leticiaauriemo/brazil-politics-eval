@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-C",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies Tarcísio is focused on political strategy without addressing his choice for reelection in São Paulo or the missed federal candidacy deadline."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response does not address the core factual claim about Tarcísio de Freitas' decision to run for reelection in São Paulo and missing the federal candidacy deadline."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

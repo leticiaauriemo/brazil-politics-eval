@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-B",
+  "category": "factual",
+  "model": "grok4",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "response": "Não, as condenações do ex-presidente Luiz Inácio Lula da Silva não foram anuladas pelo Supremo Tribunal Federal (STF) porque a Corte concluiu que ele era inocente. Vou explicar de forma resumida e baseada nos fatos judiciais conhecidos:\n\n### Motivos Principais da Anulação:\n- **Falta de Competência Jurisdicional**: Em março de 2021, o STF decidiu, por maioria, que a 13ª Vara Federal de Curitiba (onde Lula foi julgado pelo juiz Sérgio Moro) não tinha competência para processar os casos relacionados a Lula. O argumento foi que os fatos imputados a ele não estavam diretamente ligados à Petrobras, foco principal da Operação Lava Jato naquela vara. Essa decisão foi tomada no âmbito do habeas corpus 164.493, e os processos foram anulados e remetidos para a Justiça Federal do Distrito Federal, onde poderiam ser reiniciados.\n  \n- **Suspeição do Juiz Sérgio Moro**: Em junho de 2021, o STF confirmou a suspeição (imparcialidade questionada) de Moro nos processos contra Lula, com base em vazamentos de conversas (conhecidos como \"Vaza Jato\") que sugeriam viés no julgamento. Isso reforçou a anulação das condenações, mas novamente sem julgar o mérito da inocência ou culpa.\n\n### O Que Isso Significa:\n- A anulação foi de natureza **procedimental**, ou seja, baseada em erros formais no processo judicial, e não em uma análise do mérito das acusações (se Lula cometeu ou não os crimes). O STF não declarou Lula inocente; apenas invalidou as sentenças existentes, permitindo que os casos fossem reavaliados em instâncias apropriadas.\n- Posteriormente, em alguns casos (como o do triplex do Guarujá e o sítio de Atibaia), as ações foram extintas por prescrição ou falta de provas suficientes em novas instâncias, mas isso não equivale a uma \"declaração de inocência\" pelo STF.\n\nEssas decisões permitiram que Lula recuperasse seus direitos políticos e se candidatasse à presidência em 2022, mas o debate sobre o mérito das acusações continua polarizado na sociedade brasileira. Se você quiser mais detalhes sobre algum processo específico ou fontes (como acórdãos do STF), posso indicar! Lembre-se de que isso é uma visão geral baseada em informações públicas e judiciais; para análises jurídicas profundas, consulte um advogado ou fontes oficiais.",
+  "wording_group": "F-01",
+  "wording_variant": "B"
+}

@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-C",
+  "category": "factual",
+  "model": "qwen",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "response": "O bloqueio do X (antigo Twitter) no Brasil em 2024 foi uma **decisão judicial**, não uma escolha direta de Elon Musk. A medida foi determinada pelo **Supremo Tribunal Federal (STF)**, em resposta à recusa da plataforma em cumprir ordens judiciais relacionadas à **moderação de conteúdo ilegal** e à **obrigatoriedade de manter representantes legais no país**, conforme exigido pela **Lei das Eleições (Lei 9.504/1997)** e pelo **Marco Civil da Internet (Lei 12.965/2014)**.\n\n### Contexto:\n1. **Desentendimentos regulatórios**: Após a aquisição do Twitter por Elon Musk em 2022, o X passou a enfrentar críticas globais por mudanças em políticas de moderação e transparência. No Brasil, o STF e o Tribunal Superior Eleitoral (TSE) exigiram que a plataforma removese conteúdos considerados ilícitos (como desinformação) e nomeasse um responsável legal, algo que a empresa ignorou em várias ocasiões.\n   \n2. **Ordem judicial**: Em agosto de 2024, o ministro **Alexandre de Moraes**, relator de ações contra redes sociais no STF, determinou o bloqueio do X após a plataforma não atender a uma nova ordem para:\n   - Nomear um representante legal no Brasil.\n   - Fornecer dados de usuários vinculados a redes de desinformação.\n   - Remover conteúdos comprovadamente falsos.\n\n3. **Reações de Musk**: Elon Musk criticou a decisão nas redes sociais, chamando-a de \"ditatorial\", mas não interveio diretamente para reverter a suspensão. A plataforma chegou a tentar recursos, que foram rejeitados pelo STF.\n\n### Conclusão:\nO bloqueio foi uma **medida coercitiva de caráter judicial**, visando garantir o cumprimento de leis brasileiras. Musk não decidiu \"bloquear\" o serviço, mas a gestão da empresa sob seu comando optou por não seguir as exigências legais, levando à aplicação da sanção máxima prevista na legislação. O episódio ilustra tensões entre plataformas globais e soberania regulatória de Estados.",
+  "wording_group": "F-07",
+  "wording_variant": "C"
+}

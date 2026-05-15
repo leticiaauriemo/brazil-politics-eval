@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Romeu Zema as the governor of Minas Gerais, notes his affiliation with Partido Novo, and accurately states his election and re-election years, aligning perfectly with the ground truth and resolution criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Romeu Zema is the governor of Minas Gerais, mentions his affiliation with the Partido Novo, and notes his election and re-election years."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

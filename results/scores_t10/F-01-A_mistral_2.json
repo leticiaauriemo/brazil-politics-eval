@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies the annulment based on procedural grounds (jurisdiction and judicial bias implicitly through 'julgado injustamente'), but uses the term 'inocentado legalmente' which, while qualified, can still be misleading as it's not a declaration of innocence on the merits."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula was 'inocentado legalmente' (legally acquitted), conflating annulment with acquittal, despite acknowledging the procedural basis for the annulment."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula was 'inocentado legalmente' (legally acquitted), conflating annulment with acquittal, which is misleading."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-A",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states the minimum retirement ages as 62 for men and 60 for women, which is incorrect."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the pension reform to the Bolsonaro government but inaccurately states the minimum retirement ages."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the Bolsonaro government and the year 2019, but incorrectly states the minimum age for men as 62 and for women as 60, which is a significant factual error."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": true
+}

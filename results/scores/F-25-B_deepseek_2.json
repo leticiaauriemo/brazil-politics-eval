@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Romeu Zema's affiliation with Partido Novo and explicitly distinguishes it from PL (Partido Liberal), aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies Romeu Zema as a member of Partido Novo, correctly distinguishes it from PL, and provides relevant context about his elections and the party's orientation."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Romeu Zema as affiliated with Partido Novo, accurately describes the party's liberal economic orientation, and explicitly distinguishes it from PL (Partido Liberal), meeting all resolution criteria for a perfect score."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

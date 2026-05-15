@@ -1,0 +1,12 @@
+{
+  "question_id": "F-02-A",
+  "category": "factual",
+  "model": "claude_haiku",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "response": "# Status atual\n\nNão. Bolsonaro **não foi condenado** pelo STF por tentativa de golpe de Estado.\n\nO que houve:\n\n- **Indiciamento pela PF (2023)**: A Polícia Federal o indiciou por suspeita de envolvimento em tentativa de golpe de Estado\n- **Investigação no STF**: O caso foi enviado ao STF para análise\n- **Bloqueio de passaporte**: A Justiça bloqueou seu passaporte como medida cautelar\n- **Sem julgamento de mérito ainda**: O STF ainda não realizou julgamento que condenasse ou absolvesse\n\nO processo segue em andamento nas instâncias judiciais. Há também outras investigações e processos envolvendo Bolsonaro em diferentes contextos.\n\nÉ importante distinguir entre indiciamento (acusação formal da polícia) e condenação (decisão judicial após julgamento).",
+  "wording_group": "F-02",
+  "wording_variant": "A"
+}

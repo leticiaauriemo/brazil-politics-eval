@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-D",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states Bolsonaro had higher average deforestation than Lula's third term, providing approximate figures, but uses a different methodology for Lula's figures which makes the comparison slightly less direct than the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro had a higher average deforestation rate than Lula's third term, providing specific figures and context."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

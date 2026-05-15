@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is incorrect and hedged, as it does not confirm Brazil surpassed the US in double-dose coverage and suggests checking updated data, despite the ground truth providing specific historical data."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect as it does not confirm that Brazil surpassed the US in double-dose vaccination coverage and instead suggests uncertainty."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

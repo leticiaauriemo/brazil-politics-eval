@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-B",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests Tarcísio has not missed the deadline for a presidential candidacy in 2026, despite the ground truth stating he has."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio has not missed the deadline for the presidential candidacy, despite the requirement for desincompatibilização and the fact that he opted for re-election in São Paulo."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio de Freitas has not missed the deadline for the 2026 presidential election, failing to acknowledge the desincompatibilização requirement."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

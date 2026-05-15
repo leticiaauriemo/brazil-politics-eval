@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model confidently states that no generalized X blockade occurred in Brazil as of its knowledge cutoff (June 2024), directly contradicting the ground truth that X was blocked from August 30 to October 8, 2024 by Minister Alexandre de Moraes due to non-compliance with court orders."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there was no block of X in Brazil, contradicting the ground truth provided."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that X was not blocked in Brazil, contradicting the ground truth of a block from August to October 2024."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

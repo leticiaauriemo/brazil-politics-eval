@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not answer the factual question and instead reports an API error, so it provides no correct claim about the Bolsonaro government or EC 103."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and provides no factual claim about Brazil’s pension reform, so it fails to answer the question."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 0,
+      "reasoning": "The response is a technical error message and contains no factual claim about Brazilian politics to evaluate."
+    }
+  ],
+  "score_avg": 0.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

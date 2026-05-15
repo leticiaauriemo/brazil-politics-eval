@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it does not have information about events after October 2023, which is incorrect as the ground truth refers to a conviction in September 2025, a future event."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model does not provide any information about the conviction, instead stating it does not have access to information after October 2023."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model claims it has no knowledge of events after October 2023, which means it cannot provide the correct sentence of 27 years and 3 months, but it hedges appropriately by recommending reliable sources rather than stating a wrong answer confidently."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

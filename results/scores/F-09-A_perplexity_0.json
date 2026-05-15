@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Response correctly confirms the rejection/ignoring of Pfizer offers in 2020 with extensive accurate detail, but does not mention São Paulo's role (CoronaVac/Butantan) in initiating vaccination, which is part of the criteria for a 5."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the Brazilian government rejected or ignored Pfizer's vaccine offers in 2020, but lacks detail about the timing, the role of São Paulo, and specifics about the offers."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms the rejection of Pfizer offers by the Bolsonaro government but omits specific details about São Paulo's role in initiating vaccination."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

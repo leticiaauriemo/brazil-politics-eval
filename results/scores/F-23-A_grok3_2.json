@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula cannot run for re-election in 2026 and is ineligible, directly contradicting the ground truth that he can due to the non-consecutive nature of his current term."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula is ineligible for re-election in 2026, misinterpreting the constitutional rules regarding non-consecutive mandates."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Lula is ineligible for reelection in 2026, contradicting the ground truth about non-consecutive terms allowing another candidacy."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

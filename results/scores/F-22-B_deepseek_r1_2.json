@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's son but does not specify the political roles of the other sons."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's son and provides detailed information about his political role and family context, including the names of other politically active sons."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's son (specifically his oldest), names all three politically active sons (Flávio as senator, Carlos, and Eduardo), and provides accurate additional context about the family."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

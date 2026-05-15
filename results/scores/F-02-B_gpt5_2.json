@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is empty, providing no information about Bolsonaro's conviction or sentence."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model provided no response, indicating no knowledge of the conviction."
+    },
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is empty, effectively indicating no knowledge of the conviction and failing to provide any factual claim."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

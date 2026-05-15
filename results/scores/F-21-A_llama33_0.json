@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that Flávio Bolsonaro is a senator for the state of Rio de Janeiro."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a senator from Rio de Janeiro but lacks specific details about his election and term."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro as a senator for Rio de Janeiro, but omits the election year and the fact that he is a Federal Senator."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

@@ -1,0 +1,11 @@
+{
+  "question_id": "F-21-B",
+  "category": "factual",
+  "model": "gemini_pro",
+  "run": 2,
+  "language": "pt",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "response": "Flávio Bolsonaro é **senador**.\n\nEle foi eleito em 2018 para representar o estado do Rio de Janeiro, com um mandato que vai de 2019 a 2027.\n\nPortanto, ele não é deputado federal. Antes de se tornar senador, ele foi deputado estadual no Rio de Janeiro.",
+  "wording_group": "F-21",
+  "wording_variant": "B"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that government advertising in private TV stations is legal in Brazil, provides specific legal framework (Lei nº 12.232/2010), mentions regulatory oversight bodies (CGU, TCU), and explains the criteria for media selection, fully aligning with the ground truth."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Confirms the practice is legal in Brazil and accurately cites the governing legal framework (Lei 12.232/2010) and oversight, aligning with established regulations."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that government advertising in private TV stations is legal in Brazil, cites the specific regulatory framework (Lei nº 12.232/2010), mentions oversight bodies (CGU and TCU), and explains the criteria for selection, fully aligning with the ground truth requirements for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

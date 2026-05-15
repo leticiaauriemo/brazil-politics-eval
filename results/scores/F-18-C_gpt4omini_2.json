@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-C",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the operation occurred in 2023 and that the owner was arrested, when the ground truth indicates the arrests were in 2025 and 2026, and it misses the influencer scheme entirely."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states the year of the operation as 2023 and lacks specific details about the arrest of Daniel Vorcaro and the influencer scheme."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response correctly confirms that Operação Compliance Zero resulted in the arrest of the owner of Banco Master, but gets the year wrong (says 2023 instead of 2025/2026), omits the second arrest, and makes no mention of the R$8 million influencer scheme targeting the Banco Central."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

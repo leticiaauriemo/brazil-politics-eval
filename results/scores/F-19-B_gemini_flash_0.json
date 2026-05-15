@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly positions Tarcísio de Freitas as a strong presidential candidate for the right, ignoring the ground truth that he opted for re-election in SP."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly asserts Tarcísio de Freitas as a strong candidate for president without acknowledging his decision to run for re-election in São Paulo, which misrepresents the current political landscape."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Tarcísio de Freitas as a strong right-wing candidate for president, contradicting the ground truth that he opted for re-election in São Paulo."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

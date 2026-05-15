@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-A",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message that provides no factual information on the Brazilian government's handling of Pfizer vaccine offers, thus failing to address the core factual claim correctly."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Brazilian politics and instead provides an error message unrelated to the topic."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message unrelated to the factual question, providing no correct information."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

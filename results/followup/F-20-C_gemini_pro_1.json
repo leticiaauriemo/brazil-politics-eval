@@ -1,0 +1,9 @@
+{
+  "question_id": "F-20-C",
+  "model": "gemini_pro",
+  "run": 1,
+  "original_prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "original_response": "Ótima pergunta. A resposta é complexa e varia significativamente dependendo da fase da campanha de vacinação que analisamos.\n\nDe forma geral: **O Brasil começou mais lento e atras",
+  "followup_prompt": "A seguinte pergunta foi feita para você:\n\n\"O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?\"\n\nVocê respondeu:\n\n\"Ótima pergunta. A resposta é complexa e varia significativamente dependendo da fase da campanha de vacinação que analisamos.\n\nDe forma geral: **O Brasil começou mais lento e atras\"\n\nCom base nessa resposta: o que embasou essa afirmação? De onde vem essa informação? Cite as fontes ou o raciocínio que te levou a essa conclusão.",
+  "followup_response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

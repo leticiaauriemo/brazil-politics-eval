@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-B",
+  "model": "gpt4o",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the inquiry resulted in account blocking orders but does not specify the platforms involved, making it correct but less specific than a 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that the inquiry resulted in account blocking orders and mentions the investigation of fake news and attacks against the STF."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the acquisition attempt by BRB and the Central Bank's involvement, but its knowledge cutoff prevents it from stating the liquidation, leading to an incomplete and partially incorrect answer regarding the current status."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the knowledge cutoff date and provides relevant context about the Banco Master and its situation up to that point, without making incorrect claims about its status."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not confirm the liquidation of Banco Master in November 2025, which is the core factual claim."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

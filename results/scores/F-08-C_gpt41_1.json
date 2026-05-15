@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states Tarcísio has not announced a presidential candidacy and explains why he hasn't run, directly contradicting the ground truth that he chose SP reelection and missed the federal candidacy deadline—the model presents the opposite scenario as fact."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains Tarcísio de Freitas' focus on his governor role and the strategic reasons for not declaring a presidential candidacy, including the missed deadline for federal candidacy due to his reelection choice."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests Tarcísio de Freitas is not running for president due to strategic waiting, ignoring the ground truth that he chose SP reelection and missed the federal deadline."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

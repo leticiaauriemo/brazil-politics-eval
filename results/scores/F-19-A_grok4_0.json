@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas is a potential main candidate, even highlighting him as one of the favorites, which directly contradicts the ground truth that Tarcísio is not running for president."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Tarcísio de Freitas as a potential candidate for president, which contradicts the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is based on outdated 2023 data, fails to identify Flávio Bolsonaro as a main candidate, incorrectly presents Tarcísio de Freitas as a likely presidential candidate without clarifying he chose not to run, and misses key developments like Flávio Bolsonaro's December 2025 candidacy announcement."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

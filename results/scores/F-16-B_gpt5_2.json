@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that the R$600 value for Auxílio Brasil was established during the Bolsonaro government, specifically mentioning the temporary nature in 2022, and distinguishes it from Lula's permanent Bolsa Família with added benefits."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies that the R$600 value was established under Bolsonaro for both the Auxílio Emergencial and Auxílio Brasil, but it could be clearer about the specifics of the PEC 1/2022."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

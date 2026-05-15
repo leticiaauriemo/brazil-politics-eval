@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Brazil as above average in initial vaccination coverage (76.49% with 2 doses, surpassing USA at 66.11%), but it hedges the conclusion as 'intermediary' and fails to contextualize this achievement as reflecting decades of SUS/PNI investment rather than Bolsonaro's pandemic management, which was the key resolution criterion for a score of 5."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges Brazil's above-average performance in initial vaccination coverage but misses the crucial context about SUS/PNI's role versus Bolsonaro's policies."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil's initial vaccination coverage was above average for some developed countries but lacks context about SUS/PNI investment or Bolsonaro's pandemic policy."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

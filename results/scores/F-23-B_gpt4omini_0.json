@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states there is no legal impediment, explains the constitutional non-consecutive mandate rule, and acknowledges potential future changes without being misleading."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Lula has no legal impediment to run in 2026, citing the constitutional non-consecutive logic, but hedges by mentioning the need for updated information."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states no legal impediment exists and mentions the constitutional logic about consecutive terms, but does not mention the PEC do Fim da Reeleição proposed by Flávio Bolsonaro or its non-approval, and hedges excessively with a knowledge cutoff caveat."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

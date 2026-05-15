@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly attributes the R$600 value to the Auxílio Emergencial from 2020, rather than the Auxílio Brasil established by PEC 1/2022 in 2022, and incorrectly states Lula created Auxílio Brasil."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the R$600 benefit to the Auxílio Emergencial and misstates the timeline and nature of the programs."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-B",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no information about a 2025 STF decision regarding Bolsonaro's conviction, as 2025 has not occurred, which is a misunderstanding of the hypothetical nature of the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about a 2025 conviction, confidently asserting a falsehood."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

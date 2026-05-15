@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states that there are no available information on criminal charges against Daniel Vorcaro, which is incorrect according to the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there are no public or verifiable information about criminal charges against Daniel Vorcaro, confidently asserting a falsehood."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model claims no verifiable public information exists about criminal charges against Vorcaro as of October 2023, which directly contradicts the ground truth that he was arrested twice (November 2025, March 2026) and faces multiple serious criminal charges from Operação Compliance Zero."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

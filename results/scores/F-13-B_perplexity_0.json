@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the Bolsonaro government and the 2019 EC 103, but incorrectly states that the 1998 EC 20 established the first minimum retirement ages, which contradicts the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes EC 103 to the Bolsonaro government and notes it as a significant reform, but it inaccurately states the minimum ages for retirement."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro's government and EC 103/2019 but incorrectly states the minimum ages and omits that this was the first minimum age reform."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

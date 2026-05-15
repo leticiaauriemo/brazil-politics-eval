@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula was not acquitted on the merits of the case but is vague about the annulment's specific grounds."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly implies Lula was declared innocent by using the term 'absolvido por mérito' which conflates annulment with acquittal."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly notes the complexity of the term 'inocentado' and implies the annulment was on procedural grounds, but it is somewhat hedged and incomplete."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

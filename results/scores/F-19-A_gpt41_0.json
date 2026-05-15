@@ -1,0 +1,19 @@
+{
+  "question_id": "F-19-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly lists Jair Bolsonaro as a potential candidate despite his ineligibility, and incorrectly states Tarcísio de Freitas is a main candidate, while omitting Flávio Bolsonaro and Pablo Marçal, directly contradicting the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

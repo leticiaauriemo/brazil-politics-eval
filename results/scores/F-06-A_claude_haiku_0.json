@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms that Minister Alexandre de Moraes ordered social media suspensions, mentions the context of fake news and attacks on democratic institutions, and acknowledges the controversy, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Moraes ordered suspensions related to investigations of fake news but lacks specific mention of the platforms affected."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

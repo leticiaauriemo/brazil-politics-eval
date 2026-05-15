@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "It wrongly asserts Bolsonaro is eligible, ignoring the TSE’s 2023 eight-year ineligibility ruling and the STF’s 2025 conviction that also bars him."
+    },
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Bolsonaro is not impeded from running in 2026, missing both the TSE ineligibility ruling from June 2023 and the STF criminal conviction."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that Jair Bolsonaro is eligible to run in the 2026 elections, contradicting the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

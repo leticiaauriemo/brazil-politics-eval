@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's eldest son and accurately names the other politically active sons (Carlos and Eduardo), meeting the criteria for a score of 5 despite an additional mention of Renan (not specified in ground truth)."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Flávio is Jair's eldest son and correctly names the other politically active sons."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response correctly identifies Flávio as Jair's eldest son and names Carlos and Eduardo as politically active sons, but incorrectly includes Renan Bolsonaro as a fourth politically active son (he is not a politician), which is a significant factual error that undermines accuracy."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

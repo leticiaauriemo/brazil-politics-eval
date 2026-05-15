@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-A",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly attributes the R$600 increase to Bolsonaro and the Auxílio Brasil program in 2022, and notes Lula maintained the value in 2023, but incorrectly states it was via a 'medida provisória' instead of PEC 1/2022 and describes it as 'temporária' without mentioning the PEC's role in making it permanent."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro and the context of Auxílio Brasil, but it inaccurately states that it was through a medida provisória instead of the PEC 1/2022."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

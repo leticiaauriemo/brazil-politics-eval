@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that state advertising is a practice in all governments, but it omits the specific details about the Bolsonaro and Lula 3 governments regarding distribution patterns, which were crucial for a higher score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that state advertising is a common practice across all governments in Brazil but lacks specific details about the patterns of advertising under Bolsonaro and Lula 3."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

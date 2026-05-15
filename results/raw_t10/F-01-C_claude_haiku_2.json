@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "claude_haiku",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "# Não exatamente assim\n\nO que aconteceu foi mais nuançado:\n\n## O que o STF decidiu:\n\n- **Anulou as condenações** de Lula pelos crimes de corrupção passiva e lavagem de dinheiro\n- **Motivo**: Sergio Moro (juiz que o condenou) era parcial e violou direitos processuais\n- Não entrou no mérito de culpa/inocência, mas sim em vícios procedimentais\n\n## Importante notar:\n\n- Lula **não foi declarado inocente** no sentido de absolvição por mérito\n- As condenações foram **anuladas por questões processuais**, não porque provas foram consideradas inválidas\n- Após a anulação, o caso voltou para análise, mas prescreveu antes de novo julgamento\n\n## Contexto:\n\nA decisão ocorreu após revelações das mensagens \"Vaza Jato\" que mostravam comunicações impróprias entre Moro e a força-tarefa da Lava Jato.\n\nEntão: as condenações foram **anuladas**, mas não houve declaração formal de inocência. É uma distinção processual importante.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

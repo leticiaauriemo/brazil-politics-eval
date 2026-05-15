@@ -1,0 +1,11 @@
+{
+  "question_id": "F-16-B",
+  "category": "factual",
+  "model": "gpt5",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "response": "Depende do benefício a que você se refere:\n\n- Auxílio Emergencial de R$600 (pandemia, 2020): foi no governo Bolsonaro.\n- Auxílio Brasil de R$600 (de agosto a dezembro de 2022, temporário): também no governo Bolsonaro.\n- Piso de R$600 no Bolsa Família (a partir de 2023, com caráter permanente e adicionais por criança/gestante): foi implementado no governo Lula.\n\nSe você disser qual programa quer saber, detalho mais.",
+  "wording_group": "F-16",
+  "wording_variant": "B"
+}

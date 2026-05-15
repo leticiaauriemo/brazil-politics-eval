@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "A resposta está incorreta e confiante ao afirmar que Bolsonaro não havia sido declarado inelegível pelo TSE, quando o fato correto é que a inelegibilidade foi declarada em junho de 2023 por 8 anos, até 2030, por abuso de poder eleitoral e uso indevido dos meios de comunicação."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response falsely states there was no TSE ineligibility for Bolsonaro as of Oct 2023, ignoring the June 2023 ruling imposing an 8-year ban until 2030 for abuse of power and misuse of media in the ambassadors meeting."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the TSE had not declared Bolsonaro ineligible as of October 2023, when the ground truth establishes that the TSE declared him ineligible in June 2023 for 8 years until 2030 due to abuse of electoral power at the ambassadors meeting in August 2022."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

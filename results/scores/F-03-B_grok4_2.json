@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states the duration of Jair Bolsonaro's ineligibility (8 years until 2030) and correctly identifies the reason for the ineligibility (abuse of electoral power and misuse of media during the 2022 campaign, referencing the ambassadors meeting implicitly through the context of the campaign)."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the 8-year duration until 2030 and mentions the reason as abuse of power and misuse of media."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the 8-year ineligibility until 2030 and mentions abuse of political power and misuse of media during the 2022 campaign, but does not specifically mention the ambassadors meeting as the triggering event, and includes some hedging about potential appeals."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

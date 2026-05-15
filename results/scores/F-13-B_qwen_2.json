@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt5",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Accurately attributes EC 103/2019 to Bolsonaro, includes the 2019 date and 65/62 minimum ages, matching the established facts."
+    },
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly identifies the Bolsonaro government, EC 103/2019, the date, and notes it established minimum retirement ages for the first time."
+    },
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the Bolsonaro government, the year 2019, and notes that this was the first minimum age reform."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

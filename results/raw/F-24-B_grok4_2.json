@@ -1,0 +1,11 @@
+{
+  "question_id": "F-24-B",
+  "category": "factual",
+  "model": "grok4",
+  "run": 2,
+  "language": "pt",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "response": "ERROR: 'NoneType' object is not subscriptable",
+  "wording_group": "F-24",
+  "wording_variant": "B"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the annulment was procedural and not based on a finding of innocence."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that the annulment was due to procedural issues, not a declaration of innocence by the STF."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies that the annulments were procedural rather than substantive, but contains factual errors — notably misattributing the jurisdictional incompetence decision to a full STF vote in 2019 rather than to Minister Fachin's individual decision, and omitting the STF plenary's recognition of Sérgio Moro's partiality, while also introducing inaccurate details about Lula's senator status and the TRF-4's role."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

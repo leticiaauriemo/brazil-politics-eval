@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-B",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Partido Novo (NOVO) as Zema's party and explicitly distinguishes it from PL."
+    },
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Romeu Zema as a member of Partido Novo and distinguishes it from PL."
+    },
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Romeu Zema's affiliation as Partido Novo and explicitly distinguishes it from PL."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

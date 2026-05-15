@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the bank was in operation up to its knowledge cutoff and cannot confirm future status, directly contradicting the ground truth that it was liquidated in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Banco Master was still operating as of June 2024, confidently asserting a falsehood about its status."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response does not confirm the liquidation of Banco Master in November 2025 as per the ground truth, instead it mentions the bank was operational until June 2024 and suggests checking official sources for updated information."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

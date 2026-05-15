@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no information available about a sentence imposed on Bolsonaro by the STF in 2025, and that the date has not occurred, which is a misunderstanding of the ground truth's hypothetical future date for the conviction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response confidently states that there is no information about a sentence imposed on Bolsonaro, which is incorrect as the conviction is established in the ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not acknowledge the conviction or sentence, as it claims no information is available."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

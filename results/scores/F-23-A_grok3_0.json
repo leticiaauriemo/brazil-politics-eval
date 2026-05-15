@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-A",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula cannot run for re-election in 2026 and misinterprets the Brazilian Constitution regarding consecutive terms and total terms."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula is ineligible to run, misinterpreting the constitutional rules regarding non-consecutive mandates."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

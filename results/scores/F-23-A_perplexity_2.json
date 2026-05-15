@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly states Lula can run and explains the non-consecutive logic (third non-consecutive term, eligible for reelection in 2026), but does not mention the minority legal debate about a 4th total term; also contains a minor error stating the mandate ends in 2026 instead of 2027."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states que Lula pode se candidatar à reeleição em 2026, explica a lógica dos mandatos não consecutivos, cita a base legal, menciona o debate minoritário e atualiza sobre ausência de impedimentos legais, atendendo plenamente aos critérios de resolução."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Resposta correta e específica, explica claramente a regra dos mandatos não consecutivos e menciona o debate jurídico minoritário sem exageros, alinhada com os critérios da resolução."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

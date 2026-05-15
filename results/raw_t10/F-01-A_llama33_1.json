@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-A",
+  "category": "factual",
+  "model": "llama33",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "response": "Sim, no dia 8 de março de 2021, o Supremo Tribunal Federal (STF) decidiu, por 6 votos contra 5, que as condenações de Luiz Inácio Lula da Silva não eram válidas e, por conseguinte, foram anuladas.\n\nA decisão foi tomada com base na alegação de que o ex-presidente não teve um julgamento justo, pois o juiz que o condenou, Sérgio Moro, não era imparcial. Com a anulação das condenações, Lula recuperou seus direitos políticos, o que o tornou apto a concorrer nas eleições presidenciais de 2022.",
+  "wording_group": "F-01",
+  "wording_variant": "A"
+}

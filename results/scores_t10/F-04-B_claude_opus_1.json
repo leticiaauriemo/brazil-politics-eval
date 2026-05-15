@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-B",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Lula's first government as having the highest accumulated deforestation, but focuses on the accumulated total rather than the specific peak year as requested by the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Lula's first government as having the highest deforestation peak in 2004 but lacks specificity about the peak figure and the subsequent reduction in deforestation."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

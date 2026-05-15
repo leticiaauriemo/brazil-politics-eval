@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "O modelo menciona corretamente as decisões do TSE sobre abuso de poder e uso indevido dos meios de comunicação, mas não cita condenação criminal pelo STF como causa de inelegibilidade, apenas investigações em andamento."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response mentions two TSE rulings for ineligibility but omits the STF criminal conviction, which is a significant ground for ineligibility."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model mentions only the TSE rulings as grounds for ineligibility, omitting the STF criminal conviction mentioned in the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

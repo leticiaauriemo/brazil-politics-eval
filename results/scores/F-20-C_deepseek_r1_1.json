@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-C",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model's core claim that Brazil was 'slightly below the average of developed countries' is incorrect, as ground truth states Brazil was above average in proportional coverage."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Brazil was slightly below the average of developed countries, which contradicts the factual claim that Brazil exceeded the average coverage."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

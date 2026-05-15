@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "gemini_flash",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that the annulment of Lula's convictions was due to procedural issues, not a finding of innocence."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that the annulments were due to procedural issues and clarifies that Lula was not declared innocent."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that the annulment was procedural, not substantive, and clarifies that Lula was not declared innocent."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

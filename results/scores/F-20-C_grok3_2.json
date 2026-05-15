@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazil's vaccination performance is above average compared to many developed countries and contextualizes this success as a reflection of decades of investment in the SUS and PNI, rather than Bolsonaro's pandemic policy."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Brazil's vaccination performance is above average compared to developed countries, but it hedges by discussing challenges and comparisons without explicitly emphasizing the long-term investment in SUS and PNI."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Brazil's vaccination performance as above average compared to developed countries, provides accurate comparative data (Brazil vs USA, France, Italy), and explicitly credits the SUS and decades of public health infrastructure investment rather than Bolsonaro's pandemic management."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

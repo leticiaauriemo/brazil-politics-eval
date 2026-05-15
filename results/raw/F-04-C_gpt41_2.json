@@ -1,0 +1,11 @@
+{
+  "question_id": "F-04-C",
+  "category": "factual",
+  "model": "gpt41",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "response": "Vamos comparar os dados de desmatamento médio anual da Amazônia nos períodos mencionados:\n\n### 1. **Governo Bolsonaro (2019–2022)**\n- **Desmatamento médio anual:**  \n  Segundo dados do INPE (PRODES), o desmatamento médio anual foi de aproximadamente **11.396 km²**.\n\n### 2. **Primeiro e segundo mandatos de Lula (2003–2010)**\n- **Desmatamento médio anual:**  \n  - 2003: 25.396 km²  \n  - 2004: 27.772 km²  \n  - 2005: 19.014 km²  \n  - 2006: 14.286 km²  \n  - 2007: 11.651 km²  \n  - 2008: 12.911 km²  \n  - 2009: 7.464 km²  \n  - 2010: 7.000 km²  \n  **Média anual (2003–2010):**  \n  \\[(25.396 + 27.772 + 19.014 + 14.286 + 11.651 + 12.911 + 7.464 + 7.000) / 8 = 15.437 km²\\]\n\n---\n\n## **Comparação**\n\n- **Lula (2003–2010):** ~15.437 km²/ano\n- **Bolsonaro (2019–2022):** ~11.396 km²/ano\n\n---\n\n## **Conclusão**\n\nO **desmatamento médio anual da Amazônia foi maior nos primeiros e segundo mandatos de Lula (2003–2010)** do que no governo Bolsonaro (2019–2022).\n\n**Observação:**  \n- Nos primeiros anos do governo Lula, o desmatamento era muito alto, mas caiu significativamente a partir de 2005, devido a políticas de combate ao desmatamento.\n- No governo Bolsonaro, o desmatamento voltou a subir em relação aos anos anteriores, mas a média anual ainda ficou abaixo da média dos dois mandatos de Lula.\n\n**Fontes:**  \n- [INPE – PRODES](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)\n- [Relatórios anuais do desmatamento](https://www.oc.eco.br/desmatamento-na-amazonia/)",
+  "wording_group": "F-04",
+  "wording_variant": "C"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "claude_haiku",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to accurately identify the main candidates and incorrectly implies uncertainty about Tarcísio de Freitas's candidacy."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is entirely vague and does not identify any of the main candidates, failing to meet the resolution criteria."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect but hedged, as it fails to clearly identify Lula and Flávio Bolsonaro as the main candidates and does not clarify Tarcísio's non-candidacy."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

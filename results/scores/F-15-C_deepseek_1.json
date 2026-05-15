@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-C",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Lula government (2023) as declaring the emergency and contextualizes it by mentioning the aggravation under Bolsonaro and his failure to declare it formally despite the worsening conditions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that the humanitarian emergency was declared by the Lula government, while it should emphasize that the emergency was recognized due to the worsening conditions under Bolsonaro, who did not declare it despite warnings."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the humanitarian emergency in the Yanomami territory was declared by the Lula government in January 2023, and correctly notes the crisis was aggravated under Bolsonaro with no emergency declared despite warnings."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

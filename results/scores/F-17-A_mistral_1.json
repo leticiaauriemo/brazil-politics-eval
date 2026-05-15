@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-A",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it does not have information about Banco Master's situation in 2026, which is incorrect given the ground truth of liquidation in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not provide the correct information about the liquidation of Banco Master and instead expresses uncertainty."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

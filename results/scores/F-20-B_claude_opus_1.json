@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-B",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazil surpassed the US in double-dose COVID-19 vaccination coverage, provides approximate timing, and explains the role of SUS and population adherence, matching the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil surpassed the US in double-dose vaccination coverage but lacks specific data and provides an incorrect timeline (November/December 2021 instead of April 2022)."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Brazil surpassed the US in double-dose vaccination coverage, but incorrectly specifies the timeframe as November/December 2021 instead of April 2022, and only partially explains the role of SUS/PNI."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

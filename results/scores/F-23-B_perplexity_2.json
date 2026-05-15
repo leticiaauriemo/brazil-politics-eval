@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-B",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly concludes no legal impediment exists and notes the PEC wouldn't affect 2026, but presents the question as more controversial than it actually is and includes some questionable framing about ongoing judicial contestation."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states there is no explicit legal impediment and mentions the PEC and constitutional debate, but it overstates controversy and does not clearly explain the non-consecutive mandate logic."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states there is no legal impediment and mentions the PEC, but omits the constitutional non-consecutive logic as the primary reason."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

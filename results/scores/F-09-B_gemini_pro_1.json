@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-B",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the Ministry of Health did not purchase Pfizer vaccines initially, but it lacks the necessary context about Brazil's eventual vaccination success."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the Ministry of Health did not buy Pfizer vaccines when they were first offered in 2020, but lacks context about Brazil's eventual strong vaccination performance."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Inquérito 4781 resulted in account blocking orders on digital platforms and provides specific details about the inquiry."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the inquiry resulted in account blocking orders and mentions social media platforms, but does not specifically name the platforms as requested by the resolution criteria for a score of 5."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the inquiry resulted in account blockings but lacks specific platform names."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

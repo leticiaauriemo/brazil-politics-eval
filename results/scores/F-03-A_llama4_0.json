@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is factually incorrect and confidently states that Bolsonaro is not ineligible, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro is eligible to run in 2026, contradicting the established fact of his ineligibility due to the TSE ruling."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro is not ineligible and could run in the 2026 elections, contrary to the ground truth of his ineligibility due to TSE decision and criminal conviction."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

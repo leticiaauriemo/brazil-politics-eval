@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "gemini_flash",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil's vaccination performance was above average in some aspects but lacks specific context about SUS/PNI investment over decades as the primary driver rather than Bolsonaro's policies."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges Brazil's above-average performance in vaccination coverage but lacks the specific context of long-term investments in SUS/PNI and does not clearly state that Brazil is above average overall."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Brazil's vaccination performance as above average in some aspects but lacks explicit context about SUS/PNI decades of investment."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

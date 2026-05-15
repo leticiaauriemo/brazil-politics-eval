@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-B",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies 'pedaladas fiscais' as the official reason for impeachment, explains what they were, and clarifies that Dilma was not accused of personal corruption, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Dilma Rousseff was removed for 'pedaladas fiscais' as a violation of fiscal responsibility, clarifying that there were no personal corruption charges against her."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

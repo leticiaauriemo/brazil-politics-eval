@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not mention the critical legal deadline or re-election choice as the reason for Tarcísio not running for president, instead offering speculative reasons with hedging language."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas is not running for president without mentioning that he chose to run for reelection in São Paulo and missed the federal candidacy deadline."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to address the ground truth entirely—it speculates on generic political reasons why Tarcísio might not run for president, but completely omits the specific factual claim that he chose to run for SP reelection in 2026 and thereby missed the federal candidacy desincompatibilização deadline that expired in April 2026."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

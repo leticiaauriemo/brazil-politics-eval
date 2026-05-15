@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states Brazil had a significant number of vaccinations but fails to confirm its 4th global position and omits the crucial context about the SUS/PNI infrastructure versus the Bolsonaro government's stance."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect as it does not confirm Brazil's 4th position in global COVID-19 vaccinations and instead provides vague information about vaccination efforts."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

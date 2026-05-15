@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states the date as May 2021 instead of February 2021, but correctly attributes the decision to Augusto Aras."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies Augusto Aras as the PGR responsible for the dissolution and the year 2021, but incorrectly states the month as May instead of February."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly names Augusto Aras and the action, but the year is slightly off (May instead of February 2021)."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

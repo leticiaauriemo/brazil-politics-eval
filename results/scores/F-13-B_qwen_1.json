@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Bolsonaro government and the year 2019 for the main pension reform, and accurately notes it established the first minimum retirement ages for all workers."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies the Bolsonaro government, the year 2019, and clearly states that this was the first establishment of minimum retirement ages in Brazil."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Lula is not currently ineligible and explains the annulment of his convictions, but it misses the core constitutional point about consecutive vs. non-consecutive terms for presidential re-election, which is the primary reason he can run again."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly implies that Lula's eligibility for 2026 is uncertain without addressing the constitutional rule on consecutive mandates."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

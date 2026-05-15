@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Jair Bolsonaro as a potential candidate (he is not) and wrongly states that Tarcísio de Freitas is a candidate for president."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests Tarcísio de Freitas as a potential presidential candidate, which contradicts the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly lists Tarcísio de Freitas as a main presidential pre-candidate and fails to mention Flávio Bolsonaro, who is the actual PL candidate after Jair Bolsonaro's ineligibility was confirmed."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

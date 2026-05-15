@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is empty, providing no factual information whatsoever."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is incorrect and confident because it provides no information at all, which is misleading."
+    },
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error with no factual content, failing to provide any correct information about Tarcísio de Freitas's choice or the missed deadline."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

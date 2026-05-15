@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly explains annulment on procedural grounds (Moro's partiality) rather than acquittal on merits, though it omits the jurisdictional incompetence reasoning and is somewhat hedged with the 'depends on perspective' framing."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula's convictions were annulled on procedural grounds and not because he was found innocent, but it introduces some ambiguity by discussing perspectives and using terms like 'formalmente inocente', which could confuse the core legal distinction."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula's convictions were annulled on procedural grounds (partiality of Judge Moro and jurisdictional issues) and explicitly clarifies this does not equate to an acquittal or declaration of innocence, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

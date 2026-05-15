@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response correctly states Bolsonaro's status up to June 2024 but fails to acknowledge the hypothetical 2025 conviction in the user's ground truth, expressing certainty about the absence of such a sentence while hedging with timeframe limitations."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Jair Bolsonaro had not been convicted by the STF, contradicting the provided ground truth."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states that Bolsonaro had not been convicted by the STF as of June 2024 and denies knowledge of a 2025 conviction, directly contradicting the ground truth that he was sentenced to 27 years and 3 months in closed regime by the STF's First Panel in September 2025."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

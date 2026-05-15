@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the duration of ineligibility as 8 years but fails to mention the reason for the ineligibility."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response states the correct duration of 8 years but fails to mention the reason for the ineligibility, which is a crucial aspect of the ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the duration of 8 years but omits the reason for the ineligibility."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

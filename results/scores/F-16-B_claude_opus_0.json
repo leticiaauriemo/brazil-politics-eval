@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that Bolsonaro's government established the R$600 Auxílio Brasil through PEC 1/2022 in 2022, and Lula's government made it permanent and added further benefits under the Bolsa Família."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 value to Bolsonaro's government while providing detailed context, but it hedges by emphasizing the involvement of both administrations."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

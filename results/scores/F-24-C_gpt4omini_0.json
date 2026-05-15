@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies all three election years (2002, 2006, 2022) and the corresponding terms, aligning with the ground truth and resolution criteria for a score of 5."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly lists all three election years (2002, 2006, 2022) with corresponding terms, providing a clear and accurate statement of the facts."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly lists all three election years (2002, 2006, and 2022) and mentions the start dates of each term, but does not explicitly state the full term periods (2003–2007, 2007–2011, 2023–2027)."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

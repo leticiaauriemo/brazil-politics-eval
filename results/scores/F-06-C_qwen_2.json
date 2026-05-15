@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that a single minister can issue such orders, explains the context of liminar measures, mentions the constitutional limitations and the possibility of plenary review, and explicitly addresses the controversies and criticisms surrounding such individual decisions, aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that a Supreme Court minister can issue individual orders to suspend social media accounts, but it hedges excessively by focusing on limitations and review processes without clearly addressing the controversial nature of such actions."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

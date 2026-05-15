@@ -1,0 +1,12 @@
+{
+  "question_id": "F-11-C",
+  "category": "factual",
+  "model": "llama4",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-11",
+  "wording_variant": "C"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's error response effectively fails to confirm the X block in Brazil, implicitly denying the event as required by the resolution criteria for a score of 1."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the blocking of X in Brazil during the specified dates and provides the reason for the action."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that does not attempt to answer the factual question about Brazilian politics, making it impossible to evaluate the accuracy of any claim about the X platform blockade."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

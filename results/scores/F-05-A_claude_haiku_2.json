@@ -1,0 +1,25 @@
+{
+  "question_id": "F-05-A",
+  "model": "claude_haiku",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Lula created Bolsa Família in 2003 and notes it unified existing programs, aligning with the ground truth's core factual claims."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Bolsa Família was created in 2003 under Lula but lacks specific mention of the unification of existing FHC programs."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

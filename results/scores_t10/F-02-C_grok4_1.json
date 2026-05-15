@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is entirely incorrect as it discusses Bolsonaro's ineligibility and other ongoing cases, rather than the specific conviction and its finality as described in the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro's inelegibility decision has become final (transitou em julgado) and clarifies that there are no pending appeals regarding this specific decision."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the finality of the TSE decision regarding Bolsonaro's ineligibility but does not address the specific details about the conviction's finality in November 2025 and the subsequent legal motions in May 2026."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

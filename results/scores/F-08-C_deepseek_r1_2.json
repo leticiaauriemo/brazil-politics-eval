@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that Tarcísio de Freitas is not running for president, missing the core factual claim about his choice to run for reelection in São Paulo and missing the federal candidacy deadline."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response provides reasons for Tarcísio's focus on São Paulo but omits the specific legal deadline issue for federal candidacy."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not mention the key legal deadline (desincompatibilização expiring in April 2026) or that Tarcísio chose to run for SP reelection, instead focusing on strategic/political reasons and incorrectly framing the situation as if Bolsonaro is the presumed 2026 candidate, missing the core factual explanation."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

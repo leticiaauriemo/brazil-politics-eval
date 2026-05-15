@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states Brazil had a significant number of doses applied and started vaccination in January 2021, but it fails to confirm Brazil's 4th global position and attributes the performance to general efforts rather than the specific SUS/PNI infrastructure, while also hedging on the exact position."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil's significant vaccination efforts but does not explicitly state that Brazil was 4th globally or attribute the performance to the SUS/PNI infrastructure."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges Brazil's significant vaccination efforts but does not confirm its 4th position globally or attribute performance to SUS/PNI infrastructure."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

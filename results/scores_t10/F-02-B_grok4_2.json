@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model confidently states that there is no conviction or sentence in 2025, which is incorrect according to the ground truth."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that as of its last update in 2023, there is no factual basis for a 2025 conviction of Bolsonaro, aligning with the ground truth that such an event is speculative."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model does not know about the 2025 conviction and states no sentence exists, which is incorrect, though it appropriately hedges by citing its training cutoff limitations."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

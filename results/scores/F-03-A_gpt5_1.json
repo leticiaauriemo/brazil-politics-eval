@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-A",
+  "model": "gpt5",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Bolsonaro is ineligible for eight years due to the TSE decision regarding the meeting with ambassadors, which prevents him from running in 2026."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsonaro is ineligible for eight years due to TSE's decision and explains the implications for his candidacy in 2026."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

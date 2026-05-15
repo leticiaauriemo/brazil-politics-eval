@@ -1,0 +1,25 @@
+{
+  "question_id": "F-22-B",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "score": null,
+      "binary": null,
+      "reasoning": "Judge error: could not parse JSON from: ```json\n{\n  \"binary\": 0,\n  \"score\": 1,\n  \"reasoning\": \"The"
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's son and names the other politically active sons, providing a clear and accurate account."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

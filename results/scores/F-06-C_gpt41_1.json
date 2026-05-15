@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms that Moraes issued monocratic orders individually in Inquiry 4781 with real effects, and explains the legal framework permitting this, but lacks explicit discussion of the legal controversy and criticism regarding concentration of power that characterizes the ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that a single justice can issue monocratic orders, specifically mentioning Moraes and the context of the Inquérito 4781, including the legal controversy and real effects."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that a single STF minister can order social media suspensions individually, but omits the legal controversy and criticism surrounding this practice."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

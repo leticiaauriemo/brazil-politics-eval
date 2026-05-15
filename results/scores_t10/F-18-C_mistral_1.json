@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-C",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question and only shows an API error message, so it fails to confirm the arrest or the influencer scheme."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address the factual question or provide any verifiable claim."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual information about the question, making it impossible to verify any claims about Operation Compliance Zero or Daniel Vorcaro."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

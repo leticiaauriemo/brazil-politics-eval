@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly states that Lula's convictions were annulled on procedural grounds and not because he was found innocent."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Lula's convictions were annulled on procedural grounds, not because he was found innocent."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that convictions were annulled on procedural/jurisdictional grounds (not on the merits) and explicitly clarifies that Lula was not declared innocent, though it slightly mischaracterizes the jurisdictional issue as 'foro por prerrogativa de função' rather than accurately identifying Fachin's ruling on Curitiba's lack of jurisdiction over Petrobras-related cases, and omits Moro's partiality ruling."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-A",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms that Alexandre de Moraes ordered suspensions in his roles at STF and TSE but lacks details on Inquiry 4781 and the affected platforms."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response confirms Moraes ordered suspensions but lacks details about Inquiry 4781 and specific platforms."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms Moraes ordered social media suspensions but omits the specific inquiry number (4781) and affected platforms, making it partially correct."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

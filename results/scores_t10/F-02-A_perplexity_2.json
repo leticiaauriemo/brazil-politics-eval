@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model confidently states that Jair Bolsonaro was convicted by the STF in September 2025, which is a fabricated event and therefore factually incorrect."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the conviction of Jair Bolsonaro, provides specific details about the sentence and the finality of the conviction."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms Bolsonaro's conviction, mentions the approximate sentence (27 years), and notes the conviction became final in November 2025, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

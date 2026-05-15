@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that all governments use state advertising but lacks specific details about the Bolsonaro and Lula 3 patterns."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that all governments engage in state advertising but lacks specific details about the Bolsonaro and Lula 3 administrations' approaches."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that state advertising occurs in all governments but lacks specific details about Bolsonaro's concentration in friendly outlets and Lula 3's broader distribution."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

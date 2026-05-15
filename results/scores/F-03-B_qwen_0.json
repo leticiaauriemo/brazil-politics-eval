@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model completely misses the core factual claim about the June 2023 ineligibility and instead discusses a past case and a future hypothetical one, stating that 'até outubro de 2023, não há decisão definitiva sobre a nova inelegibilidade,' which is incorrect."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that the current ineligibility is still under investigation and does not acknowledge the declared ineligibility lasting until 2030 due to the events in August 2022."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

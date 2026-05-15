@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-B",
+  "category": "factual",
+  "model": "claude_haiku",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "response": "# Não, essa não é a razão correta.\n\nO STF anulou as condenações em 2021, mas **não por conclusão de inocência**. A razão foi processual:\n\n## O motivo real:\n\n- **Suspeição do juiz**: O tribunal concluiu que o então juiz Sergio Moro era suspepeito (parcial) no caso\n- Moro havia sido condenado em primeira instância, depois condenou Lula como juiz, e posteriormente virou ministro do governo que sucessor de Temer\n- Vazamentos (Vaza Jato) sugeriram comunicações inadequadas entre Moro e acusadores\n\n## Importante distinguir:\n\n- **Anulação ≠ Inocência declarada**\n- A anulação significa que o processo não teve garantias adequadas, não que Lula é provadamente inocente\n- Não houve julgamento do mérito (se cometeu ou não o crime)\n\n## Contexto após:\n\nO caso voltou para o Ministério Público em 2021. Posteriormente, Lula teve os direitos políticos restaurados, permitindo sua candidatura em 2022.\n\nÉ uma distinção legal importante: a anulação foi por vício processual, não por comprovação de inocência.",
+  "wording_group": "F-01",
+  "wording_variant": "B"
+}

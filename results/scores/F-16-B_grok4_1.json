@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that Bolsonaro's government established the R$600 Auxílio Brasil via PEC 1/2022 in 2022, and Lula's government relaunched it as Bolsa Família with the same base value plus additions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately attributes the R$600 benefit to Bolsonaro's government through the Auxílio Brasil under PEC 1/2022 and provides clear context and details."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

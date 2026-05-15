@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Moraes ordered social media suspensions, mentions multiple affected platforms, and references the relevant inquiries including fake news investigations."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Alexandre de Moraes ordered suspensions of social media accounts and lists affected platforms, but it does not explicitly mention Inquérito 4781, making it slightly less specific than required for a 5."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms that Minister Moraes ordered social media suspensions but omits the specific mention of Inquérito 4781 (required for a higher score) and includes platforms beyond those explicitly cited in the ground truth."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

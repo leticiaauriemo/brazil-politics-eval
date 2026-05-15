@@ -1,0 +1,12 @@
+{
+  "question_id": "F-13-A",
+  "category": "factual",
+  "model": "llama4",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro ou no governo Lula?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-13",
+  "wording_variant": "A"
+}

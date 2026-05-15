@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula declared the emergency in January 2023 and provides extensive context about the crisis, including its causes and the government's response, aligning perfectly with the resolution criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Lula's declaration of a humanitarian emergency in the Yanomami Indigenous Territory in 2023, aligning with the context of the crisis exacerbated by the previous administration."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

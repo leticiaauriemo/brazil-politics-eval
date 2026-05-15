@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is vague and misleading by focusing on a 'threat of blocking' without accurately stating the court order by Moraes or explaining Musk's role, while hedging on complexity."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests a threat rather than an actual court order and lacks details about Musk's actions."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly frames the event as a 'threat of blocking' rather than stating the actual judicial order by Moraes, misrepresenting the core fact."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

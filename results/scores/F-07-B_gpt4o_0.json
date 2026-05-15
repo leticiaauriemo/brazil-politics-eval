@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states it lacks information about events after October 2023, making it unable to answer the question about events in 2024."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states a lack of information about events after October 2023, while the explanation of the suspension reasons is not provided, leading to a confident but incorrect assertion."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to address the factual question and provides no information about the suspension of X in Brazil."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

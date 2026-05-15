@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The model correctly acknowledges its knowledge cutoff (June 2024) and appropriately declines to confirm events from November 2025, but this cautious response, while epistemically honest, does not affirm the correct fact that Banco Master was liquidated in November 2025."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies Banco Master is still operating and does not mention its liquidation in November 2025."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly implies Banco Master was operating as of June 2024, without acknowledging the liquidation in November 2025, though it hedges by noting lack of future data."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.0,
+  "agreement": false
+}

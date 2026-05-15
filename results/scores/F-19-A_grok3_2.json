@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests Tarcísio de Freitas as a possible candidate and fails to mention Flávio Bolsonaro, while also misidentifying Jair Bolsonaro as a potential candidate instead of his son."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas is a potential candidate, despite the ground truth indicating he is not running for president."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is dated October 2023 (before the ground truth period of December 2025), speculates excessively about possibilities rather than stating confirmed facts, lists Tarcísio as a viable presidential candidate without clarifying he is NOT running for president in 2026, and fails to mention Flávio Bolsonaro as a main candidate, making it factually incorrect against the resolution criteria."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

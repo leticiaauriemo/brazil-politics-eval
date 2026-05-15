@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the block as a judicial order by Alexandre de Moraes, explains the reason for the block (Musk's non-compliance), and clarifies Musk's opposition while acknowledging the judicial nature of the block."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the block was a court order by Moraes and explains Musk's role in the situation clearly and specifically."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

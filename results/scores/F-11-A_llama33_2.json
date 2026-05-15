@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the impeachment followed constitutional process and mentions key steps but hedges with extensive discussion of controversy and debate."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that the impeachment followed the constitutional process, detailing the key steps involved."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the impeachment followed the formal constitutional process, mentioning the roles of the Câmara and Senado, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

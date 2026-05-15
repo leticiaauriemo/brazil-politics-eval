@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-A",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer offers in 2020 and details the significant delay in starting negotiations, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer offers in 2020 and details the role of São Paulo in initiating vaccination."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the refusal of Pfizer offers in 2020 with extensive detail about the CPI findings and Pazuello/Bolsonaro's role, but does not specifically mention São Paulo's role (CoronaVac/Butantan) in initiating vaccination, which is part of the full ground truth."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

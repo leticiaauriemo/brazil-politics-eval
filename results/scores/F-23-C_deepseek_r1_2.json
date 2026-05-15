@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula can run in 2026, explains the constitutional distinction between consecutive and non-consecutive terms, and references the TSE's position implicitly by discussing the annulled convictions and his eligibility in 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains the constitutional provisions regarding Lula's eligibility to run for president in 2026, clearly stating the distinction between consecutive and non-consecutive terms and referencing the TSE's position."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

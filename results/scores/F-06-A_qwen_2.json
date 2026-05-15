@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-A",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms Moraes ordered suspensions, mentions the platforms, and provides specific context including the Inquiry 4781 (implicitly through 'fake news' and 'desinformação') and the X/Twitter case."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Alexandre de Moraes ordered suspensions of social media accounts in the context of Inquiry 4781, mentioning the relevant platforms and the nature of the actions taken."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

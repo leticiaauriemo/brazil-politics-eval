@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro via constitutional amendment (PEC) in 2022 under Auxílio Brasil, notes it was temporary, and accurately describes how Lula maintained and made the value permanent in 2023 while adding the R$150 supplement for children under 6, meeting all resolution criteria for a score of 5."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro but lacks full context about PEC 1/2022 and incorrectly emphasizes Lula's role in 2023."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response partially attributes the R$600 increase to Bolsonaro in 2022 but incorrectly emphasizes Lula making it permanent in 2023 as a key action."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-B",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Inquiry 4781 resulted in account blocking orders and specifically names digital platforms involved."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the inquiry resulted in account blocking orders on digital platforms, but does not specifically name the platforms like Twitter, YouTube, Facebook, and Telegram."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

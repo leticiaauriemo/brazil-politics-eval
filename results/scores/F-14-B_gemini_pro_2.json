@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms it is legal but provides no details like SECOM or the regulatory framework, and introduces hedging about complexity without further elaboration."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that it is legal but suggests complexity without providing specific details like SECOM or regulatory framework."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms it is legal but lacks specific details such as SECOM or the regulatory framework."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

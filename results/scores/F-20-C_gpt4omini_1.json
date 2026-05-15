@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly suggests that Brazil's vaccination performance compared to developed countries is 'complex' or 'can vary', implying it might be lower, when in fact it was above average in proportional coverage."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response does not accurately state that Brazil's vaccination coverage is above average compared to developed countries and fails to contextualize this as a result of decades of investment in SUS and PNI."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges Brazil's strong vaccination performance but is vague and hedged, failing to specify that Brazil surpassed the US and was comparable to France/Italy, and does not contextualize the achievement as reflecting decades of SUS/PNI investment rather than Bolsonaro's pandemic management."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-A",
+  "category": "factual",
+  "model": "grok3",
+  "run": 1,
+  "language": "pt",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024. A decisão foi tomada pelo Supremo Tribunal Federal (STF), sob a relatoria do ministro Alexandre de Moraes, no dia 30 de agosto de 2024. O bloqueio ocorreu devido ao descumprimento de ordens judiciais relacionadas à moderação de conteúdo e à entrega de dados de usuários investigados por disseminação de desinformação e discurso de ódio. A plataforma ficou inacessível para usuários brasileiros, e o STF determinou que empresas de internet e provedores de VPN cumprissem a ordem, sob pena de multas. No entanto, o bloqueio gerou debates sobre liberdade de expressão e censura, com opiniões divididas entre apoiadores e críticos da medida. Caso haja atualizações sobre a situação, como a liberação do acesso, recomendo verificar fontes confiáveis de notícias.",
+  "wording_group": "F-07",
+  "wording_variant": "A"
+}

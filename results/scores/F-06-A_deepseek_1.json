@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Alexandre de Moraes ordered social media suspensions in contexts like fake news and election-related cases but omits explicit mention of Inquérito 4781 and specific platforms (e.g., YouTube, Telegram) required for a higher score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms that Moraes ordered suspensions related to disinformation but lacks specific mention of Inquiry 4781 and the platforms affected."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms that Alexandre de Moraes ordered social media suspensions related to fake news investigations and mentions specific platforms (X/Twitter, Facebook, Telegram), but lacks explicit reference to Inquiry 4781 and is somewhat hedged with qualifications rather than stating the facts directly."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

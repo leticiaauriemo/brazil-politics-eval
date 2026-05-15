@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-B",
+  "model": "gpt4o",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states there is no legal impediment but lacks the specific constitutional reasoning regarding non-consecutive terms and the status of the PEC."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that there are no legal impediments for Lula to run in 2026 but lacks specific mention of the constitutional non-consecutive logic and the status of the PEC."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is vague and hedged, failing to confirm Brazil's 4th global position and instead suggesting variability and recommending external sources, which aligns with an 'incorrect but hedged' score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect in not confirming Brazil's 4th position globally and hedges the effectiveness of the vaccination campaign without addressing the specific context of the SUS and PNI."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

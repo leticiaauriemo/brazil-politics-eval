@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model fails to mention Flávio Bolsonaro and incorrectly lists several individuals as strong right-wing candidates for 2026, including some who are not even from the right or have already ruled out a presidential run."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests multiple candidates without acknowledging Flávio Bolsonaro's candidacy or Tarcísio de Freitas's decision not to run."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

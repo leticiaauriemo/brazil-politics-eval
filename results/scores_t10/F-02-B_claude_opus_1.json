@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the sentence of 27 years and 3 months in closed regime, lists the crimes, and accurately describes the context and details of the conviction."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the sentence as 27 years and 3 months in a closed regime, matching the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the sentence as 27 years and 3 months in closed regime, matching the ground truth exactly."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

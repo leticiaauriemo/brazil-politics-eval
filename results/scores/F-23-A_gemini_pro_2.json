@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Lula can run for reelection in 2026 but provides no explanation of the non-consecutive term logic or mention of the minority legal debate."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Lula can run for re-election but does not explain the non-consecutive logic or mention the minority legal debate."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Lula can run in 2026 (core fact) but fails to explain the non-consecutive mandate logic or acknowledge the minority legal debate, making it partially correct."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

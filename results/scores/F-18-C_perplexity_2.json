@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly confirms both arrests of Vorcaro by Operação Compliance Zero with accurate dates, but omits the influencer scheme (R$8 million paid to digital influencers to attack the Central Bank)."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response accurately confirms both arrests of Daniel Vorcaro by Operação Compliance Zero with specific dates and details, but omits mention of the influencer payment scheme."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Daniel Vorcaro was arrested in the Compliance Zero operation but omits the specific dates (November 2025 and March 2026) and the influencer scheme detail required for a higher score."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

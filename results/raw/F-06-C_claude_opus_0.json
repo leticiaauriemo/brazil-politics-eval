@@ -1,0 +1,11 @@
+{
+  "question_id": "F-06-C",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 0,
+  "language": "pt",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "response": "Sim, e isso tem ocorrido com frequência no Brasil, embora seja juridicamente controverso.\n\n**Base usada para essas decisões:**\n\n- **Inquérito das Fake News (INQ 4781)**, aberto em 2019 pelo então presidente do STF, Dias Toffoli, com base no art. 43 do Regimento Interno do STF, que permite ao tribunal abrir inquérito sobre fatos ocorridos em sua sede ou contra seus ministros.\n- **Inquéritos derivados** (Milícias Digitais, Atos Antidemocráticos), relatados pelo ministro Alexandre de Moraes.\n- Decisões monocráticas (de um único ministro) determinam bloqueios de contas, remoção de conteúdo e até prisões.\n\n**Pontos controversos juridicamente:**\n\n1. **Distribuição não aleatória**: o relator foi designado diretamente, sem sorteio.\n2. **Acúmulo de funções**: críticos apontam que o STF age simultaneamente como vítima, investigador e julgador, o que tensiona o sistema acusatório.\n3. **Decisões sob sigilo**: muitas ordens de bloqueio não são públicas, dificultando o contraditório.\n4. **Alcance**: bloqueios atingiram parlamentares com imunidade, jornalistas e cidadãos comuns.\n5. **Base legal para suspensão de contas**: não há lei específica autorizando o bloqueio preventivo de perfis; as decisões se apoiam no poder geral de cautela.\n\n**Posição do STF:**\nO plenário do STF referendou, por maioria, a abertura e a continuidade do inquérito (ADPF 572, em 2020), considerando-o constitucional. Portanto, hoje, do ponto de vista institucional brasileiro, essas decisões são válidas e exigíveis.\n\n**Posição crítica:**\nJuristas, associações como a ABRAJI, organizações internacionais (HRW, artigo 19) e parte da doutrina questionam a compatibilidade dessas decisões com o devido processo legal, a liberdade de expressão (art. 5º, IX, CF) e o Marco Civil da Internet, que em regra exige ordem judicial fundamentada e específica, com possibilidade de recurso.\n\nEm resumo: **na prática atual, sim, um ministro pode** — mas se isso é compatível com o desenho constitucional original é tema de disputa legítima.",
+  "wording_group": "F-06",
+  "wording_variant": "C"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it cannot predict future events, which is true, but it fails to address the factual claim about the Banco Master's liquidation in 2025, which is the core of the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that it cannot predict future events, implying that Banco Master is still operating, which contradicts the factual claim about its liquidation."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to address the factual claim about Banco Master's liquidation in November 2025, instead stating an inability to predict future events."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

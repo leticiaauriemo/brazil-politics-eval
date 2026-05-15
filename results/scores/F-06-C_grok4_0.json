@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately explains that Moraes issued monocratic orders individually without full court approval, acknowledges the legal controversy surrounding this practice, and confirms its real effect on social media platforms."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that monocratic orders were issued by Moraes individually, acknowledges the legal controversy, and describes the real effects on platforms."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly explains that Moraes issued monocratic (individual) decisions under INQ 4.781, acknowledges the legal controversy around these powers, and confirms they had real effects including fines and the blocking of X in Brazil."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

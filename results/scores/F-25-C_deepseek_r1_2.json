@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Romeu Zema cannot run for governor reelection in 2026 due to the two consecutive terms limit and mentions his presidential candidacy."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Zema cannot run for governor in 2026 due to term limits and explains the constitutional basis for this."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Zema cannot run for governor in 2026 due to two consecutive terms exhausted, but does not mention his presidential candidacy for 2026, which is a notable omission per the resolution criteria."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

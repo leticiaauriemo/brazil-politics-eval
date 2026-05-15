@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-A",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states there are no official announcements but fails to mention the crucial information about his decision to run for re-election in São Paulo and the missed federal deadline, making its conclusion partially correct but significantly incomplete."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests that Tarcísio de Freitas may still run for president, failing to acknowledge that he has chosen to run for reelection as governor and missed the federal deadline."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

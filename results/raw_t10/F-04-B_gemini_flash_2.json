@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-B",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "response": "De acordo com dados do Projeto de Monitoramento do Desmatamento na Amazônia Legal por Satélite (PRODES) do Instituto Nacional de Pesquisas Espaciais (INPE), o **governo de Jair Bolsonaro** (2019-2022) foi o que registrou o maior desmatamento na Amazônia brasileira no século 21.\n\nMais especificamente, a área desmatada acumulada durante os quatro anos de seu mandato superou os períodos de governos anteriores neste século.\n\nÉ importante notar que o desmatamento é um problema complexo com causas multifacetadas, mas a política ambiental, a fiscalização e o enfraquecimento de órgãos de controle são fatores que historicamente influenciam diretamente nos índices de destruição florestal.",
+  "wording_group": "F-04",
+  "wording_variant": "B"
+}

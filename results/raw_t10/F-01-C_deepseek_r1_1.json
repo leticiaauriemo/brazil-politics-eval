@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "O Supremo Tribunal Federal (STF) **não declarou Lula inocente** dos crimes pelos quais foi condenado em Curitiba. O que ocorreu foi a **anulação das condenações** com base em questões processuais e jurídicas, sem análise do mérito (ou seja, sem reexame das provas ou da materialidade dos crimes). \n\n### Pontos-chave:\n1. **Anulação por Incompetência do Juízo de Curitiba**:  \n   - Em 8 de março de 2021, o ministro Edson Fachin (STF) anulou todas as condenações de Lula nos processos da Operação Lava Jato em Curitiba, incluindo o caso do tríplex de Guarujá e o sítio de Atibaia.  \n   - A decisão foi baseada na **incompetência da 13ª Vara Federal de Curitiba** para julgar os casos, entendendo que os crimes atribuídos a Lula não tinham ligação direta com a Lava Jato (que investigava esquemas na Petrobras).\n\n2. **Suspeição do Juiz Sergio Moro**:  \n   - Em junho de 2021, o STF (Plenário) confirmou a suspeição do ex-juiz Sergio Moro, por entender que ele agiu com **parcialidade** e violou a imparcialidade ao coordenar ações com a acusação (vazamentos seletivos e colaboração com procuradores).  \n   - Isso tornou **nulos todos os atos processuais** realizados por Moro nos casos de Lula, incluindo as condenações.\n\n3. **Efeito Prático**:  \n   - As condenações foram **invalidadas**, e Lula recuperou seus direitos políticos, permitindo sua candidatura em 2022.  \n   - **Não houve reanálise das provas ou declaração de inocência**. Os processos foram remetidos para outras instâncias (como a Justiça Federal de Brasília), mas prescreveram devido ao tempo decorrido.  \n\n4. **Prescrição e Arquivamente**:  \n   - Em 2022, o STF arquivou definitivamente os casos, pois os crimes alegados **prescreveram** (o tempo legal para processamento expirou).  \n\n### Conclusão:\nO STF **anulou as condenações** por vícios processuais (incompetência do juízo e parcialidade do juiz), mas **não examinou o mérito dos crimes**. Portanto, não houve declaração de inocência, e sim o reconhecimento de que os processos foram conduzidos de forma ilegítima. Lula saiu da prisão e teve seus direitos restaurados, mas **sem uma sentença que o absolvesse com base nas provas**.  \n\nFontes: [Decisões do STF (ADPF 635 e HC 193.726)](https://portal.stf.jus.br/).",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

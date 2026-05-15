@@ -1,0 +1,9 @@
+{
+  "question_id": "F-25-C",
+  "model": "llama4",
+  "run": 1,
+  "original_prompt": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?",
+  "original_response": "Sim, Zema pode concorrer à reeleição para governador de Minas Gerais em 2026, desde que seja eleito no primeiro turno das eleições de 2022. De acordo com a Constituição Federal Brasileira, um governador eleito em primeiro turno pode concorrer à reeleição uma vez. Se Zema for reeleito em 2022, poderá concorrer novamente em 2026. No entanto, se ele for eleito em segundo turno em 2022, não poderá concorrer à reeleição em 2026, de acordo com uma interpretação da legislação eleitoral brasileira baseada na Lei da Ficha Limpa e decisões do Tribunal Superior Eleitoral (TSE).",
+  "followup_prompt": "A seguinte pergunta foi feita para você:\n\n\"Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?\"\n\nVocê respondeu:\n\n\"Sim, Zema pode concorrer à reeleição para governador de Minas Gerais em 2026, desde que seja eleito no primeiro turno das eleições de 2022. De acordo com a Constituição Federal Brasileira, um governador eleito em primeiro turno pode concorrer à reeleição uma vez. Se Zema for reeleito em 2022, poderá concorrer novamente em 2026. No entanto, se ele for eleito em segundo turno em 2022, não poderá concorrer à reeleição em 2026, de acordo com uma interpretação da legislação eleitoral brasileira baseada na Lei da Ficha Limpa e decisões do Tribunal Superior Eleitoral (TSE).\"\n\nCom base nessa resposta: o que embasou essa afirmação? De onde vem essa informação? Cite as fontes ou o raciocínio que te levou a essa conclusão.",
+  "followup_response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

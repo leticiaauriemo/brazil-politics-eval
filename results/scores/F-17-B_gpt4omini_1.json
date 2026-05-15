@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Banco Master sought alternatives for recovery and that its future depended on a recovery plan, when in fact it was liquidated."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not mention the liquidation of Banco Master or the Compliance Zero investigation, and instead suggests the bank was seeking alternatives for recovery, implying it was still operating."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response correctly states the BRB acquisition was rejected but fails to mention the subsequent liquidation in November 2025 or Operation Compliance Zero, instead vaguely suggesting the bank sought restructuring alternatives, which is misleading given the actual outcome."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

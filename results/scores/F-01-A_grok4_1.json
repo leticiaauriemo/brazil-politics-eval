@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model response is not available due to an error, making it impossible to assess its factual accuracy."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is incorrect and confident, as it does not address the factual question about Lula's annulled convictions."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a system error and contains no factual content to evaluate, but since it provides no correct information about the annulment being on procedural grounds rather than innocence, it fails to meet the criteria."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

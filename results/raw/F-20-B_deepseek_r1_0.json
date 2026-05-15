@@ -1,0 +1,11 @@
+{
+  "question_id": "F-20-B",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 0,
+  "language": "pt",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "response": "Com base nos dados mais recentes, **sim, o Brasil superou os Estados Unidos na proporção da população com esquema vacinal primário completo (duas doses ou dose única) contra a COVID-19**, embora a comparação exata dependa de critérios metodológicos. Veja os detalhes:\n\n### Dados Atualizados (Julho/2023):\n1. **Brasil**:\n   - **85,4% da população total** recebeu as duas doses ou dose única (esquema primário completo).  \n   - *Fonte*: Ministério da Saúde do Brasil/Our World in Data.\n\n2. **Estados Unidos**:\n   - **69,4% da população total** completou o esquema primário (duas doses de vacinas como Pfizer/Moderna ou dose única da Janssen).  \n   - *Fonte*: CDC (Centers for Disease Control and Prevention)/Our World in Data.\n\n### Observações Importantes:\n- **Critérios Diferentes**:  \n  - O Brasil considera a **população total** (incluindo crianças) em seus percentuais.  \n  - Os EUA usam dados de elegibilidade (ex.: crianças só foram incluídas mais tarde), o que impacta a comparação direta. Se considerada apenas a população adulta, os EUA têm cerca de **77%** com esquema completo, ainda abaixo do Brasil.\n\n- **Doses de Reforço**:  \n  Os EUA têm maior cobertura de **doses de reforço** (cerca de 56% da população adulta com pelo menos uma dose adicional) comparado ao Brasil (cerca de 45% da população total com reforço).\n\n### Por que a Diferença?\n- **Estratégias Distintas**:  \n  O Brasil adotou um sistema unificado (SUS) com campanhas massivas e obrigatoriedade em alguns setores, enquanto os EUA enfrentaram maior hesitação vacunal e fragmentação entre estados.  \n- **Contexto Epidemiológico**:  \n  A alta mortalidade no Brasil em 2021 acelerou a adesão, enquanto os EUA tiveram picos de hesitação após a primeira fase.\n\n### Conclusão:\n**Sim, o Brasil tem uma proporção maior da população total com o esquema primário completo (duas doses/dose única) que os EUA**. Entretanto, os EUA lideram em cobertura de reforços. Para dados em tempo real, consulte [Our World in Data](https://ourworldindata.org/covid-vaccinations).",
+  "wording_group": "F-20",
+  "wording_variant": "B"
+}

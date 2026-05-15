@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-A",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Rede Globo can receive federal advertising funds and explains the reasons and legality, but it omits the historical context of distribution under different governments."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Rede Globo can receive federal advertising but lacks specific context about the legality, the historical practice under different governments, and the variations in funding."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

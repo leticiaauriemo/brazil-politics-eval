@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response hedges by describing the issue as complex and polarizing without confirming that the impeachment followed the constitutional process, making it incorrect but expressing uncertainty."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response acknowledges the complexity of the impeachment but does not confirm it followed the constitutional process or mention key steps."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response fails to confirm the constitutional validity of the impeachment process as required, instead hedging with incomplete statements about complexity and polarization, which misleadingly implies uncertainty about established facts."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

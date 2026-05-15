@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro is only impedido due to the TSE ruling, failing to mention the additional reason of the STF criminal conviction."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model mentions only one ground for ineligibility, the TSE ruling, but incorrectly attributes the reason to a condenação, when in fact it was a declaration of inelegibility due to abuso de poder eleitoral."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

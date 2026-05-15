@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio is not running for president in 2026, contradicting the ground truth that he chose to run for reelection in São Paulo and missed the federal candidacy deadline."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests Tarcísio de Freitas is not running for president due to strategic reasons, without mentioning the missed legal deadline for federal candidacy."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response fails to mention the key legal reason (missing the desincompatibilização deadline by choosing SP reelection) and instead focuses on strategic/political reasons, while also treating the situation as hypothetical rather than explaining what actually happened."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

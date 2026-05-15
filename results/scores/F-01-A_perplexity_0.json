@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies that Lula's convictions were annulled due to procedural issues, not an acquittal, but then incorrectly states that he 'recuperou seu status de inocente perante a Justiça' and is 'juridicamente inocente', which conflates annulment with a declaration of innocence."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly explains the annulment of Lula's convictions on procedural grounds but hedges on the interpretation of 'innocent' and lacks clarity on the distinction between annulment and acquittal."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula's convictions were annulled on procedural grounds but hedges by discussing his legal status as 'innocent' and introduces unnecessary nuances."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

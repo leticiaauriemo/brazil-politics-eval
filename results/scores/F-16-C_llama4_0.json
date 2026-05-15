@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Bolsonaro as the creator of Auxílio Brasil and the R$600 adjustment in 2022, but omits the crucial detail of PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the creation of Auxílio Brasil to Bolsonaro and mentions the adjustment to R$600, but it lacks specificity about the PEC 1/2022 and the timing related to the elections."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

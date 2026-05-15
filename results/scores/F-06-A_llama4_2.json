@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-A",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms that Minister Alexandre de Moraes ordered social media suspensions, linking it to investigations and mentioning the platforms implicitly through 'redes sociais'."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Alexandre de Moraes ordered suspensions of social media accounts related to misinformation but lacks specific mention of the Inquiry 4781 and the platforms affected."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

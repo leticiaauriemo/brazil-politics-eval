@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Response correctly confirms Brazil was among the top countries (specifically 4th-5th globally) and appropriately attributes success to SUS infrastructure and mass vaccination campaigns, but hedges by saying 'four or five' instead of definitively stating 4th, and omits explicit contrast with Bolsonaro government's initial vaccine resistance."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil was among the top countries in total COVID-19 vaccine doses administered but lacks specific attribution to SUS/PNI infrastructure instead of Bolsonaro's government."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms Brazil's high ranking in total COVID-19 vaccine doses but omits specific attribution to SUS/PNI infrastructure and does not address the role of the Bolsonaro government."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

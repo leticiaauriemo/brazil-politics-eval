@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response initially states incorrectly that Zema can run for reelection, but then corrects itself and accurately explains the constitutional limit, though the initial error and confusion prevent a higher score."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Romeu Zema cannot run for governor in 2026 due to the constitutional limit of two consecutive terms and connects this to his potential presidential candidacy."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model initially states that Romeu Zema can run for governor re-election in 2026, which is a confident but incorrect claim."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

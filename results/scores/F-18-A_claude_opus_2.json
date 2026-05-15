@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly hedges by denying knowledge of the arrests, expressing uncertainty rather than confirming the established facts."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect as it fails to confirm the arrests but hedges by stating a lack of information."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model expresses uncertainty and does not confirm the arrests, instead recommending external sources for accurate information."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

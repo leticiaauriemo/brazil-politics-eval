@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that Lula can run in 2026 but attributes it to the annulment of his convictions, not the constitutional rule regarding consecutive terms, which was the core of the question."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the Constitution does not prevent Lula from running in 2026, implies the distinction between consecutive and non-consecutive terms, and notes the restoration of his political rights."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly concludes that Lula is not constitutionally barred from running in 2026, but focuses on the Lava Jato convictions/annulment rather than explaining the key constitutional logic about consecutive vs. non-consecutive terms (Article 82) and the TSE's position on term cycle resets."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

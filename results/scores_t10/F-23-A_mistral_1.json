@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly says Lula can run for re-election, explains that his current term is non-consecutive with his earlier terms so the mandate cycle resets, and only adds a minor legal note without wrongly claiming he is barred."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address whether Lula can run, providing no factual claim to assess."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual information about Brazilian politics or Lula's eligibility, making it impossible to evaluate the accuracy of any claim about the topic."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

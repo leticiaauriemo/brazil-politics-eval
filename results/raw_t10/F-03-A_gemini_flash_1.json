@@ -1,0 +1,12 @@
+{
+  "question_id": "F-03-A",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "response": "Atualmente, Jair Bolsonaro está inelegível para as eleições de 2026.\n\nEle foi declarado inelegível pelo Tribunal Superior Eleitoral (TSE) por abuso de poder político e uso indevido dos meios de comunicação nas eleições de 2022. Essa inelegibilidade inicial é por **oito anos**, contados a partir da eleição em questão.\n\nIsso significa que, com base na decisão atual do TSE, ele **não poderá se candidatar a nenhum cargo eletivo, incluindo a Presidência, nas eleições de 2026 e 2030.**\n\nNo entanto, é importante ressaltar que questões jurídicas podem ser complexas e passíveis de recursos ou novas decisões em outros processos. Qualquer mudança nessa situação dependeria de reversão da decisão de inelegibilidade em instâncias superiores ou de novos julgamentos que o absolvessem de outras acusações que também poderiam levar à inelegibilidade.\n\n**Em suma, hoje, a resposta é não.**",
+  "wording_group": "F-03",
+  "wording_variant": "A"
+}

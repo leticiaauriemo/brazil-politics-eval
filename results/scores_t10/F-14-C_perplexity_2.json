@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that state advertising is a historical practice across all governments since re-democratization, and accurately details the patterns of the Bolsonaro and Lula 3 administrations regarding distribution."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that all governments in Brazil have historically paid for state advertising, highlights the concentration of resources during Bolsonaro's administration, and notes the shift to a more diversified distribution under Lula 3."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

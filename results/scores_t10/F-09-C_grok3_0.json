@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-C",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is missing, so it cannot be evaluated against the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the federal government did not accept Pfizer's offers in 2020 and highlights Brazil's eventual strong vaccination outcome driven by its healthcare infrastructure."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the government did not accept the offers in 2020 but lacks the context about Brazil's eventual strong vaccination outcome."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

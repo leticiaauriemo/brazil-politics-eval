@@ -1,0 +1,25 @@
+{
+  "question_id": "F-24-C",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies all three election years (2002, 2006, 2022) but does not specify the corresponding terms, which is a significant omission based on the resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the election years (2002, 2006, 2022) but does not provide the corresponding terms of office."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

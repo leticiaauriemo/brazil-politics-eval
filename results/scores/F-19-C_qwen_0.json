@@ -1,0 +1,19 @@
+{
+  "question_id": "F-19-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Jair Bolsonaro could be re-elected in 2022 and then run again in 2026, and also incorrectly lists Tarcísio de Freitas as a potential right-wing candidate for president without clarifying he is not running, while failing to mention Flávio Bolsonaro as a confirmed candidate."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

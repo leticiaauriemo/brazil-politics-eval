@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states the duration of the ineligibility (8 years until 2030) and mentions the reason (abuse of electoral power and misuse of media during the ambassadors meeting)."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly states the duration of ineligibility but incorrectly describes the start date and omits the specific reason related to the ambassadors meeting."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the 8-year duration and mentions abuse of political power and misuse of media, but does not specifically mention the ambassadors meeting as the triggering event, and slightly hedges on the start date (saying October 2022 rather than the June 2023 declaration date)."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

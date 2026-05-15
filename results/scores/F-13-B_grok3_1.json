@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the approval of EC 103 to the Michel Temer government, despite correctly identifying the amendment number and year."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the constitutional amendment to Michel Temer while acknowledging it was enacted during Bolsonaro's government, leading to confusion about the correct timeline."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

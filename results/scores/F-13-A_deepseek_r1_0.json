@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correct government but incorrect emendment number."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the pension reform to the Bolsonaro government, specifies the year 2019, and accurately states the minimum retirement ages established."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the Bolsonaro government, the 2019 reform (PEC 06/2019, which became EC 103/2019), and accurately states the minimum ages of 65 for men and 62 for women."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

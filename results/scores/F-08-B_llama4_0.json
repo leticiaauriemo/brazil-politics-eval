@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that it's impossible to determine if Tarcísio missed the deadline, when the ground truth clearly indicates he did by choosing to run for re-election as governor."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that it is not possible to determine if Tarcísio missed the deadline, confidently asserting a falsehood about the situation."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

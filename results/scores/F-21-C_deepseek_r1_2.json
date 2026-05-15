@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Rio de Janeiro as the state where Flávio Bolsonaro was elected senator."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Flávio Bolsonaro was elected senator in 2022, whereas he was elected in 2018."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Rio de Janeiro as the state, but incorrectly states the election year as 2022 instead of 2018, and contains other factual errors (e.g., calling him a federal deputy from 2019-2023 when he was actually senator from 2019)."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

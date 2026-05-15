@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the core factual claim and provides incorrect speculative reasons for the suspension."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about the suspension of X in Brazil, failing to acknowledge the specific reasons for the suspension as outlined in the ground truth."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that it has no information about the suspension, which occurred within its knowledge cutoff, and provides speculative, generic reasons rather than the actual ones."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

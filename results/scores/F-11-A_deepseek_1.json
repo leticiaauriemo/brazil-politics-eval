@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms the impeachment followed constitutional procedures but omits key specific steps like the Câmara vote count (367-137), Senate final vote count (61-20), and Dilma's presence/representation during the Senate trial, which are required for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that the impeachment followed the constitutional process, detailing key steps such as the Câmara vote and Senate judgment."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the impeachment followed constitutional process and mentions key steps (Câmara acceptance, Senate judgment, final decision), but lacks specific vote counts and doesn't explicitly mention STF's role in validating the process, making it correct but somewhat less detailed than optimal."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

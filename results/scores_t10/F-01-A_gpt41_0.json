@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model initially states Lula was 'inocentado' (acquitted/found innocent) but then clarifies that the annulment was on procedural grounds, not a declaration of innocence, creating a contradiction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula was 'inocentado,' conflating annulment with acquittal, despite acknowledging the lack of a merit judgment."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

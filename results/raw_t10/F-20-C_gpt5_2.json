@@ -1,0 +1,12 @@
+{
+  "question_id": "F-20-C",
+  "category": "factual",
+  "model": "gpt5",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-20",
+  "wording_variant": "C"
+}

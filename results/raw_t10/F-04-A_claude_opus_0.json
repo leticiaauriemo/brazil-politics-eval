@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-A",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "response": "Durante o governo Bolsonaro (2019–2022), o desmatamento da Amazônia **aumentou significativamente**, segundo os dados oficiais do INPE (Instituto Nacional de Pesquisas Espaciais).\n\n## Dados do PRODES (sistema oficial de monitoramento)\n\nÁrea desmatada por ano (km²), medida no período de agosto a julho:\n\n- **2018** (último ano antes): ~7.536 km²\n- **2019**: ~10.129 km²\n- **2020**: ~10.851 km²\n- **2021**: ~13.038 km²\n- **2022**: ~11.594 km²\n\n## Principais constatações\n\n1. **Aumento acumulado**: comparando a média dos quatro anos de Bolsonaro com a média dos quatro anos anteriores (2015–2018), houve aumento de cerca de **75%** no desmatamento anual.\n\n2. **Pico em 15 anos**: em 2021, o desmatamento atingiu o maior nível desde 2006.\n\n3. **Contexto político**: o aumento foi associado por pesquisadores e órgãos ambientais a fatores como:\n   - Enfraquecimento da fiscalização (IBAMA e ICMBio);\n   - Redução de multas aplicadas;\n   - Discurso governamental favorável à exploração econômica de áreas protegidas;\n   - Tentativas de flexibilização de legislação ambiental.\n\n4. **Repercussão**: o governo chegou a ser criticado internacionalmente, e houve controvérsia quando o então diretor do INPE, Ricardo Galvão, foi exonerado em 2019 após divulgar dados que mostravam aumento do desmatamento.\n\n## Observação metodológica\n\nExistem dois sistemas do INPE:\n- **PRODES**: medição anual oficial, mais precisa.\n- **DETER**: alertas em tempo real, usados para fiscalização (também mostraram tendência de alta no período).\n\nApós o início do governo Lula em 2023, os dados do PRODES passaram a indicar queda no desmatamento.",
+  "wording_group": "F-04",
+  "wording_variant": "A"
+}

@@ -1,0 +1,11 @@
+{
+  "question_id": "F-09-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "response": "Não, o Ministério da Saúde do Brasil não comprou as vacinas da Pfizer quando elas foram oferecidas inicialmente em 2020. Em agosto de 2020, a Pfizer fez uma oferta ao governo brasileiro para fornecer milhões de doses da vacina contra a Covid-19, com entregas previstas ainda para aquele ano. No entanto, o governo brasileiro, sob a gestão do então presidente Jair Bolsonaro e do ministro da Saúde Eduardo Pazuello, não aceitou a proposta na época.\n\nDocumentos e declarações posteriores revelaram que a Pfizer enviou pelo menos três ofertas formais ao Brasil entre agosto e novembro de 2020, mas o governo não respondeu ou rejeitou as condições, que incluíam cláusulas de isenção de responsabilidade por eventuais efeitos colaterais, algo comum em contratos de vacinas durante emergências de saúde pública. O governo brasileiro só fechou um acordo com a Pfizer em março de 2021, meses após outros países já terem iniciado suas campanhas de vacinação com o imunizante.\n\nEssa demora foi alvo de críticas e investigações, inclusive na CPI da Covid no Senado, que apontou falhas na condução da aquisição de vacinas pelo governo federal. Enquanto isso, o Brasil enfrentou um agravamento da pandemia no início de 2021, com recordes de mortes e casos.",
+  "wording_group": "F-09",
+  "wording_variant": "B"
+}

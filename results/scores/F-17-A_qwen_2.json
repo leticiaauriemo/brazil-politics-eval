@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that 'Mastercard Banco' (which it identifies as the former Banco Master S.A.) is still in operation and part of Mastercard, and that there are no public indications of it ceasing operations, directly contradicting the ground truth about the liquidation of Banco Master by the Central Bank in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Banco Master is still operating and does not acknowledge its liquidation by the Central Bank in November 2025."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Banco Master is still operating in 2024 and does not mention its liquidation in November 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-B",
+  "model": "claude_sonnet",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states Tarcísio was reelected in 2024 and expresses uncertainty about a definitive decision, despite the ground truth clearly stating he missed the deadline."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly explains the desincompatibilização requirement and acknowledges the deadline, but it hedges by stating uncertainty about Tarcísio's situation."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the desincompatibilização requirement but does not definitively confirm Tarcísio missed the deadline, leaving it vague."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

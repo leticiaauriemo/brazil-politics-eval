@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly implies Tarcísio is a potential presidential candidate, failing to mention he chose São Paulo re-election and missed the federal deadline, but avoids confidently stating he will run."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas has not confirmed his candidacy for president in 2026, despite the fact that he has chosen to run for reelection as governor of São Paulo and missed the federal deadline."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to state the established fact that Tarcísio is NOT running for president in 2026 due to choosing São Paulo reelection and missing the federal desincompatibilização deadline; instead it presents him as an undecided potential candidate, which is factually incorrect and misleading."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula's first government (2004 peak ~27,800 km²) as the highest in the 21st century and notes the subsequent sharp reduction also under Lula."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula's first government in 2004 as having the highest deforestation peak in the 21st century, with additional context on subsequent reductions and recent trends."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies 2004 under Lula's first government as the 21st-century peak at 27,772 km², provides important context about the subsequent sharp reduction, and accurately notes Bolsonaro's period as a more recent high trend — fully matching the ground truth with appropriate nuance."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

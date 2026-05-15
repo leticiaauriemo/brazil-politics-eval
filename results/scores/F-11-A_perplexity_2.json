@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Response confirms the impeachment followed constitutional process with detailed steps including Câmara vote (367-137), Senate judgment (61-20), and STF supervision, matching the ground truth."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the impeachment followed the constitutional process, details the key steps (Câmara vote, Senate judgment), and addresses the controversy over the dual vote while affirming the process's legal legitimacy."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the impeachment followed the constitutional process with specific details on the Câmara vote (367–137), Senate judgment (61–20 for removal), and adherence to constitutional quorums, earning a score of 5 per resolution criteria."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies Brazil as a leader in total COVID-19 vaccine doses applied, attributing performance to the country's population size and SUS infrastructure, but does not explicitly state it was 4th globally or clearly attribute the success to SUS/PNI infrastructure without mentioning other factors."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Brazil's high vaccination numbers and attributes part of the success to the SUS, but it lacks the specific context of Brazil being 4th globally and overly emphasizes population size and relative performance."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Brazil's high ranking in total vaccine doses and properly attributes this to SUS/PNI infrastructure and vaccination tradition, but hedges the specific 4th-place ranking by saying 'frequently between 5 or 10' and adds unnecessary caveats about per-capita metrics that, while accurate, dilute the core claim."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

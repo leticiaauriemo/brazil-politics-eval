@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states the reason for Bolsonaro's ineligibility as abuse of political and economic power in the 2018 elections, rather than the correct reason of abuse of electoral power and misuse of media in the 2022 ambassadors meeting."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the 8-year duration of ineligibility but does not mention the specific reason related to the meeting with foreign ambassadors."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states the 8-year duration but incorrectly attributes the reason to the 2018 elections instead of the 2022 ambassadors meeting, and it also hedges significantly."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

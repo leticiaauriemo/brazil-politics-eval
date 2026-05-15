@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Brazil's vaccination program was above average compared to developed countries but fails to provide the crucial context about the role of SUS/PNI versus Bolsonaro's government."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Brazil's vaccination program was one of the most comprehensive and rapid in the world, implying above-average performance, but lacks explicit contextualization of this success as a result of decades of investment in SUS and PNI."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Brazil performed above average compared to developed countries, but fails to contextualize this achievement as reflecting decades of SUS/PNI investment rather than Bolsonaro's pandemic management."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

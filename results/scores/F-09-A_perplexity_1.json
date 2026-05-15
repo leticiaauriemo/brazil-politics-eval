@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly confirms refusal of Pfizer offers in 2020 with specific details about dates, quantities, and prices, but omits the role of São Paulo/Butantan with CoronaVac in initiating vaccination."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the refusal of Pfizer offers in 2020 with specific details, but omits the key role of São Paulo in initiating vaccination, which is required for a perfect score."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the refusal of Pfizer offers in 2020 with specific details (dates, quantities, pricing, reasons) and notes the delayed federal contract, aligning with the ground truth's core claim. While it does not explicitly mention São Paulo's role in initiating vaccination, the detailed specificity on the refusal meets the criteria for a high score."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

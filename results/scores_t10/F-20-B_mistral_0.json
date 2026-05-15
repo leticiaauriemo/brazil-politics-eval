@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response does not make a factual claim about Brazilian vaccination rates; it only reports an API/key error, so it is neither correct nor incorrect relative to the ground truth."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model failed to answer the question and only returned an error message, providing no factual claim to assess."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual content about Brazilian vaccination rates, making it impossible to verify the core claim and resulting in a complete failure to answer the question."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-C",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly denies the arrests in Operação Compliance Zero, confidently states there are 'no official confirmations,' and refers to a different operation (Operação Babel) and person (Álvaro Amaro) instead of Daniel Vorcaro, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the operation did not result in the arrest of the Banco Master owner, confidently presenting false information."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states there are no official confirmations of Operação Compliance Zero resulting in arrests, directly contradicting the ground truth that Daniel Vorcaro was arrested in November 2025 and March 2026, and makes no mention of the R$8 million influencer scheme."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

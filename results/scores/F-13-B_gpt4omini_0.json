@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the constitutional amendment establishing minimum retirement ages to the Michel Temer government, when it was enacted during the Bolsonaro government."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the establishment of the minimum age for retirement to the government of Michel Temer, rather than the Bolsonaro government."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the EC 103 reform to the Temer government when it was actually approved during the Bolsonaro government, despite correctly stating the date and number of the amendment."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no information about a final conviction for Jair Bolsonaro by the STF, which contradicts the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about a conviction of Jair Bolsonaro that has become final, despite the ground truth indicating otherwise."
+    },
+    {
+      "judge": "deepseek",
+      "score": null,
+      "binary": null,
+      "reasoning": "Judge error: could not parse JSON from: ```json\n{\"binary\": 0, \"score\": 1, \"reasoning\": \"The response incorrectly states there is no informat"
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

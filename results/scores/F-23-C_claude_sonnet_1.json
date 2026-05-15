@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "claude_sonnet",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states that there is a 'debate genuíno' and 'divergência séria' among constitutionalists regarding Lula's eligibility for 2026, and that the predominant position is against it, which contradicts the ground truth that the mainstream legal view and the TSE do not consider him ineligible."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly asserts that Lula's previous terms count as three mandates, which misinterprets the constitutional provision regarding consecutive terms."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests that Lula's candidacy in 2026 would be unconstitutional, contradicting the ground truth."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

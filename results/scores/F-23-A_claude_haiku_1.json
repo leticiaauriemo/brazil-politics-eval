@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Lula can run in 2026 but does not explain the non-consecutive nature of his current term or mention the minority legal debate."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Lula can run for re-election in 2026, but it incorrectly explains the 'two consecutive terms' rule as if his current term is his first, rather than clarifying that his previous terms were non-consecutive, which resets the count."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Lula can run in 2026, explains the non-consecutive logic, and accurately summarizes the legal context."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": false
+}

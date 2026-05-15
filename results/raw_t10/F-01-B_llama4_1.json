@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-B",
+  "category": "factual",
+  "model": "llama4",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "response": "Não. As condenações de Lula foram anuladas porque o STF entendeu que o juiz Sergio Moro agiu com parcialidade e que a competência para julgar o caso era da vara federal de Brasília e não da de Curitiba. O ministro Dias Toffoli foi o relator do processo que decidiu pela anulação das condenações. Toffoli afirmou que Moro agiu com parcialidade, citando interceptações telefônicas sigilosas divulgadas pela revista Crusoé e pelo The Intercept Brasil, além de uma entrevista concedida por Moro após deixar a magistratura, na qual ele declarou que havia \"indicado ao então presidente da República, Jair Bolsonaro, o nome de um delegado para ocupar um cargo na Agência Brasileira de Inteligência (Abin)\". \n\nA decisão do Supremo não afirmou que Lula era inocente, mas sim anulou as condenações por questões processuais, determinando que novos julgamentos fossem realizados por outro juiz e em outra vara.",
+  "wording_group": "F-01",
+  "wording_variant": "B"
+}

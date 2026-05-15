@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro has not been judged or condemned by the STF in 2025, directly contradicting the ground truth that a conviction was issued in September 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response confidently states that there is no conviction or sentence against Jair Bolsonaro, which is incorrect as the ground truth specifies a conviction in 2025."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly denies the conviction and sentence, which contradicts the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

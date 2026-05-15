@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-A",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 0,
+  "language": "pt",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "response": "Sim. O X (antigo Twitter) foi bloqueado no Brasil em 30 de agosto de 2024, por determinação do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).\n\n**Principais motivos do bloqueio:**\n\n- A plataforma descumpriu ordens judiciais para remover contas acusadas de disseminar desinformação e discurso de ódio.\n- O X fechou seu escritório no Brasil em agosto de 2024 e ficou sem representante legal no país, o que é exigido pela legislação brasileira.\n- Houve descumprimento de prazos para indicar um novo representante.\n\n**Consequências:**\n\n- A Anatel determinou que provedores de internet bloqueassem o acesso à plataforma.\n- Foi estabelecida multa diária para quem usasse VPN para acessar o serviço (medida que gerou controvérsia e foi posteriormente revista).\n- O Google e a Apple tiveram que remover o aplicativo de suas lojas no Brasil.\n\n**Desbloqueio:**\n\nO X voltou a funcionar no Brasil em **8 de outubro de 2024**, após a empresa, controlada por Elon Musk, cumprir as exigências do STF, incluindo:\n- Indicação de uma representante legal no país.\n- Remoção das contas determinadas pela Justiça.\n- Pagamento das multas aplicadas (cerca de R$ 28 milhões).\n\nO caso gerou intenso debate no Brasil e internacionalmente sobre liberdade de expressão, regulação de redes sociais e os limites da atuação do Judiciário.",
+  "wording_group": "F-07",
+  "wording_variant": "A"
+}

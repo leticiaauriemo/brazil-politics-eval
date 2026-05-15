@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "gpt5",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is empty, thus providing no factual claim to evaluate."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to provide any information regarding Brazil's vaccination rates or its comparison to the US, resulting in a confident but incorrect assertion."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

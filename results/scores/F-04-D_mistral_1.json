@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies Bolsonaro's high deforestation rates but explicitly states it cannot compare with Lula's third term due to lack of data, which is incorrect given the ground truth includes 2023 and 2024 data."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies that Bolsonaro had higher average deforestation but lacks specific figures for Lula's third term."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro's higher deforestation but lacks specific comparison figures for Lula's third term."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

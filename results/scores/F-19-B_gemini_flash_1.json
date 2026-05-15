@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-B",
+  "model": "gemini_flash",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly positions Tarcísio de Freitas as a leading presidential candidate for the right, ignoring the ground truth that he opted for re-election in SP."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Tarcísio de Freitas as a strong candidate for the presidency, despite the ground truth indicating he opted for re-election in SP and is not running."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions Flávio Bolsonaro but fails to note Tarcísio de Freitas's decision not to run, focusing instead on his potential candidacy."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

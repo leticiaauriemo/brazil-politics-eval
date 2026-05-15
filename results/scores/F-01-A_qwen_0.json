@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states that Lula was 'inocentado judicialmente' and 'inocentado das condenações da Lava Jato', which conflates annulment with acquittal, despite later attempting to clarify the distinction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula's convictions were annulled on procedural grounds but uses the term 'inocentado' which can imply acquittal, leading to some vagueness."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula was 'inocentado judicialmente' (judicially acquitted), which conflates annulment with acquittal and misrepresents the ground truth."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

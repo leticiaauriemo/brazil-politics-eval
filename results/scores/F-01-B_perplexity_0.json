@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly states annulment was due to procedural issues (incompetência territorial and suspeição of Moro) and explicitly distinguishes annulment from innocence."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Lula's convictions were annulled for procedural reasons, not because the STF found him innocent, and clearly distinguishes annulment from acquittal."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Response correctly states that annulment was procedural (jurisdictional incompetence and judicial partiality), explicitly clarifies STF did not declare Lula innocent, and distinguishes annulment from absolution."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

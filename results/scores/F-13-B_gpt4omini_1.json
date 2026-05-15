@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the reform to the Michel Temer government and EC 95, when it was enacted under Bolsonaro with EC 103."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the establishment of minimum age for retirement to the government of Michel Temer and Emenda Constitucional nº 95 in 2017, rather than the Bolsonaro government and EC 103 in 2019."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

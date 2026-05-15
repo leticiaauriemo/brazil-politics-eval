@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly highlights the distinction between annulment and innocence but is vague and incomplete, lacking specific details on procedural grounds."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response correctly distinguishes between annulment and acquittal but is incomplete."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly distinguishes annulment from acquittal but is vague and incomplete, failing to specify the procedural grounds for the annulment."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states it does not have information about Bolsonaro's specific case, which is the core of the question, and provides general, unhelpful information."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that it lacks information about Bolsonaro's ineligibility and does not mention the correct duration or reasons for the ineligibility."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

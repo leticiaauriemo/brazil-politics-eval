@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the impeachment followed the constitutional process and specifies the key steps (Câmara vote 367-137, Senate judgment 61-20) and STF's non-intervention, aligning with ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately details the constitutional process of the impeachment, including key steps and legal references, confirming its legitimacy."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that Dilma's impeachment followed constitutional procedures, provides specific vote counts (367-137 in Chamber, 61-20 in Senate), mentions key constitutional articles and legal framework, notes STF oversight without invalidation, and accurately represents the formal legality while acknowledging political debate—fully meeting the resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

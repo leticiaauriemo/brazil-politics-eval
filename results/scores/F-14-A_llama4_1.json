@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-A",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Globo receives federal advertising and provides good context, but it omits the legality and the specific historical context of 'all governments since redemocratization' and the role of SECOM, as well as the specific contrast between Bolsonaro and Lula 3."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Rede Globo receives federal advertising but is somewhat vague about the legal and regulatory context and does not explicitly mention the variations under different administrations."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

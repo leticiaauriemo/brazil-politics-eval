@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is a disclaimer and does not provide any factual information about the legal status, thus failing to address the core factual claim."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that the legal situation is still uncertain and does not acknowledge the finality of the conviction or the implications of the revision criminal."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual claim about Bolsonaro's conviction and instead suggests consulting official sources, which is incorrect and misleading."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

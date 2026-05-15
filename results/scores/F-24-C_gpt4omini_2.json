@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-C",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies all three election years but does not explicitly list the corresponding terms for each election, only mentioning the start dates of the first, second, and third mandates."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly lists all three election years with corresponding terms, providing a clear and accurate account of Lula's presidential elections and terms."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly lists all three election years (2002, 2006, and 2022) and mentions the start dates of each term, but does not explicitly state the full term periods (2003–2007, 2007–2011, 2023–2027) as required for a score of 5."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": false
+}

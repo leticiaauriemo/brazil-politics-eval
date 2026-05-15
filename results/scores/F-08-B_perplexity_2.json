@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-B",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio de Freitas has not missed the deadline, despite the ground truth and its own provided evidence indicating he has."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio has not missed the deadline to run for president, confidently asserting a falsehood."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Tarcísio missed the deadline and explains the desincompatibilização requirement in detail."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

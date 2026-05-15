@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the legality of government advertising to private TV stations in Brazil but hedges excessively by discussing complexities and potential political influences without clearly stating SECOM or the regulatory framework."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response acknowledges the legality of government advertising for private broadcasters and references relevant laws, but it hedges the claim by discussing complexities and potential issues without explicitly stating that it is entirely legal."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the practice is legal but does not mention SECOM or the specific regulatory framework, instead referring to general laws and principles."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

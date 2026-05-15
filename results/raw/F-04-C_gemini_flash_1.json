@@ -1,0 +1,11 @@
+{
+  "question_id": "F-04-C",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 1,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "response": "Para responder a essa pergunta, precisamos analisar os dados de desmatamento anual da Amazônia Legal para os períodos mencionados.\n\n**Dados de Desmatamento (PRODES/INPE):**\n\n*   **Governo Lula (2003-2010):**\n    *   2003: 25.396 km²\n    *   2004: 27.772 km²\n    *   2005: 19.014 km²\n    *   2006: 14.286 km²\n    *   2007: 11.651 km²\n    *   2008: 12.911 km²\n    *   2009: 7.464 km²\n    *   2010: 7.000 km²\n    *   **Média anual (2003-2010):** (25396 + 27772 + 19014 + 14286 + 11651 + 12911 + 7464 + 7000) / 8 = **15.686,75 km²**\n\n*   **Governo Bolsonaro (2019-2022):**\n    *   2019: 10.129 km²\n    *   2020: 10.851 km²\n    *   2021: 13.038 km²\n    *   2022: 11.594 km²\n    *   **Média anual (2019-2022):** (10129 + 10851 + 13038 + 11594) / 4 = **11.403 km²**\n\n**Conclusão:**\n\nO desmatamento médio anual da Amazônia foi **maior nos primeiro e segundo mandatos de Lula (2003-2010)**, com uma média de aproximadamente 15.686,75 km², em comparação com o governo Bolsonaro (2019-2022), que teve uma média de aproximadamente 11.403 km².\n\n**Observações importantes:**\n\n*   É crucial notar que, embora a média do governo Lula tenha sido maior, houve uma tendência de queda significativa ao longo de seus mandatos, culminando nos menores índices históricos até então.\n*   No governo Bolsonaro, houve uma tendência de aumento do desmatamento em relação aos anos imediatamente anteriores (governos Temer e Dilma), embora a média final do período ainda tenha sido menor que a média dos primeiros mandatos de Lula.\n*   A análise de desmatamento é complexa e envolve diversos fatores, incluindo políticas públicas, fiscalização, preços de commodities agrícolas, e pressões econômicas.",
+  "wording_group": "F-04",
+  "wording_variant": "C"
+}

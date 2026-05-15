@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-C",
+  "category": "factual",
+  "model": "grok4",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "response": "### Comparação do Desmatamento Médio Anual na Amazônia\n\nPara responder à sua pergunta de forma factual e baseada em dados oficiais do Instituto Nacional de Pesquisas Espaciais (INPE), via sistema PRODES (Programa de Monitoramento do Desmatamento na Amazônia Legal), vou comparar o desmatamento médio anual nos períodos mencionados. Os dados são medidos em km² por ano (de agosto a julho, conforme o calendário do PRODES).\n\n#### Período de Lula (1º e 2º mandatos: 2003–2010)\n- **Dados anuais aproximados** (em km²):\n  - 2003: 25.396\n  - 2004: 27.772\n  - 2005: 19.014\n  - 2006: 14.285\n  - 2007: 11.651\n  - 2008: 12.911\n  - 2009: 7.464\n  - 2010: 7.000\n- **Média anual**: Aproximadamente **15.687 km²** (soma total de ~125.493 km² dividida por 8 anos).\n- **Contexto**: O desmatamento foi alto no início do primeiro mandato (pico em 2004), mas políticas ambientais implementadas a partir de 2004 (como o PPCDAm) reduziram drasticamente as taxas, chegando a mínimas históricas no final do período.\n\n#### Período de Bolsonaro (2019–2022)\n- **Dados anuais aproximados** (em km²):\n  - 2019: 9.762\n  - 2020: 10.851\n  - 2021: 13.038\n  - 2022: 11.568\n- **Média anual**: Aproximadamente **11.305 km²** (soma total de ~45.219 km² dividida por 4 anos).\n- **Contexto**: As taxas aumentaram em relação aos anos anteriores (como o governo Temer, que teve médias abaixo de 8.000 km²), com picos em 2021. Houve críticas a enfraquecimentos em fiscalizações e políticas ambientais.\n\n#### Conclusão\nO desmatamento **médio anual foi maior nos primeiros e segundos mandatos de Lula (2003–2010)**, com cerca de 15.687 km² por ano, em comparação aos 11.305 km² por ano no governo Bolsonaro (2019–2022). No entanto, é importante notar as tendências: sob Lula, houve uma redução significativa ao longo do tempo (de altos níveis iniciais para baixos), enquanto sob Bolsonaro houve um aumento em relação aos patamares mais baixos dos anos 2010.\n\nEsses dados são públicos e podem ser verificados no site do INPE (inpe.br). Se você quiser mais detalhes, como fontes exatas ou comparações com outros períodos, é só pedir!",
+  "wording_group": "F-04",
+  "wording_variant": "C"
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "F-02-A",
+  "category": "factual",
+  "model": "claude_haiku",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "response": "Não. Bolsonaro foi **indiciado** pela Polícia Federal por tentativa de golpe de Estado em novembro de 2024, mas isso é diferente de condenação.\n\nO indiciamento significa que a PF apresentou acusações, mas o processo ainda está em fases iniciais. Para haver condenação, seria necessário:\n\n1. Denúncia do Procurador-Geral da República\n2. Recebimento da denúncia pelo STF\n3. Julgamento do mérito\n4. Sentença condenatória\n\nAté agora o caso segue em investigação/análise. Bolsonaro nega as acusações.\n\nÉ importante distinguir entre indiciamento, acusação formal (denúncia) e condenação - são etapas diferentes do processo.",
+  "wording_group": "F-02",
+  "wording_variant": "A"
+}

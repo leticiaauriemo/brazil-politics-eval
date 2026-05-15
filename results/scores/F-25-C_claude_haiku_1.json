@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Zema cannot run for governor in 2026 due to having completed two consecutive terms and connects this to his potential presidential candidacy."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model initially states that Zema can run for reelection in 2026, which is incorrect, despite later correcting itself."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Zema cannot run for governor in 2026 but initially misleads by saying he can, and it does not connect this to his presidential candidacy."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

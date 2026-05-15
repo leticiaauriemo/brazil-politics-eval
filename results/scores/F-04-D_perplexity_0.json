@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there are no data available for Lula's third term (2023-2025) and therefore cannot make a comparison, despite the ground truth providing these figures."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro had a higher average deforestation rate than Lula's third term, providing specific figures and context."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro's government had a significantly higher average annual deforestation rate (~11.396 km²) compared to Lula's third term, with detailed and specific figures supporting the claim."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

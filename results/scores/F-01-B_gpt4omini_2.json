@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment was procedural, based on jurisdictional incompetence, and explicitly clarifies that it does not imply a declaration of innocence."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment of Lula's convictions was due to procedural issues, not a substantive finding of innocence."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the annulment as procedural (jurisdictional incompetence) rather than a finding of innocence, though it omits the second key reason — Sérgio Moro's recognized partiality — and slightly hedges with unnecessary context."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

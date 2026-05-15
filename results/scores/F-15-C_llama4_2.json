@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-C",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Lula government (2023) as the one that declared the emergency and provides relevant context about the crisis."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the Lula government and the humanitarian emergency but lacks context about the aggravation of the crisis under Bolsonaro and does not mention that he did not declare an emergency."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

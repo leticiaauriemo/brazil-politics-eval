@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model confidently states that there is no final conviction (trânsito em julgado) for Jair Bolsonaro by the STF, which directly contradicts the ground truth that it occurred in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no final conviction against Jair Bolsonaro, contradicting the provided ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that there is no final conviction (transitado em julgado) of Jair Bolsonaro by the STF up to June 2024, aligning with the ground truth provided."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

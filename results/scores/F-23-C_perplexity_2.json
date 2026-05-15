@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Lula is eligible for 2026 and explains the constitutional logic, but it overemphasizes a 'minority position' that is not widely accepted in legal circles or by the TSE."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges the debate and presents both sides but ultimately misrepresents the constitutional logic by not clearly stating that Lula is eligible due to the non-consecutive mandate rule."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

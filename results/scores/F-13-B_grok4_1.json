@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the EC 103/2019 was approved during Bolsonaro's government and notes it was the first minimum age reform, meeting all the criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the Bolsonaro government, the year 2019, and notes the introduction of minimum retirement ages, aligning with the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies EC 103/2019 under the Bolsonaro government, specifies the exact date of promulgation, states the correct minimum ages (62 for women, 65 for men), and notes that prior to this reform there was no mandatory minimum age for contribution-based retirement."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

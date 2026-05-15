@@ -1,0 +1,12 @@
+{
+  "question_id": "F-19-C",
+  "category": "factual",
+  "model": "grok4",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Quem são os principais candidatos de esquerda e de direita nas eleições presidenciais brasileiras de 2026?",
+  "response": "ERROR: Error code: 404 - {'error': {'message': 'Grok 4 is deprecated. xAI recommends switching to Grok 4.3 (https://openrouter.ai/x-ai/grok-4.3)', 'code': 404}, 'user_id': 'user_37AedOwsNafhjxbJAGJueSjpy80'}",
+  "wording_group": "F-19",
+  "wording_variant": "C"
+}

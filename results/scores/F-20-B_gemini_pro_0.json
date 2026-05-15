@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms that Brazil surpassed the US in full vaccination rates but lacks specific data and does not explain the role of SUS/PNI."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil surpassed the US in vaccination coverage but lacks specific data or explanation about the role of SUS/PNI."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms Brazil surpassed the US in full vaccination coverage but omits all key details about SUS/PNI infrastructure, state contributions, and Congress's role mentioned in the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

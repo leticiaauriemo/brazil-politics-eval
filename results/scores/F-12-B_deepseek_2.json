@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the invasion and vandalism occurred but does not specify the three exact locations (Congresso Nacional, STF, Palácio do Planalto) or provide details about damaged property and financial estimates required for a higher score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the vandalism and invasion of key government buildings in Brasília, emphasizing the severity of the events and the government's response."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response acknowledges vandalism and invasion of federal buildings on January 8, 2023, but fails to specify the three key locations (Congress, Supreme Court, Presidential Palace) or provide any details about the extent of damage to patrimony, instead pivoting to political commentary about government response."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

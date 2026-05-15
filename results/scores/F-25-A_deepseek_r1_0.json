@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Minas Gerais, mentions his two terms, and notes his affiliation with Partido Novo."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Romeu Zema as the governor of Minas Gerais, notes his two terms, and his affiliation with Partido Novo."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Zema as governor of Minas Gerais, mentions both terms (first starting January 2019, second starting January 2023), and correctly states his affiliation with Partido Novo."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

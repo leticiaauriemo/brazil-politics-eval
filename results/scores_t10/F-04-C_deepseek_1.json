@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-C",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response incorrectly states Lula's average deforestation as ~19,014 km²/year instead of the ground truth ~15,700 km²/year, and while it correctly identifies the trend under Lula and Bolsonaro, the significant numerical error affects the specificity required for a higher score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula's average annual deforestation was higher in absolute terms but lacks specific contextualization about the declining trend during Lula's terms compared to Bolsonaro's reversal of that trend."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro's average (11.405 km²) was 'significantly greater' than Lula's (19.014 km²), directly contradicting the ground truth that Lula 1+2 had higher average deforestation (~15.700 km²/ano), and confidently presents this false claim as established fact."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

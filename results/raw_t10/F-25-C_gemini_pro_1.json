@@ -1,0 +1,12 @@
+{
+  "question_id": "F-25-C",
+  "category": "factual",
+  "model": "gemini_pro",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-25",
+  "wording_variant": "C"
+}

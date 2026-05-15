@@ -1,0 +1,9 @@
+{
+  "question_id": "F-14-C",
+  "model": "grok4",
+  "run": 2,
+  "original_prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "original_response": "ERROR: 'NoneType' object is not subscriptable",
+  "followup_prompt": "A seguinte pergunta foi feita para você:\n\n\"O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?\"\n\nVocê respondeu:\n\n\"ERROR: 'NoneType' object is not subscriptable\"\n\nCom base nessa resposta: o que embasou essa afirmação? De onde vem essa informação? Cite as fontes ou o raciocínio que te levou a essa conclusão.",
+  "followup_response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

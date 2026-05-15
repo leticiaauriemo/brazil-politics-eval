@@ -1,0 +1,19 @@
+{
+  "question_id": "F-19-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Flávio Bolsonaro is the main opposition candidate and that Tarcísio de Freitas is merely 'speculated' to run, when the ground truth explicitly states he is NOT a candidate and Flávio Bolsonaro announced his candidacy in December 2025, not as a current main opposition."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-21-A",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Flávio Bolsonaro was elected Senator in 2022 and began his term in 2023, and also incorrectly states he is part of the parliamentary group that supports President Lula."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Flávio Bolsonaro is a Senator since February 2023 and was elected in 2022, while the ground truth specifies he was elected in 2018 and his term extends until 2026."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly confirms that Minister Alexandre de Moraes ordered social media suspensions but does not provide specific details like the inquiry number or the platforms affected."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is incorrect but hedged, as it mentions Moraes' involvement in suspending social media profiles but does not specifically confirm the details of Inquiry 4781 or the affected platforms."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms that Moraes ordered social media profile suspensions related to disinformation and threats to democracy, but lacks specific details about Inquiry 4781 or the specific platforms affected (Twitter/X, YouTube, Telegram)."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

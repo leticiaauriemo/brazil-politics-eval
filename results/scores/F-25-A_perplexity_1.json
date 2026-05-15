@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Correctly identifies Minas Gerais and mentions both terms, but fails to mention Partido Novo and includes false claim about resignation and Mateus Simões taking over."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims that Romeu Zema has already resigned as governor of Minas Gerais, which is false; he remains in office, making the answer confidently incorrect."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly identifies Minas Gerais as Zema's state, notes his 2018 and 2022 elections, Partido Novo affiliation, and term end in 2026. The claim about resignation is not in the ground truth but does not contradict the core factual requirements for full score."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

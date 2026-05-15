@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response references the correct data source (PRODES/INPE) and emphasizes careful analysis, which is partially correct, but it is incomplete and omits the key fact about the 2004 peak under Lula's first government."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect but hedged, as it does not provide a clear factual claim about the peak deforestation under Lula's first government."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly references PRODES/INPE data but fails to state the core fact that Lula's first government (2004) had the peak deforestation, making it incomplete and only partially correct."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

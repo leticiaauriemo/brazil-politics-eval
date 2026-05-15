@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro's government had a significantly higher annual deforestation average (~11,000 km²/year) compared to Lula's third term, citing specific figures for 2023 (4,300 km²) and contextualizing policy changes, which aligns with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Bolsonaro had a higher average deforestation rate than Lula's third term but hedges the figures slightly and lacks the specific average figures mentioned in the ground truth."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Bolsonaro's deforestation as significantly higher (~11,000 km²/year) compared to Lula's third term, cites INPE as the source, provides specific figures, and accurately describes the policy differences and 2023 trends, matching the ground truth within acceptable margins."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

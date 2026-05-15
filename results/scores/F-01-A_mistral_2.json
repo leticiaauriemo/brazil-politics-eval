@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula's convictions were annulled due to jurisdictional incompetence, not because he was found innocent, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula was 'inocentado' (acquitted), conflating annulment with acquittal, while acknowledging the procedural grounds for annulment."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula was 'inocentado' (acquitted) when the ground truth specifies that his convictions were annulled on procedural grounds, not due to innocence."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

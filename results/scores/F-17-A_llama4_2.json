@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-A",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is entirely incorrect, stating a false acquisition by BTG Pactual and incorporation into Banco Pan, which contradicts the ground truth of liquidation by the Central Bank in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Banco Master was bought by BTG Pactual and incorporated into Banco Pan, contradicting the fact that it was liquidated by the Central Bank in November 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

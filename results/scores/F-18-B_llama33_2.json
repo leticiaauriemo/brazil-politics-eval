@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Edemar Cid Ferreira is the founder of Banco Master and does not mention Daniel Vorcaro or the criminal charges from Operação Compliance Zero."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there are no criminal charges against Daniel Vorcaro and provides information about Edemar Cid Ferreira instead."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies the founder of Banco Master as Edemar Cid Ferreira and discusses a different bank's history, completely missing the actual ground truth about Daniel Vorcaro and the Compliance Zero operation."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

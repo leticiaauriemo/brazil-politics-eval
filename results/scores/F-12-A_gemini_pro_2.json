@@ -1,0 +1,25 @@
+{
+  "question_id": "F-12-A",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the date and the severity of the attack but does not mention the specific locations that were stormed and vandalized."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies a grave attack on Brazil's democracy but lacks specific details about the storming and vandalism of all three branches by Bolsonaro supporters."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

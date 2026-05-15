@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is incorrect because it discusses the theoretical possibility of a minister ordering suspensions, but fails to acknowledge that this has actually occurred in practice, specifically through monocratic orders by Minister Moraes, which is the core of the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges the authority of a minister to issue orders regarding social media suspensions but lacks the specific context of Moraes' monocratic orders and the associated legal controversy."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the possibility of a single justice ordering social media suspensions under certain conditions but lacks specific mention of Moraes' monocratic orders, their legal controversy, and real effects."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

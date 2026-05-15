@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly identifies Lula and Flávio Bolsonaro as the main candidates, but does not clarify that Tarcísio is not running (though he's also not incorrectly listed), and contains a minor error calling Zema 'ex-governador' when he is still governor."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "O modelo corretamente identifica Lula e Flávio Bolsonaro como principais candidatos, mas não esclarece que Tarcísio de Freitas NÃO é candidato, nem menciona Pablo Marçal como possível outsider."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Correctly identifies Lula and Flávio Bolsonaro as main candidates but omits clarification that Tarcísio de Freitas is not running for president."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

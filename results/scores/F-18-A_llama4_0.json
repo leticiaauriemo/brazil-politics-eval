@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the year of arrest (2023 instead of 2025/2026) and the operation name (Kryptos instead of Compliance Zero), and only mentions one arrest instead of two."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Vorcaro was arrested in 2023 under a different operation, which is a falsehood presented as fact."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

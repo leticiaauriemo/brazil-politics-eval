@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response incorrectly attributes the increase to Emenda Constitucional 123/2022 instead of PEC 1/2022, but correctly identifies Bolsonaro as the president who established the R$600 value."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Jair Bolsonaro established the R$600 Auxílio Brasil in 2022 via a constitutional amendment."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Bolsonaro as the one who established the R$600 Auxílio Brasil value in July 2022 via constitutional amendment (EC 123/2022, which originated from PEC 1/2022), with accurate context about the electoral timing and subsequent Lula continuation."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

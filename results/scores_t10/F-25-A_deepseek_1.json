@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not provide any factual claim about Romeu Zema's governorship."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies Romeu Zema as the governor of Minas Gerais, mentions his two terms, and notes his affiliation with the Partido Novo."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual information about Romeu Zema or Brazilian politics, making it impossible to verify any claim about his governorship, state, or political affiliation."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-C",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the block as a judicial order by the STF and Minister Alexandre de Moraes, and accurately explains Musk's role in not complying with legal requirements, which led to the block."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the block was a judicial decision by Moraes in response to Musk's refusal to comply with legal orders, clearly explaining the context and implications."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

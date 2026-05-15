@@ -1,0 +1,19 @@
+{
+  "question_id": "F-12-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies the invasion and vandalism of the National Congress and the STF, but incorrectly states the Palácio da Alvorada instead of the Palácio do Planalto as the third location, and omits the estimated financial damage."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

@@ -1,0 +1,19 @@
+{
+  "question_id": "F-14-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal, provides specific legal frameworks (Constitution, Law 12.232/2010), and mentions the criteria for distribution and oversight bodies like the TCU and Portal da Transparência, aligning with the ground truth and exceeding the SECOM mention requirement."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula's third non-consecutive term (2023–2027) with accurate dates and context, matching the ground truth exactly."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula is in his third presidential term (2023-2027) and provides clear context about his previous terms and the intervals between them."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula's current term as his third mandate (2023–2027), provides accurate dates for all three terms, correctly notes the non-consecutive nature with the intervening presidencies, and is specific and well-documented."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

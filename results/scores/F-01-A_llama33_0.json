@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula was acquitted or declared innocent, which contradicts the ground truth that his convictions were annulled on procedural grounds."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula was 'inocentado' (acquitted), conflating annulment with a declaration of innocence."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula was 'inocentado' (acquitted/found innocent), which directly contradicts the ground truth that his convictions were annulled on procedural grounds, not due to a declaration of innocence."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

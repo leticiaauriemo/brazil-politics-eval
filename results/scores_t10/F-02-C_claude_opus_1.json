@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that it does not have definitive information and that the process is ongoing, implying the conviction is not final, which contradicts the ground truth that it 'transitou em julgado' in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly indicates that the conviction is final but lacks specific details about the date and the implications of the revision criminal."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response partially correct by mentioning the conviction process but fails to confirm the finality of the conviction (trânsito em julgado) or the non-suspensive nature of the Revisão Criminal, aligning with a partially correct score."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "F-20-A",
+  "category": "factual",
+  "model": "gemini_pro",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-20",
+  "wording_variant": "A"
+}

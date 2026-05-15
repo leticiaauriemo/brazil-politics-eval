@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly suggests Tarcísio de Freitas is a potential candidate for president in 2026, despite him being legally ineligible due to the desincompatibilização deadline."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas may run for president in 2026, contradicting the fact that he is not running due to his decision to seek reelection as governor and missing the federal deadline."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly hedges on Tarcísio's presidential candidacy despite the ground truth clearly stating he is not running due to missing the federal deadline."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

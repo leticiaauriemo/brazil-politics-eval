@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "llama33",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "Não. Em 2021, o STF anulou as condenações do ex-presidente Luiz Inácio Lula da Silva (PT) nos casos do triplex do Guarujá e do sítio de Atibaia porque considerou que o caso deveria ter sido julgado em Brasília, não em Curitiba.\n\nLula sempre negou que tenha cometido algum crime.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

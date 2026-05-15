@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Zema as belonging to Partido Novo and explicitly distinguishes it from the PL."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "A resposta identifica corretamente Romeu Zema como pertencente ao Partido Novo (NOVO) e não o confunde com o PL, alinhando-se perfeitamente ao critério de resolução."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "O modelo identificou corretamente Romeu Zema com o Partido Novo (NOVO) sem mencionar ou confundir com o PL, alinhando-se às evidências que confirmam sua filiação desde 2018 e destacam a distinção entre os partidos."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

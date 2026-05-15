@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "response": "No século 21, o desmatamento da Amazônia tem sido monitorado por meio de dados do Instituto Nacional de Pesquisas Espaciais (INPE), principalmente pelo sistema PRODES, que registra as taxas anuais de desmatamento. Analisando os dados históricos, o governo que registrou os maiores índices de desmatamento na Amazônia coincide com períodos de políticas menos restritivas de fiscalização e maior incentivo a atividades como pecuária e agricultura em áreas de floresta.\n\nAté 2023, os picos mais altos de desmatamento ocorreram durante o governo de Jair Bolsonaro (2019-2022). Durante esse período, as taxas de desmatamento alcançaram níveis recordes, com destaque para o ano de 2022, quando o PRODES registrou 11.088 km² de área desmatada na Amazônia Legal, uma das maiores taxas desde 2006. Esse aumento foi associado por especialistas a uma redução na fiscalização ambiental, enfraquecimento de órgãos como o IBAMA e ICMBio, e discurso favorável à exploração econômica da floresta.\n\nPor outro lado, governos anteriores, como os de Luiz Inácio Lula da Silva (2003-2010), tiveram taxas de desmatamento inicialmente altas, mas que diminuíram ao longo dos mandatos devido à implementação de políticas de controle, como o Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal (PPCDAm). Em 2004, por exemplo, o desmatamento atingiu 27.772 km², o maior registro do século 21 até então, mas caiu para menos de 5.000 km² em 2010.\n\nPortanto, embora o governo Bolsonaro tenha registrado altas taxas recentes, o pico histórico do século 21 ocorreu no início do governo Lula, em 2004. No entanto, a tendência de aumento durante o governo Bolsonaro é considerada mais preocupante por especialistas devido ao contexto de desmantelamento de políticas ambientais.\n\n### Resumo com base nos dados do INPE (PRODES):\n- **Maior pico histórico no século 21**: 2004, sob Lula, com 27.772 km² desmatados.\n- **Período recente mais crítico**: Governo Bolsonaro (2019-2022), com taxas crescentes e pico de 11.088 km² em 2022.\n- **Menores taxas**: Final do governo Lula (2010) e governo Dilma Rousseff (2011-2016), com taxas abaixo de 5.000 km² em alguns anos.",
+  "wording_group": "F-04",
+  "wording_variant": "B"
+}

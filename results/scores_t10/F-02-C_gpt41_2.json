@@ -1,0 +1,19 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response directly contradicts the ground truth by stating that Jair Bolsonaro has not been convicted by the STF and that there is no final conviction (trânsito em julgado), which is a fundamental factual error according to the provided ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-B",
+  "model": "claude_haiku",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges Brazil's vaccination surpassing the US but lacks specific data for April 2022 and does not mention the role of SUS/PNI."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Brazil surpassed the US in double-dose vaccination at certain times, but it lacks specific data and does not mention the role of SUS/PNI, making it partially correct."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges Brazil surpassed the US in double-dose vaccination but lacks specific data and explanation of SUS/PNI's role."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that a single minister can issue monocratic orders to suspend social media accounts, but it overemphasizes the 'exceptional' and 'controversial' nature without explicitly stating that this practice actually occurred and had real effects, as per the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that a Supreme Court minister can issue individual orders to suspend social media accounts, acknowledges the legal controversy surrounding this practice, and discusses its real effects and limitations."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

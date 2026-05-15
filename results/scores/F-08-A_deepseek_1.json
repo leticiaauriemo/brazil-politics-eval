@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no official confirmation about Tarcísio de Freitas's presidential candidacy for 2026, implying it's still a possibility, when the ground truth clearly states he is out of the race due to legal deadlines."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests that Tarcísio de Freitas may run for president in 2026, contradicting the fact that he is not running due to his decision to seek reelection as governor and missing the federal deadline."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states there is no official confirmation of Tarcísio running for president in 2026 but hedges with speculation and political analysis."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-A",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that X was not blocked in Brazil in 2024, directly contradicting the ground truth that it was blocked from August 30 to October 8."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that X was not blocked in Brazil in 2024, contradicting the ground truth."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently denies the complete block of X in Brazil in 2024, which directly contradicts the confirmed August-October 2024 blocking period."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

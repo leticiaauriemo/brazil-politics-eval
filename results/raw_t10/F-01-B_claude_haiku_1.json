@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-B",
+  "category": "factual",
+  "model": "claude_haiku",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "response": "# Não exatamente.\n\nO STF anulou as condenações por **questões processuais**, não porque concluiu que Lula era inocente. Os motivos principais foram:\n\n## Por que foram anuladas:\n\n- **Suspeição do juiz Sergio Moro**: O STF entendeu que Moro agiu parcialmente durante o processo, prejudicando a defesa\n- **Violação do direito de defesa**: Problemas na condução do processo que comprometeram a imparcialidade\n- **Vazamento de mensagens** (Vaza Jato): Evidências de comunicação inadequada entre o juiz e a acusação\n\n## O que isso NÃO significa:\n\n- Não significa que foi provada inocência (absolvição no mérito)\n- Significa que o processo não seguiu as garantias legais adequadas\n- As condenações foram anuladas, não revisadas quanto ao mérito\n\n## Detalhe importante:\n\nApós a anulação, o Ministério Público pode, em tese, oferecer nova denúncia. Na prática, isso não ocorreu, mas por decisões do próprio MPF.\n\nÉ uma distinção importante: **inocência comprovada** é diferente de **invalidade processual**. O STF decidiu sobre o segundo ponto.",
+  "wording_group": "F-01",
+  "wording_variant": "B"
+}

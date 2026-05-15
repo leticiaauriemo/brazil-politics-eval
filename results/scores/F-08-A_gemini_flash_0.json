@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect as it suggests Tarcísio de Freitas might run for president in 2026, but it hedges with uncertainty."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly asserts that Tarcísio de Freitas may run for president in 2026, contradicting the fact that he is not running due to his decision to seek reelection as governor and missing the federal deadline."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly leaves open the possibility of Tarcísio running for president in 2026, despite the ground truth stating he is not due to missing the federal deadline."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": true
+}

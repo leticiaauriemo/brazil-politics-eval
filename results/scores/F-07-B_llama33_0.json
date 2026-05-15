@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the core factual claim about the suspension of X in Brazil and provides incorrect general possibilities instead."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about the suspension of 'X' in Brazil, while the ground truth specifies clear reasons for the suspension."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it has no information about the event, which is incorrect given the ground truth, and then provides generic reasons for suspension that do not align with the specific factual context."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "claude_sonnet",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the establishment of the R$600 minimum benefit as a permanent and guaranteed measure to the Lula government, despite acknowledging Bolsonaro's temporary increase to R$600 in 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the establishment of the R$600 benefit as a permanent measure to Lula, failing to acknowledge that it was initially created under Bolsonaro's Auxílio Brasil."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

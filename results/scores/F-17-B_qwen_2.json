@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is entirely speculative and does not provide any factual information about the actual events, including the liquidation date or the 'Compliance Zero' operation, and incorrectly states the Banco Master faced issues in 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the BRB's acquisition of Banco Master was rejected and that Banco Master was subsequently liquidated, while also mentioning the Compliance Zero investigation."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the rejection of the acquisition and suggests liquidation but lacks specific details about November 2025 and Compliance Zero."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-A",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro was not convicted by the STF as of April 2023, which contradicts the ground truth of a conviction in September 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro had not been convicted of any crimes related to an attempted coup, despite the ground truth indicating a conviction."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect because it states that as of April 2023, there was no information about Bolsonaro being convicted, whereas the ground truth indicates a conviction in September 2025 and final judgment in November 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

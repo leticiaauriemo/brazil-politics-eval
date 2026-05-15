@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-C",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula 1+2 had a higher average annual deforestation in absolute terms and contextualizes the trend of declining deforestation under Lula compared to the reversal under Bolsonaro."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide a clear answer to the question about the comparison of average annual deforestation between Lula 1+2 and Bolsonaro."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response starts to cite official data but is incomplete, not reaching the core factual claim about Lula vs. Bolsonaro deforestation rates."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

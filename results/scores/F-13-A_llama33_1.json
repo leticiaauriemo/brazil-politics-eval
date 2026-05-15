@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-A",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro's government but lacks specific details about EC 103/2019 and the minimum ages."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the pension reform to the Bolsonaro government but lacks specific details about the constitutional amendment and the minimum ages."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies the Bolsonaro government but lacks the specific details of the constitutional amendment and the minimum ages, as required for a higher score."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

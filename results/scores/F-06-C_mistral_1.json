@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that a single minister can issue monocratic orders, but it frames this as a theoretical possibility rather than an established fact that has already occurred, and it omits the crucial context of the controversy surrounding these specific actions by Minister Moraes."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges the power of a minister to issue monocratic orders but lacks specific mention of Moraes's controversial practices and their real effects."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly acknowledges the STF's authority for monocratic decisions and the legal complexities involved, but it overly hedges and does not directly confirm the specific controversial actions taken by Moraes in Inquérito 4781."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

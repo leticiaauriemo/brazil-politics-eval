@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-C",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the courts did not declare the impeachment unconstitutional and clearly distinguishes the political debate from the judicial conclusion."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Brazilian courts did not declare the impeachment unconstitutional and clearly distinguishes this from political criticisms."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the STF did not declare the impeachment unconstitutional and distinguishes the political debate from the judicial conclusion, matching the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

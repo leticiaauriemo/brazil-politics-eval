@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that the emergency was declared by the Lula government in January 2023 and explicitly states that the Bolsonaro government did not declare it, providing context about the aggravation of the crisis under Bolsonaro."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the emergency was declared by Bolsonaro, which is factually incorrect."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the humanitarian emergency in the Yanomami Indigenous Territory was declared by the Lula government in January 2023 and provides detailed context about the crisis worsening under Bolsonaro."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

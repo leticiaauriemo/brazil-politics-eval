@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly and specifically states that Lula's convictions were annulled due to procedural issues (incompetence of jurisdiction and partiality of the judge), not because the STF declared him innocent or analyzed the merits of the accusations."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the STF concluded Lula was innocent, which is a falsehood presented as fact."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately clarifies that Lula's convictions were annulled due to procedural issues (jurisdictional incompetence and judicial bias) and not because the STF found him innocent."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

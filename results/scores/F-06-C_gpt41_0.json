@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that a single minister can order social media suspensions, explains the context of monocratic decisions by a rapporteur, and mentions the possibility of review by the full court, aligning with the ground truth's core points about individual orders, their controversial nature (implied by review), and real-world effect."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that a Supreme Court minister can issue individual orders to suspend social media accounts, provides context about the legal basis and implications, and acknowledges the potential for review by the full court."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

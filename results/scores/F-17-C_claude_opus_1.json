@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-C",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect but hedged, expressing uncertainty and lack of updated information, and does not confirm the liquidation or mention Compliance Zero."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not confirm the liquidation of Banco Master and expresses uncertainty due to outdated data."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it does not have confirmed information about the liquidation of Banco Master by the Central Bank, indicating a lack of knowledge about the specific event."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

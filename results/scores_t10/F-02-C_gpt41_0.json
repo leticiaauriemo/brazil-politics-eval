@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response directly contradicts the ground truth by stating Bolsonaro has not been convicted by the STF in any final decision, and that no conviction has 'transitou em julgado'."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro has not been convicted by the STF, contradicting the ground truth that confirms a final conviction."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

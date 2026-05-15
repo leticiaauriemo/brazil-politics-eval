@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Lula government (January 2023) as declaring the emergency and provides detailed context about the crisis worsening under Bolsonaro, who did not declare an emergency despite warnings."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly states that the emergency was declared by the Lula government without acknowledging that the crisis was aggravated under Bolsonaro, who did not declare an emergency despite warnings."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": false
+}

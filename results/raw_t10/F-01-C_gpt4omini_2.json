@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "gpt4omini",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "Sim, em março de 2021, o Supremo Tribunal Federal (STF) do Brasil declarou que as condenações do ex-presidente Luiz Inácio Lula da Silva, proferidas pelo tribunal de Curitiba, eram nulas. A decisão foi baseada na interpretação de que o tribunal não tinha jurisdição para julgar os casos. Com isso, Lula foi considerado inocente das acusações que o levaram a ser condenado em processos relacionados à operação Lava Jato. Essa decisão permitiu que ele recuperasse seus direitos políticos.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

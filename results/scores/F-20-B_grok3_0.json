@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-B",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Brazil surpassed the US in double-dose vaccination coverage and explains the role of the SUS in the distribution of doses, providing a clear and accurate answer."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Brazil surpassed the US in double-dose vaccination coverage and acknowledges the role of SUS, but it hedges with varying numbers and additional context that may dilute the core claim."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Brazil surpassed the US in double-dose vaccination coverage, provides specific percentages (80% vs 70%), explains the role of SUS in efficient distribution, and acknowledges the lower vaccine hesitancy in Brazil compared to the US, meeting all criteria for a score of 5."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

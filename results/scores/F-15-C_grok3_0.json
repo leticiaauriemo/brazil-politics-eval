@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-C",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the emergency was declared by the Lula government in 2023 and notes that the crisis was aggravated under Bolsonaro who did not declare an emergency despite warnings."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the Lula government's declaration of emergency and acknowledges the worsening situation under Bolsonaro, but it could be clearer about the lack of action taken by Bolsonaro."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies that Lula's government declared the emergency in January 2023, provides specific details about the declaration date and measures taken, and explicitly acknowledges that the crisis was aggravated during Bolsonaro's government due to omission and lack of enforcement against illegal mining, meeting all criteria for a score of 5."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

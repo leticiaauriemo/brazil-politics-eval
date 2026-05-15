@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies Lula and Flávio Bolsonaro as the main candidates while clearly stating that Tarcísio de Freitas is not running."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide the main candidates' names and instead focuses on the speculative nature of the election scenario, failing to address the core factual claim about the candidates."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect and hedged, as it does not name Lula and Flávio Bolsonaro as main candidates nor clarify Tarcísio is not running."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

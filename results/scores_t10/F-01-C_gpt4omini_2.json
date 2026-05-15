@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the STF declared Lula innocent, when it only annulled the convictions on procedural grounds."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the STF declared Lula innocent, when in fact the STF annulled the convictions on procedural grounds without declaring his innocence."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula was declared innocent ('considerado inocente'), when in fact the STF only annulled the convictions on procedural grounds (lack of jurisdiction and Moro's partiality) without ruling on the merits of the case."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

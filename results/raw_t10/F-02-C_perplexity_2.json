@@ -1,0 +1,12 @@
+{
+  "question_id": "F-02-C",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "response": "**Sim, a condenação de Jair Bolsonaro pelo STF transitou em julgado.**\n\n### Evidências principais dos resultados:\n- **Decisão unânime da 1ª Turma do STF (25/11/2025)**: Por 4 a 0 (Alexandre de Moraes, Flávio Dino, Cármen Lúcia e Cristiano Zanin), rejeitou embargos de declaração, confirmando o trânsito em julgado do processo da \"trama golpista\" (núcleo 1). Isso torna a condenação de 27 anos e 3 meses de prisão **definitiva**, sem mais recursos nessa instância ([1], [2], [3], [6], [7]).\n- **Consequências imediatas**: Alexandre de Moraes decretou o fim dos recursos, abrindo caminho para execução da pena em regime fechado. A prisão preventiva de 22/11/2025 agora é definitiva, e o início do cumprimento pode ocorrer a qualquer momento ([1], [2], [4], [5], [8]).\n- **Ausência de recursos viáveis**:\n  | Recurso | Status | Motivo |\n  |---------|--------|--------|\n  | Embargos de declaração | Rejeitados (4-0) | Prazo esgotado; defesas não obtiveram votos para prosseguir ([2], [4], [7]). |\n  | Embargos infringentes | Inviáveis | Exigem placar 3-2 na condenação original (foi 4-1 em 11/09/2025); defesas mencionam tentativa até 03/12, mas STF já barrou ([4], [5], [7]). |\n  | Outros (ex.: plenário) | Não cabem | Trânsito em julgado encerra debate de mérito; fase de execução iniciada ([2], [8]). |\n\n- **Confirmações adicionais**: Processos de aliados (ex.: Ramagem, Torres, generais) também transitados em julgado. Portal STF (AP 2668) registra o caso ([9]). Fontes como G1, Agência Brasil, ConJur e BBC corroboram unanimidade e irreversibilidade ([2], [6], [7], [10]).\n\nNão há indícios de recursos pendentes com efeito suspensivo; o trânsito em julgado é fato consumado desde 25/11/2025, conforme múltiplas fontes jornalísticas e jurídicas imparciais.",
+  "wording_group": "F-02",
+  "wording_variant": "C"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that there were no definitive or official grounds for Bolsonaro's ineligibility as of April 2023, missing both the TSE ruling and the STF criminal conviction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there were no definitive or official impediments to Bolsonaro's candidacy, failing to mention the TSE ruling and the potential STF conviction that would render him ineligible."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is based on outdated information from April 2023 and incorrectly states that there were no definitive impediments to Bolsonaro running in 2026, directly contradicting the ground truth."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

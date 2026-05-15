@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that all governments pay state advertising and provides details about the historical context, legal framework, and variations in spending across different administrations, including Bolsonaro and Lula."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that all governments engage in state advertising but lacks specific details about the concentration of resources under Bolsonaro and the broader distribution under Lula 3."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

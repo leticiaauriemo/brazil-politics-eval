@@ -1,0 +1,11 @@
+{
+  "question_id": "F-20-B",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "response": "**Yes, Brazil surpassed the United States in the proportion of its population fully vaccinated (with two doses or single-dose vaccine) against COVID-19, at least as of mid-November 2021.**\n\n### Key Evidence from Sources\n- **[1] Veja (undated, ~Nov 2021)**: Brazil reached 60% fully vaccinated, exceeding the US's 58.8% per CDC data.\n- **[2] Brazilian Ministry of Health (Nov 16, 2021)**: Brazil at 59.8% fully vaccinated (out of 213 million), vs. US at 57.3% (out of 331.4 million), per Our World in Data (OWID, Nov 14).\n- **[4] G1/Globo (Nov 17, 2021)**: Brazil hit 59.43% fully vaccinated (126.8 million people), surpassing the US based on media consortium data.\n\nThese reports consistently cite OWID, CDC, and Brazilian health ministry figures, confirming Brazil briefly led in *proportional* full vaccination rates (e.g., % of total population). Earlier sources like [3] (pre-Nov) show Brazil trailing (27.54% vs. US 51.7%), but by Nov 17, it overtook.\n\n### Context and Limitations\n- This was a narrow, temporary lead (~1-2 percentage points) driven by Brazil's rapid second-dose rollout.\n- Absolute doses: US applied far more (e.g., [5] Aug 2021: US 167M vs. Brazil 47M fully vaccinated).\n- Post-2021 trends (not in results): Boosters and variants shifted dynamics; by 2022-2023, US often led in boosters per capita (per later OWID data).\n- No results cover 2022+; the surpassing was specific to late 2021 full primary series.\n\nSources are credible Brazilian outlets and official data, aligning on the event without contradiction.",
+  "wording_group": "F-20",
+  "wording_variant": "B"
+}

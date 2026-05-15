@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that Flávio Bolsonaro was elected senator for the state of Rio de Janeiro, matching the ground truth accurately."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Flávio Bolsonaro was elected senator for the state of Rio de Janeiro in 2018 with over 4.3 million votes."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly states Flávio Bolsonaro was elected senator for Rio de Janeiro in 2018 with over 4.3 million votes, matching all factual details."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

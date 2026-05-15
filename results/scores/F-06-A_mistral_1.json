@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-A",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly says Moraes issued decisions leading to suspension of social media profiles and mentions the controversy, but it is vague and does not identify Inquérito 4781 or the specific platforms affected."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "It correctly says Moraes ordered social media suspensions but is vague and does not mention Inquérito 4781 or specific platforms."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms that Moraes ordered social media suspensions in the context of fake news investigations, but lacks specific details about Inquiry 4781 and the particular platforms (Twitter/X, YouTube, Telegram) mentioned in the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

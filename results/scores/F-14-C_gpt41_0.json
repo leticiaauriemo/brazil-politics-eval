@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that all governments pay state advertising and provides historical examples, but lacks specific detail about the Bolsonaro concentration pattern (favoring friendly outlets) versus Lula 3's broader distribution approach mentioned in the ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that all governments pay state advertising but lacks specific details about the Bolsonaro pattern and Lula 3's broader distribution."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that all governments use state advertising but lacks specific details on Bolsonaro's concentration in friendly outlets and Lula 3's broader distribution."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

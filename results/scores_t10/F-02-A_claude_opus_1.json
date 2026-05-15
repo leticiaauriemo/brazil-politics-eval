@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-A",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response correctly confirms the conviction, details the crimes, sentence length, and voting, but incorrectly states that appeals are still possible, omitting that the conviction became final in November 2025."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Bolsonaro's conviction and lists the crimes accurately, but omits the key detail that the conviction became final (trânsito em julgado) in November 2025."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model's response correctly confirms Bolsonaro's conviction, mentions the approximate sentence of 27 years, and provides detailed information about the conviction, although it does not explicitly mention the trânsito em julgado in November 2025, it provides enough context to infer the conviction's finality."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the R$600 increase to Lula, when it was implemented by Bolsonaro in 2022."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the R$600 increase to Lula, when in fact it was implemented by Bolsonaro via PEC 1/2022 in 2022 under the name Auxílio Brasil."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently attributes the R$600 increase to Lula's government in 2023, when in fact it was Bolsonaro who raised the value to R$600 via PEC 1/2022 in 2022 under the Auxílio Brasil program."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "O modelo afirma com confiança que o governo Bolsonaro teve o maior desmatamento do século 21, contradizendo a informação factual de que o pico ocorreu em 2004 sob Lula (27.772 km²), sendo que os dados mencionados para Bolsonaro (13.235 km²) são inferiores ao pico histórico."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the highest deforestation rates in the 21st century to Bolsonaro instead of Lula's first government in 2004."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Bolsonaro's government as having the highest 21st-century deforestation, when the ground truth clearly establishes that Lula's first government in 2004 recorded the peak at 27,772 km² according to INPE PRODES, significantly higher than Bolsonaro's 2021 figure of 13,235 km²."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

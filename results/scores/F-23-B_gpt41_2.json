@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-B",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states there is no legal impediment for Lula to run in 2026, accurately explains the non-consecutive mandate logic (third non-consecutive term), mentions the annulment of Lava Jato convictions, and implicitly addresses that no blocking legislation has been enacted, meeting all criteria for a score of 5."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states no legal impediment exists, mentions the constitutional non-consecutive logic, and notes the PEC was not approved, aligning with the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states no legal impediment exists, explains the constitutional non-consecutive mandate logic, and implies no changes in law have occurred."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

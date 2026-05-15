@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-A",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states the task force was shut down in 2021 and distinguishes between the task force ending and the ongoing investigations, but omits the detail about PGR Aras's decision."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the task force was officially dissolved in 2021 and that investigations continue, but it lacks specific details about the decision made by PGR Aras and the distinction between the task force's dissolution and the status of investigations."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Lula can run for re-election but misidentifies his current term and incorrectly states he already served two non-consecutive terms in the past, which is a significant factual error in the explanation."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Lula can run for re-election in 2026 due to the non-consecutive nature of his previous terms and correctly addresses the constitutional limits on consecutive mandates."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

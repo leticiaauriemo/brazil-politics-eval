@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Moraes issued monocratic orders without full court approval, details the legal controversy, and describes the real effects, fully meeting the resolution criteria."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that monocratic orders were issued by a single minister, highlights the legal controversy, and confirms the real effect of these decisions."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly explains that monocratic orders were issued by Moraes individually, notes the legal controversy surrounding this practice, and acknowledges its real effect."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

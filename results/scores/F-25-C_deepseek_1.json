@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly states that Zema cannot run in 2026 due to two consecutive terms but contradicts itself by starting with 'Sim' and fails to mention his ineligibility for governorship or the connection to his presidential candidacy."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Zema cannot run for governor in 2026 but fails to explicitly connect this to his presidential candidacy."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response opens with a false claim ('Sim, Zema pode concorrer') that directly contradicts the ground truth, and while it later correctly states he cannot run in 2026 due to two consecutive terms, the initial affirmative answer and overall structure present the incorrect information as the primary claim."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,11 @@
+{
+  "question_id": "F-10-A",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 2,
+  "language": "pt",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "response": "**A força-tarefa da Operação Lava Jato foi encerrada.**\n\n### Contexto e Evidências\n- **Encerramento oficial das forças-tarefas**: As unidades dedicadas em Curitiba (Paraná), Rio de Janeiro, São Paulo e outras foram dissolvidas entre 2020 e 2021. Isso foi determinado pelo então procurador-geral da República, Augusto Aras, com prazos finais como 1º de fevereiro de 2021 (Curitiba e Rio), setembro/outubro de 2020 (SP e PF), e migração para estruturas permanentes (fontes: [1], [2], [3], [4], [5], [7], [8], [9], [10]).\n  \n- **Transição para o Gaeco**: As investigações remanescentes foram incorporadas ao **Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco)** do Ministério Público Federal (MPF). Exemplos:\n  | Local | Data de Fim da Força-Tarefa | Novo Estrutura |\n  |-------|-----------------------------|---------------|\n  | Curitiba (PR) | 1º fev/2021 (anúncio em 3 fev) | Gaeco-PR (9 procuradores, 5 exclusivos até 2022) ([2], [4], [6], [9]) |\n  | Rio de Janeiro | 31 mar/2021 | Gaeco-RJ (coordenado por Eduardo El Hage) ([8], [10]) |\n  | São Paulo | 29 set/2020 | Procuradora Viviane Martinez e nova equipe ([5], [7]) |\n  | PF (nacional) | Jul/2020 | Delecor ([3]) |\n\n- **Declarações oficiais**: Aras afirmou que a Lava Jato \"não acabou, apenas mudou de nome\" para o Gaeco, tornando-a \"institucional e permanente\" ([2], [8]). No entanto, as forças-tarefas exclusivas e isoladas (modelo original de Curitiba desde 2014) foram extintas, com redução de equipe e fim da dedicação exclusiva ([6], [9]).\n\n- **Situação em 2024**: Em março de 2024, confirmava-se o fim da força-tarefa de Curitiba em 2021, com processos no Gaeco ([6]). Não há indícios de reativação de forças-tarefas dedicadas após isso, e os resultados refletem um \"fim melancólico\" do núcleo original ([9]).\n\nAs investigações da Lava Jato continuam no Gaeco e outros órgãos, mas **sem as forças-tarefas originais**. Isso encerrou um ciclo de 7 anos (2014-2021), com mais de 80 fases, centenas de prisões e bilhões recuperados ([1], [10]).",
+  "wording_group": "F-10",
+  "wording_variant": "A"
+}

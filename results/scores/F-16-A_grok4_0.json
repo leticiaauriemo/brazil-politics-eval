@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly attributes the R$600 increase to Bolsonaro via the context of Auxílio Brasil in 2022 and notes Lula maintained the value in 2023 with additional increments."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro but lacks mention of PEC 1/2022 and misstates the approval method as a Medida Provisória."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro and mentions Auxílio Brasil and Lula maintaining the value with the R$150 child bonus, but incorrectly states it was approved via Medida Provisória rather than PEC 1/2022 (the 'PEC Kamikaze'), which is a notable factual error about the legislative mechanism."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": false
+}

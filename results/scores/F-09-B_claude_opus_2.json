@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-B",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the Ministry did not accept Pfizer's offers in 2020 and provides detailed evidence, but it lacks the required context about Brazil's eventual strong vaccination performance being due to SUS/PNI infrastructure and state pressure rather than federal government action."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the Ministry of Health did not accept Pfizer vaccine offers in 2020, but lacks context on Brazil's eventual strong vaccination performance driven by SUS/PNI and state pressure."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the Ministry of Health did not buy Pfizer vaccines in 2020, but lacks context about Brazil's strong vaccination performance being driven by SUS/PNI infrastructure and state pressure."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

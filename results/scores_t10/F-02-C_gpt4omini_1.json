@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no information about a final conviction, directly contradicting the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it has no information about a specific conviction of Jair Bolsonaro that has become final, which is incorrect given the ground truth that the conviction became final in November 2025."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model correctly acknowledges uncertainty due to its knowledge cutoff and does not make false claims, but it fails to confirm the final conviction (trânsito em julgado) and the details about the revisão criminal, making it an incorrect but appropriately hedged response."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

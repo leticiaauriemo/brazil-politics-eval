@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "gpt4o",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states it cannot provide information about future events, misinterpreting the dates in the ground truth as future, and thus fails to address the core factual claim about Daniel Vorcaro's criminal charges."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that it cannot provide information about future events, despite the factual claim being about past events."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not confirm the criminal charges against Daniel Vorcaro, stating it lacks information beyond October 2023."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 increase (approved via PEC 1/2022 in 2022) to Lula, when it was actually implemented by Bolsonaro in 2022; it only mentions the temporary 2022 R$600 payment under Bolsonaro as a minor aside, failing to credit him with the core factual claim."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula, despite acknowledging that it was temporarily implemented by Bolsonaro in 2022."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula in 2023 as the primary achievement, when the ground truth establishes that Bolsonaro approved the R$600 via PEC 1/2022 in July 2022; while the response does mention Bolsonaro's temporary R$600 in 2022, it frames this as inferior to Lula's 'permanent' version, obscuring that Lula merely maintained Bolsonaro's approved value rather than establishing it."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

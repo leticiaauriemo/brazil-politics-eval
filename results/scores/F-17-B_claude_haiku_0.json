@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states it does not have information about the Banco Master's situation after the rejection, which is incorrect given the ground truth of its liquidation."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response acknowledges the rejection of the acquisition but does not provide specific details about the liquidation of Banco Master or the Compliance Zero investigation."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to confirm the core factual claim about the rejection and liquidation of Banco Master."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

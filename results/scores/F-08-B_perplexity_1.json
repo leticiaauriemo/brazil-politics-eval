@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-B",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies that Tarcísio missed the April 2026 desincompatibilização deadline and chose to run for SP reelection, but it's hedged with confusing caveats suggesting the missed deadline might be 'irrelevant' or that he could still be eligible under certain conditions."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims Tarcísio has not missed the deadline and suggests he could still run, directly contradicting the ground truth that he missed the desincompatibilização deadline and is therefore ineligible."
+    },
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Tarcísio did not miss the deadline, contradicting the ground truth which confirms he missed it by opting for re-election, and confidently presents this falsehood as fact."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,19 @@
+{
+  "question_id": "F-01-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately and specifically states that the annulment was due to procedural issues (judge's partiality) and explicitly clarifies that the STF did not declare Lula innocent or analyze the merits of the accusations."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

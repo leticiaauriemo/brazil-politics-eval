@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "claude_haiku",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 benefit to Bolsonaro but lacks specific details about the Auxílio Brasil and the PEC 1/2022."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states the R$600 was implemented in 2020 during the pandemic as part of the emergency aid, when it was established in July 2022 by PEC 1/2022 as Auxílio Brasil."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro as the originator of the R$600 benefit but inaccurately states it was implemented in 2020 during the pandemic, rather than in 2022 under PEC 1/2022."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

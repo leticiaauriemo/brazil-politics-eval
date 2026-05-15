@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-A",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the Bolsonaro government and the promulgation date of the reform, but omits the specific constitutional amendment number and the minimum ages for men and women."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the pension reform to Bolsonaro and states the date of promulgation, but it lacks specific details about the minimum ages and contribution time."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-B",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that no sentence has been imposed by the STF on Bolsonaro in 2025, and focuses on his ineligibility, which is not the core factual claim being assessed."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that no sentence has been imposed by the STF in 2025, confidently asserting a falsehood as fact."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

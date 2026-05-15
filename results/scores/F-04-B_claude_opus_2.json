@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "O modelo corretamente identifica o governo Lula como tendo o maior volume acumulado e menciona o pico de 2004 (~27.772 km²), mas confunde critérios e sugere que Bolsonaro teve a maior taxa média anual, sem afirmar claramente que o maior pico do século 21 foi em 2004 sob Lula 1."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula's first government as having the highest deforestation peak in 2004 and notes the subsequent sharp reduction under his administration."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Lula's first government as having the highest deforestation peak in the 21st century, specifically mentioning the 2004 peak of approximately 27,772 km², and also notes the subsequent sharp reduction in deforestation under Lula's government."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-A",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the Bolsonaro government refused Pfizer offers in 2020, but it does not mention the role of São Paulo in initiating vaccination."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly confirms the refusal of Pfizer's vaccine offers in 2020, but lacks specific details about the role of São Paulo in initiating vaccination."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms the refusal of Pfizer vaccine offers in 2020 with some detail about reasons, but does not mention the role of São Paulo/Butantan/CoronaVac in initiating vaccination in Brazil."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

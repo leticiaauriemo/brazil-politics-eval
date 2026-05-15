@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Augusto Aras as the Procurador-Geral da República responsible for dissolving the task force, but omits the year 2021."
+    },
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly names Augusto Aras but does not mention the year 2021."
+    },
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Augusto Aras as the Procurador-Geral da República but omits the year 2021, making it partially correct with a significant omission."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

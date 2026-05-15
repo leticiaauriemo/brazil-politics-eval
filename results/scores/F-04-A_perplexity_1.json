@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states deforestation increased significantly, provides accurate annual data matching INPE/PRODES figures, and notes 2021 as the highest in 15 years (reflecting the reversal of the declining trend)."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that deforestation increased significantly under Bolsonaro, provides specific annual data, and notes the reversal of a previous declining trend, fully matching the ground truth."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Amazon deforestation increased significantly under Bolsonaro, reversed a long-term declining trend, and provides approximate data aligned with the ground truth (e.g., 2019-2021 surge to 13k km², 2022 at 11,568 km²), earning a top score for accuracy and specificity."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

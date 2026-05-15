@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly states the task force was ended in February 2021 by PGR Aras, and distinguishes between the task force ending and investigations continuing under Gaeco."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Lava Jato task force was shut down, specifies the 2021 closure by PGR Aras, distinguishes between the end of the task force and the continuation of investigations, and provides accurate contextual details."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the Lava Jato task force was shut down but omits critical details about the 2021 dissolution by PGR Aras and the continuation of investigations under Gaeco, resulting in a partially correct score."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

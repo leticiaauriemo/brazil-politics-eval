@@ -1,0 +1,25 @@
+{
+  "question_id": "F-05-B",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Lula's government as the creator of Bolsa Família in 2003 and accurately mentions its role in unifying and expanding predecessor programs like Bolsa Escola, Bolsa Alimentação, and Auxílio Gás."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsa Família was created during Lula's government in 2003 and correctly contextualizes it as a unification and expansion of existing social programs."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

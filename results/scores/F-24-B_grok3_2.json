@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-B",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula is in his third term as president of Brazil, from 2023 onwards."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula is in his third presidential term (2023-2027) and provides the correct context of his previous terms."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula's current term as his third mandate (2023-2027), accurately states his previous two consecutive terms (2003-2010, though the ground truth says 2003-2011), and clearly explains the timeline of his return to office in 2023."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

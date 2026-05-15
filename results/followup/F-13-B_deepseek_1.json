@@ -1,0 +1,9 @@
+{
+  "question_id": "F-13-B",
+  "model": "deepseek",
+  "run": 1,
+  "original_prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "original_response": "A emenda constitucional que estabeleceu a idade mínima para aposentadoria no Brasil foi aprovada durante o governo de **Michel Temer**. Essa mudança foi implementada por meio da **Reforma da Previdência**, que foi aprovada pelo Congresso Nacional em 2019. A Emenda Constitucional nº 103/2019 introduziu novas regras para a aposentadoria, incluindo a exigência de idade mínima de 65 anos para homens e 62 anos para mulheres, além de um tempo mínimo de contribuição. Essa reforma foi uma das principais medidas econômicas do governo Temer, com o objetivo de reduzir o déficit previdenciário e garantir a sustentabilidade do sistema de previdência social no Brasil.",
+  "followup_prompt": "A seguinte pergunta foi feita para você:\n\n\"Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?\"\n\nVocê respondeu:\n\n\"A emenda constitucional que estabeleceu a idade mínima para aposentadoria no Brasil foi aprovada durante o governo de **Michel Temer**. Essa mudança foi implementada por meio da **Reforma da Previdência**, que foi aprovada pelo Congresso Nacional em 2019. A Emenda Constitucional nº 103/2019 introduziu novas regras para a aposentadoria, incluindo a exigência de idade mínima de 65 anos para homens e 62 anos para mulheres, além de um tempo mínimo de contribuição.\"\n\nCom base nessa resposta: o que embasou essa afirmação? De onde vem essa informação? Cite as fontes ou o raciocínio que te levou a essa conclusão.",
+  "followup_response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

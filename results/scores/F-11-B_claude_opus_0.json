@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically explains that Dilma Rousseff was impeached for fiscal responsibility violations (pedaladas fiscais), not for corruption, and details what the pedaladas were."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that Dilma Rousseff was removed for fiscal responsibility violations (pedaladas fiscais), not corruption, and provides a clear explanation of the fiscal maneuvers involved."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Dilma Rousseff was removed for crime de responsabilidade fiscal, specifically pedaladas fiscais, and explains what they were, without mentioning corruption as the reason."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

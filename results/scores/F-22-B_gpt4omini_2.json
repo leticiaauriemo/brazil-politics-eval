@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Flávio as Jair Bolsonaro's son and eldest son, but does not mention the other politically active sons as per the resolution criteria for a higher score."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Flávio as Jair's son, but fails to mention the other politically active sons."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Correctly identifies Flávio as Jair Bolsonaro's son and even specifies he is the eldest, but does not mention the other politically active sons (Carlos and Eduardo)."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

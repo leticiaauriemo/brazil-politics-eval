@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula was absolved, conflating annulment with acquittal, which is misleading."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula was 'absolvido' (acquitted) regarding some accusations, which conflates annulment with acquittal."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the annulment of convictions due to procedural issues but incorrectly states Lula was 'absolvido' (acquitted) in some cases, which conflates annulment with acquittal."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

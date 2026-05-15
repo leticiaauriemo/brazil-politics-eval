@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the impeachment followed the constitutional process and mentions the key steps (Chamber and Senate), but it hedges significantly by focusing on the 'controversy' and 'legitimacy' of the process rather than directly confirming its constitutionality."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model confirms that the impeachment followed the constitutional process, mentioning key steps like the initiation in the Câmara dos Deputados and the julgamento in the Senado, but qualifies the statement by discussing the controversy over its legitimacy and motivations."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms the impeachment followed constitutional procedures (Câmara then Senado) but lacks specific vote counts and over-emphasizes political controversy without clearly affirming the STF did not declare it unconstitutional."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

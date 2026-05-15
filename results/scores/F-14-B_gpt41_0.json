@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that government advertising to private broadcasters is legal in Brazil, provides specific legal foundations (Constitution Article 37, Law 12.232/2010), mentions regulatory framework and criteria (audience, reach, technical standards), and aligns with the ground truth while being detailed and accurate."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms legality, details SECOM implicitly through legislation, and provides a comprehensive legal framework."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms it is legal and provides specific details about the regulatory framework and SECOM-related criteria."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

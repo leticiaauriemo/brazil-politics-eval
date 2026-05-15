@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no specific information about Bolsonaro's ineligibility declared by the TSE as of its last training, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about Bolsonaro's ineligibility, despite the established fact of an 8-year ban due to electoral misconduct."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

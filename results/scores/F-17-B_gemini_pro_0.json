@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the rejection of the BRB acquisition but lacks details about the subsequent liquidation and the Compliance Zero investigation."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not mention the rejection of the acquisition or the subsequent liquidation of Banco Master, instead suggesting it was a new beginning."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not state the core factual claim that the BRB acquisition was rejected and Banco Master was subsequently liquidated."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that deforestation increased significantly under Bolsonaro, but it does not provide a comparison with Lula's third term, which was the core of the question."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model does not directly compare the deforestation rates between Bolsonaro and Lula's third term, instead focusing on the lack of specific data for Lula's term and the increase during Bolsonaro's government without providing a clear comparison."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies that deforestation increased significantly under Bolsonaro but provides no specific figures and hedges heavily due to claimed data limitations, earning a partial credit score."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": true
+}

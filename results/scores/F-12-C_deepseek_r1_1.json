@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-C",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Bolsonaro was in the US (Florida) on January 8, 2023, and provides context about when he left, but it does not mention his return to Brazil in March 2023."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Bolsonaro was in the US (Florida) on January 8, 2023, and provides context about his travel dates and the political situation in Brazil."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states Bolsonaro was in Orlando, Florida, having traveled there on December 30, 2022, and was not present in Brazil on January 8, 2023, with accurate contextual details about his departure before his term ended."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

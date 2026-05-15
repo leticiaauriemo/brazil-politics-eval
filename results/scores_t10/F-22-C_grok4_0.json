@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model failed to provide a response due to an error, but based on the instruction, a response indicating Flávio is not the oldest son would score 1."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Flávio Bolsonaro's birth order and instead provides an unrelated error message."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response is an API error message, not an actual answer to the factual question, so it cannot be evaluated for correctness."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": false
+}

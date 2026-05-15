@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's oldest son with accurate birth details, despite an additional error about Renan."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio as the oldest son of Jair Bolsonaro and provides accurate details about his birth date and the existence of his other children."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's oldest son and provides the accurate birth date of April 30, 1981, though it incorrectly lists Renan as a son when the ground truth specifies Laura as the youngest child."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

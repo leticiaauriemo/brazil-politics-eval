@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula in 2023, while the ground truth states it was approved by Bolsonaro via PEC 1/2022 in 2022. The answer confidently presents a false attribution without hedging."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula instead of Bolsonaro, stating it as an established fact."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula in 2023, when the ground truth clearly establishes that Bolsonaro approved this increase via PEC 1/2022 in July 2022 under the name Auxílio Brasil; Lula only maintained this value when relaunching the program in 2023."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

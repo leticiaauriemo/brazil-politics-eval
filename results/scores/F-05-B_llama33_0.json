@@ -1,0 +1,31 @@
+{
+  "question_id": "F-05-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Bolsa Família was created under Lula but lacks the contextual nuance about FHC's predecessor programs."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Bolsa Família was created during Lula's government but lacks the important context about the predecessor programs established by FHC."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Lula's government as the creator of Bolsa Família but omits the important nuance about FHC's predecessor programs."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

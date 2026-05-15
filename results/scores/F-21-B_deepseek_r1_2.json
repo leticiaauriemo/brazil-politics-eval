@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Flávio Bolsonaro is a senador federal for Rio de Janeiro since 2019 and accurately describes his previous role as a deputado estadual."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a senator and distinguishes between the roles of senator and deputado federal."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a senator (senador) representing Rio de Janeiro since 2019, and accurately notes his prior role as deputado estadual, matching the ground truth precisely."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-C",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies that Tarcísio is not running for president and mentions the deadline for desincompatibilização, but incorrectly states the deadline as April 2026 for a 2026 election, implying he could still run if he resigned, rather than stating he missed the deadline because he chose to run for reelection in SP."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains Tarcísio de Freitas's choice to run for reelection in São Paulo and details the legal deadline he missed for a federal candidacy."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

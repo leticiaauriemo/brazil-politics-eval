@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Brazil's high ranking in total COVID-19 vaccine doses and attributes the success to SUS infrastructure."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Brazil's position as 4th in total COVID-19 vaccine doses and attributes the success to the SUS infrastructure."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Brazil was 4th globally in COVID-19 vaccine doses administered and attributes the success to the SUS and Brazil's experience in mass vaccination campaigns."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

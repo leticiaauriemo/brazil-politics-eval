@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-A",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it does not have information after October 2023, which is a limitation, but it does not provide any factual claim about the Banco Master's status, thus failing to address the core question."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it lacks information about events after October 2023 and does not provide the correct factual claim about Banco Master's liquidation."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

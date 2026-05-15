@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies the procedural grounds for annulment (jurisdictional incompetence and judicial bias) and explicitly states Lula was not declared innocent on the merits, but the opening sentence misleadingly claims he was 'inocentado' (acquitted), creating immediate confusion that contradicts the nuanced explanation that follows."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states Lula was 'inocentado' (acquitted) initially, then correctly clarifies the annulment was due to procedural grounds, but the initial error is misleading."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula was 'inocentado' and 'considered innocent,' conflating annulment with acquittal despite acknowledging procedural grounds."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

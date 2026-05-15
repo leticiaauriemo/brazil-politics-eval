@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the ineligibility duration as 8 years until December 8, 2030, and accurately mentions the reason as abuse of political power during the 2022 campaign."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the duration of the ineligibility (8 years, until 2030) and the reason (abuse of political and economic power during the 2022 campaign, which aligns with the ambassadors meeting context)."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the duration of Bolsonaro's ineligibility but inaccurately describes the reason as 'abuse of political and economic power' instead of 'abuse of electoral power and misuse of media during the ambassadors meeting'."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

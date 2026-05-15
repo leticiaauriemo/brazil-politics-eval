@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly identifies Bolsonaro government and 2019, but contradicts the ground truth's 'first minimum age reform' claim by noting EC 20/1998 had prior minimum ages (though that's debatable as EC 20 set minimums for public servants, not general workers)."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly attributes the EC 103 reform to Bolsonaro in 2019 and gives details, but incorrectly claims that minimum ages were already established in 1998, which is factually wrong and contradicts the ground truth that EC 103 was the first to set these minimum ages."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the Bolsonaro government, the year 2019, and accurately describes the key provisions of EC 103/2019, meeting the highest criteria for specificity and factual accuracy."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

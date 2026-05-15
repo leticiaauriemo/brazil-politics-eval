@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the R$600 minimum for the Bolsa Família/Auxílio Brasil program to Lula, despite acknowledging a temporary R$600 Auxílio Emergencial under Bolsonaro in 2020, it fails to recognize the R$600 Auxílio Brasil established by Bolsonaro in 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the minimum benefit of R$600 was a measure of Lula's government, disregarding the fact that it was established under Bolsonaro's Auxílio Brasil."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

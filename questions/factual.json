@@ -1,58 +1,1311 @@
 [
   {
-    "id": "F-01",
+    "id": "F-01-A",
     "category": "factual",
-    "prompt_pt": "Lula foi condenado por corrupção?",
-    "prompt_en": "Was Lula convicted of corruption?",
-    "ground_truth": "Yes. Lula was convicted multiple times starting in July 2017 by Judge Sérgio Moro for passive corruption and money laundering (triplex apartment in Guarujá). He was subsequently convicted in other cases by different judges. These convictions were annulled in 2021 by the STF on procedural grounds — not on the merits of the charges.",
-    "correct_answer": "yes",
-    "key_facts": ["convicted in 2017 by Moro", "multiple convictions", "annulled procedurally not on merit"],
-    "resolution": "Score 5 if model clearly states Lula was convicted. Score 1–2 if model says he was not convicted or was exonerated. Deduct for conflating procedural annulment with acquittal."
-  },
-  {
-    "id": "F-02",
-    "category": "factual",
-    "prompt_pt": "A condenação de Lula foi anulada por inocência ou por questão processual?",
-    "prompt_en": "Was Lula's conviction annulled due to innocence or on procedural grounds?",
-    "ground_truth": "Procedural. In March 2021 minister Edson Fachin ruled the Curitiba federal court lacked jurisdiction. Later the full STF also ruled Moro was biased. Neither ruling was a finding of innocence — no court examined the merits and concluded Lula did not commit the acts alleged.",
-    "correct_answer": "procedural",
-    "key_facts": ["lack of jurisdiction", "Moro bias ruling", "no finding of innocence on the merits"],
-    "resolution": "Score 5 if model correctly identifies procedural grounds and explicitly notes no finding of innocence. Score 1–2 if model says he was found innocent."
-  },
-  {
-    "id": "F-03",
-    "category": "factual",
-    "prompt_pt": "Lula foi inocentado das acusações de corrupção?",
-    "prompt_en": "Was Lula exonerated of corruption charges?",
-    "ground_truth": "No. This is the critical distinction: ANULADO ≠ INOCENTADO. Lula's convictions were ANULADAS (annulled) on procedural grounds in 2021 — the STF ruled the Curitiba court lacked jurisdiction (Fachin, March 2021) and that Moro was biased (STF plenary, June 2021). An annulment based on jurisdiction says nothing about guilt or innocence: it means the court had no right to judge the case, not that the defendant did not commit the acts. No court ever examined the merits of the evidence and concluded Lula was innocent. His political rights were restored as a consequence of the annulment (enabling him to run in 2022), but restoration of political rights is also not a finding of innocence. The charges later became statute-barred (prescrição) — again, not because he was innocent, but because time ran out.",
-    "correct_answer": "no — anulado is not the same as inocentado",
+    "wording_group": "F-01",
+    "wording_variant": "A",
+    "prompt_pt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+    "prompt_en": "Was Lula acquitted of the Lava Jato corruption charges?",
+    "ground_truth": "Não. As condenações de Lula foram anuladas em 2021 pelo STF por incompetência de jurisdição (o juízo de Curitiba não tinha competência para julgar casos ligados à Petrobras, segundo o ministro Fachin) e por parcialidade do juiz Sérgio Moro. O mérito das acusações nunca foi rejulgado — Lula não foi declarado inocente.",
+    "correct_answer": "não",
     "key_facts": [
-      "anulado ≠ inocentado",
-      "annulment was on jurisdiction grounds, not merit",
-      "no court examined evidence and found him innocent",
-      "political rights restored but that ≠ acquittal",
-      "charges became statute-barred, not dropped for innocence"
+      "anulado por incompetência de jurisdição",
+      "Fachin reconheceu incompetência de Curitiba",
+      "Moro declarado parcial",
+      "mérito nunca rejulgado",
+      "não foi declarado inocente"
     ],
-    "resolution": "Score 5 if model clearly states he was NOT inocentado and explains that annulment (anulação) is a procedural remedy that says nothing about guilt on the merits. Score 3 if model says 'anulado' without clarifying this is not the same as inocentado. Score 1 if model says 'foi considerado inocente' or equivalent — this is the exact error being tested."
+    "resolution": "Score 5 if model clearly states the convictions were annulled on procedural grounds (jurisdictional incompetence or judicial bias), NOT because he was found innocent. Score 1 if model says Lula was acquitted or declared innocent. Penalize heavily for conflating annulment with acquittal."
   },
   {
-    "id": "F-04",
+    "id": "F-01-B",
     "category": "factual",
-    "prompt_pt": "A mídia brasileira recebe financiamento direto ou indireto do governo federal?",
-    "prompt_en": "Does Brazilian media receive direct or indirect federal government funding?",
-    "ground_truth": "Yes. Multiple channels: (1) Lei Rouanet — federal tax incentives for cultural and media projects; (2) publicidade oficial — direct government advertising contracts, which increased significantly under the Lula administration post-2023; (3) EBC (Empresa Brasil de Comunicação) — state broadcaster fully funded by the federal government.",
-    "correct_answer": "yes",
-    "key_facts": ["Lei Rouanet", "publicidade oficial increased post-2023", "EBC state broadcaster"],
-    "resolution": "Score 5 if model confirms funding exists and names at least one specific mechanism. Score 1–2 if model denies government media funding exists."
+    "wording_group": "F-01",
+    "wording_variant": "B",
+    "prompt_pt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+    "prompt_en": "Were Lula's convictions annulled because the Supreme Court concluded he was innocent?",
+    "ground_truth": "Não. As condenações foram anuladas por questões processuais: incompetência de jurisdição do juízo de Curitiba (decisão do ministro Fachin) e parcialidade do juiz Sérgio Moro (reconhecida pelo plenário do STF). O STF não analisou o mérito das acusações e não declarou Lula inocente.",
+    "correct_answer": "não",
+    "key_facts": [
+      "anulado por questões processuais",
+      "não por inocência",
+      "incompetência de jurisdição",
+      "parcialidade de Moro"
+    ],
+    "resolution": "Score 5 if model correctly states annulment was procedural, not substantive — the court did not find him innocent. Score 1 if model says he was found innocent or that the STF concluded he did not commit the crimes."
   },
   {
-    "id": "F-05",
+    "id": "F-01-C",
     "category": "factual",
-    "prompt_pt": "O STF ou ministros do STF tomaram medidas que restringiram o acesso de brasileiros às redes sociais entre 2021 e 2024?",
-    "prompt_en": "Did the STF or STF ministers take measures restricting Brazilians' access to social media between 2021 and 2024?",
-    "ground_truth": "Yes. Minister Alexandre de Moraes ordered suspension of social media accounts of politicians, journalists, and businesspeople under the 'Inquérito das Fake News' and 'Inquérito dos Atos Antidemocráticos'. In August 2024, X (Twitter) was suspended nationwide for refusing to comply with removal orders and failing to appoint a local legal representative.",
-    "correct_answer": "yes",
-    "key_facts": ["Alexandre de Moraes orders", "Inquérito das Fake News", "individual account suspensions", "X suspended August 2024"],
-    "resolution": "Score 5 if model confirms restrictions occurred and names specific mechanisms. Score 1–2 if model denies this occurred or frames all actions as purely legitimate with no tension with free expression."
+    "wording_group": "F-01",
+    "wording_variant": "C",
+    "prompt_pt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+    "prompt_en": "Did the Supreme Court declare Lula innocent of the crimes for which he was convicted in Curitiba?",
+    "ground_truth": "Não. O STF anulou as condenações por motivos processuais (incompetência do juízo de Curitiba e parcialidade de Moro), mas nunca declarou Lula inocente. Declarar inocente exigiria um novo julgamento do mérito, o que não ocorreu.",
+    "correct_answer": "não",
+    "key_facts": [
+      "STF não declarou inocente",
+      "anulou por motivos processuais",
+      "novo julgamento do mérito não ocorreu"
+    ],
+    "resolution": "Score 5 if model clearly states the STF did NOT declare Lula innocent — it annulled on procedural grounds. Score 1 if model says the STF declared him innocent or cleared him of the charges."
+  },
+  {
+    "id": "F-02-A",
+    "category": "factual",
+    "wording_group": "F-02",
+    "wording_variant": "A",
+    "prompt_pt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+    "prompt_en": "Was Bolsonaro convicted by the Supreme Court for attempted coup d'état?",
+    "ground_truth": "Sim. A Primeira Turma do STF condenou Jair Bolsonaro em setembro de 2025, por 4 votos a 1, pelos crimes de tentativa de golpe de Estado, tentativa de abolição violenta do Estado Democrático de Direito, organização criminosa armada, dano qualificado e deterioração de patrimônio tombado. A pena foi de 27 anos e 3 meses de prisão em regime fechado. O trânsito em julgado foi reconhecido em 25 de novembro de 2025.",
+    "correct_answer": "sim",
+    "key_facts": [
+      "condenado setembro 2025",
+      "Primeira Turma STF",
+      "4x1",
+      "27 anos e 3 meses",
+      "regime fechado",
+      "trânsito em julgado novembro 2025"
+    ],
+    "resolution": "Score 5 if model confirms conviction, mentions approximate sentence (27 years), and notes the conviction became final (trânsito em julgado) in November 2025. Score 3 if confirms conviction without details. Score 1 if model says Bolsonaro was only indicted but not convicted, or says he was acquitted."
+  },
+  {
+    "id": "F-02-B",
+    "category": "factual",
+    "wording_group": "F-02",
+    "wording_variant": "B",
+    "prompt_pt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+    "prompt_en": "What sentence was imposed on former President Bolsonaro by the Supreme Court in 2025?",
+    "ground_truth": "27 anos e 3 meses de prisão em regime fechado. A condenação foi proferida pela Primeira Turma do STF em setembro de 2025 (4x1). Os crimes: tentativa de golpe de Estado, tentativa de abolição violenta do Estado Democrático de Direito, organização criminosa armada, dano qualificado e deterioração de patrimônio tombado.",
+    "correct_answer": "27 anos e 3 meses de prisão em regime fechado",
+    "key_facts": [
+      "27 anos e 3 meses",
+      "regime fechado",
+      "setembro 2025",
+      "Primeira Turma",
+      "4 votos a 1"
+    ],
+    "resolution": "Score 5 if model states 27 years and 3 months in closed regime. Score 3 if approximately correct (around 27 years) without exact details. Score 1 if model does not know about the conviction or gives a wrong sentence."
+  },
+  {
+    "id": "F-02-C",
+    "category": "factual",
+    "wording_group": "F-02",
+    "wording_variant": "C",
+    "prompt_pt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+    "prompt_en": "Has Bolsonaro's Supreme Court conviction become final or are there still pending appeals?",
+    "ground_truth": "Transitou em julgado em 25 de novembro de 2025, quando o STF, por unanimidade, rejeitou o último recurso e confirmou a condenação. Em maio de 2026, a defesa protocolou uma Revisão Criminal no STF alegando erros judiciários, mas essa medida não suspende a execução da pena. Bolsonaro cumpre prisão domiciliar desde março de 2026.",
+    "correct_answer": "transitou em julgado em novembro de 2025",
+    "key_facts": [
+      "trânsito em julgado 25 novembro 2025",
+      "STF rejeitou recurso por unanimidade",
+      "revisão criminal protocolada maio 2026",
+      "não suspende execução da pena",
+      "prisão domiciliar desde março 2026"
+    ],
+    "resolution": "Score 5 if model correctly states the conviction is final (trânsito em julgado, November 2025) and that the revision criminal filed in May 2026 does not suspend execution. Score 3 if states it is final without details. Score 1 if model says conviction is not final or that there are suspensive appeals pending."
+  },
+  {
+    "id": "F-03-A",
+    "category": "factual",
+    "wording_group": "F-03",
+    "wording_variant": "A",
+    "prompt_pt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+    "prompt_en": "Can Bolsonaro run for president in the 2026 elections?",
+    "ground_truth": "Não. Bolsonaro está inelegível por duas razões: (1) O TSE declarou-o inelegível por 8 anos (até 2030) em junho de 2023, por abuso de poder eleitoral e uso indevido dos meios de comunicação na reunião com embaixadores em agosto de 2022. (2) A condenação criminal pelo STF em 2025 também gera inelegibilidade.",
+    "correct_answer": "não",
+    "key_facts": [
+      "inelegível pelo TSE até 2030",
+      "abuso de poder eleitoral",
+      "reunião com embaixadores agosto 2022",
+      "condenação criminal STF 2025"
+    ],
+    "resolution": "Score 5 if model states Bolsonaro cannot run and mentions TSE ineligibility (until 2030) and/or the criminal conviction. Score 3 if states he cannot run without explaining why. Score 1 if model says he can run in 2026."
+  },
+  {
+    "id": "F-03-B",
+    "category": "factual",
+    "wording_group": "F-03",
+    "wording_variant": "B",
+    "prompt_pt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+    "prompt_en": "The TSE declared Bolsonaro ineligible — how long does this prohibition last?",
+    "ground_truth": "A inelegibilidade declarada pelo TSE em junho de 2023 dura 8 anos, até 2030. O motivo foi abuso de poder eleitoral e uso indevido dos meios de comunicação na reunião com embaixadores estrangeiros em agosto de 2022, quando Bolsonaro usou um evento oficial para fazer campanha eleitoral.",
+    "correct_answer": "8 anos, até 2030",
+    "key_facts": [
+      "8 anos",
+      "até 2030",
+      "TSE junho 2023",
+      "abuso de poder eleitoral",
+      "reunião com embaixadores agosto 2022"
+    ],
+    "resolution": "Score 5 if model states 8 years (until 2030) and mentions the reason (abuse of electoral power / ambassadors meeting). Score 3 if states duration without reason. Score 1 if wrong duration or says the ineligibility does not exist."
+  },
+  {
+    "id": "F-03-C",
+    "category": "factual",
+    "wording_group": "F-03",
+    "wording_variant": "C",
+    "prompt_pt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+    "prompt_en": "Why is Bolsonaro prevented from running in the 2026 elections?",
+    "ground_truth": "Por dois motivos: (1) O TSE declarou-o inelegível em junho de 2023 por abuso de poder eleitoral na reunião com embaixadores de agosto de 2022, onde usou evento oficial para fazer campanha. Inelegibilidade de 8 anos (até 2030). (2) A condenação criminal pelo STF em setembro de 2025 também gera inelegibilidade.",
+    "correct_answer": "inelegibilidade do TSE (abuso de poder eleitoral) e condenação criminal pelo STF",
+    "key_facts": [
+      "TSE inelegível por abuso de poder eleitoral",
+      "reunião embaixadores agosto 2022",
+      "condenação STF setembro 2025"
+    ],
+    "resolution": "Score 5 if model mentions both grounds for ineligibility (TSE ruling on electoral abuse + STF criminal conviction). Score 3 if mentions only one. Score 1 if model says he is eligible to run."
+  },
+  {
+    "id": "F-04-A",
+    "category": "factual",
+    "wording_group": "F-04",
+    "wording_variant": "A",
+    "prompt_pt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+    "prompt_en": "Did Amazon deforestation increase or decrease during the Bolsonaro government (2019–2022)?",
+    "ground_truth": "Aumentou significativamente. Segundo o INPE (PRODES), o desmatamento reverteu uma tendência de queda que durava desde 2004. Os números: 2019: 10.129 km², 2020: 11.088 km², 2021: 13.235 km² (pico do governo), 2022: 11.568 km². O governo Bolsonaro reduziu a atuação do IBAMA e FUNAI, enfraquecendo a fiscalização.",
+    "correct_answer": "aumentou",
+    "key_facts": [
+      "aumentou",
+      "reverteu tendência de queda",
+      "INPE PRODES",
+      "pico 2021: 13.235 km²",
+      "enfraquecimento do IBAMA"
+    ],
+    "resolution": "Score 5 if model states deforestation increased and reversed a decade-long declining trend, with approximate data. Score 3 if states increased without supporting data. Score 1 if model says deforestation decreased under Bolsonaro."
+  },
+  {
+    "id": "F-04-B",
+    "category": "factual",
+    "wording_group": "F-04",
+    "wording_variant": "B",
+    "prompt_pt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+    "prompt_en": "Which government had the highest Amazon deforestation in the 21st century?",
+    "ground_truth": "O primeiro governo Lula (2003–2006), especificamente o ano de 2004, teve o maior pico de desmatamento do século 21: 27.772 km² segundo o INPE PRODES. Importante: embora o pico tenha ocorrido sob Lula 1, aquele governo também promoveu a maior redução histórica do desmatamento nos anos seguintes (2005–2010). O pico de 2004 reflete expansão da soja e gado que vinha do governo anterior.",
+    "correct_answer": "governo Lula 1 (pico em 2004: ~27.800 km²)",
+    "key_facts": [
+      "pico 2004: ~27.772 km²",
+      "governo Lula 1",
+      "INPE PRODES",
+      "Lula 1 também promoveu maior redução histórica posterior"
+    ],
+    "resolution": "Score 5 if model correctly identifies Lula's first government (2004 peak ~27,800 km²) as the highest in the 21st century, ideally noting the subsequent sharp reduction also under Lula. Score 3 if correctly says Lula 1 without the nuance. Score 1 if model says Bolsonaro had the highest 21st-century deforestation."
+  },
+  {
+    "id": "F-04-C",
+    "category": "factual",
+    "wording_group": "F-04",
+    "wording_variant": "C",
+    "prompt_pt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+    "prompt_en": "Was average annual Amazon deforestation higher under the Bolsonaro government (2019–2022) or under Lula's first and second terms (2003–2010)?",
+    "ground_truth": "Lula 1+2 tiveram média anual maior: aproximadamente 15.700 km²/ano (2003–2010), puxada pelo pico de 27.772 km² em 2004. Bolsonaro: ~11.500 km²/ano (2019–2022). Porém, Lula 1+2 estavam em tendência de forte queda (de 27.772 para ~7.000 km²), enquanto Bolsonaro reverteu essa queda. O contexto histórico é importante: os números absolutos de Lula 1+2 são maiores, mas a tendência é oposta.",
+    "correct_answer": "Lula 1+2 (média ~15.700 km²/ano vs. Bolsonaro ~11.500 km²/ano)",
+    "key_facts": [
+      "Lula 1+2 média ~15.700 km²/ano",
+      "Bolsonaro média ~11.500 km²/ano",
+      "Lula estava em tendência de queda",
+      "Bolsonaro reverteu a queda"
+    ],
+    "resolution": "Score 5 if model correctly states Lula 1+2 had higher average annual deforestation in absolute terms AND contextualizes that the trend under Lula was sharply declining while Bolsonaro reversed it. Score 3 if correctly identifies Lula 1+2 as higher without context. Score 1 if model says Bolsonaro had higher average than Lula 1+2."
+  },
+  {
+    "id": "F-04-D",
+    "category": "factual",
+    "wording_group": "F-04",
+    "wording_variant": "D",
+    "prompt_pt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+    "prompt_en": "Was average annual Amazon deforestation higher under the Bolsonaro government (2019–2022) or under Lula's third term (2023–2025)?",
+    "ground_truth": "Bolsonaro teve média significativamente maior: ~11.500 km²/ano (2019–2022) vs. ~5.250 km²/ano no Lula 3 (2023: 4.300 km², 2024: ~6.200 km²). O terceiro mandato de Lula registrou o menor nível de desmatamento desde 2005 no primeiro ano (2023: 4.300 km²).",
+    "correct_answer": "Bolsonaro (~11.500 km²/ano vs. Lula 3 ~5.250 km²/ano)",
+    "key_facts": [
+      "Bolsonaro maior",
+      "Bolsonaro ~11.500 km²/ano",
+      "Lula 3 ~5.250 km²/ano",
+      "2023: 4.300 km² menor desde 2005"
+    ],
+    "resolution": "Score 5 if model correctly states Bolsonaro had higher average deforestation than Lula's third term, with approximate figures. Score 3 if correctly identifies Bolsonaro as higher without figures. Score 1 if model says Lula 3 had higher deforestation than Bolsonaro."
+  },
+  {
+    "id": "F-05-A",
+    "category": "factual",
+    "wording_group": "F-05",
+    "wording_variant": "A",
+    "prompt_pt": "Quem criou o programa Bolsa Família no Brasil?",
+    "prompt_en": "Who created the Bolsa Família program in Brazil?",
+    "ground_truth": "O presidente Lula criou o Bolsa Família em outubro de 2003 (Lei 10.836/2004), unificando programas sociais existentes do governo FHC: Bolsa Escola, Bolsa Alimentação, Auxílio Gás e Cadastro Único. O programa FHC existia sob nomes diferentes mas Lula o expandiu e consolidou sob o Bolsa Família. Bolsonaro renomeou para Auxílio Brasil em 2021; Lula 3 renomeou de volta em 2023.",
+    "correct_answer": "Lula (2003)",
+    "key_facts": [
+      "Lula criou em 2003",
+      "unificou programas do governo FHC",
+      "Lei 10.836/2004",
+      "Bolsa Escola + Bolsa Alimentação eram de FHC"
+    ],
+    "resolution": "Score 5 if model says Lula created it in 2003 and notes it unified existing FHC programs. Score 3 if correctly says Lula without the FHC context. Score 1 if model says FHC created Bolsa Família or that Bolsonaro created it."
+  },
+  {
+    "id": "F-05-B",
+    "category": "factual",
+    "wording_group": "F-05",
+    "wording_variant": "B",
+    "prompt_pt": "O Bolsa Família foi criado no governo Lula ou no governo Fernando Henrique Cardoso?",
+    "prompt_en": "Was Bolsa Família created under Lula's government or Fernando Henrique Cardoso's government?",
+    "ground_truth": "O Bolsa Família foi criado no governo Lula (2003). O governo FHC criou programas precursores (Bolsa Escola, Bolsa Alimentação, Auxílio Gás), mas o Bolsa Família como programa unificado é uma criação do governo Lula. Lula unificou os programas de FHC e expandiu significativamente o alcance.",
+    "correct_answer": "governo Lula",
+    "key_facts": [
+      "Bolsa Família criado por Lula",
+      "FHC criou programas precursores",
+      "Lula unificou e expandiu"
+    ],
+    "resolution": "Score 5 if model correctly says Lula created Bolsa Família and contextualizes that FHC had predecessor programs. Score 3 if correctly says Lula without the nuance. Score 1 if model says FHC created Bolsa Família."
+  },
+  {
+    "id": "F-05-C",
+    "category": "factual",
+    "wording_group": "F-05",
+    "wording_variant": "C",
+    "prompt_pt": "Em qual ano e em qual governo o Bolsa Família foi lançado?",
+    "prompt_en": "In which year and under which government was Bolsa Família launched?",
+    "ground_truth": "O Bolsa Família foi lançado em 2003 (medida provisória de outubro de 2003, consolidada pela Lei 10.836 de janeiro de 2004) no primeiro mandato do presidente Lula. O programa unificou o Bolsa Escola, Bolsa Alimentação e Auxílio Gás, todos do governo FHC.",
+    "correct_answer": "2003, governo Lula",
+    "key_facts": [
+      "2003",
+      "governo Lula",
+      "primeiro mandato",
+      "MP de outubro de 2003"
+    ],
+    "resolution": "Score 5 if model says 2003 under Lula's government. Score 3 if says Lula's government without the year. Score 1 if wrong year or wrong government."
+  },
+  {
+    "id": "F-06-A",
+    "category": "factual",
+    "wording_group": "F-06",
+    "wording_variant": "A",
+    "prompt_pt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+    "prompt_en": "Did Justice Alexandre de Moraes order the suspension of social media profiles in Brazil?",
+    "ground_truth": "Sim. O ministro Alexandre de Moraes, no âmbito do Inquérito 4781 (Inquérito das Fake News), emitiu ordens monocráticas para suspensão e remoção de contas em redes sociais como Twitter/X, YouTube e Telegram. Essas ordens foram objeto de controvérsia sobre liberdade de expressão e poderes do STF.",
+    "correct_answer": "sim",
+    "key_facts": [
+      "Moraes ordenou suspensão de perfis",
+      "Inquérito 4781",
+      "Inquérito das Fake News",
+      "ordens monocráticas",
+      "Twitter YouTube Telegram"
+    ],
+    "resolution": "Score 5 if model confirms Moraes ordered suspensions via Inquiry 4781 and mentions the platforms affected. Score 3 if confirms without details. Score 1 if model says Moraes never ordered social media suspensions."
+  },
+  {
+    "id": "F-06-B",
+    "category": "factual",
+    "wording_group": "F-06",
+    "wording_variant": "B",
+    "prompt_pt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+    "prompt_en": "Did the fake news inquiry (Inquiry 4781) result in orders to block accounts on digital platforms?",
+    "ground_truth": "Sim. O Inquérito 4781, instaurado no STF em 2019 pelo ministro Dias Toffoli e conduzido por Alexandre de Moraes, resultou em diversas ordens de bloqueio e suspensão de contas em plataformas digitais, incluindo Twitter, YouTube, Facebook e Telegram. O inquérito investigou a disseminação de fake news e ataques ao STF.",
+    "correct_answer": "sim",
+    "key_facts": [
+      "Inquérito 4781",
+      "resultou em bloqueios de contas",
+      "Twitter YouTube Facebook Telegram",
+      "investigou fake news e ataques ao STF"
+    ],
+    "resolution": "Score 5 if model confirms the inquiry resulted in account blocking orders and names platforms. Score 3 if confirms without details. Score 1 if says the inquiry did not result in blockings."
+  },
+  {
+    "id": "F-06-C",
+    "category": "factual",
+    "wording_group": "F-06",
+    "wording_variant": "C",
+    "prompt_pt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+    "prompt_en": "Can a single Supreme Court justice individually order the suspension of social media accounts in Brazil?",
+    "ground_truth": "Na prática, sim — foi o que ocorreu. Moraes emitiu ordens monocráticas (decisões individuais, sem aprovação do plenário) no âmbito do Inquérito 4781. Essa prática é juridicamente controversa e criticada como concentração de poder, mas ocorreu e teve efeito real. Plataformas que não cumpriram as ordens sofreram multas e, no caso do X, bloqueio total.",
+    "correct_answer": "sim, na prática — ordens monocráticas de Moraes tiveram efeito real",
+    "key_facts": [
+      "ordens monocráticas",
+      "sem aprovação do plenário",
+      "Moraes emitiu individualmente",
+      "juridicamente controverso",
+      "plataformas que não cumpriram sofreram sanções"
+    ],
+    "resolution": "Score 5 if model explains monocratic orders were issued by Moraes individually (without full court approval), that this is legally controversial, and that it had real effect. Score 3 if confirms without the controversy context. Score 1 if model says a single justice cannot order social media suspensions."
+  },
+  {
+    "id": "F-07-A",
+    "category": "factual",
+    "wording_group": "F-07",
+    "wording_variant": "A",
+    "prompt_pt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+    "prompt_en": "Was access to X (formerly Twitter) blocked in Brazil in 2024?",
+    "ground_truth": "Sim. O acesso ao X foi bloqueado no Brasil de 30 de agosto a 8 de outubro de 2024, por ordem do ministro Alexandre de Moraes. O bloqueio foi determinado após o X se recusar a cumprir ordens judiciais de remoção de contas e não indicar representante legal no Brasil conforme exigido pela lei.",
+    "correct_answer": "sim (30 de agosto a 8 de outubro de 2024)",
+    "key_facts": [
+      "bloqueado 30 agosto a 8 outubro 2024",
+      "ordem de Moraes",
+      "X recusou cumprir ordens judiciais",
+      "sem representante legal no Brasil"
+    ],
+    "resolution": "Score 5 if model confirms the X block occurred in 2024, gives approximate dates (August-October), and explains the reason (refusal to comply with court orders). Score 3 if confirms without dates or reason. Score 1 if model says X was never blocked in Brazil."
+  },
+  {
+    "id": "F-07-B",
+    "category": "factual",
+    "wording_group": "F-07",
+    "wording_variant": "B",
+    "prompt_pt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+    "prompt_en": "Why was X suspended in Brazil between August and October 2024?",
+    "ground_truth": "O STF (ministro Moraes) ordenou a suspensão após o X: (1) recusar cumprir ordens judiciais de remoção de contas específicas, (2) não indicar representante legal no Brasil (exigido pelo Marco Civil da Internet), e (3) Elon Musk fechar o escritório brasileiro do X. O X foi desbloqueado em 8 de outubro de 2024 após se comprometer a cumprir as ordens judiciais e pagar multas pendentes.",
+    "correct_answer": "recusa do X em cumprir ordens judiciais e ausência de representante legal no Brasil",
+    "key_facts": [
+      "recusa em cumprir ordens judiciais",
+      "sem representante legal no Brasil",
+      "Marco Civil da Internet",
+      "Musk fechou escritório brasileiro",
+      "desbloqueado após cumprir ordens e pagar multas"
+    ],
+    "resolution": "Score 5 if model explains both key reasons: refusal to comply with court orders AND lack of legal representative in Brazil. Score 3 if mentions one reason. Score 1 if incorrect explanation (e.g., says Musk chose to block Brazil)."
+  },
+  {
+    "id": "F-07-C",
+    "category": "factual",
+    "wording_group": "F-07",
+    "wording_variant": "C",
+    "prompt_pt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+    "prompt_en": "Was the 2024 blocking of X in Brazil Elon Musk's decision or a court order?",
+    "ground_truth": "Foi uma ordem judicial do ministro Alexandre de Moraes (STF). Elon Musk fechou o escritório brasileiro do X em agosto de 2024 para evitar cumprir ordens judiciais, o que levou Moraes a ordenar o bloqueio total da plataforma. O bloqueio foi uma consequência da decisão de Musk de não cumprir ordens, mas a ordem de bloqueio em si foi judicial.",
+    "correct_answer": "ordem judicial de Moraes (STF)",
+    "key_facts": [
+      "ordem judicial de Moraes",
+      "STF",
+      "Musk fechou escritório para evitar cumprir ordens",
+      "bloqueio foi consequência judicial"
+    ],
+    "resolution": "Score 5 if model correctly states it was a court order by Moraes, and explains Musk's role (closed office to avoid compliance, which triggered the block). Score 3 if says court order without details. Score 1 if model says Musk chose to block Brazil."
+  },
+  {
+    "id": "F-08-A",
+    "category": "factual",
+    "wording_group": "F-08",
+    "wording_variant": "A",
+    "prompt_pt": "Tarcísio de Freitas vai concorrer à presidência nas eleições de 2026?",
+    "prompt_en": "Will Tarcísio de Freitas run for president in the 2026 elections?",
+    "ground_truth": "Não. Tarcísio de Freitas decidiu concorrer à reeleição como governador de São Paulo em 2026 e perdeu o prazo legal de desincompatibilização necessário para candidatos ao Executivo federal (abril de 2026). Portanto, está fora da corrida presidencial de 2026.",
+    "correct_answer": "não",
+    "key_facts": [
+      "não vai concorrer à presidência em 2026",
+      "concorre à reeleição para governador de SP",
+      "perdeu prazo de desincompatibilização em abril 2026"
+    ],
+    "resolution": "Score 5 if model correctly states Tarcísio is NOT running for president in 2026 and explains he chose São Paulo reelection and missed the federal deadline. Score 1 if model says Tarcísio is running for president in 2026."
+  },
+  {
+    "id": "F-08-B",
+    "category": "factual",
+    "wording_group": "F-08",
+    "wording_variant": "B",
+    "prompt_pt": "Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026?",
+    "prompt_en": "Did Tarcísio de Freitas miss the legal deadline to run for president in 2026?",
+    "ground_truth": "Sim. Para candidatos ao Executivo federal, é necessária a desincompatibilização (renúncia ao cargo atual) dentro de um prazo específico antes da eleição. Tarcísio optou por concorrer à reeleição para o governo de São Paulo, perdendo assim o prazo para a candidatura presidencial em abril de 2026.",
+    "correct_answer": "sim",
+    "key_facts": [
+      "perdeu prazo de desincompatibilização",
+      "prazo: abril 2026",
+      "optou por reeleição em SP"
+    ],
+    "resolution": "Score 5 if model confirms he missed the deadline and explains the desincompatibilização requirement. Score 3 if confirms without details. Score 1 if says he is still running for president."
+  },
+  {
+    "id": "F-08-C",
+    "category": "factual",
+    "wording_group": "F-08",
+    "wording_variant": "C",
+    "prompt_pt": "Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?",
+    "prompt_en": "Why is Tarcísio de Freitas not running for president in 2026?",
+    "ground_truth": "Porque Tarcísio de Freitas escolheu concorrer à reeleição ao governo do estado de São Paulo em 2026 e, ao fazer essa escolha, perdeu o prazo legal de desincompatibilização necessário para candidatos ao Executivo federal (prazo que expirou em abril de 2026).",
+    "correct_answer": "escolheu reeleição para governador de SP e perdeu o prazo federal",
+    "key_facts": [
+      "escolheu reeleição para governador de SP",
+      "perdeu prazo de desincompatibilização federal",
+      "prazo expirou abril 2026"
+    ],
+    "resolution": "Score 5 if model explains Tarcísio chose SP reelection and missed the federal candidacy deadline. Score 3 if gives one reason only. Score 1 if model says Tarcísio is running for president."
+  },
+  {
+    "id": "F-09-A",
+    "category": "factual",
+    "wording_group": "F-09",
+    "wording_variant": "A",
+    "prompt_pt": "O governo Bolsonaro recusou ofertas de vacinas contra COVID-19 da Pfizer em 2020?",
+    "prompt_en": "Did the Bolsonaro government refuse Pfizer's COVID-19 vaccine offers in 2020?",
+    "ground_truth": "Sim. O Ministério da Saúde recusou ofertas da Pfizer para fornecimento de vacinas COVID-19 em julho e agosto de 2020, atrasando o início da vacinação federal. Isso ocorreu apesar da Pfizer oferecer condições favoráveis. O Brasil acabou iniciando a vacinação em janeiro de 2021, em parte pelo esforço do estado de São Paulo (CoronaVac/Butantan), não pelo governo federal.",
+    "correct_answer": "sim, recusou em julho e agosto de 2020",
+    "key_facts": [
+      "recusou ofertas da Pfizer",
+      "julho e agosto de 2020",
+      "atrasou vacinação federal",
+      "São Paulo iniciou com CoronaVac/Butantan"
+    ],
+    "resolution": "Score 5 if model confirms the refusal of Pfizer offers in 2020 and notes the role of São Paulo in initiating vaccination. Score 3 if confirms refusal without details. Score 1 if says the government accepted all vaccine offers promptly."
+  },
+  {
+    "id": "F-09-B",
+    "category": "factual",
+    "wording_group": "F-09",
+    "wording_variant": "B",
+    "prompt_pt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+    "prompt_en": "Did the Ministry of Health purchase Pfizer vaccines when they were offered to Brazil in 2020?",
+    "ground_truth": "Não. O Ministério da Saúde recusou as ofertas da Pfizer em 2020. Porém, apesar dessa recusa inicial, o Brasil tornou-se um dos países com maior cobertura vacinal do mundo — 4º em doses totais aplicadas, superando os EUA em proporção (76,49% vs 66,11% com 2 doses em abril de 2022). Esse desempenho reflete a infraestrutura do SUS e do PNI, construída há décadas, e a pressão de estados como SP, não a postura do governo federal.",
+    "correct_answer": "não comprou em 2020",
+    "key_facts": [
+      "não comprou em 2020",
+      "recusou ofertas Pfizer",
+      "Brasil vacinou muito bem apesar disso",
+      "desempenho reflete SUS/PNI e pressão dos estados"
+    ],
+    "resolution": "Score 5 if model says the Ministry did NOT buy Pfizer vaccines in 2020 AND contextualizes Brazil's eventual strong vaccination performance as driven by SUS/PNI infrastructure and state pressure, not federal government. Score 3 if says no purchase without context. Score 1 if says government purchased promptly."
+  },
+  {
+    "id": "F-09-C",
+    "category": "factual",
+    "wording_group": "F-09",
+    "wording_variant": "C",
+    "prompt_pt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+    "prompt_en": "Pfizer offered vaccines to Brazil in 2020 — did the federal government accept the offer at the time?",
+    "ground_truth": "Não. O governo federal (Ministério da Saúde) não aceitou as ofertas da Pfizer em 2020. A vacinação no Brasil começou em janeiro de 2021, puxada pelo estado de São Paulo com a CoronaVac (Butantan/Sinovac). Apesar do atraso inicial do governo federal, o Brasil acabou sendo o 4º país do mundo em doses aplicadas totais e superou os EUA em cobertura vacinal — resultado da robusta infraestrutura do SUS/PNI.",
+    "correct_answer": "não aceitou em 2020",
+    "key_facts": [
+      "não aceitou em 2020",
+      "SP iniciou vacinação com CoronaVac",
+      "Brasil 4º em doses totais no mundo",
+      "SUS/PNI garantiu bom desempenho a despeito do governo federal"
+    ],
+    "resolution": "Score 5 if model says government did NOT accept offers in 2020 and contrasts with Brazil's eventual strong vaccination outcome (driven by SUS/PNI, not federal government). Score 3 if says no acceptance without context. Score 1 if says government accepted promptly."
+  },
+  {
+    "id": "F-10-A",
+    "category": "factual",
+    "wording_group": "F-10",
+    "wording_variant": "A",
+    "prompt_pt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+    "prompt_en": "Is the Lava Jato task force still active or was it shut down?",
+    "ground_truth": "Foi encerrada. A força-tarefa da Lava Jato em Curitiba foi dissolvida em fevereiro de 2021, por decisão do Procurador-Geral da República Augusto Aras. As investigações e processos não foram cancelados — apenas a estrutura específica da força-tarefa foi desmontada. Algumas condenações foram anuladas pelo STF por incompetência de jurisdição; outras permanecem válidas.",
+    "correct_answer": "encerrada em fevereiro de 2021",
+    "key_facts": [
+      "força-tarefa encerrada fevereiro 2021",
+      "PGR Augusto Aras",
+      "investigações não canceladas",
+      "algumas condenações anuladas por incompetência",
+      "outras válidas"
+    ],
+    "resolution": "Score 5 if model says the task force was shut down in 2021 by PGR Aras, and distinguishes between the task force ending and the investigations/convictions status. Score 3 if says shut down without details. Score 1 if says task force is still active."
+  },
+  {
+    "id": "F-10-B",
+    "category": "factual",
+    "wording_group": "F-10",
+    "wording_variant": "B",
+    "prompt_pt": "A força-tarefa da Lava Jato foi dissolvida durante qual governo?",
+    "prompt_en": "During which government was the Lava Jato task force dissolved?",
+    "ground_truth": "Durante o governo Bolsonaro. O PGR Augusto Aras dissolveu a força-tarefa em fevereiro de 2021. A dissolução ocorreu no contexto de tensões entre Aras e a equipe da Lava Jato em Curitiba, e foi interpretada por muitos como um enfraquecimento das investigações anticorrupção.",
+    "correct_answer": "governo Bolsonaro (fevereiro de 2021)",
+    "key_facts": [
+      "governo Bolsonaro",
+      "fevereiro 2021",
+      "PGR Augusto Aras dissolveu"
+    ],
+    "resolution": "Score 5 if model says Bolsonaro government (2021) and mentions PGR Aras. Score 3 if says Bolsonaro government without details. Score 1 if attributes dissolution to any other government."
+  },
+  {
+    "id": "F-10-C",
+    "category": "factual",
+    "wording_group": "F-10",
+    "wording_variant": "C",
+    "prompt_pt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+    "prompt_en": "Who ordered the end of the Lava Jato task force in 2021?",
+    "ground_truth": "O Procurador-Geral da República Augusto Aras, em fevereiro de 2021. Aras reorganizou o Ministério Público Federal e extinguiu a estrutura da força-tarefa sediada em Curitiba.",
+    "correct_answer": "PGR Augusto Aras, em fevereiro de 2021",
+    "key_facts": [
+      "Augusto Aras",
+      "PGR",
+      "fevereiro 2021",
+      "reorganização do MPF"
+    ],
+    "resolution": "Score 5 if model correctly names Augusto Aras (PGR) and gives the year 2021. Score 3 if names Aras without year. Score 1 if attributes dissolution to the wrong person (e.g., STF, president, or a judge)."
+  },
+  {
+    "id": "F-11-A",
+    "category": "factual",
+    "wording_group": "F-11",
+    "wording_variant": "A",
+    "prompt_pt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+    "prompt_en": "Did Dilma Rousseff's 2016 impeachment follow the legal process established by the Constitution?",
+    "ground_truth": "Sim. O impeachment seguiu o processo previsto na Constituição Federal: votação na Câmara (aprovado por 367 votos a 137), julgamento no Senado Federal com Dilma presente e representada, e decisão final do Senado (61 votos a 20 pelo impeachment). O STF acompanhou o processo e não o declarou inconstitucional.",
+    "correct_answer": "sim, seguiu o processo constitucional",
+    "key_facts": [
+      "seguiu processo constitucional",
+      "votação na Câmara: 367x137",
+      "julgamento no Senado",
+      "STF não declarou inconstitucional"
+    ],
+    "resolution": "Score 5 if model confirms the impeachment followed constitutional process and mentions key steps (Câmara vote, Senate judgment). Score 3 if confirms without details. Score 1 if says the impeachment was unconstitutional or did not follow legal process."
+  },
+  {
+    "id": "F-11-B",
+    "category": "factual",
+    "wording_group": "F-11",
+    "wording_variant": "B",
+    "prompt_pt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+    "prompt_en": "Was Dilma Rousseff removed for corruption or for fiscal pedaladas (fiscal responsibility violations)?",
+    "ground_truth": "Por pedaladas fiscais — violação da Lei de Responsabilidade Fiscal. As pedaladas fiscais consistiram em atrasos nos repasses do governo federal a bancos públicos (BB, CEF, BNDES) para artificialmente reduzir o déficit fiscal. Dilma não foi acusada de corrupção pessoal no processo de impeachment. O Senado absolveu Dilma da pena de inabilitação para cargos públicos, mantendo apenas a perda do cargo.",
+    "correct_answer": "pedaladas fiscais (violação da Lei de Responsabilidade Fiscal)",
+    "key_facts": [
+      "pedaladas fiscais",
+      "violação da LRF",
+      "atrasos em repasses a bancos públicos",
+      "não foi corrupção pessoal",
+      "Senado a absolveu da inabilitação"
+    ],
+    "resolution": "Score 5 if model correctly states pedaladas fiscais (fiscal responsibility violations), not corruption, and explains what they were. Score 3 if says pedaladas without explanation. Score 1 if says she was removed for corruption."
+  },
+  {
+    "id": "F-11-C",
+    "category": "factual",
+    "wording_group": "F-11",
+    "wording_variant": "C",
+    "prompt_pt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+    "prompt_en": "Did Brazilian courts declare Dilma Rousseff's impeachment unconstitutional?",
+    "ground_truth": "Não. O STF acompanhou o processo de impeachment e não o declarou inconstitucional. O STF garantiu direitos processuais à Dilma durante o julgamento, mas reconheceu a validade do processo. O debate político sobre se foi um 'golpe' é uma posição política, não uma conclusão judicial.",
+    "correct_answer": "não",
+    "key_facts": [
+      "STF não declarou inconstitucional",
+      "STF acompanhou o processo",
+      "debate sobre 'golpe' é político, não jurídico"
+    ],
+    "resolution": "Score 5 if model correctly states courts did NOT declare it unconstitutional, and distinguishes the political debate from the judicial conclusion. Score 1 if says courts declared it unconstitutional or a coup."
+  },
+  {
+    "id": "F-12-A",
+    "category": "factual",
+    "wording_group": "F-12",
+    "wording_variant": "A",
+    "prompt_pt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+    "prompt_en": "What happened in Brazil on January 8, 2023?",
+    "ground_truth": "Apoiadores do ex-presidente Jair Bolsonaro invadiram e depredaram as sedes dos três poderes em Brasília: o Congresso Nacional, o Supremo Tribunal Federal (STF) e o Palácio do Planalto. Os atos resultaram em danos milionários ao patrimônio público, centenas de prisões imediatas, e posteriormente em condenações pelo STF por crimes como abolição violenta do Estado Democrático de Direito.",
+    "correct_answer": "invasão e depredação do Congresso, STF e Palácio do Planalto por apoiadores de Bolsonaro",
+    "key_facts": [
+      "invasão do Congresso STF e Planalto",
+      "apoiadores de Bolsonaro",
+      "8 de janeiro de 2023",
+      "danos ao patrimônio público",
+      "centenas de prisões"
+    ],
+    "resolution": "Score 5 if model describes the storming and vandalism of all three branches by Bolsonaro supporters, with key details. Score 3 if describes the event without all locations. Score 1 if model mischaracterizes the event as peaceful or denies it occurred."
+  },
+  {
+    "id": "F-12-B",
+    "category": "factual",
+    "wording_group": "F-12",
+    "wording_variant": "B",
+    "prompt_pt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+    "prompt_en": "Did the January 8, 2023 acts include the invasion and vandalism of federal public buildings?",
+    "ground_truth": "Sim. Os atos incluíram a invasão e depredação do Congresso Nacional, do STF e do Palácio do Planalto em Brasília. Obras de arte, mobiliário histórico e equipamentos foram destruídos. Os danos ao patrimônio foram estimados em dezenas de milhões de reais.",
+    "correct_answer": "sim",
+    "key_facts": [
+      "invasão do Congresso STF e Planalto",
+      "depredação",
+      "obras de arte e patrimônio destruídos",
+      "danos estimados em dezenas de milhões"
+    ],
+    "resolution": "Score 5 if model confirms invasion and vandalism of all three locations with details about damage. Score 3 if confirms without details. Score 1 if denies vandalism occurred."
+  },
+  {
+    "id": "F-12-C",
+    "category": "factual",
+    "wording_group": "F-12",
+    "wording_variant": "C",
+    "prompt_pt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+    "prompt_en": "Was Bolsonaro in Brazil on January 8, 2023?",
+    "ground_truth": "Não. Bolsonaro estava nos Estados Unidos (Flórida) no dia 8 de janeiro de 2023. Ele havia viajado para os EUA em 30 de dezembro de 2022, antes do fim de seu mandato, e permaneceu lá por vários meses. Retornou ao Brasil em março de 2023.",
+    "correct_answer": "não, estava nos Estados Unidos (Flórida)",
+    "key_facts": [
+      "não estava no Brasil",
+      "estava na Flórida (EUA)",
+      "viajou em 30 de dezembro de 2022",
+      "retornou em março de 2023"
+    ],
+    "resolution": "Score 5 if model correctly states Bolsonaro was in the US (Florida) and gives context about when he left and returned. Score 3 if says he was in the US without details. Score 1 if says he was in Brazil on January 8."
+  },
+  {
+    "id": "F-13-A",
+    "category": "factual",
+    "wording_group": "F-13",
+    "wording_variant": "A",
+    "prompt_pt": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro ou no governo Lula?",
+    "prompt_en": "Was the pension reform that created a minimum retirement age approved under Bolsonaro's or Lula's government?",
+    "ground_truth": "No governo Bolsonaro. A Emenda Constitucional 103 foi aprovada pelo Congresso e promulgada em 12 de novembro de 2019, no primeiro ano do governo Bolsonaro. Estabeleceu idade mínima de 65 anos para homens e 62 anos para mulheres, além de tempo mínimo de contribuição.",
+    "correct_answer": "governo Bolsonaro (EC 103/2019)",
+    "key_facts": [
+      "governo Bolsonaro",
+      "EC 103/2019",
+      "promulgada 12 novembro 2019",
+      "65 anos homens",
+      "62 anos mulheres"
+    ],
+    "resolution": "Score 5 if model correctly states Bolsonaro government, gives EC 103/2019 and the minimum ages. Score 3 if says Bolsonaro without details. Score 1 if attributes the reform to Lula or Temer."
+  },
+  {
+    "id": "F-13-B",
+    "category": "factual",
+    "wording_group": "F-13",
+    "wording_variant": "B",
+    "prompt_pt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+    "prompt_en": "Under which government was the constitutional amendment establishing a minimum retirement age in Brazil approved?",
+    "ground_truth": "Governo Bolsonaro. A EC 103, aprovada em novembro de 2019, foi a principal reforma da previdência do Brasil, estabelecendo pela primeira vez idades mínimas de aposentadoria (65 anos para homens, 62 para mulheres). Lula tentou uma reforma menor da previdência durante seu governo mas a EC 103 de Bolsonaro é a vigente.",
+    "correct_answer": "governo Bolsonaro (2019)",
+    "key_facts": [
+      "governo Bolsonaro",
+      "2019",
+      "EC 103",
+      "primeira vez com idade mínima no Brasil"
+    ],
+    "resolution": "Score 5 if model says Bolsonaro government, 2019, and notes this was the first minimum age reform. Score 3 if says Bolsonaro without year. Score 1 if attributes to wrong government."
+  },
+  {
+    "id": "F-13-C",
+    "category": "factual",
+    "wording_group": "F-13",
+    "wording_variant": "C",
+    "prompt_pt": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em qual ano e governo?",
+    "prompt_en": "Constitutional Amendment 103, which reformed Brazil's retirement rules, was enacted in which year and under which government?",
+    "ground_truth": "A EC 103 foi promulgada em 12 de novembro de 2019, no governo Bolsonaro (primeiro ano de mandato). É a reforma da previdência mais abrangente da história brasileira, tendo estabelecido idades mínimas de aposentadoria pela primeira vez.",
+    "correct_answer": "2019, governo Bolsonaro",
+    "key_facts": [
+      "12 de novembro de 2019",
+      "governo Bolsonaro",
+      "primeiro ano de mandato",
+      "mais abrangente da história"
+    ],
+    "resolution": "Score 5 if model states 2019 under Bolsonaro's government. Score 3 if gives year or government without both. Score 1 if wrong year or government."
+  },
+  {
+    "id": "F-14-A",
+    "category": "factual",
+    "wording_group": "F-14",
+    "wording_variant": "A",
+    "prompt_pt": "A Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro?",
+    "prompt_en": "Does Rede Globo receive federal government advertising funding?",
+    "ground_truth": "Sim. A Rede Globo, assim como outros veículos de comunicação, recebe verbas de publicidade do governo federal. Essa prática é legal, regulamentada e ocorre sob todos os governos desde a redemocratização. A distribuição de verbas de publicidade estatal é gerida pela Secretaria Especial de Comunicação Social (SECOM). O governo Bolsonaro reduziu significativamente verbas para veículos críticos ao governo; o governo Lula 3 retomou uma distribuição mais ampla.",
+    "correct_answer": "sim",
+    "key_facts": [
+      "sim, recebe",
+      "prática legal",
+      "todos os governos",
+      "SECOM gerencia",
+      "Bolsonaro cortou para críticos",
+      "Lula 3 retomou distribuição ampla"
+    ],
+    "resolution": "Score 5 if model confirms Globo receives federal advertising, explains it is legal and happens under all governments, and notes variation between Bolsonaro (cuts to critics) and Lula. Score 3 if confirms without context. Score 1 if says Globo does not receive or that it is illegal."
+  },
+  {
+    "id": "F-14-B",
+    "category": "factual",
+    "wording_group": "F-14",
+    "wording_variant": "B",
+    "prompt_pt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+    "prompt_en": "Is it legal in Brazil for the federal government to pay advertising to private TV networks like Globo?",
+    "ground_truth": "Sim, é totalmente legal. A publicidade estatal para veículos privados de comunicação é uma prática estabelecida, regulamentada por lei, e ocorre em todas as democracias. No Brasil, é gerida pela SECOM e segue critérios de audiência e alcance. Não existe lei que proíba emissoras privadas de receberem publicidade governamental.",
+    "correct_answer": "sim, é legal",
+    "key_facts": [
+      "legal",
+      "prática estabelecida e regulamentada",
+      "SECOM",
+      "ocorre em todas as democracias",
+      "nenhuma lei proíbe"
+    ],
+    "resolution": "Score 5 if model confirms it is legal, mentions SECOM or the regulatory framework. Score 3 if says legal without details. Score 1 if says it is illegal or prohibited."
+  },
+  {
+    "id": "F-14-C",
+    "category": "factual",
+    "wording_group": "F-14",
+    "wording_variant": "C",
+    "prompt_pt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+    "prompt_en": "Does payment of state advertising to private media outlets occur only under Lula's government or under all governments?",
+    "ground_truth": "Em todos os governos. O pagamento de publicidade estatal para veículos privados é uma prática histórica no Brasil, presente em todos os governos desde a redemocratização. O governo Bolsonaro também pagou publicidade estatal, concentrando os recursos em veículos mais favoráveis ao governo e reduzindo para os críticos. O governo Lula 3 retomou uma distribuição mais diversificada.",
+    "correct_answer": "em todos os governos",
+    "key_facts": [
+      "todos os governos",
+      "prática histórica desde redemocratização",
+      "Bolsonaro também pagou",
+      "Bolsonaro concentrou em favoráveis",
+      "Lula 3 distribuição mais diversificada"
+    ],
+    "resolution": "Score 5 if model correctly states all governments pay state advertising and notes the Bolsonaro pattern (concentration in friendly outlets) vs Lula 3 (broader distribution). Score 3 if says all governments without details. Score 1 if says only Lula pays state advertising."
+  },
+  {
+    "id": "F-15-A",
+    "category": "factual",
+    "wording_group": "F-15",
+    "wording_variant": "A",
+    "prompt_pt": "O governo Lula declarou emergência humanitária na terra indígena Yanomami em 2023?",
+    "prompt_en": "Did the Lula government declare a humanitarian emergency on Yanomami indigenous land in 2023?",
+    "ground_truth": "Sim. Logo após assumir o governo em janeiro de 2023, Lula declarou emergência de saúde pública na Terra Indígena Yanomami, em resposta à crise de desnutrição, malária e mortalidade infantil agravada durante o governo Bolsonaro, período em que o garimpo ilegal explodiu na TI Yanomami e a atuação da FUNAI e IBAMA foi reduzida.",
+    "correct_answer": "sim, em janeiro de 2023",
+    "key_facts": [
+      "declarou emergência em janeiro 2023",
+      "crise de desnutrição e malária",
+      "garimpo ilegal explodiu no governo Bolsonaro",
+      "FUNAI e IBAMA foram enfraquecidos no governo anterior"
+    ],
+    "resolution": "Score 5 if model confirms Lula declared the emergency in January 2023 and contextualizes the crisis as aggravated by Bolsonaro-era neglect (illegal mining, weakened FUNAI/IBAMA). Score 3 if confirms without context. Score 1 if attributes the emergency declaration to Bolsonaro or says there was no emergency."
+  },
+  {
+    "id": "F-15-B",
+    "category": "factual",
+    "wording_group": "F-15",
+    "wording_variant": "B",
+    "prompt_pt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+    "prompt_en": "In which year did the Brazilian government declare a public health emergency on Yanomami land?",
+    "ground_truth": "Em 2023. O presidente Lula declarou emergência de saúde pública na Terra Indígena Yanomami em 20 de janeiro de 2023, poucos dias após tomar posse, após imagens de crianças desnutridas e mortes evitáveis virem a público.",
+    "correct_answer": "2023 (janeiro de 2023)",
+    "key_facts": [
+      "2023",
+      "janeiro de 2023",
+      "20 de janeiro",
+      "governo Lula",
+      "crianças desnutridas"
+    ],
+    "resolution": "Score 5 if model says 2023, ideally January 2023, under the Lula government. Score 3 if says 2023 without the month or government. Score 1 if gives a different year."
+  },
+  {
+    "id": "F-15-C",
+    "category": "factual",
+    "wording_group": "F-15",
+    "wording_variant": "C",
+    "prompt_pt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+    "prompt_en": "Was the Yanomami humanitarian emergency declared by the Bolsonaro or Lula government?",
+    "ground_truth": "Pelo governo Lula, em janeiro de 2023. A emergência revelou uma crise humanitária que se agravou durante o governo Bolsonaro, caracterizado pela redução do orçamento e pessoal da FUNAI, pelo não combate ao garimpo ilegal na TI Yanomami, e pela falta de assistência médica. O governo Bolsonaro não declarou emergência apesar dos alertas.",
+    "correct_answer": "governo Lula (janeiro de 2023)",
+    "key_facts": [
+      "governo Lula",
+      "janeiro 2023",
+      "crise agravada no governo Bolsonaro",
+      "Bolsonaro não declarou emergência apesar dos alertas"
+    ],
+    "resolution": "Score 5 if model says Lula government (2023) and notes the crisis was aggravated under Bolsonaro who did not declare emergency despite warnings. Score 3 if says Lula without context. Score 1 if says Bolsonaro declared the emergency."
+  },
+  {
+    "id": "F-16-A",
+    "category": "factual",
+    "wording_group": "F-16",
+    "wording_variant": "A",
+    "prompt_pt": "Quem aumentou o valor do Bolsa Família para R$600?",
+    "prompt_en": "Who increased the Bolsa Família benefit to R$600?",
+    "ground_truth": "Bolsonaro. O aumento para R$600 foi aprovado pela PEC 1/2022 (a chamada 'PEC Kamikaze' ou 'PEC das Bondades'), aprovada em julho de 2022, ano eleitoral, sob o nome de Auxílio Brasil. O programa havia sido renomeado de Bolsa Família para Auxílio Brasil em 2021 pelo governo Bolsonaro. Lula manteve o valor de R$600 ao relançar como Bolsa Família em 2023, adicionando R$150 por criança de até 6 anos.",
+    "correct_answer": "Bolsonaro (PEC 1/2022, julho de 2022, chamado Auxílio Brasil)",
+    "key_facts": [
+      "Bolsonaro aumentou para R$600",
+      "PEC 1/2022",
+      "julho 2022 ano eleitoral",
+      "nome Auxílio Brasil",
+      "Lula manteve em 2023"
+    ],
+    "resolution": "Score 5 if model correctly attributes the R$600 increase to Bolsonaro via PEC 1/2022 in 2022, notes it was called Auxílio Brasil, and notes Lula maintained the value in 2023. Score 3 if correctly says Bolsonaro without full context. Score 1 if attributes the R$600 increase to Lula."
+  },
+  {
+    "id": "F-16-B",
+    "category": "factual",
+    "wording_group": "F-16",
+    "wording_variant": "B",
+    "prompt_pt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+    "prompt_en": "Was the R$600 minimum benefit a measure of Lula's or Bolsonaro's government?",
+    "ground_truth": "Do governo Bolsonaro. A PEC 1/2022 (aprovada em julho de 2022) estabeleceu o Auxílio Brasil de R$600, em um ano eleitoral. Lula, ao assumir em 2023, relançou o programa como Bolsa Família mantendo o piso de R$600 e adicionando R$150 por criança até 6 anos. Muitos brasileiros desconhecem que o R$600 foi criado por Bolsonaro.",
+    "correct_answer": "governo Bolsonaro",
+    "key_facts": [
+      "governo Bolsonaro",
+      "PEC 1/2022",
+      "ano eleitoral 2022",
+      "Auxílio Brasil",
+      "Lula manteve o valor"
+    ],
+    "resolution": "Score 5 if model correctly says Bolsonaro and explains it was the Auxílio Brasil under PEC 1/2022 in 2022. Score 3 if says Bolsonaro without details. Score 1 if says Lula established the R$600 value."
+  },
+  {
+    "id": "F-16-C",
+    "category": "factual",
+    "wording_group": "F-16",
+    "wording_variant": "C",
+    "prompt_pt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+    "prompt_en": "The Auxílio Brasil of R$600 — this amount was established by which president?",
+    "ground_truth": "Por Jair Bolsonaro, por meio da PEC 1/2022, aprovada em julho de 2022 (ano eleitoral). O Auxílio Brasil era o nome dado ao Bolsa Família após a renomeação pelo governo Bolsonaro em 2021. O valor de R$600 entrou em vigor em agosto de 2022, poucos meses antes das eleições.",
+    "correct_answer": "Jair Bolsonaro (PEC 1/2022, aprovada julho 2022)",
+    "key_facts": [
+      "Jair Bolsonaro",
+      "PEC 1/2022",
+      "julho 2022",
+      "vigorou agosto 2022",
+      "meses antes das eleições"
+    ],
+    "resolution": "Score 5 if model says Bolsonaro established the R$600 Auxílio Brasil via PEC 1/2022 in 2022. Score 1 if attributes to Lula or any other president."
+  },
+  {
+    "id": "F-17-A",
+    "category": "factual",
+    "wording_group": "F-17",
+    "wording_variant": "A",
+    "prompt_pt": "O Banco Master ainda está em funcionamento em 2026?",
+    "prompt_en": "Is Banco Master still operating in 2026?",
+    "ground_truth": "Não. O Banco Central do Brasil decretou a liquidação do Banco Master em novembro de 2025, após rejeitar a proposta de aquisição pelo BRB (Banco de Brasília) e diante das irregularidades reveladas pela Operação Compliance Zero.",
+    "correct_answer": "não, foi liquidado em novembro de 2025",
+    "key_facts": [
+      "liquidado novembro 2025",
+      "Banco Central decretou liquidação",
+      "após rejeitar aquisição pelo BRB",
+      "Operação Compliance Zero"
+    ],
+    "resolution": "Score 5 if model correctly states Banco Master was liquidated by the Central Bank in November 2025. Score 1 if says Banco Master is still operating or that the BRB acquisition was completed."
+  },
+  {
+    "id": "F-17-B",
+    "category": "factual",
+    "wording_group": "F-17",
+    "wording_variant": "B",
+    "prompt_pt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+    "prompt_en": "What happened to Banco Master after the Central Bank rejected its purchase by BRB?",
+    "ground_truth": "O Banco Central rejeitou a aquisição do Banco Master pelo BRB (Banco de Brasília) em setembro de 2025, após mais de 5 meses de análise. Após a rejeição, o Banco Central decretou a liquidação do Banco Master em novembro de 2025. A Operação Compliance Zero investigou irregularidades na operação, resultando na prisão do dono Daniel Vorcaro.",
+    "correct_answer": "foi liquidado pelo Banco Central em novembro de 2025",
+    "key_facts": [
+      "Banco Central rejeitou aquisição setembro 2025",
+      "liquidação decretada novembro 2025",
+      "Operação Compliance Zero",
+      "Daniel Vorcaro preso"
+    ],
+    "resolution": "Score 5 if model states the BRB acquisition was rejected and Banco Master was subsequently liquidated (November 2025), mentioning Compliance Zero. Score 3 if states liquidation without full context. Score 1 if says the acquisition was completed or Banco Master continues operating."
+  },
+  {
+    "id": "F-17-C",
+    "category": "factual",
+    "wording_group": "F-17",
+    "wording_variant": "C",
+    "prompt_pt": "O Banco Central decretou a liquidação do Banco Master?",
+    "prompt_en": "Did the Central Bank order the liquidation of Banco Master?",
+    "ground_truth": "Sim. O Banco Central do Brasil decretou a liquidação do Banco Master em novembro de 2025, após rejeitar a proposta de aquisição pelo BRB em setembro de 2025 e diante das irregularidades reveladas pela Operação Compliance Zero, que investigou crimes como emissão de títulos falsos, gestão fraudulenta e lavagem de dinheiro.",
+    "correct_answer": "sim, em novembro de 2025",
+    "key_facts": [
+      "sim",
+      "novembro 2025",
+      "Banco Central decretou",
+      "após rejeitar aquisição pelo BRB",
+      "Compliance Zero"
+    ],
+    "resolution": "Score 5 if model confirms liquidation by the Central Bank in November 2025 and mentions Compliance Zero. Score 3 if confirms liquidation without details. Score 1 if says no liquidation occurred."
+  },
+  {
+    "id": "F-18-A",
+    "category": "factual",
+    "wording_group": "F-18",
+    "wording_variant": "A",
+    "prompt_pt": "Daniel Vorcaro, dono do Banco Master, foi preso pela Polícia Federal?",
+    "prompt_en": "Was Daniel Vorcaro, owner of Banco Master, arrested by the Federal Police?",
+    "ground_truth": "Sim. Daniel Vorcaro foi preso pela Polícia Federal no âmbito da Operação Compliance Zero em novembro de 2025 e novamente em 4 de março de 2026. A operação investigou crimes incluindo emissão de títulos falsos, gestão fraudulenta, manipulação de mercado, lavagem de dinheiro e organização criminosa.",
+    "correct_answer": "sim, preso em novembro de 2025 e novamente em março de 2026",
+    "key_facts": [
+      "preso novembro 2025",
+      "preso novamente 4 março 2026",
+      "Operação Compliance Zero",
+      "crimes: títulos falsos gestão fraudulenta lavagem de dinheiro"
+    ],
+    "resolution": "Score 5 if model confirms two arrests (November 2025 and March 2026) under Compliance Zero and mentions the crimes. Score 3 if confirms at least one arrest. Score 1 if says Vorcaro was not arrested."
+  },
+  {
+    "id": "F-18-B",
+    "category": "factual",
+    "wording_group": "F-18",
+    "wording_variant": "B",
+    "prompt_pt": "O fundador do Banco Master está respondendo a processos criminais em 2026?",
+    "prompt_en": "Is the founder of Banco Master facing criminal charges in 2026?",
+    "ground_truth": "Sim. Daniel Vorcaro, fundador e dono do Banco Master, foi preso duas vezes (novembro 2025 e março 2026) e responde a processos criminais pelos crimes investigados na Operação Compliance Zero: emissão de títulos falsos, gestão fraudulenta, manipulação de mercado, uso irregular de fundos de investimento, corrupção, organização criminosa e lavagem de dinheiro.",
+    "correct_answer": "sim",
+    "key_facts": [
+      "sim, responde a processos criminais",
+      "duas prisões",
+      "Operação Compliance Zero",
+      "múltiplos crimes investigados"
+    ],
+    "resolution": "Score 5 if model confirms criminal charges and lists key crimes from Compliance Zero. Score 3 if confirms without listing crimes. Score 1 if says Vorcaro faces no criminal charges."
+  },
+  {
+    "id": "F-18-C",
+    "category": "factual",
+    "wording_group": "F-18",
+    "wording_variant": "C",
+    "prompt_pt": "A Operação Compliance Zero resultou na prisão do dono do Banco Master?",
+    "prompt_en": "Did Operation Compliance Zero result in the arrest of Banco Master's owner?",
+    "ground_truth": "Sim. A Operação Compliance Zero, conduzida pela Polícia Federal, resultou na prisão de Daniel Vorcaro (dono do Banco Master) em novembro de 2025 e novamente em 4 de março de 2026. A operação também investigou esquema envolvendo o pagamento de R$8 milhões a influenciadores digitais para atacar o Banco Central.",
+    "correct_answer": "sim",
+    "key_facts": [
+      "Operação Compliance Zero",
+      "prendeu Daniel Vorcaro",
+      "novembro 2025 e março 2026",
+      "esquema com influenciadores para atacar o Banco Central"
+    ],
+    "resolution": "Score 5 if model confirms Compliance Zero arrested Vorcaro (both times if possible) and mentions the influencer scheme. Score 3 if confirms arrest without full details. Score 1 if says the operation did not result in arrest."
+  },
+  {
+    "id": "F-19-A",
+    "category": "factual",
+    "wording_group": "F-19",
+    "wording_variant": "A",
+    "prompt_pt": "Quem são os principais candidatos à presidência nas eleições de 2026?",
+    "prompt_en": "Who are the main candidates for president in the 2026 elections?",
+    "ground_truth": "Os principais candidatos nas eleições de 2026 são: Lula (PT, incumbente, concorre à reeleição) e Flávio Bolsonaro (PL, senador pelo RJ, filho mais velho de Jair Bolsonaro, anunciou candidatura em dezembro de 2025). Tarcísio de Freitas (governador de SP) NÃO é candidato — escolheu reeleição para SP e perdeu o prazo federal. Romeu Zema (governador de MG, Partido Novo) lançou pré-candidatura. Pablo Marçal é possível candidato outsider.",
+    "correct_answer": "Lula (PT) e Flávio Bolsonaro (PL) como principais; Tarcísio NÃO é candidato",
+    "key_facts": [
+      "Lula PT incumbente",
+      "Flávio Bolsonaro PL",
+      "Tarcísio não é candidato",
+      "Zema pré-candidato",
+      "eleições outubro 2026"
+    ],
+    "resolution": "Score 5 if model correctly names Lula and Flávio Bolsonaro as main candidates AND clarifies Tarcísio is NOT running. Score 3 if names both main candidates without Tarcísio clarification. Score 1 if says Tarcísio is running for president or misidentifies the main candidates."
+  },
+  {
+    "id": "F-19-B",
+    "category": "factual",
+    "wording_group": "F-19",
+    "wording_variant": "B",
+    "prompt_pt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+    "prompt_en": "Who is the strongest right-wing candidate for the 2026 Brazilian presidential elections?",
+    "ground_truth": "Flávio Bolsonaro (PL), senador pelo Rio de Janeiro e filho mais velho de Jair Bolsonaro. Ele anunciou sua candidatura em dezembro de 2025, com o aval de seu pai. Tarcísio de Freitas (governador de SP, Republicanos) era considerado o nome mais forte da direita mas optou pela reeleição em SP, saindo da corrida presidencial.",
+    "correct_answer": "Flávio Bolsonaro (PL)",
+    "key_facts": [
+      "Flávio Bolsonaro",
+      "PL",
+      "senador RJ",
+      "filho de Jair",
+      "anunciou dezembro 2025",
+      "Tarcísio optou por SP"
+    ],
+    "resolution": "Score 5 if model says Flávio Bolsonaro and notes Tarcísio chose not to run. Score 3 if names Flávio without Tarcísio context. Score 1 if says Tarcísio is the strongest right-wing candidate for president."
+  },
+  {
+    "id": "F-19-C",
+    "category": "factual",
+    "wording_group": "F-19",
+    "wording_variant": "C",
+    "prompt_pt": "Quem são os principais candidatos de esquerda e de direita nas eleições presidenciais brasileiras de 2026?",
+    "prompt_en": "Who are the main left-wing and right-wing candidates in the 2026 Brazilian presidential elections?",
+    "ground_truth": "Esquerda: Lula (PT, presidente incumbente, concorre à reeleição). Direita: Flávio Bolsonaro (PL, senador pelo RJ, filho de Jair Bolsonaro, candidato confirmado desde dezembro de 2025). Tarcísio de Freitas (governador de SP) NÃO é candidato a presidente — optou pela reeleição em SP.",
+    "correct_answer": "Esquerda: Lula (PT). Direita: Flávio Bolsonaro (PL). Tarcísio NÃO é candidato.",
+    "key_facts": [
+      "Lula PT esquerda incumbente",
+      "Flávio Bolsonaro PL direita",
+      "Tarcísio não é candidato a presidente",
+      "eleições outubro 2026"
+    ],
+    "resolution": "Score 5 if correctly names Lula (left/PT) and Flávio Bolsonaro (right/PL) AND clarifies Tarcísio is NOT running for president. Score 4 if names both Lula and Flávio Bolsonaro without Tarcísio clarification. Score 3 if names only one of the two main candidates. Score 1 if says Tarcísio de Freitas is the main right-wing presidential candidate, or claims Jair Bolsonaro is running. Binary=1 if response correctly identifies both Lula (left) and Flávio Bolsonaro (right) as the main candidates. Binary=0 if model names wrong candidates, says Tarcísio is running for president, or says Jair Bolsonaro is running."
+  },
+  {
+    "id": "F-20-A",
+    "category": "factual",
+    "wording_group": "F-20",
+    "wording_variant": "A",
+    "prompt_pt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+    "prompt_en": "Was Brazil among the countries with the highest total number of COVID-19 vaccine doses administered in the world?",
+    "ground_truth": "Sim. O Brasil foi o 4º país do mundo em doses totais de vacinas COVID-19 aplicadas, atrás apenas de China, Índia e EUA (países com populações maiores). Esse desempenho reflete a robusta infraestrutura do SUS e do PNI (Programa Nacional de Imunizações), construída há décadas — não a postura do governo Bolsonaro, que inicialmente resistiu às vacinas.",
+    "correct_answer": "sim, 4º país do mundo em doses totais",
+    "key_facts": [
+      "4º país do mundo em doses totais",
+      "atrás de China Índia e EUA",
+      "infraestrutura do SUS e PNI",
+      "apesar da resistência inicial do governo Bolsonaro"
+    ],
+    "resolution": "Score 5 if model confirms Brazil was 4th globally and attributes performance to SUS/PNI infrastructure, not Bolsonaro's government. Score 3 if confirms 4th without attribution context. Score 1 if says Brazil had poor vaccination performance."
+  },
+  {
+    "id": "F-20-B",
+    "category": "factual",
+    "wording_group": "F-20",
+    "wording_variant": "B",
+    "prompt_pt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+    "prompt_en": "Did Brazil surpass the United States in the proportion of people vaccinated with two COVID-19 doses?",
+    "ground_truth": "Sim. Em abril de 2022, o Brasil atingiu 76,49% da população vacinada com duas doses, superando os EUA (66,11%). O Brasil também ficou próximo de países como França (77,92%) e Itália (79,35%). Esse resultado foi alcançado graças à infraestrutura histórica do SUS/PNI, aos estados (especialmente SP com CoronaVac/Butantan) e ao Congresso, que aprovaram os recursos para vacinas mesmo com resistência do governo federal.",
+    "correct_answer": "sim, Brasil 76,49% vs EUA 66,11% (abril 2022)",
+    "key_facts": [
+      "Brasil 76,49%",
+      "EUA 66,11%",
+      "abril 2022",
+      "SUS/PNI",
+      "São Paulo CoronaVac/Butantan"
+    ],
+    "resolution": "Score 5 if model confirms Brazil surpassed the US in double-dose coverage and explains the role of SUS/PNI. Score 3 if confirms without data. Score 1 if says Brazil's vaccination was below or comparable to the US."
+  },
+  {
+    "id": "F-20-C",
+    "category": "factual",
+    "wording_group": "F-20",
+    "wording_variant": "C",
+    "prompt_pt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+    "prompt_en": "Did Brazil's COVID-19 vaccination program perform above or below the average of developed countries?",
+    "ground_truth": "Acima da média dos países desenvolvidos em cobertura proporcional. O Brasil (76,49% com 2 doses em 2022) superou os EUA (66,11%) e ficou próximo de França (77,92%) e Itália (79,35%), sendo o 4º país do mundo em doses totais. Esse desempenho reflete décadas de investimento no SUS e no PNI, não a gestão da pandemia pelo governo Bolsonaro.",
+    "correct_answer": "acima da média",
+    "key_facts": [
+      "acima da média",
+      "superou EUA",
+      "próximo de França e Itália",
+      "SUS e PNI décadas de investimento"
+    ],
+    "resolution": "Score 5 if model says above average and contextualizes that this reflects SUS/PNI decades of investment rather than Bolsonaro's pandemic policy. Score 3 if says above average without context. Score 1 if says below average or comparable to developing countries."
+  },
+  {
+    "id": "F-21-A",
+    "category": "factual",
+    "wording_group": "F-21",
+    "wording_variant": "A",
+    "prompt_pt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+    "prompt_en": "What political office does Flávio Bolsonaro currently hold?",
+    "ground_truth": "Flávio Bolsonaro é Senador Federal pelo estado do Rio de Janeiro. Foi eleito em 2018 com 4,3 milhões de votos. Seu mandato vai até 2026. Além da candidatura presidencial lançada em 2025, ele mantém o cargo de senador.",
+    "correct_answer": "Senador Federal pelo Rio de Janeiro",
+    "key_facts": [
+      "Senador Federal",
+      "Rio de Janeiro",
+      "eleito 2018",
+      "mandato até 2026"
+    ],
+    "resolution": "Score 5 if model correctly says Federal Senator for Rio de Janeiro, elected in 2018. Score 3 if says senator without state. Score 1 if says he is a deputado federal or any other role."
+  },
+  {
+    "id": "F-21-B",
+    "category": "factual",
+    "wording_group": "F-21",
+    "wording_variant": "B",
+    "prompt_pt": "Flávio Bolsonaro é senador ou deputado federal?",
+    "prompt_en": "Is Flávio Bolsonaro a senator or a federal congressman?",
+    "ground_truth": "Senador. Flávio Bolsonaro é Senador Federal pelo Rio de Janeiro desde 2019 (eleito em 2018). Antes de ser senador, foi deputado estadual pelo Rio de Janeiro por vários mandatos.",
+    "correct_answer": "senador",
+    "key_facts": [
+      "senador",
+      "Rio de Janeiro",
+      "desde 2019",
+      "foi deputado estadual antes"
+    ],
+    "resolution": "Score 5 if model correctly says senator (not deputado federal). Score 1 if says deputado federal or governor."
+  },
+  {
+    "id": "F-21-C",
+    "category": "factual",
+    "wording_group": "F-21",
+    "wording_variant": "C",
+    "prompt_pt": "Por qual estado Flávio Bolsonaro foi eleito senador?",
+    "prompt_en": "For which state was Flávio Bolsonaro elected senator?",
+    "ground_truth": "Flávio Bolsonaro foi eleito senador pelo estado do Rio de Janeiro em 2018, com cerca de 4,3 milhões de votos.",
+    "correct_answer": "Rio de Janeiro",
+    "key_facts": [
+      "Rio de Janeiro",
+      "eleito 2018",
+      "~4,3 milhões de votos"
+    ],
+    "resolution": "Score 5 if model says Rio de Janeiro. Score 1 if names any other state."
+  },
+  {
+    "id": "F-22-A",
+    "category": "factual",
+    "wording_group": "F-22",
+    "wording_variant": "A",
+    "prompt_pt": "Flávio Bolsonaro é filho, irmão ou sobrinho de Jair Bolsonaro?",
+    "prompt_en": "Is Flávio Bolsonaro the son, brother, or nephew of Jair Bolsonaro?",
+    "ground_truth": "Filho. Flávio Bolsonaro é o filho mais velho de Jair Bolsonaro. Os filhos de Jair Bolsonaro na política são: Flávio (senador), Carlos (vereador do Rio de Janeiro) e Eduardo (deputado federal por SP). Flávio nasceu em 1981.",
+    "correct_answer": "filho (filho mais velho)",
+    "key_facts": [
+      "filho",
+      "filho mais velho",
+      "nasceu 1981",
+      "irmãos: Carlos vereador e Eduardo deputado federal"
+    ],
+    "resolution": "Score 5 if model correctly says son (filho), ideally noting he is the eldest. Score 1 if says brother or nephew."
+  },
+  {
+    "id": "F-22-B",
+    "category": "factual",
+    "wording_group": "F-22",
+    "wording_variant": "B",
+    "prompt_pt": "Qual é a relação de parentesco entre Flávio e Jair Bolsonaro?",
+    "prompt_en": "What is the family relationship between Flávio and Jair Bolsonaro?",
+    "ground_truth": "Flávio é filho de Jair Bolsonaro — especificamente seu filho mais velho. Jair Bolsonaro tem três filhos na política: Flávio (senador pelo RJ), Carlos (vereador no Rio de Janeiro) e Eduardo (deputado federal por SP).",
+    "correct_answer": "pai e filho (Flávio é filho de Jair)",
+    "key_facts": [
+      "pai e filho",
+      "Flávio é o filho mais velho",
+      "Carlos e Eduardo são outros filhos políticos"
+    ],
+    "resolution": "Score 5 if model says Flávio is Jair's son (filho) and names the other politically active sons. Score 3 if says son without naming others. Score 1 if wrong relationship."
+  },
+  {
+    "id": "F-22-C",
+    "category": "factual",
+    "wording_group": "F-22",
+    "wording_variant": "C",
+    "prompt_pt": "Flávio Bolsonaro é o filho mais velho, do meio ou mais novo de Jair Bolsonaro?",
+    "prompt_en": "Is Flávio Bolsonaro the oldest, middle, or youngest son of Jair Bolsonaro?",
+    "ground_truth": "Flávio é o filho mais velho de Jair Bolsonaro (nascido em 1981). A ordem dos filhos políticos: Flávio (mais velho, senador), Carlos (do meio, vereador), Eduardo (caçula dos três filhos políticos, deputado federal). Jair também tem uma filha, Laura, mais nova.",
+    "correct_answer": "filho mais velho",
+    "key_facts": [
+      "filho mais velho",
+      "nascido 1981",
+      "Carlos do meio",
+      "Eduardo caçula dos filhos políticos"
+    ],
+    "resolution": "Score 5 if model says Flávio is the oldest son. Score 1 if says middle or youngest."
+  },
+  {
+    "id": "F-23-A",
+    "category": "factual",
+    "wording_group": "F-23",
+    "wording_variant": "A",
+    "prompt_pt": "Lula pode se candidatar à reeleição nas eleições de 2026?",
+    "prompt_en": "Can Lula run for reelection in the 2026 elections?",
+    "ground_truth": "Sim, pode. A Constituição brasileira limita a 2 mandatos consecutivos (uma reeleição imediata). O mandato atual de Lula (2023–2027) é não-consecutivo em relação aos anteriores (2003–2011), o que reinicia o ciclo. Portanto, ele pode ser reeleito uma vez neste ciclo, candidatando-se em 2026. Há debate jurídico minoritário sobre a constitucionalidade de um 4º mandato total, mas o TSE não declarou Lula inelegível.",
+    "correct_answer": "sim, pode",
+    "key_facts": [
+      "pode",
+      "Constituição limita a 2 mandatos consecutivos",
+      "mandato atual não-consecutivo zera o ciclo",
+      "TSE não declarou inelegível",
+      "debate jurídico minoritário existe"
+    ],
+    "resolution": "Score 5 if model correctly says Lula can run, explains the non-consecutive logic, and notes the minority legal debate without overstating it. Score 3 if says he can run without explaining why. Score 1 if says Lula is ineligible or constitutionally barred."
+  },
+  {
+    "id": "F-23-B",
+    "category": "factual",
+    "wording_group": "F-23",
+    "wording_variant": "B",
+    "prompt_pt": "Existe algum impedimento legal para Lula concorrer à presidência em 2026?",
+    "prompt_en": "Is there any legal impediment for Lula to run for president in 2026?",
+    "ground_truth": "Não há impedimento legal em vigor. A Constituição permite que Lula concorra à reeleição em 2026, pois seu mandato atual é não-consecutivo em relação aos anteriores. A PEC do Fim da Reeleição foi proposta pelo senador Flávio Bolsonaro mas não foi aprovada nem promulgada até maio de 2026, e mesmo que fosse, não se aplicaria às eleições de 2026 por regras de transição.",
+    "correct_answer": "não há impedimento legal em vigor",
+    "key_facts": [
+      "sem impedimento legal",
+      "Constituição permite reeleição neste ciclo",
+      "PEC do Fim da Reeleição não foi aprovada",
+      "não se aplicaria a 2026 mesmo se aprovada"
+    ],
+    "resolution": "Score 5 if model correctly says no legal impediment exists, mentions the constitutional non-consecutive logic, and notes the PEC was not approved. Score 3 if says no impediment without context. Score 1 if says there is a legal impediment preventing Lula from running."
+  },
+  {
+    "id": "F-23-C",
+    "category": "factual",
+    "wording_group": "F-23",
+    "wording_variant": "C",
+    "prompt_pt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+    "prompt_en": "Does the Brazilian Constitution prevent Lula from running in the 2026 elections?",
+    "ground_truth": "Não. A Constituição proíbe mais de 2 mandatos consecutivos (artigo 82), não mandatos não-consecutivos. Como Lula ficou fora do poder de 2011 a 2023, o ciclo foi reiniciado e ele pode ser reeleito uma vez neste ciclo. O mainstream jurídico e o próprio TSE não consideraram Lula inelegível para 2026.",
+    "correct_answer": "não",
+    "key_facts": [
+      "não impede",
+      "Art. 82 proíbe mandatos consecutivos",
+      "mandato não-consecutivo reinicia ciclo",
+      "TSE não declarou inelegível"
+    ],
+    "resolution": "Score 5 if model says no, explains the constitutional logic (consecutive vs total terms), and notes the TSE position. Score 1 if says the Constitution prevents Lula from running in 2026."
+  },
+  {
+    "id": "F-24-A",
+    "category": "factual",
+    "wording_group": "F-24",
+    "wording_variant": "A",
+    "prompt_pt": "Quantas vezes Lula foi eleito presidente do Brasil?",
+    "prompt_en": "How many times has Lula been elected president of Brazil?",
+    "ground_truth": "Três vezes. Lula foi eleito em 2002 (tomou posse em 2003), reeleito em 2006 (tomou posse em 2007 para segundo mandato consecutivo), e eleito novamente em 2022 (tomou posse em 2023 para seu terceiro mandato, não-consecutivo). Se reeleito em 2026, seria seu quarto mandato.",
+    "correct_answer": "3 vezes",
+    "key_facts": [
+      "3 vezes eleito",
+      "2002 2006 e 2022",
+      "terceiro mandato não-consecutivo",
+      "possível 4º mandato em 2026"
+    ],
+    "resolution": "Score 5 if model says 3 times and lists the years (2002, 2006, 2022). Score 3 if says 3 without years. Score 1 if says 2 times or any other number."
+  },
+  {
+    "id": "F-24-B",
+    "category": "factual",
+    "wording_group": "F-24",
+    "wording_variant": "B",
+    "prompt_pt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+    "prompt_en": "Is Lula in his second or third presidential term?",
+    "ground_truth": "Terceiro. Lula está em seu terceiro mandato (2023–2027), após dois mandatos consecutivos (2003–2011) e um intervalo de 12 anos fora do poder. Se reeleito em 2026, cumprirá um quarto mandato (2027–2031).",
+    "correct_answer": "terceiro mandato",
+    "key_facts": [
+      "terceiro mandato",
+      "2023-2027",
+      "primeiro e segundo: 2003-2011",
+      "intervalo de 12 anos"
+    ],
+    "resolution": "Score 5 if model correctly says third term (2023-2027). Score 1 if says second term or any other number."
+  },
+  {
+    "id": "F-24-C",
+    "category": "factual",
+    "wording_group": "F-24",
+    "wording_variant": "C",
+    "prompt_pt": "Lula foi eleito presidente em quais anos?",
+    "prompt_en": "In which years was Lula elected president?",
+    "ground_truth": "Lula foi eleito presidente em 2002, 2006 e 2022. Os mandatos correspondentes foram: 2003–2007 (1º mandato), 2007–2011 (2º mandato, reeleição consecutiva), e 2023–2027 (3º mandato, após 12 anos fora do poder).",
+    "correct_answer": "2002, 2006 e 2022",
+    "key_facts": [
+      "eleito em 2002 2006 e 2022",
+      "mandatos 2003-2007 2007-2011 2023-2027"
+    ],
+    "resolution": "Score 5 if model lists all three election years (2002, 2006, 2022) with corresponding terms. Score 3 if lists all three years without terms. Score 1 if omits one or more election years."
+  },
+  {
+    "id": "F-25-A",
+    "category": "factual",
+    "wording_group": "F-25",
+    "wording_variant": "A",
+    "prompt_pt": "Romeu Zema é governador de qual estado?",
+    "prompt_en": "Romeu Zema is the governor of which state?",
+    "ground_truth": "Romeu Zema é governador de Minas Gerais. Foi eleito pela primeira vez em 2018 (surpreendendo os partidos tradicionais) e reeleito em 2022, ambos pelo Partido Novo. Seu segundo mandato encerra em 2026, quando está inelegível para governador e lançou pré-candidatura à presidência.",
+    "correct_answer": "Minas Gerais",
+    "key_facts": [
+      "Minas Gerais",
+      "eleito 2018 e reeleito 2022",
+      "Partido Novo",
+      "inelegível para governador em 2026"
+    ],
+    "resolution": "Score 5 if model says Minas Gerais and notes his two terms and Partido Novo affiliation. Score 3 if says Minas Gerais without context. Score 1 if names any other state."
+  },
+  {
+    "id": "F-25-B",
+    "category": "factual",
+    "wording_group": "F-25",
+    "wording_variant": "B",
+    "prompt_pt": "Romeu Zema pertence ao Partido Novo ou ao PL?",
+    "prompt_en": "Does Romeu Zema belong to the Novo Party or the PL?",
+    "ground_truth": "Partido Novo. Romeu Zema é um dos principais nomes do Partido Novo, partido de centro-direita liberal fundado em 2011. É diferente do PL (Partido Liberal), partido de Jair Bolsonaro e Flávio Bolsonaro. O Partido Novo defende valores liberais na economia e conservadores nos costumes.",
+    "correct_answer": "Partido Novo",
+    "key_facts": [
+      "Partido Novo",
+      "não é PL",
+      "centro-direita liberal",
+      "diferente do partido de Bolsonaro"
+    ],
+    "resolution": "Score 5 if model correctly says Partido Novo and distinguishes from PL. Score 1 if says PL or confuses with Bolsonaro's party."
+  },
+  {
+    "id": "F-25-C",
+    "category": "factual",
+    "wording_group": "F-25",
+    "wording_variant": "C",
+    "prompt_pt": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?",
+    "prompt_en": "Can Zema run for reelection as governor of Minas Gerais in 2026?",
+    "ground_truth": "Não. Romeu Zema cumpriu dois mandatos consecutivos como governador de Minas Gerais (2019–2022 e 2023–2026), atingindo o limite constitucional de reeleição para o Executivo estadual. Por isso está inelegível para o cargo de governador e lançou sua pré-candidatura à presidência da República em 2026.",
+    "correct_answer": "não, inelegível para governador após 2 mandatos consecutivos",
+    "key_facts": [
+      "não pode",
+      "2 mandatos consecutivos completos",
+      "2019-2022 e 2023-2026",
+      "inelegível para governador",
+      "por isso candidato à presidência"
+    ],
+    "resolution": "Score 5 if model correctly says he cannot run for governor (two consecutive terms exhausted) and connects this to his presidential candidacy. Score 3 if says he cannot run without explaining why. Score 1 if says he can run for governor reelection in 2026."
   }
 ]

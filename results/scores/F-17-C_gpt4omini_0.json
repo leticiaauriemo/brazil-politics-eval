@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the liquidation occurred in 2020, which contradicts the ground truth's 2025 date and misses the key details about the BRB acquisition rejection and Operation Compliance Zero."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the liquidation occurred in 2020, rather than November 2025, and fails to mention the Compliance Zero operation."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states the liquidation occurred in 2020 with generic financial reasons, when the ground truth specifies November 2025 following Operation Compliance Zero and a rejected BRB acquisition proposal."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

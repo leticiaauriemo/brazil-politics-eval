@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-C",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message and does not confirm the Banco Central liquidation of Banco Master in November 2025 or mention Compliance Zero, so it is incorrect/misleading relative to the factual claim."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "No factual answer was provided; the model returned an error instead of addressing the liquidation and Compliance Zero details."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual information about Brazilian banking or politics, making it impossible to verify the claim about Banco Master's liquidation."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

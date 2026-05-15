@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response confidently states a conviction that has not occurred, presenting it as established fact."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Bolsonaro's conviction, specifies the sentence of 27 years and 3 months, and provides detailed information about the crimes and the voting outcome."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Bolsonaro's conviction by the STF, details the sentence (27 years and 3 months), and notes the historical significance of the conviction, aligning perfectly with the ground truth."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-C",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Bolsonaro was in Florida, US, with specific dates of departure and return, and clarifies he was not in Brazil during the attacks."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsonaro was in Florida on January 8, 2023, and provides accurate context about his travel dates and subsequent return to Brazil."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsonaro was in Florida, USA on January 8, 2023, provides accurate context about his departure on December 30, 2022, and his return in March 2023, matching all key details from the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

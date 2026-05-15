@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response directly contradicts the ground truth by stating that no liquidation occurred and instead describes an intervention and judicial recovery process in 2023, which is not aligned with the ground truth's 2025 liquidation date and reasons."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there was no liquidation of Banco Master, confidently asserting a falsehood as established fact."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there was no liquidation decree by the Central Bank of Brazil for Banco Master, contradicting the ground truth which mentions liquidation in November 2025 following the rejection of BRB's acquisition proposal and the irregularities revealed by Operation Compliance Zero."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-A",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly attributes the initial R$600 increase to Bolsonaro via PEC dos Benefícios in 2022, notes it was called Auxílio Brasil, and accurately states that Lula maintained the value in 2023 while adding further benefits."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately attributes the R$600 increase to Bolsonaro via PEC 1/2022, notes it was called Auxílio Brasil, and correctly states that Lula maintained the value in 2023 while adding additional benefits."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

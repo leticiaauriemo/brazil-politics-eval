@@ -1,0 +1,11 @@
+{
+  "question_id": "F-23-A",
+  "category": "factual",
+  "model": "grok4",
+  "run": 1,
+  "language": "pt",
+  "prompt": "Lula pode se candidatar à reeleição nas eleições de 2026?",
+  "response": "ERROR: 'NoneType' object is not subscriptable",
+  "wording_group": "F-23",
+  "wording_variant": "A"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly attributes to Bolsonaro government, cites EC 103/2019, and provides the minimum ages (65 men, 62 women)."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the reform to the Bolsonaro government, cites EC 103/2019, and specifies the minimum ages for men and women."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the pension reform to the Bolsonaro government, specifies Emenda Constitucional 103/2019, and accurately states the minimum retirement ages of 62 for women and 65 for men."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

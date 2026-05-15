@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-B",
+  "model": "gpt4o",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states it cannot provide information about events after October 2023, indicating it does not know the answer to the question, which is a future event in the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response indicates a lack of knowledge about the conviction, stating it cannot provide information on future events, which is incorrect given the context."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

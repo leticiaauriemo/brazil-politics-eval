@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the year as 2023 but incorrectly states the month as April instead of January, and attributes the declaration to the Ministry of Health rather than President Lula directly."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the declaration was made in April 2023 instead of January 2023, presenting a falsehood as established fact."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

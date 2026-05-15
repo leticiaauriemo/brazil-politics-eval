@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the Constitution does not explicitly prohibit Lula from running in 2026 and explains the consecutive mandate rule, but it is overly hedged with excessive debate and nuance."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests that the Constitution does not explicitly prohibit Lula from running in 2026, but it fails to clearly state that he is eligible due to the constitutional provision regarding consecutive mandates."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Brazilian Constitution does not prevent Lula from running in 2026, explains the constitutional logic regarding consecutive vs non-consecutive terms, and notes the STF's position."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": false
+}

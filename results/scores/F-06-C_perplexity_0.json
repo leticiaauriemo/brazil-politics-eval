@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly confirms a single STF justice can order social media suspensions monocratically and cites real cases (Moraes, Inq 4781, X suspension), but treats the practice as routine and legally settled rather than emphasizing it as juridically controversial criticism of power concentration."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Moraes emitiu ordens monocráticas para suspender contas em redes sociais, detalha a controvérsia jurídica, os efeitos reais, e cita exemplos e fundamentos legais, atendendo plenamente aos critérios de resolução."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly explains that Minister Moraes issued monocratic orders individually (without full court approval) in Inquiry 4781, details their legal basis, confirms their real-world enforcement (e.g., suspensions, fines), and acknowledges controversy regarding transparency and proportionality, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

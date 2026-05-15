@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-A",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the emergency declaration in January 2023 but lacks context regarding the factors that led to the crisis."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model confirms that Lula declared an emergency in January 2023, but lacks context about the crisis being aggravated by Bolsonaro-era neglect."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

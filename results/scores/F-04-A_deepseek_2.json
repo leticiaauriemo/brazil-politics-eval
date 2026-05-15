@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that deforestation increased significantly under Bolsonaro, reversed a decade-long declining trend, and provides specific data points (2018–2022) closely matching the ground truth, including the 2021 peak and 2022 reduction, while accurately linking the rise to weakened enforcement agencies."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that deforestation increased significantly during Bolsonaro's government, provides specific data, and contextualizes the trend within historical patterns."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that deforestation increased significantly under Bolsonaro, reversed a decade-long declining trend, provides accurate INPE/PRODES data (2019: 10.129 km², 2021: 13.038 km² peak), and explains the weakening of enforcement agencies, fully meeting all resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

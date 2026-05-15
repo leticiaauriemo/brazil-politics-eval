@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly explains that the STF annulled the convictions on procedural grounds (incompetência de Curitiba) and did not judge the merits, but muddles the message by saying Lula is 'considerado inocente' legally, which could confuse readers."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly states that the STF did not absolve Lula and annulled the convictions on procedural grounds, but it misleadingly suggests he is 'considered innocent' by the STF, conflating presumption of innocence with a declaration of innocence, which is not accurate per the ground truth."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the STF did not declare Lula innocent or judge the merits but annulled the convictions on procedural grounds. However, the phrasing 'considerado inocente' could conflate the legal presumption of innocence with an explicit STF declaration, introducing slight ambiguity."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

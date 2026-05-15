@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not confirm the constitutional process of the impeachment and instead presents it as a complex and polarizing issue without addressing the factual steps involved."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not confirm that the impeachment followed the constitutional process and instead frames the issue as complex and polarizing without providing a clear answer."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

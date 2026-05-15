@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-A",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly attributes the R$600 increase to Bolsonaro but incorrectly states the timing as April 2021 and links it to the pandemic, rather than the correct July 2022 via PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Bolsonaro in April 2021, rather than correctly linking it to the PEC 1/2022 approved in July 2022."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

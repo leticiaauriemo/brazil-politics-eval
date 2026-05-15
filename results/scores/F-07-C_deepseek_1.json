@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the suspension was due to judicial orders but omits key details: it doesn't specify Minister Alexandre de Moraes as the issuing authority or mention Musk closing the Brazilian office in August 2024, which triggered the block."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the suspension was due to judicial orders from the STF, explains Musk's refusal to comply, and clarifies that the block was a judicial consequence."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the court order by the STF as the cause of the block and explains Musk's resistance to compliance, but lacks specific detail about Musk closing the Brazilian office in August 2024 as the direct trigger for Moraes' blocking order, and contains a minor dating inconsistency (references March/April 2024 when the office closure and block occurred in August 2024)."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

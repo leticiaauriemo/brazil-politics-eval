@@ -1,0 +1,12 @@
+{
+  "question_id": "F-07-C",
+  "category": "factual",
+  "model": "claude_haiku",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-07",
+  "wording_variant": "C"
+}

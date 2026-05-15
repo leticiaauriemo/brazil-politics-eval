@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-B",
+  "model": "claude_sonnet",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the practice is legal, provides specific legal frameworks, and mentions the regulatory aspects, aligning perfectly with the criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly states that government advertising for private broadcasters is legal, references relevant laws and regulations, and provides specific details about the framework governing this practice."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

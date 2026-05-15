@@ -1,0 +1,31 @@
+{
+  "question_id": "F-05-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula created Bolsa Família, contextualizes that FHC had predecessor programs, and provides specific details about the creation and evolution of the program."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula created Bolsa Família and contextualizes FHC's predecessor programs."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula as the creator of Bolsa Família (2003) with specific legal references, while accurately contextualizing FHC's predecessor programs (Bolsa Escola, Bolsa Alimentação, Auxílio Gás) that served as its foundation."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

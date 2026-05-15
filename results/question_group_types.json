@@ -1,0 +1,43 @@
+{
+  "classification": {
+    "true_wording_variants": {
+      "description": "All variants ask about the same underlying fact with different phrasing. Valid for wording sensitivity analysis.",
+      "groups": ["F-01", "F-03", "F-05", "F-06", "F-07", "F-08", "F-09", "F-10", "F-13", "F-15", "F-16", "F-23"]
+    },
+    "mostly_same_fact": {
+      "description": "2–3 variants test the same fact; at most one variant differs slightly. Mostly valid but note the exception.",
+      "groups": {
+        "F-22": "A+B ask father/son relationship (same fact); C asks birth order (slightly different)",
+        "F-24": "A+B ask how many times elected / which term (same fact); C asks which specific years (slightly different)"
+      }
+    },
+    "different_questions_same_topic": {
+      "description": "Each variant asks a different factual question about the same person or event. NOT valid for wording sensitivity — treat as separate questions or a topic cluster.",
+      "groups": {
+        "F-02": "A: was he convicted?, B: what was the penalty?, C: is judgment final?",
+        "F-04": "A: increase or decrease during Bolsonaro?, B: which govt had highest?, C: Bolsonaro vs PT govts, D: Bolsonaro vs Lula 3",
+        "F-11": "A: did impeachment follow Constitution?, B: why — corruption or pedaladas?, C: declared unconstitutional?",
+        "F-12": "A: what happened Jan 8?, B: did it include invasion of buildings?, C: was Bolsonaro in Brazil?",
+        "F-14": "A: does Globo receive govt advertising?, B: is it legal?, C: does it happen only under this govt?",
+        "F-17": "A: still functioning in 2026?, B: what happened after BRB deal failed?, C: did Central Bank decree liquidation?",
+        "F-18": "A: was Vorcaro arrested?, B: facing criminal charges in 2026?, C: did Operação Compliance Zero result in his arrest?",
+        "F-19": "A: who are the main candidates?, B: strongest right-wing candidate?, C: polling numbers (Lula vs Flávio Bolsonaro)?",
+        "F-20": "A: among highest total doses?, B: surpassed US in proportion vaccinated?, C: above or below OECD average?",
+        "F-21": "A: what office does Flávio hold?, B: senator or congressman?, C: which state?",
+        "F-25": "A: which state does Zema govern?, B: which party?, C: can he run for re-election?"
+      }
+    }
+  },
+  "summary": {
+    "total_groups": 25,
+    "true_wording_variants": 12,
+    "mostly_same_fact": 2,
+    "different_questions_same_topic": 11
+  },
+  "analysis_guidance": {
+    "wording_sensitivity": "Use only true_wording_variants groups (F-01, F-03, F-05, F-06, F-07, F-08, F-09, F-10, F-13, F-15, F-16, F-23) for wording sensitivity analysis. F-22 and F-24 can be included with a note.",
+    "accuracy_by_model": "All groups valid — each variant is its own factual question with its own ground truth.",
+    "consistency": "For different_questions_same_topic groups, do not compute wording consistency. Report each variant as an independent question.",
+    "topic_cluster": "The 11 different_questions groups still form useful topic clusters (e.g. 'Bolsonaro conviction', 'January 8', 'Flávio Bolsonaro') — just not wording variants."
+  }
+}

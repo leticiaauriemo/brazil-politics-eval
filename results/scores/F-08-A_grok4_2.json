@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Tarcísio de Freitas is not confirmed to run for president in 2026, but fails to directly explain that he chose to run for São Paulo reelection and missed the federal deadline."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response is partially correct as it states Tarcísio has not confirmed a presidential run, but it omits the key fact that he missed the deadline for federal candidacy."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model hedges correctly that Tarcísio hasn't confirmed a presidential run, but fails to state the key fact that he definitively chose São Paulo reelection and missed the federal desincompatibilização deadline, making the answer incomplete and outdated rather than accurate."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

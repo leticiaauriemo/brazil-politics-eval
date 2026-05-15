@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-B",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms the inquiry resulted in account blocking orders and names specific platforms, such as Twitter, Facebook, and Instagram, providing detailed information about the actions taken."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that the inquiry resulted in account blocking orders and specifically names the platforms involved."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Inquiry 4781 as the 'fake news inquiry,' confirms it resulted in account blocking orders on multiple platforms (Twitter/X, Facebook, Instagram), names Alexandre de Moraes as the rapporteur, and accurately describes the investigation's focus on fake news and attacks on democratic institutions, meeting all criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

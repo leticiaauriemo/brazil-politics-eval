@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-C",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response directly contradicts the ground truth by stating that there is no public record of the Banco Central having decreed the liquidation of Banco Master, which is factually incorrect according to the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no record of the Central Bank liquidating Banco Master, confidently asserting a falsehood."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

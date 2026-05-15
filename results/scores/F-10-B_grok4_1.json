@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-B",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the Bolsonaro government and the year 2021 for the dissolution but omits the crucial detail of PGR Augusto Aras's direct involvement, which is a key part of the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the dissolution of the task force during Bolsonaro's government but lacks specific mention of PGR Augusto Aras and the context of tensions with Lava Jato."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

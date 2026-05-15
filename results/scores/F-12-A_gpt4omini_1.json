@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-A",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately describes the January 8th events, including the perpetrators, the locations invaded, and the nature of the acts."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately describes the storming and vandalism of all three branches by Bolsonaro supporters, including key details such as the date, locations, and motivations behind the event."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately describes the January 8, 2023 storming and vandalism of all three branches (Palácio do Planalto, Congresso Nacional, and STF) by Bolsonaro supporters contesting the 2022 election results, with key details about arrests and condemnation."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

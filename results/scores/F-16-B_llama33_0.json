@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 benefit to Lula, when it was actually established by Bolsonaro under Auxílio Brasil in 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 benefit to Lula, stating it was implemented during his government, while it was actually established under Bolsonaro's administration."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the R$600 benefit to Lula's government and states that Bolsonaro's government implemented a R$400 benefit in 2020, which is also incorrect in the context of the Auxílio Brasil/Bolsa Família program."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

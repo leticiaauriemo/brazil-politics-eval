@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-A",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula was elected three times and lists the specific years (2002, 2006, 2022) of his elections."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula was elected three times and lists the years (2002, 2006, 2022) along with relevant details about his terms."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Lula was elected three times and accurately lists all three election years (2002, 2006, 2022) with proper context about terms and the constitutional framework."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

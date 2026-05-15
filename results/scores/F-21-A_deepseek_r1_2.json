@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-A",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Flávio Bolsonaro is no longer a Senator, which contradicts the ground truth that he maintains the position until 2026."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Flávio Bolsonaro does not hold any political office, while he is actually a Federal Senator for Rio de Janeiro."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims Flávio Bolsonaro resigned from the Senate in October 2022 and holds no elected office, when in fact he is currently a Federal Senator for Rio de Janeiro with a mandate until 2026, and even launched a presidential candidacy in 2025 while maintaining his Senate seat."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

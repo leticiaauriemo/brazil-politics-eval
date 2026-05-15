@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-B",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message that fails to provide any factual claim about Flávio Bolsonaro's political position, making it impossible to evaluate against the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and makes no factual claim about Flávio Bolsonaro’s office."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message that provides no factual information about Flávio Bolsonaro's political position, making it impossible to evaluate the accuracy of any claim about whether he is a senator or deputy."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

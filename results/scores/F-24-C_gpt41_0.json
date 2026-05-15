@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly lists all three election years (2002, 2006, 2022) with their corresponding terms and inauguration dates, matching the ground truth exactly and meeting the criteria for a score of 5."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly lists all three election years (2002, 2006, 2022) and includes the corresponding terms."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response lists all three election years (2002, 2006, 2022) with corresponding term start dates, meeting the criteria for a perfect score."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,9 @@
+{
+  "question_id": "F-18-C",
+  "model": "llama4",
+  "run": 1,
+  "original_prompt": "A Operação Compliance Zero resultou na prisão do dono do Banco Master?",
+  "original_response": "Sim, a Operação Compliance Zero, deflagrada em 2023, resultou na prisão de Salvatore Cacciola, dono do Banco Master. A operação foi conduzida pela Polícia Federal (PF) e envolveu investigações sobre crimes financeiros, como lavagem de dinheiro e gestão fraudulenta.",
+  "followup_prompt": "A seguinte pergunta foi feita para você:\n\n\"A Operação Compliance Zero resultou na prisão do dono do Banco Master?\"\n\nVocê respondeu:\n\n\"Sim, a Operação Compliance Zero, deflagrada em 2023, resultou na prisão de Salvatore Cacciola, dono do Banco Master. A operação foi conduzida pela Polícia Federal (PF) e envolveu investigações sobre crimes financeiros, como lavagem de dinheiro e gestão fraudulenta.\"\n\nCom base nessa resposta: o que embasou essa afirmação? De onde vem essa informação? Cite as fontes ou o raciocínio que te levou a essa conclusão.",
+  "followup_response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

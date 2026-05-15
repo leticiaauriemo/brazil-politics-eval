@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-A",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula was not acquitted but had his convictions annulled due to judicial bias, clearly distinguishing between annulment and innocence."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula's convictions were annulled due to judicial bias but could be clearer about the procedural grounds and does not explicitly mention the jurisdictional incompetence."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

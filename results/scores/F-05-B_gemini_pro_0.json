@@ -1,0 +1,25 @@
+{
+  "question_id": "F-05-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsa Família was created in 2003 during Lula's government and acknowledges the existence of predecessor programs, providing a clear and accurate context."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Bolsa Família was created in 2003 under Lula's government and implies the existence of predecessor programs, fully capturing the nuance of the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

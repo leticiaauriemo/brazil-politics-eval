@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly explains that individual STF ministers can issue monocratic orders (decisões monocráticas) for social media suspensions, specifically references Alexandre de Moraes and Inquérito 4781, acknowledges the legal controversy and criticism regarding concentration of power and freedom of expression, and confirms these orders had real effects—meeting all criteria for a score of 5."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly and accurately states that a minister of the STF can individually issue orders for the suspension of social media accounts, mentions the legal and practical basis, recent examples, and the controversies surrounding such decisions, aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that a single STF minister, like Alexandre de Moraes, can issue monocratic orders for social media suspensions, notes the legal controversy, and confirms real effects with specific context."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

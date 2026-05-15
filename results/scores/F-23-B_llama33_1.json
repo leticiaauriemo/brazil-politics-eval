@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-B",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states there are no legal impediments for Lula to run in 2026 but hedges excessively and includes unnecessary details about past convictions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that there are no legal impediments for Lula to run in 2026, but it hedges excessively by emphasizing potential future changes and the implications of the Lei da Ficha Limpa."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states there are no clear legal impediments but misses the crucial point about non-consecutive terms and incorrectly focuses on the annulled convictions and the 'Ficha Limpa' law as potential future issues, which are not relevant to the re-election question itself."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

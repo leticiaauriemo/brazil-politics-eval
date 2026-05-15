@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-A",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms Lula declared the emergency in January 2023 and contextualizes the crisis as aggravated by the presence of illegal miners, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Lula's declaration of a public health emergency in January 2023 and provides specific context about the crisis being exacerbated by Bolsonaro's policies, including illegal mining and weakened regulatory agencies."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Lula's January 2023 emergency declaration for Yanomami, accurately contextualizes the crisis (malnutrition, malaria, illegal mining), and implicitly references the aggravation during the previous period by mentioning intensified operations against illegal mining and emergency health interventions."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

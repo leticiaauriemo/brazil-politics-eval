@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Confirms criminal charges and lists key Compliance Zero crimes including fraudulent management, money laundering, criminal organization, and corruption, with accurate dates of both arrests."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Daniel Vorcaro's criminal charges, details both arrests, and lists the key crimes from Operação Compliance Zero as required by the resolution criteria."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms criminal charges and specifically lists key crimes from Operation Compliance Zero (fraudulent management, criminal organization, money laundering, etc.) while accurately detailing arrest dates and legal context."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

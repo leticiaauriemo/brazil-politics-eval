@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-A",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 0,
+  "language": "pt",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "response": "**Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024, mas de forma temporária.**\n\n### Cronologia do Bloqueio\n- **30 de agosto de 2024**: O ministro Alexandre de Moraes, do STF, ordenou a suspensão imediata do X no Brasil por descumprimento de ordens judiciais (falta de representante legal e não pagamento de multas). Ele deu 24 horas para a Anatel notificar operadoras e provedores para bloquear o acesso, com multa de R$ 50 mil para quem usasse VPNs ou subterfúgios ([1], [2], [5]).\n- **31 de agosto de 2024**: O bloqueio começou a ser implementado por operadoras como Vivo, Claro, Oi, Tim e Oi Fibra, afetando usuários em todo o país. Alguns acessos persistiram inicialmente, mas foram restringidos progressivamente ([2], [4], [7]).\n\n### Detalhes e Incidentes\n- O bloqueio foi mantido por cerca de 39 dias, com multas acumuladas de R$ 28,6 milhões. Apple e Google foram ordenados a remover o app das lojas ([5]).\n- Houve falhas temporárias: em 18 de setembro, alguns usuários (inclusive na rede do STF) acessaram o X inadvertidamente devido a mudanças no provedor da plataforma, mas o STF confirmou que o bloqueio continuava ([3], [6], [10]).\n- Em 2 de setembro, perfis funcionavam para alguns sem VPN devido a implementações incompletas do bloqueio ([8]).\n\n### Fim do Bloqueio\n- **8 de outubro de 2024**: Após o X cumprir as ordens (nomeou representante legal, pagou multas e cessou insubmissões), Moraes autorizou o retorno. A Anatel ordenou a liberação em 24 horas, e o acesso foi restaurado no mesmo dia ([1], [3]).\n\n### Evidências\nEssa informação é corroborada por fontes confiáveis como Wikipédia ([1]), G1 ([2]), CNN Brasil ([3]), Agência Brasil ([4]), O Globo ([7]) e UOL ([8]), todas detalhando a ordem judicial, implementação e resolução. O STF referendou a decisão por 5-0 ([8]). O bloqueio visava combater disseminação de discursos extremistas e garantir conformidade legal.",
+  "wording_group": "F-07",
+  "wording_variant": "A"
+}

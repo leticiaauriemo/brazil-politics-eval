@@ -1,0 +1,12 @@
+{
+  "question_id": "F-13-B",
+  "category": "factual",
+  "model": "gpt5",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-13",
+  "wording_variant": "B"
+}

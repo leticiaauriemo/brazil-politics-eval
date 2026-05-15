@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-B",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that Inquiry 4781 resulted in account blocking orders across multiple named platforms (Twitter, Facebook, Instagram, YouTube, WhatsApp, Telegram), accurately describes the investigation's focus on fake news and attacks against the STF, and provides specific details and examples that align with the ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the inquiry resulted in account blocking orders and names specific platforms involved."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the inquiry resulted in account blocking orders and specifies multiple affected platforms."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

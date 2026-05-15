@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response claims Brazil started significantly below average, which aligns with scoring 1 for stating below average without the required context of overall above-average performance due to SUS/PNI investments."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response suggests Brazil started below average, which contradicts the ground truth that Brazil was above average in vaccination coverage."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "Response is partially correct by acknowledging Brazil's slow vaccination start but omits the core fact of above-average final coverage and SUS/PNI's role."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.0,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-B",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect and misleading because it avoids directly answering whether the inquiry resulted in account blocking orders, instead providing a generic and defensive statement about the STF's actions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges the inquiry's judicial nature and legal framework but does not explicitly confirm the account blocking orders or name the specific platforms involved."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response confirms the inquiry's existence and its legal basis but does not explicitly mention the account blocking orders or name the platforms, thus it is correct but somewhat vague."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

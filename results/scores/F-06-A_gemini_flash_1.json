@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-A",
+  "model": "gemini_flash",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Moraes ordered social media suspensions but lacks specific details about Inquiry 4781 or the platforms affected."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Alexandre de Moraes ordered suspensions of social media accounts in the context of Inquiry 4781, mentioning the relevant platforms and providing specific details about the nature of the orders."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Moraes ordered social media suspensions but lacks specific details about Inquiry 4781 and the platforms affected."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": false
+}

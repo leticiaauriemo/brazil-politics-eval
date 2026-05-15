@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazil surpassed the US in double-dose vaccination coverage, provides approximate data, and explains the role of SUS/PNI and other contextual factors."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil surpassed the US in vaccination coverage but provides inaccurate data and timing, missing the specific April 2022 figure of 76.49%."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Brazil surpassed the US in vaccination rates in November 2021 with around 65-70% coverage, which contradicts the ground truth of 76.49% in April 2022."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that there is no penalty imposed on Jair Bolsonaro by the STF in 2025, contradicting the ground truth of a 27 years and 3 months prison sentence."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response confidently states a falsehood regarding Jair Bolsonaro's sentencing, claiming there is no penalty imposed by the STF in 2025."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that there is no conviction or sentence imposed on Jair Bolsonaro by the STF in 2025, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

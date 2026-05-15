@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-B",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the dissolution of the Lava Jato task force during Bolsonaro's government but lacks details about PGR Augusto Aras and the context of the dissolution."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the Bolsonaro government but lacks specific details about PGR Aras and the context of the dissolution."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

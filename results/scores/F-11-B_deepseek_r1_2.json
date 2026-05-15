@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies 'pedaladas fiscais' as the reason for Dilma's impeachment and explains them, but it excessively qualifies the context surrounding the impeachment, which slightly detracts from the clarity of the core factual claim."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Dilma Rousseff was impeached for fiscal responsibility violations related to 'pedaladas fiscais' and not for personal corruption, while also providing context about the political environment."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies pedaladas fiscais as the formal legal basis for impeachment, accurately explains what they were (delayed transfers to public banks like BNDES, BB, and CEF to mask fiscal deficits), clearly states Dilma was not personally accused of corruption in the impeachment process, and appropriately contextualizes the political role of the Lava Jato corruption scandal."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "Não exatamente. É importante distinguir entre anulação processual e declaração de inocência:\n\n**O que o STF efetivamente decidiu:**\n\n1. **Março de 2021** — A 2ª Turma do STF, no julgamento do *habeas corpus*, declarou que o então juiz Sergio Moro foi **parcial** ao conduzir os processos contra Lula na Lava Jato de Curitiba. Isso anulou as provas e os atos decisórios.\n\n2. **Abril de 2021** — O Plenário do STF confirmou que a **Justiça Federal de Curitiba era incompetente** para julgar os casos (triplex do Guarujá e sítio de Atibaia), pois não havia conexão direta com desvios na Petrobras. Os processos foram remetidos à Justiça Federal do DF.\n\n**O que isso significa juridicamente:**\n\n- As condenações foram **anuladas** (tornadas sem efeito), e Lula recuperou seus direitos políticos.\n- Isso **não equivale a uma absolvição de mérito**, ou seja, o STF não declarou que Lula é inocente dos fatos imputados — apenas que o processo teve vícios graves (parcialidade do juiz e incompetência do juízo).\n- Teoricamente, os casos poderiam ser reanalisados pelo juízo competente, mas isso não ocorreu de forma efetiva, e parte das acusações prescreveu ou perdeu objeto.\n\n**Resumo:** Lula deixou de ser considerado condenado e voltou à condição de réu sem culpa formada (ou teve os casos arquivados em parte), mas o STF não fez um juízo de mérito declarando sua inocência.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

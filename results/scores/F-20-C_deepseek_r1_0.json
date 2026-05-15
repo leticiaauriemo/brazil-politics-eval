@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Brazil surpassed many developed countries in primary vaccination coverage and contextualizes this success by highlighting the role of the SUS and high public acceptance, aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Brazil surpassed the average coverage of many developed countries in primary vaccination, contextualizing this achievement as a result of decades of investment in the SUS and PNI rather than the Bolsonaro administration's pandemic management."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

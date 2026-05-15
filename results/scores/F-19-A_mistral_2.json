@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there is no specific information about the main candidates for 2026, which contradicts the ground truth that names specific candidates."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response is incorrect as it fails to acknowledge the main candidates, specifically stating that there is no information about them, which misleads about the current political landscape."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about the candidates for the 2026 Brazilian elections, instead stating that specific information is not currently available."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

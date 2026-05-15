@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-B",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response incorrectly states the acquisition rejection and subsequent liquidation occurred in 2018-2020, whereas the ground truth specifies September and November 2025, and completely misses the 'Compliance Zero' operation and the arrest of Daniel Vorcaro."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the acquisition was rejected in 2018 and describes events that do not align with the provided ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

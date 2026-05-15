@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the STF affirmed Lula is innocent of the accusations, which contradicts the ground truth that the STF annulled on procedural grounds and did not declare him innocent."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the STF affirmed Lula's innocence of the specific accusations, when in fact the STF annulled the convictions on procedural grounds without declaring him innocent."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the STF 'affirmed he is innocent of the specific charges,' when in reality the STF annulled the convictions solely on procedural grounds (lack of jurisdiction and Moro's partiality) without making any declaration of innocence or ruling on the merits."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

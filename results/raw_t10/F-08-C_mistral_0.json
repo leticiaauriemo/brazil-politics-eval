@@ -1,0 +1,12 @@
+{
+  "question_id": "F-08-C",
+  "category": "factual",
+  "model": "mistral",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-08",
+  "wording_variant": "C"
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states the task force was shut down in 2021 and distinguishes between the task force ending and the investigations/convictions status, but incorrectly attributes the decision to the Federal Police and Sergio Moro's departure rather than PGR Aras."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the Lava Jato task force was dissolved in 2021 by the PGR and distinguishes between the task force ending and the ongoing investigations."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

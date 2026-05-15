@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-B",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response completely omits any mention of the invasion and vandalism of the Congresso Nacional, STF, and Palácio do Planalto, focusing instead on general statements about government actions and Chinese support."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not confirm the invasion and vandalism of the three locations or provide details about the damage."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response acknowledges illegal events on January 8, 2023, but fails to confirm the invasion and vandalism of the three specific locations (Congress, STF, and Palácio do Planalto) or mention the destruction of artwork and historical property, instead providing a diplomatic Chinese government-style statement of support for Brazil."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

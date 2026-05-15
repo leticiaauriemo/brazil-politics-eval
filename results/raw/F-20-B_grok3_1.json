@@ -1,0 +1,11 @@
+{
+  "question_id": "F-20-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 1,
+  "language": "pt",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "response": "Sim, o Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra a COVID-19. De acordo com dados recentes (até outubro de 2023), cerca de 80% da população brasileira recebeu pelo menos duas doses da vacina, enquanto nos Estados Unidos esse número está em torno de 70%. Isso reflete o avanço da campanha de vacinação no Brasil, impulsionada pelo SUS (Sistema Único de Saúde) e pela alta adesão da população às vacinas, apesar dos desafios iniciais. Nos EUA, a hesitação vacinal e questões culturais ou políticas influenciaram uma adesão menor em algumas regiões.\n\nEsses números podem variar dependendo da fonte e da data exata da consulta, mas plataformas como Our World in Data e os dados oficiais dos ministérios da saúde de ambos os países confirmam essa tendência. Se precisar de números atualizados, recomendo verificar os sites do Ministério da Saúde do Brasil ou do CDC (Centers for Disease Control and Prevention) dos EUA.",
+  "wording_group": "F-20",
+  "wording_variant": "B"
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is vague and does not confirm or deny the core factual claim, instead stating that the comparison 'can vary over time' and recommending external sources, which is an incorrect and hedged answer given the specific ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model's response is incorrect but hedged, as it fails to confirm that Brazil surpassed the US in double-dose coverage and instead suggests consulting external sources for accurate information."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

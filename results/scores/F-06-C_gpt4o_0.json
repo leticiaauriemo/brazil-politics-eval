@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that a single justice can order suspensions and acknowledges the controversy, but it doesn't explicitly mention the 'monocratic' nature of Moraes's orders or the specific inquiry, making it less specific than a 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that a Supreme Court minister can order social media suspensions, but it lacks specific mention of Moraes' individual orders and the legal controversy surrounding them."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

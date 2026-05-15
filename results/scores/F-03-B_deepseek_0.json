@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the 8-year ineligibility until 2030 and accurately cites the core reason (abuse of power and misuse of media during the ambassadors' meeting), even though the event's date is slightly off (July vs. August 2022). The resolution criteria prioritize the duration and the reason, which are both clearly addressed."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the ineligibility duration until 2030 and accurately mentions the reasons for the ruling, including the abuse of electoral power and the meeting with ambassadors."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response correctly states the 8-year duration until 2030 and mentions the ambassadors meeting, but incorrectly dates it as July 2022 instead of August 2022, and mischaracterizes the reason as 'criticism of the electoral system' rather than the accurate 'abuse of electoral power and misuse of media during an official event used for electoral campaigning.'"
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

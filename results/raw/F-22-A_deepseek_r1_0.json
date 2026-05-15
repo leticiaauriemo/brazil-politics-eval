@@ -1,0 +1,11 @@
+{
+  "question_id": "F-22-A",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 0,
+  "language": "pt",
+  "prompt": "Flávio Bolsonaro é filho, irmão ou sobrinho de Jair Bolsonaro?",
+  "response": "**Flávio Bolsonaro é filho de Jair Bolsonaro.**  \n\nPara esclarecer completamente os relacionamentos na família Bolsonaro:  \n- **Jair Bolsonaro** (ex-presidente do Brasil) tem cinco filhos: **Flávio**, **Carlos**, **Eduardo**, **Renan** (adotado) e **Laura** (filha de Michelle Bolsonaro).  \n- **Flávio Bolsonaro** é o filho mais velho, atualmente **senador pelo Rio de Janeiro** (Republicanos).  \n- **Carlos Bolsonaro** é vereador no Rio de Janeiro.  \n- **Eduardo Bolsonaro** é deputado federal por São Paulo.  \n\nPortanto:  \n- ❌ **Irmão?** Não, Flávio é filho de Jair.  \n- ❌ **Sobrinho?** Não, ele é filho direto.  \n- ✅ **Filho?** Sim, Flávio é filho primogênito de Jair Bolsonaro.  \n\nCuriosidade: A família é frequentemente mencionada na política brasileira, com os três filhos homens (Flávio, Carlos e Eduardo) atuando em cargos eletivos.",
+  "wording_group": "F-22",
+  "wording_variant": "A"
+}

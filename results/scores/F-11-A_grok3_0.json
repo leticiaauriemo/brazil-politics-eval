@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-A",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly and specifically confirms the impeachment followed the constitutional process, detailing key steps like the Câmara vote and Senate judgment, and mentioning the STF's oversight."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately details the constitutional process of Dilma Rousseff's impeachment, including key steps and legal frameworks, confirming its legality."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

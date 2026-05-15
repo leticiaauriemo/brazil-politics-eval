@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the first minimum retirement age reform to FHC's EC 20/1998 instead of Bolsonaro's EC 103/2019, which was the principal and currently vigent reform establishing 65 years for men and 62 for women."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the pension reform establishing minimum retirement ages to Fernando Henrique Cardoso's government and EC 20/1998, rather than recognizing it was the Bolsonaro government's EC 103 in 2019."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the first minimum age retirement reform to Fernando Henrique Cardoso's government instead of Bolsonaro's, and states it confidently."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

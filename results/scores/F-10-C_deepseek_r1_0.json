@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly names Augusto Aras as the Procurador-Geral da República and specifies the year 2021."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Augusto Aras as the Procurador-Geral da República responsible for the closure in 2021, providing specific details about the ordinance and context."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Augusto Aras as the person who ordered the closure, but gives the wrong date (September 15, 2021, via Portaria nº 1.562/2021) rather than February 2021 as stated in the ground truth, earning partial credit."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

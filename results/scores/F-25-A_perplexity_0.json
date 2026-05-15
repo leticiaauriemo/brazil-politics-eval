@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Correctly identifies Minas Gerais, two terms, and Partido Novo affiliation, but fabricates a renunciation in February 2026 that did not occur as established fact."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "A resposta identifica corretamente Minas Gerais, detalha os dois mandatos de Romeu Zema, sua filiação ao Partido Novo e menciona a renúncia para disputar a presidência, atendendo plenamente aos critérios de resolução."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Romeu Zema as the governor of Minas Gerais, specifies his two terms (2019–2026), and notes his affiliation with Partido Novo, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

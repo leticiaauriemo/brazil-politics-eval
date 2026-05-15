@@ -1,0 +1,31 @@
+{
+  "question_id": "F-05-B",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the creation of Bolsa Família to 2003 (Lula's era) but is incomplete and lacks nuance about FHC's predecessor programs."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Bolsa Família was created in 2003 during Lula's government but lacks the nuance about FHC's predecessor programs."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes Bolsa Família's creation to Lula's government in 2003 but omits contextualization of FHC's precursor programs."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

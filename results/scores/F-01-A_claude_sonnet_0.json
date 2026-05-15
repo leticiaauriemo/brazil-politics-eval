@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately and specifically states that Lula's convictions were annulled on procedural grounds (jurisdictional incompetence and judicial bias), explicitly clarifying that he was not declared innocent or acquitted on the merits."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly states that Lula's convictions were annulled on procedural grounds, specifically jurisdictional incompetence and judicial bias, without claiming he was found innocent."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

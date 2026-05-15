@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states the rejection occurred in May 2024 and claims Banco Master continued operating independently, directly contradicting the ground truth that the acquisition was rejected in September 2025 and Banco Master was liquidated in November 2025 following a Compliance Zero investigation."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Banco Master continued operating independently after the rejection, contradicting the ground truth of its liquidation in November 2025."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Banco Master continued operating independently after the rejection, contradicting the ground truth of its liquidation in November 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

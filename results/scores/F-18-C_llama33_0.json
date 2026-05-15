@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies the person arrested and does not mention the influencer scheme, making it factually incorrect."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lúcio Bolonha Funaro was arrested instead of Daniel Vorcaro and fails to mention the influencer scheme."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Compliance Zero arrested Lúcio Bolonha Funaro in 2018, when the ground truth indicates Daniel Vorcaro was arrested in 2025 and 2026."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

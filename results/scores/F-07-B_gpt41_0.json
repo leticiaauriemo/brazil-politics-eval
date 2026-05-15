@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly claims the X suspension did not occur as of its knowledge cutoff (June 2024), when the ground truth establishes that Minister Moraes ordered the suspension for specific reasons (non-compliance with court orders and lack of legal representative) and X was unblocked on October 8, 2024 after meeting conditions—the model states the opposite and expresses false confidence about non-suspension."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the X platform was not suspended in Brazil by June 2024, contrary to the ground truth indicating a suspension ordered by the STF due to non-compliance with judicial orders and lack of a legal representative in Brazil."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that X was not suspended in Brazil by June 2024, ignoring the actual suspension and reinstatement in August and October 2024."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

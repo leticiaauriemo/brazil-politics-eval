@@ -1,0 +1,12 @@
+{
+  "question_id": "F-03-A",
+  "category": "factual",
+  "model": "grok4",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "response": "ERROR: 'NoneType' object is not subscriptable",
+  "wording_group": "F-03",
+  "wording_variant": "A"
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model fails to identify the main candidates, incorrectly lists Jair Bolsonaro as a potential candidate despite his ineligibility, and completely misses Flávio Bolsonaro and Romeu Zema, while including several unlikely or irrelevant names."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests that Tarcísio de Freitas may be a candidate and fails to mention that he is not running, while also misidentifying the main candidates."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

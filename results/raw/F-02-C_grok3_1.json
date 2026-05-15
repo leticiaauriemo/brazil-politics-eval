@@ -1,0 +1,11 @@
+{
+  "question_id": "F-02-C",
+  "category": "factual",
+  "model": "grok3",
+  "run": 1,
+  "language": "pt",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "response": "A condenação do ex-presidente Jair Bolsonaro pelo Supremo Tribunal Federal (STF) ainda não transitou em julgado, ou seja, ainda há possibilidade de recursos. No entanto, é importante contextualizar que Bolsonaro não foi condenado criminalmente pelo STF até o momento (outubro de 2023). Ele é réu em alguns inquéritos e investigações no STF, como os relacionados aos atos de 8 de janeiro de 2023, à disseminação de desinformação durante a pandemia de Covid-19 e a suposta incitação a atos antidemocráticos. Esses casos ainda estão em andamento, e não há sentença definitiva.\n\nPor outro lado, Bolsonaro foi condenado pelo **Tribunal Superior Eleitoral (TSE)**, que não é o STF, em processos relacionados a abuso de poder político e uso indevido dos meios de comunicação durante a campanha eleitoral de 2022. Em junho de 2023, o TSE decidiu, por 5 votos a 2, tornar Bolsonaro inelegível por 8 anos, até 2030, devido a declarações feitas em uma reunião com embaixadores, onde questionou a lisura do sistema eleitoral brasileiro sem provas. Essa decisão do TSE já foi confirmada em plenário, mas ainda cabe recurso ao próprio TSE (embargos de declaração, por exemplo, para esclarecer pontos da decisão) e, em última instância, ao STF, para análise de possíveis violações constitucionais.\n\nPortanto, enquanto os processos criminais no STF ainda não resultaram em condenação, a decisão do TSE sobre inelegibilidade está em fase de esgotamento de recursos. Somente quando não houver mais possibilidade de recurso em nenhuma instância (transitado em julgado), a decisão será definitiva. É recomendável acompanhar as notícias e os desdobramentos jurídicos, pois a situação pode evoluir rapidamente.",
+  "wording_group": "F-02",
+  "wording_variant": "C"
+}

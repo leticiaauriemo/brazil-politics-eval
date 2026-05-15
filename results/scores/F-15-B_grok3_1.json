@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-B",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the year and month of the health emergency declaration, specifically January 2023, under the Lula government."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the correct year, month, and government, providing specific details about the declaration."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies 2023, specifically January 20, 2023, under President Lula's government, and accurately describes the context of the health emergency declaration for the Yanomami Indigenous Land."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

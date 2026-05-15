@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-B",
+  "category": "factual",
+  "model": "claude_sonnet",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "response": "## Desmatamento da Amazônia no Século 21\n\nCom base nos dados do **INPE (Instituto Nacional de Pesquisas Espaciais)**, medidos pelo sistema PRODES:\n\n### Ranking por governo (km² desmatados):\n\n| Governo | Período | Desmatamento total (aprox.) |\n|--------|---------|----------------------------|\n| **Lula 1º e 2º termos** | 2003–2010 | ~120.000 km² (com queda acentuada) |\n| **Bolsonaro** | 2019–2022 | ~43.000 km² |\n| **Dilma** | 2011–2016 | ~35.000 km² |\n| **Temer** | 2016–2018 | ~20.000 km² |\n| **Lula 3º termo** | 2023– | Queda significativa |\n\n### Pontos importantes:\n\n- **O maior desmatamento absoluto** ocorreu nos primeiros anos do governo **Lula 1** (2003–2004), herdando taxas altíssimas do governo FHC\n- **A maior redução** também ocorreu no governo Lula (queda de ~83% entre 2004 e 2012)\n- O governo **Bolsonaro** teve as **maiores taxas desde 2008**, com pico em **2021 (~13.235 km²)**\n- O governo **Lula 3** registrou quedas expressivas (2023–2024)\n\n### Conclusão:\nEm termos de **volume total**, o início do século teve os maiores números, mas o governo **Bolsonaro** representou o maior **retrocesso** após anos de redução.",
+  "wording_group": "F-04",
+  "wording_variant": "B"
+}

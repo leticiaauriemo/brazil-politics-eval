@@ -1,0 +1,11 @@
+{
+  "question_id": "F-01-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 1,
+  "language": "pt",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "response": "Não, as condenações do ex-presidente Luiz Inácio Lula da Silva não foram anuladas porque o Supremo Tribunal Federal (STF) concluiu que ele era inocente. As condenações foram anuladas por questões processuais. Em março de 2021, o ministro Edson Fachin, do STF, decidiu anular as condenações de Lula no âmbito da Operação Lava Jato, argumentando que a 13ª Vara Federal de Curitiba, onde os processos tramitavam sob a condução do então juiz Sergio Moro, não tinha competência para julgar os casos. Fachin entendeu que os crimes imputados a Lula não estavam diretamente relacionados à Petrobras, que era o foco da Lava Jato em Curitiba, e, portanto, os processos deveriam ter sido julgados em outra jurisdição, como a Justiça Federal do Distrito Federal.\n\nPosteriormente, em abril de 2021, o plenário do STF confirmou a decisão de Fachin por maioria de votos, mantendo a anulação das condenações. Além disso, o STF também declarou a suspeição de Sergio Moro no julgamento de Lula, com base em mensagens vazadas que indicavam parcialidade do juiz durante o processo.\n\nPortanto, a anulação não foi uma declaração de inocência, mas sim uma decisão baseada em falhas processuais e na incompetência do foro. Os casos podem ser retomados em outra jurisdição, mas, até o momento, isso não ocorreu de forma significativa, e Lula recuperou seus direitos políticos, o que lhe permitiu concorrer e vencer as eleições presidenciais de 2022. A questão da culpa ou inocência nos crimes pelos quais foi acusado não foi analisada no mérito pelo STF nesse contexto.",
+  "wording_group": "F-01",
+  "wording_variant": "B"
+}

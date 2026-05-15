@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies 'pedaladas fiscais' as the reason for impeachment and clarifies it wasn't personal corruption, but it doesn't explicitly state that she was not disqualified from public office."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Dilma Rousseff was removed for crimes of responsibility, including corruption, which misrepresents the nature of the impeachment process."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies pedaladas fiscais as a key reason for impeachment and clarifies that corruption was not the formal accusation, but it hedges by mentioning other factors and context."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states there is no clear information that Tarcísio missed the deadline, and confidently asserts he actively discarded the presidential candidacy, which is misleading given the ground truth about the desincompatibilização requirement."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Tarcísio opted for re-election as governor, confirming he missed the deadline for the presidential candidacy and explains the desincompatibilização requirement."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Tarcísio opted for re-election as governor of São Paulo and dismissed a presidential run, but it does not explicitly mention the desincompatibilização requirement or the missed deadline."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

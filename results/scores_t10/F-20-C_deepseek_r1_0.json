@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "score": null,
+      "binary": null,
+      "reasoning": "Judge error: could not parse JSON from: ```json\n{\n \"binary\": 0,\n \"score\": 1,\n \"reasoning\": \"The model's response was an error message, not a"
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Brazil's vaccination coverage is above average compared to developed countries and correctly attributes this success to long-term investments in the SUS and PNI, rather than the Bolsonaro administration's pandemic management."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

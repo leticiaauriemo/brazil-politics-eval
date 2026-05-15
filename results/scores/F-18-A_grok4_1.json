@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model failed to provide a response due to an error, effectively not addressing the factual claim."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide any factual information about Daniel Vorcaro's arrests or the Operation Compliance Zero."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a system error message with no factual content, providing no information about Daniel Vorcaro's arrests."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

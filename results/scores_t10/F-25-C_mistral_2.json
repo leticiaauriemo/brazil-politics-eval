@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is not an answer to the factual question and instead only reports an error, so it does not correctly state that Zema is barred from running for governor after two consecutive terms."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "No factual answer was provided—only an API error—so the question was not addressed or answered correctly."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual information about Romeu Zema's eligibility or political situation, making it impossible to evaluate the accuracy of any claim about Brazilian politics."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

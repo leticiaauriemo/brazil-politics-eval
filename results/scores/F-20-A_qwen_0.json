@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Brazil as being among the top 5 countries in total doses applied, but it includes the EU as a separate entity and omits the crucial context about the SUS/PNI infrastructure versus the Bolsonaro government's stance."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Brazil's position as 4th in total COVID-19 vaccine doses administered and attributes the performance to the country's population size and vaccination infrastructure."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "F-03-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "response": "O Tribunal Superior Eleitoral (TSE) declarou Jair Bolsonaro inelegível por 8 anos, a contar a partir de 30 de junho de 2023, data da decisão. Isso significa que a proibição de concorrer a cargos eletivos dura até 30 de junho de 2031. Durante esse período, ele não poderá se candidatar a nenhum cargo público em eleições no Brasil. A inelegibilidade foi decidida com base em abuso de poder político e uso indevido dos meios de comunicação durante a campanha eleitoral de 2022.",
+  "wording_group": "F-03",
+  "wording_variant": "B"
+}

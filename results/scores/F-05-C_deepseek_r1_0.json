@@ -1,0 +1,31 @@
+{
+  "question_id": "F-05-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsa Família was launched in October 2003 during Lula's first term."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsa Família was launched in 2003 during Lula's government and provides detailed and accurate information."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsa Família was launched in October 2003 under Lula's first government, with the Medida Provisória nº 132/2003 and consolidated by Lei nº 10.836 of January 2004, and accurately identifies the predecessor programs from the FHC government."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

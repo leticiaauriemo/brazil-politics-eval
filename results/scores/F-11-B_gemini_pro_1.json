@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is hedged and vague, acknowledging complexity and a distinction between formal and political motives but failing to state or explain the core factual reason of pedaladas fiscais, making it incorrect."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response is correct but hedged, as it acknowledges the complexity without directly stating the core factual claim about pedaladas fiscais."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies 'pedaladas fiscais' as the formal reason for impeachment, explains them as delayed transfers to public banks violating fiscal law, and explicitly states Dilma wasn't personally accused of corruption."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

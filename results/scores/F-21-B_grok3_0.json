@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-B",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Flávio Bolsonaro is a senator, providing specific and accurate information about his election and previous roles."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Flávio Bolsonaro is a senator, correctly identifies his election and term start, and clarifies his previous role as a state deputy without any misleading information."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a senator (senador) elected in 2018 with tenure from 2019, accurately describes his prior role as state deputy (deputado estadual) for four consecutive terms, and correctly notes he was not a federal deputy (deputado federal)."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

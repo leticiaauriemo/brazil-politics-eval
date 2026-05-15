@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula can run in 2026, explains the constitutional logic of consecutive vs. non-consecutive terms, and mentions the TSE's implicit position by not considering him ineligible."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains the constitutional provisions regarding consecutive mandates, clarifies Lula's eligibility for the 2026 elections, and references the TSE's position."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

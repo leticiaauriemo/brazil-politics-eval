@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that all governments pay state advertising, details the Bolsonaro pattern of concentrating resources in friendly outlets, and notes Lula 3's broader distribution, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that state advertising is a historical practice in Brazil across all governments, acknowledges the specific patterns of the Bolsonaro and Lula administrations, and provides a clear and comprehensive overview."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

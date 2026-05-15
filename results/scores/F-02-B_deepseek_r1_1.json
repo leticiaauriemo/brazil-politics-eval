@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that there was no conviction in 2025, contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response confidently states that no sentence was imposed on Bolsonaro by the STF in 2025, which contradicts the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly claims no conviction occurred, stating it has no knowledge of events beyond June 2024, when in fact Bolsonaro was sentenced to 27 years and 3 months by the STF's First Panel in September 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro as the president who instituted the R$600 benefit, but incorrectly attributes it to the Auxílio Emergencial during the pandemic, rather than the Auxílio Brasil via PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 benefit to Bolsonaro but inaccurately states it was through the Auxílio Emergencial instead of the Auxílio Brasil under PEC 1/2022."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Bolsonaro as the originator of the R$600 benefit through Auxílio Brasil and mentions the context of the COVID-19 pandemic."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

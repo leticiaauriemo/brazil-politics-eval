@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the Bolsonaro government but provides incorrect minimum ages for retirement."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the pension reform to Bolsonaro and mentions the minimum ages, but it inaccurately states the ages as 62 for men and 60 for women instead of the correct 65 for men and 62 for women."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the Bolsonaro government and the year 2019, but provides incorrect minimum ages for retirement."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

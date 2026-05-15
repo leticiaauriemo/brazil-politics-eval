@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsonaro established the R$600 Auxílio Brasil via a PEC in 2022, provides accurate context, and distinguishes subsequent changes under Lula."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that Jair Bolsonaro established the R$600 Auxílio Brasil in 2022 via a PEC."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the R$600 value of Auxílio Brasil was established by President Jair Bolsonaro in 2022, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

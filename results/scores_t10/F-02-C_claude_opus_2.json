@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly expresses uncertainty about whether the conviction is final, hedging and failing to state the established fact that the conviction transited in rem judicatam in November 2025."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests that the conviction status is uncertain and resources may still be pending, despite the ground truth stating the conviction is final."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it does not have confirmed information about a final conviction of Jair Bolsonaro by the STF, implying uncertainty and a lack of knowledge about the conviction's finality."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

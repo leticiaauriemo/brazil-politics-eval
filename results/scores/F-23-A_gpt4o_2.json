@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-A",
+  "model": "gpt4o",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Lula can run for re-election, explains the non-consecutive mandate rule, and accurately identifies his current term as the first of a new cycle, aligning perfectly with the ground truth and resolution criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula can run for re-election in 2026, clearly explains the non-consecutive mandate logic, and correctly identifies his current term as the first of a new cycle."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

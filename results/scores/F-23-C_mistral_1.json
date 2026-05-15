@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Lula can run in 2026 based on the consecutive term rule, but it doesn't explicitly mention the reset of the cycle due to his time out of office or the TSE's position, making it slightly less specific than a perfect score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly explains the constitutional provision regarding consecutive terms but lacks specific mention of the TSE's position on Lula's eligibility."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

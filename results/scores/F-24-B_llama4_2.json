@@ -1,0 +1,25 @@
+{
+  "question_id": "F-24-B",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula is in his third term as president of Brazil and accurately lists the election years that led to these terms."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula is in his third term as president of Brazil, accurately reflecting the timeline of his elections."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

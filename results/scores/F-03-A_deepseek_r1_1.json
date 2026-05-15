@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-A",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states Bolsonaro is currently ineligible due to the TSE decision until 2030, but incorrectly attributes the TSE decision to the 'caso das joias da Arábia Saudita' instead of the meeting with ambassadors."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro is currently ineligible to run due to the TSE ruling and provides specific details about the reasons for his ineligibility."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

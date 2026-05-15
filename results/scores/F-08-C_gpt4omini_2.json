@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio has not announced his candidacy for president, which is true, but then speculates on reasons for not running for president, completely missing the actual reason for his ineligibility for federal office in 2026."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Tarcísio did not announce his presidential candidacy and provides speculative reasons, failing to mention his choice to run for SP reelection and missing the federal candidacy deadline."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not explain the actual reason (choosing SP reelection and missing the federal desincompatibilização deadline), instead offering vague speculative reasons, though it hedges by saying he hasn't officially announced and suggests following news for updates."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

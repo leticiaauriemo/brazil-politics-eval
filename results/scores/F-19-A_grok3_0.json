@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-A",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly lists Jair Bolsonaro as a possible candidate despite his ineligibility and states Tarcísio de Freitas is a strong name for president, which is incorrect as he is not running."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas is a strong candidate for the presidency, despite the fact that he is not running and has chosen to seek re-election as governor of São Paulo."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

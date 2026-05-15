@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-B",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states there is no current legal impediment and explains the non-consecutive mandate rule, but it hedges significantly by overemphasizing potential future legal challenges and interpretations that are not currently in effect."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that there is no legal impediment for Lula to run in 2026 and explains the constitutional non-consecutive mandate logic, but it hedges excessively by discussing potential future legal interpretations and uncertainties."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

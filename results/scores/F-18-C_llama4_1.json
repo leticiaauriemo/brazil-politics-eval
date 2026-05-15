@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-C",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies Salvatore Cacciola as the owner of Banco Master arrested in Operation Compliance Zero, and also gets the year of the operation wrong."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Salvatore Cacciola was arrested instead of Daniel Vorcaro, and it fails to mention the influencer scheme."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

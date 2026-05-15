@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "States 8 years until 2030 and mentions abuse of political power and misuse of media during 2022 elections as the reason."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the 8-year duration (until 2030) and cites the reason as abuse of political power and misuse of media during the ambassadors meeting, matching the ground truth."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the 8-year ineligibility period (until 2030) and explicitly mentions the reason (abuse of power and misuse of communication during the 2022 ambassadors meeting), aligning with the ground truth criteria for a full score."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

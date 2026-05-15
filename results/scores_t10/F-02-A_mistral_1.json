@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-A",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly says Bolsonaro had not been convicted by the STF as of October 2023 and fails to mention the 2025 conviction, sentence, or trânsito em julgado."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims Bolsonaro was not convicted, contradicting the 2025 STF conviction and its finalization in November 2025."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states that Bolsonaro was not convicted as of October 2023, which is factually incorrect given that the conviction occurred in September 2025 and became final in November 2025; while the model hedges by noting information may have changed, it confidently asserts the wrong fact for its knowledge cutoff."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

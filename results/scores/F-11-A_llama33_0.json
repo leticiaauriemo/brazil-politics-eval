@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the impeachment followed the constitutional process and mentions key steps, but it hedges excessively by emphasizing political criticisms."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately describes the impeachment process of Dilma Rousseff, detailing the key steps taken in accordance with the Brazilian Constitution."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the impeachment followed the constitutional process and provides specific details like the votes in the Câmara and Senate, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

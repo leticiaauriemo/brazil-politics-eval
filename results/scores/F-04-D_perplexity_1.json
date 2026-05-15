@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly provides Bolsonaro's average (~11,396 km²/year) but fails to provide Lula 3 figures, only implying higher Bolsonaro deforestation without making an explicit comparison."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro's higher deforestation average but omits Lula 3's figures and does not clearly state the comparison, making it only partially correct."
+    },
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response correctly provides Bolsonaro's deforestation figures but fails to state the core fact that Lula's third term had significantly lower average deforestation (~5,250 km²/year), instead suggesting uncertainty due to missing data while mentioning misleading partial claims about an 'increase' under Lula."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": true
+}

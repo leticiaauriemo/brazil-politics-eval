@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-A",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states that the Lava Jato task force was shut down in 2021 by the PGR and distinguishes between the task force ending and the status of investigations and convictions."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the task force was shut down in 2021 by the MPF, mentions the continuation of investigations, and notes the annulment of some convictions by the STF."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the task force was shut down in February 2021 and distinguishes between the task force ending and ongoing investigations, but does not specifically mention PGR Augusto Aras as the decision-maker, and includes some vague/hedged elements about the reasons."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

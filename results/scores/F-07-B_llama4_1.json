@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model did not provide an answer, instead attempting to use a tool to find the information, which is not a valid response for scoring."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response does not provide any factual information about the reasons for the suspension of X in Brazil, instead indicating a search for information."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide any factual explanation for the suspension of X in Brazil."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-C",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the name of the arrested individual as Daniel Birmann instead of Daniel Vorcaro, and also provides an incorrect date for the operation and the amount involved in the scheme, while omitting the influencer scheme entirely."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies the individual arrested as Daniel Birmann instead of Daniel Vorcaro and fails to mention the influencer scheme."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

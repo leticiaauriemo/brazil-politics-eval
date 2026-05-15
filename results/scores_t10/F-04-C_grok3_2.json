@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-C",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly calculates and states that Lula's first two terms had a higher average annual deforestation than Bolsonaro's, and crucially, it provides the essential context that Lula's period showed a strong downward trend while Bolsonaro's reversed this trend."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula's average annual deforestation was higher than Bolsonaro's and effectively contextualizes the declining trend under Lula compared to the reversal under Bolsonaro."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

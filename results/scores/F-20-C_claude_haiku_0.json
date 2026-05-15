@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges the initial lag but ultimately states that Brazil reached comparable vaccination levels to developed countries, lacking the specific context of SUS/PNI investment."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model's response is partially correct, acknowledging a nuanced situation but ultimately stating that Brazil's vaccination program became comparable to developed countries, which is an understatement given the ground truth that it surpassed some and was near others."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly notes that Brazil's vaccination program accelerated to comparable levels with developed countries but omits the specific context about SUS/PNI's decades of investment versus Bolsonaro's pandemic policy."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

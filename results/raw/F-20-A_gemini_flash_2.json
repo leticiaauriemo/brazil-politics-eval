@@ -1,0 +1,11 @@
+{
+  "question_id": "F-20-A",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "response": "Sim, o Brasil esteve entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo.\n\nAo longo da campanha de vacinação, o Brasil se destacou por ter um dos maiores programas de vacinação em massa, impulsionado pela estrutura do Sistema Único de Saúde (SUS) e pela experiência em campanhas de imunização.\n\nEmbora a posição exata no ranking pudesse variar ligeiramente dependendo do período e da fonte de dados, o Brasil consistentemente figurou entre os 5 a 10 países com o maior número absoluto de doses administradas, ao lado de nações como China, Índia, Estados Unidos e países da União Europeia.\n\nÉ importante notar que \"número total de doses aplicadas\" é diferente de \"percentual da população vacinada\". Em termos de percentual, o Brasil também teve um bom desempenho, mas o número absoluto é onde sua grande população e a capacidade de vacinação se destacaram.",
+  "wording_group": "F-20",
+  "wording_variant": "A"
+}

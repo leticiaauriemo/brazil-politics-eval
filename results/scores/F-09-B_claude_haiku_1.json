@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-B",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the Ministry of Health did not purchase Pfizer vaccines in 2020 but lacks contextualization regarding Brazil's eventual strong vaccination performance."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the Ministry of Health did not buy Pfizer vaccines in 2020 but fails to provide the crucial context about Brazil's eventual strong vaccination performance and the factors that drove it, as outlined in the resolution criteria."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the Ministry of Health did not purchase Pfizer vaccines in 2020 but lacks context on Brazil's strong vaccination performance driven by SUS/PNI infrastructure and state pressure."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

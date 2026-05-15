@@ -1,0 +1,12 @@
+{
+  "question_id": "F-17-B",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-17",
+  "wording_variant": "B"
+}

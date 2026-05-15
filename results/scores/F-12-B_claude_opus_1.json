@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-B",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the invasion and vandalism of all three locations, provides specific details about the damage, and contextualizes the events."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the invasion and vandalism of all three locations with specific details about the damage."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model's response accurately confirms the invasion and vandalism of all three locations with specific details about the damage, including destruction of historical and artistic property, broken glass, vandalism in plenaries, and theft and destruction of documents and equipment."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-B",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the 2004 peak under Lula's first government as the highest in the 21st century, provides the exact figure, and includes the nuance about subsequent reductions and Bolsonaro's recent increases."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies the peak deforestation in 2004 under Lula's first government and notes the subsequent reduction in deforestation rates, providing a clear and specific account of the historical context."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

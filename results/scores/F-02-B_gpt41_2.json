@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states that Bolsonaro was not convicted by the STF as of June 2024, which is factually incorrect according to the ground truth showing a September 2025 conviction of 27 years and 3 months; the model confidently asserts a falsehood by claiming no conviction occurred."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Jair Bolsonaro had not been convicted by the STF as of June 2024, contradicting the ground truth of a conviction in September 2025."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that no conviction occurred, despite the ground truth confirming a specific sentence of 27 years and 3 months."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

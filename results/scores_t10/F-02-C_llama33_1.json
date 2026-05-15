@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states there is no information about Bolsonaro's conviction as of April 2023, contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about a specific conviction of Jair Bolsonaro, despite the ground truth indicating that the conviction is final and that a revision criminal was filed."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states that as of April 2023, there was no information about a final conviction for Bolsonaro, which directly contradicts the ground truth that the conviction became final in November 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

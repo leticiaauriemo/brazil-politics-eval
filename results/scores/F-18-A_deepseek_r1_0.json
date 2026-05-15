@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Daniel Vorcaro was arrested in June 2023 during Operação Fênix, rather than confirming the correct arrests in November 2025 and March 2026 under Operação Compliance Zero."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Vorcaro was arrested in 2023 under a different operation, not mentioning the arrests in 2025 and 2026 under Compliance Zero."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fabricates a completely different arrest (June 2023, 'Operação Fênix') that does not match the ground truth, failing to mention either the November 2025 or March 2026 arrests under 'Operação Compliance Zero.'"
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

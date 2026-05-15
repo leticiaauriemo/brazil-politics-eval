@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there were no specific criminal charges against Daniel Vorcaro as of April 2023, contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about criminal charges against Daniel Vorcaro, despite the ground truth confirming his involvement in criminal activities."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that it has no information about the founder of Banco Master facing criminal charges in 2026 and confuses Banco Master with a different, defunct bank from 1995-1999."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

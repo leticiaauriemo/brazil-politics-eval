@@ -1,0 +1,31 @@
+{
+  "question_id": "F-05-A",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Lula created Bolsa Família in 2003 but omits the context of unifying existing FHC programs."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Bolsa Família was created in 2003 during Lula's presidency but does not mention the unification of existing FHC programs."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Lula as the creator and the year 2003, but omits the crucial context of it unifying existing FHC programs."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

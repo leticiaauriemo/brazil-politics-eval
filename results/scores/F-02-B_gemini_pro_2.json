@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that no sentence was imposed on Jair Bolsonaro, confidently asserting a falsehood."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states that there was no sentence imposed by the STF in 2025, which is incorrect and confident, as the ground truth indicates a conviction occurred in September 2025."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that no sentence has been imposed on the former president by the STF as of May 2024, which contradicts the ground truth provided about the conviction in September 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

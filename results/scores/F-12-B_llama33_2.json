@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-B",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the invasion and vandalism of all three locations but lacks specific details about the damage."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the invasion and vandalism of the specified locations, providing clear details about the events and their consequences."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the invasion and depredation of all three key locations (Congresso Nacional, STF, Palácio do Planalto) and mentions the damage to public buildings, aligning with the ground truth and resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the Banco Master's situation 'se tornou mais complicada' and 'enfrentou dificuldades financeiras e operacionais', implying it is still operating, when in fact it was liquidated."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model failed to state that the Banco Master was liquidated in November 2025 and did not mention the Compliance Zero operation."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the BRB acquisition was rejected by the Banco Central, but fails to mention the subsequent liquidation in November 2025 or the Operação Compliance Zero investigation, providing only vague speculation about possible outcomes instead of the actual events."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

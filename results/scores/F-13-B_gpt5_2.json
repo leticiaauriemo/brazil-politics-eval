@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the reform to the Bolsonaro government and identifies EC 103 with the correct date of November 2019."
+    },
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Bolsonaro government implemented EC 103 in November 2019, which was the first to establish minimum ages for retirement."
+    },
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the reform to the Bolsonaro government and provides the amendment number with a partial date, but omits the year and the fact that it was the first minimum age reform, making it partially correct with significant omissions."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

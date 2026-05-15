@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the establishment of the R$600 benefit to Bolsonaro and details the PEC 1/2022, while also explaining Lula's continuation of the program."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the establishment of the R$600 benefit to Bolsonaro under PEC 123/2022 and explains the transition to Lula's government."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Bolsonaro as the originator of the R$600 minimum, specifically citing the PEC (EC 123/2022) approved in July 2022 under the Auxílio Brasil program, and accurately explains that Lula maintained the value when relaunching as Bolsa Família."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

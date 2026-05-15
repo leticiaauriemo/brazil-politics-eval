@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Lula is not prevented from running in 2026 but fails to explain the crucial constitutional detail about consecutive vs. non-consecutive terms, which is the core of the question."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that there is no constitutional provision preventing Lula from running in 2026, but it lacks specific mention of the consecutive term limitation and the TSE's position."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

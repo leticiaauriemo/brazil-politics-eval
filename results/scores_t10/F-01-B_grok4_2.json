@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment of Lula's convictions was procedural, not substantive, and that the STF did not declare him innocent."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that the annulment was procedural and not a declaration of innocence by the STF."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and clearly explains that the annulments were procedural (lack of jurisdiction and judge's partiality), not substantive, and explicitly states the STF did not declare Lula innocent."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

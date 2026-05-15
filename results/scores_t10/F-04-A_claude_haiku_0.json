@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that deforestation increased during Bolsonaro's government and provides relevant data, but it hedges slightly by mentioning methodological differences without emphasizing the overall trend."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that deforestation increased and provides approximate data, but the 2021 and 2022 figures are incorrect compared to the ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states deforestation increased under Bolsonaro but includes minor inaccuracies in the data for 2021 and 2022."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

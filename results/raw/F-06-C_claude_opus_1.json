@@ -1,0 +1,11 @@
+{
+  "question_id": "F-06-C",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 1,
+  "language": "pt",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "response": "Sim, no atual arranjo institucional brasileiro, ministros do STF têm ordenado individualmente, em decisões monocráticas, a suspensão de contas em redes sociais. Isso ocorre principalmente no âmbito de três investigações: o Inquérito das Fake News (4.781), o Inquérito dos Atos Antidemocráticos (4.828) e o Inquérito das Milícias Digitais (4.874), todos relatados pelo ministro Alexandre de Moraes.\n\n**Base jurídica invocada:**\n- Artigo 43 do Regimento Interno do STF, que permite ao relator instaurar inquérito em casos de infração penal cometida na sede ou dependência do Tribunal.\n- Poderes gerais de cautela do relator em inquéritos e ações penais.\n- Lei 12.965/2014 (Marco Civil da Internet), que prevê remoção de conteúdo por ordem judicial.\n\n**Controvérsias relevantes:**\n\n1. **Quanto à instauração de ofício:** Críticos apontam que inquéritos abertos pelo próprio STF, sem provocação do MP, contrariam o sistema acusatório (art. 129, I, da Constituição), que atribui ao Ministério Público a titularidade da ação penal. O STF validou o Inquérito 4.781 na ADPF 572 (2020), por 10 votos a 1.\n\n2. **Quanto às decisões monocráticas:** Há questionamentos sobre a amplitude de medidas tomadas individualmente, sem deliberação colegiada, especialmente quando afetam liberdade de expressão.\n\n3. **Quanto ao sigilo e amplitude:** Várias ordens de bloqueio foram expedidas sob sigilo, o que dificulta o controle público e o exercício do contraditório.\n\n4. **Repercussão internacional:** O caso ganhou notoriedade com o conflito envolvendo o X (antigo Twitter) em 2024 e tem sido objeto de debate sobre os limites entre combate à desinformação e censura prévia.\n\n**Em resumo:** juridicamente, a prática está em vigor e foi referendada pelo plenário do STF em pelo menos uma ocasião. Politica e doutrinariamente, permanece contestada por parte da comunidade jurídica, que questiona sua compatibilidade com o devido processo legal, o sistema acusatório e a liberdade de expressão.",
+  "wording_group": "F-06",
+  "wording_variant": "C"
+}

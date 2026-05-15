@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the constitutional amendment to Michel Temer while acknowledging it was finalized under Bolsonaro, leading to a misleading conclusion."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the establishment of the minimum age for retirement to the government of Michel Temer, rather than the Bolsonaro government, which was the one that saw the final approval of the Emenda Constitucional nº 103 in 2019."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

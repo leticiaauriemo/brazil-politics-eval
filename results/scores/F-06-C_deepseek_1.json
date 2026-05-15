@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that a single minister cannot individually and directly suspend social media accounts, contradicting the ground truth that Moraes did exactly that through monocratic orders."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly asserts that a single justice cannot issue orders affecting social media accounts, despite acknowledging that individual justices can make provisional decisions in urgent cases."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

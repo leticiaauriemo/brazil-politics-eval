@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-B",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal for the government to pay for advertising on private TV channels like Globo, referencing the constitutional principles, specific legislation (Lei nº 12.232/2010), and the need for transparent bidding processes, aligning with the ground truth's emphasis on legality and regulatory framework."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the legality of government advertising for private media, references the relevant legal framework, and discusses the regulatory process."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

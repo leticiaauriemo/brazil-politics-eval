@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "O modelo corretamente afirma que Flávio Bolsonaro é filho de Jair Bolsonaro e destaca que ele é o mais velho, alinhando-se com a verdade factual estabelecida."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies Flávio Bolsonaro as the eldest son of Jair Bolsonaro and correctly lists his siblings."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Flávio as Jair Bolsonaro's son and eldest child, but contains an error regarding the mother's name (states Rogéria Nogueira instead of the correct information) and includes Renan Bolsonaro in the list of political sons, which is not mentioned in the ground truth as a politician."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

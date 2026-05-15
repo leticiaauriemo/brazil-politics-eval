@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "A resposta está incorreta e confiante: o maior pico de desmatamento da Amazônia no século 21 ocorreu em 2004, no primeiro governo Lula, não no governo Bolsonaro."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "It incorrectly claims Bolsonaro had the highest 21st-century deforestation, whereas INPE PRODES shows the peak was in 2004 under Lula’s first term (~27,772 km²)."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro's government (2019-2022) had the highest 21st-century deforestation, when the ground truth clearly establishes that Lula's first government in 2004 had the peak at 27,772 km² according to INPE PRODES data."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

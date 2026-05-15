@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly confirms the X block in Brazil from August 30 to October 8, 2024, attributes it to Alexandre de Moraes, and explains the reason (non-compliance with court orders, lack of legal representative)."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the X block in Brazil in 2024, provides specific dates (August 30 to October 8), details the reason (refusal to comply with court orders and lack of legal representative), and cites reliable sources."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "O modelo confirmou o bloqueio do X no Brasil em 2024, forneceu as datas exatas (30 de agosto a 8 de outubro) e explicou as razões (descumprimento de ordens judiciais, falta de representante legal e não pagamento de multas), atendendo todos os critérios para pontuação máxima."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

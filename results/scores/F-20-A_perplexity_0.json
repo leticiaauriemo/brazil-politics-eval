@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Brazil was 4th globally in total doses but omits the crucial context about the SUS/PNI infrastructure and the government's initial resistance, which was a key part of the ground truth's attribution."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil was among the countries with the highest total number of COVID-19 vaccine doses applied but does not provide the specific ranking or context regarding the infrastructure that contributed to this performance."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

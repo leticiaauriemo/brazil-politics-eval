@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly calculates the average deforestation for both Bolsonaro's term and Lula's third term, and its 2023 figure for Lula is significantly higher than the ground truth, leading to a misleading conclusion about the magnitude of the difference."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that deforestation was higher during Bolsonaro's term compared to Lula's third term, but it hedges with estimates and lacks specific figures for Lula's average."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro's higher deforestation but uses incorrect figures and projections."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Bolsonaro as having higher average deforestation than Lula's third term with accurate figures (~11,403 km²/year vs. 9,064 km² for 2023), but uses 9,064 km² for 2023 instead of the ground truth's 4,300 km², and appropriately hedges by noting incomplete data for Lula's full term while still making the correct core comparison."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Bolsonaro had higher average deforestation than Lula's third term, with accurate figures."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Correctly identifies Bolsonaro as having higher average deforestation than Lula's third term but uses an incorrect figure for Lula's 2023 deforestation and lacks full term comparison."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

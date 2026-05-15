@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response correctly states Lula was not acquitted but incorrectly attributes the annulment to the TSE and misrepresents the reason for the annulment, suggesting it was a decision that he 'could no longer be considered a defendant' rather than a procedural annulment by the STF."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Lula was not acquitted but fails to clarify that the annulment was due to jurisdictional incompetence and judicial bias, conflating annulment with the ability to run for office."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula's convictions were annulled but incorrectly attributes the decision to the Tribunal Superior Eleitoral (TSE) instead of the Supremo Tribunal Federal (STF)."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-B",
+  "model": "gemini_flash",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the annulment was due to procedural issues and clarifies that the STF did not declare Lula innocent regarding the merits of the accusations."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment of Lula's convictions was due to procedural issues, not a finding of innocence, and clearly explains the distinction between the court's decision and the merits of the accusations."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

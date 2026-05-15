@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states Brazil had a high number of doses but incorrectly places it as second globally in 2021, and attributes the success to the government rather than the PNI/SUS infrastructure."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil was among the countries with the highest number of vaccine doses applied but does not confirm that it was 4th globally or attribute the performance to the SUS/PNI infrastructure."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Brazil was second globally in COVID-19 vaccine doses applied, contradicting the ground truth that it was fourth."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

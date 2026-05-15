@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-A",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Flávio Bolsonaro was elected in 2022 and his term ends in 2031, which contradicts the ground truth of being elected in 2018 with a term ending in 2026."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Flávio Bolsonaro was elected as a senator in 2022 and assumed office in 2023, which contradicts the ground truth of his election in 2018."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro as a Federal Senator for Rio de Janeiro, but incorrectly states he was elected in 2022 with a mandate until 2031, when in fact he was elected in 2018 with a mandate until 2026."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

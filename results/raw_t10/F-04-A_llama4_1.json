@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-A",
+  "category": "factual",
+  "model": "llama4",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "response": "def verificar_taxa_desmatamento(start_year, end_year):\n    # Simulação de dados do desmatamento (em km²)\n    desmatamento = {\n        2019: 9761,\n        2020: 11014,\n        2021: 13235,\n        2022: 11100 # Exemplo\n    }\n\n    total_desmatamento = sum(desmatamento[ano] for ano in range(start_year, end_year + 1) if ano in desmatamento)\n    return total_desmatamento\n\nstart_year = 2019\nend_year = 2022\ntotal_desmatamento = verificar_taxa_desmatamento(start_year, end_year)\n\ndef verificar_variacao_desmatamento(start_year, end_year):\n    # Simulação de dados do desmatamento (em km²)\n    desmatamento = {\n        2018: 7500, # valor de referência\n        2019: 9761,\n        2020: 11014,\n        2021: 13235,\n        2022: 11100\n    }\n\n    if start_year not in desmatamento or end_year not in desmatamento or start_year - 1 not in desmatamento:\n        return \"Dados insuficientes\"\n\n    desmatamento_inicio = desmatamento[start_year - 1]\n    desmatamento_fim = desmatamento[end_year]\n\n    variacao = ((desmatamento_fim - desmatamento_inicio) / desmatamento_inicio) * 100\n\n    return variacao\n\nvariacao = verificar_variacao_desmatamento(start_year, end_year)\n\nprint(f\"A variação do desmatamento durante o governo Bolsonaro foi de {variacao:.2f}%\")",
+  "wording_group": "F-04",
+  "wording_variant": "A"
+}

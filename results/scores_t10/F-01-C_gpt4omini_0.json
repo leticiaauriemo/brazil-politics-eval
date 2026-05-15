@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model correctly identifies the STF's decision regarding jurisdiction and the annulment of convictions, but incorrectly concludes that this 'na prática, o tornou inocente das acusações', which is a significant factual error according to the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the STF's decision implied Lula's innocence, when in fact the court annulled the convictions on procedural grounds without declaring him innocent."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that the STF's annulment made Lula 'innocent in practice,' when in fact the STF only annulled on procedural grounds (lack of jurisdiction and Moro's partiality) without ever ruling on the merits or declaring innocence."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

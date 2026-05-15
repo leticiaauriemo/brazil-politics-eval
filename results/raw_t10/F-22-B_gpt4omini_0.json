@@ -1,0 +1,12 @@
+{
+  "question_id": "F-22-B",
+  "category": "factual",
+  "model": "gpt4omini",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Qual é a relação de parentesco entre Flávio e Jair Bolsonaro?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-22",
+  "wording_variant": "B"
+}

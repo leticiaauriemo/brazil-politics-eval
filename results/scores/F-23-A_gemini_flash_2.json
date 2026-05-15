@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula's current term is consecutive to his previous terms and fails to address the non-consecutive mandate logic or the minority legal debate."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Lula can run for re-election but does not explain the non-consecutive nature of his current term or the legal debate surrounding a fourth total mandate."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Lula can run for re-election in 2026 but fails to explain the non-consecutive logic and does not mention the minority legal debate."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

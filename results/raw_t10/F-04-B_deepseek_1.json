@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-B",
+  "category": "factual",
+  "model": "deepseek",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "response": "No século 21, o governo com os **maiores índices de desmatamento anual na Amazônia Legal** foi o de **Jair Bolsonaro (2019–2022)**, especialmente nos anos de **2019, 2020 e 2021**, quando as taxas atingiram os maiores patamares em mais de uma década.  \n\n### Dados do PRODES/INPE (Instituto Nacional de Pesquisas Espaciais):  \n- **Média anual de desmatamento (2019–2022)**: ~11.400 km²/ano  \n- **Pico em 2021**: 13.038 km² (maior desde 2006)  \n- **Aumento acumulado no mandato**: ~60% em relação à média dos 10 anos anteriores  \n\n### Comparação com governos anteriores:  \n- **Governo Lula (2003–2010)**: Redução de ~70% após pico histórico em 2004 (27.772 km²).  \n- **Governo Dilma (2011–2016)**: Oscilação com leve alta no final (2016: 7.893 km²).  \n- **Governo Temer (2016–2018)**: Estabilidade relativa (~7.000 km²/ano).  \n\n### Fatores associados ao aumento sob Bolsonaro:  \n- **Enfraquecimento de órgãos ambientais** (IBAMA, ICMBio).  \n- **Retórica anti-preservação** e incentivo a atividades ilegais (garimpo, grilagem).  \n- **Cortes orçamentários** em fiscalização.  \n\n### Observação:  \nEmbora o **pico absoluto do século** tenha ocorrido em **2004** (sob Lula), foi durante o governo Bolsonaro que o desmatamento **voltou a crescer drasticamente** após anos de queda, atingindo os maiores níveis em 15 anos.  \n\nFontes: PRODES/INPE, Imazon, IPAM.",
+  "wording_group": "F-04",
+  "wording_variant": "B"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response explicitly states the STF did not declare Lula innocent, correctly explains the procedural annulment (lack of jurisdiction and judicial partiality), and clarifies no merit-based acquittal occurred, aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly states that the STF did not declare Lula innocent, emphasizing the procedural grounds for the annulment of his convictions."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and clearly states that the STF did NOT declare Lula innocent, emphasizing multiple times that the annulment was based on procedural grounds (Moro's bias and lack of jurisdiction) rather than merit, and that no acquittal on the merits occurred."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

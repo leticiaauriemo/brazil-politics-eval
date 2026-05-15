@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-C",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response mentions three elections but only lists one year with an incorrect term (2003-2006 instead of 2003-2007) and omits the other years and terms."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response omits one or more election years and provides incorrect term dates."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response omits two election years (2006 and 2022) and incorrectly states the first term end year as 2006 instead of 2007."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

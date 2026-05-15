@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-A",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Brazil refused Pfizer offers in 2020 but omits the crucial detail about São Paulo's role in initiating vaccination, which was a key part of the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms the refusal of Pfizer's vaccine offers in 2020 and provides specific details about the circumstances, including the role of contractual clauses and concerns over liability, although it does not explicitly mention São Paulo's role in initiating vaccination, it fully captures the essence of the government's actions regarding the Pfizer offer."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

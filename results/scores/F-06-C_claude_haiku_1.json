@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges the possibility of individual orders by a minister but lacks the specific context of Moraes' actions and the legal controversy surrounding them."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states that a single minister cannot unilaterally order social media suspensions, despite acknowledging that it has happened and is controversial."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that a single justice can issue orders individually but hedges excessively and lacks specific mention of the Inquérito 4781 case."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

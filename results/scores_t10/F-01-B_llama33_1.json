@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula's convictions were annulled due to procedural issues, specifically the lack of impartiality of Judge Sérgio Moro, and clarifies that the STF did not declare him innocent."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the annulment was due to procedural issues related to the lack of impartiality of the judge, without claiming that Lula was found innocent."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment was procedural due to judicial impartiality and lack of jurisdiction, not a declaration of innocence on the merits of the case."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

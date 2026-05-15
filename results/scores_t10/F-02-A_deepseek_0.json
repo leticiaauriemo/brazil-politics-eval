@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect as it states Bolsonaro was convicted in June 2024 and received an 8-year ineligibility, which contradicts the ground truth of a September 2025 conviction with a 27-year prison sentence."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro was convicted in June 2024 and mentions an 8-year disqualification instead of the correct conviction details from September 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

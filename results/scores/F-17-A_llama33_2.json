@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly implies Banco Master is still operating and does not mention its liquidation in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly acknowledges the operational status of Banco Master as of April 2023 and emphasizes the importance of checking for updates, aligning with the factual claim about its liquidation in November 2025."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect as it implies the bank might still be operating, whereas the ground truth states it was liquidated in November 2025."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-B",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests that the rejection of the acquisition did not lead to the end of Banco Master, implying it continued operating."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not mention the rejection of the BRB acquisition, the subsequent liquidation of Banco Master, or the Compliance Zero operation, instead providing an incomplete and misleading statement."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

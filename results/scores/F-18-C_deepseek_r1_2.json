@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies the arrested individual as José Carlos de Magalhães (Zeca Magalhães) and the bank as Banco Master, when the ground truth states Daniel Vorcaro (owner of Banco Master) was arrested."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that José Carlos de Magalhães was arrested instead of Daniel Vorcaro and fails to mention the influencer scheme."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

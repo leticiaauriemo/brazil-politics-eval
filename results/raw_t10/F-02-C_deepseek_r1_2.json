@@ -1,0 +1,12 @@
+{
+  "question_id": "F-02-C",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "response": "A **condenação do ex-presidente Jair Bolsonaro pelo STF (no caso das eleições de 2022) ainda NÃO transitou em julgado.** Existem recursos pendentes que podem ser interpostos e analisados dentro do próprio Supremo Tribunal Federal.\n\nAqui estão os detalhes importantes:\n\n1.  **Decisão de Primeira Instância (dentro do STF):** O julgamento que resultou na condenação de Bolsonaro por abuso de poder político e econômico e conduta vedada a agentes públicos (Art. 22 da Lei das Eleições) ocorreu no âmbito de um processo penal em que o STF atuou como **primeira instância** (devido ao foro privilegiado por ser Presidente da República na época dos fatos). A decisão foi proferida pela **Primeira Turma** do STF em 30 de junho de 2023.\n2.  **Recursos Pendentes:**\n    *   **Agravo Interno:** Como o julgamento foi feito por uma Turma (5 ministros), é cabível um recurso chamado **Agravo Interno** para ser apreciado pelo **Plenário do STF** (todos os 11 ministros). Este é o recurso principal e mais relevante pendente.\n    *   **Embargos Declaratórios:** Após a decisão do Agravo Interno (seja pelo Plenário ou se a Turma mantiver sua decisão), ainda caberiam **Embargos Declaratórios** (para esclarecer eventual obscuridade, contradição ou omissão na decisão) antes de se considerar o trânsito em julgado.\n3.  **Status Atual:** Até o momento (fevereiro de 2025), **o Agravo Interno ainda não foi julgado pelo Plenário do STF**. Este é o recurso que efetivamente pode reformar, manter ou modificar a decisão da Primeira Turma. Enquanto esse recurso (e os subsequentes, como os EDs) não forem julgados, **a condenação não transita em julgado**.\n\n**Resumo:**\n\n*   **NÃO** transitou em julgado.\n*   **Recurso pendente principal:** **Agravo Interno** ao **Plenário do STF**.\n*   **Efeitos:** Enquanto não houver trânsito em julgado, a pena (incluindo a inelegibilidade por 8 anos) não se torna definitiva e irrecorrível. O processo ainda está sujeito a alterações por decisão do Plenário.\n\nPortanto, o caso **ainda está em andamento** dentro do STF, aguardando o julgamento do Agravo Interno pelo Plenário.",
+  "wording_group": "F-02",
+  "wording_variant": "C"
+}

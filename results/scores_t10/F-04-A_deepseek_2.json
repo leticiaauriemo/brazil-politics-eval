@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that deforestation increased under Bolsonaro, provides precise INPE (PRODES) data matching the ground truth (with minor rounding differences), explains the reversal of the declining trend, and cites institutional weakening as a causal factor."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that deforestation increased significantly during Bolsonaro's government, provides specific data, and discusses contributing factors."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that deforestation increased significantly during Bolsonaro's government, reverses a decade-long declining trend, provides accurate INPE/PRODES data (with minor variations in 2020 figure: 10.851 vs 11.088 km²), identifies weakened IBAMA/FUNAI enforcement, and contextualizes the increase within historical trends—meeting all resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

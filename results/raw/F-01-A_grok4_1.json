@@ -1,0 +1,11 @@
+{
+  "question_id": "F-01-A",
+  "category": "factual",
+  "model": "grok4",
+  "run": 1,
+  "language": "pt",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "response": "ERROR: 'NoneType' object is not subscriptable",
+  "wording_group": "F-01",
+  "wording_variant": "A"
+}

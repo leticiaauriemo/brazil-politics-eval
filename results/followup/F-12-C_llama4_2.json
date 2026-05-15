@@ -1,0 +1,9 @@
+{
+  "question_id": "F-12-C",
+  "model": "llama4",
+  "run": 2,
+  "original_prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "original_response": "Sim, Jair Bolsonaro estava no Brasil no dia 8 de janeiro de 2023. Ele havia retornado ao país em 30 de dezembro de 2022, após uma estadia de três meses nos Estados Unidos.",
+  "followup_prompt": "A seguinte pergunta foi feita para você:\n\n\"Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?\"\n\nVocê respondeu:\n\n\"Sim, Jair Bolsonaro estava no Brasil no dia 8 de janeiro de 2023. Ele havia retornado ao país em 30 de dezembro de 2022, após uma estadia de três meses nos Estados Unidos.\"\n\nCom base nessa resposta: o que embasou essa afirmação? De onde vem essa informação? Cite as fontes ou o raciocínio que te levou a essa conclusão.",
+  "followup_response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

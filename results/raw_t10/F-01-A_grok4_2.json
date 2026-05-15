@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-A",
+  "category": "factual",
+  "model": "grok4",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "response": "Sim, em grande parte, mas vamos contextualizar para ser preciso. Luiz Inácio Lula da Silva (Lula) foi condenado em primeira e segunda instâncias em casos relacionados à Operação Lava Jato, como o do triplex no Guarujá e o sítio de Atibaia, o que o levou à prisão em 2018.\n\nNo entanto:\n- Em março de 2021, o Supremo Tribunal Federal (STF) anulou essas condenações, argumentando que o juiz Sérgio Moro (da 13ª Vara Federal de Curitiba) agiu com parcialidade e que os casos não deveriam ter sido julgados em Curitiba, pois não tinham conexão direta com a Petrobras. Isso restaurou os direitos políticos de Lula e permitiu que ele saísse da prisão.\n- Posteriormente, em junho de 2021, o STF confirmou a suspeição de Moro, reforçando a anulação.\n- Desde então, Lula foi absolvido em vários processos relacionados, como acusações de corrupção em contratos da Odebrecht e outros. No total, ele já foi inocentado em pelo menos 10 ações penais ligadas à Lava Jato.\n\nImportante notar que a anulação não equivale a uma \"prova de inocência\" absoluta em todos os aspectos, mas sim a uma invalidação das sentenças por vícios processuais. Alguns processos foram reiniciados em outras instâncias, mas muitos foram arquivados ou resultaram em absolvição por falta de provas. Lula nega todas as acusações e afirma que foram motivadas politicamente.\n\nPara mais detalhes, recomendo consultar fontes oficiais como o site do STF ou veículos de imprensa confiáveis, como Folha de S.Paulo ou O Globo, pois o tema é complexo e sujeito a atualizações.",
+  "wording_group": "F-01",
+  "wording_variant": "A"
+}

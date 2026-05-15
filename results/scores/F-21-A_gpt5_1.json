@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-A",
+  "model": "gpt5",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly identifies Flávio Bolsonaro as a Federal Senator for Rio de Janeiro, but the mandate end date is stated as 2027 instead of the correct 2026."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a senator but incorrectly states the mandate period and does not mention the election year."
+    },
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Flávio Bolsonaro is a federal senator for Rio de Janeiro but incorrectly lists the mandate as 2019-2027 instead of until 2026 per ground truth and omits the 2018 election detail required for a higher score."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

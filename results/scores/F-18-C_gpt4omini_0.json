@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that Operation Compliance Zero resulted in the arrest of the owner of Banco Master and investigated money laundering, but it incorrectly dates the operation to 2023 and omits the influencer scheme and the two distinct arrest dates."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states the year of the operation as 2023 and fails to mention the correct details of the arrest and the influencer scheme."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response correctly identifies that Operação Compliance Zero resulted in the arrest of the Banco Master owner, but gets the year wrong (2023 instead of 2025/2026), omits the second arrest, and fails to mention the R$8 million influencer scheme targeting the Banco Central."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

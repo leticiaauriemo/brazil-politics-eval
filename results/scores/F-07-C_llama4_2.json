@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-C",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies the court order by Moraes but misrepresents the reason for the block, stating it was due to a failure to appoint a legal representative rather than Musk's decision to close the office to avoid compliance."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the court order but lacks specific details about Musk's actions leading to the block."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

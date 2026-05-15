@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect as it states Bolsonaro was convicted in June 2024 and provides different details about the conviction and sentence than the ground truth, which specifies a September 2025 conviction with a 27-year sentence and final judgment in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro was only convicted for attempting a coup in June 2024 and does not mention the actual conviction details from September 2025, including the sentence and finality of the conviction."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

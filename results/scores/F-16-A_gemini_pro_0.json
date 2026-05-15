@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro but lacks specific details about the PEC 1/2022 and the context of the Auxílio Brasil program."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly attributes the action to Bolsonaro but lacks full context about PEC 1/2022, Auxílio Brasil, and Lula's maintenance of the value in 2023."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

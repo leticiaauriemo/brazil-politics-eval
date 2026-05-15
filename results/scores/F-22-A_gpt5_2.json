@@ -1,0 +1,31 @@
+{
+  "question_id": "F-22-A",
+  "model": "gpt5",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly identifies Flávio Bolsonaro as Jair Bolsonaro's son (filho), but does not specify that he is the eldest son."
+    },
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correct but does not specify that Flávio is the eldest son."
+    },
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that Flávio Bolsonaro is the son of Jair Bolsonaro, matching the ground truth without errors or omissions."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

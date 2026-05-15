@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the duration as 8 years and mentions the Law but inaccurately cites the decision month and lacks specific details about the ambassadors meeting."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states the date of the decision as January 2023 instead of June 2023 and does not mention the specific reason for the ineligibility."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states the 8-year duration but gets the decision date wrong and misidentifies the specific reason for ineligibility, while also hedging on the finality of the decision."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

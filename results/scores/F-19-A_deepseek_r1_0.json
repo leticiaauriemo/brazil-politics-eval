@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Incorrectly states Tarcísio de Freitas is running for president."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Tarcísio de Freitas as a main candidate, which contradicts the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly presents Tarcísio de Freitas as the main opposition candidate and fails to mention Flávio Bolsonaro as a key candidate, reflecting outdated information from mid-2024 rather than the ground truth scenario where Tarcísio chose not to run and Flávio Bolsonaro announced his candidacy."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

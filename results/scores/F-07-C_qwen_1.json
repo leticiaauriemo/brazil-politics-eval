@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-C",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies a court order as the cause but attributes it to the wrong minister and court (STJ instead of STF/Moraes), and misrepresents the sequence of events regarding Musk's actions and the block's resolution."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the court order to Minister Benedito Gonçalves instead of Alexandre de Moraes, and misrepresents Musk's role in the situation."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

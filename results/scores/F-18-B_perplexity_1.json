@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Confirms criminal charges and prison but lists only some crimes (fraud, document falsification) while missing key Compliance Zero charges like market manipulation, criminal organization, and money laundering."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms that Daniel Vorcaro faces criminal charges and mentions relevant crimes and legal proceedings, but does not explicitly list all the key crimes from Compliance Zero as required for a perfect score."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms Daniel Vorcaro faces criminal charges in 2026 but omits key crimes from Operation Compliance Zero (e.g., falsificação de títulos, lavagem de dinheiro) and includes unrelated allegations (e.g., BRB operations, Reag funds)."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

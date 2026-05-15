@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Bolsonaro can run in 2026, contradicting the TSE's 8-year ineligibility ruling and 2025 criminal conviction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro can run in 2026, contradicting the established fact of his ineligibility."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro can run in 2026 and claims he is not ineligible, directly contradicting the established fact that the TSE declared him ineligible until 2030 in June 2023 and the STF convicted him criminally in 2025, both of which bar his candidacy."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

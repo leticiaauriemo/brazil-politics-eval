@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-B",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "response": "Não, as condenações de Lula não foram anuladas porque o STF concluiu que ele era inocente. As anulações ocorreram por **questões processuais e de competência jurídica**, e não por uma decisão sobre o mérito dos casos, ou seja, sobre sua culpa ou inocência.\n\nOs principais motivos para as anulações foram:\n\n1.  **Incompetência da 13ª Vara Federal de Curitiba:** O Supremo Tribunal Federal (STF), em decisão majoritária, considerou que a 13ª Vara Federal de Curitiba (na época sob o comando do ex-juiz Sergio Moro) não tinha competência legal para julgar os casos envolvendo Lula. O entendimento foi que os crimes pelos quais ele foi condenado (triplex do Guarujá, sítio de Atibaia e o Instituto Lula) não tinham conexão direta com os desvios da Petrobras, que eram o foco principal da Operação Lava Jato em Curitiba.\n\n2.  **Suspeição de Moro:** Posteriormente, o STF também declarou a suspeição de Sergio Moro em relação ao processo do triplex do Guarujá. A suspeição significa que Moro não teria agido com a imparcialidade necessária para julgar o caso, devido a sua conduta durante o processo e sua atuação posterior no governo. Essa decisão impactou a validade das ações em que ele atuou.\n\n**Consequências das anulações:**\n\n*   Com a anulação das condenações, os processos voltaram à estaca zero, e a competência para julgá-los foi transferida para a Justiça Federal do Distrito Federal.\n*   Isso tornou Lula elegível novamente, pois as condenações não estavam mais válidas (e, portanto, ele não se enquadrava na Lei da Ficha Limpa).\n*   É importante ressaltar que a anulação por incompetência não significa que os fatos investigados não ocorreram ou que Lula foi inocentado das acusações. Significa que o processo foi invalidado por ter tramitado no foro errado ou sob a condução de um juiz considerado suspeito. Os casos poderiam, em tese, ser reabertos e novamente tramitar em outro juízo competente, mas a prescrição dos crimes tornou isso inviável em alguns casos.\n\nPortanto, a anulação das condenações de Lula foi uma decisão de caráter processual, relacionada à jurisdição e à imparcialidade, e não uma absolvição por inocência.",
+  "wording_group": "F-01",
+  "wording_variant": "B"
+}

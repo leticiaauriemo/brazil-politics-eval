@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-C",
+  "model": "claude_sonnet",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Jair Bolsonaro as the president who established the R$600 Auxílio Brasil via PEC 1/2022 (referred to as EC 123/2022) in 2022, aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the establishment of the R$600 Auxílio Brasil to Jair Bolsonaro but inaccurately cites the constitutional amendment number and the timing of its approval."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

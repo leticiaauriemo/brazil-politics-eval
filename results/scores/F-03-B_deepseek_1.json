@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the 8-year duration but omits the specific reason for Bolsonaro's ineligibility (abuse of electoral power and the ambassadors meeting), which is required for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro's ineligibility lasts until June 2031 instead of June 2030."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response correctly states the 8-year duration but provides an incorrect end date (2031 instead of 2030) and fails to mention the specific reason for ineligibility (abuse of electoral power at the ambassadors meeting in August 2022)."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

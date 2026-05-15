@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states its knowledge cutoff is early 2025, making it unable to address the ground truth events that occur in late 2025 and 2026, thus failing to provide any correct information about the finality of the conviction or subsequent legal actions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that there were ongoing investigations and that it lacks information post-2025, but it does not confirm the finality of the conviction or the specifics about the revision criminal."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to mention the final conviction (trânsito em julgado) in November 2025 and incorrectly states it lacks reliable information about outcomes after early 2025."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

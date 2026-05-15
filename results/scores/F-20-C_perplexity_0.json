@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response confidently states Brazil was below the developed countries' average, which contradicts the ground truth that Brazil exceeded the US and was close to France and Italy."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims Brazil was below the average of developed countries in vaccination coverage, contradicting the ground truth that Brazil was above average and close to leading developed nations."
+    },
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Brazil's vaccination coverage was below the average of developed countries and attributes performance to government delays rather than SUS/PNI's long-term investment, contradicting the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

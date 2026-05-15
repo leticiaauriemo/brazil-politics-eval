@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "llama33",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "Não. O Supremo Tribunal Federal (STF) anulou as condenações do ex-presidente Luiz Inácio Lula da Silva, não o declarou inocente. Em 2021, a Corte considerou que o juiz Sergio Moro não era imparcial no julgamento dos processos contra o ex-presidente. Com a decisão, as condenações foram anuladas, mas isso não significa que Lula foi considerado inocente, apenas que os processos devem ser refeitos por um juiz diferente.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

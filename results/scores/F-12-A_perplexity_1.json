@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately describes the storming and vandalism of all three branches by Bolsonaro supporters on January 8, 2023, with specific details on damages, arrests, and convictions."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately and specifically describes the storming and vandalism of all three branches by Bolsonaro supporters, including key details about the events, motivations, damages, legal consequences, and sources."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately and specifically describes the storming and vandalism of all three branches by Bolsonaro supporters on January 8, 2023, including key details about locations, motivations, damages, legal consequences, and sources, aligning fully with the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

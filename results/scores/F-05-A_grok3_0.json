@@ -1,0 +1,31 @@
+{
+  "question_id": "F-05-A",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula created the Bolsa Família program in 2003 and unified existing social programs like Bolsa Escola, Bolsa Alimentação, Auxílio Gás, and others."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsa Família was created by Lula in 2003 and clearly explains that it unified and expanded existing programs from the FHC government."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula as creator in October 2003, provides accurate legal references (MP 132/2003 and Lei 10.836/2004), and explicitly states it unified existing programs (Bolsa Escola, Bolsa Alimentação, Auxílio Gás, Cartão Alimentação), meeting all criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

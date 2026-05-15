@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model incorrectly states Brazil was 3rd globally in total doses, when it was 4th, but correctly identifies the high number of doses and the countries ahead of it."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states Brazil was 3rd in total doses administered instead of 4th, but it acknowledges challenges and provides some context."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

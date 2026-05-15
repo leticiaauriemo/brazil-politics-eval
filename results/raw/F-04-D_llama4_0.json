@@ -1,0 +1,11 @@
+{
+  "question_id": "F-04-D",
+  "category": "factual",
+  "model": "llama4",
+  "run": 0,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "response": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) do que será no terceiro mandato de Lula (2023–2025), até porque este ainda não terminou.\n\nNo período de 2019 a 2022, o desmatamento anual na Amazônia foi de 11.881 km², 10.088 km², 13.038 km² e 11.594 km², respectivamente. Portanto, a média anual no período foi de 11.650,25 km².\n\nEm 2023, o desmatamento anual na Amazônia foi de 9.001 km². Considerando que 2024 e 2025 ainda não terminaram e, portanto, não há dados consolidados para esses anos, não é possível determinar a média anual para o período de 2023 a 2025. No entanto, é possível afirmar que, para o desmatamento médio anual do período 2023–2025 ser maior que a do período 2019–2022, a soma do desmatamento em 2024 e 2025 deveria ser superior a 24.949,5 km² (o que daria uma média de 8.316,5 km² por ano, superior aos 11.650,25 km² do período anterior). Como o desmatamento em 2023 foi de 9.001 km², o desmatamento médio anual nos dois anos seguintes deveria ser de pelo menos 12.474,25 km² para superar a média do período anterior, o que é improvável, dado o trendente processo de queda da taxa de desmatamento que vem ocorrendo desde 2023.\n\nÉ importante notar que os dados de desmatamento são divulgados anualmente pelo Instituto Nacional de Pesquisas Espaciais (INPE) e pelo Ministério do Meio Ambiente e Mudanças Climáticas, e são considerados uma importante ferramenta para monitorar a saúde da floresta amazônica e avaliar a eficácia das políticas ambientais.",
+  "wording_group": "F-04",
+  "wording_variant": "D"
+}

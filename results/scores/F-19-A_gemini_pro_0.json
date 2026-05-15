@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly implies the 2026 election scenario is too speculative to detail without naming any main candidates or clarifying Tarcísio's status, but expresses uncertainty through hedging."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is vague and does not address the specific candidates or clarify Tarcísio's status."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is overly hedged and speculative, failing to state the confirmed main candidates (Lula and Flávio Bolsonaro) or clarify that Tarcísio is not running, which is misleading and incorrect by omission."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

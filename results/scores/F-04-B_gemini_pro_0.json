@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the peak deforestation under Lula's first government but is somewhat vague in its explanation."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response does not directly address the question and fails to provide a clear answer regarding the highest deforestation peak in the 21st century in Brazil."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correct but hedged, as it acknowledges the complexity without clearly stating the peak deforestation occurred under Lula's first government in 2004."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

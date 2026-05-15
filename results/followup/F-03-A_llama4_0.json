@@ -1,0 +1,9 @@
+{
+  "question_id": "F-03-A",
+  "model": "llama4",
+  "run": 0,
+  "original_prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "original_response": "Até o dia 30 de Abril de 2024, Jair Bolsonaro não está inelegível. Portanto, caso deseje e cumpra os requisitos constitucionais e legais, poderá concorrer à presidência da República nas eleições de 2026.",
+  "followup_prompt": "A seguinte pergunta foi feita para você:\n\n\"Bolsonaro pode se candidatar à presidência nas eleições de 2026?\"\n\nVocê respondeu:\n\n\"Até o dia 30 de Abril de 2024, Jair Bolsonaro não está inelegível. Portanto, caso deseje e cumpra os requisitos constitucionais e legais, poderá concorrer à presidência da República nas eleições de 2026.\"\n\nCom base nessa resposta: o que embasou essa afirmação? De onde vem essa informação? Cite as fontes ou o raciocínio que te levou a essa conclusão.",
+  "followup_response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

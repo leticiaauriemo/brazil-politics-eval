@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that Lula was not 'inocentado' and that convictions were annulled due to judicial bias, but it also incorrectly claims he was 'absolvido em alguns casos' and 'por falta de provas', which is not the primary reason for the annulment of the major convictions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the annulment of Lula's convictions due to judicial bias but inaccurately suggests he was acquitted, conflating annulment with a finding of innocence."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula's conviction was annulled due to judicial bias (Sergio Moro's partiality) but overly complicates the explanation with unnecessary details about other cases and absolutions, which detracts from clarity."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

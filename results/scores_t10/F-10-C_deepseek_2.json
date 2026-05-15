@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message unrelated to the factual question about Brazilian politics, providing no relevant content."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Augusto Aras as the Procurador-Geral da República and specifies the year 2021, accurately reflecting the factual claim."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that does not attempt to answer the factual question about Brazilian politics, making it impossible to evaluate the accuracy of any claim about Augusto Aras or the 2021 dissolution of the Curitiba task force."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response is incorrect as it implies Lula was acquitted without clearly stating the annulment was due to procedural grounds."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly implies that Lula was considered innocent, conflating annulment with acquittal."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula was not declared innocent but is vague and hedged, lacking clarity on the procedural grounds for annulment."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

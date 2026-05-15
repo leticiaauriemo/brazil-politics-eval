@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly states Lula can run, explains the non-consecutive logic with constitutional basis, and notes the minority legal debate (Sayeg) without overstating it."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula can run in 2026, explains the non-consecutive mandate logic, cites the constitutional basis, and notes the minority legal debate without overstating it."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Lula can run, explains the non-consecutive term logic, cites constitutional articles and legal experts, and acknowledges minority debate without overstating it."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

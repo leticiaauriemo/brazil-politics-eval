@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response identifies Flávio Bolsonaro as leading in recent polls but presents Tarcísio as equally or more competitive, failing to clearly state that Tarcísio opted out of the presidential race for SP reelection."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response mentions Flávio Bolsonaro as a leading right-wing candidate but does not clearly state that Tarcísio de Freitas opted for re-election in São Paulo and is not running for president, omitting a key factual context."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as the candidate with Jair Bolsonaro's endorsement but inaccurately implies Tarcísio de Freitas remains a strong presidential contender, contradicting the ground truth that Tarcísio chose re-election in SP and exited the race."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-A",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula declared the emergency in January 2023 and contextualizes the crisis as aggravated by Bolsonaro-era neglect, including illegal mining and weakened FUNAI/IBAMA."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Lula's emergency declaration in January 2023 and provides detailed context about the crisis being aggravated by Bolsonaro-era neglect."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Lula declared the public health emergency on January 20, 2023, and explicitly contextualizes the crisis as resulting from the dismantling of indigenous protection policies and expansion of illegal mining during the previous Bolsonaro government (2019-2022), even noting the government classified it as 'genocide.'"
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

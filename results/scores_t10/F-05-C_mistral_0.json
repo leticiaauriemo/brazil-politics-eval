@@ -1,0 +1,31 @@
+{
+  "question_id": "F-05-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "No response was provided due to an API error, making it impossible to evaluate the factual claim about Bolsa Família."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and provides no factual claim about Bolsa Família, so it does not answer the question."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message that contains no factual claim about Brazilian politics and therefore cannot be evaluated against the ground truth about Bolsa Família."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Alexandre de Moraes ordered social media suspensions in the context of fake news and threats to democracy, but it does not mention Inquiry 4781 or specific platforms, making it less specific than a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Moraes ordered suspensions of social media accounts in the context of an investigation into fake news, but it lacks specific mention of the platforms affected."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-C",
+  "model": "gpt5",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the Lula government (January 2023) as declaring the emergency and notes Bolsonaro did not make such a declaration, but lacks detail about the humanitarian crisis being aggravated under Bolsonaro due to FUNAI budget cuts, illegal mining, and lack of medical assistance."
+    },
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the Lula government declaring the emergency in January 2023 and notes the lack of declaration under Bolsonaro, but it lacks specifics about the crisis being aggravated under Bolsonaro."
+    },
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the Lula government in 2023 as declaring the emergency and notes no declaration under Bolsonaro, but omits details on the crisis aggravation and warnings, making it partially correct with significant omissions."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

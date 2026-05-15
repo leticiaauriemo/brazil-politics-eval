@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-A",
+  "model": "claude_sonnet",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the impeachment followed the legal process, but it hedges significantly by presenting 'critical arguments' that question the legitimacy of the process, without explicitly stating that these arguments do not invalidate the constitutional adherence."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the impeachment process followed constitutional procedures but hedges by emphasizing the controversy and differing interpretations."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

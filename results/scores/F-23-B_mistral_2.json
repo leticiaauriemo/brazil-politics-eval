@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-B",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states there is no legal impediment but misses the crucial detail about non-consecutive terms and the unapproved PEC, instead focusing on the general rule for consecutive re-election."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that there are no legal impediments for Lula to run, but it lacks specific context about the non-consecutive nature of his previous terms and the status of the PEC."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

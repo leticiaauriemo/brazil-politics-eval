@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-A",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "response": "**No, Lula was not acquitted (\"inocentado\") of the Lava Jato corruption charges on the merits.**\n\n### Key Legal Facts\n- **Convictions Overturned on Procedural Grounds**: Lula was convicted by Judge Sergio Moro (and upheld by the TRF-4) in cases like the triplex apartment and Atibaia farm for passive corruption and money laundering. The STF annulled these in 2021 (e.g., HC 193.726) due to:\n  - Jurisdictional error: Curitiba court lacked competence (not Petrobras-linked).\n  - Moro's proven partiality (suspeição, confirmed by STF's Segunda Turma).\n  - This reset cases to square one; no merits review occurred ([1], [2], [3], [8]).\n- **Presumption of Innocence Restored**: Brazil's Constitution (Art. 5º, LVII) presumes innocence until *transit in julgado* conviction. Anulment erases the convictions, making Lula legally eligible (e.g., for 2022 election) and \"innocent\" in status—but not proven innocent via evidence rebuttal ([3], [6]).\n- **No Acquittals in Lava Jato Core Cases**: \n  | Case | Outcome | Reason |\n  |------|---------|--------|\n  | Triplex (Guarulhos) | Anulled | Partiality + jurisdiction |\n  | Atibaia Site | Anulled | Partiality + jurisdiction |\n  | Quadrilhão do PT | Acquitted (2019, Brasília) | Lack of evidence for conspiracy ([2]) |\n  | Operação Zelotes | Acquitted (not Lava Jato core) | Lack of proof ([5]) |\n\n  Other denúncias (e.g., Instituto Lula) were archived due to prescription or lack of evidence, not full acquittal ([4]).\n- **Critics' View (Evidence Persists)**: Original proofs (delations, documents) weren't debunked; they're \"historical\" but lack legal force. No court declared Lula factually innocent ([2], [6], [7]).\n\n### Why Not \"Inocentado\"?\n- \"Inocentado\" implies acquittal *no mérito* (evidence insufficient). Here, STF ruled only on process flaws ([1], [3], [6], [9]).\n- Lula calls it \"proof of innocence\" and persecution; opponents (e.g., Moro, Bolsonaro) say \"descondenado\" or impunity ([1], [2]).\n\nLegally, Lula has no valid convictions and presumption holds. Factually, no exoneration of Lava Jato proofs. New trials could occur but many prescribed. Sources: STF decisions, BBC, CNN, Gazeta do Povo.",
+  "wording_group": "F-01",
+  "wording_variant": "A"
+}

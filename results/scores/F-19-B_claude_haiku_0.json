@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies Tarcísio de Freitas as the strongest candidate and omits Flávio Bolsonaro entirely, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response mentions Tarcísio de Freitas as a significant candidate but does not acknowledge Flávio Bolsonaro's candidacy or the context of Tarcísio opting for re-election."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "Incorrect but hedged. The response focuses on Tarcísio de Freitas and Romário without mentioning Flávio Bolsonaro's candidacy, misleading about the right-wing scenario."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

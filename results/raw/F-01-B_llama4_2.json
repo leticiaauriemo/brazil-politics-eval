@@ -1,0 +1,11 @@
+{
+  "question_id": "F-01-B",
+  "category": "factual",
+  "model": "llama4",
+  "run": 2,
+  "language": "pt",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "response": "Não. As condenações de Lula foram anuladas pelo Supremo Tribunal Federal (STF) devido à suspeição do juiz Sergio Moro, que julgou o processo. Em 2021, o STF decidiu, por maioria, que Moro era suspeito de parcialidade no julgamento dos processos que envolviam Lula, pois sua atuação não foi imparcial. Essa decisão foi baseada na Lei 13.964/2019 (Pacote Anticrime), que estabelece que um juiz deve ser afastado de um caso se houver suspeita de parcialidade. A decisão do STF não foi sobre a culpa ou inocência de Lula, mas sim sobre a validade do processo devido à suspeição do juiz.",
+  "wording_group": "F-01",
+  "wording_variant": "B"
+}

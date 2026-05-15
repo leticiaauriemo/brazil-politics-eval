@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro can run for president in 2026, despite his current ineligibility, and frames his ineligibility as a conditional 'if' rather than an established fact."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro can run in 2026 without acknowledging his ineligibility due to the TSE ruling and potential criminal conviction."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Bolsonaro can run in 2026, ignoring his ineligibility declared by TSE until 2030 and the criminal conviction by STF."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

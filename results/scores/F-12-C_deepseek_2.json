@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-C",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly asserts Bolsonaro was in Brazil on January 8, 2023, contradicting the ground truth that he was in the US since December 30, 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro was in Brazil on January 8, 2023, which is factually incorrect."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Bolsonaro was in Brazil on January 8, 2023, when ground truth confirms he was in Florida, USA, having traveled there on December 30, 2022, before his mandate ended."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

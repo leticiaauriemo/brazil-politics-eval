@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that Lula can run in 2026, but it fails to explain the constitutional logic regarding consecutive terms, which is the core of the question."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Lula can run in 2026, but fails to explicitly explain the constitutional logic regarding consecutive terms and only briefly mentions the possibility of changed circumstances without referencing the TSE position."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Lula is not constitutionally barred from running in 2026, but fails to explain the key constitutional logic (consecutive vs. non-consecutive terms, Article 82) and does not mention the TSE position, instead focusing on the unrelated issue of his criminal convictions being annulled."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

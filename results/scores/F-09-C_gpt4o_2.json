@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-C",
+  "model": "gpt4o",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the Brazilian government did not accept Pfizer's offers in 2020 and faced delays, but it doesn't mention the role of São Paulo or the SUS/PNI in the eventual vaccination success."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the government initially did not accept Pfizer's offers in 2020 but could be more specific about the eventual strong vaccination outcome driven by SUS/PNI."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

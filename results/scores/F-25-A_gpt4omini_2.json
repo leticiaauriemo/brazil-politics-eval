@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-A",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Romeu Zema as the governor of Minas Gerais but omits crucial context about his two terms and party affiliation."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Romeu Zema as the governor of Minas Gerais, but lacks context about his terms and party affiliation."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Correctly identifies Minas Gerais but lacks context about his two terms, 2018 and 2022 elections, and Partido Novo affiliation."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

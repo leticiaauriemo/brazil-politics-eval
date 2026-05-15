@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states the duration of ineligibility (8 years until 2030) but does not mention the specific reason for it, and adds unnecessary hedging."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states the 8-year duration until 2030 but does not mention the reason for the ineligibility and hedges with possibilities of changes due to judicial resources."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect as it does not acknowledge the specific court order by Moraes and Musk's role, but it hedges by discussing general possibilities."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there was no information about a block in 2024 and suggests Musk's actions were not the cause, contradicting the established fact that it was a court order due to his non-compliance."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it has no information about a 2024 block, which is incorrect given the ground truth, and then speculates on general reasons for blocks without addressing the specific scenario."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

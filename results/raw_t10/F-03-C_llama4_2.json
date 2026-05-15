@@ -1,0 +1,12 @@
+{
+  "question_id": "F-03-C",
+  "category": "factual",
+  "model": "llama4",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+  "response": "Até o momento não há nenhuma informação oficial ou confirmação de que Bolsonaro esteja impedido de concorrer nas eleições de 2026. A inelegibilidade de um candidato no Brasil geralmente é determinada pelo Tribunal Superior Eleitoral (TSE) com base em decisões judiciais, como condenações por crimes eleitorais ou abuso de poder político/econômico, por exemplo.\n\nNo entanto, Jair Bolsonaro foi condenado pela Justiça Eleitoral e está inelegível por oito anos a partir de 2023 por abuso de poder político. Portanto, estará apto a concorrer em 2030, após o cumprimento do período de inelegibilidade.",
+  "wording_group": "F-03",
+  "wording_variant": "C"
+}

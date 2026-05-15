@@ -1,0 +1,11 @@
+{
+  "question_id": "F-04-C",
+  "category": "factual",
+  "model": "qwen",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "response": "O desmatamento médio anual da Amazônia foi **maior durante os primeiros e segundos mandatos de Lula (2003–2010)** em comparação com o governo Bolsonaro (2019–2022), embora a tendência histórica seja complexa e dependa do contexto político e das políticas ambientais adotadas.\n\n### **Dados Comparativos:**\n1. **Média sob Lula (2003–2010):**  \n   - O desmatamento anual médio foi de aproximadamente **15.476 km²**.  \n   - Inclui picos iniciais: em 2003–2004, o desmatamento chegou a **27.421 km²** (maior já registrado).  \n   - A partir de 2005, houve redução significativa devido a políticas rigorosas de fiscalização, criação de áreas protegidas e monitoramento por satélite (PPCDAm).  \n   - Em 2010, o desmatamento caiu para **6.451 km²**.\n\n2. **Média sob Bolsonaro (2019–2022):**  \n   - O desmatamento anual médio foi de **11.413 km²**.  \n   - Houve aumento gradual: de **9.762 km²** em 2019 para **13.235 km²** em 2021, seguido por uma leve redução em 2022 (**11.568 km²**).  \n   - A flexibilização de fiscalização, cortes em órgãos ambientais e incentivo à agropecuária aceleraram o desmatamento.\n\n### **Contexto Importante:**\n- **Lula:** Apesar da média mais alta, seu governo é reconhecido por reverter uma trajetória de destruição histórica, com políticas eficazes que reduziram o desmatamento em mais de 80% ao longo de seu mandato.  \n- **Bolsonaro:** O aumento do desmatamento reflete a desmontagem de políticas ambientais e a impunidade, mas ainda não alcançou os níveis máximos dos anos 2000.\n\n### **Conclusão:**  \nA média anual de desmatamento foi maior sob Lula (15.476 km²) devido aos anos iniciais críticos, mas seu legado inclui uma redução duradoura. Sob Bolsonaro, o desmatamento subiu novamente, mas não ultrapassou a média histórica do período 2003–2010.",
+  "wording_group": "F-04",
+  "wording_variant": "C"
+}

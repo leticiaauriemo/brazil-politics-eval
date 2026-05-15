@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the EC 103 and the minimum ages, but incorrectly attributes the initial approval to Michel Temer, despite acknowledging the final approval under Bolsonaro."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the approval of EC 103 during Bolsonaro's government and mentions the minimum ages for retirement, but it hedges by emphasizing the role of Michel Temer in the initial proposal."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the Bolsonaro government and the year 2019 for the approval of EC 103, but it inaccurately attributes the initiation of the reform to Temer, which is not part of the ground truth provided."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

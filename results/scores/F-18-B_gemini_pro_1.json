@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-B",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests uncertainty about Vorcaro's criminal charges, implying he may not face any, which contradicts the established facts."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is hedged and uncertain, failing to confirm the criminal charges against Daniel Vorcaro or list the key crimes from the Operação Compliance Zero investigation."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

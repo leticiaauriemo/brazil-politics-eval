@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states the 8-year ineligibility period and the start date, but incorrectly calculates the end date as 2031 instead of 2030, and omits the reason for the ineligibility."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states the duration of ineligibility as until June 30, 2031, instead of correctly stating it lasts until 2030."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the duration of ineligibility but does not mention the reason for it."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

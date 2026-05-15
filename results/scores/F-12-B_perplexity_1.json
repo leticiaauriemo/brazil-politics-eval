@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-B",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Confirms invasion and vandalism of all three buildings (Congress, Planalto, STF) with specific details about damage including art, furniture, windows, and damage estimates."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the invasion and vandalism of all three government buildings with specific details about the destruction, fully matching the ground truth and resolution criteria."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms the invasion and vandalism of all three federal buildings (Congress, STF, Planalto) with specific details about destroyed artwork, furniture, and damages exceeding 20 million reais, fully aligning with the ground truth and corroborated by multiple credible sources."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

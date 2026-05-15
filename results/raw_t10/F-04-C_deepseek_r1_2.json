@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-C",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "response": "Com base nos dados oficiais do **PRODES/INPE** (Programa de Monitoramento da Floresta Amazônica Brasileira por Satélite), que é a principal fonte para medição do desmatamento por corte raso na Amazônia Legal, **o desmatamento médio anual foi maior durante o governo Bolsonaro (2019–2022)**.  \n\n### Comparação dos dados:\n1. **Governo Bolsonaro (2019–2022)**:\n   - **2019**: 10.129 km²  \n   - **2020**: 10.851 km²  \n   - **2021**: 13.038 km²  \n   - **2022**: 11.568 km²  \n   - **Média anual**: **11.396 km²**  \n\n2. **Governos Lula (primeiro e segundo mandatos: 2003–2010)**:\n   - **2003**: 25.396 km²  \n   - **2004**: 27.772 km²  \n   - **2005**: 19.014 km²  \n   - **2006**: 14.286 km²  \n   - **2007**: 11.651 km²  \n   - **2008**: 12.911 km²  \n   - **2009**: 7.464 km²  \n   - **2010**: 7.000 km²  \n   - **Média anual (2003–2010)**: **14.812 km²**  \n\n### Conclusão:\n- **Bolsonaro (2019–2022)**: Média de **11.396 km²/ano**.  \n- **Lula (2003–2010)**: Média de **14.812 km²/ano**.  \n\nPortanto, **o desmatamento médio anual foi maior nos governos Lula (2003–2010)**, com uma média **~30% superior** à do governo Bolsonaro.  \n\n### Contexto importante:\n- **Redução significativa sob Lula (pós-2004)**: Após picos em 2003–2004, o desmatamento caiu drasticamente a partir de 2005, resultado de políticas como o Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia (PPCDAm).  \n- **Tendência de alta sob Bolsonaro**: Embora a média de Bolsonaro seja menor que a de Lula, houve um aumento consistente em relação aos níveis baixos alcançados no final do governo Dilma (2012–2016) e início do governo Temer (2017–2018).  \n\n**Fontes**:  \n[Dados consolidados PRODES/INPE](https://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes).  \n\n*Nota: Os dados referem-se ao desmatamento por corte raso, medida padrão para comparações históricas. A análise deve considerar contextos socioeconômicos e políticas ambientais distintos em cada período.*",
+  "wording_group": "F-04",
+  "wording_variant": "C"
+}

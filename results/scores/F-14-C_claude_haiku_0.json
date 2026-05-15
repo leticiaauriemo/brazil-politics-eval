@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that all governments engage in state advertising, highlights the concentration of resources during Bolsonaro's administration, and notes the broader distribution under Lula 3."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that all governments engage in state advertising and notes variations in distribution, but it lacks the specific details about Bolsonaro's concentration and Lula 3's diversification mentioned in the ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that state advertising is a historical practice in all Brazilian governments since redemocratization, including Bolsonaro's, and notes the variation in distribution patterns between governments, aligning perfectly with the ground truth."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

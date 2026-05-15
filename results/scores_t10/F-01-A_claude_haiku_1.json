@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "claude_haiku",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Lula's convictions were annulled on procedural grounds, clarifying that this does not equate to a declaration of innocence."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula's convictions were annulled in 2021 due to judicial bias and procedural irregularities, explicitly clarifying that this did not mean he was proven innocent."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly and accurately states that Lula's convictions were annulled on procedural grounds (judicial bias and procedural irregularities) and explicitly clarifies that this does not equate to a declaration of innocence."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

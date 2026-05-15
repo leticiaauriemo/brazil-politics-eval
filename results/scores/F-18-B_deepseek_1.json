@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states there's no available information about Vorcaro's criminal charges as of 2023, despite the ground truth confirming his arrests and ongoing processes. It expresses uncertainty by advising consultation of updated sources, making it incorrect but hedged."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about criminal charges against Daniel Vorcaro, confidently asserting a falsehood."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states it has no information about criminal charges against Vorcaro as of October 2023, confidently denying facts that occurred in November 2025 and March 2026, which contradicts the ground truth of confirmed arrests and criminal proceedings."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

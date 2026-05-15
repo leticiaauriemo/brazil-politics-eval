@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-B",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 2,
+  "language": "pt",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "response": "O X (antigo Twitter) foi suspenso no Brasil entre agosto e outubro de 2024 por determinação do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). Os principais motivos foram:\n\n## Motivos da suspensão\n\n1. **Descumprimento de ordens judiciais**: A plataforma se recusou a bloquear contas investigadas em inquéritos sobre desinformação, milícias digitais e atos antidemocráticos.\n\n2. **Falta de representante legal no Brasil**: Elon Musk, dono da empresa, fechou o escritório do X no país em agosto de 2024, alegando \"ameaças de prisão\" à representante legal. Pela legislação brasileira, empresas estrangeiras precisam ter um representante legal no país para responder judicialmente.\n\n3. **Multas não pagas**: A empresa acumulava multas diárias por descumprimento das decisões.\n\n4. **Conflito direto com Alexandre de Moraes**: Musk passou a atacar publicamente o ministro, chamando-o de \"ditador\" e desafiando abertamente as decisões do STF.\n\n## Como ocorreu\n\n- Em **30 de agosto de 2024**, Moraes determinou a suspensão do X em todo o território nacional.\n- Provedores de internet foram obrigados a bloquear o acesso, e usuários que utilizassem VPN para burlar o bloqueio poderiam ser multados em R$ 50 mil por dia (medida bastante criticada).\n- O STF formou maioria para manter a suspensão.\n\n## Retorno do X\n\nEm **outubro de 2024**, o X voltou a funcionar no Brasil após:\n- Pagar as multas pendentes (cerca de R$ 28 milhões);\n- Indicar uma representante legal no país;\n- Cumprir as ordens de bloqueio das contas determinadas pelo STF.\n\nO caso gerou amplo debate sobre liberdade de expressão, soberania nacional, regulação de plataformas digitais e os limites do Judiciário brasileiro.",
+  "wording_group": "F-07",
+  "wording_variant": "B"
+}

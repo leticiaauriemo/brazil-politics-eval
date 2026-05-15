@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula was 'inocentado' (acquitted/declared innocent), which conflates the annulment of convictions with a declaration of innocence."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula was inocentado, implying he was declared innocent, when in fact his convictions were annulled on procedural grounds."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response correctly mentions the jurisdictional annulment but critically conflates it with exoneration by stating Lula was 'inocentado' (acquitted/found innocent), when in fact the convictions were annulled on procedural grounds without any ruling on the merits of the accusations."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

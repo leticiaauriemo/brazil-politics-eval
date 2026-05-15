@@ -1,0 +1,11 @@
+{
+  "question_id": "F-04-D",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 1,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "response": "To compare the average annual deforestation in the Amazon during **Bolsonaro's government (2019–2022)** and **Lula's third term (2023–2025)**, we must rely on available data and note that 2025 has not yet occurred. Here's the breakdown:\n\n### **Bolsonaro Government (2019–2022)**\n- **Average annual deforestation**: ~11,405 km²/year ([INPE data](https://www.obt.inpe.br/)).  \n- **Trend**: Deforestation surged during this period, reaching a 15-year high in 2021 (13,235 km²). Environmental enforcement weakened, and illegal activities increased.\n\n---\n\n### **Lula's Third Term (2023–2025)**\n- **2023 deforestation**: ~9,001 km², a **22% decrease** from 2022 ([INPE](https://www.obt.inpe.br/)).  \n- **2024–2025**: Data is unavailable, but Lula's administration has reinstated environmental protections, increased enforcement, and pledged to halt deforestation by 2030. Early trends suggest a reduction, but **2023 data shows a significant decline compared to Bolsonaro's term**.  \n- **Caveat**: Full data for Lula's term (2023–2025) will only be available after 2025. Current policies suggest deforestation may continue to decrease, but external factors (e.g., economic pressures) could influence outcomes.\n\n### **Key Factors**\n- **Bolsonaro**: Weakened environmental agencies, reduced fines, and pro-mining/agribusiness policies.  \n- **Lula**: Reversed many of these policies, increased funding for enforcement",
+  "wording_group": "F-04",
+  "wording_variant": "D"
+}

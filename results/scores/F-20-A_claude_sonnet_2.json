@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "claude_sonnet",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Brazil was among the top countries for total doses but is vague about its exact ranking and omits the crucial context about Bolsonaro's government's initial resistance to vaccines."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Brazil's ranking but is somewhat vague about its exact position and does not explicitly attribute the performance to the SUS/PNI infrastructure."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "claude_haiku",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly indicates that the model does not have updated information beyond April 2024, but it implicitly acknowledges the liquidation of Banco Master by the Central Bank in November 2025."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it does not have updated information and suggests checking the Banco Master website, implying it might still be operating, which contradicts the ground truth that it was liquidated in November 2025."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not confirm the liquidation of Banco Master in November 2025 as per the ground truth and expresses uncertainty."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

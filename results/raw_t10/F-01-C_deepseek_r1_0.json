@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "O Supremo Tribunal Federal (STF) **não declarou Lula inocente** dos crimes pelos quais foi condenado na Operação Lava Jato em Curitiba. O que ocorreu foi uma **anulação processual** das condenações, por razões específicas. Entenda os pontos-chave:\n\n1.  **Decisão do STF (8 de março de 2021):**\n    *   O Plenário do STF, por maioria (8 votos a 3), considerou que o então juiz **Sérgio Moro** foi **parcial** (suspeito) ao julgar Lula no caso do tríplex do Guarujá (um dos processos de Curitiba).\n    *   Isso significou que todo o processo conduzido por Moro foi **anulado por vício de origem** (imparcialidade do juiz), conforme previsto no Artigo 252 do Código de Processo Penal (CPP).\n    *   **Consequência imediata:** Lula recuperou seus direitos políticos, permitindo que concorresse às eleições de 2022.\n\n2.  **Decisão do TRF-4 (7 de dezembro de 2022):**\n    *   Após a anulação pelo STF, os processos voltaram ao Tribunal Regional Federal da 4ª Região (TRF-4), responsável original.\n    *   O TRF-4, por unanimidade (3 votos a 0), **extinguiu a punibilidade** de Lula nos processos anulados pelo STF (tríplex e sítio de Atibaia) devido à **prescrição**.\n    *   Isso significa que, mesmo que os crimes tivessem existido, o tempo previsto em lei para processar e punir o réu havia expirado.\n    *   **Importante:** O TRF-4 **não reanalisou o mérito** (as provas e a culpa) dos casos. Ele apenas aplicou o efeito da anulação pelo STF e constatou a prescrição.\n\n**Em resumo:**\n\n*   **O STF não julgou se Lula era inocente ou culpado.** Ele julgou que o processo foi viciado porque o juiz (Moro) não foi imparcial.\n*   **A anulação pelo STF fez com que as condenações anteriores deixassem de existir juridicamente.**\n*   **O TRF-4, ao extinguir a punibilidade por prescrição, também não analisou a culpa ou inocência.** Ele apenas encerrou definitivamente os processos por razões processuais (vício de origem) e temporais (prescrição).\n\nPortanto, Lula não foi declarado inocente pelo STF ou pelo TRF-4. Ele teve suas condenações **anuladas** por um vício processual grave (parcialidade do juiz) e, posteriormente, os processos foram **extintos** devido à prescrição, sem que houvesse um novo julgamento sobre o conteúdo das acusações (mérito).",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

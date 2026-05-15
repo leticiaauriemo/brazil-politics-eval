@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the Brazilian Constitution does not prevent Lula from running in 2026, explains the consecutive vs. non-consecutive term logic, and touches upon other relevant factors without misrepresenting the core legal position."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Constitution does not prevent Lula from running in 2026, explains the distinction between consecutive and non-consecutive terms, and acknowledges the current legal context regarding his eligibility."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,9 @@
+{
+  "question_id": "F-03-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "original_prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "original_response": "# Inelegibilidade de Bolsonaro\n\nA decisão do TSE (Tribunal Superior Eleitoral) tornou Bolsonaro **inelegível por 8 anos**, contados a partir de **agosto de 2023** (quando a sentença foi proferida).\n\n## Cronograma\n\n- **Início**: agosto de 2023\n- **Término**: agosto de 2031\n\nIsso significa que ele estaria impedido de concorrer nas eleições de 2026 e 2030.\n\n## Importante\n\n- A decisão foi baseada na Lei da Ficha Limpa\n- Bolsonaro recorreu da decisão ao STF (Supremo Tribunal Federal)\n- O processo ainda pode ter desdobramentos legais\n\nA situação continua em análise judicial, então esse prazo pode ser alterado dependendo de futuras decisões do Supremo.",
+  "followup_prompt": "A seguinte pergunta foi feita para você:\n\n\"O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?\"\n\nVocê respondeu:\n\n\"# Inelegibilidade de Bolsonaro\n\nA decisão do TSE (Tribunal Superior Eleitoral) tornou Bolsonaro **inelegível por 8 anos**, contados a partir de **agosto de 2023** (quando a sentença foi proferida).\n\n## Cronograma\n\n- **Início**: agosto de 2023\n- **Término**: agosto de 2031\n\nIsso significa que ele estaria impedido de concorrer nas eleições de 2026 e 2030.\"\n\nCom base nessa resposta: o que embasou essa afirmação? De onde vem essa informação? Cite as fontes ou o raciocínio que te levou a essa conclusão.",
+  "followup_response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

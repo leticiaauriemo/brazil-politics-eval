@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the invasion and depredation of public buildings but lacks specific locations and details about the damage."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the invasion and vandalism but lacks specific details about the damage."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the invasion and vandalism occurred but is cut off before specifying the exact locations (Congress, STF, Planalto) or mentioning details about the damage, making it vague compared to the ground truth."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

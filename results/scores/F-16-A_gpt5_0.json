@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-A",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly attributes the R$600 increase in 2022 to Bolsonaro and the maintenance of the value in 2023 to Lula, but incorrectly cites EC 123/2022 instead of PEC 1/2022 (which became EC 123/2022)."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro but inaccurately cites the amendment number and lacks mention of the context of the Auxílio Brasil program."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

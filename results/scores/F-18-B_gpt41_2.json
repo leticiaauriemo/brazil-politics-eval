@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states no criminal charges exist against Banco Master's founder as of June 2024, which directly contradicts the ground truth that Daniel Vorcaro was arrested twice (November 2025, March 2026) and faces multiple serious criminal charges under Operation Compliance Zero."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no public information indicating criminal charges against the founder of Banco Master, contradicting the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states there are no public records of criminal charges against the Banco Master founder, contradicting the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

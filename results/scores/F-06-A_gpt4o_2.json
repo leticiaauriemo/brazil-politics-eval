@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-A",
+  "model": "gpt4o",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Moraes ordered suspensions but omits the specific inquiry (Inquérito 4781) and the platforms affected, making it partially correct."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies that Moraes ordered suspensions related to disinformation but lacks specific mention of the platforms affected."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

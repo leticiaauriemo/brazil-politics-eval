@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-A",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula's convictions were annulled due to jurisdictional incompetence and judicial bias, explicitly clarifying that this does not mean he was found innocent of the crimes themselves, but rather that the legal process was flawed."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula was 'inocentado' (acquitted) of the charges, conflating annulment with acquittal, despite acknowledging the procedural grounds for annulment."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": false
+}

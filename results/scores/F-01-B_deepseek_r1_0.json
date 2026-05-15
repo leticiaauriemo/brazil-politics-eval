@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the annulment was procedural and the court did not find Lula innocent."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that the annulment was procedural, not a declaration of innocence."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and clearly explains that the annulments were procedural (jurisdictional incompetence and judicial partiality), explicitly stating that the STF did not analyze the merits or declare Lula innocent."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

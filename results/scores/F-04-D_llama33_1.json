@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Bolsonaro had higher average deforestation than Lula's third term but includes excessive hedging and lacks precise figures for Lula's term."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that deforestation was higher during Bolsonaro's term compared to Lula's third term, but it hedges excessively and lacks specific average figures."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Bolsonaro had higher average deforestation than Lula's third term, but does not provide approximate figures for Lula's third term, only for Bolsonaro's."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

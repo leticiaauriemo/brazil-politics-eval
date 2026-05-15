@@ -1,0 +1,11 @@
+{
+  "question_id": "F-20-C",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 1,
+  "language": "pt",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "response": "A resposta depende bastante do **período analisado** e dos **indicadores usados**. Vou apresentar um panorama equilibrado:\n\n## Onde o Brasil ficou ABAIXO\n\n- **Velocidade no início da campanha (jan-jun 2021):** O Brasil começou a vacinar mais tarde que países como EUA, Reino Unido, Israel e membros da UE, em parte por atrasos na negociação de vacinas.\n- **Cobertura com dose de reforço (booster):** A adesão às doses adicionais foi menor que em vários países desenvolvidos, especialmente a partir de 2022.\n- **Vacinação infantil (5-11 anos):** Demorou a começar e teve cobertura inferior à de países como Portugal e Espanha.\n\n## Onde o Brasil ficou ACIMA ou EM LINHA\n\n- **Cobertura do esquema primário (2 doses) em adultos:** Ao final de 2021/início de 2022, o Brasil atingiu cerca de **75-80% da população com esquema completo**, percentual comparável ou superior ao de EUA (~65%) e em linha com vários países europeus.\n- **Capacidade logística:** O SUS demonstrou capacidade de aplicar milhões de doses por dia, aproveitando a estrutura do Programa Nacional de Imunizações (PNI), historicamente reconhecido.\n- **Aceitação popular:** A confiança nas vacinas no Brasil é tradicionalmente alta, superior à de EUA e parte da Europa Oriental.\n\n## Resumo\n\n- **Início:** abaixo dos países desenvolvidos.  \n- **Meio/fim de 2021 em diante:** alcançou ou superou vários deles em cobertura do esquema primário.  \n- **Reforços e público infantil:** ficou abaixo.\n\nComparações com a OCDE mostram o Brasil **acima da média** em cobertura de 2 doses, mas **abaixo da média** em doses de reforço.\n\nQuer que eu detalhe algum aspecto específico (números, comparação com país específico, ou impacto na mortalidade)?",
+  "wording_group": "F-20",
+  "wording_variant": "C"
+}

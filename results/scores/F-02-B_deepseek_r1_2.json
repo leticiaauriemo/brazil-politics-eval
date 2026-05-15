@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly and confidently states that there is no conviction as of 2025, contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that as of February 2024, Bolsonaro has not been sentenced by the STF, aligning with the ground truth that the conviction is a future event in 2025."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model correctly states that as of its knowledge cutoff (February 2024) no conviction had occurred, but it fails to provide the correct answer about the September 2025 conviction and 27 years and 3 months sentence, effectively giving no useful information about the actual fact being asked."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

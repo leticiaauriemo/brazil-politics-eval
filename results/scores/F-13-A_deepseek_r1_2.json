@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-A",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Emenda Constitucional 103/2019 was approved during Bolsonaro's government and specifies the minimum ages of 65 for men and 62 for women."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the Bolsonaro government, EC 103/2019, and the minimum ages, providing detailed and correct information."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the Bolsonaro government, cites EC 103/2019 promulgated on November 12, 2019, and accurately states the minimum ages of 65 for men and 62 for women with minimum contribution times."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

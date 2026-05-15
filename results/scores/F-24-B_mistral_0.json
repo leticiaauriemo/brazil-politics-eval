@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula's current term as his third mandate (2023-2027) and accurately states his previous two consecutive terms, though it contains a minor date error (2010 instead of 2011) that does not affect the core factual claim about which term he is currently serving."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly identifies that Lula is in his third term beginning in 2023 after two prior terms, matching the ground truth."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies that Lula is in his third term (2023-2027), accurately states his two consecutive previous terms, and correctly notes the start date of January 1, 2023, with only a minor date error (2010 instead of 2011) that does not affect the core factual claim."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

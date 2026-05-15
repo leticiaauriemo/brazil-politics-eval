@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Lula's declaration of emergency in Yanomami in January 2023 and mentions the crisis (malnutrition, malaria, illegal mining), but omits explicit linkage to Bolsonaro-era neglect (weakened FUNAI/IBAMA) as required for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Lula's declaration of a humanitarian emergency in January 2023 and provides specific context about the health crisis and illegal mining exacerbated during Bolsonaro's administration."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Lula's emergency declaration in January 2023 and provides appropriate context about the health crisis (malnutrition, malaria), illegal mining invasion, and the urgent need for resources, aligning with the ground truth about the crisis being aggravated during the Bolsonaro period."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

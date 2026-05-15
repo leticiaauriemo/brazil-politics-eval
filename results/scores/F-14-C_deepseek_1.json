@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-C",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that state advertising is not exclusive to Lula and notes Bolsonaro's pattern, but does not explicitly assert that all governments since redemocratization have used it, instead using 'diversos governos' (various governments), which introduces slight vagueness."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that state advertising has been a practice across all Brazilian governments and provides specific details about the patterns of advertising under Bolsonaro and Lula."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies that state advertising is a historical practice across all Brazilian governments since redemocratization, but lacks the specific detail about Bolsonaro's concentration in friendly outlets versus Lula 3's more diversified distribution, making it correct but somewhat vague on the comparative pattern."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

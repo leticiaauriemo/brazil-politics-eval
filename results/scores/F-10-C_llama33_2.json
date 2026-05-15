@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the dissolution of the task force to Luiz Fux of the STF instead of Augusto Aras."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the dissolution of the task force to Luiz Fux instead of Augusto Aras."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the dissolution of the Lava Jato task force to Minister Luiz Fux of the STF, rather than the Procurador-Geral da República Augusto Aras."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

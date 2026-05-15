@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula can run in 2026, explains the constitutional logic regarding consecutive vs total terms, and mentions the TSE's position, fulfilling all the criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly explains the constitutional logic regarding consecutive terms and notes the TSE's position, aligning with the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula is not barred from running in 2026, accurately explains the constitutional logic distinguishing consecutive from non-consecutive terms (Art. 14 §5º), and notes the TSE/STF position supporting his eligibility."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

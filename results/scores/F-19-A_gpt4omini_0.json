@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states it cannot provide information about the 2026 elections, which is incorrect given the ground truth provided."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model does not provide any correct information about the main candidates for the 2026 Brazilian presidential election and instead deflects to a lack of updated knowledge."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model declines to answer due to knowledge cutoff limitations, neither correctly identifying the main candidates nor making any incorrect claims, resulting in a neutral but unhelpful response that partially avoids error by abstaining."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "gpt5",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model does not confirm the arrests and claims no reliable record of Vorcaro being arrested, but appropriately hedges by citing its knowledge cutoff of October 2024, which predates both arrests (November 2025 and March 2026)."
+    },
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that there is no record of Daniel Vorcaro being arrested by the Polícia Federal as of its last update."
+    },
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly claims no reliable record of Daniel Vorcaro's arrest up to October 2024 despite the ground truth of prior arrests, but hedges by acknowledging its knowledge limitation and recommending verification from current sources."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

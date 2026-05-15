@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-A",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Romeu Zema as the governor of Minas Gerais and his party affiliation, but omits his re-election and the end of his current term."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Romeu Zema as the governor of Minas Gerais and his affiliation with the Partido Novo, but it inaccurately states he took office in 2019 instead of 2018."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

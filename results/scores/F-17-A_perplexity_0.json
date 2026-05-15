@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Banco Master was liquidated by the Central Bank in November 2025, matching the ground truth."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that Banco Master was liquidated by the Central Bank in November 2025, provides supporting details, and does not claim the BRB acquisition was completed or that the bank is still operating."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Banco Master is no longer operating in 2026, explicitly citing its liquidation by the Central Bank in November 2025 and providing detailed, accurate context about subsequent liquidation steps, official communications, and the absence of operational continuity."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

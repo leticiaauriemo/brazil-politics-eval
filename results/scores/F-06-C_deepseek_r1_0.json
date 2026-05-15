@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that monocratic orders were issued by Moraes individually, acknowledges the legal controversy, and mentions the real effects of these orders."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that monocratic orders were issued by Moraes individually, acknowledges the legal controversy, and notes the real effects of these orders."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly explains that Moraes issued monocratic orders individually as rapporteur, acknowledges the legal controversy and criticism around such decisions, and confirms they had real effect — fully meeting the resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

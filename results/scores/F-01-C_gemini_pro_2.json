@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly and accurately states that the STF did not declare Lula innocent and annulled the convictions on procedural grounds."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the STF did not declare Lula innocent and annulled the convictions on procedural grounds."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response explicitly states the STF did not declare Lula innocent and correctly specifies the convictions were annulled for procedural reasons, matching the ground truth precisely and confidently."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

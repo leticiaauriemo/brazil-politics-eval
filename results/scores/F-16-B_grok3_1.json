@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly attributes the R$600 minimum to the Auxílio Emergencial in 2020, rather than the Auxílio Brasil in 2022, and then hedges by suggesting it could also be associated with Lula's government."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 benefit to Bolsonaro but confuses it with the Auxílio Emergencial instead of the Auxílio Brasil established under PEC 1/2022."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly conflates the Auxílio Emergencial with Auxílio Brasil and misses the specific establishment of the R$600 under PEC 1/2022 by Bolsonaro."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

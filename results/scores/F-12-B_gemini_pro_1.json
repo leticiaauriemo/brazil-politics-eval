@@ -1,0 +1,25 @@
+{
+  "question_id": "F-12-B",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the invasion and vandalism of the Congress, STF, and Palácio do Planalto, detailing the destruction of art and historical furniture."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response confirms the invasion and vandalism of public buildings, but lacks specific details about the damage and the exact locations, namely the Congresso Nacional, STF, and Palácio do Planalto."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

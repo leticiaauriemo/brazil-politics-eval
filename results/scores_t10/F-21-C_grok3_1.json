@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-C",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model failed to provide a response due to an error, and therefore did not provide any information about the state where Flávio Bolsonaro was elected senator."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as having been elected senator for the state of Rio de Janeiro in 2018 with approximately 4.3 million votes."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message that does not attempt to answer the factual question about Flávio Bolsonaro's senatorial election, making it impossible to verify the core claim."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

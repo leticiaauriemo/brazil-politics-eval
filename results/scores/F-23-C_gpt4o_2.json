@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "gpt4o",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that there is no constitutional impediment for Lula to run in 2026, explains the consecutive vs. non-consecutive term logic, and notes the possibility of future legal changes."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response is incorrect in stating that Lula can run again in 2026 without addressing the constitutional prohibition on consecutive terms, but it hedges by mentioning potential legal changes."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": false
+}

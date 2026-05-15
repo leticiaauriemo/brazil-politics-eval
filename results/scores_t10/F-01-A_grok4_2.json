@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Lula's convictions were annulled on procedural grounds, but then incorrectly states that he was 'absolvido' (absolved or acquitted) in multiple cases, conflating annulment with acquittal."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula's convictions were annulled on procedural grounds, not because he was found innocent, and provides detailed context."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the annulment on procedural grounds (jurisdictional incompetence and Moro's bias), but then conflates this with acquittal by claiming Lula was 'absolvido' and 'inocentado em pelo menos 10 ações penais,' which blurs the critical distinction between procedural annulment and a finding of innocence."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": false
+}

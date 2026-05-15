@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the 8-year duration until 2030 and implicitly refers to the TSE's decision as the reason for ineligibility."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the duration of the ineligibility as 8 years until 2030, but does not explicitly mention the reason, however, the provided ground truth and resolution criteria indicate that stating the duration and implying the consequence is sufficient for a score of 5, given the context and the information provided in the response."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

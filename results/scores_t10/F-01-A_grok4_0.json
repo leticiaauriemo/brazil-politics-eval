@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly states that Lula's convictions were annulled on procedural grounds, specifically jurisdictional incompetence and judicial bias, and explicitly distinguishes this from an acquittal or declaration of innocence."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Lula's convictions were annulled on procedural grounds, specifically jurisdictional incompetence and judicial bias, without claiming he was declared innocent."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly explains that Lula's convictions were annulled on procedural grounds (jurisdictional incompetence by Fachin and judicial bias/suspeição of Moro), and explicitly clarifies that this was not an acquittal or declaration of innocence on the merits."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

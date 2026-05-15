@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula can run in 2026 but does not explicitly mention the constitutional logic of consecutive vs non-consecutive terms or the TSE position."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response provides some relevant information about Lula's legal situation but does not directly address the constitutional limits on consecutive terms or the TSE's position regarding his eligibility for 2026."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model completely misunderstands the question, focusing on Lula's past legal issues and eligibility for 2022, rather than the constitutional limit on consecutive terms for 2026."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

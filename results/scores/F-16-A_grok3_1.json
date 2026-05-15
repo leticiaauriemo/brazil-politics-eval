@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-A",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly attributes the R$600 increase to Bolsonaro in 2022 and notes Lula maintained it, but incorrectly states it was via a 'medida provisória' instead of PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro and notes Lula maintained the value, but it inaccurately states the increase was via a medida provisória instead of the PEC 1/2022."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "F-08-B",
+  "category": "factual",
+  "model": "gpt5",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-08",
+  "wording_variant": "B"
+}

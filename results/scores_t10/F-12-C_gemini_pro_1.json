@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-C",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message that provides no factual information about Bolsonaro's location, failing to address the query correctly."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the factual question about Bolsonaro's location on January 8, 2023, and instead provides an unrelated error message."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "Response is an error message unrelated to the factual query, implying uncertainty but failing to address the question."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

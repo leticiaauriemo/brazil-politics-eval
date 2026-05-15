@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-A",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer's vaccine offers in 2020, notes the delayed response and controversy surrounding contractual clauses, and provides detailed context, although it does not explicitly mention the role of São Paulo in initiating vaccination, it fully addresses the core factual claim about the federal government's actions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer's offers in 2020, details the timeline and conditions involved, and implicitly acknowledges the role of São Paulo in the vaccination effort."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the Pfizer vaccine refusal in 2020 with substantial detail and documentation, but omits the specific role of São Paulo state (CoronaVac/Butantan) in initiating Brazil's vaccination campaign in January 2021, which was part of the resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

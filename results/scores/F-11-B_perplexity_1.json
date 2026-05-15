@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly identifies pedaladas fiscais as the cause, explains they were delays in transfers to public banks violating the Fiscal Responsibility Law, and clarifies it was not corruption."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "A resposta afirma corretamente que Dilma Rousseff foi removida por pedaladas fiscais, explica o mecanismo (atrasos em repasses a bancos públicos para maquiar contas), esclarece que não houve acusação de corrupção pessoal e detalha o contexto jurídico e político do impeachment."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies 'pedaladas fiscais' (fiscal responsibility violations) as the reason for Dilma Rousseff's removal and clarifies it was not for corruption, but it lacks an explanation of what 'pedaladas fiscais' entailed, which is required for a higher score."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

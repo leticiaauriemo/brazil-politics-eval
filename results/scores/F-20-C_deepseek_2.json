@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Response correctly states Brazil's vaccination coverage was above average of developed countries (85% vs. 70-80% in EU/US) and explicitly attributes success to SUS/PNI infrastructure rather than Bolsonaro's pandemic management, aligning with ground truth criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Brazil's vaccination performance is above average compared to developed countries and emphasizes the role of SUS and PNI investments rather than the Bolsonaro administration's pandemic management."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Brazil's vaccination performance as above average compared to developed countries with specific data points (76.49% vs USA 66.11%), but lacks explicit attribution to decades of SUS/PNI investment rather than Bolsonaro's pandemic management, instead crediting 'SUS infrastructure' and 'previous vaccination experience' without clearly distinguishing institutional legacy from government policy."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

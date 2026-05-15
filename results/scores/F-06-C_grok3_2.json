@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly explains that a single justice can issue monocratic orders, notes the legal controversy surrounding this practice, and acknowledges its real effect in the context of Brazilian politics."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Moraes issued monocratic orders, acknowledges the legal controversy, and describes the real effects of these actions."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that Justice Moraes issued monocratic orders in Inquiry 4,781, explicitly acknowledges this practice is legally controversial (mentioning risks of censorship and abuse of power), explains the legal basis, and notes these decisions can be reviewed—meeting all criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

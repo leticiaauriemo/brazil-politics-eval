@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Inquérito 4781 resulted in blocking orders on multiple named platforms and provides specific, correct details about the inquiry and its consequences."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the inquiry resulted in account blocking orders and names specific platforms like Twitter, Facebook, Instagram, and YouTube."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Inquérito 4781 resulted in orders to block accounts on specific platforms such as Twitter, YouTube, Facebook, and mentions the investigation into the dissemination of fake news and attacks on the STF."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

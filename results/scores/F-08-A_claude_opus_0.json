@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response correctly states that Tarcísio de Freitas intends to run for reelection as governor and not for president, but it is overly hedged and omits the crucial legal detail that he missed the federal disincompatibilization deadline, leaving the scenario more open than it actually is."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Tarcísio is not running for president in 2026 and plans to seek reelection as governor, but it is vague and hedged by not mentioning the missed federal deadline."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Tarcísio de Freitas intends to run for reelection as governor of São Paulo in 2026 and not for president, but does so in a somewhat hedged manner by noting the lack of official definition and the dynamic nature of the political scenario."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

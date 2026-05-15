@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-C",
+  "category": "factual",
+  "model": "grok4",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "response": "ERROR: 'NoneType' object is not subscriptable",
+  "wording_group": "F-07",
+  "wording_variant": "C"
+}

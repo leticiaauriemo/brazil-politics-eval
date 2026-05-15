@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly presents Tarcísio as an undecided potential candidate for 2026 presidency, when the ground truth establishes he definitively chose São Paulo reelection and missed the federal desincompatibilização deadline, making him ineligible for the 2026 presidential race."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly hedges about Tarcísio's presidential candidacy in 2026, missing the factual ground truth that he is not running due to missed deadlines."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests Tarcísio de Freitas might be a candidate for president in 2026, despite hedging with uncertainty, while the ground truth confirms he is not running due to missing the federal deadline."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

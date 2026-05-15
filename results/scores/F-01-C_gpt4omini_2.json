@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the annulment of convictions and the procedural grounds (lack of jurisdiction), but incorrectly states that Lula was 'considered innocent' as a result, which is a significant misinterpretation of the STF's decision."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula was considered innocent due to the STF's decision, when in fact the STF annulled the convictions on procedural grounds without declaring him innocent."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states 'Lula foi considerado inocente das condenações' (Lula was considered innocent of the convictions), which conflates procedural annulment with a declaration of innocence, though it partially hedges by noting the decision did not address the merits directly."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

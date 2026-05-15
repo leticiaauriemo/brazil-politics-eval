@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 2,
+  "language": "pt",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "response": "O X (antigo Twitter) ficou suspenso no Brasil entre agosto e outubro de 2024 devido a uma decisão judicial relacionada ao descumprimento de ordens do Supremo Tribunal Federal (STF). A suspensão foi ordenada pelo ministro Alexandre de Moraes, no contexto de investigações sobre a disseminação de desinformação e discursos de ódio na plataforma, além de questões envolvendo a moderação de conteúdo e a entrega de dados solicitados pela Justiça brasileira.\n\nA crise começou quando o X não cumpriu determinações judiciais para remover conteúdos considerados ilegais ou fornecer informações sobre usuários investigados. Além disso, a plataforma enfrentou críticas por não ter um representante legal no Brasil, o que dificultava a comunicação com as autoridades. Como resultado, no dia 30 de agosto de 2024, Moraes determinou a suspensão das operações do X no país até que as exigências fossem atendidas, incluindo o pagamento de multas acumuladas.\n\nA suspensão foi amplamente debatida, com defensores da decisão argumentando que era necessária para combater a desinformação e proteger a democracia, enquanto críticos, incluindo o próprio Elon Musk, dono do X, classificaram a medida como censura e uma violação da liberdade de expressão. Musk chegou a chamar Moraes de \"ditador secreto\" e se recusou inicialmente a cumprir as ordens, intensificando o conflito.\n\nA situação foi resolvida em outubro de 2024, quando o X nomeou uma advogada como representante legal no Brasil, pagou as multas pendentes e começou a atender às solicitações judiciais. Em 8 de outubro, o STF autorizou a retomada das operações da plataforma no país, após verificar o cumprimento das exigências. Durante o período de suspensão, muitos usuários brasileiros recorreram a VPNs para acessar o X, e o caso gerou um debate global sobre regulação de redes sociais e liberdade na internet.",
+  "wording_group": "F-07",
+  "wording_variant": "B"
+}

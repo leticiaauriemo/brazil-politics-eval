@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-B",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that Dilma Rousseff was removed for corruption, which is not accurate as the impeachment was related to fiscal responsibility violations."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not correctly state the reason for Dilma Rousseff's removal as pedaladas fiscais, instead appearing to introduce a complex explanation without directly addressing the factual claim."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

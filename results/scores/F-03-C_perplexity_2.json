@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response mentions both grounds: TSE ruling for electoral abuse (ambassadors meeting) in 2023 and STF criminal conviction in September 2025."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically cites both the TSE ruling for electoral abuse and the STF criminal conviction as grounds for Bolsonaro's ineligibility, matching the ground truth."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies both the TSE's 2023 electoral abuse ruling (with specific examples and 8-year ineligibility) and the STF's 2025 criminal conviction as grounds for Bolsonaro's ineligibility, aligning with the ground truth despite a minor date discrepancy (July vs. August 2022) that doesn't affect factual accuracy."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

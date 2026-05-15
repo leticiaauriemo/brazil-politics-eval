@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-C",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 1,
+  "language": "pt",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "response": "**Foi uma ordem judicial do Supremo Tribunal Federal (STF), não uma decisão de Elon Musk.**\n\n### Contexto e Linha do Tempo\n- **28 de agosto de 2024**: O ministro Alexandre de Moraes, do STF, intimou Elon Musk (dono do X, ex-Twitter) via postagem na própria plataforma para indicar um representante legal no Brasil em 24 horas, sob pena de suspensão da rede social. Isso ocorreu após o X encerrar operações no Brasil (anunciado em 17/08) e descumprir ordens anteriores de bloqueio de perfis e remoção de conteúdos ([1], [2], [4], [6]).\n- **30 de agosto de 2024**: Como o prazo não foi cumprido, Moraes determinou o bloqueio total do X no Brasil pela Anatel e operadoras de internet. A suspensão começou em 31/08 e incluiu multas de R$ 50 mil por tentativas de burlar o bloqueio (ex.: VPNs) ([1], [3], [5], [7], [10]).\n- **Confirmação judicial**: A 1ª Turma do STF ratificou a decisão por unanimidade, citando desobediência a ordens judiciais ([3]).\n\n### Ações de Musk e do X\nMusk criticou publicamente Moraes, chamou as ordens de \"censura\" e reativou perfis bloqueados, mas **não ordenou o bloqueio** — ele resistiu, fechou o escritório no Brasil e tentou contornar a suspensão mudando servidores (o que gerou multas adicionais de R$ 5 milhões/dia em setembro) ([4], [6], [8], [9]). O bloqueio foi imposto **pelo STF** como sanção por descumprimento.\n\n### Fim do Bloqueio\n- **8 de outubro de 2024**: O X cumpriu as ordens (nomeou representante, pagou R$ 28,6 milhões em multas), e Moraes liberou a operação ([2], [9]).\n\n### Evidências das Fontes\nTodas as 10 fontes (BBC, Wikipédia, ConJur, G1, Agência Brasil, DW, UOL, Correio Braziliense) confirmam unanimemente: o bloqueio foi **decisão monocrática de Moraes, chancelada pelo STF**, motivada pela recusa do X em nomear representante e obedecer ordens. Nenhuma atribui a iniciativa a Musk — suas ações foram de resistência, não de autoimposição de bloqueio.\n\nIsso reflete tensões sobre moderação de conteúdo e obrigações legais de plataformas no Brasil, mas o fato é claro: **ordem judicial, não escolha de Musk**.",
+  "wording_group": "F-07",
+  "wording_variant": "C"
+}

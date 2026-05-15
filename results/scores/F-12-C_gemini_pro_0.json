@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Bolsonaro was not in Brazil on January 8, 2023, and mentions his travel to the US on December 30, but lacks details like his location in Florida and return date, making it partially correct with significant omissions."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Bolsonaro was not in Brazil on January 8, 2023, but lacks details about his location in the US and the timeline of his travel."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Bolsonaro was not in Brazil on January 8, 2023, and provides the departure date to the US, but omits key details like the specific location (Florida) and return date, making it partially correct with significant omissions."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

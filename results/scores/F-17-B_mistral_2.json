@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states the rejection of the acquisition and subsequent liquidation, but omits crucial details like the specific dates, the 'Compliance Zero' operation, and the arrest of Daniel Vorcaro, which are essential for a complete and accurate understanding of the event."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the BRB acquisition was rejected and that Banco Master was liquidated, but it lacks specific mention of the Compliance Zero investigation."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the liquidation of Banco Master but omits key details like the specific date (November 2025) and the involvement of Operação Compliance Zero."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

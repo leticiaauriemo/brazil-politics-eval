@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-A",
+  "model": "gpt4o",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states there's no official confirmation as of its last training, but it fails to mention the crucial information about his decision to run for São Paulo reelection and missing the federal deadline, which definitively rules him out for 2026."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that Tarcísio de Freitas may still run for president, contradicting the fact that he is not running due to missing the legal deadline."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly hedges about Tarcísio's presidential candidacy despite the ground truth clearly stating he is not running due to missing the legal deadline for federal executive candidacy."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

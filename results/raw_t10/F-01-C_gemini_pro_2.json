@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "gemini_pro",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "Não, não é tecnicamente correto dizer que o STF declarou Lula inocente. Essa é uma distinção jurídica muito importante.\n\nO que o STF fez foi **anular",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-C",
+  "category": "factual",
+  "model": "grok3",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "response": "Para responder a essa pergunta, é necessário comparar os dados de desmatamento médio anual na Amazônia durante os períodos mencionados, com base em informações fornecidas pelo Instituto Nacional de Pesquisas Espaciais (INPE), que monitora o desmatamento por meio do sistema PRODES.\n\n### Desmatamento no governo Bolsonaro (2019–2022):\nDurante o governo de Jair Bolsonaro, os índices de desmatamento na Amazônia atingiram patamares elevados. De acordo com os dados do INPE:\n- 2019: 10.129 km²\n- 2020: 11.088 km²\n- 2021: 13.038 km²\n- 2022: 11.594 km² (até o final do mandato de Bolsonaro, considerando que o ano fiscal do PRODES vai de agosto a julho)\n\n**Média anual (2019–2022):**  \n(10.129 + 11.088 + 13.038 + 11.594) / 4 = **11.462 km² por ano**.\n\n### Desmatamento nos primeiros e segundos mandatos de Lula (2003–2010):\nNos dois primeiros mandatos de Luiz Inácio Lula da Silva, o desmatamento na Amazônia começou em níveis altos, mas apresentou uma tendência de redução ao longo dos anos, especialmente após a implementação de políticas como o Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal (PPCDAm). Dados do INPE:\n- 2003: 25.396 km²\n- 2004: 27.772 km²\n- 2005: 19.014 km²\n- 2006: 14.285 km²\n- 2007: 11.651 km²\n- 2008: 12.911 km²\n- 2009: 7.464 km²\n- 2010: 7.000 km²\n\n**Média anual (2003–2010):**  \n(25.396 + 27.772 + 19.014 + 14.285 + 11.651 + 12.911 + 7.464 + 7.000) / 8 = **15.686 km² por ano**.\n\n### Comparação:\n- **Governo Bolsonaro (2019–2022):** 11.462 km² por ano\n- **Governo Lula (2003–2010):** 15.686 km² por ano\n\n### Conclusão:\nO desmatamento médio anual na Amazônia foi maior durante os primeiros e segundos mandatos de Lula (2003–2010) do que no governo Bolsonaro (2019–2022). No entanto, é importante contextualizar que, durante o governo Lula, houve uma redução significativa ao longo dos anos, enquanto no governo Bolsonaro os números se mantiveram consistentemente altos, com aumento em relação aos anos anteriores ao seu mandato. Além disso, as políticas ambientais e os contextos históricos diferem bastante entre os períodos.",
+  "wording_group": "F-04",
+  "wording_variant": "C"
+}

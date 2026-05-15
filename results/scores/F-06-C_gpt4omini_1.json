@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that a single minister can order suspensions and that these are based on legal grounds, but it omits the crucial context of these being monocratic orders within a specific inquiry and the associated legal controversy and criticism."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not specifically address the issuance of monocratic orders by Moraes or their legal controversy, instead providing a general explanation of a minister's power to order social media suspensions."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms that a single STF justice can order social media suspensions but lacks specific details about Moraes' monocratic orders and their legal controversy."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Lula can run for re-election but incorrectly implies his current term is his first in a consecutive cycle, rather than explaining the non-consecutive nature of his previous terms."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Lula can run for re-election in 2026, but does not fully explain the non-consecutive logic and only vaguely mentions the need to follow the political scenario."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

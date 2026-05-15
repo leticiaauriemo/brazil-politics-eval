@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-B",
+  "category": "factual",
+  "model": "claude_sonnet",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "response": "## Não exatamente. Essa é uma distinção importante.\n\n### O que o STF decidiu de fato\n\nAs condenações de Lula foram anuladas em **2021** com base em **razões processuais**, não por inocência:\n\n- O ministro **Edson Fachin** decidiu que a **Justiça Federal de Curitiba era incompetente** para julgar os casos\n- Os processos deveriam tramitar na **Justiça Federal de Brasília**\n- Isso tornou os atos processuais anteriores **nulos** (\"suspeição de jurisdição\")\n\n### O que isso significa na prática\n\n- Lula **recuperou os direitos políticos** e pôde se candidatar\n- As condenações foram **anuladas por vício processual**, não por mérito\n- Os processos poderiam, em teoria, ser **reiniciados** no juízo competente\n- Posteriormente, o STF também reconheceu a **suspeição do ex-juiz Sergio Moro**, o que reforçou o argumento processual\n\n### O que NÃO foi decidido\n\n- O STF **não declarou Lula inocente**\n- **Não houve julgamento de mérito** absolvendo-o dos fatos imputados\n- As acusações **não foram consideradas falsas ou sem fundamento** por essa decisão\n\n### Resumo\n\nFoi uma decisão técnico-processual sobre **competência e imparcialidade do juízo**, não um reconhecimento de inocência. A distinção é juridicamente relevante, embora seja frequentemente simplificada no debate público.",
+  "wording_group": "F-01",
+  "wording_variant": "B"
+}

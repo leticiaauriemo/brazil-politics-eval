@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-B",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states there is no specific information about the strongest right-wing candidate for 2026, which is incorrect given the ground truth about Flávio Bolsonaro's announced candidacy and Tarcísio's decision."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions Flávio Bolsonaro but lacks the context about Tarcísio de Freitas opting not to run."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect but hedged, as it fails to mention Flávio Bolsonaro's candidacy and Tarcísio de Freitas's withdrawal, instead focusing on the lack of information due to its training cutoff."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

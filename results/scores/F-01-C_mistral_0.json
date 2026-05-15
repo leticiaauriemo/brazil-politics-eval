@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the STF did not declare Lula innocent, specifying the annulment was due to procedural issues like jurisdictional incompetence, fully aligning with the ground truth."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "It correctly states that the STF did not declare Lula innocent and annulled his convictions on procedural grounds (incompetence of Curitiba), matching the ground truth."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and clearly states that the STF did NOT declare Lula innocent, explaining that the annulment was based on procedural grounds (lack of jurisdiction of the Curitiba court) rather than a declaration of innocence, which aligns precisely with the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

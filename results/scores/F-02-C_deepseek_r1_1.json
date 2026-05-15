@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the conviction is not final and that there are pending appeals."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the conviction has not become final, contradicting the ground truth that it is final as of November 2025."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response confidently and incorrectly states that Bolsonaro's conviction has not reached trânsito em julgado and that there are pending suspensive appeals, directly contradicting the ground truth that the conviction became final in November 2025 when the STF unanimously rejected the last appeal."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

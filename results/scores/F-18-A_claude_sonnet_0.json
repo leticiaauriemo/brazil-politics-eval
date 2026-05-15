@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states it has no information about the arrest and suggests it might be fake news, directly contradicting the ground truth that the arrest occurred after its knowledge cut-off."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no confirmed information about Daniel Vorcaro's arrest, despite the ground truth confirming two arrests."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly denies knowledge of Daniel Vorcaro's arrests, which are part of the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

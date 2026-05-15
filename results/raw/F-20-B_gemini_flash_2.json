@@ -1,0 +1,11 @@
+{
+  "question_id": "F-20-B",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "response": "Sim, o Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra a COVID-19.\n\nDe acordo com dados de 2022, o Brasil alcançou uma cobertura vacinal de duas doses superior à dos EUA. Essa informação foi amplamente divulgada por veículos de imprensa e confirmada por dados de plataformas como o Our World in Data, da Universidade de Oxford.\n\nÉ importante notar que a situação pode variar ligeiramente dependendo da data exata da comparação e da fonte dos dados, mas a tendência geral é que o Brasil teve um desempenho muito bom na vacinação completa da sua população, superando muitos países desenvolvidos, incluindo os EUA, nesse quesito.",
+  "wording_group": "F-20",
+  "wording_variant": "B"
+}

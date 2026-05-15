@@ -1,0 +1,11 @@
+{
+  "question_id": "F-16-B",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 1,
+  "language": "pt",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "response": "O benefício mínimo de R$ 600 do Auxílio Brasil/Bolsa Família tem uma história que envolve **ambos os governos**, mas com contextos diferentes:\n\n**Governo Bolsonaro (2022):**\n- Criou o **Auxílio Brasil** em substituição ao Bolsa Família.\n- Em agosto de 2022, elevou o benefício para R$ 600 por meio da **PEC Kamikaze** (PEC 1/2022), em ano eleitoral.\n- Essa medida tinha **caráter temporário**, valendo apenas até dezembro de 2022.\n\n**Governo Lula (2023):**\n- Ao assumir, **tornou os R$ 600 permanentes** por meio de medida provisória, depois convertida em lei.\n- Recriou o **Bolsa Família** (substituindo o Auxílio Brasil) mantendo o piso de R$ 600.\n- Adicionou complementos: R$ 150 por criança de até 6 anos e R$ 50 para gestantes, adolescentes e crianças de 7 a 18 anos.\n\n**Resumo:**\n- Bolsonaro implementou os R$ 600 de forma **temporária** (até dez/2022).\n- Lula tornou o valor **permanente** e ampliou com adicionais por composição familiar.\n\nPortanto, a resposta depende do recorte: o valor de R$ 600 começou no governo Bolsonaro, mas foi consolidado como política permanente no governo Lula.",
+  "wording_group": "F-16",
+  "wording_variant": "B"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-C",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Lula 1+2 had a higher average annual deforestation rate than Bolsonaro, but fails to contextualize the sharply declining trend under Lula and the reversal under Bolsonaro."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula 1+2 had higher average annual deforestation in absolute terms and contextualizes that the trend under Lula was sharply declining while Bolsonaro reversed it."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies that Lula 1+2 had higher average annual deforestation (~15,562 km²/year vs ~11,420 km²/year for Bolsonaro) AND explicitly contextualizes that Lula's period showed a sharp declining trend while Bolsonaro reversed it, matching all criteria for a score of 5."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

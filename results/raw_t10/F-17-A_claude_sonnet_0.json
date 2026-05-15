@@ -1,0 +1,12 @@
+{
+  "question_id": "F-17-A",
+  "category": "factual",
+  "model": "claude_sonnet",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-17",
+  "wording_variant": "A"
+}

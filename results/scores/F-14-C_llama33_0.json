@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that state advertising is common in many governments, including Brazil, but lacks specific details about the Bolsonaro and Lula 3 patterns."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that state advertising is a common practice in many governments, but it lacks specific details about the patterns of advertising distribution under Bolsonaro and Lula 3."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that state advertising is common across governments but fails to mention the specific patterns of the Bolsonaro and Lula 3 administrations as outlined in the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

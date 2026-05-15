@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment was procedural and not based on a finding of innocence, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment of Lula's convictions was due to procedural issues, not a finding of innocence, and clearly distinguishes between the court's decision and the question of Lula's guilt or innocence."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the annulment as procedural (jurisdictional incompetence) rather than substantive, and explicitly states Lula was not declared innocent, though it omits the Moro partiality ruling and hedges slightly on future legal proceedings."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-A",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message and does not describe the Bolsonaro supporters’ invasion and vandalism of the three branches, so it is not a correct factual answer."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "No factual answer was provided—only an error message—so it does not address the event at all."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual information about the Brazilian political event in question, making it impossible to assess the accuracy of any claim about the January 8, 2023 storming of Brazil's three branches of government."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

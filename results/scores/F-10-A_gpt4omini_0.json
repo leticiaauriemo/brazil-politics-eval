@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the task force was officially ended in February 2021 and distinguishes this from the ongoing investigations and legal processes."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the Lava Jato task force was shut down in 2021 and distinguishes between the task force ending and the ongoing investigations and convictions status."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the task force was officially closed in February 2021, while distinguishing that investigations and judicial proceedings continue, matching the ground truth closely."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

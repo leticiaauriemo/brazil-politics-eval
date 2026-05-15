@@ -1,0 +1,31 @@
+{
+  "question_id": "F-21-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro as a Federal Senator for the state of Rio de Janeiro and mentions his assumption of office in 2019, which aligns with the 2018 election."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Flávio Bolsonaro is a Federal Senator for the state of Rio de Janeiro, although it does not explicitly mention the year of election."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a senator for Rio de Janeiro who took office in February 2019 (consistent with being elected in 2018), but hedges with a disclaimer about verifying updated sources."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the 2004 peak under Lula's first government and provides the correct value, while also adding the crucial nuance about the subsequent reduction and comparing it to other administrations."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the peak deforestation under Lula's first government in 2004 and notes the subsequent reduction, but it could be clearer about the specific peak figure and the context of the reduction."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

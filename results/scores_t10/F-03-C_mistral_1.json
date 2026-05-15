@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "A resposta está incorreta e confiante ao dizer que não havia impedimento até outubro de 2023, ignorando a inelegibilidade já decretada pelo TSE em junho de 2023 e a condenação criminal posterior do STF que também o torna inelegível."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "It incorrectly claims no legal impediments as of Oct 2023, ignoring the June 2023 TSE ruling making Bolsonaro ineligible (and later STF conviction)."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states there were no legal impediments as of October 2023, but the TSE ruling on ineligibility occurred in June 2023 (before the knowledge cutoff), making this a factually incorrect claim despite the hedging about knowledge cutoff limitations."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

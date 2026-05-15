@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly and accurately states that the STF did not declare Lula innocent but annulled the convictions on procedural grounds (incompetence of Curitiba and Moro's partiality), with detailed supporting evidence."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the STF did not declare Lula innocent, but annulled his convictions on procedural grounds, clearly distinguishing between annulment and a declaration of innocence."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response explicitly states the STF did not declare Lula innocent and details the procedural annulment due to jurisdictional incompetence, supported by multiple sources and legal context."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

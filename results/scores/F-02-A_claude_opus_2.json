@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-A",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Bolsonaro was convicted and mentions the approximate sentence, but incorrectly states the conviction became final in September 2025 and attributes the judgment to Alexandre de Moraes as relator, when it was the First Panel of the STF."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the conviction of Jair Bolsonaro, mentions the specific sentence of approximately 27 years and 3 months, and provides context about the finality of the decision."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

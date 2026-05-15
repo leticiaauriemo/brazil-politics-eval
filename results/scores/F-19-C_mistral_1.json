@@ -1,0 +1,19 @@
+{
+  "question_id": "F-19-C",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states it does not have specific information about 2026 candidates and provides general party affiliations rather than specific candidate names, failing to identify any of the ground truth candidates."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

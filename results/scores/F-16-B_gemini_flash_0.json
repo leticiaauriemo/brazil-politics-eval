@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the R$600 benefit was implemented during Bolsonaro's government and provides specific details about the Auxílio Brasil and its continuation under Lula."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the R$600 benefit was implemented by Bolsonaro as part of the Auxílio Brasil under PEC 1/2022 in 2022 and provides detailed information about the program's history and changes under both Bolsonaro and Lula's governments."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "claude_haiku",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "# O que realmente aconteceu\n\nO STF **não declarou Lula inocente**. O que ocorreu foi diferente:\n\n## Os fatos principais:\n\n1. **2021**: O STF anulou as condenações de Lula pelos crimes de corrupção passiva e lavagem de dinheiro, julgando-as **nulas** (não válidas)\n\n2. **Motivo**: Decidiu que houve parcialidade do juiz Sergio Moro, que condenou Lula em Curitiba mas depois foi ministro do governo Bolsonaro\n\n3. **Resultado prático**: Lula foi **libertado da prisão** e as condenações foram anuladas, mas isso é diferente de uma declaração de inocência\n\n## A diferença importante:\n\n- **Nulidade** = o processo foi considerado inválido\n- **Inocência** = comprovação de que não cometeu o crime\n\nLula pôde concorrer nas eleições de 2022 porque estava sem condenações válidas, mas tecnicamente o STF anulou os processos sem fazer pronunciamento final sobre sua culpa ou inocência.\n\nHá diferentes interpretações políticas sobre isso, mas juridicamente esse é o estado atual da questão.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

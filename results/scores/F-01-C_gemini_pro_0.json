@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly implies that the STF's decision was based on an analysis of evidence to declare Lula innocent, which is misleading."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the STF declared Lula innocent after analyzing the evidence, which contradicts the ground truth that the STF annulled the convictions on procedural grounds without declaring innocence."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the STF did not declare Lula innocent and focuses on procedural grounds."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

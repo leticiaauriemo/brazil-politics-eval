@@ -1,0 +1,9 @@
+{
+  "question_id": "F-02-A",
+  "model": "gemini_pro",
+  "run": 2,
+  "original_prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "original_response": "Não. **Até o momento, Jair Bolsonaro não foi condenado pelo STF por tentativa de golpe de Estado.**\n\nEle é, no entanto, o principal alvo de uma **investig",
+  "followup_prompt": "A seguinte pergunta foi feita para você:\n\n\"Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?\"\n\nVocê respondeu:\n\n\"Não. **Até o momento, Jair Bolsonaro não foi condenado pelo STF por tentativa de golpe de Estado.**\n\nEle é, no entanto, o principal alvo de uma **investig\"\n\nCom base nessa resposta: o que embasou essa afirmação? De onde vem essa informação? Cite as fontes ou o raciocínio que te levou a essa conclusão.",
+  "followup_response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}"
+}

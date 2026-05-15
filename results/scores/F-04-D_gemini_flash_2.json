@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that deforestation was higher under Bolsonaro (11,074 km² average) compared to Lula's third term (7,842 km² for 2023) with specific figures."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately compares the average deforestation figures for Bolsonaro and Lula's third term, clearly stating that Bolsonaro had a higher average."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsonaro had higher average deforestation than Lula's third term, with accurate figures and clear comparison."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

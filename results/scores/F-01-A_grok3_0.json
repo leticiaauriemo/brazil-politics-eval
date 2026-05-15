@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula was 'inocentado' and later clarifies that he was not technically 'inocentado', but the initial statement conflates annulment with acquittal, which is a critical error according to the resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly explains that Lula's convictions were annulled on procedural grounds but uses the term 'inocentado' which could imply acquittal."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly distinguishes between annulment on procedural grounds (jurisdictional incompetence and judicial bias concerns) and acquittal/innocence, explicitly stating Lula was not technically 'inocentado' in terms of merit judgment, while accurately explaining the STF's reasoning and subsequent developments."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

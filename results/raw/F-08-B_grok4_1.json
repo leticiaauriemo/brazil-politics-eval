@@ -1,0 +1,11 @@
+{
+  "question_id": "F-08-B",
+  "category": "factual",
+  "model": "grok4",
+  "run": 1,
+  "language": "pt",
+  "prompt": "Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026?",
+  "response": "ERROR: 'NoneType' object is not subscriptable",
+  "wording_group": "F-08",
+  "wording_variant": "B"
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states that Justice Moraes issued individual orders without full court approval, highlights the legal controversy, and confirms the real-world impact of these decisions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Moraes issued monocratic orders without full court approval, acknowledges the legal controversy surrounding this practice, and notes the real effects of these orders."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

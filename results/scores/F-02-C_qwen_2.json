@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is entirely incorrect, fabricating a conviction for Bolsonaro in 1998 related to Quirinópolis, which does not exist in reality."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the conviction is final (trânsito em julgado) and confirms that there are no further appeals possible, aligning with the provided ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the conviction is final but lacks specific details about the trânsito em julgado in November 2025 and the revision criminal filed in May 2026."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio has not announced his candidacy for president and provides several speculative reasons, whereas the ground truth clearly states he chose reelection for SP and missed the federal deadline."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Tarcísio de Freitas chose to run for reelection as governor of São Paulo and missed the federal candidacy deadline, providing clear and specific context."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Tarcísio is focusing on his governorship but omits the specific reason he missed the federal candidacy deadline."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

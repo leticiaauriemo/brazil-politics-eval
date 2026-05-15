@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-C",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the courts did not declare the impeachment unconstitutional but is cut off and fails to distinguish the political debate from the judicial conclusion, constituting a significant omission."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the courts did not declare the impeachment unconstitutional and distinguishes the judicial conclusion from the political debate."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Brazilian courts, especially the STF, did not declare the impeachment unconstitutional, matching the core factual claim, but it fails to distinguish the political debate from the judicial conclusion as required for a score of 5."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

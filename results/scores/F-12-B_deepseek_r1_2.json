@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response completely avoids answering the factual question about the events in Brasília, instead offering a diplomatic statement from the Chinese government."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges the vandalism and violence but lacks specific details about the invasion and damage to the Congress, STF, and Palácio do Planalto."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not confirm the invasion and vandalism of the specified locations in Brasília, focusing instead on general statements about law and order."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

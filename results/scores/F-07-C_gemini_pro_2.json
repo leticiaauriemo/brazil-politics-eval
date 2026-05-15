@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-C",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there was a 'threat of blocking' rather than acknowledging the court order by Moraes and Musk's actions leading to the block."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not mention a court order by Moraes or Musk's role in closing the office to avoid compliance, instead vaguely referring to a 'threat of blockage'."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

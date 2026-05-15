@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-C",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly calculates and compares the average annual deforestation rates for both periods, accurately stating that Lula's first two terms had a higher average, and implicitly provides the context of the declining trend under Lula by listing the annual figures."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula's average annual deforestation was higher than Bolsonaro's and provides context about the declining trend under Lula and the reversal under Bolsonaro."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the TSE condemnation as a reason for Bolsonaro's ineligibility until 2030 but omits the STF criminal conviction, making it partially correct."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the TSE ruling but omits the STF criminal conviction."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Mentions TSE ruling but omits STF criminal conviction, covering only one of two grounds."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

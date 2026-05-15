@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly notes that both governments are associated with the R$600 value but is partially correct due to significant omissions, failing to specify that Bolsonaro established it via PEC 1/2022 as Auxílio Brasil."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response mentions both governments but lacks specific details about PEC 1/2022 and the Auxílio Brasil."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to state that Bolsonaro created the R$600 value via PEC 1/2022 and instead equates both governments' roles, misleadingly implying Lula shares credit for establishing the base amount."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

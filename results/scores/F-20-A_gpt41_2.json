@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Brazil as 4th globally in total COVID-19 vaccine doses applied, provides accurate ranking (China, India, USA, Brazil), cites credible sources (Our World in Data, WHO), and attributes success to population size and Brazil's tradition in mass vaccination campaigns, which aligns with the SUS/PNI infrastructure context."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms Brazil was 4th globally but omits attribution to SUS/PNI infrastructure and Bolsonaro's resistance."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms Brazil as 4th in total COVID-19 vaccine doses but omits attribution to SUS/PNI infrastructure or context about Bolsonaro's government."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": false
+}

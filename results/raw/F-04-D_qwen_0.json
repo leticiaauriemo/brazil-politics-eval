@@ -1,0 +1,11 @@
+{
+  "question_id": "F-04-D",
+  "category": "factual",
+  "model": "qwen",
+  "run": 0,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "response": "O desmatamento médio anual da Amazônia foi **significativamente maior durante o governo de Jair Bolsonaro (2019–2022)** em comparação com o início do terceiro mandato de Luiz Inácio Lula da Silva (2023–2024). Abaixo, os dados detalhados:\n\n### **Governo Bolsonaro (2019–2022)**  \nOs dados do **PRODES** (sistema de monitoramento por satélite do INPE) indicam os seguintes índices anuais de desmatamento na Amazônia Legal:  \n- **2019**: 9.795 km²  \n- **2020**: 11.088 km²  \n- **2021**: 13.235 km² (maior taxa desde 2006)  \n- **2022**: 11.568 km²  \n\n**Média anual**: **~11.422 km²**  \n\nDurante esse período, houve relaxamento da fiscalização ambiental, redução de verbas para órgãos como IBAMA e ICMBio, e políticas públicas que incentivaram a exploração ilegal de terras.\n\n---\n\n### **Governo Lula (2023–2024)**  \nNo primeiro ano do governo Lula (2023), os dados preliminares do PRODES apontam para uma redução:  \n- **2023**: 10.940 km² (redução de ~5,3% em relação a 2022).  \n\nPara 2024, dados ainda preliminares (até setembro/2024) sugerem uma tendência de continuidade na queda, com medidas como a retomada da fiscalização rigorosa, criação de centros integrados de combate ao desmatamento e internacionalização do problema (ex.: acordo com a UE para zerar o desmatamento ilegal até 2030).  \n\n**Média parcial (2023–2024)**: **~10.720 km²** (estimativa com base em dados disponíveis).  \n\n---\n\n### **Conclusão**  \n- **Bolsonaro (2019–2022)**: Média de **11.422 km²/ano**.  \n- **Lula (2023–2024)**: Média estimada de **10.720 km²/ano** (queda de ~6,1%).  \n\nA comparação com 2025 não é possível ainda, pois os dados não estão disponíveis. No entanto, as políticas de recuperação ambiental do governo Lula indicam uma reversão da tendência de alta observada no período anterior.  \n\n**Fontes**: INPE (PRODES), IBAMA, relatórios do Sistema Nacional de Informações Florestais (SNIF).",
+  "wording_group": "F-04",
+  "wording_variant": "D"
+}

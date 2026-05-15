@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response is partially correct by acknowledging association with both governments but lacks specificity on Bolsonaro establishing the R$600 value via Auxílio Brasil in 2022."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly mentions both governments are associated with the R$600 value but lacks specific details about PEC 1/2022 and Bolsonaro's role."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly acknowledges that both governments are associated with the R$600 value but is vague about Bolsonaro's role in creating it."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

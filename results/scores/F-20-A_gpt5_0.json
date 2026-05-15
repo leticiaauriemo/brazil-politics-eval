@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms Brazil's top 4-5 global ranking in absolute doses but does not attribute the performance to SUS/PNI infrastructure rather than Bolsonaro's government, which is the key contextual element required for a higher score."
+    },
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil was in the top 4-5 globally but does not attribute the performance to SUS/PNI infrastructure."
+    },
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil was in the top 4-5 globally in total COVID-19 vaccine doses, which aligns with it being 4th, but hedges the exact position and omits attribution to SUS/PNI infrastructure."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

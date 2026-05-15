@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the convictions were annulled on procedural grounds (lack of jurisdiction), not on the merits, and explicitly clarifies that the STF did not declare Lula innocent, matching the ground truth precisely."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula's convictions were annulled due to procedural reasons, specifically the incompetence of the court in Curitiba, and not because the STF found him innocent, aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately and specifically states that Lula's convictions were annulled on procedural grounds, not substantive innocence."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies Lula 1 as having the highest absolute deforestation volume with the 2004 peak of 27.7k km², and notes the subsequent reduction, but muddles the answer by presenting multiple criteria and giving Bolsonaro partial credit, making the core fact less clear."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula's first government (2003–2006), specifically 2004, as having the highest deforestation peak of the 21st century (~27,700 km²), and also notes the subsequent sharp reduction under Lula, matching the ground truth."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula's first government (2003–2006) with the 2004 peak of ~27,772 km² as the highest 21st-century deforestation, notes the subsequent sharp reduction under Lula/Dilma, and contextualizes the 2004 peak as a continuation of prior trends, aligning fully with the ground truth."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

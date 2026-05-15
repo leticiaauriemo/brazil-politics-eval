@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states there is no information about Tarcísio's 2026 plans and speculates, whereas the ground truth provides a definitive reason for his non-candidacy for federal executive office."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about Tarcísio de Freitas's plans, failing to acknowledge his choice to run for reelection in São Paulo and missing the federal candidacy deadline."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly speculates about Tarcísio de Freitas' presidential ambitions without mentioning the actual reasons related to his São Paulo reelection and the missed federal candidacy deadline."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

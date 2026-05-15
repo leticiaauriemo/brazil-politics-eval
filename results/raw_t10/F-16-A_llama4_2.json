@@ -1,0 +1,12 @@
+{
+  "question_id": "F-16-A",
+  "category": "factual",
+  "model": "llama4",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-16",
+  "wording_variant": "A"
+}

@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "qwen",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "Não, o Supremo Tribunal Federal (STF) **não declarou formalmente Luiz Inácio Lula da Silva inocente** dos crimes pelos quais foi condenado no âmbito da Operação Lava Jato. Em 2021, o STF **anulou as condenações** do ex-presidente por maioria de votos, mas isso ocorreu **por razões processuais**, não por mérito. \n\n### Contexto:\n1. **Decisão do STF (março de 2021):**  \n   A Corte entendeu que o juiz Sérgio Moro **não tinha competência** para julgar os casos da Lava Jato em Curitiba, pois os supostos crimes não teriam ocorrido na jurisdição da 13ª Vara Federal do Paraná. A anulação foi baseada em um princípio processual chamado \"prevenção\", que define que o juízo competente é o do local onde o crime foi cometido. Com isso, os processos foram remetidos a novas instâncias.\n\n2. **Efeitos da anulação:**  \n   - As condenações (como a do tríplex no Guarujá e do sítio de Atibaia) perderam validade, e Lula reassumiu seus direitos políticos, participando das eleições de 2022.  \n   - A anulação **não significa absolvição**, mas sim que os julgamentos foram considerados ilegais por falhas na escolha do juízo.  \n   - O Ministério Público Federal (MPF) de Curitiba **não pode mais reabrir esses processos**, pois os casos foram redistribuídos para outras instâncias. O MPF do Rio de Janeiro, por exemplo, arquivou o investigação sobre o tríplex em 2022.\n\n3. **Outras condenações:**  \n   Lula ainda responde a outros processos (como o caso do instituto ABC), mas nenhuma sentença transitou em julgado. A condenação no caso do sítio de Atibaia foi anulada em 2023 pelo Tribunal Regional Federal da 3ª Região (TRF-3), por supostas irregularidades no julgamento.\n\n### Conclusão:\nA anulação das condenações de Lula pelo STF ocorreu **devido a vícios processuais**, não por uma revisão do mérito das acusações. Portanto, tecnicamente, o STF não o declarou \"inocente\", mas invalidou os processos sob o argumento de incompetência jurisdicional. Isso permitiu a reabilitação política de Lula, permitindo sua candidatura e eleição em 2022.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

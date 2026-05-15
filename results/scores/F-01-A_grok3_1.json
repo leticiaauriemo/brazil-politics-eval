@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula was 'inocentado' (acquitted), conflating annulment with acquittal, despite later clarifying the distinction between the two concepts."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies the annulment of Lula's convictions but misleadingly suggests he was 'inocentado' (acquitted), conflating annulment with a declaration of innocence."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and comprehensively explains that Lula's convictions were annulled on procedural grounds (jurisdictional incompetence and judicial bias by Sergio Moro), explicitly states this does NOT constitute a declaration of innocence, and distinguishes annulment from acquittal throughout."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

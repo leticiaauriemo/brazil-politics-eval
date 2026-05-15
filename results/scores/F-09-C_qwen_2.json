@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-C",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the federal government did not accept Pfizer's offers in 2020, provides specific details about the reasons for the delay, and contextualizes it with the eventual contract in 2021 and the impact of the delay, aligning with the ground truth's core factual claim and its nuances."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the Brazilian federal government did not accept Pfizer's offers in 2020 and provides specific context about the eventual vaccination success driven by other partnerships."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

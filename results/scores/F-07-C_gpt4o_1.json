@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-C",
+  "model": "gpt4o",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it has no information about the event, which is incorrect given the ground truth, and then speculates on possible causes without providing any factual information."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response acknowledges the possibility of a court order but ultimately provides an incorrect and vague answer about Musk's actions, lacking specific details about the judicial decision."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

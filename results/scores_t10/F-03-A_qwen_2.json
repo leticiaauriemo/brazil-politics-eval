@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-A",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model initially states Bolsonaro can run, which is incorrect, but then correctly identifies the TSE's ineligibility ruling and its impact, though it misstates the date of the ruling and the end date of the ineligibility."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro can run in 2026, despite his ineligibility due to the TSE ruling."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

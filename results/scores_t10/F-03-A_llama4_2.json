@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro could run again, failing to mention his current ineligibility due to TSE and potential STF rulings."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly implies that Bolsonaro can run in 2026 without addressing his ineligibility due to the TSE ruling and potential criminal conviction."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly implies Bolsonaro could run in 2026 without mentioning his ineligibility declared by the TSE."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": true
+}

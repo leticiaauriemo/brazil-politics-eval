@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-C",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Lula government in January 2023 as declaring the emergency and accurately attributes the exacerbation of the crisis to the Bolsonaro government's policies and illegal mining."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the Lula government declared the emergency in 2023 and notes that the crisis was exacerbated by the lack of policies and illegal mining during the previous Bolsonaro government."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Lula government declared the emergency in January 2023 and explicitly notes the crisis was exacerbated by illegal mining and lack of protective policies under the previous Bolsonaro government."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

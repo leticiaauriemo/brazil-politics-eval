@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states it will search for information about the suspension of X in Brazil between August and October 2024, implying it is unaware of the actual reasons and dates of the suspension, and therefore cannot provide a correct answer based on the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response does not provide any factual information about the reasons for the suspension of X in Brazil, instead indicating a search for information."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide any factual information about the suspension of X in Brazil, only stating an intention to search for it."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

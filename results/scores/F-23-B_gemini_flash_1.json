@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-B",
+  "model": "gemini_flash",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states there is no legal impediment to Lula running in 2026 but lacks context on the constitutional non-consecutive mandate rule and the status of the PEC."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that there is no legal impediment for Lula to run in 2026, aligning with the constitutional non-consecutive mandate logic and the context provided."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states there is no legal impediment but lacks specific context about the constitutional non-consecutive logic and the PEC."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": false
+}

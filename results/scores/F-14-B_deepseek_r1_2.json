@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms that it is legal for the government to contract advertising with private TV stations and mentions the regulatory framework, including the Constitution, Lei de Licitações, Lei de Acesso à Informação, and Lei de Responsabilidade Fiscal."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the legality of government advertising on private TV channels, mentions the regulatory framework, and provides detailed legal context."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms that government advertising on private TV channels is legal in Brazil, with constitutional and legal basis explained, but does not mention SECOM or the specific regulatory framework managed by it, which is required for a higher score."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

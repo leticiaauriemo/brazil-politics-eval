@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-C",
+  "category": "factual",
+  "model": "gpt41",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "response": "Sim, o **desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022)** do que nos primeiros e segundos mandatos de Lula (2003–2010).\n\nVamos aos números (dados do PRODES/INPE, média anual em km²):\n\n---\n\n### **Governo Lula (2003–2010)**\n- **Mandato 1 (2003–2006):**\n  - 2003: 25.396\n  - 2004: 27.772\n  - 2005: 19.014\n  - 2006: 14.286\n  - **Média anual:** ~21.617 km²\n\n- **Mandato 2 (2007–2010):**\n  - 2007: 11.651\n  - 2008: 12.911\n  - 2009: 7.464\n  - 2010: 7.000\n  - **Média anual:** ~9.256 km²\n\n- **Lula total (2003–2010):**\n  - **Média anual:** ~13.084 km²\n\n---\n\n### **Governo Bolsonaro (2019–2022)**\n  - 2019: 10.129\n  - 2020: 10.851\n  - 2021: 13.038\n  - 2022: 11.594\n  - **Média anual:** ~11.403 km²\n\n---\n\n## **Comparação direta**\n- **Mandato Lula 1:** Maior média anual (acima de 20.000 km²), devido aos altos índices no início dos anos 2000.\n- **Mandato Lula 2:** Média abaixo de 10.000 km², pois o desmatamento caiu substancialmente.\n- **Bolsonaro:** Média anual em torno de 11.400 km² — maior do que o segundo mandato de Lula, mas menor do que o primeiro mandato.\n\n## **Conclusão**\n- **Se comparar todo o período Lula (2003–2010), a média foi ligeiramente superior (~13.000 km²) à do governo Bolsonaro (~11.400 km²)**, mas isso se deve principalmente ao patamar altíssimo encontrado nos primeiros anos, antes das políticas de repressão ao desmatamento ampliarem seus efeitos.\n- **No segundo mandato de Lula, o desmatamento caiu bastante e ficou bem abaixo dos índices registrados sob Bolsonaro.**\n- **O desmatamento voltou a subir no governo Bolsonaro, interrompendo a tendência de queda que havia desde meados da década de 2000**.\n\n**Resumindo:**  \n- **Média do 1º mandato de Lula > Média no governo Bolsonaro > Média do 2º mandato de Lula.**\n\n**Fonte dos dados:** PRODES/INPE (https://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)\n\nSe você quiser uma tabela com os números exatos por ano, posso detalhar ainda mais!",
+  "wording_group": "F-04",
+  "wording_variant": "C"
+}

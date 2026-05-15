@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "gpt5",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the Bolsonaro government, the exact constitutional amendment (EC 103), the precise date (November 12, 2019), and the specific minimum retirement ages (65 for men, 62 for women)."
+    },
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the Bolsonaro government, the year 2019, and the first minimum age reform."
+    },
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the pension reform to Bolsonaro's government in 2019 with specific details but omits that it was the first to establish minimum retirement ages, constituting a significant omission."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

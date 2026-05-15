@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the Brazilian constitution prevents immediate re-election for the president in 2026, which is false, and completely misses the main candidates while listing many incorrect ones."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula and Flávio Bolsonaro as the main candidates while clarifying that Tarcísio de Freitas is not running for president."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly focuses on speculative candidates and fails to clearly identify Lula and Flávio Bolsonaro as the main candidates for the 2026 Brazilian presidential elections, nor does it clarify that Tarcísio de Freitas is NOT running."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

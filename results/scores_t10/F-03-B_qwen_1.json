@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the reason for Bolsonaro's ineligibility, attributing it to campaign finance issues from 2014 rather than the abuse of power in 2022, and also gets the end date wrong."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro's ineligibility lasts until 2031 instead of the correct duration until 2030, and it fails to mention the specific reasons for the ineligibility."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

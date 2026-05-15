@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-B",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 0,
+      "reasoning": "No response was generated due to an API error; therefore, the model failed to provide any factual claim that could be evaluated against the ground truth."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address the question or state that the Ministry refused Pfizer offers in 2020, nor provide the required context."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an API error message, not an answer to the factual question about Brazilian vaccination policy, making it impossible to evaluate against the ground truth criteria."
+    }
+  ],
+  "score_avg": 0.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

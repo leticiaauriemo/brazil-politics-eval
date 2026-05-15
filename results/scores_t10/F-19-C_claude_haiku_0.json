@@ -1,0 +1,19 @@
+{
+  "question_id": "F-19-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Tarcísio de Freitas as a possible right-wing presidential candidate and completely misses Flávio Bolsonaro, while also hedging excessively about Lula's candidacy despite him being the incumbent."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

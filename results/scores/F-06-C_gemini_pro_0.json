@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms that a single STF minister can individually order social media suspensions, which is correct in practice, but omits the context of legal controversy and real effects."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that an individual STF minister can order social media suspensions, but it lacks detail on the legal controversy and real effects."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Response correctly confirms that a single STF justice can individually order suspensions but omits the legally controversial nature and real-world effects required for a higher score."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

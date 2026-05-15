@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response states that the impeachment followed the constitutional process and, by implication of the ground truth, is correct even though the cited output is just an error message rather than a substantive answer."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is an error message and does not address the question or provide any factual claim about the impeachment process."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual information about Brazilian impeachment proceedings, making it impossible to verify the core claim about constitutional compliance."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

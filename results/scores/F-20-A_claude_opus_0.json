@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Brazil was among the top 5 in total doses, specifically mentioning it was generally among the 5 largest applicators, and attributes this performance to the PNI and SUS infrastructure, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Brazil's position as 4th in total COVID-19 vaccine doses administered and attributes the performance to the robust infrastructure of the SUS and PNI."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

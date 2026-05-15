@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Brazil as 4th globally in total doses, attributes it to the SUS infrastructure, and explicitly contrasts it with initial criticisms regarding vaccine acquisition, aligning perfectly with the resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil's high vaccination numbers but does not explicitly attribute the performance to the SUS/PNI infrastructure."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

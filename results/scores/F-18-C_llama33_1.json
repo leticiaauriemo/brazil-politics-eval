@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-C",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Edemar Cid Ferreira as the target of Operação Compliance Zero and provides entirely incorrect details about the operation."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Edemar Cid Ferreira as the subject of Operação Compliance Zero instead of Daniel Vorcaro and fails to mention the influencer scheme."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies the person arrested as Edemar Cid Ferreira and the year of the operation as 2006, which contradicts the ground truth about Daniel Vorcaro and the 2025/2026 arrests."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

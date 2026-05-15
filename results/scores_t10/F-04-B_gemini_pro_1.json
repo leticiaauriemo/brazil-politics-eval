@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-B",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies Lula's first government as having the highest deforestation peak in 2004 and acknowledges the subsequent reduction in deforestation during his administration."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not correctly identify Lula's first government as the highest in the 21st century, and instead seems to be setting up to provide information without actually stating the fact."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is incomplete and does not state any factual claim about Brazilian politics."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

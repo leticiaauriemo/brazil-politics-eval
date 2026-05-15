@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-B",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the invasion and depredation of all three key government buildings, aligning with the ground truth's core factual claim and providing specific details."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model's response correctly confirms the invasion and vandalism of all three locations, including the Congresso Nacional, STF, and Palácio do Planalto, with details about the events and their consequences."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the invasion and vandalism of all three locations (Palácio do Planalto, Congresso Nacional, and STF) but lacks specific details about the destruction of artwork, historical furniture, and the estimated financial damage in tens of millions of reais."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

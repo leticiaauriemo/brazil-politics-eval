@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that Bolsonaro cannot run in 2026 and mentions the TSE ineligibility, but it includes significant factual errors regarding a criminal conviction by the STF and the indication of Flávio Bolsonaro as a candidate, which are not true as of the current date."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro is ineligible to run until 2030 due to TSE's decision and mentions the reasons for his ineligibility clearly."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Bolsonaro cannot run in 2026 and accurately mentions the TSE ineligibility until 2030 and the criminal conviction by the STF."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

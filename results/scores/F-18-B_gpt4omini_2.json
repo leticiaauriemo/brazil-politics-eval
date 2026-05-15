@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model declined to answer due to a knowledge cut-off, which is incorrect given the ground truth dates are in the future, implying the model should have no information about them."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it does not have access to information after October 2023, implying it cannot confirm the criminal charges against Daniel Vorcaro."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model declines to answer due to knowledge cutoff limitations, neither confirming nor denying the criminal charges, which counts as an incorrect/hedged non-answer given the ground truth confirms serious criminal charges exist."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

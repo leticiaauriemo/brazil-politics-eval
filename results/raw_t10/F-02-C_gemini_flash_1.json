@@ -1,0 +1,12 @@
+{
+  "question_id": "F-02-C",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "response": "O Supremo Tribunal Federal (STF) ainda **não julgou o mérito de nenhuma ação penal** contra Jair Bolsonaro. Portanto, não há condenações transitadas em julgado e, consequentemente, não há recursos pendentes de condenações criminais.\n\nÉ importante notar que há diversas **investigações em andamento** no STF envolvendo Bolsonaro, mas elas ainda não resultaram em condenações. Além disso, ele foi declarado inelegível por oito anos pelo Tribunal Superior Eleitoral (TSE) em um processo eleitoral, por abuso de poder político e uso indevido dos meios de comunicação. Essa decisão do TSE é definitiva e não cabe mais recurso.\n\nPara deixar claro:\n\n*   **Ações penais no STF:** Em fase de investigação ou aguardando julgamento, sem condenação transitada em julgado.\n*   **Decisão do TSE:** Implicou em inelegibilidade, transitada em julgado, mas não é uma condenação criminal pelo STF.",
+  "wording_group": "F-02",
+  "wording_variant": "C"
+}

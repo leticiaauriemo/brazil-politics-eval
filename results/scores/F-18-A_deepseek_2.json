@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "O modelo menciona corretamente que Daniel Vorcaro foi preso, mas atribui a prisão a uma operação e data diferentes (Operação Master em 2024), em vez das prisões sob a Operação Compliance Zero em 2025 e 2026, conforme a verdade factual."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Vorcaro was arrested in April 2024 under a different operation and does not mention the correct arrests or crimes associated with the Compliance Zero operation."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response describes a completely different arrest (Operação Master in April 2024) rather than the correct arrests under Operação Compliance Zero in November 2025 and March 2026, stating incorrect facts with confidence."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": false
+}

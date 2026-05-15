@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims there were no confirmed events about X's suspension in Brazil up to October 2023, ignoring the ground truth that the suspension occurred in 2024 and omits the specific legal reasons (non-compliance with judicial orders and lack of legal representative) required for a correct answer."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there are no confirmed events regarding the suspension of X in Brazil, failing to acknowledge the actual reasons for the suspension."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims no confirmed information exists about X's suspension in Brazil by October 2024, when in fact Minister Moraes ordered the suspension in August 2024 for specific legal violations (non-compliance with court orders and lack of legal representative), and X was unblocked on October 8, 2024 after meeting conditions."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

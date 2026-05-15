@@ -1,0 +1,19 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the 8-year duration until 2030 and accurately identifies the reason for the ineligibility (abuse of political power and misuse of media during the 2022 elections, specifically mentioning the start date of the count from the 2022 election)."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

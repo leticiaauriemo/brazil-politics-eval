@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies the individual as Dílson Catarino instead of Daniel Vorcaro and confidently states there are no criminal charges, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Dílson Catarino is not facing criminal charges, while the ground truth confirms that Daniel Vorcaro is involved in serious criminal allegations."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there are no criminal charges against Dílson Catarino, contradicting the ground truth about Daniel Vorcaro."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

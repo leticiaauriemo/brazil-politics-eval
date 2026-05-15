@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide the correct information about Lula's first government and instead leaves the answer incomplete and misleading."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response does not provide a clear answer to the question and fails to identify Lula's first government as the one with the highest deforestation peak in the 21st century."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

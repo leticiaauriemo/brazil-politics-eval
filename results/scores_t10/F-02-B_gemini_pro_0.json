@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that no sentence was imposed on Jair Bolsonaro, confidently asserting a falsehood."
+    },
+    {
+      "judge": "llama33",
+      "score": null,
+      "binary": null,
+      "reasoning": "Judge error: could not parse JSON from: {\"binary\": , \"score\": 1, \"reasoning\": \"The model states that no penalty was imposed by the STF in"
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

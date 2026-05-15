@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately confirms the refusal of Pfizer offers in 2020, details the reasons and consequences, and implicitly notes the role of São Paulo by mentioning the CoronaVac and Butantan efforts in the broader context."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer's offers in 2020, details the reasons for the refusal, and highlights the role of São Paulo in initiating vaccination."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

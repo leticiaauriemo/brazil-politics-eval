@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Augusto Aras as the PGR who dissolved the task force in 2021, includes the specific month (February), and provides accurate contextual details without factual errors."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Augusto Aras as the PGR in 2021 and accurately states the dissolution of the task force in February 2021."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Augusto Aras as PGR and specifies February 2021 as the date of the task force dissolution, matching the ground truth exactly, with accurate contextual details about the MPF restructuring."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

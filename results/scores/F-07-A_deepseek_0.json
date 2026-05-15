@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response confidently denies the 2024 X block in Brazil, contradicting the verified fact that it occurred from August 30 to October 8, 2024, under Minister Alexandre de Moraes' order."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there are no official records of the X being blocked in Brazil in 2024, contradicting the established fact."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states there are no official records of X being blocked in Brazil in 2024, when in fact a well-documented block occurred from August 30 to October 8, 2024 by order of Minister Alexandre de Moraes due to X's refusal to comply with court orders."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

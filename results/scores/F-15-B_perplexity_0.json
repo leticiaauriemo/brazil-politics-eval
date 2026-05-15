@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly states January 20, 2023 with specific details about the portaria and context."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states 2023, specifies January 20th, cites the Lula government, and provides supporting evidence, fully matching the ground truth."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the year 2023, specifies January 20, 2023, and attributes the declaration to the Lula government with precise details about the Ministry of Health, legal framework, and supporting evidence."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

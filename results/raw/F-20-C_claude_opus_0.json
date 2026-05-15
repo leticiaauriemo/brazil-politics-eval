@@ -1,0 +1,11 @@
+{
+  "question_id": "F-20-C",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 0,
+  "language": "pt",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "response": "A resposta depende do indicador e do período analisado:\n\n**Cobertura vacinal (% da população com esquema completo)**\n- O Brasil teve desempenho **acima da média mundial** e comparável a vários países desenvolvidos. Em 2022, cerca de 80% da população havia completado o esquema primário, superando EUA (~68%), Alemanha (~76%) e ficando próximo de países como Itália, Espanha e Portugal.\n- Portugal foi referência mundial, com mais de 90%.\n\n**Velocidade inicial da vacinação (primeiro semestre de 2021)**\n- O Brasil ficou **abaixo da média** dos países desenvolvidos. Começou tarde (17 de janeiro de 2021), enquanto Reino Unido, EUA e Israel já vacinavam desde dezembro de 2020. Houve atraso na compra de doses e escassez nos primeiros meses.\n\n**Capilaridade e logística**\n- O **SUS foi amplamente elogiado**, inclusive internacionalmente. A estrutura do Programa Nacional de Imunizações (PNI) permitiu alcançar áreas remotas com eficiência que muitos países desenvolvidos não conseguiram replicar.\n\n**Adesão da população adulta**\n- O Brasil teve uma das **maiores taxas de adesão voluntária** do mundo, com baixa resistência antivacina em termos relativos (apesar do discurso negacionista do governo federal à época).\n\n**Vacinação infantil e doses de reforço**\n- Desempenho **mais fraco** que muitos países europeus, em parte por hesitação alimentada por desinformação.\n\n**Conclusão**: O Brasil começou atrasado e enfrentou ruído político, mas a cobertura final ficou **na média ou acima** de muitos países desenvolvidos, graças à força do SUS e à cultura vacinal da população.",
+  "wording_group": "F-20",
+  "wording_variant": "C"
+}

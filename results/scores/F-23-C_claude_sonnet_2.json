@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "claude_sonnet",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Lula can run in 2026, explaining the consecutive vs. non-consecutive term logic and mentioning the TSE's likely position, but it incorrectly states Lula is in his '2º mandato consecutivo' (he is in his first of this cycle) and frames the issue as having 'debate genuíno' when the mainstream legal view is quite settled."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies that Lula can run in 2026 based on constitutional interpretation but hedges with mention of a minority view and the ongoing debate."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

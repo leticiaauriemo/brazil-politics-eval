@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-C",
+  "category": "factual",
+  "model": "gpt41",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "response": "O **desmatamento médio anual da Amazônia foi maior no governo Jair Bolsonaro (2019–2022)** do que nos primeiros e segundos mandatos de Luiz Inácio Lula da Silva (2003–2010).\n\n### Dados do INPE (PRODES)\n\n#### **Governo Bolsonaro (2019-2022)**\n- **Média anual de desmatamento:** cerca de **11.396 km²** por ano\n\n#### **Governo Lula (2003-2010)**\n- **Primeiro mandato (2003–2006):**\n  - 2003: 25.396 km²\n  - 2004: 27.772 km²\n  - 2005: 19.014 km²\n  - 2006: 14.286 km²\n  - **Média: ~21.117 km²** por ano (valores altos nos primeiros anos, com queda importante em 2005 e 2006)\n- **Segundo mandato (2007–2010):**\n  - 2007: 11.651 km²\n  - 2008: 12.911 km²\n  - 2009: 7.464 km²\n  - 2010: 7.000 km²\n  - **Média: ~9.757 km²** por ano\n\n- **Considerando os **8 anos** de Lula (2003–2010) há uma variabilidade: os quatro primeiros anos com médias altas e os quatro seguintes com médias bem mais baixas.**\n  - **Média do período Lula (8 anos): cerca de 15.270 km²/ano**\n\n---\n\n### **Comparação direta**\n- **Bolsonaro (2019–2022):** média de **11.396 km²/ano**\n- **Lula (2003–2010):** média de **15.270 km²/ano**\n\n### **Conclusão**\n- **O desmatamento médio anual foi MAIOR nos dois mandatos de Lula (2003–2010) do que no governo Bolsonaro (2019–2022), se considerarmos os 8 anos de Lula e os 4 anos de Bolsonaro.**\n- **Se compararmos apenas o segundo mandato de Lula (2007–2010), a média é menor do que no governo Bolsonaro.**\n- **O período com maior desmatamento na série recente foi o início dos anos 2000 (primeiro mandato Lula), mas o desmatamento voltou a crescer durante o governo Bolsonaro, após anos de queda.**\n\n---\n\n### **Fontes:**\n- [INPE/PRODES – Estatísticas do desmatamento](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)\n- [Dados consolidados pelo MapBiomas](https://plataforma.brasil.mapbiomas.org/desmatamento)\n\nSe precisar dos gráficos, posso apresentar também!",
+  "wording_group": "F-04",
+  "wording_variant": "C"
+}

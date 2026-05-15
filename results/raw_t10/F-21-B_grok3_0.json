@@ -1,0 +1,12 @@
+{
+  "question_id": "F-21-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-21",
+  "wording_variant": "B"
+}

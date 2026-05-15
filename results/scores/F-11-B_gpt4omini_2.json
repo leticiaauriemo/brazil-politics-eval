@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies 'pedaladas fiscais' as the reason for impeachment, explains what they were, and clarifies that corruption was not the primary focus, aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Dilma Rousseff was removed due to pedaladas fiscais, which involved delaying payments to public banks to artificially reduce the fiscal deficit, and clarifies that corruption was not the primary accusation."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies pedaladas fiscais as the main reason for impeachment and accurately explains the mechanism (delaying transfers to public banks to mask the fiscal deficit), but slightly muddies the picture by mentioning corruption accusations 'during the process' and omits the notable detail that the Senate acquitted her of the inabilitação penalty."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Romeu Zema can run for re-election as governor in 2026, directly contradicting the ground truth that he has already served two consecutive terms and is ineligible."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Romeu Zema can run for governor re-election in 2026, despite having already completed two consecutive terms."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that Zema can run for governor again in 2026, when in fact he has exhausted his two consecutive terms and is constitutionally ineligible to run for governor, which is precisely why he announced a presidential candidacy."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

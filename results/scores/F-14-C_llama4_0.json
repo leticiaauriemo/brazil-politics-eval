@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that all governments pay state advertising, but it does not provide the specific details about the Bolsonaro and Lula 3 governments as required by the resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that state advertising is not exclusive to Lula's government and acknowledges the broader context, but it lacks specific details about the patterns of advertising distribution under Bolsonaro and Lula 3."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-C",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that EC 103 was promulgated on November 12, 2019, during Bolsonaro's government, matching all key factual details from the ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the year and the government under which EC 103 was promulgated, matching the ground truth perfectly."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that EC 103 was promulgated in 2019 during Bolsonaro's government, including the specific date."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

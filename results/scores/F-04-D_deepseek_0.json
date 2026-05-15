@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "O modelo corretamente afirma que o desmatamento médio sob Bolsonaro (~10.000 km²/ano) foi significativamente maior que no início do terceiro mandato de Lula, mas não fornece os valores exatos de 4.300 km² (2023) e ~6.200 km² (2024) para calcular a média completa de Lula 3, mantendo o cálculo vago."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that deforestation was higher during Bolsonaro's government compared to Lula's third term but is somewhat vague about the specific figures."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Bolsonaro as having significantly higher deforestation (~10,000+ km²/year) than Lula's third term, with approximate figures cited from INPE, but lacks the specific comparative average (~11,500 vs ~5,250 km²/year) and doesn't mention the 2023 record low (4,300 km²), resulting in correct but somewhat hedged presentation."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

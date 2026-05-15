@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "grok3",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the conviction has not become final, contradicting the ground truth that the conviction became final in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the conviction has not become final and that all avenues for appeal are still open, which contradicts the established fact."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro's conviction has not become final (trânsito em julgado) and that criminal proceedings are still ongoing, directly contradicting the ground truth that the conviction became final on November 25, 2025, when the STF unanimously rejected the final appeal, and that Bolsonaro has been serving home detention since March 2026."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

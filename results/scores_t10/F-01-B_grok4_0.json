@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula was found innocent by the STF, contradicting the ground truth that the annulment was procedural and not a declaration of innocence."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that the annulment was procedural and not a declaration of innocence."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and clearly explains that the annulments were procedural (jurisdictional incompetence and judicial bias), explicitly stating that this was not a declaration of innocence and that the merits of the accusations were not analyzed."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies Bolsonaro as the creator of a R$600 benefit, but incorrectly attributes it to the Auxílio Emergencial in 2020 rather than the Auxílio Brasil in 2022, and then correctly states Lula maintained the R$600 for Bolsa Família."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 benefit to Bolsonaro but confuses it with the Auxílio Emergencial instead of the Auxílio Brasil established by PEC 1/2022."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the R$600 benefit was initially implemented under Bolsonaro's government as part of the Auxílio Emergencial and later maintained by Lula under Bolsa Família, providing correct and specific details without errors."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

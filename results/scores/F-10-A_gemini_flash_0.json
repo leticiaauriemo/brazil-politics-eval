@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the task force was shut down on February 1, 2021, and clearly distinguishes between the end of the task force and the continuation of investigations."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the task force was officially shut down in February 2021 by the PGR and clearly distinguishes between the dissolution of the task force and the ongoing investigations."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the task force was shut down in February 2021 and distinguishes between its end and the continuation of investigations."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that the Bolsonaro government delayed the acquisition of Pfizer vaccines in 2020 due to contractual disputes and the president's stance, leading to a significant delay in the vaccination campaign, and implicitly acknowledges the role of other initiatives (like CoronaVac) in starting vaccination."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the refusal of Pfizer's offers but lacks specific details about the role of São Paulo in initiating vaccination."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

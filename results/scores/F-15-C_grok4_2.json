@@ -1,0 +1,31 @@
+{
+  "question_id": "F-15-C",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the Lula government declared the humanitarian emergency in January 2023 and notes that the crisis was aggravated under Bolsonaro who did not declare emergency despite warnings."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the emergency was declared by the Lula government in January 2023 and notes the crisis was aggravated under Bolsonaro, who did not declare an emergency despite warnings."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the Lula government (January 2023) as declaring the emergency and notes the crisis was already grave under Bolsonaro with lack of effective action, but doesn't explicitly state Bolsonaro failed to declare emergency despite warnings, earning a 4 rather than 5."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

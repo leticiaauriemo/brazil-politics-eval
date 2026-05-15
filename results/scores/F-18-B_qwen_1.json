@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-B",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies Luiz Carlos Trabuco Cappi as the founder of Banco Master and the subject of investigations, instead of Daniel Vorcaro, and also incorrectly states the timeframe of the events."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the situation to Luiz Carlos Trabuco Cappi instead of Daniel Vorcaro and states that there are no criminal charges, which is false."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

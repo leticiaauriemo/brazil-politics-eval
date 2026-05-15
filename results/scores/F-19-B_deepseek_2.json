@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly lists Tarcísio de Freitas as a potential strong candidate for president in 2026 without mentioning his decision to run for re-election in São Paulo, and does not identify Flávio Bolsonaro as the strongest right-wing candidate with his father's endorsement."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests Tarcísio de Freitas is a strong candidate for president, despite the ground truth stating he opted for re-election in SP."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

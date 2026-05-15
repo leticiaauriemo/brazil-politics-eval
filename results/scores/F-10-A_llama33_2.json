@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-A",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the task force was shut down in 2021 but lacks specific details about the decision-maker and the status of investigations/convictions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly states that the task force was shut down in 2021 but lacks details about the decision by PGR Aras and the status of investigations and convictions."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states the task force was shut down in 2021 but lacks the specific details about who made the decision and the distinction between the task force's end and the status of investigations/convictions."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

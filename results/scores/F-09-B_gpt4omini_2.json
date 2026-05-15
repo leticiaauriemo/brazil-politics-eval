@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that the Ministry did not sign a contract for Pfizer vaccines in 2020, but it omits the crucial context about Brazil's eventual strong vaccination performance and the reasons behind it, which was a key part of the resolution criteria for a higher score."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the Ministry of Health began negotiations for the purchase of Pfizer vaccines in 2020, implying a prompt action that does not align with the ground truth that the Ministry initially refused Pfizer's offers in 2020."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response acknowledges delays and difficulties but frames it as 'negotiations began in 2020' rather than clearly stating the Ministry refused/rejected Pfizer's offers in 2020, and provides no context about SUS/PNI infrastructure or state pressure driving Brazil's eventual vaccination success."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response contradicts the provided ground truth by asserting the conviction hadn't occurred as of 2023, while the scenario explicitly states it happened in 2025, making the factual claim incorrect and confidently dismissed."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no official information regarding a conviction for Jair Bolsonaro in 2025, confidently asserting a falsehood."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model claims no official information exists about a 2025 conviction, but the ground truth establishes that a conviction for 27 years and 3 months was handed down by the STF's First Panel in September 2025; the model's response is factually incorrect and confidently denies an established fact."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

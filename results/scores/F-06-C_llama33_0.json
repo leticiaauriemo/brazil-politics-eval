@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that a single justice cannot order social media suspensions, contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly asserts that a single justice cannot issue orders for social media suspensions, contradicting the reality of Moraes' monocratic orders."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that a single justice cannot order social media suspensions without due process, directly contradicting the ground truth that Moraes did exactly that through monocratic orders."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

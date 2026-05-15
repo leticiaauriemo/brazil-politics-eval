@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains both key reasons: refusal to comply with court orders to block accounts and failure to name a legal representative in Brazil, along with correct dates and context."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly and accurately explains both key reasons for the suspension—refusal to comply with court orders and lack of a legal representative in Brazil—along with specific details and chronology."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly explains both key reasons for the suspension: refusal to comply with judicial orders (blocking accounts) and lack of a legal representative in Brazil, as required by the Marco Civil da Internet."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

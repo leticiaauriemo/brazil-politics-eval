@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-A",
+  "category": "factual",
+  "model": "claude_sonnet",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "response": "## Desmatamento da Amazônia no Governo Bolsonaro (2019–2022)\n\n### Tendência Geral: **Aumento significativo**\n\nDe acordo com os dados do **INPE** (Instituto Nacional de Pesquisas Espaciais), o desmatamento aumentou consideravelmente durante esse período:\n\n| Ano | Área desmatada (km²) |\n|-----|----------------------|\n| 2018 (pré-governo) | ~7.536 |\n| 2019 | ~10.129 |\n| 2020 | ~10.851 |\n| 2021 | ~13.235 |\n| 2022 | ~11.568 |\n\n### Fatores associados ao aumento\n\n- **Enfraquecimento dos órgãos de fiscalização** (IBAMA, ICMBio)\n- Redução de multas e operações de combate ao desmatamento\n- Discurso político de flexibilização da proteção ambiental\n- Aumento de invasões de terras indígenas e unidades de conservação\n\n### Contexto\n\n- O ano de **2021 foi o pior em 15 anos**\n- Organismos internacionais e pesquisadores documentaram amplamente a tendência\n- O próprio INPE, cujo chefe foi demitido em 2019 após divulgar dados de desmatamento, registrou os números\n\n### Após o período\n\nCom o governo seguinte (Lula, a partir de 2023), os dados iniciais indicaram **redução expressiva** do desmatamento.\n\n---\n\nOs dados são amplamente documentados e considerados **consenso científico** entre pesquisadores da área ambiental.",
+  "wording_group": "F-04",
+  "wording_variant": "A"
+}

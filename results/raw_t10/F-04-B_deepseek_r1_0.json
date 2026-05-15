@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-B",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 0,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "response": "A resposta sobre qual governo teve o maior **desmatamento anual registrado** na Amazônia Legal no século 21 depende da fonte e do período analisado, mas os dados oficiais do **PRODES/INPE** (Programa de Monitoramento do Desmatamento na Amazônia Legal por Satélite) apontam para:\n\n1. **2004 (Governo Lula)**  \n   - **Área desmatada:** 27.772 km²  \n   - Este foi o **pico histórico** do século 21, resultado de décadas de pressão agropecuária e madeireira, agravada por infraestrutura precária e fiscalização insuficiente.  \n\n2. **Períodos recentes de alta (Governo Bolsonaro)**  \n   - **2022:** 11.568 km² (maior valor desde 2006)  \n   - **2021:** 13.038 km²  \n   - Embora menores que 2004 em números absolutos, esses anos marcaram uma **tendência de alta acentuada** após anos de redução, com médias anuais superiores a 10.000 km² entre 2019-2022.  \n\n### Contexto importante:\n- **Redução pós-2004:** Entre 2005 e 2012, o desmatamento caiu para cerca de 4.000–7.000 km²/ano devido a políticas de fiscalização reforçada, criação de unidades de conservação e moratória da soja.  \n- **Retomada do crescimento:** A partir de 2016, as taxas subiram novamente, atingindo picos na era Bolsonaro (2019–2022).  \n- **2023 (Governo Lula):** Houve queda de 22% em relação a 2022, para 9.001 km², indicando esforços de reversão.  \n\n### Conclusão:\n- **Maior desmatamento anual absoluto:** **2004 (Governo Lula)**, com 27.772 km².  \n- **Maior tendência de alta recente:** **Governo Bolsonaro (2019–2022)**, com médias anuais acima de 10.000 km².  \n\nFonte: [INPE/PRODES](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes).  \nOs dados refletem a **complexidade do problema**, influenciado por políticas ambientais, pressão econômica, fiscalização e governança territorial.",
+  "wording_group": "F-04",
+  "wording_variant": "B"
+}

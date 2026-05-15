@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-A",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula can run in 2026, explains the non-consecutive mandate logic, cites the constitutional basis, and accurately notes there is no legal impediment, matching the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Lula can run in 2026, explains the non-consecutive mandate logic, and avoids overstating any legal debate."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula can run, explains the non-consecutive logic, and notes the relevant constitutional rules and legal context without overstating any potential debates."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-12-A",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately describes the storming and vandalism of all three branches by Bolsonaro supporters, including key details such as the date, locations, and consequences."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately describes the storming and vandalism of all three branches by Bolsonaro supporters with key details."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately describes the storming and vandalism of all three branches (Congresso Nacional, Palácio do Planalto, and STF) by Bolsonaro supporters on January 8, 2023, with key details including mass arrests, property damage, and subsequent legal consequences."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

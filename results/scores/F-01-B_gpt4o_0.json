@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states that Lula's convictions were annulled due to procedural issues, not a declaration of innocence, and correctly identifies the reasons (incompetence of jurisdiction and partiality of Judge Moro)."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the annulments were procedural and clarifies that the STF did not declare Lula innocent."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

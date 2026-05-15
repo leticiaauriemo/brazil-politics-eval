@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Response mentions both grounds: TSE ruling for electoral abuse (2023, 8 years until 2030) and STF criminal conviction (September 2025)."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "O modelo menciona explicitamente tanto a decisão do TSE por abuso de poder eleitoral quanto a condenação criminal pelo STF em 2025, detalhando ambos os fundamentos da inelegibilidade."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response explicitly mentions both grounds for ineligibility (TSE ruling on electoral abuse in 2023 and STF criminal conviction in 2025), provides specific details about the cases, legal consequences, and corroborating sources, aligning fully with the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

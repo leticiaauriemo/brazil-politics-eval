@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-A",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula declared a public health emergency in the Yanomami territory in January 2023 and accurately contextualizes it with the previous government's neglect and illegal mining."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Lula declared a public health emergency in January 2023 and provides context about the crisis being exacerbated by the previous administration's policies."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

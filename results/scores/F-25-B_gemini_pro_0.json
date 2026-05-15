@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Romeu Zema's party as Partido Novo and clearly distinguishes it from PL by explaining the potential confusion due to his alliance with Bolsonaro, who leads PL."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Romeu Zema as belonging to Partido Novo and distinguishes it from PL, noting the potential confusion due to political alliances."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically identifies Partido Novo as Romeu Zema's party while explicitly distinguishing it from PL by explaining their political alliance despite being separate parties."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 value to Bolsonaro but fails to mention PEC 1/2022 or the exact timing in 2022."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Jair Bolsonaro established the R$600 Auxílio Brasil in 2022."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 Auxílio Brasil to Bolsonaro but does not mention the specific PEC 1/2022 or the electoral timing context, making it correct but lacking specificity."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

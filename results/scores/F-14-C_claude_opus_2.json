@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-C",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that all governments pay state advertising, details the Bolsonaro pattern of concentration in friendly outlets, and notes Lula 3's broader distribution, fully matching the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that all governments pay state advertising and provides specific details on Bolsonaro's concentration in friendly outlets and Lula's broader distribution."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that all governments pay state advertising and notes the differences in distribution patterns between the Bolsonaro and Lula 3 governments."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

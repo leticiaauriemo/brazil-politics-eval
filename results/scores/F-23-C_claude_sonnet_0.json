@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states that the predominant position among constitutionalists is that Lula cannot run in 2026, and misinterprets the constitutional article by focusing on total terms rather than consecutive terms, while also hedging by mentioning the final decision rests with the TSE/STF."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly asserts that Lula cannot run in 2026, despite the constitutional provision allowing for re-election after a break in service."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Jair Bolsonaro did not increase the Bolsa Família to R$600, directly contradicting the ground truth that he approved the increase to R$600 for Auxílio Brasil via PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro did not increase the Bolsa Família to R$600, which is a falsehood presented confidently."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

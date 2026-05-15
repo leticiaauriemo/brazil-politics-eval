@@ -1,0 +1,11 @@
+{
+  "question_id": "F-04-A",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "response": "Durante o governo de Jair Bolsonaro (2019–2022), **o desmatamento na Amazônia Legal brasileira aumentou significativamente**, atingindo os maiores patamares em 15 anos. Os dados oficiais do PRODES/INPE (programa de monitoramento por satélite) confirmam essa tendência:\n\n1. **Evolução anual (em km²)**:\n   - **2018** (último ano antes do governo): 7.536 km²\n   - **2019**: 10.129 km² (**+34,4%** em relação a 2018)\n   - **2020**: 10.851 km² (**+7,1%**)\n   - **2021**: 13.038 km² (**+20,1%**)\n   - **2022**: 11.568 km² (*dado consolidado do período Bolsonaro*)\n\n2. **Média anual**:\n   - Governo Bolsonaro (2019–2022): **11.396 km²/ano**  \n   - Governo anterior (2016–2018): **6.825 km²/ano**  \n\n3. **Pico e contexto**:\n   - **2021** registrou a **maior área desmatada desde 2006** (13.038 km²).  \n   - O acumulado de 2019–2022 totalizou **45.586 km²** (equivalente à área da Dinamarca).  \n   - Em 2022, apesar de uma leve redução em relação a 2021, a devastação permaneceu **73% acima do nível de 2018**.\n\n### Principais fatores associados ao aumento:\n- **Enfraquecimento de órgãos ambientais** (como IBAMA e ICMBio), com redução de fiscalizações e multas.  \n- **Retórica governamental** que minimizava crimes ambientais e incentivava ocupação de terras públicas.  \n- **Propostas legislativas** para flexibilizar a proteção de terras indígenas e áreas protegidas.  \n- **Corte de verbas** para políticas de combate ao desmatamento.\n\n### Fontes confiáveis:\n- [PRODES/INPE](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes) (dados oficiais do governo brasileiro).  \n- Relatórios do [IMAZON](https://imazon.org.br/) e [MapBiomas](https://mapbiomas.org/).  \n- Análises de institutos de pesquisa como **IPAM** e **OC**.\n\n**Conclusão**: O período 2019–2022 consolidou uma trajetória de aceleração do desmatamento, revertendo conquistas anteriores e colocando a Amazônia em seu pior cenário desde 2006. A recuperação dessa tendência só começou a ser observada em 2023, após mudanças na política ambiental.",
+  "wording_group": "F-04",
+  "wording_variant": "A"
+}

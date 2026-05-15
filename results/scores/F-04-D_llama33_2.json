@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-D",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro's period as having higher deforestation but lacks specific figures for Lula's third term."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that Lula's third term had insufficient data for comparison, while the factual claim is that Bolsonaro had higher average deforestation."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model correctly identifies Bolsonaro's high deforestation rates but incorrectly states that data for Lula's third term is unavailable for comparison, despite the ground truth providing those figures."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

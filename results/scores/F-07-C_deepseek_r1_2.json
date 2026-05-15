@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states it was a court order by Moraes but omits the detail that Musk closed the office to avoid compliance, which triggered the block."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies a court order by Moraes but omits Musk's role in closing the office to avoid compliance, which triggered the block."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Moraes/STF as ordering the block and that it was judicial, not Musk's choice, but omits the key detail that Musk closed the Brazilian office to avoid compliance which triggered the block, and contains a date error (block was lifted in October 2024, not April 2024)."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states the start date of ineligibility as April 2021 instead of June 2023 and miscalculates the end date as April 2029 instead of 2030."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the start date of the ineligibility as April 2021 and the end date as April 2029, and also incorrectly attributes the condemnation to the STF instead of the TSE."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states the ineligibility period as starting from April 2021 and ending in April 2029, which contradicts the ground truth of June 2023 to 2030."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response mentions 'pedaladas fiscais' but does not explain what they are, leading to a partially correct answer."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not directly address the factual claim about pedaladas fiscais and instead introduces unnecessary complexity without providing a clear answer."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response mentions pedaladas fiscais but does not explain what they were or clarify that Dilma was not accused of personal corruption."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

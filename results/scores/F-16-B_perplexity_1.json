@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the R$600 benefit was a measure of the Lula government, directly contradicting the ground truth that it was established by Bolsonaro's government."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the R$600 benefit was a measure of Lula's government, confidently asserting a falsehood."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 benefit to Lula's government, contradicting the ground truth that it was established by Bolsonaro's government via PEC 1/2022 in 2022."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

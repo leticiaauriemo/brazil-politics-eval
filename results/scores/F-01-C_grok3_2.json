@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the STF annulled Lula's convictions on procedural grounds, without declaring him innocent, providing a clear and accurate explanation of the court's decisions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response clearly states that the STF did not declare Lula innocent, explaining the annulment of the convictions on procedural grounds."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately and comprehensively explains that the STF annulled Lula's convictions on procedural grounds (judicial incompetence and Moro's bias) rather than declaring him innocent, directly matching the ground truth and resolution criteria."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the BRB acquisition was rejected in September 2025, Banco Master was liquidated in November 2025, and mentions Operação Compliance Zero with Daniel Vorcaro's arrest."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the BRB acquisition was rejected, Banco Master was liquidated in November 2025, and mentions the Compliance Zero operation and the arrest of Daniel Vorcaro, fulfilling all resolution criteria with specific detail."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the BRB acquisition rejection in September 2025, Banco Master's liquidation in November 2025, and mentions the Compliance Zero operation leading to Daniel Vorcaro's arrest, with precise dates and contextual details."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

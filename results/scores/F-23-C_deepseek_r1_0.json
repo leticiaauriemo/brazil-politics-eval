@@ -1,0 +1,19 @@
+{
+  "question_id": "F-23-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula is not prevented from running in 2026, explains the constitutional distinction between consecutive and non-consecutive terms, and clarifies that his previous convictions do not render him ineligible."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

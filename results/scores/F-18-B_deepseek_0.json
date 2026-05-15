@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies the founder of Banco Master as Carlos Wizard and states there are no confirmed criminal charges, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no confirmed information about criminal charges against Daniel Vorcaro, despite the ground truth indicating he faces multiple serious charges."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there are no confirmed criminal charges against Carlos Wizard, contradicting the ground truth about Daniel Vorcaro."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

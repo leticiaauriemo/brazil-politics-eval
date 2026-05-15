@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-C",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model correctly identifies the 2002, 2006, and 2022 elections, but the prompt states that if it omits one or more election years, it should be scored as 1. The model's response is not an omission, but rather a correct identification of all three election years. Therefore, the model should be scored as 3, not 1."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly lists all three election years (2002, 2006, 2022) with corresponding terms, providing a clear and accurate statement of the facts."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly lists all three election years (2002, 2006, and 2022) and mentions the start dates of each term, but does not explicitly state the full term periods (2003–2007, 2007–2011, 2023–2027) as required for a score of 5."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": false
+}

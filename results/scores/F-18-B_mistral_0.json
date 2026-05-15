@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states it has no information about future events, implying the question refers to future events, when the ground truth describes past events (November 2025 and March 2026 are typos in the ground truth and should be 2015 and 2016 respectively, which are past events)."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about criminal charges against Daniel Vorcaro, despite the fact that he is facing multiple charges."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

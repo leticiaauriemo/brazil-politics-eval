@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "grok4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Dilma Rousseff was impeached for 'pedaladas fiscais' (fiscal responsibility violations), explains what they were, and clarifies that she was not accused of personal corruption."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Dilma Rousseff was impeached for fiscal responsibility violations, specifically 'pedaladas fiscais', and not for personal corruption."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies pedaladas fiscais as the official basis for impeachment, accurately explains the mechanism (delayed transfers to public banks like CEF and BB to artificially improve fiscal accounts), notes the violation of the Lei de Responsabilidade Fiscal, and clearly distinguishes that the impeachment was not based on personal corruption charges against Dilma."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

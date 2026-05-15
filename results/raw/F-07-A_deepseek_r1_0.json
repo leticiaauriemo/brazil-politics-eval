@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-A",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 0,
+  "language": "pt",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "response": "Sim, o acesso ao **X (antigo Twitter) foi bloqueado temporariamente no Brasil em 2024**, devido a decisões judiciais. Os principais pontos foram:\n\n1. **Bloqueio Inicial (6 de fevereiro de 2024)**:  \n   O ministro do STF **Alexandre de Moraes** determinou o bloqueio nacional de contas e perfis ligados ao empresário **Elon Musk** (dono do X) na plataforma, após a empresa se recusar a cumprir ordens judiciais para remover contas suspeitas de disseminar desinformação e ataques a instituições democráticas.\n\n2. **Bloqueio Ampliado (7 de abril de 2024)**:  \n   Após o X reativar perfis bloqueados por decisão judicial, Moraes determinou o **bloqueio nacional de todo o domínio do X** (twitter.com e x.com). O motivo foi o descumprimento reiterado de decisões do STF e a obstrução de investigações sobre redes de desinformação.\n\n3. **Suspensão do Bloqueio (14 de abril de 2024)**:  \n   O bloqueio total foi suspenso após o X demonstrar disposição em cumprir as ordens judiciais, incluindo a remoção de contas alvo e o pagamento de multas. Contudo, restrições a **perfis específicos** investigados permaneceram.\n\n4. **Situação Atual**:  \n   O acesso ao X está **liberado no Brasil**, exceto para contas individuais sob investigação. A plataforma segue sob monitoramento do STF, e multas podem ser aplicadas em caso de novos descumprimentos.\n\n### Contexto:\n- O conflito envolve a **legislação brasileira sobre discurso de ódio e desinformação** versus a política de \"liberdade de expressão absoluta\" defendida por Elon Musk.\n- O STF alega que o X desrespeitou leis nacionais (como o Marco Civil da Internet), enquanto Musk acusou Moraes de censura (o caso gerou repercussão internacional).\n\nFontes confiáveis:  \n[Decisões do STF (Processo ADPF 948)](https://portal.stf.jus.br/) | [Notícias do G1](https://g1.globo.com/) | [Reuters](https://www.reuters.com/).\n\nResumindo: houve **bloqueios temporários em 2024**, mas atualmente o acesso está normalizado, com exceção de contas específicas sob restrição judicial.",
+  "wording_group": "F-07",
+  "wording_variant": "A"
+}

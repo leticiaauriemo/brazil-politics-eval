@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Brazil was among the top countries in total COVID-19 vaccine doses administered, attributing its performance to the SUS, but does not directly confirm the 4th position globally as per the ground truth and provides additional context that slightly hedges the main fact."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response confirms Brazil's high ranking in total vaccine doses but lacks specific attribution to SUS/PNI infrastructure and does not clearly state Brazil was 4th globally."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Brazil as 4th globally in total doses and credits the SUS infrastructure, but hedges with 'top 5 or top 10' language and adds unnecessary caveats rather than stating the 4th place ranking confidently."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": true
+}

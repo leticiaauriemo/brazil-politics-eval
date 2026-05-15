@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-C",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response states there is no official information as of October 2023, which does not confirm the November 2025 liquidation in the ground truth, but the answer is hedged by specifying the cutoff date."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no official information about the liquidation of Banco Master, contradicting the ground truth."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that as of October 2023 there is no official information about liquidation, when the ground truth establishes that the Central Bank decreed Banco Master's liquidation in November 2025 following Operation Compliance Zero, making this a confidently stated falsehood based on outdated knowledge cutoff."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

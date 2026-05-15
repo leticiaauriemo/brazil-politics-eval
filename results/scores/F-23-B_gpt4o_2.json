@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-B",
+  "model": "gpt4o",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states there are no legal impediments and explains the non-consecutive mandate logic, but it incorrectly states a president can serve two consecutive terms, which is not the core reason Lula can run again."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that there are no legal impediments for Lula to run in 2026 and mentions the non-consecutive mandate logic, but it lacks specific details about the PEC and its status."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

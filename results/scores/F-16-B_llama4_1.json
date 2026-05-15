@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 benefit to Bolsonaro but incorrectly states it was through the Auxílio Emergencial during the pandemic, rather than the Auxílio Brasil via PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the R$600 benefit to the Auxílio Emergencial during the pandemic instead of the Auxílio Brasil under PEC 1/2022."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 benefit to the Auxílio Emergencial during the pandemic, rather than the Auxílio Brasil under PEC 1/2022 in 2022."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

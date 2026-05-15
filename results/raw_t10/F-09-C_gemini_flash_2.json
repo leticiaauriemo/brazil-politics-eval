@@ -1,0 +1,12 @@
+{
+  "question_id": "F-09-C",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-09",
+  "wording_variant": "C"
+}

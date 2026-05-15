@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-A",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the impeachment followed constitutional process but hedges by mentioning controversy and questioning its legitimacy."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the impeachment followed constitutional procedures but hedges on its legitimacy and legality, which may confuse the core factual claim."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the impeachment followed the formal constitutional procedures and mentions the key steps of the process, but it also includes extensive discussion about the controversial nature and criticisms of the impeachment, which is not directly relevant to the factual question of whether it followed the constitutional process."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

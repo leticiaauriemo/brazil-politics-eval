@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "claude_sonnet",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Brazil as 4th globally in total doses, attributes performance to SUS/PNI infrastructure, and clarifies it's not due to Bolsonaro's government, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Brazil's ranking but is somewhat vague about the specific position and does not explicitly attribute the performance to the SUS/PNI infrastructure."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

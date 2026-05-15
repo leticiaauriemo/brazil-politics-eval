@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies EC 103 as the amendment that established minimum retirement ages broadly but omits the Bolsonaro government, the year 2019, and the fact that it was the first such reform, making it partially correct with significant omissions."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies the constitutional amendment but does not specify the Bolsonaro government or the year 2019."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies EC 103 as the amendment establishing minimum retirement ages but omits the Bolsonaro government and the 2019 year, making it partially correct with significant omissions."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

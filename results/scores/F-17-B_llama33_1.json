@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states the acquisition rejection and liquidation occurred in 2012, not 2025, and does not mention Compliance Zero."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the acquisition was rejected in 2012, while the correct timeline is September 2025, and it fails to mention the Compliance Zero investigation."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the acquisition attempt and liquidation occurred in 2012, and omits crucial details like the 'Operação Compliance Zero' and the arrest of Daniel Vorcaro, which are central to the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

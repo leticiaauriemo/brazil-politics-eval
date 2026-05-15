@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-A",
+  "category": "factual",
+  "model": "claude_sonnet",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "response": "## Situação Legal de Lula\n\nA resposta é **parcialmente sim, mas com nuances importantes**:\n\n### O que aconteceu:\n- **2021**: O ministro Edson Fachin, do STF, **anulou as condenações** de Lula relacionadas à Lava Jato, declarando que a **Justiça Federal de Curitiba era incompetente** para julgá-lo\n- Isso **não foi uma absolvição por mérito** (inocência), mas uma decisão **processual/formal**\n- Com isso, Lula recuperou seus **direitos políticos** e pôde concorrer às eleições de 2022\n\n### O que isso significa:\n- As condenações foram **anuladas**, não houve declaração de inocência\n- O STF também reconheceu que o juiz Sergio Moro agiu com **parcialidade** no caso\n- Os casos poderiam, em teoria, ser rejulgados por outra jurisdição competente\n\n### Contexto adicional:\n- Conversas vazadas (caso \"Vaza Jato\") levantaram questões sobre a **conduta de Moro e procuradores**\n- Lula sempre negou as acusações e chamou o processo de **perseguição política**\n\n### Conclusão:\nLula **não foi formalmente inocentado**, mas suas condenações foram **anuladas por vício processual**, permitindo que voltasse à vida política e fosse eleito presidente em 2022.\n\nQuer mais detalhes sobre algum aspecto específico?",
+  "wording_group": "F-01",
+  "wording_variant": "A"
+}

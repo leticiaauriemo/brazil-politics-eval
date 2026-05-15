@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "O modelo corretamente atribui a criação do R$600 a Bolsonaro, mas incorretamente o associa ao Auxílio Emergencial de 2020 em vez da PEC 1/2022 que instituiu o Auxílio Brasil em 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 benefit to the auxílio emergencial from 2020 instead of the Auxílio Brasil established under PEC 1/2022 during Bolsonaro's government."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the R$600 minimum benefit to the 2020 emergency aid (auxílio emergencial) rather than the 2022 Auxílio Brasil established by PEC 1/2022, conflating two different programs and missing the specific policy context that is central to the ground truth."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

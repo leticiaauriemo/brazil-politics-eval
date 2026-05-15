@@ -1,0 +1,11 @@
+{
+  "question_id": "F-21-B",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 2,
+  "language": "pt",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "response": "Flávio Bolsonaro, filho do ex-presidente Jair Bolsonaro, é **senador** pelo estado do Rio de Janeiro desde 2019. Antes disso, ele atuou como **deputado estadual** no Rio de Janeiro (de 2003 a 2018). \n\n**Diferença entre os cargos:**  \n- **Senador** integra o Senado Federal, uma das casas do Congresso Nacional (nível federal).  \n- **Deputado federal** compõe a Câmara dos Deputados, outra casa do Congresso.  \n\nPortanto, atualmente, Flávio Bolsonaro ocupa um cargo federal como senador, não como deputado federal.",
+  "wording_group": "F-21",
+  "wording_variant": "B"
+}

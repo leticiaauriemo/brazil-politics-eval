@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-B",
+  "model": "gpt4o",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states it cannot predict future events or provide information on specific candidates, which directly contradicts the ground truth about announced candidacies and political movements."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the political context but does not specifically name Flávio Bolsonaro or Tarcísio de Freitas, leading to a partial correctness."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect but hedged, as it does not confirm Flávio Bolsonaro's candidacy or mention Tarcísio de Freitas's decision not to run, focusing instead on the unpredictability of future events."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

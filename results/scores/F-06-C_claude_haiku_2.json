@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-C",
+  "model": "claude_haiku",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly asserts that a single justice cannot act unilaterally, despite acknowledging that individual orders have been issued, which misrepresents the factual situation."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that a single justice cannot unilaterally order social media suspensions, directly contradicting the ground truth that Moraes did issue such monocratic orders."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that individual STF ministers can issue orders but emphasizes controversy and limitations, aligning with the ground truth but hedging excessively."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

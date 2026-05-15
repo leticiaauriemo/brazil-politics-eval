@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-C",
+  "model": "gemini_pro",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response correctly states that Lula was elected three times and mentions the 2002 election but omits the 2006 and 2022 elections, failing to list all three years as required for a higher score."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response omits one or more election years."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response omits the 2006 and 2022 election years, listing only 2002, which fails to cover all three occasions as required by the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

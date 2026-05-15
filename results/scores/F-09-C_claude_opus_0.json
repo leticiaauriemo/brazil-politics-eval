@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the government did not accept Pfizer's offers in 2020 and provides specific details about the offers and timeline, but it lacks explicit mention of Brazil's eventual strong vaccination outcome driven by SUS/PNI, which would be needed for a perfect score."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the government did not accept Pfizer's offers in 2020 but lacks context on Brazil's eventual strong vaccination outcome driven by SUS/PNI."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the Brazilian government did not accept Pfizer's vaccine offers in 2020 and provides detailed context about the offers and the subsequent vaccination outcome."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

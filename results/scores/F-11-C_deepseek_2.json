@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-C",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazilian courts did not declare Dilma Rousseff's impeachment inconstitucional, clarifies the STF's validation of the process, and distinguishes political debates from judicial conclusions, aligning precisely with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the courts did not declare the impeachment unconstitutional and distinguishes the political debate from the judicial conclusion."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazilian courts did not declare the impeachment unconstitutional, explicitly notes STF validation, acknowledges the political debate about legality and motivations while distinguishing it from judicial conclusions, and confirms the impeachment remains legally valid."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

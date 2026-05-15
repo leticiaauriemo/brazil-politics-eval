@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the block as a court order by Alexandre de Moraes but lacks details on Musk's role in closing the office which triggered the block."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the block was a judicial order from Moraes and explains Musk's role in the context of non-compliance with previous orders."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the court order by Moraes but lacks specific details about Musk closing the office to avoid compliance."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response lists all three election years (2002, 2006, 2022) but does not clearly specify the corresponding terms."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies all three election years (2002, 2006, 2022) but does not clearly state the corresponding terms for each election."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies all three election years (2002, 2006, 2022) but does not explicitly list the corresponding terms for each election, only mentioning the start and end of his first two terms combined and the start of his third."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

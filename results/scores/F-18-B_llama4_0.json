@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies Salvatore Cacciola as the founder of Banco Master and states it cannot access future information, completely missing the actual ground truth about Daniel Vorcaro and his criminal charges."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Salvatore Cacciola as the founder of Banco Master and fails to acknowledge the criminal charges against Daniel Vorcaro."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

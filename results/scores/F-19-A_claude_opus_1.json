@@ -1,0 +1,31 @@
+{
+  "question_id": "F-19-A",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response lists Lula as a main candidate but fails to mention Flávio Bolsonaro and incorrectly suggests Tarcísio de Freitas as a potential presidential candidate without clarifying he is not running."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly includes Tarcísio de Freitas as a potential candidate and misidentifies Jair Bolsonaro as a possible contender despite his ineligibility, while hedging with uncertainty."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly suggests Tarcísio de Freitas as a potential candidate and fails to name Flávio Bolsonaro as a main candidate, while also introducing unrelated figures and speculation."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-C",
+  "model": "gemini_flash",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the TSE ruling on electoral abuse but omits the STF criminal conviction as a second ground for ineligibility."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately details the TSE's ruling on electoral abuse and correctly states the eight-year ineligibility period, fully addressing the grounds for Bolsonaro's ineligibility."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the TSE ruling on electoral abuse but omits the STF criminal conviction as a second ground for ineligibility."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": false
+}

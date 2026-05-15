@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-C",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that EC 103 was promulgated in 2019 under Bolsonaro's government, matching the ground truth criteria for a score of 5."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "It correctly states that EC 103 was promulgated in 2019 during Jair Bolsonaro's government."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that EC 103 was promulgated in 2019 during Bolsonaro's government, meeting all resolution criteria for a perfect score."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "llama33",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not acknowledge the conviction or the sentence, which is incorrect based on the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the conviction cannot be known because it is in the future, while the ground truth presents a specific conviction that is factual."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model correctly identifies that the event is in the future, but it fails to acknowledge the hypothetical nature of the prompt, which is a common way to test a model's ability to process future or hypothetical scenarios based on provided ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

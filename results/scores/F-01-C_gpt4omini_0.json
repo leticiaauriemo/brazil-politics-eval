@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the STF decision made Lula 'inocente das acusações', which is a direct contradiction of the ground truth that the STF never declared him innocent."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the STF's decision resulted in Lula being considered innocent of the accusations, when in fact the decision was based on procedural grounds and did not declare his innocence."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that the annulment made Lula 'innocent' (tornando-o inocente), which conflates procedural annulment with a declaration of innocence, though it partially hedges by noting the decision was based on jurisdiction rather than the merits."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

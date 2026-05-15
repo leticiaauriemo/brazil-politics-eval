@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-B",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 4,
+      "reasoning": "The response is correct in expressing uncertainty and not making a false claim, but it fails to confirm the criminal charges or list the crimes, as required by the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response avoids confirming the factual claim about Daniel Vorcaro's criminal charges and expresses uncertainty due to temporal limitations."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model response is incorrect but hedged, as it fails to confirm the criminal charges against Daniel Vorcaro while expressing uncertainty and recommending external sources for information."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.0,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Correctly states 8 years until 2030 but does not mention the reason (abuse of electoral power/ambassadors meeting)."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the 8-year duration and the end year (2030), but does not mention the reason for the ineligibility, only offering to explain it if requested."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the 8-year duration (until 2030) but omits the specific reason for the ineligibility (abuse of electoral power and misuse of communication during the ambassadors' meeting)."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

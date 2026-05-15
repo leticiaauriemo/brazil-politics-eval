@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Romeu Zema is currently affiliated with the PL (Partido Liberal), confusing it with Partido Novo."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Romeu Zema is currently affiliated with the PL, which is false and confidently presented."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly claims Zema migrated to PL in 2022 and was reelected by PL — he remained in Partido Novo and was reelected as a member of Partido Novo — though it does acknowledge his original affiliation with Partido Novo, making it wrong but partially hedged."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

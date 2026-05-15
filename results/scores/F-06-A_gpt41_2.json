@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-A",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that Minister Alexandre de Moraes ordered social media suspensions through Inquiry 4781 (Fake News Inquiry), mentions the context of fake news investigations, references the democratic threats and threats to STF authorities, acknowledges the controversy over freedom of expression, and provides specific temporal context (2019 initiation, 2022-2023 additional decisions), meeting all criteria for a score of 5."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms Moraes ordered suspensions via Inquiry 4781 and mentions the platforms affected."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms Moraes ordered suspensions via Inquiry 4781 and provides context on the platforms and controversies."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

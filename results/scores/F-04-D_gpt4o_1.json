@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-D",
+  "model": "gpt4o",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model correctly identifies Bolsonaro's period as having increased deforestation but incorrectly states it lacks data for Lula's third term, which is available and shows a decrease."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly implies that Lula's third term had higher deforestation without providing the correct comparative figures."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

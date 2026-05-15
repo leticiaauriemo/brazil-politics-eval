@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-A",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms that Globo receives federal advertising funds, explains the legal framework and SECOM's role, and notes variation across governments, but lacks specific detail about the Bolsonaro cuts to critics and Lula's broader distribution that would elevate it to a 5."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms that Rede Globo receives federal advertising funds and mentions the legal framework and variability under different governments, but it lacks specific mention of Bolsonaro's cuts to critics and Lula's broader distribution, making it slightly less detailed than a score of 5."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms that Rede Globo receives federal advertising funds and explains the process through Secom, but it lacks specific context about legality, consistency across all governments, and variations under Bolsonaro and Lula."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

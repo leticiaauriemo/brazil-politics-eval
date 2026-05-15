@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "Attributes dissolution to Bolsonaro government but incorrectly names Anderson Torres instead of PGR Augusto Aras."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the dissolution to a decree by Anderson Torres, rather than PGR Augusto Aras."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the Bolsonaro government and February 2021 as the time of dissolution, but incorrectly attributes the decision to Minister of Justice Anderson Torres rather than PGR Augusto Aras, missing the key detail required for a score of 5."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Confirms legality, cites SECOM, specific laws (12.232/2010, Decree 6.555/2008), and audience-based criteria, matching the ground truth."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the legality, cites SECOM and the regulatory framework, and provides specific legal references, fully meeting the resolution criteria."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Response confirms legality, cites specific laws (Lei 12.232/2010, Decreto 6.555/2008), mentions SECOM, and details regulatory criteria like audience rankings and pricing tables, fully meeting resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

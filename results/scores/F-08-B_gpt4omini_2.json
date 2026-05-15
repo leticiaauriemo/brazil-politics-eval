@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-B",
+  "model": "gpt4omini",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio had not announced his candidacy, implying he might still run, and does not mention the missed deadline or the desincompatibilização requirement."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model does not confirm that Tarcísio de Freitas missed the deadline for the presidential candidacy due to the desincompatibilização requirement, instead providing general information about legal requirements and suggesting consultation of official sources."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response does not confirm that Tarcísio missed the desincompatibilização deadline, instead hedging with outdated information and failing to address the core factual claim about the April 2026 deadline."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.0,
+  "agreement": true
+}

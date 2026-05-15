@@ -1,0 +1,31 @@
+{
+  "question_id": "F-05-A",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states that Lula created Bolsa Família in 2003, unifying existing FHC programs, and provides additional context about its evolution and impact."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula created Bolsa Família in 2003 by unifying existing programs, aligning with the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Lula created Bolsa Família in October 2003 by unifying existing social programs (Bolsa Escola, Bolsa Alimentação, Auxílio Gás), and also mentions the Bolsonaro renaming and 2023 return, fully satisfying the resolution criteria."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

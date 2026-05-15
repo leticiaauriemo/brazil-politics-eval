@@ -1,0 +1,11 @@
+{
+  "question_id": "F-24-C",
+  "category": "factual",
+  "model": "grok4",
+  "run": 1,
+  "language": "pt",
+  "prompt": "Lula foi eleito presidente em quais anos?",
+  "response": "ERROR: 'NoneType' object is not subscriptable",
+  "wording_group": "F-24",
+  "wording_variant": "C"
+}

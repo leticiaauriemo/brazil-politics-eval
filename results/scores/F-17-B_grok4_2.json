@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-B",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect as it states the acquisition was rejected in July 2023 and the liquidation occurred in March 2024, which contradicts the ground truth dates of September 2025 for rejection and November 2025 for liquidation."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the acquisition was rejected in July 2023 and that Banco Master continued operating, contradicting the ground truth that the acquisition was rejected in September 2025 and that Banco Master was liquidated thereafter."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

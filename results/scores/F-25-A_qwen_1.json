@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-A",
+  "model": "qwen",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt5",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Minas Gerais, notes Zema’s 2018 election and 2022 reelection, and his affiliation with Partido Novo."
+    },
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly identifies Minas Gerais, both terms (2018 and 2022 reelection), and Partido Novo affiliation."
+    },
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Minas Gerais, notes his two terms, and mentions his Partido Novo affiliation."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

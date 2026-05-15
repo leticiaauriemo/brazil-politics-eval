@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-C",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the courts did not declare the impeachment unconstitutional and distinguishes the political debate from the judicial conclusion."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the courts did not declare the impeachment unconstitutional and distinguishes the political debate from the judicial conclusion."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the STF did not declare the impeachment unconstitutional and distinguishes the political debate from the judicial conclusion, but is excessively verbose and includes some questionable details (e.g., the claim about STF annulling Cunha's role as rapporteur) that slightly muddy the core accurate message."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

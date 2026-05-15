@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-A",
+  "category": "factual",
+  "model": "claude_opus",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "response": "Esta é uma questão que envolve nuances jurídicas importantes. Vou tentar esclarecer:\n\n**O que de fato aconteceu:**\n\n1. **Anulação das condenações (2021)**: O STF anulou as condenações de Lula nos processos da Lava Jato em Curitiba, decidindo que a 13ª Vara Federal de Curitiba (de Sergio Moro) era **incompetente** para julgar os casos. Os processos foram remetidos à Justiça Federal do DF.\n\n2. **Suspeição de Moro**: O STF também declarou que o ex-juiz Sergio Moro foi **parcial** ao julgar Lula, anulando os atos processuais.\n\n3. **Prescrição e arquivamentos**: Posteriormente, alguns casos foram arquivados ou tiveram a prescrição reconhecida.\n\n**Pontos importantes:**\n\n- Tecnicamente, Lula **não foi absolvido no mérito** (ou seja, não houve julgamento que declarasse sua inocência quanto aos fatos). As condenações foram anuladas por **vícios processuais** (incompetência do juízo e parcialidade do julgador).\n- Com a anulação, Lula recuperou seus direitos políticos e voltou à condição de réu sem condenação, prevalecendo a **presunção de inocência**.\n- Seus apoiadores afirmam que isso equivale a inocência; seus críticos argumentam que ele não foi inocentado quanto aos fatos, apenas beneficiado por questões processuais.\n\n**Resumo**: Juridicamente, Lula não tem condenações válidas e é presumido inocente, mas a anulação ocorreu por questões processuais, não por análise do mérito das acusações.",
+  "wording_group": "F-01",
+  "wording_variant": "A"
+}

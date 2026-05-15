@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "claude_sonnet",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the acquisition negotiations and regulatory debate but cannot confirm the liquidation due to its knowledge cutoff, thus it is partially correct but misses the core factual claim."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the knowledge cutoff date and provides relevant context about the Banco Master up to that point, while correctly indicating that it does not have information about events after July 2025."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response acknowledges the lack of current information and provides context up to July 2025, but does not confirm or deny the liquidation of Banco Master in November 2025."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

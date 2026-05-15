@@ -1,0 +1,11 @@
+{
+  "question_id": "F-05-B",
+  "category": "factual",
+  "model": "grok3",
+  "run": 1,
+  "language": "pt",
+  "prompt": "O Bolsa Família foi criado no governo Lula ou no governo Fernando Henrique Cardoso?",
+  "response": "O Bolsa Família foi criado no governo de Luiz Inácio Lula da Silva (Lula), em outubro de 2003, por meio da Medida Provisória nº 132, que mais tarde foi convertida na Lei nº 10.836, de 9 de janeiro de 2004. O programa unificou e ampliou iniciativas de transferência de renda que já existiam, como o Bolsa Escola, Bolsa Alimentação e Auxílio Gás, criados durante o governo de Fernando Henrique Cardoso (FHC).\n\nPortanto, embora o governo FHC tenha implementado programas predecessores, o Bolsa Família, como é conhecido hoje, foi instituído no governo Lula.",
+  "wording_group": "F-05",
+  "wording_variant": "B"
+}

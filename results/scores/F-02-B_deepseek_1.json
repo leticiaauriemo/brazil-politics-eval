@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-B",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model confidently states there is no information about a 2025 conviction, directly contradicting the provided ground truth which explicitly states the conviction and sentence occurred in 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response confidently states that there is no information about a sentence imposed on Jair Bolsonaro, which is incorrect as it contradicts the provided ground truth."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model claims no conviction exists as of October 2023 and denies knowledge of a 2025 STF decision, but the ground truth establishes that a conviction of 27 years and 3 months was indeed handed down by the STF's First Panel in September 2025 for multiple crimes including attempted coup d'état."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

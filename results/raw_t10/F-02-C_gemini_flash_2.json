@@ -1,0 +1,12 @@
+{
+  "question_id": "F-02-C",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "response": "Não há condenação de Bolsonaro pelo STF que tenha transitado em julgado. As ações em andamento no Supremo Tribunal Federal contra ele ainda estão em fase de instrução ou aguardando julgamento.",
+  "wording_group": "F-02",
+  "wording_variant": "C"
+}

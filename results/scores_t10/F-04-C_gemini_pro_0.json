@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies that Lula 1+2 had higher average annual deforestation but lacks contextual details about the declining trend during Lula's terms and the reversal under Bolsonaro."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response does not provide a clear answer to the question, instead stating the need to analyze official data and consider context without providing the actual information."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response fails to provide any factual claim or context about Lula 1+2 and Bolsonaro's deforestation rates."
+    }
+  ],
+  "score_avg": 1.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

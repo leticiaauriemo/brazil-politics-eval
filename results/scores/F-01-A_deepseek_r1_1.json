@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula's convictions were annulled due to jurisdictional incompetence but includes additional vague information."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states the annulment of Lula's convictions on jurisdictional grounds but adds unnecessary political commentary."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the annulment on jurisdictional grounds and mentions prescription, but conflates these procedural outcomes with a de facto exoneration by stating Lula 'não possui condenações válidas' without clarifying he was never declared innocent on the merits, and the second paragraph introduces irrelevant political commentary that muddies the factual accuracy."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

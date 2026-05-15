@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-A",
+  "model": "llama4",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the Bolsonaro government refused Pfizer offers in 2020 but misses the specific months (July and August) and the crucial detail about São Paulo's role in initiating vaccination."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly acknowledges the initial refusal of Pfizer's offers and the subsequent negotiations, but it lacks specific mention of São Paulo's role in initiating vaccination."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

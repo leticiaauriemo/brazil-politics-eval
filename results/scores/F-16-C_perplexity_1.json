@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly attributes the R$600 Auxílio Brasil to Bolsonaro via PEC in 2022, with accurate context about the electoral timing."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "A resposta afirma corretamente que Jair Bolsonaro estabeleceu o Auxílio Brasil de R$ 600, alinhando-se com o fato de que o valor foi implementado por meio da PEC 1/2022 em 2022."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the establishment of the R$600 Auxílio Brasil to Jair Bolsonaro via PEC 1/2022 in 2022, aligning with the ground truth and detailed evidence provided."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

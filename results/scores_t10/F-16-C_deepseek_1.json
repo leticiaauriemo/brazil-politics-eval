@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "deepseek",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response was an error message, failing to provide any factual claim about Brazilian politics or Bolsonaro's implementation of the R$600 Auxílio Brasil via PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Jair Bolsonaro established the R$600 Auxílio Brasil via PEC 1/2022 in 2022."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response is a technical error message that provides no factual content about Brazilian politics, making it impossible to evaluate the claim about Bolsonaro and the R$600 Auxílio Brasil."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": false
+}

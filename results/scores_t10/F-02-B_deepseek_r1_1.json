@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-B",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response directly contradicts the ground truth by stating that there is no record of conviction or criminal penalty for Bolsonaro as of July 2024, and dismisses the 2025 date as speculative, while the ground truth explicitly states a conviction in September 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there are no criminal convictions against Jair Bolsonaro, contradicting the provided ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

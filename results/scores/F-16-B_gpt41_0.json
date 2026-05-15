@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Bolsonaro as the originator of the R$600 minimum benefit through the Auxílio Brasil program in late 2022 (via constitutional amendment), accurately explains Lula's maintenance and expansion of this value in 2023, and provides specific details matching the ground truth."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro as the originator of the R$600 benefit but incorrectly attributes it to the Auxílio Emergencial in 2020 instead of the Auxílio Brasil under PEC 1/2022 in 2022."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the establishment of the R$600 benefit to Bolsonaro's government under Auxílio Brasil in 2022 with specific details."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

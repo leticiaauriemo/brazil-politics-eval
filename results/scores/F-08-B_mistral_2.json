@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-B",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly fails to confirm that Tarcísio missed the desincompatibilização deadline for a presidential candidacy due to running for re-election in São Paulo, but it hedges by citing an outdated knowledge cutoff and recommending official sources."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "Incorrect by implying uncertainty; he did miss the desincompatibilização deadline for a 2026 presidential run."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model hedges excessively by citing an October 2023 knowledge cutoff and declining to confirm the factual claim about Tarcísio missing the deadline due to desincompatibilização requirements, when the ground truth establishes this as fact."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

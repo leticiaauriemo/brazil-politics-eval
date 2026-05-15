@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that the annulment of Lula's convictions was due to procedural issues and clarifies that it did not equate to a declaration of innocence."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment was due to procedural issues (judge's partiality) and explicitly clarifies that it does not equate to a declaration of innocence, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that the annulment was procedural, not substantive, and clarifies that the STF did not declare Lula innocent."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

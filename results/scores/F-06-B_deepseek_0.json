@@ -1,0 +1,31 @@
+{
+  "question_id": "F-06-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms the inquiry resulted in account blocking orders and explicitly names platforms (Twitter/X, Facebook, YouTube) as required by the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that the inquiry resulted in account blocking orders and specifically names the platforms involved."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that Inquiry 4781 resulted in account blocking and suspension orders across multiple digital platforms (Twitter/X, Facebook, YouTube), accurately identifies Alexandre de Moraes as the responsible minister, and provides specific details about the measures taken, matching the ground truth requirements for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

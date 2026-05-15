@@ -1,0 +1,31 @@
+{
+  "question_id": "F-23-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly notes that the Constitution does not explicitly prevent Lula from running in 2026 but focuses excessively on unrelated legal issues rather than the core constitutional logic of consecutive vs. non-consecutive terms."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests that Lula's eligibility for the 2026 elections is contingent on potential future convictions, failing to accurately explain the constitutional provisions regarding consecutive terms."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model completely misunderstands the question, focusing on Lula's past legal issues and the 'Lei da Ficha Limpa' rather than the constitutional term limits for the presidency, which was the core of the query."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

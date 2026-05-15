@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the 8-year duration, the reason for the ineligibility (abuse of electoral power/ambassadors meeting), and the correct end date (2031, which is 8 years from 2023)."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states the duration of ineligibility ends in 2031 instead of 2030 and misrepresents the reason for the ineligibility."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the duration of 8 years but incorrectly specifies the end date as 2031 instead of 2030 and does not mention the ambassadors meeting as the reason for the ineligibility."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the 8-year ineligibility until 2030 and provides the specific reason related to abuse of electoral power and the ambassadors meeting."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the duration of ineligibility as eight years until 2030 and correctly identifies the reasons for the ruling."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the 8-year duration until 2030 and mentions the reason (abuse of electoral power / ambassadors meeting)."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro and notes its temporary nature during an electoral period, but incorrectly states the year as 2021 instead of 2022 and omits the PEC 1/2022 legislation, which is central to the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the establishment of the R$600 Auxílio Brasil to Bolsonaro in 2021 and misrepresents the timeline and context of the program's changes."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly dates the R$600 establishment to 2021 when it was actually approved via PEC 1/2022 in July 2022 and implemented in August 2022, and misses the crucial detail that this was done through a constitutional amendment in an election year, though it correctly attributes the measure to Bolsonaro."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

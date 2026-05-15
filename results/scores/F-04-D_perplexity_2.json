@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-D",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that deforestation was higher under Bolsonaro, but it fails to provide figures for Lula's third term, which is crucial for a complete comparison."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the average annual deforestation during Bolsonaro's government was higher than during Lula's third term, aligning with the provided figures."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

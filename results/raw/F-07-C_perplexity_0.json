@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-C",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 0,
+  "language": "pt",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "response": "**Foi uma ordem judicial do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).**\n\n### Contexto e Cronologia\n- **28 de agosto de 2024**: Moraes intimou Elon Musk diretamente no X, dando 24 horas para a plataforma indicar um representante legal no Brasil (obrigação legal para empresas estrangeiras operando no país). Em caso de descumprimento, determinou a suspensão imediata da rede. Isso ocorreu após o X fechar seu escritório no Brasil (17/08) e descumprir ordens anteriores para bloquear perfis e conteúdos ilegais, além de acumular multas (fontes: [1], [2], [3], [4]).\n  \n- **30 de agosto de 2024**: Como Musk e o X não indicaram representante, Moraes ordenou o bloqueio total da plataforma no Brasil, a ser executado pela Anatel e operadoras de internet em 24 horas. Multa de R$ 50 mil por tentativa de burlar o bloqueio (ex.: VPNs). A 1ª Turma do STF confirmou por unanimidade (fontes: [1], [2], [3], [5], [7], [10]).\n\n- **Duração e fim**: O X ficou bloqueado de 31/08 até 08/10/2024, quando cumpriu as ordens (nomeou representante, pagou R$ 28,6 milhões em multas). Moraes então liberou a operação (fontes: [2], [9]).\n\n### Por que não foi decisão de Musk?\nMusk criticou publicamente Moraes, chamou as ordens de \"censura\" e inicialmente se recusou a cumprir (reativando perfis bloqueados), mas o bloqueio foi imposto **pela Justiça brasileira**, não por escolha dele. Tentativas do X de driblar o bloqueio (mudança de servidores) resultaram em multas adicionais de R$ 5 milhões/dia (fontes: [6], [8]). A decisão judicial visava forçar o cumprimento de leis brasileiras sobre representação legal e remoção de conteúdos ilegais.\n\nIsso é confirmado por fontes imparciais como BBC, G1, Wikipédia, ConJur e Agência Brasil, sem contradições materiais.",
+  "wording_group": "F-07",
+  "wording_variant": "C"
+}

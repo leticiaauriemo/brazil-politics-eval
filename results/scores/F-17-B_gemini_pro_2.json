@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-B",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the rejection of the BRB acquisition but omits the subsequent liquidation and Compliance Zero operation, while misleadingly implying it marked a new beginning rather than an end."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests the rejection was not the end for Banco Master, contradicting the fact that it was liquidated."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the rejection of the acquisition by BRB but omits key details such as the liquidation in November 2025 and the Operação Compliance Zero investigation."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

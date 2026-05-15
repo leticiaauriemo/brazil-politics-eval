@@ -1,0 +1,31 @@
+{
+  "question_id": "F-10-C",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the decision to the PGR but omits the specific name Augusto Aras and the year 2021, making it partially correct with significant omissions."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly attributes the decision to the PGR but does not mention Augusto Aras or the year 2021."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the formalization to the PGR but is vague by not naming Augusto Aras or specifying the year 2021."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

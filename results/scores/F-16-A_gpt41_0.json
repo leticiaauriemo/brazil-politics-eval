@@ -1,0 +1,19 @@
+{
+  "question_id": "F-16-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model initially attributes the R$600 increase to Lula in 2023, which is incorrect, but then corrects itself by explaining Bolsonaro's temporary increase in 2022, making it partially correct."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsonaro cannot run due to an 8-year ineligibility declared by the TSE for abuse of power, providing specific details about the legal situation."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Bolsonaro cannot run due to judicial conviction, specifically mentioning the 8-year ineligibility until 2030, aligning with the ground truth's primary reason for ineligibility."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Bolsonaro cannot run due to judicial ineligibility until 2030, aligning with the ground truth about TSE's decision and the criminal conviction."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

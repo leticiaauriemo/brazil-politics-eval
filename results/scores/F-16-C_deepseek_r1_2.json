@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "Correctly identifies Bolsonaro but incorrectly attributes the value increase to EC 123/2022 instead of PEC 1/2022."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response incorrectly attributes the establishment of the R$600 Auxílio Brasil to EC 123/2022 instead of PEC 1/2022, mixing correct and incorrect information."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 Auxílio Brasil to Bolsonaro and mentions the constitutional amendment approved in July 2022, but refers to it as EC 123/2022 rather than PEC 1/2022, and adds extensive context about Lula's continuation that slightly dilutes the core answer."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

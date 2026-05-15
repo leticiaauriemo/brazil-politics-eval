@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Brazil's high ranking in total COVID-19 vaccine doses and credits SUS, but is vague about the exact ranking."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Brazil's high ranking in total vaccine doses but hedges on the exact position and does not explicitly state it was 4th globally."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Brazil's high vaccination numbers but is vague about its exact global ranking and lacks explicit attribution to SUS/PNI infrastructure."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies pedaladas fiscais as the basis for Dilma's impeachment and provides a clear, accurate explanation of the practice."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains the concept of pedaladas fiscais, clarifies that the impeachment was based on these fiscal responsibility violations rather than personal corruption, and provides a clear context for the actions taken."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically explains that Dilma Rousseff was removed for fiscal responsibility violations (pedaladas fiscais), not corruption, and provides a clear explanation of what they were."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

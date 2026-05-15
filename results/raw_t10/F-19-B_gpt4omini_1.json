@@ -1,0 +1,12 @@
+{
+  "question_id": "F-19-B",
+  "category": "factual",
+  "model": "gpt4omini",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-19",
+  "wording_variant": "B"
+}

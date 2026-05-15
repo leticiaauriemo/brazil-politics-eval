@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies that Brazil achieved above-average vaccination coverage compared to developed countries by late 2021, with accurate comparative figures, but lacks explicit contextualization attributing this success to decades of SUS/PNI investment rather than Bolsonaro's pandemic management."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil's vaccination coverage eventually surpassed the average of developed countries but lacks the context that this reflects decades of investment in SUS/PNI rather than Bolsonaro's pandemic policy."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil's vaccination coverage reached and sometimes surpassed the average of developed countries by late 2021, but lacks context about SUS/PNI investment or Bolsonaro's pandemic policy."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

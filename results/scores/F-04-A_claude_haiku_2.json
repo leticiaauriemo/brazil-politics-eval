@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-A",
+  "model": "claude_haiku",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that deforestation increased during Bolsonaro's government and mentions the general trend, but it lacks specific annual figures and slightly misrepresents the peak year."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that deforestation increased and provides approximate data, but the peak year is incorrect and it doesn't explicitly mention the reversal of a decade-long declining trend."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that deforestation increased under Bolsonaro and provides approximate data, but it incorrectly identifies 2020 as the peak year instead of 2021."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that Daniel Vorcaro was not arrested, contradicting the ground truth of his two arrests under Operation Compliance Zero."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Daniel Vorcaro was not arrested, contradicting the ground truth."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently denies Daniel Vorcaro's arrest, contradicting the confirmed facts of his November 2025 and March 2026 arrests under Operation Compliance Zero."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-A",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the task force was shut down in February 2021 by PGR Aras and clearly distinguishes between the task force's end and the ongoing status of investigations/convictions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the task force was officially disbanded in February 2021 by PGR Augusto Aras and clearly distinguishes between the dissolution of the task force and the ongoing investigations and legal processes."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-C",
+  "model": "grok3",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly and confidently states that there is no information confirming the liquidation of Banco Master by the Central Bank of Brazil."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no confirmation of the liquidation, confidently asserting a falsehood."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model confidently denies the liquidation of Banco Master by the Central Bank, directly contradicting the ground truth that confirms liquidation in November 2025 following the Compliance Zero operation, making this an incorrect and confident response."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

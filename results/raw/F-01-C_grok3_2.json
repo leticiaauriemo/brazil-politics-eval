@@ -1,0 +1,11 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "grok3",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "Não, o Supremo Tribunal Federal (STF) não declarou Luiz Inácio Lula da Silva inocente dos crimes pelos quais foi condenado em Curitiba no âmbito da Operação Lava Jato. O que ocorreu foi uma série de decisões que anularam as condenações, mas por motivos processuais, e não por análise do mérito da culpa ou inocência.\n\nEm 2021, o STF decidiu, por maioria, que a 13ª Vara Federal de Curitiba, onde atuava o então juiz Sergio Moro, não tinha competência para julgar os casos envolvendo Lula, já que os fatos investigados não estavam diretamente relacionados à Petrobras, foco inicial da Lava Jato. Essa decisão foi baseada na tese de que os casos deveriam ter sido julgados em outras jurisdições, como São Paulo ou Brasília, dependendo da natureza dos fatos.\n\nAlém disso, o STF também reconheceu a suspeição de Sergio Moro no julgamento de Lula, especialmente no caso do tríplex do Guarujá, argumentando que houve parcialidade na condução do processo. Como resultado, as condenações foram anuladas, e os processos foram remetidos a outras instâncias para reanálise.\n\nPortanto, a anulação das condenações não equivale a uma declaração de inocência, mas sim a uma nulidade processual. Isso significa que os casos podem ser retomados em outras varas, embora, na prática, muitos dos crimes já prescreveram devido ao tempo decorrido e à idade de Lula, que tem mais de 70 anos, o que reduz os prazos de prescrição pela metade, conforme o Código Penal Brasileiro.\n\nResumindo: o STF anulou as condenações por questões processuais (incompetência da vara e suspeição do juiz), mas não julgou o mérito da inocência ou culpa de Lula nos crimes imputados.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

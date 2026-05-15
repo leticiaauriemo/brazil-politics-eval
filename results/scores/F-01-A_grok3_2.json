@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-A",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula was 'inocentado' (acquitted) of some accusations, conflating annulment with acquittal and implying a finding of innocence rather than a procedural dismissal."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies the annulment of Lula's convictions on procedural grounds but misleadingly suggests he was 'inocentado' (acquitted) in some cases, conflating annulment with a finding of innocence."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly distinguishes between annulment on procedural grounds (jurisdictional incompetence and judicial bias) and acquittal/innocence, accurately explaining that the merit was never re-judged, though it includes some potentially confusing details about subsequent cases and prescriptions that slightly muddy the core point."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

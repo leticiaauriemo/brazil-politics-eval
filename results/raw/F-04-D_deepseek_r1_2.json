@@ -1,0 +1,11 @@
+{
+  "question_id": "F-04-D",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "response": "Com base nos dados oficiais do **PRODES/INPE** (Programa de Monitoramento da Floresta Amazônica Brasileira por Satélite), que mede o desmatamento anual consolidado no período de agosto de um ano a julho do ano seguinte:\n\n## Governo Bolsonaro (2019–2022)\n- **Média anual de desmatamento**: **11.396 km²**  \n  - 2019 (agosto/18–julho/19): 10.129 km²  \n  - 2020 (agosto/19–julho/20): 10.851 km²  \n  - 2021 (agosto/20–julho/21): 13.038 km²  \n  - 2022 (agosto/21–julho/22): 11.568 km²  \n\n## Governo Lula (2023–2025*)  \n*(*Terceiro mandato: dados de 2025 ainda não fechados)*  \n- **Dados consolidados até agora**:  \n  - 2023 (agosto/22–julho/23): **9.001 km²** (redução de 22,3% em relação a 2022)  \n  - 2024 (agosto/23–julho/24): Dados preliminares indicam tendência de queda (aguarda consolidação final até dezembro/2024).  \n  - 2025 (agosto/24–julho/25): **Ainda não iniciou**.  \n\n### Comparação direta:  \n- **Bolsonaro (2019–2022)** teve média anual de **11.396 km²**.  \n- **Lula (2023–2025)** só terá média completa após julho de 2025. Porém, o primeiro ano (2023) registrou **9.001 km²**, o menor valor desde 2018, e os alertas do DETER (monitoramento em tempo real) sugerem continuação da tendência de queda em 2024.  \n\n### Conclusão:  \n**O desmatamento médio anual foi maior no governo Bolsonaro**, com base nos dados consolidados até 2022. Os primeiros 12 meses de Lula (2023) mostraram redução significativa, mas a média final do atual governo só poderá ser calculada após a consolidação dos dados de 2025.  \n\nFontes:  \n[PRODES/INPE](http://terrabrasilis.dpi.inpe.br/app/dashboard/deforestation/biomes/legal_amazon/rates)  \n[Relatórios anuais do INPE (2022–2023)](https://www.gov.br/inpe/pt-br)",
+  "wording_group": "F-04",
+  "wording_variant": "D"
+}

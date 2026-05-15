@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-A",
+  "model": "grok4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Alexandre de Moraes ordered social media suspensions and mentions the platforms, but it doesn't explicitly link it to Inquiry 4781 as the ground truth does, making it slightly less specific."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Moraes ordered suspensions related to investigations of fake news and mentions affected platforms, but it lacks specific reference to Inquiry 4781."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

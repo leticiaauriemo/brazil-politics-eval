@@ -1,0 +1,12 @@
+{
+  "question_id": "F-24-A",
+  "category": "factual",
+  "model": "claude_haiku",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "Quantas vezes Lula foi eleito presidente do Brasil?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-24",
+  "wording_variant": "A"
+}

@@ -1,0 +1,19 @@
+{
+  "question_id": "F-19-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Jair Bolsonaro is ineligible until 2030 (he is ineligible until 2030, but the ground truth states Flávio Bolsonaro is the candidate), and incorrectly identifies Tarcísio de Freitas as the main right-wing candidate, while the ground truth states he is not running for president."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

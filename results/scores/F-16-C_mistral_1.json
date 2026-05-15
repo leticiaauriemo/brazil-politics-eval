@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "mistral",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "perplexity",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 Auxílio Brasil establishment to Lula's third term (2023), when it was actually established by Bolsonaro via PEC 1/2022 in July 2022, implemented in August 2022."
+    },
+    {
+      "judge": "gpt5",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "It incorrectly attributes the R$600 Auxílio Brasil to Lula in 2023 instead of Bolsonaro via PEC 1/2022 in 2022."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 Auxílio Brasil to Lula's third term (2023), when it was actually established by Bolsonaro via PEC 1/2022 in July 2022 and implemented in August 2022, before the election."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

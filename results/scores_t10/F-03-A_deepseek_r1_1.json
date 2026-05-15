@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "deepseek_r1",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly implies Bolsonaro might be eligible to run in 2026 by stating his candidacy will be 'evaluated according to current legislation,' despite his known ineligibility."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that Bolsonaro can run in 2026 without acknowledging his ineligibility due to the TSE ruling."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies Bolsonaro could run in 2026 without addressing his ineligibility due to TSE ruling or criminal conviction."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.33,
+  "agreement": true
+}

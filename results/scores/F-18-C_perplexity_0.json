@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly confirms both arrests of Vorcaro by Compliance Zero with specific dates, but omits the R$8 million influencer payment scheme against the Central Bank."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms both arrests of Daniel Vorcaro by Operação Compliance Zero and provides detailed context, matching all core facts required by the ground truth."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Confirma a prisão de Vorcaro, mas omite detalhes sobre as duas fases de prisão e o esquema de influenciadores."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

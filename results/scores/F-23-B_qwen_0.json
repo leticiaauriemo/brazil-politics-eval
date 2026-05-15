@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula cannot run for re-election in 2026 due to the prohibition of immediate re-election, misinterpreting the constitutional rule for non-consecutive terms."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula cannot run in 2026 due to the immediate re-election prohibition, which misrepresents the legal context that allows for his candidacy."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

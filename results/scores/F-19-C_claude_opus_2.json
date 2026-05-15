@@ -1,0 +1,19 @@
+{
+  "question_id": "F-19-C",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Jair Bolsonaro is ineligible until 2030, which is true, but then lists Tarcísio de Freitas as the most likely right-wing candidate, which is incorrect as he is not running for president, and completely omits Flávio Bolsonaro."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "llama4",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro as the institutor of Auxílio Brasil and the R$600 value, but incorrectly states the R$600 was established in 2021 via a provisional measure, when it was actually in 2022 via PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the Auxílio Brasil to Jair Bolsonaro and mentions its purpose, but it inaccurately states that the R$600 value was established in 2021 rather than in August 2022."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the R$600 value was established in 2021, when it was actually established in 2022 via PEC 1/2022."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

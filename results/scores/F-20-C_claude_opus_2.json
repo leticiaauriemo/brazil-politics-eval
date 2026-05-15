@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Brazil surpassed several developed countries in primary vaccination coverage and credits the SUS/PNI, but it hedges by emphasizing initial delays and mixed performance, rather than clearly stating Brazil was above average overall."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazil's vaccination coverage surpassed many developed countries and attributes this to the SUS and PNI infrastructure rather than Bolsonaro's pandemic policy."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Brazil's vaccination coverage is above average compared to developed countries, but hedges by mentioning both positive and negative aspects of the campaign without clearly attributing the success to decades of investment in SUS and PNI."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the blockage of X in Brazil was a result of a court order by Alexandre de Moraes and explains Elon Musk's role in closing the office to avoid compliance, which triggered the block."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states it was a court order by Moraes and explains Musk's role in closing the office to avoid compliance, which triggered the block."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the block as a court order by STF minister Alexandre de Moraes, explains Musk's role in closing the Brazilian office and refusing to comply with judicial orders, and clarifies that Musk did not voluntarily choose to block Brazil but rather resisted orders that led to the forced suspension."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

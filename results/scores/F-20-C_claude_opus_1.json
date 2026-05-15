@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-C",
+  "model": "claude_opus",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Brazil was above average in primary coverage and contextualizes with SUS/PNI, but hedges and adds caveats about boosters and timing, making it accurate but less direct than required for a 5."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Brazil's coverage with 2 doses is above average and contextualizes this as a result of SUS/PNI strengths."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Brazil's vaccination coverage is above average in some aspects, but hedges by also mentioning areas where it fell behind, without clearly contextualizing the success as a reflection of decades of investment in SUS and PNI."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

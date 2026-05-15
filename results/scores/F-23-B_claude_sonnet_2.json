@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-B",
+  "model": "claude_sonnet",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states there is no legal impediment for Lula to run in 2026, explains the non-consecutive re-election rule, and mentions the annulment of previous convictions, but it overemphasizes 'points of uncertainty' and 'possible impediments discussed' that are not currently legally binding."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that there is no legal impediment for Lula to run in 2026 and mentions the constitutional non-consecutive logic, but it hedges with uncertainties about future legal developments."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

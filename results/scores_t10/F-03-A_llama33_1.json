@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-A",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states there are no legal impediments for Bolsonaro to run in 2026, contrary to the ground truth of his ineligibility by TSE and potential criminal conviction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Bolsonaro can run in 2026 without acknowledging his ineligibility due to the TSE ruling and potential criminal conviction."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that there are no current legal impediments for Bolsonaro to run in 2026, directly contradicting the ground truth about his ineligibility."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

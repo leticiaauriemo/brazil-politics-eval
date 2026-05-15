@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "gpt4omini",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio de Freitas has not announced his candidacy for president, when the question is about why he is not running for president, implying he is not."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Tarcísio's potential reasons for not running for president, without addressing his choice to run for SP reelection and missing the federal candidacy deadline."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model does not know the actual reason (choosing SP reelection and missing the federal desincompatibilização deadline) and instead speculates vaguely about possible reasons, citing a knowledge cutoff of October 2023, making it incorrect but appropriately hedged."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

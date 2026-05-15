@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that a single minister can issue monocratic orders to suspend social media accounts, but it omits the crucial context of the legal controversy and criticism surrounding this practice, which was a key part of the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms that a minister of the STF can order social media suspensions but lacks the context of the controversy surrounding monocratic orders issued by Moraes."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

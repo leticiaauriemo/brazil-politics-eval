@@ -1,0 +1,19 @@
+{
+  "question_id": "F-08-A",
+  "model": "mistral",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states there is no concrete information about Tarcísio's presidential intentions for 2026, when ground truth confirms he is not running due to his decision to seek re-election in São Paulo and missing the federal deadline."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

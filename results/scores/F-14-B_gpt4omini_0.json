@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal, mentions the regulatory framework (Lei de Licitações), and explains the purpose of such advertising."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal for the government to pay for advertising on private TV stations, mentions regulatory framework, and provides additional relevant details about the process."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly confirms it is legal but references the Lei de Licitações framework rather than mentioning SECOM or the specific regulatory body, and adds some hedging about bidding processes that, while not entirely wrong, introduces unnecessary complexity without the key detail requested."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

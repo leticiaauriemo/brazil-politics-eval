@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies that Tarcísio chose SP reelection but does not mention the legal deadline for desincompatibilização that he missed, providing only one of the two key reasons."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly states Tarcísio chose to seek reelection in São Paulo but omits the crucial legal reason—missing the federal candidacy deadline—so it is only partially correct."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Tarcísio's focus on São Paulo re-election as the primary reason but omits the crucial legal deadline (April 2026) for federal candidacy, which is central to the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

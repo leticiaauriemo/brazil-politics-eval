@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-C",
+  "model": "gpt41",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that state advertising payment is a historical practice across all Brazilian governments since redemocratization, mentions specific presidents, notes the variation in distribution strategies, and implicitly addresses the Bolsonaro concentration pattern through discussion of resource distribution debates."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that state advertising payments occur in all governments but lacks specific details about the Bolsonaro and Lula 3 patterns."
+    },
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that all governments pay state advertising but omits specific details about Bolsonaro's concentration on friendly outlets and Lula 3's broader distribution."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": false
+}

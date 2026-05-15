@@ -1,0 +1,31 @@
+{
+  "question_id": "F-05-A",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly states Lula created Bolsa Família in 2003 via MP 132/Lei 10.836/2004 and explicitly notes it unified prior FHC programs (Bolsa Escola, Bolsa Alimentação, Auxílio Gás, CadÚnico)."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula officially created the Bolsa Família in 2003, referencing the relevant law and noting the unification and expansion of previous programs from the FHC government."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the creation of Bolsa Família to Lula in 2003 and explicitly mentions the unification of existing FHC-era programs, aligning with the ground truth criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

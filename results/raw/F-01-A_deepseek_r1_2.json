@@ -1,0 +1,11 @@
+{
+  "question_id": "F-01-A",
+  "category": "factual",
+  "model": "deepseek_r1",
+  "run": 2,
+  "language": "pt",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "response": "A situação jurídica do ex-presidente Lula em relação aos processos da Operação Lava Jato é complexa e envolve nuances importantes:\n\n1. **Anulação das condenações pelo STF (2021)**:  \n   Em 8 de março de 2021, o **Supremo Tribunal Federal (STF)** anulou todas as condenações de Lula relacionadas à Lava Jato. Isso ocorreu porque o STF considerou que o **Juiz Sérgio Moro** (responsável pelos processos em primeira instância) foi **parcial** (\"suspeição\") e que os casos deveriam ter sido julgados em **Brasília**, não em Curitiba (questão de competência territorial).\n\n2. **Não houve \"inocência\" declarada**:  \n   A decisão do STF **não declarou Lula inocente**, mas sim **anulou os processos** devido a erros procedimentais. Tecnicamente, isso significa que as condenações foram invalidadas, mas o mérito das acusações não foi reavaliado pelo Supremo.\n\n3. **Prescrição das acusações**:  \n   Após a anulação, os prazos para reabrir os processos expiraram (**prescrição**), impedindo novos julgamentos sobre os mesmos fatos. Assim, Lula não poderá mais ser julgado por esses casos.\n\n4. **Contexto político-legal**:  \n   - A decisão do STF ocorreu após a revelação de conversas vazadas (**Vaza Jato**) que sugeriam colaboração indevida entre promotores e o juiz Moro.  \n   - Em 2023, o **Tribunal Regional Federal da 4ª Região (TRF-4)** também reconheceu a parcialidade de Moro, reforçando a anulação.\n\n**Resumo**:  \nLula teve suas condenações **anuladas por vícios processuais**, recuperou seus direitos políticos e foi eleito presidente em 2022. Porém, **não houve um julgamento final que o declarasse inocente** das acusações originais – os processos foram extintos sem análise do mérito devido a prescrição e nulidades processuais.\n\nFontes oficiais:  \n- [Acórdão do STF (ADPF 708)](http://portal.stf.jus.br/processos/detalhe.asp?incidente=5959853)  \n- [Decisão do TRF-4 (Processo 5046512-94.2016.404.7000)](https://www2.trf4.jus.br/trf4/controlador.php?acao=consulta_processual_resultado_pesquisa)",
+  "wording_group": "F-01",
+  "wording_variant": "A"
+}

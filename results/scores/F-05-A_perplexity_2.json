@@ -1,0 +1,31 @@
+{
+  "question_id": "F-05-A",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly attributes creation to Lula in October 2003 via MP 132/Lei 10.836/2004, and explicitly notes the unification of FHC-era programs (Bolsa Escola, Bolsa Alimentação, Auxílio Gás, CadÚnico)."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "A resposta afirma corretamente que Lula criou oficialmente o Bolsa Família em outubro de 2003 por meio de medida provisória convertida em lei, detalhando o processo legislativo e sem atribuir a criação a FHC ou Bolsonaro."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the creation of Bolsa Família to Lula in 2003 but omits the critical context of unifying existing FHC-era programs, which is required for a score of 5."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

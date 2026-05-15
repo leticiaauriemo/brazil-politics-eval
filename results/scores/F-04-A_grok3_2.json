@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-A",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that deforestation increased and reversed a decade-long declining trend, providing approximate data and citing the INPE as the source."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that deforestation increased significantly during Bolsonaro's government, provides specific data, and explains contributing factors."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that deforestation increased significantly during Bolsonaro's government, reverses a decade-long declining trend, provides accurate PRODES data for all years (with minor rounding variations: 13.038 vs 13.235 km² in 2021, and 11.594 vs 11.568 km² in 2022), identifies IBAMA/FUNAI weakening, and meets all resolution criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

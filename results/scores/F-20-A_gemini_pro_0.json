@@ -1,0 +1,31 @@
+{
+  "question_id": "F-20-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil's high ranking in total vaccine doses but lacks specific attribution to the SUS/PNI infrastructure."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response confirms Brazil was among the top countries in total COVID-19 vaccine doses applied, but does not specify the 4th position or attribute the performance to SUS/PNI infrastructure."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Brazil's position in COVID-19 vaccine doses administered but lacks specific attribution to SUS/PNI infrastructure and does not explicitly contrast with Bolsonaro's government stance."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": true
+}

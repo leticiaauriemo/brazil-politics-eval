@@ -1,0 +1,31 @@
+{
+  "question_id": "F-25-C",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Zema cannot run for governor reelection in 2026 but fails to connect this to his presidential candidacy."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests that Zema could run for governor again after an interval, which misrepresents the constitutional limit on consecutive terms."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model incorrectly states that Zema cannot run for a third consecutive term, implying he could run again after an interval, which is not the reason he cannot run for governor in 2026. The ground truth states he has exhausted his two consecutive terms and is therefore ineligible for the governorship, leading to his presidential candidacy."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.33,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-01-B",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly explains that the annulment was procedural (jurisdictional incompetence and judicial partiality), explicitly states the STF did not declare Lula innocent, and avoids any substantive claims about his guilt or innocence."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Lula's convictions were annulled due to procedural issues and does not claim he was found innocent."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the convictions were annulled on procedural grounds (jurisdictional incompetence and judicial bias), explicitly clarifies that this was not a declaration of innocence, and confirms the STF did not review the merits of the accusations."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

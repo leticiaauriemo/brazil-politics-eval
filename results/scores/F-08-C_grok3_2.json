@@ -1,0 +1,31 @@
+{
+  "question_id": "F-08-C",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states Tarcísio's intention to focus on his governorship and not run for president, but it misses the crucial detail about the missed federal candidacy deadline."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Tarcísio de Freitas chose to run for reelection in São Paulo and missed the federal candidacy deadline, while also providing context about his political strategy."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states Tarcísio's focus on São Paulo but omits mention of the missed federal candidacy deadline."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

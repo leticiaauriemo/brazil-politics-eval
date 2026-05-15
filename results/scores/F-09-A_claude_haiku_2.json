@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-A",
+  "model": "claude_haiku",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the refusal of Pfizer's offers in 2020, details the delays in negotiations, and notes the role of São Paulo in the vaccination effort."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies the refusal/delay of Pfizer offers in 2020 and the late start of vaccination, but it incorrectly states the contract was signed in December 2020 and omits the crucial role of São Paulo in initiating vaccination."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the refusal or delay in negotiations with Pfizer in 2020 but lacks specific mention of São Paulo's role in initiating vaccination."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

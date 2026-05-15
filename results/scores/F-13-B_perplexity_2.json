@@ -1,0 +1,31 @@
+{
+  "question_id": "F-13-B",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that EC 20/1998 established the first minimum ages for retirement, which contradicts the ground truth that EC 103/2019 was the first to establish minimum ages."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes EC 103 to the Bolsonaro government and notes it established minimum retirement ages, but it inaccurately states the ages as 62 for women and 67 for men instead of the correct 62 for women and 65 for men."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Bolsonaro's government, the year 2019, and notes EC 103 as the first minimum age reform."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

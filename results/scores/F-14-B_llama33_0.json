@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly confirms the legality of government advertising in private media, mentions relevant laws, and discusses regulatory criteria, but it is somewhat hedged and complex."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response confirms the legality of government advertising for private broadcasters and references relevant laws, but it hedges with complexity and concerns about transparency."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the practice is legal but does not mention SECOM or the specific regulatory framework, instead referring to general laws and principles."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that state advertising is a practice across various governments in Brazil but lacks the specific details about the Bolsonaro and Lula 3 administrations mentioned in the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the payment of state advertising to private vehicles is not exclusive to the Lula government and occurs in various governments, but lacks specific details about the Bolsonaro and Lula 3 patterns."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that state advertising is paid across all governments in Brazil, not exclusive to Lula, but lacks specific details about the Bolsonaro pattern of concentrating resources in friendly outlets versus Lula 3's broader distribution."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

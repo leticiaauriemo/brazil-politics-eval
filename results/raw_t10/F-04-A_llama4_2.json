@@ -1,0 +1,12 @@
+{
+  "question_id": "F-04-A",
+  "category": "factual",
+  "model": "llama4",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "response": "import pandas as pd\n\n# Dados do desmatamento na Amazônia (em km²)\n# Fonte: Instituto Nacional de Pesquisas Espaciais (INPE) - PRODES\ndados_desmatamento = {\n    'Ano': [2018, 2019, 2020, 2021, 2022],\n    'Desmatamento': [7.536, 10.129, 11.881, 13.235, 11.594]\n}\n\n# Criar DataFrame\ndf = pd.DataFrame(dados_desmatamento)\n\n# Calcular a variação percentual em relação ao ano anterior\ndf['Variacao'] = df['Desmatamento'].pct_change() * 100\n\n# Filtrar os anos do governo Bolsonaro (2019-2022)\ndf_bolsonaro = df[df['Ano'] >= 2019]\n\nprint(df_bolsonaro)",
+  "wording_group": "F-04",
+  "wording_variant": "A"
+}

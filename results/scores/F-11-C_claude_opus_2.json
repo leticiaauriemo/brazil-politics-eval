@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-C",
+  "model": "claude_opus",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Brazilian courts did not declare the impeachment unconstitutional, distinguishes between political debate and judicial conclusion, and provides specific, accurate details."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the courts did not declare the impeachment unconstitutional and distinguishes the political debate from the judicial conclusion."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

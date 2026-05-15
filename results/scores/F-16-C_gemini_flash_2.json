@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-C",
+  "model": "gemini_flash",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 Auxílio Brasil to Bolsonaro's government in 2022, but it lacks specificity about the PEC 1/2022 and the exact timing."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the R$600 value for Auxílio Brasil was established during Jair Bolsonaro's government in 2022."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the R$600 value for Auxílio Brasil was established during Jair Bolsonaro's government in 2022."
+    }
+  ],
+  "score_avg": 4.67,
+  "binary_avg": 1.0,
+  "agreement": true
+}

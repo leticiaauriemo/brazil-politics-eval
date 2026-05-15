@@ -1,0 +1,31 @@
+{
+  "question_id": "F-03-B",
+  "model": "claude_haiku",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the duration of ineligibility as 8 years until 2030 and mentions the reason related to abuse of electoral power during the meeting with foreign ambassadors."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the 8-year duration and end date, but incorrectly attributes the reason to the Lei da Ficha Limpa generally, rather than the specific abuse of electoral power and misuse of media in the ambassadors' meeting."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the duration of Bolsonaro's ineligibility as 8 years until 2030 and correctly mentions the use of the Lei da Ficha Limpa as the basis for the decision."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

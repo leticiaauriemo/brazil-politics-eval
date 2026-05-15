@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "llama4",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model response accurately confirms the X block occurred in 2024, provides approximate dates (August-October), and clearly explains the reason for the block (refusal to comply with court orders regarding removal of content and lack of a legal representative)."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the block in 2024, provides specific dates, and explains the reason for the block."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms the X block in Brazil, provides exact dates (August 30 to October 8, 2024), and accurately explains the reasons (refusal to comply with court orders, failure to appoint a legal representative), matching all criteria for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly states the conviction became final on 25/11/2025 with unanimous STF decision rejecting the last appeal, and notes no suspensive appeals remain."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically states that the conviction is final (trânsito em julgado), cites the unanimous STF decision on 25/11/2025, details the lack of suspensive appeals, and confirms the execution of the sentence."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the conviction is final (trânsito em julgado) but omits the required detail about the Revisão Criminal filed in May 2026 not suspending execution, as per resolution criteria."
+    }
+  ],
+  "score_avg": 4.33,
+  "binary_avg": 1.0,
+  "agreement": false
+}

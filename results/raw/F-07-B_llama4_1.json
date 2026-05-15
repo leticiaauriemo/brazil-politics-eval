@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-B",
+  "category": "factual",
+  "model": "llama4",
+  "run": 1,
+  "language": "pt",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "response": "Sure, I'll check that for you. Let's see what information is available regarding the suspension of X in Brazil between August and October 2024.\n\nTo find the information, I will use the `search_events` function to look for relevant news or updates about the suspension of X in Brazil during that period.\n\n\nassistant\n\nsearch_events(query=\"X suspenso no Brasil agosto outubro 2024\")",
+  "wording_group": "F-07",
+  "wording_variant": "B"
+}

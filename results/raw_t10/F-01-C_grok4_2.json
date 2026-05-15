@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "grok4",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "Não, o Supremo Tribunal Federal (STF) não declarou o ex-presidente Luiz Inácio Lula da Silva inocente dos crimes pelos quais ele foi condenado em Curitiba, no âmbito da Operação Lava Jato.\n\n### O que aconteceu exatamente:\n- Em abril de 2021, o STF confirmou, por 8 votos a 3, que a 13ª Vara Federal de Curitiba (sob o comando do então juiz Sergio Moro) não tinha competência (jurisdicional) para julgar os casos envolvendo Lula, pois as acusações não estavam diretamente ligadas à Petrobras, foco principal da Lava Jato em Curitiba.\n- Como resultado, as condenações foram anuladas (invalidando todo o processo), e os casos foram remetidos para a Justiça Federal de Brasília (DF) ou São Paulo, dependendo do processo.\n- Essa decisão não analisou o mérito das acusações (ou seja, não avaliou se Lula era culpado ou inocente dos fatos imputados). Foi uma questão processual: o juiz não era o \"juiz natural\" para o caso.\n\n### Desdobramentos posteriores:\n- Após a anulação, alguns processos foram arquivados ou Lula foi absolvido em instâncias inferiores por falta de provas ou prescrição. Por exemplo:\n  - No caso do tríplex do Guarujá, Lula foi absolvido em segunda instância em 2023.\n  - Outros casos, como o sítio de Atibaia, também tiveram desfechos favoráveis a Lula.\n- No total, Lula foi absolvido ou teve processos extintos em mais de 20 ações relacionadas à Lava Jato, mas isso ocorreu em etapas posteriores, não diretamente pelo STF declarando inocência.\n\nEssa anulação permitiu que Lula recuperasse seus direitos políticos e se candidatasse à presidência em 2022, mas o STF enfatizou que a decisão era sobre incompetência jurisdicional, não sobre o fundo das denúncias. Se você quiser mais detalhes sobre casos específicos, posso explicar! Fontes confiáveis incluem o site oficial do STF ou reportagens de veículos como Folha de S.Paulo ou O Globo.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

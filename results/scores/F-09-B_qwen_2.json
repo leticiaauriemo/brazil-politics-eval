@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-B",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the Ministry of Health did not buy Pfizer vaccines in 2020 and provides excellent context regarding the reasons for the delay and the eventual purchase, aligning perfectly with the ground truth's nuances."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the Ministry of Health did not purchase Pfizer vaccines in 2020 but lacks contextualization regarding Brazil's eventual strong vaccination performance."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

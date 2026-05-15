@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly lists Tarcísio de Freitas as a strong possibility for president, failing to mention his decision not to run, and does not state Flávio Bolsonaro's announced candidacy."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Tarcísio de Freitas as a strong candidate for president, failing to mention that he opted for re-election in São Paulo and does not accurately reflect the context of Flávio Bolsonaro's candidacy."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

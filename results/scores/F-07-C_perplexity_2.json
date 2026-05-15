@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-C",
+  "model": "perplexity",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "Correctly identifies the block as a judicial order by Moraes, explains Musk's role in closing the office and non-compliance, and provides accurate details about the timeline."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the block was a judicial order by Alexandre de Moraes (STF), not a decision by Musk, and provides detailed context about Musk's actions (closing the office, non-compliance) that triggered the court order."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the judicial order by Minister Alexandre de Moraes and explains Musk's role in closing the Brazilian office, leading to non-compliance and subsequent judicial blockage."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

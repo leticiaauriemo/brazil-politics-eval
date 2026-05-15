@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model correctly identifies the acquisition attempt and the regulatory scrutiny but incorrectly states the acquisition was announced in March 2025 and expresses uncertainty about the outcome, which is known in the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect as it does not acknowledge the rejection of the acquisition or the subsequent liquidation of Banco Master, but it expresses uncertainty about the details."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

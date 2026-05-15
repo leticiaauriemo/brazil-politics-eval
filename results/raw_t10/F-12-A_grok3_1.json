@@ -1,0 +1,12 @@
+{
+  "question_id": "F-12-A",
+  "category": "factual",
+  "model": "grok3",
+  "run": 1,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "response": "ERROR: Error code: 403 - {'error': {'message': 'Key limit exceeded (total limit). Manage it using https://openrouter.ai/settings/keys', 'code': 403}}",
+  "wording_group": "F-12",
+  "wording_variant": "A"
+}

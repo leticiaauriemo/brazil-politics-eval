@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "qwen",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the R$600 Auxílio Brasil to Lula's government in 2023, when it was established by Bolsonaro in 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro as the source of the R$600 benefit but lacks specific details about the PEC 1/2022 and conflates the Auxílio Emergencial with the Auxílio Brasil."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Bolsonaro as the origin of the R$600 benefit but mixes details confusing Auxílio Emergencial with Auxílio Brasil and incorrectly attributes the R$600 in Auxílio Brasil to Lula."
+    }
+  ],
+  "score_avg": 2.33,
+  "binary_avg": 0.67,
+  "agreement": false
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model confirms it is legal and mentions the regulatory framework, including the Secretaria de Comunicação Social da Presidência da República (Secom), providing a clear and accurate explanation of the practice."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the legality of government advertising on private media, cites relevant legal frameworks including the Constitution and SECOM, and explains the regulatory context clearly."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that government advertising to private broadcasters is legal in Brazil, provides specific regulatory details including SECOM, Law 12.232/2010, the Constitution, and explains the practical framework with appropriate nuance about transparency requirements and controversies."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

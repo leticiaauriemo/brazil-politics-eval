@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that a single STF minister can issue individual decisions, including those affecting social media, but it fails to explicitly mention the specific context of the Inquérito 4781 or the legal controversy surrounding Moraes's monocratic orders, which is a key part of the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges that a minister of the STF can make individual decisions regarding social media suspensions but lacks the specific context of the controversial nature of Moraes' monocratic orders and their real effects."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

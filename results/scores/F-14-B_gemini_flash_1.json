@@ -1,0 +1,31 @@
+{
+  "question_id": "F-14-B",
+  "model": "gemini_flash",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "grok3",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that it is legal for the Brazilian government to pay for advertising on private TV stations and provides detailed legal and regulatory context."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the legality of government advertising for private TV stations in Brazil and provides specific details about the regulatory framework and principles governing this practice."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response confirms the legality of government advertising in private media, mentions relevant laws and principles, and provides detailed context, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-A",
+  "model": "gpt41",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model confidently states that X was not blocked in Brazil as of June 2024, directly contradicting the ground truth that a nationwide block occurred from August 30 to October 8, 2024, ordered by Minister Alexandre de Moraes due to the platform's refusal to comply with court orders."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that X was not blocked in Brazil during the specified timeframe, contradicting the ground truth."
+    },
+    {
+      "judge": "grok3",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly and confidently states that X was not blocked in Brazil as of June 2024, despite the ground truth confirming a nationwide block from August to October 2024."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

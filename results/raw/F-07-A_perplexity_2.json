@@ -1,0 +1,11 @@
+{
+  "question_id": "F-07-A",
+  "category": "factual",
+  "model": "perplexity",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "response": "**Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024.**\n\n### Período e Detalhes do Bloqueio\n- **Início**: Ordenado em 30 de agosto de 2024 pelo ministro Alexandre de Moraes (STF). A Anatel notificou operadoras (Vivo, Claro, TIM, Oi etc.), e o bloqueio começou efetivamente na madrugada de 31 de agosto, por volta das 0h, afetando site e app em todo o território nacional ([1], [2], [5], [7], [8]).\n- **Motivo**: Descumprimento de ordens judiciais pela X, incluindo falta de representante legal no Brasil (exigido pelo Marco Civil da Internet), não remoção de conteúdos e não pagamento de multas. A plataforma encerrou operações no país em 17 de agosto ([4], [9]).\n- **Duração**: Durou até 8 de outubro de 2024 (cerca de 39 dias). Houve incidentes temporários de acesso restaurado (ex.: 18-19 de setembro via mudança para Cloudflare), mas Moraes reforçou o bloqueio imediatamente ([3], [6]).\n- **Fim**: Em 8 de outubro, após X nomear representante legal, cumprir ordens e pagar R$ 28,6 milhões em multas, Moraes autorizou a Anatel a desbloquear em até 24 horas ([1]).\n\n### Evidências dos Resultados\n| Fonte | Data | Resumo da Confirmação |\n|-------|------|-----------------------|\n| [1] Wikipédia | Atual | Bloqueio de 30/08 a 08/10/2024; desbloqueio confirmado. |\n| [2] Agência Brasil | 31/08/2024 | Bloqueio iniciado; Anatel cumpre em 24h. |\n| [5] GaúchaZH | 31/08/2024 | Suspensão na madrugada de 31/08. |\n| [7] O Globo | 31/08/2024 | Acessos restritos a partir de 00h; operadoras notificadas. |\n| [8] G1 | 31/08/2024 | Suspenso na madrugada; multa de R$50 mil por VPN. |\n| [3] BBC | 19/09/2024 | Bloqueio mantido apesar de breves acessos. |\n| [10] YouTube | 07/09/2024 | Uma semana de bloqueio total. |\n\nO bloqueio foi referendado pela 1ª Turma do STF (5-0) e visava forçar cumprimento legal, sem afetar eleições municipais diretamente ([9], [10]). Desde 8 de outubro, o X opera normalmente no Brasil.",
+  "wording_group": "F-07",
+  "wording_variant": "A"
+}

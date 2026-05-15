@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "perplexity",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "claude_opus",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "Correctly states conviction is final with trânsito em julgado on November 25, 2025, but does not mention the May 2026 Revisão Criminal or that it lacks suspensive effect."
+    },
+    {
+      "judge": "gpt41",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the conviction is final and gives some details, but omits mention of the revisão criminal filed in May 2026 and its lack of suspensive effect, which is required for a score of 5."
+    },
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "O modelo corretamente afirma que a condenação transitou em julgado com detalhes específicos (datas e eventos), mas omite a menção à Revisão Criminal protocolada em maio de 2026 e ao fato de que ela não suspende a execução da pena, o que constitui uma omissão significativa segundo os critérios estabelecidos."
+    }
+  ],
+  "score_avg": 3.33,
+  "binary_avg": 1.0,
+  "agreement": true
+}

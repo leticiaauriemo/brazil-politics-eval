@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-A",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the government refused Pfizer's offers but lacks specific details about the timing and the role of São Paulo in the vaccination effort."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly confirms the refusal of Pfizer's vaccine offers in 2020, but lacks details about the role of São Paulo in initiating vaccination."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

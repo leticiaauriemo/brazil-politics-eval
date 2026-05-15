@@ -1,0 +1,31 @@
+{
+  "question_id": "F-02-C",
+  "model": "gemini_pro",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "grok4",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide any factual claim about the conviction's status and is incomplete, making it incorrect and misleading by failing to address the query."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide any factual information about the conviction's finality or the status of appeals."
+    },
+    {
+      "judge": "deepseek_r1",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response fails to state any core factual claim about the conviction's finality or the non-suspensive nature of the 2026 appeal, rendering it functionally incorrect despite hedging."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

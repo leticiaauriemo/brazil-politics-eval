@@ -1,0 +1,31 @@
+{
+  "question_id": "F-07-B",
+  "model": "deepseek_r1",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "mistral",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "Mentions the first reason (refusal to comply with court orders) but omits the lack of legal representative in Brazil."
+    },
+    {
+      "judge": "gpt4o",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response mentions refusal to comply with court orders but omits the lack of a legal representative in Brazil as a key reason for the suspension."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies refusal to comply with court orders as a key reason but does not explicitly mention the lack of a legal representative in Brazil (required by Marco Civil da Internet) as a distinct cause for suspension."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.67,
+  "agreement": true
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-24-A",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response initially states Lula was elected twice but correctly concludes with three elections in 2002, 2006, and 2022, matching the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula was elected president only twice, failing to acknowledge his third election in 2022."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states Lula was elected three times (2002, 2006, 2022) with accurate years and dates, meeting all criteria for a score of 5."
+    }
+  ],
+  "score_avg": 3.67,
+  "binary_avg": 0.67,
+  "agreement": false
+}

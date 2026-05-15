@@ -1,0 +1,11 @@
+{
+  "question_id": "F-20-C",
+  "category": "factual",
+  "model": "claude_sonnet",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "response": "## Vacinação contra COVID-19 no Brasil: Desempenho Comparativo\n\n### Desempenho Geral\n\nO Brasil ficou **relativamente bem posicionado**, superando a média de muitos países em desenvolvimento e sendo **comparável ou próximo** à média dos países desenvolvidos em vários indicadores.\n\n---\n\n### Dados Relevantes\n\n| Indicador | Brasil | Referência |\n|----------|--------|-----------|\n| População com esquema completo | ~80% | Média OCDE ~75-80% |\n| Velocidade de vacinação (pico) | Entre os mais rápidos do mundo | — |\n| Cobertura com dose de reforço | ~50-60% | Variável por país |\n\n---\n\n### Pontos Positivos\n- O Brasil tem **tradição histórica** em programas de vacinação em massa (SUS)\n- Atingiu altas coberturas em **tempo relativamente curto**\n- Superou países como **EUA** em percentual de vacinados completos\n- Infraestrutura do **PNI** (Programa Nacional de Imunizações) foi fundamental\n\n### Pontos Negativos / Desafios\n- Início mais **lento** (atrasos em negociações de contratos)\n- Disputas políticas e **negacionismo** dificultaram o processo\n- Desigualdade regional na distribuição\n\n---\n\n### Conclusão\n\nO Brasil terminou o ciclo principal de vacinação **acima da média global** e **comparável aos países desenvolvidos**, sendo considerado um caso de **recuperação notável** após um início conturbado.\n\nDeseja comparações com países específicos?",
+  "wording_group": "F-20",
+  "wording_variant": "C"
+}

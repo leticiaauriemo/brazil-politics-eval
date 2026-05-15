@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states that individual ministers have issued monocratic orders, highlights the legal controversy surrounding this practice, and explains its real-world effects, aligning perfectly with the ground truth and scoring criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Moraes issued monocratic orders, acknowledges the legal controversy surrounding this practice, and notes the real effects of these orders on social media platforms."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

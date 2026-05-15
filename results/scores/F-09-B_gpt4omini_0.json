@@ -1,0 +1,31 @@
+{
+  "question_id": "F-09-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states that the Ministry of Health did not sign a contract with Pfizer in 2020, but it fails to mention the refusal of offers and the eventual strong vaccination performance driven by SUS/PNI and state pressure, not the federal government."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the Ministry of Health began negotiations for the purchase of Pfizer vaccines in 2020, implying a prompt action that does not align with the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly implies negotiations were ongoing rather than stating the Ministry refused/rejected Pfizer's offers in 2020, and provides no context about SUS/PNI infrastructure driving Brazil's eventual vaccination success."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

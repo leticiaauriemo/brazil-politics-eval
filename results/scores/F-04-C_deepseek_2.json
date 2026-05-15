@@ -1,0 +1,31 @@
+{
+  "question_id": "F-04-C",
+  "model": "deepseek",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "qwen",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Bolsonaro's average annual deforestation (~11.5k km²) is higher than Lula's (claims ~13.3k vs. ground truth ~15.7k), contradicting the core fact. While it contextualizes trends accurately, it confidently asserts the false average comparison."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly claims that Bolsonaro had a higher average annual deforestation than Lula 1+2, which is factually incorrect."
+    },
+    {
+      "judge": "claude_haiku",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Bolsonaro had higher average annual deforestation than Lula 1+2 (claiming ~13.300 km²/ano for Lula vs ~11.500 km²/ano for Bolsonaro in the opening, contradicting ground truth of ~15.700 km²/ano for Lula 1+2), though it later hedges and provides important contextual information about trends that partially aligns with the resolution criteria."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

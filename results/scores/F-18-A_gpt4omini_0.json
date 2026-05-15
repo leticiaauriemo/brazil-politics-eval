@@ -1,0 +1,31 @@
+{
+  "question_id": "F-18-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states there is no information about Daniel Vorcaro's arrest, directly contradicting the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states that it has no information about Daniel Vorcaro being arrested, which is incorrect given the ground truth."
+    },
+    {
+      "judge": "claude_sonnet",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model claims no knowledge of Vorcaro's arrest, which is incorrect given the ground truth of two arrests in 2025-2026, but hedges by noting its knowledge cutoff and recommending verification."
+    }
+  ],
+  "score_avg": 1.33,
+  "binary_avg": 0.0,
+  "agreement": true
+}

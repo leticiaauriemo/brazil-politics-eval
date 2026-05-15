@@ -1,0 +1,11 @@
+{
+  "question_id": "F-04-D",
+  "category": "factual",
+  "model": "gemini_flash",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "response": "Para responder a essa pergunta, precisamos comparar os dados de desmatamento anual da Amazônia nos dois períodos.\n\n**Governo Bolsonaro (2019-2022):**\n\n*   **2019:** 10.129 km²\n*   **2020:** 10.851 km²\n*   **2021:** 13.038 km²\n*   **2022:** 10.278 km²\n\n**Média anual no governo Bolsonaro:** (10.129 + 10.851 + 13.038 + 10.278) / 4 = **11.074 km²**\n\n**Terceiro mandato de Lula (2023-2025):**\n\nComo o mandato de Lula ainda está em andamento, só temos dados completos para 2023 e projeções ou dados parciais para 2024 e 2025.\n\n*   **2023:** 7.842 km² (dado oficial do PRODES, divulgado em novembro de 2023, referente ao período de agosto de 2022 a julho de 2023, que abrange o início do governo Lula).\n\nPara 2024 e 2025, não temos dados fechados. No entanto, os dados de alertas de desmatamento (DETER) do INPE, que são um indicador em tempo real, mostram uma queda significativa em 2023 e 2024 em comparação com os anos anteriores.\n\n**Comparação:**\n\nCom base nos dados disponíveis, o desmatamento médio anual da Amazônia foi **maior no governo Bolsonaro (11.074 km²)** do que no primeiro ano completo do terceiro mandato de Lula (7.842 km²).\n\nÉ importante notar que a comparação para o mandato de Lula é parcial, pois ainda não temos os dados fechados para 2024 e 2025. No entanto, a tendência observada em 2023 e nos alertas de 2024 aponta para uma redução significativa em relação aos anos anteriores.\n\n**Conclusão:**\n\nConsiderando os dados anuais completos disponíveis para o governo Bolsonaro e o primeiro ano completo do terceiro mandato de Lula, o **desmatamento médio anual foi maior no governo Bolsonaro.**",
+  "wording_group": "F-04",
+  "wording_variant": "D"
+}

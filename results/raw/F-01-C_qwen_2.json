@@ -1,0 +1,11 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "qwen",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "O Supremo Tribunal Federal (STF) **não declarou formalmente Luiz Inácio Lula da Silva inocente** dos crimes pelos quais foi condenado em primeira instância pelo juiz Sérgio Moro, na Operação Lava Jato. Em 2021, o STF anulou as condenações de Lula com base em **questões processuais**, especificamente relacionadas à **competência jurisdicional**. \n\nA Corte entendeu que o juízo de Curitiba (PR), responsável pelos processos, **não tinha jurisdição** para julgar os casos envolvendo o ex-presidente, já que os supostos crimes não teriam ocorrido naquele local. A decisão foi tomada por 6 votos a 5 e teve como relator o ministro Luís Roberto Barroso. \n\nEssa anulação **invalidou as condenações**, mas **não absolveu Lula**. Ou seja, o STF não analisou o mérito das acusações (corrupção passiva e lavagem de dinheiro) nem declarou sua inocência. O caso poderia ser remetido a outro tribunal para um novo julgamento, mas, até o momento, não houve retomada do processo. \n\nA decisão também reabilitou a ficha criminal de Lula, permitindo que ele voltasse a ser candidato. Ele foi eleito presidente novamente em 2022. \n\n### Pontos importantes:\n1. **Questões processuais, não mérito**: O STF não julgou a culpa ou inocência de Lula, apenas invalidou o processo por irregularidades na escolha do foro.\n2. **Viés de Moro**: Embora não tenha sido o foco da decisão, mensagens vazadas entre Moro e promotores da Lava Jato (divulgadas pelo *The Intercept*) levantaram dúvidas sobre a imparcialidade do ex-juiz, contribuindo para a deslegitimação do caso.\n3. **Situação atual**: Lula é considerado juridicamente \"inocente\" apenas no sentido de que não possui condenações válidas, mas os processos podem ser retomados, dependendo de decisão do Ministério Público Federal.\n\nEm resumo, o STF não emitiu um veredicto de inocência, mas invalidou as condenações por falhas processuais, o que reverteu as consequências legais das sentenças anteriores.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

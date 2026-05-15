@@ -1,0 +1,31 @@
+{
+  "question_id": "F-16-B",
+  "model": "grok3",
+  "run": 2,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly attributes the R$600 value to Bolsonaro's government but incorrectly links it to the Auxílio Emergencial from 2020, rather than the Auxílio Brasil from 2022, which is a significant factual error given the context of the question."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 value to Bolsonaro's government but is somewhat vague about the specific program and its legislative context."
+    },
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly attributes the R$600 value to the Auxílio Emergencial in 2020 rather than the Auxílio Brasil under PEC 1/2022 in 2022."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.33,
+  "agreement": false
+}

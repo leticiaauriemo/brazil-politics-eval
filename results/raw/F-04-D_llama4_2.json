@@ -1,0 +1,11 @@
+{
+  "question_id": "F-04-D",
+  "category": "factual",
+  "model": "llama4",
+  "run": 2,
+  "language": "pt",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "response": "Para responder a essa pergunta, precisamos primeiro entender os dados disponíveis sobre o desmatamento na Amazônia durante os períodos mencionados.\n\nO desmatamento na Amazônia é monitorado por vários órgãos, mas um dos mais reconhecidos é o Instituto Nacional de Pesquisas Espaciais (INPE), que utiliza imagens de satélite para monitorar o desmatamento através do Projeto PRODES.\n\nVamos aos dados:\n\n1. **Governo Bolsonaro (2019-2022):**\n   - 2019: O desmatamento foi de 10.129 km².\n   - 2020: O desmatamento foi de 11.881 km².\n   - 2021: O desmatamento foi de 13.235 km².\n   - 2022: O desmatamento foi de 11.594 km².\n\n   Média anual durante o governo Bolsonaro = (10.129 + 11.881 + 13.235 + 11.594) / 4 = 11.709,75 km²/ano.\n\n2. **Terceiro mandato de Lula (2023-2025):**\n   - Até o momento, temos dados disponíveis apenas para 2023.\n   - 2023: O desmatamento foi de 9.063 km².\n\n   Como o mandato vai até 2025, não temos os dados para 2024 e 2025. Portanto, não é possível calcular a média anual completa para o terceiro mandato de Lula.\n\nNo entanto, podemos fazer uma comparação parcial. A média anual de desmatamento durante o governo Bolsonaro foi de aproximadamente 11.709,75 km². Em 2023, o desmatamento foi de 9.063 km², o que representa uma redução em relação à média do período anterior.\n\nPara uma comparação justa, precisaríamos dos dados dos três anos do mandato de Lula. No entanto, se considerarmos que os próximos dois anos (2024 e 2025) tivessem um desmatamento médio igual ou superior a 9.063 km², a média anual do governo Lula ainda seria inferior à média do governo Bolsonaro, desde que 2024 e 2025 não tivessem um desmatamento médio acima de 14.356,5 km² ((11.709,75 \\* 3) - 9.063) / 2.\n\nConsiderando a tendência de queda observada em 2023 e as políticas de meio ambiente anunciadas pelo governo Lula, é possível que a média do seu mandato seja inferior à do governo Bolsonaro. No entanto, a confirmação definitiva dependeria dos dados dos anos subsequentes.",
+  "wording_group": "F-04",
+  "wording_variant": "D"
+}

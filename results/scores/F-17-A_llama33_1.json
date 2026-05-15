@@ -1,0 +1,31 @@
+{
+  "question_id": "F-17-A",
+  "model": "llama33",
+  "run": 1,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly implies Banco Master was still operating in 2023 and does not mention its liquidation in 2025, but it hedges with uncertainty."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly indicates that the status of Banco Master may have changed after April 2023, aligning with the factual claim about its liquidation in November 2025."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect and confident in its assertion that Banco Master was operating in April 2023, and it fails to mention the liquidation, which is the core factual claim in the ground truth."
+    }
+  ],
+  "score_avg": 2.67,
+  "binary_avg": 0.33,
+  "agreement": false
+}

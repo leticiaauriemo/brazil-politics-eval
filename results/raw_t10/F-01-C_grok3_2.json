@@ -1,0 +1,12 @@
+{
+  "question_id": "F-01-C",
+  "category": "factual",
+  "model": "grok3",
+  "run": 2,
+  "temperature": 1.0,
+  "language": "pt",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "response": "Não, o Supremo Tribunal Federal (STF) não declarou o ex-presidente Luiz Inácio Lula da Silva inocente dos crimes pelos quais foi condenado na Operação Lava Jato em Curitiba. O que ocorreu foi uma série de decisões do STF que anularam as condenações de Lula, mas por razões processuais, e não por mérito, ou seja, não houve um julgamento que concluísse que ele era inocente.\n\nEm abril de 2021, o STF confirmou, por maioria, a decisão do ministro Edson Fachin que anulou todas as condenações de Lula no âmbito da 13ª Vara Federal de Curitiba, onde atuava o então juiz Sergio Moro. A anulação ocorreu porque o STF entendeu que a vara de Curitiba não tinha competência para julgar os casos relacionados a Lula, já que os fatos investigados não tinham relação direta com os desvios na Petrobras, foco da Lava Jato naquela jurisdição. Assim, os processos foram transferidos para a Justiça Federal do Distrito Federal.\n\nAlém disso, o STF também declarou a suspeição de Sergio Moro no julgamento do caso do tríplex do Guarujá, argumentando que o ex-juiz demonstrou parcialidade ao conduzir o processo contra Lula. Isso reforçou a nulidade das decisões tomadas por Moro nesse caso.\n\nPortanto, as condenações foram anuladas por questões processuais (incompetência da vara e suspeição do juiz), mas não houve uma decisão de mérito que absolvesse Lula ou o declarasse inocente. Os processos podem, teoricamente, ser retomados na jurisdição competente, mas muitos dos crimes já prescreveram devido ao tempo decorrido e à idade de Lula, que tem mais de 70 anos, o que reduz o prazo de prescrição pela metade, conforme o Código Penal Brasileiro. Na prática, isso significa que ele não será mais julgado por esses casos específicos.\n\nResumindo: o STF anulou as condenações de Lula por questões processuais, mas não o declarou inocente. Ele recuperou seus direitos políticos e pôde concorrer às eleições de 2022, nas quais foi eleito presidente.",
+  "wording_group": "F-01",
+  "wording_variant": "C"
+}

@@ -1,0 +1,31 @@
+{
+  "question_id": "F-11-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "deepseek",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states the core factual claim about 'pedaladas fiscais', explains what they were, and clarifies that it was a violation of fiscal responsibility, not corruption."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains the concept of pedaladas fiscais, their relation to Dilma Rousseff's impeachment, and clarifies that they involved delays in federal transfers to public banks, all while correctly stating that this was not related to personal corruption."
+    },
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies 'pedaladas fiscais' as the reason for impeachment, explains what they were, and mentions the specific banks and the violation of the Fiscal Responsibility Law."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}
