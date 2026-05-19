@@ -946,6 +946,301 @@ def tab_consistency():
             st.write(r["response"] if r else "*not found*")
 
 
+# ── CONCLUSIONS & FINDINGS ────────────────────────────────────────────────────
+
+def tab_conclusions():
+    st.header("Conclusions & Findings")
+    st.caption(
+        "Brazil Politics Eval — auditing AI factual accuracy and search behavior "
+        "on 75 factual questions about Brazilian politics and the 2026 presidential election. "
+        "18 models tested across 3 conditions: no search, forced search, and opportunistic search."
+    )
+
+    st.subheader("1. Search access is the single biggest driver of accuracy")
+    st.markdown("""
+Without web search, the average model answers only **63%** of factual questions correctly.
+With opportunistic search (the model chooses when to search, like consumer products),
+accuracy jumps to **90%+** for most models — a gain of **+17pp to +37pp** depending on the model.
+
+This gap is explained by training cutoff. Many questions involve events from 2023–2026
+(Bolsonaro's STF conviction, Lula's 2023 policies, Flávio Bolsonaro's 2026 candidacy)
+that post-date most models' training data. Search closes that gap almost entirely.
+
+**Implication for Brazilian voters:** what you get from an AI chatbot depends heavily on
+whether you're using a product that searches. The same underlying model can go from
+failing 4 in 10 questions to passing 9 in 10 simply by having access to the web.
+    """)
+
+    st.subheader("2. How models use search varies significantly")
+    st.markdown("""
+Models don't search uniformly. Search rate — the fraction of questions a model chose to
+search when given the option — ranges from **9% (GPT-5) to 100% (DeepSeek, Qwen, Llama 3.3)**.
+
+| Pattern | Models | What it means |
+|---|---|---|
+| Always search | DeepSeek, Qwen, Llama 3.3, Claude Haiku, Mistral | Conservative — search when uncertain |
+| Selective search | Claude Opus (72%), GPT-4o (60%), DeepSeek R1 (59%) | Confident on settled facts, search on recent events |
+| Barely search | GPT-5 (9%) | Strong prior beliefs, rarely acknowledges knowledge gap |
+
+High search rate does not guarantee high accuracy. DeepSeek searched 100% of questions
+but scored 94% — lower than Claude Opus at 72% search rate and 100% accuracy.
+Calibration matters more than volume.
+    """)
+
+    st.subheader("3. GPT-5 silently refuses politically sensitive questions")
+    st.error(
+        "**GPT-5 returned empty responses on 33 of 75 questions (44%) — consistently across "
+        "all 3 runs at temp=0.** These are not API errors or knowledge gaps: they are the "
+        "most politically charged questions (Lula's Lava Jato case, Bolsonaro's ineligibility, "
+        "Amazon deforestation). Every other model answers these questions. GPT-5 gives voters "
+        "nothing — no answer, no explanation, no refusal message. This is a distinct failure "
+        "mode from being wrong: it is invisible non-engagement."
+    )
+    st.markdown("""
+Of the questions GPT-5 did answer, it searched only 9% — suggesting high confidence in
+its training knowledge. Yet its no-search accuracy on the questions it did answer was only
+42%, tied for last place among models that respond.
+
+This combination — high confidence + low accuracy + silent refusal on sensitive topics —
+makes GPT-5 potentially the most misleading model for Brazilian political queries.
+    """)
+
+    st.subheader("4. The 2026 election knowledge gap")
+    st.markdown("""
+Flávio Bolsonaro announced his 2026 presidential candidacy in **December 2025** — after
+most models' training cutoffs. Only **Perplexity** (always searches) correctly identified
+him as the leading right-wing candidate. All other models named Tarcísio de Freitas or
+said no candidates had been announced yet.
+
+With opportunistic search enabled, most models correctly identify Flávio Bolsonaro —
+but only if they choose to search. This question is the clearest test of whether a model
+recognizes its own knowledge is stale.
+    """)
+
+    st.subheader("5. Methodology notes")
+    st.markdown("""
+- **75 factual questions** across 25 topic groups (3 wording variants each)
+- **18 models** tested: Anthropic (3), OpenAI (4), Google (2), xAI (1), Meta (2),
+  DeepSeek (2), Perplexity (1), Qwen (1), Mistral (1)
+- **Scoring:** LLM-as-judge with 2 judges per response, binary pass/fail + 1–5 score
+- **Search conditions:**
+  - *No search:* base model API call, temperature=0
+  - *Forced search:* OpenRouter `:online` suffix — every call searches
+  - *Opportunistic search:* OpenRouter `web_search` server tool — model decides
+- **Models excluded from tool search:** Perplexity (always searches natively),
+  Llama 4 (tool calling unsupported via OpenRouter) — shown using no-search baseline
+- **Grok:** Updated from deprecated Grok 3/4 to Grok 4.3 during the eval
+    """)
+
+
+# ── SEARCH BEHAVIOR ───────────────────────────────────────────────────────────
+
+@st.cache_data(ttl=30)
+def load_tool_raw():
+    rows = []
+    if not RAW_TOOL_DIR.exists():
+        return pd.DataFrame()
+    for f in RAW_TOOL_DIR.glob("*.json"):
+        try:
+            d = json.load(open(f))
+            rows.append({
+                "question_id":    d.get("question_id", ""),
+                "wording_group":  d.get("wording_group", ""),
+                "model":          d.get("model", ""),
+                "did_search":     d.get("did_search", False),
+                "n_citations":    len(d.get("citations", [])),
+                "citations":      d.get("citations", []),
+                "response":       d.get("response") or "",
+                "prompt":         d.get("prompt", ""),
+            })
+        except Exception:
+            pass
+    if not rows:
+        return pd.DataFrame()
+    df = pd.DataFrame(rows)
+    df["model_display"] = df["model"].map(MODEL_DISPLAY).fillna(df["model"])
+    return df
+
+
+def tab_search_behavior():
+    st.header("Search Behavior")
+    st.caption(
+        "Opportunistic search: each model had access to a web search tool and chose "
+        "whether to use it. This tab shows which questions triggered search, what sources "
+        "were cited, and the full responses."
+    )
+
+    # ── GPT-5 WARNING ─────────────────────────────────────────────────────────
+    st.warning(
+        "**GPT-5 note:** GPT-5 returned empty responses on 33 of 75 questions consistently "
+        "across all runs — always the most politically sensitive topics (Lula/Lava Jato, "
+        "Bolsonaro ineligibility, Amazon deforestation). This is not a knowledge gap: "
+        "the same questions are answered correctly by every other model. "
+        "GPT-5 appears to have a content policy that silently refuses to engage with "
+        "Brazilian political questions, giving voters no answer rather than a wrong one. "
+        "Only 9% of the questions it did answer triggered a web search."
+    )
+
+    df = load_tool_raw()
+    if df.empty:
+        st.info("No tool search data found in results/raw_tool/")
+        return
+
+    # ── KEY CONCLUSIONS ───────────────────────────────────────────────────────
+    st.subheader("Key Findings")
+    col1, col2, col3 = st.columns(3)
+
+    search_rates = (
+        df.groupby(["model", "model_display"])["did_search"]
+        .mean()
+        .reset_index()
+        .sort_values("did_search", ascending=False)
+    )
+    top_searcher = search_rates.iloc[0]
+    low_searcher = search_rates[search_rates["model"] != "gpt5"].sort_values("did_search").iloc[0]
+
+    with col1:
+        st.metric("Models that searched >80% of questions",
+                  str(len(search_rates[search_rates["did_search"] > 0.8])))
+        st.caption("DeepSeek, Qwen, Llama 3.3, Claude Haiku, Mistral, Grok 4 all searched nearly every question")
+    with col2:
+        st.metric("Models that barely searched",
+                  "2",
+                  help="GPT-5 (9%) and Llama 4 (unsupported)")
+        st.caption("GPT-5 searched only 9% of questions — and refused to answer 44% entirely")
+    with col3:
+        avg_improvement = "+25pp"
+        st.metric("Average accuracy gain from search", avg_improvement)
+        st.caption("Across 15 models that successfully used the tool")
+
+    st.markdown("""
+**Conclusions:**
+- **Search dramatically improves accuracy** across nearly all models (+17pp to +37pp).
+  The no-search baseline reflects training cutoff gaps, not model intelligence.
+- **High search rate ≠ high accuracy.** DeepSeek and Qwen searched 100% of questions
+  but still scored lower than Claude Sonnet, which searched selectively (96%).
+- **GPT-5's silence is a distinct failure mode.** Rather than answering incorrectly,
+  it returns empty responses on sensitive political topics — voters get nothing.
+- **Claude models are the most calibrated:** Claude Sonnet searched 96% of questions
+  and reached 100% accuracy; Claude Opus searched only 72% but also hit 100%,
+  suggesting stronger baseline political knowledge.
+    """)
+
+    st.divider()
+
+    # ── SEARCH RATE PER MODEL ─────────────────────────────────────────────────
+    st.subheader("Search Rate by Model")
+    fig = px.bar(
+        search_rates,
+        x="model_display", y="did_search",
+        color="did_search", color_continuous_scale="Blues",
+        text=(search_rates["did_search"] * 100).round(0).astype(int).astype(str) + "%",
+        labels={"model_display": "", "did_search": "% Questions Searched"},
+    )
+    fig.update_traces(textposition="outside")
+    fig.update_layout(
+        coloraxis_showscale=False, height=350,
+        yaxis=dict(tickformat=".0%", range=[0, 1.15]),
+        xaxis=dict(categoryorder="total descending"),
+    )
+    st.plotly_chart(fig, use_container_width=True)
+
+    st.divider()
+
+    # ── SEARCH MATRIX: which questions triggered search ───────────────────────
+    st.subheader("Which Questions Triggered Search")
+    st.caption("Green = model chose to search. Ordered by question group.")
+
+    pivot = df.pivot_table(
+        index="model_display", columns="wording_group",
+        values="did_search", aggfunc="max"
+    ).fillna(False)
+    col_order = sorted(pivot.columns)
+    pivot = pivot[col_order]
+    row_order = search_rates.set_index("model_display")["did_search"].reindex(pivot.index).sort_values(ascending=False).index
+    pivot = pivot.loc[pivot.index.intersection(row_order)]
+
+    fig2 = px.imshow(
+        pivot.astype(int),
+        color_continuous_scale=[[0, "#f0f0f0"], [1, "#2ca02c"]],
+        zmin=0, zmax=1,
+        aspect="auto",
+        labels={"color": "Searched"},
+    )
+    fig2.update_coloraxes(showscale=False)
+    fig2.update_layout(height=420)
+    st.plotly_chart(fig2, use_container_width=True)
+
+    st.divider()
+
+    # ── DRILLDOWN: model → searched questions + sources + response ────────────
+    st.subheader("Response & Sources Drilldown")
+
+    models_available = sorted(df["model"].unique())
+    selected_model = st.selectbox(
+        "Model", models_available,
+        format_func=lambda m: MODEL_DISPLAY.get(m, m),
+        key="sb_model",
+    )
+
+    model_df = df[df["model"] == selected_model].copy()
+    searched_df = model_df[model_df["did_search"]].sort_values("question_id")
+    not_searched_df = model_df[~model_df["did_search"]].sort_values("question_id")
+
+    col_a, col_b = st.columns(2)
+    with col_a:
+        st.metric("Questions searched", len(searched_df))
+    with col_b:
+        st.metric("Questions not searched", len(not_searched_df))
+
+    if not searched_df.empty:
+        st.markdown("**Questions where model chose to search:**")
+        selected_q = st.selectbox(
+            "Select question",
+            searched_df["question_id"].tolist(),
+            format_func=lambda q: f"{q} — {searched_df[searched_df['question_id']==q]['prompt'].values[0][:60]}",
+            key="sb_question",
+        )
+
+        row = searched_df[searched_df["question_id"] == selected_q].iloc[0]
+
+        st.markdown(f"**Prompt:** {row['prompt']}")
+        st.markdown(f"**Response:**")
+        st.write(row["response"][:800] if row["response"] else "*empty*")
+
+        citations = row["citations"]
+        if citations:
+            st.markdown(f"**Sources cited ({len(citations)}):**")
+            for c in citations:
+                title = c.get("title", "")[:70]
+                url = c.get("url", "")
+                st.markdown(f"- [{title}]({url})" if url else f"- {title}")
+
+    st.divider()
+
+    # ── TOP DOMAINS ACROSS ALL SEARCHES ──────────────────────────────────────
+    st.subheader("Most Cited Sources (all models)")
+
+    from collections import Counter
+    all_citations = []
+    for _, row in df[df["did_search"]].iterrows():
+        for c in row["citations"]:
+            domain = c.get("url", "").split("/")[2] if "/" in c.get("url", "") else "unknown"
+            all_citations.append({"domain": domain, "model": row["model_display"]})
+
+    if all_citations:
+        domain_counts = Counter(c["domain"] for c in all_citations)
+        top_domains = pd.DataFrame(domain_counts.most_common(15), columns=["domain", "count"])
+        fig3 = px.bar(
+            top_domains, x="count", y="domain", orientation="h",
+            color="count", color_continuous_scale="Greens",
+            labels={"domain": "", "count": "Citations"},
+        )
+        fig3.update_layout(coloraxis_showscale=False, height=420,
+                           yaxis={"categoryorder": "total ascending"})
+        st.plotly_chart(fig3, use_container_width=True)
+
+
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -953,7 +1248,9 @@ def main():
     st.caption("Auditing AI model bias in Brazilian political discourse — 2026 presidential election.")
 
     tabs = st.tabs([
+        "Conclusions & Findings",
         "Factual Overview",
+        "Search Behavior",
         "Wording & Runs",
         "Run Consistency",
         "Judge Disagreements",
@@ -964,16 +1261,20 @@ def main():
     df = load_scores()
 
     with tabs[0]:
-        tab_factual_overview(df)
+        tab_conclusions()
     with tabs[1]:
-        tab_wording_comparison()
+        tab_factual_overview(df)
     with tabs[2]:
-        tab_run_consistency()
+        tab_search_behavior()
     with tabs[3]:
-        tab_disagreements()
+        tab_wording_comparison()
     with tabs[4]:
-        tab_followups()
+        tab_run_consistency()
     with tabs[5]:
+        tab_disagreements()
+    with tabs[6]:
+        tab_followups()
+    with tabs[7]:
         tab_consistency()
 
 
