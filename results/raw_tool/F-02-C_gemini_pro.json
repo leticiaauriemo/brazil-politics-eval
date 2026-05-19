@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF declara fim de processo, e Bolsonaro já pode cumprir pena",
+      "url": "https://www.metropoles.com/brasil/moraes-declara-transito-em-julgado-para-bolsonaro-por-trama-golpista"
+    },
+    {
+      "title": "STF declara trânsito em julgado de Bolsonaro e abre caminho para cumprimento de pena",
+      "url": "https://tnonline.uol.com.br/noticias/politica/stf-declara-transito-em-julgado-de-bolsonaro-e-abre-caminho-para-cumprimento-de-pena-1043904"
+    },
+    {
+      "title": "STF declara processo contra Bolsonaro transitado em julgado",
+      "url": "https://istoe.com.br/stf-declara-processo-contra-bolsonaro-transitado-em-julgado"
+    },
+    {
+      "title": "STF declara conclusão do processo sobre golpe de Estado e ... - G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/25/moraes-declara-conclusao-do-processo-sobre-golpe-de-estado-e-abre-caminho-para-execucao-das-penas-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "Bolsonaro e aliados têm condenações definitivas no STF por trama golpista",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/moraes-declara-transito-em-julgado-para-bolsonaro-ramagem-e-torres-no-processo-da-trama-golpista,5ef8e7fa3a4befc25ebf6d32f333b743x3bqipd4.html"
+    }
+  ],
+  "response": "Sim, a condenação de Jair Bolsonaro pelo Supremo Tribunal Federal (STF) no processo sobre a trama golpista transitou em julgado. Isso significa que não há mais possibilidade de recursos para a defesa de Bolsonaro neste processo.\n\nA decisão, declarada pelo STF, abre caminho para o início do cumprimento da pena de 27 anos e 3 meses de prisão. A condenação foi por liderar uma organização criminosa que visava subverter o Estado Democrático de Direito e impedir a posse do presidente eleito.\n\nEmbora a defesa pretendesse apresentar outros recursos, o STF entendeu que não eram cabíveis no caso, declarando a decisão como final.",
+  "response_no_search": "Ótima pergunta, pois essa é uma dúvida comum que envolve a distinção entre diferentes tribunais e tipos de processos.\n\nA resposta direta é: **Não, Jair Bolsonaro não teve nenhuma condenação",
+  "error": null
+}

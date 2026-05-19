@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Rejeitada compra do Banco Master pelo BC e suas implicações",
+      "url": "https://www.otempo.com.br/economia/2025/9/4/entenda-o-caso-da-compra-do-banco-master-pelo-brb-rejeitada-pelo-banco-central"
+    },
+    {
+      "title": "Banco Central rejeita aquisição do Master pelo BRB",
+      "url": "https://www.terra.com.br/economia/brb-diz-que-bc-indeferiu-aquisicao-do-banco-master,e42439d9ba293cac3dbed078dab1220bwjojf7e3.html"
+    },
+    {
+      "title": "BC rejeita compra do Banco Master pelo BRB",
+      "url": "https://www.jb.com.br/economia/2025/09/1056783-bc-rejeita-compra-do-banco-master-pelo-brb.html"
+    },
+    {
+      "title": "Banco Central reprova compra do Master pelo BRB - G1 - Globo",
+      "url": "https://g1.globo.com/economia/noticia/2025/09/03/bc-banco-master-brb.ghtml"
+    },
+    {
+      "title": "Em reunião fechada, BC detalha ao BRB por que vetou compra do Master",
+      "url": "https://timesbrasil.com.br/brasil/economia-brasileira/em-reuniao-fechada-banco-central-detalha-ao-brb-por-que-vetou-compra-do-master/"
+    }
+  ],
+  "response": "Após o Banco Central rejeitar a compra do Banco Master pelo Banco de Brasília (BRB), a situação ficou em um impasse. A operação envolvia a aquisição de cerca de R$ 23 bilhões em ativos, e o BRB pretendia adquirir 58% do capital total do Master. A decisão do Banco Central foi tomada após mais de cinco meses de análise, mas os fundamentos específicos para a rejeição não foram divulgados imediatamente.\n\nO BRB, que ainda pode recorrer da decisão, solicitou acesso aos argumentos que embasaram a decisão do Banco Central e continua acreditando na operação como uma oportunidade estratégica. O Banco Master, por sua vez, também aguarda acesso à íntegra do documento do BC para avaliar os fundamentos e examinar alternativas à decisão.\n\nA rejeição pelo Banco Central ocorreu apesar de a operação já ter sido aprovada pelo Conselho Administrativo de Defesa Econômica (Cade) e pela Assembleia Legislativa do Distrito Federal. O Banco Central citou preocupações como o \"risco de sucessão\" e incertezas relativas a determinados ativos do Master como razões para a negativa.\n\nO presidente do Banco Central, Gabriel Galípolo, se reuniu com os presidentes do BRB e do Master para discutir a situação, e o Banco Master está buscando novas alternativas para vender seu banco. A situação ainda está em desenvolvimento, com ambas as partes avaliando os próximos passos.",
+  "response_no_search": "Após o Banco Central do Brasil rejeitar a compra do Banco Master pelo Banco de Brasília (BRB), o Banco Master precisou reavaliar suas estratégias de mercado e buscar alternativas para seu crescimento e sustentabilidade financeira. A rejeição da compra pode ter levado o Banco Master a explorar outras parcerias, buscar novos investidores ou ajustar seu modelo de negócios para se manter competitivo no setor bancário. Além disso, a instituição pode ter focado em fortalecer suas operações existentes ",
+  "error": null
+}

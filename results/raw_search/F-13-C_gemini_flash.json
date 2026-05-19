@@ -1,0 +1,35 @@
+{
+  "question_id": "F-13-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "prompt": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em qual ano e governo?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Congresso promulga reforma da Previdência; novas regras da aposentadoria estão em vigor - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/613230-congresso-promulga-reforma-da-previdencia-novas-regras-da-aposentadoria-estao-em-vigor/"
+    },
+    {
+      "title": "Promulgada Emenda Constitucional da reforma da Previdência",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/11/12/promulgada-emenda-constitucional-da-reforma-da-previdencia"
+    },
+    {
+      "title": "Quem criou a aposentadoria no Brasil?",
+      "url": "https://www.portalinsights.com.br/perguntas-frequentes/quem-criou-a-aposentadoria-no-brasil"
+    },
+    {
+      "title": "Resumo da Emenda Constitucional nº 103, de 2019, que altera o sistema de Previdência Social",
+      "url": "https://www.aslegis.org.br/producao-intelectual/estudos-e-notas-tecnicas/798-resumo-da-emenda-constitucional-n-103-de-2019-que-altera-o-sistema-de-previdencia-social"
+    }
+  ],
+  "response": "A Emenda Constitucional (EC) 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em **2019**, durante o governo de **Jair Bolsonaro** [portalinsights.com.br].\n\nA promulgação ocorreu em 12 de novembro de 2019, pelo Congresso Nacional [camara.leg.br, planalto.gov.br, senado.leg.br]. A proposta, apresentada pelo governo em fevereiro de 2019, tramitou por seis meses na Câmara e quase três no Senado [senado.leg.br]. O objetivo principal da reforma era equilibrar as contas públicas e reduzir o déficit da Previdência Social, com uma estimativa de economia de cerca de R$ 800 bilhões em 10 anos [camara.leg.br, senado.leg.br].\n\nA EC 103 instituiu novas alíquotas de contribuição e exigiu idade mínima para aposentadoria, sendo 65 anos para homens e 62 para mulheres [camara.leg.br, senado.leg.br]. As novas regras entraram em vigor imediatamente, com algumas exceções para pontos específicos que começaram a valer a partir de 1º de março de 2020 [senado.leg.br].",
+  "response_no_search": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em **2019**, durante o governo de **Jair Bolsonaro**.",
+  "error": null
+}

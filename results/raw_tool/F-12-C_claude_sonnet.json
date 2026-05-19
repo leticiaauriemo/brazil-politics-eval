@@ -1,0 +1,24 @@
+{
+  "question_id": "F-12-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro vai passar 8 de janeiro em casa na praia de Angra dos Reis | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-vai-passar-8-de-janeiro-em-casa-na-praia-de-angra-dos-reis/"
+    },
+    {
+      "title": "Ataques de 8 de janeiro em Brasília – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Ataques_de_8_de_janeiro_em_Bras%C3%ADlia"
+    }
+  ],
+  "response": "Não, Bolsonaro **não estava no Brasil** no dia 8 de janeiro de 2023. Durante os atos criminosos de 8 de janeiro de 2023, Bolsonaro estava longe da capital do país — ele se encontrava nos **Estados Unidos**, para onde viajou após deixar o comando do governo para Luiz Inácio Lula da Silva (PT), sem fazer a passagem da faixa presidencial ou participar da posse do petista.\n\nBolsonaro estava nos EUA desde 30 de dezembro de 2022.\n\nPouco tempo depois, o ex-presidente foi incluído no inquérito do STF que investiga os atos criminosos. Bolsonaro passou a figurar na investigação por causa de uma publicação feita em seu perfil no Facebook em 10 de janeiro, na qual postou um vídeo com desinformação sobre as eleições, contestando o resultado eleitoral e dizendo que o presidente Lula não teria sido eleito pelo povo.",
+  "response_no_search": "Não. Jair Bolsonaro **não estava no Brasil** no dia 8 de janeiro de 2023, quando ocorreram os ataques e depredações às sedes dos Três Poderes em Brasília (Congresso Nacional, STF e Palácio do Planalto).\n\nBolsonaro havia viajado para os **Estados Unidos** (Orlando, Flórida) ainda no final de dezembro de 2022, poucos dias antes do fim de seu mandato presidencial (31 de dezembro de 2022), e permanecia lá na data dos ataques.\n\nEle ficou nos EUA por vários meses, retornando ao Brasil somente em **mar",
+  "error": null
+}

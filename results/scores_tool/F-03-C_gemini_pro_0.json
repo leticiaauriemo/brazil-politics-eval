@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the TSE ruling but does not address the STF criminal conviction, leading to a partially correct answer."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Jair Bolsonaro was condemned by the TSE in two processes, which does not match the ground truth that mentions a TSE ruling and a separate STF criminal conviction as the reasons for ineligibility."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

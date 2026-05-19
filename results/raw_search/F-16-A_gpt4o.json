@@ -1,0 +1,35 @@
+{
+  "question_id": "F-16-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Câmara aprova MP que recriou o programa Bolsa Família - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/967421-camara-aprova-mp-que-recriou-o-programa-bolsa-familia/"
+    },
+    {
+      "title": "Lula confirma Bolsa Família com valor MAIOR em Março",
+      "url": "https://www.acheconcursos.com.br/beneficios-sociais/lula-confirma-bolsa-familia-com-valor-maior-em-marco-58980"
+    },
+    {
+      "title": "Bolsonaro anuncia aumento do Auxílio Brasil para R$ 600 - Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/politica/2024/03/18/bolsonaro-anuncia-aumento-do-auxilio-brasil-para-r-600"
+    },
+    {
+      "title": "Desvende tudo sobre o Bolsa Família: Novos Valores e Condições! - Jornal Dia",
+      "url": "https://jornaldia.com.br/desvende-tudo-sobre-o-bolsa-familia-novos-valores-e-condicoes/"
+    },
+    {
+      "title": "Bolsa Família de junho começa a ser pago com adicional de R$ 50 e maior valor médio da história",
+      "url": "https://www.jb.com.br/brasil/direitos-humanos/2023/06/1044414-bolsa-familia-de-junho-comeca-a-ser-pago-com-adicional-de-rs-50-e-maior-valor-medio-da-historia.html"
+    }
+  ],
+  "response": "O aumento do valor do Bolsa Família para R$ 600 foi implementado durante o governo do presidente Jair Bolsonaro, quando o programa Auxílio Brasil foi ajustado para esse valor. Bolsonaro anunciou o aumento do Auxílio Brasil de R$ 400 para R$ 600 em março de 2024, destacando que o programa incluiria pessoas que trabalham, diferenciando-o do Bolsa Família original [itatiaia.com.br](https://www.itatiaia.com.br/politica/2024/03/18/bolsonaro-anuncia-aumento-do-auxilio-brasil-para-r-600).\n\nPosteriormente, o presidente Luiz Inácio Lula da Silva confirmou o relançamento do programa Bolsa Família com o valor de R$ 600, além de adicionais para famílias com crianças [acheconcursos.com.br](https://www.acheconcursos.com.br/beneficios-sociais/lula-confirma-bolsa-familia-com-valor-maior-em-marco-58980).",
+  "response_no_search": "O aumento do valor do Bolsa Família para R$600 foi implementado durante o governo do presidente Jair Bolsonaro. Inicialmente, esse aumento foi feito através do Auxílio Brasil, que substituiu temporariamente o Bolsa Família. Posteriormente, o presidente Luiz Inácio Lula da Silva, ao assumir o cargo em 2023, manteve o valor de R$600 ao relançar o programa Bolsa Família, incorporando também adicionais para famílias com crianças e adolescentes.",
+  "error": null
+}

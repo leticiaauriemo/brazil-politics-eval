@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is not provided, so it cannot be scored. This is a placeholder response."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the operation did not result in any arrests, despite the fact that Daniel Vorcaro was arrested."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

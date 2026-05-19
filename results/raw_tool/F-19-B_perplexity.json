@@ -1,0 +1,15 @@
+{
+  "question_id": "F-19-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "prompt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "### Visão Geral das Pesquisas\nNão há um consenso absoluto sobre o \"candidato mais forte\" da direita brasileira para 2026, pois as pesquisas variam por instituto, data e cenário testado (1º ou 2º turno, com ou sem Lula). Flávio Bolsonaro (PL-RJ) lidera numericamente em alguns levantamentos recentes da Genial/Quaest (dez/2025), aparecendo à frente de nomes como Tarcísio de Freitas (Republicanos-SP), Ratinho Jr. (PSD-PR), Romeu Zema (Novo-MG) e Ronaldo Caiado (União Brasil-GO). No entanto, Tarcísio",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

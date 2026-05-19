@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Tarcísio de Freitas chose to run for reelection in São Paulo and highlights his commitment, while also implying he missed the federal candidacy deadline."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Tarcísio de Freitas chose to run for reelection in São Paulo and implies he missed the federal candidacy deadline by focusing on his current role."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Banco Master was liquidated by the Central Bank in November 2025 and is no longer operating."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the Banco Central do Brasil liquidated Banco Master on November 18, 2025, and provides specific details about the circumstances and current status."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

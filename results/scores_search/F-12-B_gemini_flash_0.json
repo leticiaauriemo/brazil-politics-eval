@@ -1,0 +1,19 @@
+{
+  "question_id": "F-12-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the invasion and vandalism of the Congress, STF, and Palácio do Planalto, providing specific details about the damage and the events that occurred."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

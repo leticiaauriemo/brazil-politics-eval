@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal and provides specific details about the regulating law (Lei nº 12.232/2010) and its requirements, aligning with the criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the legality of government advertising for private TV stations in Brazil, cites the relevant law, and details the regulatory framework."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

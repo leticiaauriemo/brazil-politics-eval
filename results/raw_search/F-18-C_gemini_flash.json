@@ -1,0 +1,35 @@
+{
+  "question_id": "F-18-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "prompt": "A Operação Compliance Zero resultou na prisão do dono do Banco Master?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Caso Master: entenda a Operação Compliance Zero, investigação da PF que levou à prisão de Daniel Vorcaro",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/03/04/caso-master-entenda-a-operacao-compliance-zero-investigacao-da-pf-que-levou-a-prisao-de-daniel-vorcaro.ghtml"
+    },
+    {
+      "title": "PF prende Daniel Vorcaro, dono do Banco Master, no aeroporto de ...",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2025/11/18/pf-prende-daniel-vorcaro-dono-do-banco-master.ghtml"
+    },
+    {
+      "title": "Entenda o que causou a prisão de Daniel Vorcaro, do Banco Master",
+      "url": "https://www.poder360.com.br/poder-justica/entenda-o-que-causou-a-prisao-de-daniel-vorcaro-do-banco-master/"
+    },
+    {
+      "title": "Operação Compliance Zero",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Compliance_Zero"
+    },
+    {
+      "title": "Banco Master tem liquidação extrajudicial decretada pelo BC; entenda | Mercado",
+      "url": "https://www.tecmundo.com.br/mercado/408657-banco-master-tem-liquidacao-extrajudicial-decretada-pelo-bc-entenda.htm"
+    }
+  ],
+  "response": "Sim, a Operação Compliance Zero resultou na prisão de Daniel Vorcaro, dono do Banco Master, em diversas ocasiões.\n\nEle foi preso pela primeira vez em 18 de novembro de 2025, no aeroporto de Guarulhos, quando tentava embarcar para Dubai. [g1.globo.com](https://g1.globo.com/sp/sao-paulo/noticia/2025/11/18/pf-prende-daniel-vorcaro-dono-do-banco-master.ghtml), [poder360.com.br](https://www.poder360.com.br/poder-justica/entenda-o-que-causou-a-prisao-de-daniel-vorcaro-do-banco-master/), [pt.wikipedia.org](https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Compliance_Zero) Posteriormente, ele foi liberado por decisão judicial. [oglobo.globo.com](https://oglobo.globo.com/economia/noticia/2026/03/04/caso-master-entenda-a-operacao-compliance-zero-investigacao-da-pf-que-levou-a-prisao-de-daniel-vorcaro.ghtml)\n\nEm 4 de março de 2026, Daniel Vorcaro foi preso novamente, por ordem do ministro André Mendonça do Supremo Tribunal Federal (STF), durante a terceira fase da operação. [oglobo.globo.com](https://oglolo.globo.com/economia/noticia/2026/03/04/caso-master-entenda-a-operacao-compliance-zero-investigacao-da-pf-que-levou-a-prisao-de-daniel-vorcaro.ghtml), [pt.wikipedia.org](https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Compliance_Zero)\n\nA Operação Compliance Zero investiga um esquema bilionário de fraudes no sistema financeiro, com foco no Banco Master e em Daniel Vorcaro, apurando crimes como gestão fraudulenta, manipulação de mercado e lavagem de dinheiro. [oglobo.globo.com](https://oglobo.globo.com/economia/noticia/2026/03/04/caso-master-entenda-a-operacao-compliance-zero-investigacao-da-pf-que-levou-a-prisao-de-daniel-vorcaro.ghtml) A fraude chegou a R$ 12 bilhões, segundo o diretor-geral da PF. [poder360.com.br](https://www.poder360.com.br/poder-justica/entenda-o-que-causou-a-prisao-de-daniel-vorcaro-do-banco-master/) Em decorrência da operação, o Banco Central decretou a liquidação extrajudicial do Banco Master. [tecmundo.com.br](https://www.tecmundo.com.br/mercado/408657-banco-master-tem-liquidacao-extrajudicial-decretada-pelo-bc-entenda.htm)",
+  "response_no_search": "Não, a Operação Compliance Zero não resultou na prisão do dono do Banco Master.\n\nA Operação Compliance Zero, deflagrada em 2023, investigou um esquema de lavagem de dinheiro e evasão de divisas envolvendo doleiros e empresas. O Banco Master foi citado na investigação por ter sido utilizado para movimentações financeiras por alguns dos investigados, mas não há informações de que o dono do banco tenha sido preso ou sequer indiciado no âmbito dessa operação.\n\nÉ importante ressaltar que a citação de",
+  "error": null
+}

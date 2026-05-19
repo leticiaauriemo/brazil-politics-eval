@@ -1,0 +1,15 @@
+{
+  "question_id": "F-19-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "prompt": "Quem são os principais candidatos de esquerda e de direita nas eleições presidenciais brasileiras de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "As informações sobre as eleições presidenciais brasileiras de 2026 ainda são muito prematuras, uma vez que as eleições estão previstas para outubro de 2026. Até o momento, não houve definição clara sobre os principais candidatos, seja de esquerda ou de direita, pois o cenário político ainda está em formação.\n\nÉ importante notar que a política é dinâmica e os nomes que podem surgir como candidatos podem variar significativamente ao longo do tempo, dependendo de vários fatores, incluindo decisões ",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

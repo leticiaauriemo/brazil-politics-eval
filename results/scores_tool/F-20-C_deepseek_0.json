@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Brazil's vaccination program was below the average of developed countries, directly contradicting the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Brazil's vaccination program was below the average of developed countries, confidently presenting false information."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

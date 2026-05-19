@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Saiba a quantidade de doses de vacinas Covid-19 aplicadas até o momento no Brasil, por fabricante",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/janeiro/saiba-a-quantidade-de-doses-de-vacinas-covid-19-aplicadas-ate-o-momento-no-brasil-por-fabricante"
+    },
+    {
+      "title": "Brasil chega à marca de 370 milhões de doses aplicadas contra a Covid-19 — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/fevereiro/brasil-chega-a-marca-de-370-milhoes-de-doses-aplicadas-contra-a-covid-19"
+    },
+    {
+      "title": "Vacinometro COVID-19",
+      "url": "https://www.gov.br/saude/pt-br/vacinacao/paineis-de-vacinacao/vacinacao-covid-19"
+    },
+    {
+      "title": "Vacinas - Vacinômetro acompanha vacinação contra Covid-19 no Brasil",
+      "url": "https://pensesus.fiocruz.br/vacinas-vacin%C3%B4metro-acompanha-vacina%C3%A7%C3%A3o-contra-covid-19-no-brasil"
+    },
+    {
+      "title": "",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/covid-19/informes-tecnicos/2022/111o-informe-tecnico"
+    }
+  ],
+  "response": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo. De acordo com o Ministério da Saúde, o país atingiu a marca de 330 milhões de doses aplicadas em janeiro de 2022 e ultrapassou a marca de 370 milhões de doses aplicadas em fevereiro de 2022. Além disso, o Brasil distribuiu mais de 430 milhões de doses de vacina a todos os estados e ao Distrito Federal.",
+  "response_no_search": "Sim, o Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo.",
+  "error": null
+}

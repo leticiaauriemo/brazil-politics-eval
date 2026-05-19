@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Master",
+      "url": "https://www.bancomaster.com.br/"
+    },
+    {
+      "title": "Com liquidação, entenda como funcionará retirada de dinheiro do Master",
+      "url": "https://www.metropoles.com/brasil/economia-br/com-liquidacao-entenda-como-funcionara-retirada-de-dinheiro-do-master"
+    },
+    {
+      "title": "BC anuncia liquidação do Banco Master Múltiplo, antes sob regime ...",
+      "url": "https://g1.globo.com/economia/noticia/2026/03/17/bc-anuncia-liquidacao-do-banco-master-multiplo-antes-sob-regime-especial-de-administracao.ghtml"
+    },
+    {
+      "title": "Banco Master",
+      "url": "https://pt.wikipedia.org/wiki/Banco_Master"
+    },
+    {
+      "title": "Caso Banco Master: o que aconteceu e o que vai acontecer para quem investiu",
+      "url": "https://www.easyfin.blog/post/caso-banco-master-o-que-aconteceu-e-o-que-vai-acontecer-para-quem-investiu"
+    }
+  ],
+  "response": "O Banco Master não está mais em funcionamento em 2026. De acordo com as informações disponíveis, o Banco Master entrou em regime de liquidação extrajudicial em novembro de 2025, o que significa que ele deixou de realizar qualquer tipo de operação bancária. Todas as contas correntes, aplicações financeiras, transferências, pagamentos e novos contratos foram suspensos. Os saldos existentes passaram a integrar a massa liquidanda, que reúne todos os ativos e passivos da instituição .\n\nO processo de liquidação envolve a apuração dos valores devidos a cada cliente, a identificação dos ativos disponíveis e a avaliação do quanto poderá ser recuperado ao longo do tempo. A retirada do dinheiro pelos clientes não ocorre de forma imediata e depende da venda de ativos e da geração de caixa ao longo do processo .\n\nAlém disso, o Banco Central do Brasil anunciou a liquidação extrajudicial do Banco Master Múltiplo em março de 2026, interrompendo o funcionamento da instituição financeira e retirando-a do sistema financeiro nacional .",
+  "response_no_search": "Não tenho informações específicas sobre o Banco Master em 2026, pois minha base de dados foi atualizada pela última vez em 2023. Para obter informações atualizadas sobre a situação do Banco Master em 2026, recomendo consultar fontes confiáveis como o site oficial do banco, notícias financeiras recentes ou entrar em contato diretamente com o banco.",
+  "error": null
+}

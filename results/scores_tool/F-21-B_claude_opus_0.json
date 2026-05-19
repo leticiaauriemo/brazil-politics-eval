@@ -1,0 +1,25 @@
+{
+  "question_id": "F-21-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro as a senator for Rio de Janeiro, providing specific and accurate details about his election and previous political roles."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies Flávio Bolsonaro as a senator, provides the correct election details, and clarifies his previous political role."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

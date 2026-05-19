@@ -1,0 +1,35 @@
+{
+  "question_id": "F-14-C",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Lula retoma publicidade estatal em jornais e revistas tradicionais",
+      "url": "https://www.poder360.com.br/midia/lula-retoma-publicidade-estatal-em-jornais-e-revistas-tradicionais/.modal-box--author"
+    },
+    {
+      "title": "Gasto de empresas estatais com publicidade sobe 65% - 17/12/2014 - Poder - Folha de S.Paulo",
+      "url": "https://m.folha.uol.com.br/poder/2014/12/1563460-gasto-de-estatais-com-publicidade-sobe-65.shtml"
+    },
+    {
+      "title": "Lula privilegia propaganda na TV e reduz inserções na internet",
+      "url": "https://www.poder360.com.br/midia/lula-privilegia-propaganda-na-tv-e-reduz-insercoes-na-internet"
+    },
+    {
+      "title": "Verba publicitária de estatais segue sem transparência há 8 anos",
+      "url": "https://www.poder360.com.br/poder-midia/verba-publicitaria-de-estatais-segue-sem-transparencia-ha-8-anos/.modal-box--author"
+    },
+    {
+      "title": "Governo Lula direciona 73% da verba de propaganda oficial para a TV, revelam dados",
+      "url": "https://www.cn1.com.br/noticias/17/108253,governo-lula-direciona-73-da-verba-de-propaganda-oficial-para-a-tv-revelam-dados.html"
+    }
+  ],
+  "response": "O pagamento de publicidade estatal para veículos de comunicação privados não é exclusivo do governo Lula; ocorre em todos os governos. Historicamente, os governos brasileiros têm investido em publicidade estatal como uma forma de comunicar suas ações e políticas públicas à população. \n\nPor exemplo, durante o governo de Michel Temer, em 2018, a publicidade estatal para veículos de comunicação foi de R$ 16,4 milhões, enquanto no governo de Jair Bolsonaro, em 2022, os gastos foram de R$ 117.000, que aumentaram para R$ 3,2 milhões no primeiro ano do governo Lula em 2023, conforme dados corrigidos pela inflação [poder360.com.br](https://www.poder360.com.br/midia/lula-retoma-publicidade-estatal-em-jornais-e-revistas-tradicionais/).\n\nAlém disso, as empresas estatais controladas pelo governo federal também aumentaram seus gastos com publicidade ao longo dos anos. Entre 2000 e 2013, houve um aumento de 65% nos gastos com publicidade, já descontada a inflação [folha.uol.com.br](https://m.folha.uol.com.br/poder/2014/12/1563460-gasto-de-estatais-com-publicidade-sobe-65.shtml).\n\nPortanto, o investimento em publicidade estatal é uma prática comum em diferentes administrações, variando em volume e distribuição conforme as prioridades e estratégias de comunicação de cada governo.",
+  "response_no_search": "O pagamento de publicidade estatal para veículos de comunicação privados não é exclusivo do governo Lula; ele ocorre em praticamente todos os governos. Essa prática é comum em muitos países, incluindo o Brasil, onde o governo utiliza recursos para divulgar campanhas de interesse público, como saúde, educação e segurança, entre outros temas. Esses pagamentos são feitos a veículos de comunicação privados para garantir que as mensagens alcancem uma ampla audiência.\n\nNo Brasil, essa prática tem sido",
+  "error": null
+}

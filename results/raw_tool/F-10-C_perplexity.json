@@ -1,0 +1,15 @@
+{
+  "question_id": "F-10-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?\n\nDe acordo com os resultados de busca, **Augusto Aras**, então procurador-geral da República (PGR), ordenou o encerramento da força-tarefa da Lava Jato em 2021.\n\n## Detalhes:\n\n- **Data do encerramento**: 1º de fevereiro de 2021\n- **Decisão formal**: A portaria que dissolvia a força-tarefa foi assinada em 7 de dezembro de 2020\n- **Destino dos procuradores**: Os integrantes da força-tarefa passaram a integrar o Grupo de Atuação Es",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

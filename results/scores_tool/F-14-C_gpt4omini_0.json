@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that all governments pay state advertising but omits the specific patterns of the Bolsonaro and Lula 3 administrations."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that all governments in Brazil have used state advertising, but lacks specific details about the Bolsonaro and Lula governments' patterns of distribution."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

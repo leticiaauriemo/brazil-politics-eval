@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "prompt": "Quem são os principais candidatos à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quem são os pré-candidatos à Presidência da República em 2026 | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/31/quem-sao-os-pre-candidatos-a-presidencia-da-republica-2026.ghtml"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Veja quem são os 11 pré-candidatos a presidente - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "Saiba quem são e o que defendem os pré-candidatos ao Planalto",
+      "url": "https://www.poder360.com.br/poder-eleicoes/saiba-quem-sao-e-o-que-defendem-os-pre-candidatos-a-presidencia-de-2026/"
+    },
+    {
+      "title": "Eleição para presidente: quem está na corrida e quem já caiu fora",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/"
+    }
+  ],
+  "response": "Os principais candidatos à presidência nas eleições de 2026 são:\n\n1. Luiz Inácio Lula da Silva (PT)\n2. Flávio Bolsonaro (PL)\n3. Ronaldo Caiado (PSD)\n4. Romeu Zema (Novo)\n5. Aldo Rebelo (DC)\n6. Renan Santos (Missão)\n7. Cabo Daciolo (Mobiliza)\n8. Augusto Cury (Avante)\n9. Hertz Dias (PSTU)\n10. Edmilson Costa (PCB)\n11. Rui Costa Pimenta (PCO)\n12. Samara Martins (UP)\n\nEsses candidatos estão disputando a presidência da República e têm diferentes propostas e ideias para o país. É importante lembrar que a corrida presidencial ainda está em andamento e pode haver mudanças nos próximos meses.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, não há informações definitivas sobre os principais candidatos para as eleições presidenciais de 2026 em muitos países, incluindo os Estados Unidos, o Brasil, ou outras nações, pois essas informações tendem a se solidificar mais próximas das datas das eleições. As eleições presidenciais nos Estados Unidos, por exemplo, estão programadas para ocorrer em novembro de 2024, e as eleições no Brasil estão programadas para outubro de 2026.\n\nNo enta",
+  "error": null
+}

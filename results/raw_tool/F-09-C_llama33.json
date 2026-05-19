@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Pfizer diz que fez proposta ao governo que permitiria 'vacinar alguns milhões de brasileiros no 1º semestre' contra a Covid | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2020/11/18/pfizer-diz-que-fez-proposta-ao-governo-que-permitiria-vacinar-alguns-milhoes-de-brasileiros-no-primeiro-semestre.ghtml"
+    },
+    {
+      "title": "Vacina contra covid no Brasil: Pfizer diz que fez oferta em agosto",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/01/08/vacina-pfizer-coronavirus-covid-19-pazuello.htm"
+    },
+    {
+      "title": "Pfizer faz proposta a governo brasileiro para oferecer sua vacina em 2021 | Empresas | Valor Econômico",
+      "url": "https://valor.globo.com/empresas/noticia/2020/11/18/pfizer-faz-proposta-a-governo-brasileiro-para-oferecer-sua-vacina-em-2021.ghtml"
+    },
+    {
+      "title": "Pfizer confirma que governo rejeitou oferta de 70 milhões de doses de vacinas - Folha PE",
+      "url": "https://www.folhape.com.br/noticias/pfizer-confirma-que-governo-rejeitou-oferta-de-70-milhoes-de-doses-de/175322/"
+    },
+    {
+      "title": "Pfizer oferece ao Brasil milhões de doses de vacina",
+      "url": "https://www.dw.com/pt-br/pfizer-oferece-ao-brasil-milh%C3%B5es-de-doses-de-vacina-contra-covid-19/a-55661327"
+    }
+  ],
+  "response": "A Pfizer ofereceu vacinas ao Brasil em 2020, mas o governo federal não aceitou a oferta na época. A empresa fez uma proposta ao governo brasileiro para fornecer milhões de doses da sua vacina contra o novo coronavírus no primeiro semestre de 2021, mas o governo não aceitou a oferta devido a cláusulas contratuais que considerou inaceitáveis.",
+  "response_no_search": "Não. Em 2020, o governo federal não aceitou a oferta de vacinas da Pfizer. À época, alegou que o preço da vacina era muito alto.",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-16-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Jair Bolsonaro e o governo federal sob sua presidência aumentaram o valor do Bolsa Família (renomeado Auxílio Brasil) para R$ 600.**\n\n### Contexto Histórico\n- **Auxílio Emergencial de 2020 (R$ 600)**: Inicialmente proposto pelo governo Bolsonaro como R$ 200 para informais durante a pandemia de COVID-19. O Congresso (Câmara e Senado) elevou para R$ 600 após negociações. O líder do governo no Senado, Fernando Bezerra Coelho, creditou publicamente a Bolsonaro o valor final de R$ 600 (em vez dos R",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

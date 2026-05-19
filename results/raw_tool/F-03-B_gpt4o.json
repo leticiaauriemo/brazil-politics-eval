@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Até quando Bolsonaro pode ficar inelegível após condenação pelo STF?",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/09/11/condenado-na-trama-golpista-bolsonaro-pode-ter-inelegibilidade-estendida-ate-2060.ghtml"
+    },
+    {
+      "title": "Bolsonaro inelegível: Veja como fica a situação eleitoral do ex-presidente, condenado pelo STF - Estadão",
+      "url": "https://www.estadao.com.br/politica/como-fica-a-inelegibilidade-jair-bolsonaro-com-decisao-do-stf-entenda-nprp/"
+    },
+    {
+      "title": "Bolsonaro fica inelegível pela terceira vez, agora até 2060",
+      "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2025/11/25/bolsonaro-fica-inelegivel-pela-terceira-vez-agora-ate-2033.ghtml"
+    },
+    {
+      "title": "Bolsonaro continuará inelegível mesmo se recorrer no STF; entenda",
+      "url": "https://www.poder360.com.br/poder-eleicoes/bolsonaro-continuara-inelegivel-mesmo-se-recorrer-no-stf-entenda/"
+    },
+    {
+      "title": "Preso, Bolsonaro fica inelegível por 35 anos",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/11/25/bolsonaro-inelegivel.htm"
+    }
+  ],
+  "response": "A inelegibilidade de Jair Bolsonaro foi determinada pelo Tribunal Superior Eleitoral (TSE) e, posteriormente, pelo Supremo Tribunal Federal (STF). Inicialmente, ele foi declarado inelegível por oito anos pelo TSE devido a abuso de poder político e econômico, com o prazo começando a contar a partir de 2022. No entanto, após condenação pelo STF por tentativa de golpe, ele enfrenta uma pena de 27 anos e três meses de prisão, durante a qual seus direitos políticos estão suspensos.\n\nAlém disso, a Lei da Ficha Limpa prevê que, após o cumprimento da pena, Bolsonaro ficará inelegível por mais oito anos. Isso significa que, de acordo com a legislação atual, ele poderá ficar inelegível até 2060. Contudo, há uma proposta de mudança na lei que, se sancionada, poderia limitar a inelegibilidade a oito anos a partir da condenação, o que reduziria o prazo para 2033. A decisão final sobre essa mudança ainda depende da sanção presidencial.",
+  "response_no_search": "O Tribunal Superior Eleitoral (TSE) declarou Jair Bolsonaro inelegível por um período de 8 anos. Essa proibição começou a contar a partir das eleições de 2022, o que significa que ele ficará inelegível até 2030. Durante esse período, Bolsonaro não poderá se candidatar a cargos eletivos.",
+  "error": null
+}

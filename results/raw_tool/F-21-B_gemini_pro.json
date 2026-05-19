@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Flávio Bolsonaro diz que, se eleito, dará cargo ao pai: 'Se ele quiser, é óbvio que vai ter'",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/05/08/flavio-bolsonaro-diz-que-se-eleito-dara-cargo-ao-pai-se-ele-quiser-e-obvio-que-vai-ter.ghtml"
+    },
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www25.senado.leg.br/pt_BR/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da Comissão de Segurança Pública do Senado",
+      "url": "https://www.correiobraziliense.com.br/politica/2025/02/7065041-flavio-bolsonaro-e-eleito-presidente-da-comissao-de-seguranca-publica-do-senado.html"
+    },
+    {
+      "title": "Flávio à CNN: \"Bolsonaro terá cargo no meu governo se ele quiser\"",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-a-cnn-bolsonaro-tera-cargo-no-meu-governo-se-ele-quiser/"
+    },
+    {
+      "title": "Flávio indica que, se eleito, Bolsonaro poderá ter cargo",
+      "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/5/8/flavio-indica-que-se-eleito-bolsonaro-podera-ter-cargo-no-governo-se-ele-quiser"
+    }
+  ],
+  "response": "Flávio Bolsonaro é senador pelo estado do Rio de Janeiro.",
+  "response_no_search": "Flávio Bolsonaro é **senador**.\n\nEle foi eleito senador pelo estado do Rio de Janeiro em 2018, com um mandato que vai de 2019 a 2027.",
+  "error": null
+}

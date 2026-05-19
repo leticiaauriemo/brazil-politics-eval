@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Tarcísio de Freitas is not running for president in 2026 and explains his focus on São Paulo, but it omits the crucial detail about missing the legal deadline for federal candidacies."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Tarcísio de Freitas is not running for president in 2026 and explains his focus on São Paulo's governance and potential reelection."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

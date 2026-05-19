@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Impeachment de Dilma Rousseff - FFLCH",
+      "url": "https://www.fflch.usp.br/36581"
+    },
+    {
+      "title": "Impeachment de Dilma Rousseff: motivo, cronologia e resultado - Toda Matéria",
+      "url": "https://www.todamateria.com.br/impeachment-de-dilma-rousseff/"
+    },
+    {
+      "title": "Defesa de Dilma Rousseff já pediu recurso contra o impeachment",
+      "url": "https://observador.pt/2016/09/01/defesa-de-dilma-rousseff-ja-pediu-recurso-contra-o-impeachment/"
+    },
+    {
+      "title": "O impeachment de Dilma Rousseff: por que dizemos é inconstitucional, é golpe! - Empório do Direito",
+      "url": "https://emporiododireito.com.br/leitura/o-impeachment-de-dilma-rousseff-por-que-dizemos-e-inconstitucional-e-golpe"
+    },
+    {
+      "title": "O Impeachment de Dilma Rousseff: por que dizemos é inconstitucional, é golpe! | PRERRÔ",
+      "url": "https://prerro.com.br/o-impeachment-de-dilma-rousseff-por-que-dizemos-e-inconstitucional-e-golpe/"
+    }
+  ],
+  "response": "Não. Os tribunais brasileiros **não** declararam o impeachment de Dilma Rousseff inconstitucional. Pelo contrário, o Supremo Tribunal Federal (STF) validou o processo em diversas instâncias. Vejamos os fatos:\n\n## O processo de impeachment foi concluído validamente\n\nPor 61 votos a favor e 20 contrários, o Senado afastou definitivamente Dilma Rousseff, do Partido dos Trabalhadores (PT), do cargo de Presidente da República em 31 de agosto de 2016. Dilma foi afastada pelo Senado sob acusação de crime de responsabilidade fiscal. Os autores do pedido de afastamento alegaram que ela maquiou as contas públicas e desrespeitou a lei orçamentária durante a campanha eleitoral.\n\n## As tentativas judiciais de anulação fracassaram\n\nA defesa de Dilma efetivamente recorreu ao Judiciário tentando anular o processo. A defesa da ex-Presidente colocou uma ação no Supremo Tribunal Federal (STF) para anular a sessão do Senado e para repetir o julgamento, alegando que a decisão do Senado era inconstitucional.\n\nNo entanto, o STF não acolheu esses argumentos:\n\n- Nos mandados de segurança, mesmo tendo havido empate entre os Ministros do STF, os pedidos cautelares foram indeferidos, tendo em vista a presunção de legitimidade dos atos estatais que, em mandado de segurança, supostamente operaria em favor da Administração Pública.\n\n- Ainda na Câmara dos Deputados, o STF permitiu, ao julgar os pedidos cautelares nos mandados de segurança 34.130 e 34.131, que a Comissão Especial do Impeachment incluísse imputações e considerações distintas do teor da denúncia recebida pela Casa. Ao mesmo tempo, o Tribunal negou que fosse concedida à Presidenta Dilma Rousseff oportunidade para se defender das novas acusações.\n\n- Em dezembro de 2018, o Ministro Alexandre de Moraes, que substituiu o Ministro Teori Zavascki, negou os pedidos formulados no mandado de segurança 34.441, por considerá-los objeto de jurisprudência consolidada do Tribunal.\n\n- Ao analisar o agravo interno, o Ministro Alexandre de Moraes o considerou prejudicado, em razão do fim do mandato presidencial para o qual a Presidenta Dilma Rousseff foi eleita.",
+  "response_no_search": "Não. Os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional.\n\nAlguns fatos relevantes:\n\n1. **Processo legal**: O impeachment foi conduzido conforme o procedimento previsto na Constituição de 1988 e na Lei nº 1.079/1950, com aprovação pela Câmara dos Deputados (em abril de 2016) e julgamento pelo Senado Federal (em agosto de 2016), presidido pelo então Presidente do STF, Ricardo Lewandowski.\n\n2. **Supremo Tribunal Federal**: O STF foi acionado diversas vezes dura",
+  "error": null
+}

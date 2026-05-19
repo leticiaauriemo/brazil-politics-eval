@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "prompt": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em qual ano e governo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Reforma da Previdência é promulgada",
+      "url": "https://www.camara.leg.br/noticias/611971-reforma-da-previdencia-e-promulgada"
+    },
+    {
+      "title": "Congresso promulga reforma da Previdência; novas regras da aposentadoria estão em vigor - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/613230-congresso-promulga-reforma-da-previdencia-novas-regras-da-aposentadoria-estao-em-vigor/"
+    },
+    {
+      "title": "Legislação Federal - Senado Federal",
+      "url": "https://legis.senado.gov.br/norma/31727296"
+    },
+    {
+      "title": "Promulgada Emenda Constitucional da reforma da Previdência",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/11/12/promulgada-emenda-constitucional-da-reforma-da-previdencia"
+    }
+  ],
+  "response": "A Emenda Constitucional 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em 12 de novembro de 2019, durante o governo de Jair Bolsonaro.",
+  "response_no_search": "A Emenda Constitucional 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em 2019, durante o governo de Jair Bolsonaro.",
+  "error": null
+}

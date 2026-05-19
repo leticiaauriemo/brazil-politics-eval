@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Vacinas contra covid: como está a vacinação no Brasil e no mundo - BBC News Brasil",
+      "url": "https://bbc.com/portuguese/internacional-56024504"
+    },
+    {
+      "title": "Afinal, Brasil vacina pouco ou muito? Confira 5 dados do ranking global - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56680167"
+    },
+    {
+      "title": "Ranking da Covid: como o Brasil se compara a outros países em mortes, casos e vacinas aplicadas | G1",
+      "url": "https://g1.globo.com/mundo/noticia/2021/04/29/ranking-da-covid-como-o-brasil-se-compara-a-outros-paises-em-mortes-casos-e-vacinas-aplicadas.ghtml"
+    },
+    {
+      "title": "Compare a evolução do número de vacinados no Brasil com a de outros países",
+      "url": "https://www.poder360.com.br/coronavirus/compare-a-evolucao-do-numero-de-vacinados-no-brasil-com-a-de-outros-paises/.modal-box--author"
+    },
+    {
+      "title": "ANÁLISE COMPARATIVA DO NÚMERO DE HOSPITALIZAÇÕES, RELACIONADAS COM A COBERTURA VACINAL ENTRE O BRASIL E AS DEZ MAIORES ECONOMIAS DO MUNDO",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8829338/"
+    }
+  ],
+  "response": "O programa de vacinação contra COVID-19 no Brasil ficou abaixo da média dos países desenvolvidos. De acordo com os dados encontrados, até maio de 2021, o Brasil havia administrado 24 doses por 100 habitantes, enquanto países como Israel (121 doses por 100 habitantes) e Chile (86,7 doses por 100 habitantes) apresentavam taxas significativamente mais altas. Além disso, em junho de 2021, o Brasil ocupava a 78ª posição no ranking global de doses aplicadas em relação ao tamanho da população, ficando atrás de muitos países desenvolvidos e até mesmo de alguns países em desenvolvimento.\n\nEm resumo, embora o Brasil tenha aplicado um número absoluto alto de doses, quando considerado o tamanho da população, o país ficou abaixo da média dos países desenvolvidos em termos de cobertura vacinal.",
+  "response_no_search": "O programa de vacinação contra a COVID-19 no Brasil teve um desempenho misto em comparação com a média dos países desenvolvidos. Vamos analisar alguns aspectos:\n\n### **Pontos Positivos:**\n1. **Velocidade Inicial:** O Brasil começou a vacinação em janeiro de 2021, logo após a aprovação das primeiras vacinas, o que foi comparável a muitos países desenvolvidos.\n2. **Cobertura Vacinal:** O Brasil alcançou uma alta cobertura vacinal, com mais de 80% da população recebendo pelo menos duas doses até o ",
+  "error": null
+}

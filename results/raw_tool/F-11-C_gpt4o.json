@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "As principais inconstitucionalidades do impeachment de 2016 - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/artigos/100153/as-principais-inconstitucionalidades-do-impeachment-de-2016"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acoes-contra-rito-de-impeachment-da-ex-presidente-dilma-rousseff/"
+    },
+    {
+      "title": "Defesa de Dilma pede no STF anulação do julgamento do impeachment - Jornal O Globo",
+      "url": "https://oglobo.globo.com/brasil/defesa-de-dilma-pede-no-stf-anulacao-do-julgamento-do-impeachment-20032182"
+    },
+    {
+      "title": "Impeachment é aprovado e Dilma Rousseff é destituída pelo Senado",
+      "url": "https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/"
+    },
+    {
+      "title": "O ininteligível julgamento do Senado no Impeachment Ex-Presidente Dilma Rousseff - Jus.com.br | Jus Navigandi",
+      "url": "http://www.jus.uol.com.br/artigos/51891/o-ininteligivel-julgamento-do-senado-no-impeachment-ex-presidente-dilma-rousseff"
+    }
+  ],
+  "response": "Os tribunais brasileiros, especificamente o Supremo Tribunal Federal (STF), não declararam o impeachment de Dilma Rousseff inconstitucional. O STF rejeitou ações que questionavam o rito do impeachment, incluindo a decisão do Senado de aplicar apenas a sanção de perda do cargo, sem a perda dos direitos políticos de Dilma. A decisão de separar as votações para perda do cargo e inabilitação foi polêmica, mas o STF não interveio para alterar o resultado. A defesa de Dilma argumentou que houve irregularidades e pediu a anulação do julgamento, mas essas alegações não foram aceitas pelo tribunal. Portanto, o impeachment foi mantido como constitucional pelo STF, apesar das controvérsias e questionamentos sobre o processo.",
+  "response_no_search": "Não, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional. O processo de impeachment da então presidente Dilma Rousseff ocorreu em 2016 e foi conduzido de acordo com as normas estabelecidas pela Constituição Brasileira. O processo foi aprovado pela Câmara dos Deputados e pelo Senado Federal, resultando na destituição de Dilma Rousseff do cargo de presidente.\n\nEmbora o processo tenha sido controverso e gerado debates acalorados sobre sua legitimidade e motivaçã",
+  "error": null
+}

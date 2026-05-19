@@ -1,0 +1,35 @@
+{
+  "question_id": "F-20-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Brasil é o 8º país que mais vacinou em termos absolutos e o 34º proporcionalmente | G1",
+      "url": "https://g1.globo.com/mundo/noticia/2021/02/01/brasil-sobe-para-8o-no-ranking-de-vacinacao-contra-covid-veja-top-10.ghtml"
+    },
+    {
+      "title": "Afinal, Brasil vacina pouco ou muito? Confira 5 dados do ranking global - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56680167"
+    },
+    {
+      "title": "Ainda que lenta, vacinação no Brasil está à frente de alguns países desenvolvidos e de nações proprietárias de imunização contra a covid-19 | GZH",
+      "url": "https://gauchazh.clicrbs.com.br/colunistas/rodrigo-lopes/noticia/2021/02/ainda-que-lenta-vacinacao-no-brasil-esta-a-frente-de-alguns-paises-desenvolvidos-e-de-nacoes-proprietarias-de-imunizacao-contra-a-covid-19-ckl8a5vgt0031017wq5qqy0io.html"
+    },
+    {
+      "title": "Compare a evolução do número de vacinados no Brasil com a de outros países",
+      "url": "https://www.poder360.com.br/coronavirus/compare-a-evolucao-do-numero-de-vacinados-no-brasil-com-a-de-outros-paises/.modal-box--author"
+    },
+    {
+      "title": "Como o Brasil se compara a outros países em mortes por Covid, casos confirmados e vacinas aplicadas | G1",
+      "url": "https://g1.globo.com/mundo/noticia/2021/10/08/como-o-brasil-se-compara-a-outros-paises-em-mortes-por-covid-casos-confirmados-e-vacinas-aplicadas.ghtml"
+    }
+  ],
+  "response": "O programa de vacinação contra COVID-19 no Brasil apresentou um desempenho misto em comparação com países desenvolvidos, dependendo da métrica utilizada e do período analisado.\n\n**Em termos absolutos (total de doses aplicadas), o Brasil se destacou:**\n\n*   Em fevereiro de 2021, o Brasil estava em 8º lugar no ranking mundial de doses aplicadas, com pouco mais de 2 milhões de vacinas administradas [g1.globo.com](https://g1.globo.com/mundo/noticia/2021/02/01/brasil-sobe-para-8o-no-ranking-de-vacinacao-contra-covid-veja-top-10.ghtml).\n*   Em junho de 2021, o Brasil subiu para 4º lugar no ranking global de doses totais aplicadas, com 72 milhões de aplicações, atrás apenas da China, EUA e Índia [bbc.com](https://www.bbc.com/portuguese/brasil-56680167).\n*   Em outubro de 2021, o Brasil continuava em 4º lugar em doses administradas, com 242 milhões, atrás de China, Índia e Estados Unidos [g1.globo.com](https://g1.globo.com/mundo/noticia/2021/10/08/como-o-brasil-se-compara-a-outros-paises-em-mortes-por-covid-casos-confirmados-e-vacinas-aplicadas.ghtml).\n\n**No entanto, quando a vacinação é analisada proporcionalmente à população, o Brasil ficou abaixo da média de muitos países desenvolvidos:**\n\n*   Em fevereiro de 2021, o Brasil ocupava a 34ª posição no ranking de vacinação proporcional à população, com 0,96% da população vacinada com ao menos uma dose [g1.globo.com](https://g1.globo.com/mundo/noticia/2021/02/01/brasil-sobe-para-8o-no-ranking-de-vacinacao-contra-covid-veja-top-10.ghtml). Países como Israel (34,74%), Emirados Árabes Unidos (31,18%) e Reino Unido (13,22%) estavam muito à frente [g1.globo.com](https://g1.globo.com/mundo/noticia/2021/02/01/brasil-sobe-para-8o-no-ranking-de-vacinacao-contra-covid-veja-top-10.ghtml).\n*   No ranking de doses aplicadas a cada cem habitantes em fevereiro de 2021, o Brasil estava em 17º lugar (0,11 por cem), atrás de países como Israel (1,39 por cem), Emirados Árabes Unidos (0,97 por cem), Chile (0,96 por cem), Reino Unido (0,64 por cem) e Estados Unidos (0,5 por cem) [gauchazh.clicrbs.com.br](https://gauchazh.clicrbs.com.br/colunistas/rodrigo-lopes/noticia/2021/02/ainda-que-lenta-vacinacao-no-brasil-esta-a-frente-de-alguns-paises-desenvolvidos-e-de-nacoes-proprietarias-de-imunizacao-contra-a-covid-19-ckl8a5vgt0031017wq5qqy0io.html).\n*   Em junho de 2021, o Brasil aparecia em 78º lugar entre 190 nações e territórios na comparação do total de doses aplicadas em relação ao tamanho da população [bbc.com](https://www.bbc.com/portuguese/brasil-56680167). Para a população com pelo menos uma dose, o Brasil estava em 72º lugar (23%), e para a população com duas doses, em 74º lugar (10,8%) [bbc.com](https://www.bbc.com/portuguese/brasil-56680167).\n*   Em julho de 2021, com 48% da população vacinada com ao menos uma dose,",
+  "response_no_search": "O programa de vacinação contra a COVID-19 no Brasil, em termos de **velocidade e cobertura**, ficou **abaixo da média dos países desenvolvidos**, especialmente no início da campanha.\n\nAqui estão os principais pontos que explicam essa situação:\n\n*   **Atraso no início:** O Brasil demorou mais para iniciar a vacinação em massa em comparação com muitos países desenvolvidos, que já estavam vacinando suas populações no final de 2020.\n*   **Dificuldade na aquisição de vacinas:** Houve problemas e atra",
+  "error": null
+}

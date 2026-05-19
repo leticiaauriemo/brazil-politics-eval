@@ -1,0 +1,15 @@
+{
+  "question_id": "F-06-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Inquérito 4781 e Bloqueios de Contas em Plataformas Digitais\n\nSim, o Inquérito 4781 (Inquérito das Fake News) resultou em **múltiplas ordens de bloqueio de contas em plataformas digitais**.\n\n## Principais Bloqueios Ordenados\n\n**Primeira Onda (Maio de 2020):**\n- Em 26 de maio de 2020, o Ministro Alexandre de Moraes determinou o bloqueio de contas de **dezesseis usuários** suspeitos de ataques contra o STF e seus ministros em Facebook, Twitter e Instagram.\n\n**Expansão Progressiva:**\n- Em julho d",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

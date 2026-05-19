@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em território Yanomami — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Ministério da Saúde decreta emergência de saúde pública para combater desassistência de indígenas Yanomami | G1",
+      "url": "https://g1.globo.com/saude/noticia/2023/01/20/ministerio-da-saude-decreta-emergencia-de-saude-publica-para-combater-desassistencia-de-indigenas-yanomami.ghtml"
+    },
+    {
+      "title": "O raio X da crise yanomami, em um ano de emergência",
+      "url": "https://www.dw.com/pt-br/o-raio-x-da-crise-yanomami-em-um-ano-de-emerg%C3%AAncia/a-68027716"
+    }
+  ],
+  "response": "I'll help you find out which government declared the humanitarian emergency in Yanomami territory. Let me search for the latest information.\n\nA emergência humanitária na Terra Yanomami foi declarada pelo **governo Lula**. Os principais fatos que confirmam essa informação são:\n\n1. **Decreto publicado em 20 de janeiro de 2023**:\n   - O Ministério da Saúde, sob comando da ministra Nísia Trindade (governo Lula), declarou \"Emergência em Saúde Pública de Importância Nacional\" devido à grave crise sanitária e humanitária.\n\n2. **Visita presidencial em 21 de janeiro de 2023**:\n   - O presidente Lula visitou pessoalmente Roraima para coordenar ações emergenciais, classificando a situação como \"genocídio\" e \"crise humanitária\".\n\n3. **Criação do Comitê de Coordenação Nacional**:\n   - O governo Lula estabeleceu um comitê especial para enfrentar a desassistência sanitária, com ações imediatas como envio de alimentos e medicamentos.\n\n4. **Contexto histórico**:\n   - A crise foi atribuída ao desmonte das políticas de proteção indígena durante o governo anterior (Bolsonaro), com relatos de que 570 crianças Yanomami morreram de fome nesse período.\n\nAs ações ocorreram logo no início do governo Lula (janeiro de 2023), em resposta ao agravamento da crise durante os anos anteriores.",
+  "response_no_search": "A emergência humanitária na Terra Yanomami foi **declarada pelo governo Lula**, em janeiro de 2023, logo após sua posse. A crise, no entanto, foi resultado de anos de negligência e agravada durante o governo Bolsonaro (2019-2022), quando o desmonte de políticas ambientais e de proteção aos povos indígenas, além da expansão do garimpo ilegal, levaram a um colapso sanitário e social na região. O governo Lula reconheceu a gravidade da situação, declarou a emergência e iniciou ações para combater o ",
+  "error": null
+}

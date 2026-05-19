@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "prompt": "Lula pode se candidatar à reeleição nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula sugere que não decidiu sobre candidatura à reeleição - 08/04/2026 - Política - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2026/04/lula-diz-que-ainda-nao-decidiu-sobre-candidatura-a-reeleicao.shtml"
+    },
+    {
+      "title": "Lula diz que decidirá em março de 2026 se será candidato à reeleição | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/12/02/lula-diz-que-decidir-em-maro-de-2026-se-ser-candidato-reeleio.ghtml"
+    },
+    {
+      "title": "Lula diz que pode se candidatar à reeleição para evitar volta de 'trogloditas'",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/06/18/lula-diz-que-pode-se-candidatar-a-reeleicao-para-evitar-volta-de-trogloditas.ghtml"
+    },
+    {
+      "title": "'Se eu continuar como estou, serei candidato', diz Lula, que lidera pesquisas | Exame",
+      "url": "https://exame.com/brasil/se-eu-continuar-como-estou-serei-candidato-diz-lula-que-lidera-pesquisas/"
+    },
+    {
+      "title": "Lula diz que tentará reeleição e deixa destino de Alckmin incerto",
+      "url": "https://www.poder360.com.br/poder-eleicoes/lula-diz-que-tentara-reeleicao-e-deixa-caminho-livre-para-alckmin/"
+    }
+  ],
+  "response": "Lula pode se candidatar à reeleição nas eleições de 2026, mas sua decisão final depende de fatores como **saúde**, **disposição física** e a **necessidade política** de evitar o retorno de adversários que ele critica, como o bolsonarismo. Até o momento (abril de 2026), ele não confirmou oficialmente a candidatura, mas já indicou que está **fortemente inclinado a concorrer novamente**, desde que mantenha condições adequadas de saúde (completará 81 anos em outubro de 2026).\n\n### Principais pontos:\n1. **Decisão formal**: Lula afirmou que definirá sua posição em **março de 2026**, com a oficialização ocorrendo na **convenção partidária em junho**.\n2. **Motivações**: Ele justifica a possível candidatura pela necessidade de **impedir o retorno de \"negacionistas\" e \"fascistas\"** ao poder, referindo-se ao grupo político adversário.\n3. **Saúde**: Lula condiciona sua participação ao estado físico e mental, declarando que, se estiver \"100%\", será candidato para \"ganhar as eleições\".\n4. **Alianças**: Sua chapa provavelmente manterá Geraldo Alckmin (PSB) como vice-presidente, embora o destino eleitoral de Alckmin ainda não esteja completamente definido.\n5. **Pesquisas**: Lula lidera as intenções de voto em cenários de primeiro e segundo turnos, mesmo contra adversários como Flávio Bolsonaro ou Tarcísio de Freitas.\n\nPortanto, embora a candidatura ainda não seja oficial, Lula está **próximo de confirmar** sua disputa por um **terceiro mandato não consecutivo**, buscando consolidar seu legado político e bloquear o avanço de seus opositores.",
+  "response_no_search": "Sim, o ex-presidente Luiz Inácio Lula da Silva **pode se candidatar à reeleição nas eleições de 2026**, desde que cumpra as condições legais vigentes. Aqui está uma análise detalhada:\n\n### **1. Regras constitucionais sobre reeleição**\nA Constituição Federal de 1988 (artigo 14, parágrafo 5º) permite que o presidente da República seja **reeleito para um único mandato consecutivo**. Isso significa:\n- Um presidente pode governar por **dois mandatos consecutivos** (8 anos no total).\n- Após um interva",
+  "error": null
+}

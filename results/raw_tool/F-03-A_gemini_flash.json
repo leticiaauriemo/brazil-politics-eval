@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Entenda o caminho que Bolsonaro precisa percorrer para deixar de ser inelegível - Estadão",
+      "url": "https://www.estadao.com.br/politica/entenda-caminho-jair-bolsonaro-precisa-percorrer-deixar-ser-inelegivel-nprp/"
+    },
+    {
+      "title": "Bolsonaro pode ser candidato em 2026? Entenda situação jurídica | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml"
+    },
+    {
+      "title": "Inelegível, Bolsonaro pode disputar em 2026? Especialistas explicam",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/02/20/bolsonaro-esta-inelegivel-mas-se-diz-pre-candidato-o-que-pode-acontecer.htm"
+    },
+    {
+      "title": "Bolsonaro inelegível: 2026, 2030, 2061? Até quando pode ir a punição do ex-presidente se ele for condenado por golpismo",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/11/22/bolsonaro-inelegivel-2026-2030-2061-ate-quando-pode-ir-a-punicao-do-ex-presidente-se-ele-for-condenado-por-golpismo.ghtml"
+    },
+    {
+      "title": "Bolsonaro está inelegível? Saiba se o ex-presidente poderá concorrer em 2026 após ter sido denunciado pela PGR",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-se-o-ex-presidente-podera-concorrer-em-2026-apos-ter-sido-denunciado-pela-pgr.ghtml"
+    }
+  ],
+  "response": "Não, Jair Bolsonaro está inelegível até 2030, o que o impede de se candidatar à presidência nas eleições de 2026. Ele foi condenado pelo Tribunal Superior Eleitoral (TSE) por abuso de poder político e uso indevido dos meios de comunicação em dois episódios de 2022: uma reunião com embaixadores onde atacou o sistema eleitoral sem provas e o uso das comemorações do 7 de Setembro como palanque eleitoral.\n\nEmbora Bolsonaro e seus aliados busquem reverter essa situação, especialistas consideram improvável que ele consiga. As principais vias para tentar reverter a inelegibilidade seriam:\n\n*   **Recursos no STF:** Bolsonaro interpôs recursos ao Supremo Tribunal Federal (STF), mas a rotina do STF tem sido a de manter as decisões do TSE em casos semelhantes.\n*   **Aprovação de uma lei de anistia:** Há propostas de anistia para condenados pelos atos de 8 de janeiro, o que poderia beneficiar apoiadores do ex-presidente e, indiretamente, criar um precedente político favorável a ele. No entanto, essa opção enfrenta resistência.\n*   **Alteração na Lei de Inelegibilidade (Lei da Ficha Limpa):** Tramita no Senado um projeto que propõe reduzir o período de inelegibilidade de oito para dois anos para condenados por abuso de poder político ou econômico. Essa mudança, se aprovada, poderia beneficiar Bolsonaro, mas também enfrenta forte resistência e é considerada improvável de ser aprovada sem emendas que impeçam que beneficie inelegíveis como ele.\n\nAlém disso, Bolsonaro foi denunciado pela Procuradoria-Geral da República (PGR) por participação em uma trama golpista. Se for condenado pelo STF nesse caso, a pena poderá estender ainda mais o período de sua inelegibilidade, podendo chegar até 2061 em caso de pena máxima.\n\nApesar de sua situação jurídica, Bolsonaro tem se declarado pré-candidato à presidência em 2026, o que é visto por especialistas como uma estratégia política para manter o controle de seu grupo político. No entanto, ele corre o risco de ser acusado de campanha antecipada, o que poderia levar a multas e sanções eleitorais. Se ele registrar sua candidatura mesmo inelegível, seu nome poderá aparecer na urna, mas seu registro seria negado ou cancelado pela Justiça Eleitoral.",
+  "response_no_search": "A possibilidade de Jair Bolsonaro se candidatar à presidência em 2026 é um tema complexo e depende de diversos fatores, principalmente de decisões judiciais.\n\n**O que impede Bolsonaro de se candidatar atualmente?**\n\nAtualmente, Jair Bolsonaro está inelegível por decisão do Tribunal Superior Eleitoral (TSE). Em junho de 2023, o TSE o condenou por abuso de poder político e uso indevido dos meios de comunicação em um evento com embaixadores estrangeiros, onde ele questionou a segurança das urnas el",
+  "error": null
+}

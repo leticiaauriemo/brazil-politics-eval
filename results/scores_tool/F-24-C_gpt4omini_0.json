@@ -1,0 +1,25 @@
+{
+  "question_id": "F-24-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula was elected president in two years (2002 and 2022), omitting his 2006 election."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model omits one or more election years, specifically 2006, which is a crucial part of Lula's electoral history."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,19 @@
+{
+  "question_id": "F-08-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains Tarcísio de Freitas's choice to run for reelection in São Paulo and mentions the missed federal candidacy deadline."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

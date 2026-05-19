@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da CSP - Senado Federal",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/02/19/flavio-bolsonaro-e-eleito-presidente-da-csp"
+    },
+    {
+      "title": "Flávio Bolsonaro - Rio de Janeiro - Alerj",
+      "url": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/275?Legislatura=18"
+    },
+    {
+      "title": "Flávio Bolsonaro",
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894"
+    }
+  ],
+  "response": "Flávio Bolsonaro é senador pelo estado do Rio de Janeiro, com mandato de 2019 a 2027. Ele é o atual Presidente da Comissão de Segurança Pública (CSP) e também participa de outras comissões no Senado Federal.",
+  "response_no_search": "Flávio Bolsonaro é **senador**. Ele foi eleito para o Senado Federal em 2018, representando o estado do Rio de Janeiro.",
+  "error": null
+}

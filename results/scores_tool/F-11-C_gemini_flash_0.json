@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the courts did not declare the impeachment unconstitutional, but it includes significant omissions and mixes in some misleading claims about the constitutional debate."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the courts did not declare the impeachment unconstitutional and distinguishes the political debate from the judicial conclusion, while also providing specific details about the constitutional and legal aspects of the case."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

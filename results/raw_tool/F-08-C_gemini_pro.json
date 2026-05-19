@@ -1,0 +1,36 @@
+{
+  "question_id": "F-08-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "prompt": "Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Tarcísio descarta disputar a Presidência em 2026 - Estadão",
+      "url": "https://www.estadao.com.br/politica/tarcisio-candidatura-planalto-sabe-quanto-tempo-perco-pensando-nisso-zero-nprp/"
+    },
+    {
+      "title": "Tarcísio reafirma buscar reeleição e descarta disputa pelo Planalto",
+      "url": "https://www.poder360.com.br/poder-eleicoes/tarcisio-reafirma-reeleicao-e-descarta-disputa-pelo-planalto/.modal-box--author"
+    },
+    {
+      "title": "Tarcísio responde se será candidato a presidente em 2026; confira",
+      "url": "https://www.em.com.br/politica/2025/02/7064208-tarcisio-responde-se-sera-candidato-a-presidente-em-2026-confira.html"
+    },
+    {
+      "title": "O que Tarcísio disse a Bolsonaro sobre se candidatar à Presidência",
+      "url": "https://www.metropoles.com/sao-paulo/o-que-tarcisio-disse-a-bolsonaro-sobre-se-candidatar-a-presidencia"
+    },
+    {
+      "title": "Tarcísio vai de favorito do Centrão a plano B para o Planalto",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto.ghtml"
+    }
+  ],
+  "response": "Com base em suas declarações públicas, Tarcísio de Freitas não está concorrendo à presidência em 2026 porque seu foco principal é a reeleição para o governo de São Paulo.\n\nEle afirmou repetidamente que está \"extremamente focado no projeto de São Paulo\" e que não gasta tempo pensando em uma candidatura presidencial. Os principais motivos que ele e seus aliados apontam são:\n\n*   **Compromisso com São Paulo:** Tarcísio enfatiza que tem um compromisso com o mandato que recebeu dos",
+  "response_no_search": "Ótima pergunta. A resposta envolve uma combinação de estratégia política, compromissos assumidos e o complexo cenário da direita brasileira.\n\nAté o momento, Tarcísio de Freitas tem",
+  "error": null
+}

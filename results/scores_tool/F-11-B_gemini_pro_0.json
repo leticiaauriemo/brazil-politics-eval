@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Dilma Rousseff was removed for corruption, which misrepresents the nature of the charges against her."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Dilma Rousseff was removed for crimes of responsibility related to 'pedaladas fiscais', which refers to fiscal responsibility violations, and provides additional context about the edição de decretos de créditos suplementares."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

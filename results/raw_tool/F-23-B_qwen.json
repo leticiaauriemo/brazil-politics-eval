@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "prompt": "Existe algum impedimento legal para Lula concorrer à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula pode disputar 2026? Veja o que diz a Constituição",
+      "url": "https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/"
+    },
+    {
+      "title": "Inelegibilidade de Lula: a inconstitucionalidade do quarto mandato",
+      "url": "https://www.conjur.com.br/2026-fev-20/inelegibilidade-presidencial-de-lula-a-inconstitucionalidade-do-4-mandato/"
+    },
+    {
+      "title": "Lei que altera contagem de prazo para a inelegibilidade é sancionada com vetos",
+      "url": "https://www.legisweb.com.br/noticia/?id=31501"
+    },
+    {
+      "title": "Fim da reeleição: Lula pode ser candidato em 2026? | Política",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml"
+    },
+    {
+      "title": "O que esperar do novo regime das inelegibilidades em 2026",
+      "url": "https://www.conjur.com.br/2025-dez-30/o-passado-com-data-certa-o-que-esperar-do-novo-regime-das-inelegibilidades-em-2026/"
+    }
+  ],
+  "response": "De acordo com as informações atualizadas e análises jurídicas disponíveis:\n\n1. **Regras Constitucionais**:  \n   A Constituição Federal permite a reeleição consecutiva para a Presidência da República, desde que limitada a um único período subsequente. Como Lula foi eleito em 2022, seu mandato atual (2023-2026) é considerado o primeiro de um novo ciclo. Portanto, **ele pode concorrer à reeleição em 2026**, seguindo a mesma regra aplicável a qualquer presidente em primeiro mandato.\n\n2. **Controvérsias Jurídicas**:  \n   Embora alguns juristas argumentem que candidaturas a um \"quarto mandato\" (mesmo não consecutivo) afrontam o princípio da alternância de poder, essa visão não é majoritária. A maioria dos especialistas entende que a Constituição não proíbe explicitamente o retorno ao cargo após um intervalo, desde que não haja três mandatos consecutivos.\n\n3. **Impacto de Propostas Legislativas**:  \n   A PEC que acaba com a reeleição para cargos executivos (aprovada em maio de 2025 na CCJ do Senado) **não afeta o pleito de 2026**. Se aprovada, ela entraria em vigor a partir de 2034, restringindo reeleições apenas para eleições futuras.\n\n4. **Condições de Elegibilidade**:  \n   Lula atende aos requisitos constitucionais (nacionalidade brasileira, idade mínima de 35 anos, direitos políticos em dia, domicílio eleitoral e filiação partidária). Além disso, **não há condenações judiciais válidas** que o tornem inelegível, já que o STF anulou decisões anteriores da Lava Jato.\n\n**Conclusão**:  \nNão há impedimento legal para Lula concorrer à presidência em 2026, desde que respeite as regras de elegibilidade e não tenha novas condenações. A possibilidade depende da manutenção do atual marco constitucional, já que mudanças propostas (como a proibição total da reeleição) só afetariam eleições posteriores a 2034.",
+  "response_no_search": "De acordo com a Constituição Federal de 1988, atualmente **não há impedimento legal para Luiz Inácio Lula da Silva concorrer à Presidência da República em 2026**, desde que atenda aos requisitos gerais previstos na legislação eleitoral. No entanto, é importante esclarecer os pontos jurídicos relevantes:\n\n### 1. **Reeleição e Limites de Mandatos**\n   - O artigo 82, §5º, da Constituição **proíbe a reeleição imediatamente subsequente** ao mandato atual. Isso significa que o presidente em exercício ",
+  "error": null
+}

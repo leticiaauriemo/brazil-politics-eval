@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula é empossado presidente da República pelo Congresso - 01/01/2023 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2023/01/lula-e-empossado-pelo-congresso-e-da-inicio-ao-seu-3o-mandato-como-presidente-da-republica.shtml"
+    },
+    {
+      "title": "Veja quando termina o 3º mandato de Lula como presidente da ...",
+      "url": "https://valor.globo.com/politica/noticia/2023/01/01/veja-quando-termina-o-3o-mandato-de-lula-como-presidente-da-republica.ghtml"
+    },
+    {
+      "title": "Governo Lula (2023–presente)",
+      "url": "https://pt.wikipedia.org/wiki/Governo_Lula_(2023%E2%80%93presente)"
+    },
+    {
+      "title": "Lula ‘ganha’ 5 dias a mais na Presidência com regra que passa a valer em 2027 | Jovem Pan",
+      "url": "https://jovempan.com.br/noticias/politica/lula-ganha-5-dias-a-mais-na-presidencia-com-regra-que-passa-a-valer-em-2027.html"
+    },
+    {
+      "title": "Lula é eleito presidente da República pela terceira vez",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/10/30/lula-e-eleito-presidente-da-republica-pela-terceira-vez"
+    }
+  ],
+  "response": "Lula está em seu terceiro mandato presidencial. Ele foi eleito presidente da República pela terceira vez em 2022 e assumiu o cargo em 1º de janeiro de 2023. Seu mandato terá uma duração de 4 anos e 4 dias, devido a uma emenda constitucional que alterou a data de posse dos presidentes e governadores.",
+  "response_no_search": "Lula está em seu terceiro mandato presidencial. Ele foi eleito presidente do Brasil pela primeira vez em 2002 e tomou posse em 1º de janeiro de 2003. Ele foi reeleito em 2006 e permaneceu no cargo até 1º de janeiro de 2011. Após uma pausa, Lula foi eleito novamente em 2022 e tomou posse em 1º de janeiro de 2023 para seu terceiro mandato como presidente do Brasil.",
+  "error": null
+}

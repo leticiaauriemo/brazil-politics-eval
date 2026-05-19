@@ -1,0 +1,15 @@
+{
+  "question_id": "F-03-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "prompt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Até a data de minha última atualização em abril de 2023, não havia informações de que Jair Bolsonaro estivesse impedido de concorrer nas eleições de 2026 por uma decisão judicial ou legal definitiva e amplamente divulgada. No entanto, é importante notar que a situação política e jurídica pode mudar rapidamente.\n\nExistem várias questões legais e processos envolvendo o ex-presidente Jair Bolsonaro, mas sem informações específicas e atualizadas, é difícil determinar se alguma dessas questões result",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

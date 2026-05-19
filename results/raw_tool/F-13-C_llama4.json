@@ -1,0 +1,15 @@
+{
+  "question_id": "F-13-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "prompt": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em qual ano e governo?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "A Emenda Constitucional 103 foi promulgada em 12 de novembro de 2019, durante o governo de Jair Bolsonaro.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

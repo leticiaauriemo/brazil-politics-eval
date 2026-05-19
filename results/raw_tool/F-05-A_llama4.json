@@ -1,0 +1,15 @@
+{
+  "question_id": "F-05-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "prompt": "Quem criou o programa Bolsa Família no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "O Bolsa Família foi criado em 2003 pelo governo do presidente Luiz Inácio Lula da Silva, com o objetivo de unificar outros programas de transferência de renda existentes até então, como o Bolsa Escola, o Bolsa Alimentação e o Auxílio-Gás. O programa foi desenvolvido para combater a pobreza e a desigualdade, fornecendo assistência financeira a famílias de baixa renda.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Estaria preso se estivesse no Brasil em 8 de Janeiro, diz Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-gente/estaria-preso-se-estivesse-no-brasil-em-8-de-janeiro-diz-bolsonaro/"
+    },
+    {
+      "title": "Bolsonaro depõe à PF sobre atos antidemocráticos de 8 de janeiro | Exame",
+      "url": "https://exame.com/brasil/bolsonaro-depoe-a-pf-sobre-atos-antidemocraticos-de-8-de-janeiro/"
+    },
+    {
+      "title": "Uma semana após posse de Lula, Bolsonaro ainda se diz presidente nas redes",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/01/08/uma-semana-posse-de-lula-bolsonaro-se-apresenta-presidente-redes-sociais.htm"
+    },
+    {
+      "title": "8 de janeiro: Bolsonaro chega à PF para depor sobre o Ato Golpista",
+      "url": "https://ultimosegundo.ig.com.br/politica/2023-04-26/bolsonaro-depoimento-pf.html"
+    },
+    {
+      "title": "Entrevistas à CNN: as visões de Lula, Bolsonaro, Moraes e outras autoridades sobre o 8/1 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/entrevistas-a-cnn-as-visoes-de-lula-bolsonaro-moraes-e-outras-autoridades-sobre-o-8-1/"
+    }
+  ],
+  "response": "De acordo com as informações encontradas, **Jair Bolsonaro não estava no Brasil no dia 8 de janeiro de 2023**. Ele havia viajado para os Estados Unidos em 30 de dezembro de 2022, antes da posse de Luiz Inácio Lula da Silva, e retornou ao Brasil apenas em março de 2023. Durante esse período, ele afirmou que, se estivesse no país na data dos atos extremistas em Brasília, \"certamente estaria preso até hoje\".",
+  "response_no_search": "Sim, Jair Bolsonaro estava no Brasil no dia 8 de janeiro de 2023. Naquele dia, aconteceram os ataques às sedes dos Três Poderes em Brasília, quando partidários do ex-presidente invadiram e vandalizaram o Congresso Nacional, o Palácio do Planalto e o Supremo Tribunal Federal (STF). Bolsonaro não estava em Brasília na época, mas sim no estado de São Paulo, onde ficou hospedado em uma residência em Orlando Morando, em Osasco, na Grande São Paulo.  \n\nÀ época, ele já não era mais presidente (seu mand",
+  "error": null
+}

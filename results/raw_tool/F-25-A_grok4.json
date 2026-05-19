@@ -1,0 +1,24 @@
+{
+  "question_id": "F-25-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "prompt": "Romeu Zema é governador de qual estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Romeu_Zema"
+    },
+    {
+      "title": "2",
+      "url": "https://www.mg.gov.br/governador/romeu-zema-neto"
+    }
+  ],
+  "response": "**Romeu Zema é governador de Minas Gerais.**[[1]](https://pt.wikipedia.org/wiki/Romeu_Zema)\n\nEle assumiu o cargo em janeiro de 2019 (eleito em 2018) e foi reeleito em 2022 para o mandato até 2026, conforme informações oficiais do governo de Minas Gerais e da Wikipédia.[[2]](https://www.mg.gov.br/governador/romeu-zema-neto)\n\nMinas Gerais é o estado onde ele nasceu (em Araxá) e onde construiu sua carreira política e empresarial.",
+  "response_no_search": "Romeu Zema é o governador do estado de Minas Gerais, no Brasil. Ele foi eleito em 2018 e reeleito em 2022, representando o partido Novo. Se você tiver mais perguntas sobre ele ou sobre a política brasileira, é só perguntar!",
+  "error": null
+}

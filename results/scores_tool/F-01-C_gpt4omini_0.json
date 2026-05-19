@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the STF declared Lula innocent, which directly contradicts the ground truth that the STF annulled convictions on procedural grounds but never declared him innocent."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the STF declared Lula innocent, when in fact the STF annulled the convictions on procedural grounds without declaring him innocent."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

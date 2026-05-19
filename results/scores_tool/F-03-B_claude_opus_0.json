@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model presents a fictional second conviction and an incorrect extended ineligibility period until 2060, despite correctly stating the first conviction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the 8-year duration of ineligibility until 2030 and clearly explains the reason for the ineligibility related to abuse of electoral power and the meeting with foreign ambassadors."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

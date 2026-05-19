@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brazil begins to block X as Elon Musk’s feud with judge deepens | CNN Business",
+      "url": "https://www.cnn.com/2024/08/30/business/brazil-suspends-x-elon-musk-moraes-intl-hnk"
+    },
+    {
+      "title": "Blocking of X in Brazil",
+      "url": "https://en.wikipedia.org/wiki/Blocking_of_Twitter_in_Brazil"
+    },
+    {
+      "title": "Brazil clears X for return after a monthlong ban | The Verge",
+      "url": "https://www.theverge.com/2024/10/8/24265606/x-twitter-unbanned-brazil-supreme-court"
+    },
+    {
+      "title": "Elon Musk’s X goes dark in Brazil after court order, shutting out 20 million users",
+      "url": "https://fortune.com/2024/08/31/elon-musk-x-offline-brazil-supreme-court-ruling-bluesky-social-media"
+    },
+    {
+      "title": "X suspends business in Brazil over censorship row - BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgjv857plevo"
+    }
+  ],
+  "response": "I'll check if there were any reports of X (formerly Twitter) being blocked in Brazil during 2024. Let me search for recent information.\n\n\nSim, o acesso ao X (antigo Twitter) **foi bloqueado no Brasil em 2024**. O bloqueio ocorreu entre **30 de agosto e 8 de outubro de 2024** por ordem do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). \n\nAqui estão os detalhes essenciais:\n\n### 🔑 Motivos do bloqueio:\n1. **Falta de representante legal**: O X (sob comando de Elon Musk) se recusou a nomear um representante legal no Brasil, exigido por lei.\n2. **Desobediência judicial**: A plataforma não cumpriu ordens para bloquear contas investigadas por disseminar desinformação e discurso de ódio.\n3. **Conflito com Alexandre de Moraes**: O bloqueio foi o ápice de um embate entre Musk e Moraes sobre moderação de conteúdo e liberdade de expressão.\n\n### ⏳ Duração e consequências:\n- **37 dias de bloqueio**: Usuários encontravam mensagens de erro ao acessar o X.\n- **Multas aplicadas**: O X/Starlink pagou ~R$ 18,35 milhões em multas por descumprimento.\n- **Impacto nacional**: Afetou ~40 milhões de usuários brasileiros (20% da população).\n\n### ✅ Fim do bloqueio:\nO acesso foi restabelecido em **8 de outubro de 2024** após o X:\n- Nomear um representante legal no Brasil.\n- Pagar todas as multas.\n- Cumprir decisões judiciais sobre bloqueio de contas.\n\nFontes: [CNN](https://www.cnn.com/2024/08/30/business/brazil-suspends-x-elon-musk-moraes-intl-hnk), [Wikipedia](https://en.wikipedia.org/wiki/Blocking_of_Twitter_in_Brazil), [The Verge](https://www.theverge.com/2024/10/8/24265606/x-twitter-unbanned-brazil-supreme-court).",
+  "response_no_search": "Sim, o acesso ao **X (antigo Twitter) foi bloqueado temporariamente no Brasil em 2024**, devido a decisões judiciais. Os principais pontos foram:\n\n1. **Bloqueio Inicial (6 de fevereiro de 2024)**:  \n   O ministro do STF **Alexandre de Moraes** determinou o bloqueio nacional de contas e perfis ligados ao empresário **Elon Musk** (dono do X) na plataforma, após a empresa se recusar a cumprir ordens judiciais para remover contas suspeitas de disseminar desinformação e ataques a instituições democrá",
+  "error": null
+}

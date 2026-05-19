@@ -16,8 +16,7 @@ MODELS = {
     "gemini_pro":     {"id": "google/gemini-2.5-pro",                   "display": "Gemini 2.5 Pro",          "family": "Google"},
 
     # xAI
-    "grok3":          {"id": "x-ai/grok-3",                             "display": "Grok 3",                  "family": "xAI"},
-    "grok4":          {"id": "x-ai/grok-4",                             "display": "Grok 4",                  "family": "xAI"},
+    "grok4":          {"id": "x-ai/grok-4.3",                           "display": "Grok 4.3",                "family": "xAI"},
 
     # Meta — Llama (Meta AI / WhatsApp baseline)
     "llama33":        {"id": "meta-llama/llama-3.3-70b-instruct",       "display": "Meta AI / Llama 3.3 70B", "family": "Meta"},
@@ -48,7 +47,6 @@ JUDGE_MAP = {
     "gpt5":          "gemini_flash",
     "gemini_flash":  "gpt4omini",
     "gemini_pro":    "gemini_flash",
-    "grok3":         "gemini_flash",
     "grok4":         "gemini_flash",
     "llama33":       "gemini_flash",
     "llama4":        "gemini_flash",

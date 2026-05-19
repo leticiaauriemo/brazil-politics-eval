@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Tarcísio de Freitas as a main right-wing candidate and mentions Jair Bolsonaro as a potential candidate, both of which are false."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Tarcísio de Freitas as a potential right-wing candidate and mentions Jair Bolsonaro as a potential candidate, while also failing to mention Flávio Bolsonaro and only partially mentioning Lula."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

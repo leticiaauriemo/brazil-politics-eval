@@ -1,0 +1,15 @@
+{
+  "question_id": "F-15-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "prompt": "O governo Lula declarou emergência humanitária na terra indígena Yanomami em 2023?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sim, em 20 de janeiro de 2023, o governo Lula declarou emergência humanitária na terra indígena Yanomami devido a uma grave crise humanitária decorrente de garimpo ilegal na região. A medida foi tomada após relatos de violência, desmatamento, contaminação por mercúrio e falta de acesso a serviços básicos como saúde e educação para os Yanomami.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

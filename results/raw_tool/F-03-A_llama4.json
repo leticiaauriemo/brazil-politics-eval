@@ -1,0 +1,15 @@
+{
+  "question_id": "F-03-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Até o dia 30 de Abril de 2024, Jair Bolsonaro não está inelegível. Portanto, caso deseje e cumpra os requisitos constitucionais e legais, poderá concorrer à presidência da República nas eleições de 2026.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

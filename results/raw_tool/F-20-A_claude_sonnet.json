@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covidvaccinations"
+    },
+    {
+      "title": "COVID-19 Data Explorer - Our World in Data",
+      "url": "https://ourworldindata.org/explorers/covid?tab=table&zoomToSelection=true&time=2020-03-01..latest&country=USA~GBR~ISR~DEU~ARE~ARG~FRA~OWID_WRL~AUT~Asia~BHR~BGD~AND~DZA~BEL~BOL~BRA~BGR~CAN~Africa~TUR~SWE~CHE~LKA~ESP~SouthAmerica~SVN~SVK~SGP~SRB~SYC~SAU~ROU~RUS~PRT~POL~PAN~OMN~NOR~NorthAmerica~NLD~NPL~MMR~MAR~MCO~MEX~MLT~MDV~LUX~LTU~LIE~LVA~KWT~IRL~ITA~IDN~IND~IRQ~IRN~AFG~ALB~AGO~ATG~ARM~AUS~AZE~BHS~BRB~BLR~BLZ~BEN~BTN~BIH~BWA~BRN~BFA~BDI~KHM~CMR~CPV~CAF~TCD~CHL~CHN~COL~COM~COG~CRI~CIV~HRV~CUB~CYP~CZE~COD~DNK~DJI~ECU~EGY~SLV~GNQ~ERI~EST~DMA~DOM~SWZ~FIN~GRC~GHA~GEO~GMB~GAB~FJI~EuropeanUnion~Europe~ETH~LSO~LBN~LAO~KGZ~OWID_KOS~KEN~KAZ~JOR~JPN~JAM~ISL~HUN~HKG~HND~HTI~GUY~GNB~GIN~GTM~GRD~ZMB~YEM~VNM~VEN~VAT~VUT~UZB~URY~UKR~UGA~TUN~TTO~TGO~TLS~THA~TZA~TJK~TWN~SYR~SUR~SDN~SSD~KOR~ZAF~SOM~SLB~SLE~SEN~STP~SMR~WSM~VCT~LCA~KNA~RWA~QAT~PHL~PER~PRY~PNG~PSE~PAK~Oceania~MKD~NGA~NER~NIC~NZL~NAM~MOZ~MNE~MNG~MDA~FSM~MUS~MRT~MHL~MLI~MYS~MWI~MDG~LBY~LBR~ZWE&region=World&vaccinationsMetric=true&interval=total&perCapita=true&smoothing=0&pickerMetric=location&pickerSort=asc"
+    },
+    {
+      "title": "COVID-19 vaccine doses administered by country worldwide 2023| Statista",
+      "url": "https://www.statista.com/statistics/1194934/number-of-covid-vaccine-doses-administered-by-county-worldwide/?__sso_cookie_checker=failed"
+    },
+    {
+      "title": "Deployment of COVID-19 vaccines",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_distribution_by_country_and_territory"
+    },
+    {
+      "title": "COVID Vaccines by Country 2026",
+      "url": "https://worldpopulationreview.com/country-rankings/covid-vaccines-by-country"
+    }
+  ],
+  "response": "Vou pesquisar essa informação para você!**Sim! O Brasil esteve entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo.** 🇧🇷💉\n\nDe acordo com os dados consolidados (Statista / Our World in Data / World Population Review), o Brasil ocupou a **4ª posição** no ranking mundial de doses aplicadas, ficando atrás apenas de três países muito mais populosos. Veja o ranking dos principais países:\n\n| Posição | País | Total de Doses Aplicadas |\n|---------|------|--------------------------|\n| 🥇 1º | 🇨🇳 China | ~3,5 bilhões |\n| 🥈 2º | 🇮🇳 Índia | ~2,2 bilhões |\n| 🥉 3º | 🇺🇸 Estados Unidos | ~672–711 milhões |\n| **4º** | 🇧🇷 **Brasil** | **~485–515 milhões** |\n| 5º | 🇮🇩 Indonésia | ~444–448 milhões |\n| 6º | 🇯🇵 Japão | ~382–409 milhões |\n| 7º | 🇧🇩 Bangladesh | ~355–362 milhões |\n| 8º | 🇵🇰 Paquistão | ~333–341 milhões |\n\n### 🔍 Pontos de destaque sobre o Brasil:\n- O Brasil aplicou **mais de 500 milhões de doses**, um número expressivo considerando sua população de cerca de 215 milhões de habitantes.\n- O desempenho brasileiro foi notável especialmente por se tratar de um **país em desenvolvimento**, superando nações ricas como Alemanha, França, Reino Unido e Japão em número absoluto de doses.\n- O país foi amplamente reconhecido pela sua **capacidade logística de vacinação em massa**, herdada de décadas de experiência com o Programa Nacional de Imunizações (PNI).\n\nEm resumo, o Brasil se destacou de forma muito positiva no cenário global de vacinação contra a COVID-19, sendo o **4º país do mundo** em número total de doses aplicadas.",
+  "response_no_search": "## Brasil e Vacinação contra COVID-19\n\n**Sim**, o Brasil esteve consistentemente entre os países com **maior número total de doses aplicadas** no mundo durante a campanha de vacinação contra a COVID-19.\n\n### Posição do Brasil no ranking global\n\nO Brasil geralmente figurou entre os **5 primeiros países** em número absoluto de doses aplicadas, ao lado de:\n\n1. 🇨🇳 China\n2. 🇮🇳 Índia\n3. 🇺🇸 Estados Unidos\n4. 🇧🇷 **Brasil**\n5. 🇯🇵 Japão / outros países\n\n### Contexto\n\n- O Brasil aplicou **mais de 500 milhõ",
+  "error": null
+}

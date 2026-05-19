@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Proteção e construção de um novo futuro marcam os três anos da Emergência Yanomami",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias/2026/01/protecao-e-construcao-de-um-novo-futuro-marcam-os-tres-anos-da-emergencia-yanomami"
+    },
+    {
+      "title": "Emergência de Saúde em Território Yanomami completa dois meses; veja ações realizadas até agora — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/marco/emergencia-de-saude-em-territorio-yanomami-completa-dois-meses-veja-acoes-realizadas-ate-agora"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em ...",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Terra Yanomami vive nova fase: governo mantém presença e garante avanços após fim da intervenção judicial — Casa Civil",
+      "url": "https://www.gov.br/casacivil/pt-br/assuntos/noticias/2025/outubro/terra-yanomami-vive-nova-fase-governo-mantem-presenca-e-garante-avancos-apos-fim-da-intervencao-judicial"
+    },
+    {
+      "title": "Ministério da Saúde decreta emergência de saúde pública para ...",
+      "url": "https://g1.globo.com/saude/noticia/2023/01/20/ministerio-da-saude-decreta-emergencia-de-saude-publica-para-combater-desassistencia-de-indigenas-yanomami.ghtml"
+    }
+  ],
+  "response": "O governo brasileiro declarou emergência de saúde pública na Terra Yanomami em **2023**.\n\nEspecificamente, o Ministério da Saúde publicou a portaria declarando a **Emergência em Saúde Pública de Importância Nacional** em **20 de janeiro de 2023**. No dia seguinte, **21 de janeiro de 2023**, o presidente Luiz Inácio Lula da Silva assinou o **Decreto nº 11.384/2023**, instituindo um comitê para coordenar as ações de resposta à crise humanitária enfrentada pelo povo Yanomami.\n\nA declaração de emergência foi motivada pela grave situação de desassistência sanitária na região, com casos de desnutrição severa, malária e outras doenças afetando a população de aproximadamente 30,4 mil indígenas que vivem no território.",
+  "response_no_search": "# Emergência de Saúde Pública Yanomami\n\nO governo brasileiro declarou emergência de saúde pública de importância nacional na Terra Yanomami em **2023**.\n\nA declaração foi feita pelo Ministério da Saúde em **janeiro de 2023**, em resposta à grave crise humanitária enfrentada pelos Yanomami, marcada por desnutrição, malária e outras doenças, agravadas pela invasão de garimpeiros ilegais na região.",
+  "error": null
+}

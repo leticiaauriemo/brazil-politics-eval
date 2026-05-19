@@ -1,0 +1,28 @@
+{
+  "question_id": "F-06-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Inquérito das Fake News – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Inqu%C3%A9rito_das_Fake_News"
+    },
+    {
+      "title": "Inquérito n° 4.781 do STF completa 6 anos e cria precedente único",
+      "url": "https://www.conjur.com.br/2025-mar-23/inquerito-n-4-781-do-stf-completa-6-anos-e-cria-precedente-unico/"
+    },
+    {
+      "title": "Twitter bloqueia contas de investigados no inquérito das fake news",
+      "url": "https://www.correiobraziliense.com.br/app/noticia/politica/2020/07/24/interna_politica,874991/amp.shtml"
+    }
+  ],
+  "response": "O usuário está perguntando sobre o Inquérito 4781 (das fake news) do STF e se ele resultou em ordens de bloqueio de contas em plataformas digitais. Vou pesquisar para fornecer informações precisas e atualizadas.# Sim, o Inquérito 4781 resultou em diversas ordens de bloqueio de contas em plataformas digitais\n\nO chamado \"Inquérito das Fake News\" produziu, ao longo dos anos, múltiplas determinações de bloqueio de perfis em redes sociais. Veja os principais pontos:\n\n## Contexto do inquérito\n\nO Inquérito 4781, conhecido como \"Inquérito das fake news\", é um inquérito aberto pelo Supremo Tribunal Federal (STF) para investigar a existência de notícias falsas, denunciações caluniosas, ameaças e roubos de publicação sem os devidos direitos autorais, infrações que podem configurar calúnia, difamação e injúria contra pessoas, além de possíveis ligações com os planos de assassinato de políticos e juízes da Suprema Corte, depredação do patrimônio público, vandalismo e a tentativa de abolição do Estado democrático de direito. O inquérito foi aberto em 14 de março de 2019 pelo presidente do STF Dias Toffoli, sendo relatado pelo ministro Alexandre de Moraes.\n\n## Primeiras ordens de bloqueio (2019)\n\nNa semana seguinte à abertura do inquérito, Alexandre de Moraes decretou o bloqueio de contas nas redes sociais que propagarem discurso de ódio contra o STF. Também foram ordenadas buscas em endereços de São Paulo e Alagoas.\n\n## Decisão estruturante de maio de 2019\n\nDistribuído ao Ministro Alexandre de Moraes, após investigações preliminares foi proferida decisão em 26 de maio, determinando uma série de providências como, exemplificativamente, bloqueio de contas em redes sociais, tais como Facebook, Twitter e Instagram, dos investigados, afastamento do sigilo bancário, pesquisa no Cadastro de Clientes do Sistema Financeiro Nacional (CCS) e oitiva de testemunhas, decretando-se, desde logo, segredo de justiça.\n\nA fundamentação do relator apontou que \"o bloqueio de contas em redes sociais, tais como Facebook, Twitter e Instagram, dos investigados apontados no item anterior '1', necessário para a interrupção dos discursos com conteúdo de ódio, subversão da ordem e incentivo à quebra da normalidade institucional e democrática\".\n\n## Cumprimento pelas plataformas em 2020\n\nO Twitter bloqueou, em 24 de julho de 2020, as contas de investigados no inquérito que apura ataques e fake news contra ministros do STF. A empresa que gerencia a rede social c",
+  "response_no_search": "Sim, o Inquérito 4781, conhecido como \"Inquérito das Fake News\", instaurado pelo Supremo Tribunal Federal (STF) em março de 2019 por determinação do então presidente da Corte, ministro Dias Toffoli, e relatado pelo ministro Alexandre de Moraes, resultou em diversas ordens de bloqueio de contas em plataformas digitais.\n\n**Principais medidas adotadas:**\n\n- **Bloqueio de perfis e contas** em redes sociais como Twitter (atual X), Facebook, Instagram e YouTube, atingindo investigados acusados de diss",
+  "error": null
+}

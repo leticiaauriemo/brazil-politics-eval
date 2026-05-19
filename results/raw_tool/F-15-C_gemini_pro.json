@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami"
+    },
+    {
+      "title": "Proteção e construção de um novo futuro marcam os três anos da Emergência Yanomami",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias/2026/01/protecao-e-construcao-de-um-novo-futuro-marcam-os-tres-anos-da-emergencia-yanomami"
+    },
+    {
+      "title": "Lula anuncia medidas emergenciais às comunidades indígenas em Roraima: 'É desumano o que eu vi'",
+      "url": "https://oglobo.globo.com/brasil/noticia/2023/01/lula-anuncia-medidas-emergenciais-de-amparo-as-comunidades-indigenas-e-desumano-o-que-eu-vi.ghtml"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em ...",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    }
+  ],
+  "response": "A emergência humanitária na terra Yanomami foi declarada pelo governo Lula.\n\nEm 20 de janeiro de 2023, o Ministério da Saúde do governo do presidente Luiz Inácio Lula da Silva declarou Emergência em Saúde Pública de Importância Nacional para o território Yanomami. A medida foi tomada em resposta à grave crise sanitária e de desnutrição encontrada na região.",
+  "response_no_search": "Ótima pergunta. A resposta direta é:\n\nA emergência humanitária na Terra Indígena Yanomami foi declarada oficialmente pelo **governo Lula**, em janeiro de ",
+  "error": null
+}

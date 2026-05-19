@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Congresso empossa Lula e Alckmin na Presidência da República — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/01/01/congresso-empossa-lula-e-alckmin-na-presidencia-da-republica"
+    },
+    {
+      "title": "Lula é empossado presidente da República pelo Congresso - 01/01/2023 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2023/01/lula-e-empossado-pelo-congresso-e-da-inicio-ao-seu-3o-mandato-como-presidente-da-republica.shtml"
+    },
+    {
+      "title": "Posse de Luiz Inácio Lula da Silva em 2023",
+      "url": "https://pt.wikipedia.org/wiki/Posse_de_Luiz_In%C3%A1cio_Lula_da_Silva_em_2023"
+    },
+    {
+      "title": "Após 12 anos e depois de ter ficado preso por 580 dias, Lula volta à Presidência | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/lula-toma-posse-hoje-para-terceiro-mandato-e-volta-a-presidencia-apos-12-anos/"
+    },
+    {
+      "title": "Lula entra para a história da redemocratização com 3º mandato | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2023/01/01/lula-entra-para-a-histria-da-redemocratizao-com-3-mandato.ghtml"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva está em seu **terceiro mandato** presidencial. Ele tomou posse como presidente do Brasil pela terceira vez em 1º de janeiro de 2023, após vencer as eleições de 2022. Lula já havia exercido a presidência anteriormente de 2003 a 2010. Portanto, ele é o primeiro presidente brasileiro a ser eleito para três mandatos.",
+  "response_no_search": "Luiz Inácio Lula da Silva, conhecido como Lula, está em seu terceiro mandato presidencial. Ele foi presidente do Brasil de 2003 a 2010 e foi reeleito em 2022, assumindo o cargo novamente em 1º de janeiro de 2023. Portanto, ele está em seu terceiro mandato.",
+  "error": null
+}

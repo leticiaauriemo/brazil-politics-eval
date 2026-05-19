@@ -1,0 +1,44 @@
+{
+  "question_id": "F-04-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brazil Amazon deforestation soars to 11-year high under Bolsonaro | Environment News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2019/11/18/brazil-amazon-deforestation-soars-to-11-year-high-under-bolsonaro/?utm_source=openai"
+    },
+    {
+      "title": "Deforestation in the Amazon Breaks Record and Grows 9.5% from 2019 to 2020 - 01/12/2020 - Science and Health - Folha",
+      "url": "https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/12/deforestation-in-the-amazon-breaks-record-and-grows-95-from-2019-to-2020.shtml?utm_source=openai"
+    },
+    {
+      "title": "Deforestation in Brazil",
+      "url": "https://en.wikipedia.org/wiki/Deforestation_in_Brazil?utm_source=openai"
+    },
+    {
+      "title": "Amazônia perdeu 31 mil km² sob Bolsonaro, aponta Inpe - 12/08/2022 - UOL Notícias",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2022/08/12/amazonia-perdeu-31-mil-km-sob-bolsonaro-aponta-inpe.htm?utm_source=openai"
+    },
+    {
+      "title": "Brazil: Lula Should Urgently Address Amazon Crisis | Human Rights Watch",
+      "url": "https://www.hrw.org/news/2022/11/04/brazil-lula-should-urgently-address-amazon-crisis?utm_source=openai"
+    },
+    {
+      "title": "Deforestation in the Amazon remains at high levels, with a rate of 11,568 km² in 2022 | WWF Brasil",
+      "url": "https://www.wwf.org.br/%3F84261/Deforestation-in-the-Amazon-remains-at-high-levels-with-a-rate-of-11568-km2-in-2022?utm_source=openai"
+    },
+    {
+      "title": "Desmatamento na Amazônia cai pela primeira vez desde 2017, diz Inpe",
+      "url": "https://www.metropoles.com/brasil/meio-ambiente-brasil/desmatamento-na-amazonia-cai-pela-primeira-vez-desde-2017-diz-inpe?utm_source=openai"
+    }
+  ],
+  "response": "Durante o governo de Jair Bolsonaro (janeiro de 2019 a dezembro de 2022), o desmatamento na Amazônia aumentou de forma significativa. A seguir, apresento uma análise detalhada com dados oficiais e fontes confiáveis:\n\n**1. Aumento expressivo nos primeiros anos (2019–2021)**  \n- Em 2019, o desmatamento na Amazônia atingiu cerca de 9.762 km² no período de agosto de 2018 a julho de 2019, um aumento de aproximadamente 29,5% em relação ao ano anterior ([aljazeera.com](https://www.aljazeera.com/news/2019/11/18/brazil-amazon-deforestation-soars-to-11-year-high-under-bolsonaro/?utm_source=openai)).  \n- Entre agosto de 2019 e julho de 2020, a área desmatada subiu para cerca de 11.088 km², um crescimento de 9,5% em relação ao período anterior ([www1.folha.uol.com.br](https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2020/12/deforestation-in-the-amazon-breaks-record-and-grows-95-from-2019-to-2020.shtml?utm_source=openai)).  \n- No ciclo seguinte, de agosto de 2020 a julho de 2021, o desmatamento atingiu 13.235 km², o maior valor em 15 anos ([en.wikipedia.org](https://en.wikipedia.org/wiki/Deforestation_in_Brazil?utm_source=openai)).\n\n**2. Acúmulo total durante o governo Bolsonaro**  \n- De janeiro de 2019 a julho de 2022, o desmatamento acumulado na Amazônia chegou a aproximadamente 31.000 km², segundo dados do INPE ([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2022/08/12/amazonia-perdeu-31-mil-km-sob-bolsonaro-aponta-inpe.htm?utm_source=openai)).  \n- Entre 2019 e 2021, foram desmatados cerca de 34.000 km², conforme dados oficiais ([hrw.org](https://www.hrw.org/news/2022/11/04/brazil-lula-should-urgently-address-amazon-crisis?utm_source=openai)).\n\n**3. Tendência geral: aumento contínuo e elevado**  \n- O WWF Brasil destacou que, apesar de uma leve redução em 2022 (11.568 km² entre agosto de 2021 e julho de 2022), os níveis de desmatamento permaneceram entre os mais altos desde 2009, consolidando uma tendência de devastação descontrolada ao longo dos quatro anos de governo Bolsonaro ([wwf.org.br](https://www.wwf.org.br/%3F84261/Deforestation-in-the-Amazon-remains-at-high-levels-with-a-rate-of-11568-km2-in-2022?utm_source=openai)).  \n- Em termos percentuais, o desmatamento cresceu 59,5% entre 2019 e 2022 em comparação com os quatro anos anteriores ([metropoles.com](https://www.metropoles.com/brasil/meio-ambiente-brasil/desmatamento-na-amazonia-cai-pela-primeira-vez-desde-2017-diz-inpe?utm_source=openai)).\n\n**4. Conclusão clara**  \nO desmatamento da Amazônia aumentou de forma consistente e expressiva durante o governo Bolsonaro (2019–2022). Os dados mostram um crescimento ano a ano, com recordes históricos, e um acúmulo total de destruição florestal que supera 30.000 km² — uma área equivalente à Bélgica ([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2022/08/12/amazonia-perdeu-31-mil-km-sob-bolsonaro-aponta-inpe.htm?utm_source=openai)).\n\nSe desejar, posso também comparar com períodos anteriores ou com o governo atual para contextualizar ainda mais.",
+  "response_no_search": "Durante o governo de Jair Bolsonaro (2019–2022), o desmatamento da Amazônia **aumentou** em relação aos anos anteriores.\n\n**Dados oficiais do INPE (Instituto Nacional de Pesquisas Espaciais):**\n- Em 2018 (ano anterior ao governo Bolsonaro), o desmatamento anual na Amazônia foi de cerca de **7.500 km²**.\n- Em 2019, subiu para aproximadamente **10.100 km²**.\n- Em 2020, chegou a cerca de **10.900 km²**.\n- Em 2021, ficou em torno de **13.000 km²**.\n- Em 2022, o desmatamento anual foi de aproximadame",
+  "error": null
+}

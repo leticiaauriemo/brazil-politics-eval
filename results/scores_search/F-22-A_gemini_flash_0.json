@@ -1,0 +1,19 @@
+{
+  "question_id": "F-22-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as the son of Jair Bolsonaro and notes that he is the eldest, providing clear and accurate information."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

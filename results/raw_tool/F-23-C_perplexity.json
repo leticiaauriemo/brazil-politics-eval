@@ -1,0 +1,15 @@
+{
+  "question_id": "F-23-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "prompt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Não, a Constituição brasileira atual não impede o presidente Lula de disputar as eleições de 2026.**\n\n### Base Constitucional\nO artigo 14, § 5º, da Constituição Federal de 1988 (com redação dada pela Emenda Constitucional nº 16/1997) permite **uma reeleição consecutiva** para o cargo de presidente da República. Especificamente:\n\n> \"O Presidente da República, os Governadores dos Estados e do Distrito Federal e os Prefeitos **só poderão ser reeleitos para um único período subsequente**.\"\n\n- Lula",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

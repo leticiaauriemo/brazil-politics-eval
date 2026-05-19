@@ -1,0 +1,35 @@
+{
+  "question_id": "F-07-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "X (Twitter) começa a ser bloqueado e brasileiros não estão conseguindo acessar a rede | Internet",
+      "url": "https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm"
+    },
+    {
+      "title": "Fim do X (Twitter) no Brasil? Entenda como acontece o bloqueio de redes",
+      "url": "https://www.opovo.com.br/noticias/politica/2024/08/30/fim-do-x-twitter-no-brasil-entenda-como-acontece-o-bloqueio-de-redes.html"
+    },
+    {
+      "title": "X (Twitter) sai do ar em todo o Brasil - Notícias do Centro",
+      "url": "https://noticiasdocentro.com.br/brasil/x-twitter-sai-do-ar-em-todo-o-brasil/"
+    },
+    {
+      "title": "Moraes determina bloqueio do X no Brasil após Elon Musk ... - BBC",
+      "url": "https://www.bbc.com/portuguese/articles/c4gz28359d4o"
+    },
+    {
+      "title": "Da suspensão à retomada: relembre como foram os 40 dias sem Twitter/X no Brasil",
+      "url": "https://www.infomoney.com.br/politica/da-suspensao-a-retomada-relembre-como-foram-os-40-dias-sem-twitter-x-no-brasil/"
+    }
+  ],
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024. A decisão foi tomada pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), após a empresa não cumprir a ordem judicial de nomear um novo representante legal no país. O bloqueio começou a ser implementado na madrugada do dia 31 de agosto de 2024, afetando cerca de 22 milhões de usuários brasileiros. A medida foi comunicada pela Agência Nacional de Telecomunicações (Anatel) às operadoras de internet, que foram responsáveis por efetuar o bloqueio [tecmundo.com.br](https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm) [opovo.com.br](https://www.opovo.com.br/noticias/politica/2024/08/30/fim-do-x-twitter-no-brasil-entenda-como-acontece-o-bloqueio-de-redes.html).\n\nO bloqueio durou cerca de 40 dias, até que o ministro Alexandre de Moraes determinou o desbloqueio da rede social em outubro de 2024, após a empresa reativar sua representação legal no Brasil e pagar multas acumuladas [infomoney.com.br](https://www.infomoney.com.br/politica/da-suspensao-a-retomada-relembre-como-foram-os-40-dias-sem-twitter-x-no-brasil/).",
+  "response_no_search": "Não tenho informações sobre eventos que ocorreram após outubro de 2023. Para saber se o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024, recomendo verificar as notícias mais recentes ou fontes oficiais para obter informações atualizadas.",
+  "error": null
+}

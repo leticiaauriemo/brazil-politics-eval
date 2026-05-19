@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "prompt": "Existe algum impedimento legal para Lula concorrer à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/"
+    },
+    {
+      "title": "2",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026"
+    },
+    {
+      "title": "3",
+      "url": "https://www.cnnbrasil.com.br/politica/fim-da-reeleicao-impede-candidatura-de-lula-em-2026-entenda/"
+    },
+    {
+      "title": "4",
+      "url": "https://valor.globo.com/politica/artigo/existe-idade-maxima-para-ser-presidente-do-brasil.ghtml"
+    },
+    {
+      "title": "5",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/juristas-questionam-direito-de-lula-de-concorrer-a-uma-segunda-reeleicao/"
+    }
+  ],
+  "response": "**Não, não existe impedimento legal atual para Lula concorrer à Presidência em 2026.**[[1]](https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/)\n\nDe acordo com a Constituição Federal de 1988 (artigo 14, § 5º), o presidente da República pode ser reeleito uma única vez de forma consecutiva. Lula já cumpriu dois mandatos consecutivos entre 2003 e 2010, mas ficou fora do cargo nos mandatos seguintes (2011–2022). Sua eleição em 2022 iniciou um novo ciclo, permitindo que dispute a reeleição em 2026 para o mandato 2027–2030.[[2]](https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026)\n\n### Principais pontos sobre a elegibilidade\n- **Reeleição consecutiva**: O mandato atual (2023–2026) é considerado o primeiro de um novo período. Portanto, 2026 seria a disputa por uma segunda gestão consecutiva, o que é permitido.[[3]](https://www.cnnbrasil.com.br/politica/fim-da-reeleicao-impede-candidatura-de-lula-em-2026-entenda/)\n- **Condenações anteriores**: A condenação por corrupção de 2017 foi anulada pelo STF em 2021, restaurando seus direitos políticos. Não há inelegibilidade por esse motivo.\n- **Idade**: Não existe limite máximo de idade para concorrer à Presidência no Brasil. Lula completará 81 anos em 2026, mas isso não o impede legalmente.[[4]](https://valor.globo.com/politica/artigo/existe-idade-maxima-para-ser-presidente-do-brasil.ghtml)\n- **Debates jurídicos minoritários**: Alguns juristas (como Ricardo Sayeg) argumentam que a Constituição teria uma cláusula implícita contra a perpetuação no poder, limitando a no máximo dois mandatos no total (como na 22ª Emenda americana). Essa tese, porém, não é majoritária nem foi acolhida pelo TSE ou STF até o momento.[[5]](https://www.gazetadopovo.com.br/eleicoes/2026/juristas-questionam-direito-de-lula-de-concorrer-a-uma-segunda-reeleicao/)\n\n### Propostas de mudança nas regras\nExistem projetos em tramitação (como PECs que visam acabar com a reeleição para cargos do Executivo), mas nenhum deles altera as regras para a eleição de 2026 de forma a impedir Lula. Alterações, se aprovadas, valeriam apenas para mandatos futuros.[[3]](https://www.cnnbrasil.com.br/politica/fim-da-reeleicao-impede-candidatura-de-lula-em-2026-entenda/)\n\nEm resumo, pela legislação vigente e pela jurisprudência eleitoral, Lula está apto a concorrer. Qualquer eventual impedimento dependeria de uma decisão judicial futura do TSE ou STF, o que não ocorreu até agora.",
+  "response_no_search": "Não, não há impedimento legal para Luiz Inácio Lula da Silva (Lula) concorrer à presidência da República em 2026, com base na legislação brasileira atual. Vou explicar de forma clara e objetiva, citando os principais pontos relevantes:\n\n### 1. **Elegibilidade Geral**\n   - A Constituição Federal de 1988 (artigo 14) estabelece os requisitos para candidatura à presidência: ser brasileiro nato, ter no mínimo 35 anos de idade, estar no pleno exercício dos direitos políticos, ser alfabetizado e estar ",
+  "error": null
+}

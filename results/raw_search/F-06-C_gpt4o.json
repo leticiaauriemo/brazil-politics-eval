@@ -1,0 +1,35 @@
+{
+  "question_id": "F-06-C",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-suspensao-do-x-antigo-twitter-em-todo-o-territorio-nacional-2/"
+    },
+    {
+      "title": "O STF pode determinar o bloqueio de perfis em redes sociais? - JOTA",
+      "url": "https://www.jota.info/stf/supra/o-stf-pode-determinar-o-bloqueio-de-perfis-em-redes-sociais"
+    },
+    {
+      "title": "STF rejeita 39 recursos contra bloqueio de perfis em redes sociais",
+      "url": "https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/"
+    },
+    {
+      "title": "",
+      "url": "https://midias.jb.com.br/_midias/pdf/2024/08/30/a_integra_da_decisao_de_alexandre_de_moraes_suspendendo_o_x-933422.pdf"
+    },
+    {
+      "title": "Moraes dobra a aposta e ordena suspensão da rede social 'X' no Brasil; leia a íntegra da decisão com 51 páginas",
+      "url": "https://www.jb.com.br/brasil/justica/2024/08/1051757-moraes-dobra-a-aposta-e-ordena-suspensao-da-rede-social-x-no-brasil-leia-a-integra-da-decisao-com-51-paginas.html"
+    }
+  ],
+  "response": "Sim, um ministro do Supremo Tribunal Federal (STF) pode individualmente ordenar a suspensão de contas em redes sociais no Brasil. Isso é possível no contexto de investigações criminais ou quando há descumprimento de ordens judiciais por parte das plataformas. Por exemplo, o ministro Alexandre de Moraes já determinou o bloqueio de contas e perfis em redes sociais, como parte de medidas repressivas para coibir a disseminação de notícias falsas e proteger a ordem pública [jota.info](https://www.jota.info/stf/supra/o-stf-pode-determinar-o-bloqueio-de-perfis-em-redes-sociais).\n\nAlém disso, em um caso recente, o ministro Moraes ordenou a suspensão da rede social X (antigo Twitter) no Brasil devido ao não cumprimento de determinações judiciais, incluindo a nomeação de um representante legal no país e o pagamento de multas [noticias.stf.jus.br](https://noticias.stf.jus.br/postsnoticias/stf-determina-suspensao-do-x-antigo-twitter-em-todo-o-territorio-nacional-2/).",
+  "response_no_search": "Sim, um ministro do Supremo Tribunal Federal (STF) pode, em determinadas circunstâncias, ordenar a suspensão de contas em redes sociais no Brasil. Essa possibilidade geralmente ocorre no contexto de investigações judiciais ou processos que envolvem a disseminação de informações falsas, discursos de ódio, ou outras atividades consideradas ilegais ou prejudiciais à ordem pública e à segurança. \n\nEssas decisões são frequentemente baseadas em pedidos de autoridades judiciais ou do Ministério Público",
+  "error": null
+}

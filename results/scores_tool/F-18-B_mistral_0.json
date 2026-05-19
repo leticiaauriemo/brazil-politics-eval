@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Daniel Vorcaro as facing criminal charges in 2026, mentions his arrest in March 2026 as part of Operation Compliance Zero, and lists several key crimes investigated, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly lists some crimes and omits key charges from the Compliance Zero investigation."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 0.5,
+  "agreement": false
+}

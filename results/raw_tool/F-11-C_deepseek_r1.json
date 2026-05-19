@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Key Dilma Rousseff impeachment vote annulled in Brazil | CNN",
+      "url": "https://www.cnn.com/2016/05/09/world/brazil-impeachment-dilma-rousseff/index.html"
+    },
+    {
+      "title": "Brazil Supreme Court scraps President Rousseff impeachment commission - BBC News",
+      "url": "https://www.bbc.com/news/world-latin-america-35129063"
+    },
+    {
+      "title": "Brazil President Dilma Rousseff's impeachment annulled by acting Lower House speaker - ABC News",
+      "url": "http://www.abc.net.au/news/2016-05-10/brazils-lower-house-acting-speaker-annuls-rousseff-impeachment/7399646"
+    },
+    {
+      "title": "Brazil's former President Dilma Rousseff appeals impeachment",
+      "url": "https://www.bbc.com/news/world-latin-america-37251388"
+    },
+    {
+      "title": "STF Bulletin - Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/internacional/content.asp?id=159922&idioma=en_us&ori=3"
+    }
+  ],
+  "response": "I'll search for information on whether Brazilian courts declared the impeachment of Dilma Rousseff unconstitutional. \n\nHere's the search I'll perform: \"Brazilian courts declare Dilma Rousseff impeachment unconstitutional\"\n\nLet me check the latest information on this topic.\nBased on the search results, here's a summary of the constitutional status of Dilma Rousseff's impeachment:\n\n1. **Lower House Vote Annulment (May 2016):**  \n   Acting Speaker Waldir Maranhao attempted to annul the impeachment vote, citing procedural flaws. However, this was immediately challenged and not recognized by the Senate, with legal experts noting it could be overturned by the Supreme Court.\n\n2. **Supreme Court Intervention:**  \n   - In December 2015, the Supreme Court scrapped an impeachment commission, forcing the process to restart.  \n   - During the May 2016 annulment attempt, constitutional lawyers stated the Supreme Court could issue an injunction to suspend it.  \n   - After her August 2016 removal, Rousseff filed an appeal with the Supreme Court arguing procedural flaws, but it was widely seen as having \"very little chance of succeeding.\"\n\n3. **Final Outcome:**  \n   Rousseff was formally impeached and removed from office on August 31, 2016, with Michel Temer sworn in as president. The Senate did not ban her from future office.\n\n**Conclusion:**  \nNo Brazilian court ever declared Rousseff's impeachment **unconstitutional as a whole**. While there were procedural challenges and Supreme Court interventions at specific stages (e.g., annulling a commission), the impeachment process ultimately proceeded to completion. Rousseff's final appeal to the Supreme Court was unsuccessful, and the removal stood as a constitutional process.",
+  "response_no_search": "The impeachment process that led to the removal of President Dilma Rousseff in 2016 **was not declared unconstitutional by the Brazilian courts**, including the Supreme Federal Court (STF). Here's a breakdown of the key points:\n\n### 1. **Impeachment Process Overview**\n   - The impeachment was approved by the Chamber of Deputies and the Senate, following the constitutional procedures outlined in Law No. 1,079/1950 (Crimes of Responsibility) and the 1988 Brazilian Constitution.\n   - The charges ce",
+  "error": null
+}

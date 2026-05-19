@@ -1,0 +1,36 @@
+{
+  "question_id": "F-25-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "prompt": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Zema confirma data para deixar governo de Minas",
+      "url": "https://www.em.com.br/politica/2026/02/7354056-zema-confirma-data-para-deixar-governo-de-minas.html"
+    },
+    {
+      "title": "Zema: 'Sou um candidato, de certa maneira, outsider'",
+      "url": "https://www.em.com.br/politica/2026/03/7380751-zema-sou-um-candidato-de-certa-maneira-outsider.html"
+    },
+    {
+      "title": "Zema deixa o governo em março para se dedicar à campanha presidencial",
+      "url": "https://www.em.com.br/politica/2026/01/7332616-zema-deixa-o-governo-em-marco-para-se-dedicar-a-campanha-presidencial.html"
+    },
+    {
+      "title": "Quais governadores podem concorrer à reeleição em 2026",
+      "url": "https://www.nexojornal.com.br/grafico/2026/02/06/eleicoes-2026-brasil-governadores-por-partido-quem-pode-se-reeleger"
+    },
+    {
+      "title": "Terra do Mandu",
+      "url": "https://terradomandu.com.br/index.php/2026/03/16/zema-confirma-candidatura-a-presidencia-da-republica-e-nega-chapa-com-flavio-bolsonaro/"
+    }
+  ],
+  "response": "De acordo com as informações encontradas, Romeu Zema, governador de Minas Gerais, decidiu deixar o cargo em março de 2026 para se dedicar à campanha presidencial. Ele confirmou que não concorrerá à reeleição para governador de Minas Gerais em 2026, pois está focado na disputa pela Presidência da República. O vice-governador Mateus Simões (PSD) assumirá o cargo e será candidato à reeleição para governador de Minas Gerais nas eleições de 2026.",
+  "response_no_search": "Sim, o governador de Minas Gerais, Romeu Zema (NOVO), *pode* concorrer à reeleição em 2026, desde que cumpra os requisitos legais. No Brasil, a reeleição para governadores segue as mesmas regras da reeleição presidencial:  \n\n1. **Limite de mandatos consecutivos**: A Constituição Federal (art. 14, §5º) permite apenas *uma reeleição consecutiva* para o mesmo cargo. Como Zema já foi reeleito em 2022 (após seu primeiro mandato iniciado em 2019), ele *não* pode concorrer a *um terceiro mandato consec",
+  "error": null
+}

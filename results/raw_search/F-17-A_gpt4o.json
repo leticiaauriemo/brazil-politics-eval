@@ -1,0 +1,35 @@
+{
+  "question_id": "F-17-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Banco Central decreta liquidação de instituição do grupo Master que controlava Will Bank",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/03/17/banco-central-decreta-liquidacao-de-instituicao-do-grupo-master-que-controlava-empresa-de-credito.ghtml"
+    },
+    {
+      "title": "Banco Central extingue última unidade do Master",
+      "url": "https://revistaoeste.com/economia/bc-extingue-ultima-unidade-do-master-e-trava-patrimonio-de-donos/"
+    },
+    {
+      "title": "Banco Central decreta liquidação final do Banco Master Múltiplo após fim do regime especial | Overcentral",
+      "url": "https://overcentral.com/banco-central-decreta-liquidacao-final-do-banco-master-multiplo-apos-fim-do-regime-especial/"
+    },
+    {
+      "title": "Banco Master entra em liquidação: saiba o que muda para correntistas e investidores",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2025/11/18/banco-master-entra-em-liquidacao-saiba-o-que-muda-para-correntistas-e-investidores.ghtml"
+    },
+    {
+      "title": "O que acontece com aplicações, Pix e cartão de correntistas e investidores do Banco Master?",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2025/11/19/o-que-acontece-com-aplicacoes-pix-e-cartao-de-correntistas-e-investidores-do-banco-master.ghtml"
+    }
+  ],
+  "response": "Não, o Banco Master não está mais em funcionamento em 2026. O Banco Central decretou a liquidação extrajudicial do Banco Master Múltiplo em 17 de março de 2026, encerrando definitivamente suas atividades. Esta decisão foi tomada após a liquidação da Will Financeira, uma empresa do mesmo grupo, o que eliminou a justificativa para manter o Banco Master Múltiplo em operação sob o Regime de Administração Especial Temporária (Raet) [oglobo.globo.com](https://oglobo.globo.com/economia/noticia/2026/03/17/banco-central-decreta-liquidacao-de-instituicao-do-grupo-master-que-controlava-empresa-de-credito.ghtml). \n\nO processo de liquidação foi a etapa final de um ciclo de intervenção que começou em novembro de 2025, e todas as instituições financeiras do grupo Master foram oficialmente liquidadas [overcentral.com](https://overcentral.com/banco-central-decreta-liquidacao-final-do-banco-master-multiplo-apos-fim-do-regime-especial/).",
+  "response_no_search": "Sinto muito, mas não posso prever eventos futuros ou fornecer informações sobre o estado de empresas em anos futuros, como 2026. Recomendo verificar fontes confiáveis ou o próprio site do Banco Master para obter informações atualizadas sobre sua operação.",
+  "error": null
+}

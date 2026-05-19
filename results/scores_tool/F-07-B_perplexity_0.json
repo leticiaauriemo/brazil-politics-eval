@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Elon Musk chose to block Brazil, which is a fundamental misunderstanding of the situation."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response mentions one key reason for the suspension but fails to address the refusal to comply with court orders."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

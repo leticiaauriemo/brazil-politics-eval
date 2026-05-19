@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states the conviction is final and the date, but incorrectly states Bolsonaro is serving his sentence in a federal police superintendence, when the ground truth says he is under house arrest."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro's conviction became final on November 25, 2025, and correctly notes that the subsequent criminal review filed in May 2026 does not suspend the execution of the sentence."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro ficará inelegível até quando? Entenda decisões que condenaram ex-presidente - Estadão",
+      "url": "https://www.estadao.com.br/politica/inelegivel-jair-bolsonaro-relembre-decisoes-condenacoes-ex-presidente-nprp/"
+    },
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Bolsonaro está inelegível. Saiba o porquê e até quando | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml"
+    },
+    {
+      "title": "Bolsonaro inelegível: entenda o que acontece com o ex-presidente após a condenação no TSE | G1",
+      "url": "https://g1.globo.com/politica/noticia/2023/06/30/entenda-o-que-pode-acontecer-se-o-tse-considerar-bolsonaro-inelegivel-nesta-sexta.ghtml"
+    },
+    {
+      "title": "Inelegibilidade deixa Bolsonaro fora de três eleições - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2023/06/19/interna_politica,1509378/inelegibilidade-deixa-bolsonaro-fora-de-tres-eleicoes.shtml"
+    }
+  ],
+  "response": "Com base nas informações encontradas, posso esclarecer sobre a inelegibilidade de Bolsonaro:\n\n## Duração da Inelegibilidade\n\n**Bolsonaro está inelegível até 2030** — especificamente até **2 de outubro de 2030**.\n\n### Detalhes da Condenação\n\n- **Data da decisão**: Junho de 2023\n- **Motivo**: Abuso de poder político e uso indevido dos meios de comunicação durante reunião com embaixadores no Palácio da Alvorada em julho de 2022, quando atacou o sistema eleitoral\n- **Placar**: 5 votos a 2 no TSE\n- **Duração**: 8 anos contados a partir de **2 de outubro de 2022** (data do primeiro turno das eleições de 2022)\n\n### Eleições Afetadas\n\nCom essa condenação, Bolsonaro fica impedido de concorrer em:\n- **2024** (eleições municipais)\n- **2026** (eleições gerais)\n- **2028** (eleições municipais)\n\n### Quando Poderá Concorrer Novamente\n\nTeoricamente, Bolsonaro poderá se candidatar em **2030**, pois a inelegibilidade termina em 2 de outubro de 2030, e o primeiro turno das eleições de 2030 está previsto para 6 de outubro — 4 dias depois. Segundo a jurisprudência do TSE, isso seria suficiente para permitir sua candidatura.\n\n### Observação Importante\n\nBolsonaro ainda pode recorrer ao Supremo Tribunal Federal (STF) contra essa decisão, mas até o momento a condenação permanece em vigor.",
+  "response_no_search": "# Inelegibilidade de Bolsonaro\n\nA decisão do TSE (Tribunal Superior Eleitoral) tornou Bolsonaro **inelegível por 8 anos**, contados a partir de **agosto de 2023** (quando a sentença foi proferida).\n\n## Cronograma\n\n- **Início**: agosto de 2023\n- **Término**: agosto de 2031\n\nIsso significa que ele estaria impedido de concorrer nas eleições de 2026 e 2030.\n\n## Importante\n\n- A decisão foi baseada na Lei da Ficha Limpa\n- Bolsonaro recorreu da decisão ao STF (Supremo Tribunal Federal)\n- O processo ain",
+  "error": null
+}

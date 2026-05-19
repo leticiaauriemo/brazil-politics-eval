@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Master",
+      "url": "https://www.bancomaster.com.br/"
+    },
+    {
+      "title": "Com liquidação, entenda como funcionará retirada de dinheiro do Master",
+      "url": "https://www.metropoles.com/brasil/economia-br/com-liquidacao-entenda-como-funcionara-retirada-de-dinheiro-do-master"
+    },
+    {
+      "title": "Caso Banco Master: Entenda o papel de cada instituição | G1",
+      "url": "https://g1.globo.com/politica/noticia/2026/01/03/veja-quem-e-quem-no-caso-do-banco-master-e-o-papel-de-cada-instituicao.ghtml"
+    },
+    {
+      "title": "Liquidação do Banco Master já atinge 8 instituições; saiba quais",
+      "url": "https://economicnewsbrasil.com.br/2026/02/18/liquidacao-do-banco-master-conheca-as-oito-instituicoes-ja-encerradas/"
+    },
+    {
+      "title": "Caso Banco Master: o que aconteceu e o que vai acontecer para quem investiu",
+      "url": "https://www.easyfin.blog/post/caso-banco-master-o-que-aconteceu-e-o-que-vai-acontecer-para-quem-investiu"
+    }
+  ],
+  "response": "Não, o Banco Master não está em funcionamento em 2026. Em novembro de 2025, o Banco Central do Brasil decretou a liquidação extrajudicial da instituição. Isso significa que todas as operações bancárias foram suspensas e o banco está em processo de encerramento de suas atividades para pagar seus credores. O site oficial do banco e notícias de 2026 confirmam que a instituição continua em processo de liquidação.",
+  "response_no_search": "Como uma inteligência artificial, não tenho acesso a informações em tempo real e não posso prever o futuro. Portanto, **não é possível afirmar com 100% de certeza se o Banco Master",
+  "error": null
+}

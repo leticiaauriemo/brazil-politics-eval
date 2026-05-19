@@ -1,0 +1,40 @@
+{
+  "question_id": "F-03-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brazil court bars Bolsonaro from running for office for eight years",
+      "url": "https://www.axios.com/2023/06/30/bolsonaro-barred-running-office-years-brazil?utm_source=openai"
+    },
+    {
+      "title": "Eleições 2026: Só vou declarar apoio nos 48 do segundo tempo, diz Bolsonaro | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/eleicoes-2026-so-vou-declarar-apoio-nos-48-do-segundo-tempo-diz-bolsonaro/?utm_source=openai"
+    },
+    {
+      "title": "Bolsonaro pode se candidatar em 2026 contra Lula? | DCI",
+      "url": "https://www.dci.com.br/politica/bolsonaro-pode-se-candidatar-em-2026-contra-lula/323334/?utm_source=openai"
+    },
+    {
+      "title": "Ministros do TSE descartam Bolsonaro elegível em 2026 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/ministros-do-tse-descartam-bolsonaro-elegivel-em-2026//?utm_source=openai"
+    },
+    {
+      "title": "Bolsonaro defende revogar Ficha Limpa para disputar 2026 - 07/02/2025 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/amp/poder/2025/02/bolsonaro-defende-revogar-lei-da-ficha-limpa-para-disputar-eleicoes-de-2026.shtml?utm_source=openai"
+    },
+    {
+      "title": "Bolsonaro's eldest son says he'll run for Brazil presidency in 2026",
+      "url": "https://apnews.com/article/4e2023374e4f4c186477562d6e6d6bfc?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se Jair Bolsonaro pode se candidatar à presidência nas eleições de 2026. A resposta é clara: **não**, ele está inelegível e não poderá disputar esse pleito. A seguir, explico os principais pontos com base em fontes confiáveis e atualizadas:\n\n1. **Decisão do TSE — Inelegibilidade por oito anos**  \n   Em junho de 2023, o Tribunal Superior Eleitoral (TSE) declarou Bolsonaro inelegível por oito anos, com base na Lei da Ficha Limpa. A decisão se fundamentou no abuso de poder político e uso indevido dos meios de comunicação, após ele atacar o sistema eleitoral brasileiro em reunião com embaixadores em julho de 2022, transmitida pela TV Brasil ([axios.com](https://www.axios.com/2023/06/30/bolsonaro-barred-running-office-years-brazil?utm_source=openai)).  \n   Isso significa que ele está impedido de disputar qualquer cargo eletivo até 2030 ([cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/eleicoes-2026-so-vou-declarar-apoio-nos-48-do-segundo-tempo-diz-bolsonaro/?utm_source=openai)).\n\n2. **Condenação criminal no STF — 27 anos de prisão**  \n   Em setembro de 2025, o Supremo Tribunal Federal (STF) condenou Bolsonaro a 27 anos e três meses de prisão por sua participação em um plano golpista relacionado aos atos de 8 de janeiro de 2023 ([dci.com.br](https://www.dci.com.br/politica/bolsonaro-pode-se-candidatar-em-2026-contra-lula/323334/?utm_source=openai)). Essa condenação reforça sua inelegibilidade e torna praticamente impossível qualquer tentativa de reversão.\n\n3. **Posição do TSE — Sem possibilidade de reversão**  \n   Ministros do TSE afirmaram que não há possibilidade de Bolsonaro reverter sua inelegibilidade, mesmo com eventual anistia ou recurso, especialmente nos dois processos que o tornaram inelegível em 2023 ([cnnbrasil.com.br](https://www.cnnbrasil.com.br/eleicoes/ministros-do-tse-descartam-bolsonaro-elegivel-em-2026//?utm_source=openai)).\n\n4. **Tentativas de mudança legislativa — sem sucesso até o momento**  \n   Bolsonaro chegou a defender a revogação da Lei da Ficha Limpa ou a redução do prazo de inelegibilidade de oito para dois anos, por meio de proposta de deputado bolsonarista. No entanto, essas iniciativas enfrentam forte resistência jurídica e política, e não avançaram até o momento ([www1.folha.uol.com.br](https://www1.folha.uol.com.br/amp/poder/2025/02/bolsonaro-defende-revogar-lei-da-ficha-limpa-para-disputar-eleicoes-de-2026.shtml?utm_source=openai)).\n\n5. **Cenário atual — Flávio Bolsonaro como representante político**  \n   Diante da inelegibilidade do pai, o senador Flávio Bolsonaro (PL) foi indicado como representante do grupo político de Jair Bolsonaro para disputar a presidência em 2026 ([apnews.com](https://apnews.com/article/4e2023374e4f4c186477562d6e6d6bfc?utm_source=openai)). Isso reforça que Jair Bolsonaro não será candidato, mas seu grupo político segue ativo por meio do filho.\n\n---\n\n**Conclusão**  \nJair Bolsonaro **não pode se candidatar** à presidência nas eleições de 2026. Ele está inelegível até 2030 por decisão do TSE, e sua condenação criminal no STF agrava ainda mais sua situação. Mesmo com tentativas de mudança legislativa, não há perspectiva realista de reversão. Em seu lugar, o grupo político que o apoia está representado por Flávio Bolsonaro.\n\nSe quiser, posso explicar mais sobre os processos judiciais, o funcionamento da Lei da Ficha Limpa ou o cenário político para 2026.",
+  "response_no_search": "Atualmente, **Jair Bolsonaro não pode se candidatar à presidência nas eleições de 2026**.\n\n### Motivo:\nEm junho de 2023, o Tribunal Superior Eleitoral (TSE) declarou Bolsonaro **inelegível por 8 anos** (contados a partir das eleições de 2022) por abuso de poder político e uso indevido dos meios de comunicação, devido à reunião com embaixadores em julho de 2022, na qual ele fez ataques ao sistema eleitoral brasileiro.\n\n### O que isso significa?\n- **Bolsonaro está inelegível até 2030**.\n- Ele não ",
+  "error": null
+}

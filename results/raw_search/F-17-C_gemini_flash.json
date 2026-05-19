@@ -1,0 +1,35 @@
+{
+  "question_id": "F-17-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota"
+    },
+    {
+      "title": "Banco Central determina a liquidação extrajudicial do Banco Master",
+      "url": "https://g1.globo.com/economia/noticia/2025/11/18/banco-central-determina-a-liquidacao-extrajudicial-do-banco-master.ghtml"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Master e preserva sistema financeiro nacional | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml"
+    },
+    {
+      "title": "Entenda por que o BC decretou a liquidação do Banco Master | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/entenda-por-que-o-bc-decretou-a-liquidacao-do-banco-master/"
+    }
+  ],
+  "response": "Sim, o Banco Central do Brasil decretou a liquidação extrajudicial do Banco Master S/A, do Banco Master de Investimento S/A, do Banco Letsbank S/A, e da Master S/A Corretora de Câmbio, Títulos e Valores Mobiliários em 18 de novembro de 2025 [g1.globo.com](https://g1.globo.com/economia/noticia/2025/11/18/banco-central-determina-a-liquidacao-extrajudicial-do-banco-master.ghtml), [bcb.gov.br](https://www.bcb.gov.br/detalhenoticia/20936/nota), [bcb.gov.br](https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao).\n\nA decisão foi motivada por uma grave crise de liquidez, forte deterioração financeira e violações às normas do setor bancário [g1.globo.com](https://g1.globo.com/economia/noticia/2025/11/18/banco-central-determina-a-liquidacao-extrajudicial-do-banco-master.ghtml), [cnnbrasil.com.br](https://www.cnnbrasil.com.br/economia/macroeconomia/entenda-por-que-o-bc-decretou-a-liquidacao-do-banco-master/). O Banco Central justificou a medida devido ao comprometimento da situação econômico-financeira da instituição, com deterioração da liquidez, e por infringência às normas que disciplinam a atividade bancária e inobservância das determinações do Banco Central [g1.globo.com](https://g1.globo.com/economia/noticia/2025/11/18/banco-central-determina-a-liquidacao-extrajudicial-do-banco-master.ghtml).\n\nA liquidação extrajudicial significa que o Banco Central encerra as atividades de um banco que não tem mais condições de operar. Um liquidante assume o controle, fecha as operações, vende os bens e paga os credores na ordem prevista em lei, até extinguir a instituição [g1.globo.com](https://g1.globo.com/economia/noticia/2025/11/18/banco-central-determina-a-liquidacao-extrajudicial-do-banco-master.ghtml). No caso do Banco Master, as autoridades avaliaram que não havia mais espaço para negociação ou recuperação da instituição, dada a \"gravidade\" da situação identificada, que incluía uma fraude de R$ 12 bilhões e a criação de carteiras de crédito e fundos falsos [cnnbrasil.com.br](https://www.cnnbrasil.com.br/economia/macroeconomia/entenda-por-que-o-bc-decretou-a-liquidacao-do-banco-master/).",
+  "response_no_search": "Não, o Banco Central **não decretou a liquidação do Banco Master**.\n\nO que aconteceu foi que o Banco Master **adquiriu o Banco Woori Bank do Brasil S.A.** em 2023. Essa aquisição foi aprovada pelo Banco Central.\n\nÉ importante não confundir aquisição com liquidação. A liquidação é o encerramento das atividades de uma instituição financeira, geralmente por problemas financeiros graves. A aquisição, por outro lado, é quando uma empresa compra outra.\n\nPortanto, o Banco Master continua operando norma",
+  "error": null
+}

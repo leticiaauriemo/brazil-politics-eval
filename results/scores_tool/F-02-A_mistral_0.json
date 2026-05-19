@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Bolsonaro's conviction, the specific crimes, the 27-year sentence, and the initial closed regime, aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the conviction, specifies the sentence of 27 years and 3 months, and implies the finality of the conviction."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da CSP — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/02/19/flavio-bolsonaro-e-eleito-presidente-da-csp"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da Comissão de Segurança Pública do Senado",
+      "url": "https://www.correiobraziliense.com.br/politica/2025/02/7065041-flavio-bolsonaro-e-eleito-presidente-da-comissao-de-seguranca-publica-do-senado.html"
+    },
+    {
+      "title": "De início aos 21 anos ao Senado: a trajetória política de Flávio Bolsonaro | Exame",
+      "url": "https://exame.com/brasil/de-inicio-aos-21-anos-ao-senado-a-trajetoria-politica-de-flavio-bolsonaro-ate-o-anuncio-de-2026/"
+    }
+  ],
+  "response": "Flávio Bolsonaro atualmente ocupa o cargo de **Senador da República pelo estado do Rio de Janeiro**. Ele foi eleito em 2018 e seu mandato está previsto para terminar em 2027. Além disso, ele é presidente da **Comissão de Segurança Pública (CSP)** do Senado Federal e titular de outras comissões, como a de Desenvolvimento Regional e Turismo (CDR) e a de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor (CTFC).",
+  "response_no_search": "Até outubro de 2023, Flávio Bolsonaro ocupa o cargo de senador pelo estado do Rio de Janeiro. Ele foi eleito para o Senado Federal em 2018, assumindo o mandato em fevereiro de 2019. Flávio é filho do ex-presidente do Brasil, Jair Bolsonaro, e tem sido uma figura proeminente na política brasileira, especialmente alinhado com as posições conservadoras e de direita. Para informações atualizadas, recomenda-se verificar fontes recentes, pois cargos políticos podem mudar ao longo do tempo.",
+  "error": null
+}

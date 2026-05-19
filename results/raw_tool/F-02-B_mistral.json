@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Leia as penas e multas impostas a Bolsonaro e aos outros réus",
+      "url": "https://www.poder360.com.br/poder-justica/leia-as-penas-e-multas-impostas-a-bolsonaro-e-aos-outros-reus/"
+    },
+    {
+      "title": "Veja de quanto foi pena imposta pelo STF a Bolsonaro e demais réus pela tentativa de golpe | Diario de Pernambuco - Rumo aos 200 anos",
+      "url": "https://www.diariodepernambuco.com.br/politica/2025/09/11695623-veja-de-quanto-foi-pena-imposta-pelo-stf-a-bolsonaro-e-demais-reus-pela-tentativa-de-golpe.html"
+    },
+    {
+      "title": "STF impõe pena de 27 anos e 3 meses de prisão a Bolsonaro",
+      "url": "https://www.jb.com.br/brasil/justica/2025/09/1056869-stf-impoe-pena-de-27-anos-e-3-meses-de-prisao-a-bolsonaro.html"
+    },
+    {
+      "title": "Bolsonaro condenado a regime fechado pelo STF: o que acontece agora? - BBC News Brasil",
+      "url": "https://www.bbc.co.uk/portuguese/articles/cy859egpl6jo"
+    },
+    {
+      "title": "STF publica acórdão do julgamento que condenou Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-justica/stf-publica-acordao-do-julgamento-de-bolsonaro/"
+    }
+  ],
+  "response": "Em 2025, o ex-presidente Jair Bolsonaro foi condenado pelo STF (Supremo Tribunal Federal) a uma pena de 27 anos e 3 meses de prisão em regime inicial fechado. Além disso, ele terá que pagar 124 dias-multa, com cada dia-multa equivalente a dois salários mínimos na época dos fatos, totalizando aproximadamente R$ 365,3 mil .",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, não tenho informações sobre qualquer pena imposta ao ex-presidente Jair Bolsonaro pelo Supremo Tribunal Federal (STF) em 2025. Para obter informações atualizadas sobre essa questão, recomendo consultar fontes de notícias confiáveis ou documentos oficiais do STF.",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro diz que vai manter candidatura para 2026 'até o último segundo' | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/14/bolsonaro-diz-que-vai-manter-candidatura-para-2026-ate-o-ultimo-segundo.ghtml"
+    },
+    {
+      "title": "Folha do Estado | Bolsonaro desafia TSE e diz que será candidato em 2026",
+      "url": "https://www.folhadoestado.com.br/politica-nacional/bolsonaro-desafia-tse-e-diz-que-sera-candidato-em-2026/620972"
+    },
+    {
+      "title": "Jair Bolsonaro reafirma candidatura em 2026 e diz que vai “até o último segundo” - GP1",
+      "url": "https://www.gp1.com.br/brasil/noticia/2025/5/14/jair-bolsonaro-reafirma-candidatura-em-2026-e-diz-que-vai-ate-o-ultimo-segundo-594216.html"
+    },
+    {
+      "title": "Bolsonaro afirma que disputará presidência em 2026, e Tarcísio tentará reeleição – SBC do Brasil",
+      "url": "https://sbcbrasil.com.br/poder/politica/bolsonaro-afirma-que-disputara-presidencia-em-2026-e-tarcisio-tentara-reeleicao/185307"
+    },
+    {
+      "title": "Folha do Estado | Bolsonaro confirma candidatura em 2026 e desconsidera concorrentes da direita",
+      "url": "https://www.folhadoestado.com.br/politica-nacional/bolsonaro-confirma-candidatura-em-2026-e-desconsidera-concorrentes-da-direita/611798"
+    }
+  ],
+  "response": "Atualmente, Jair Bolsonaro está inelegível para concorrer a cargos públicos até 2030, devido a decisões do Tribunal Superior Eleitoral (TSE). Ele foi condenado por abuso de poder político e econômico, relacionado a ataques ao sistema eleitoral brasileiro. Apesar disso, Bolsonaro tem afirmado publicamente que pretende manter sua candidatura à presidência em 2026 \"até o último segundo\", na esperança de reverter sua inelegibilidade na Justiça Eleitoral. Ele também tem mencionado a possibilidade de seguir uma estratégia semelhante à de Lula em 2018, quando este manteve sua candidatura até ser impedido pelo TSE. Portanto, a possibilidade de Bolsonaro se candidatar em 2026 depende de uma reversão de sua inelegibilidade atual.",
+  "response_no_search": "Sim, Jair Bolsonaro pode se candidatar à presidência nas eleições de 2026, desde que não haja nenhuma inelegibilidade ou impedimento legal que o impeça até lá. Em junho de 2023, o Tribunal Superior Eleitoral (TSE) do Brasil declarou Bolsonaro inelegível por oito anos devido a abuso de poder político e uso indevido dos meios de comunicação durante as eleições de 2022. Essa decisão, se mantida, o impediria de concorrer em 2026. No entanto, ele ainda pode recorrer dessa decisão em instâncias superi",
+  "error": null
+}

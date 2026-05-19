@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério Público anuncia que força-tarefa da Lava Jato de Curitiba está dissolvida - Tribuna do Norte",
+      "url": "https://tribunadonorte.com.br/politica/ministerio-publico-anuncia-que-forca-tarefa-da-lava-jato-de-curitiba-esta-dissolvida/"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná é extinta após quase 6 anos",
+      "url": "https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html"
+    },
+    {
+      "title": "Fim da Lava Jato: o caminho que levou ao encerramento da força-tarefa",
+      "url": "https://www.gazetadopovo.com.br/republica/lava-jato-fim-forca-tarefa/"
+    },
+    {
+      "title": "MPF anuncia fim da for�a-tarefa da Opera��o Lava-Jato em Curitiba - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2021/02/03/interna_politica,1234786/mpf-anuncia-fim-da-forca-tarefa-da-operacao-lava-jato-em-curitiba.shtml"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato de Curitiba é dissolvida",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/for%C3%A7a-tarefa-da-lava-jato-de-curitiba-%C3%A9-dissolvida-1.565612"
+    }
+  ],
+  "response": "O encerramento da força-tarefa da Lava Jato em 2021 foi ordenado pela Procuradoria-Geral da República (PGR), sob a liderança do procurador-geral Augusto Aras. A decisão foi formalizada por meio de uma portaria assinada em dezembro de 2020, que estabeleceu a dissolução da força-tarefa a partir de 1º de fevereiro de 2021. Aras, que é crítico da Lava Jato, propôs uma \"correção de rumos\" nas investigações, mudando o modelo de atuação do Ministério Público. \n\nA força-tarefa foi desmobilizada, mas as investigações continuaram sob o Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), com alguns procuradores transferidos para essa nova estrutura.",
+  "response_no_search": "O encerramento da força-tarefa da Lava Jato em 2021 foi ordenado pelo então procurador-geral da República, Augusto Aras. Ele decidiu descontinuar a atuação da força-tarefa, que havia sido criada em 2014 para investigar casos de corrupção relacionados à Petrobras e outras entidades. A decisão gerou controvérsias e debates sobre a continuidade das investigações de corrupção no Brasil.",
+  "error": null
+}

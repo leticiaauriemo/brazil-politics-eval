@@ -1,0 +1,35 @@
+{
+  "question_id": "F-12-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Ataques de 8 de janeiro: as perguntas ainda sem respostas um ano depois - Data saving version: BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c06y1vekdgeo.lite"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 ...",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Leia a cronologia dos desdobramentos do 8 de Janeiro",
+      "url": "https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/"
+    },
+    {
+      "title": "Documentário BBC | 8 de Janeiro: o dia que abalou o Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cgjw58lzd8wo"
+    },
+    {
+      "title": "Três anos do 8 de janeiro: relembre a tentativa de golpe e saiba quem já foi condenado",
+      "url": "https://ndmais.com.br/politica/8-de-janeiro-relembre-a-tentativa-de-golpe/"
+    }
+  ],
+  "response": "Em 8 de janeiro de 2023, uma semana após a posse do presidente Luiz Inácio Lula da Silva, milhares de apoiadores radicais do ex-presidente Jair Bolsonaro invadiram e depredaram as sedes dos Três Poderes em Brasília: o Congresso Nacional, o Palácio do Planalto e o Supremo Tribunal Federal (STF) [bbc.com](https://www.bbc.com/portuguese/articles/c06y1vekdgeo.lite), [ufsm.br](https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023), [poder360.com.br](https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/), [bbc.com](https://www.bbc.com/portuguese/articles/cgjw58lzd8wo), [ndmais.com.br](https://ndmais.com.br/politica/8-de-janeiro-relembre-a-tentativa-de-golpe/).\n\nOs manifestantes, insatisfeitos com o resultado das eleições e guiados por notícias falsas e teorias da conspiração, acreditavam que as Forças Armadas derrubariam o governo recém-empossado [bbc.com](https://www.bbc.com/portuguese/articles/cgjw58lzd8wo), [ndmais.com.br](https://ndmais.com.br/politica/8-de-janeiro-relembre-a-tentativa-de-golpe/). Eles marcharam do Quartel-General do Exército em direção à Praça dos Três Poderes, romperam as barreiras de segurança e ocuparam os prédios públicos [ndmais.com.br](https://ndmais.com.br/politica/8-de-janeiro-relembre-a-tentativa-de-golpe/).\n\nDurante a invasão, obras de arte, vidros, computadores, móveis, documentos e outros objetos foram depredados ou roubados, resultando em um prejuízo estimado em mais de R$ 20 milhões [ufsm.br](https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023).\n\nA resposta das instituições foi imediata. O presidente Lula decretou intervenção federal na área de segurança do Distrito Federal [ufsm.br](https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023), [poder360.com.br](https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/). O governador do Distrito Federal, Ibaneis Rocha, demitiu o então secretário de Segurança Pública, Anderson Torres, que posteriormente teve sua prisão decretada pelo ministro Alexandre de Moraes por suposta omissão [ufsm.br](https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023), [poder360.com.br](https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/).\n\nAs forças de segurança, incluindo tropas de cavalaria, Polícia Federal e Militar, atuaram para desocupar os prédios, o que ocorreu horas após o início dos ataques [ufsm.br](https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023), [ndmais.com.br](https://ndmais.com.br/politica/8-de",
+  "response_no_search": "No dia 8 de janeiro de 2023, ocorreu uma série de ataques coordenados às sedes dos Três Poderes da República em Brasília: o Palácio do Planalto (sede do Poder Executivo), o Congresso Nacional (sede do Poder Legislativo) e o Supremo Tribunal Federal (sede do Poder Judiciário).\n\nMilhares de manifestantes, muitos deles apoiadores do ex-presidente Jair Bolsonaro, invadiram e depredaram os edifícios públicos, causando danos significativos ao patrimônio histórico e cultural do país. Os invasores expre",
+  "error": null
+}

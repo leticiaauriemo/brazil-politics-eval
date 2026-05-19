@@ -1,0 +1,35 @@
+{
+  "question_id": "F-16-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Câmara aprova MP que recriou o programa Bolsa Família - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/967421-camara-aprova-mp-que-recriou-o-programa-bolsa-familia/"
+    },
+    {
+      "title": "Lula confirma Bolsa Família com valor MAIOR em Março",
+      "url": "https://www.acheconcursos.com.br/beneficios-sociais/lula-confirma-bolsa-familia-com-valor-maior-em-marco-58980"
+    },
+    {
+      "title": "Bolsonaro anuncia aumento do Auxílio Brasil para R$ 600 - Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/politica/2024/03/18/bolsonaro-anuncia-aumento-do-auxilio-brasil-para-r-600"
+    },
+    {
+      "title": "Bolsa Família de junho começa a ser pago com adicional de R$ 50 e maior valor médio da história",
+      "url": "https://www.jb.com.br/brasil/direitos-humanos/2023/06/1044414-bolsa-familia-de-junho-comeca-a-ser-pago-com-adicional-de-rs-50-e-maior-valor-medio-da-historia.html"
+    },
+    {
+      "title": "Desvende tudo sobre o Bolsa Família: Novos Valores e Condições! - Jornal Dia",
+      "url": "https://jornaldia.com.br/desvende-tudo-sobre-o-bolsa-familia-novos-valores-e-condicoes/"
+    }
+  ],
+  "response": "O valor do Bolsa Família foi aumentado para R$600 em diferentes momentos e por diferentes governos.\n\nInicialmente, o **Auxílio Brasil**, programa que substituiu o Bolsa Família no governo anterior, teve seu valor aumentado para R$600 pelo então presidente Jair Bolsonaro em junho de 2022 [itatiaia.com](https://www.itatiaia.com.br/politica/2024/03/18/bolsonaro-anuncia-aumento-do-auxilio-brasil-para-r-600).\n\nPosteriormente, o programa voltou a se chamar **Bolsa Família** no início de 2023, sob o governo do presidente Luiz Inácio Lula da Silva. O valor mínimo de R$600 foi garantido e, além disso, foram implementados adicionais:\n*   R$150 por criança de até seis anos, a partir de março de 2023 [acheconcursos.com.br](https://www.acheconcursos.com.br/beneficios-sociais/lula-confirma-bolsa-familia-com-valor-maior-em-marco-58980).\n*   R$50 para famílias com crianças de 7 a 11 anos, adolescentes de 12 a 18 anos, gestantes e lactantes, a partir de junho de 2023 [jb.com.br](https://www.jb.com.br/brasil/direitos-humanos/2023/06/1044414-bolsa-familia-de-junho-comeca-a-ser-pago-com-adicional-de-rs-50-e-maior-valor-medio-da-historia.html).\n\nA Medida Provisória 1164/23, que recriou o Bolsa Família e extinguiu o Auxílio Brasil, garantiu o valor mínimo de R$600 por família, além do adicional de R$150 por criança de zero a seis anos [camara.leg.br](https://www.camara.leg.br/noticias/967421-camara-aprova-mp-que-recriou-o-programa-bolsa-familia/).",
+  "response_no_search": "O valor do Bolsa Família foi aumentado para R$600 pelo governo do presidente **Luiz Inácio Lula da Silva**, em 2023.\n\nÉ importante notar que, antes disso, o governo de Jair Bolsonaro havia implementado o Auxílio Brasil, que também pagava R$600 em seus últimos meses de existência. No entanto, o programa Bolsa Família, com seu nome original e suas características reformuladas, foi relançado e teve seu valor mínimo fixado em R$600 pelo governo Lula.",
+  "error": null
+}

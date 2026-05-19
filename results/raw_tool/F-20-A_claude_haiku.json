@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA"
+    },
+    {
+      "title": "Brasil é o 6° país do mundo que mais vacinou a população contra a Covid-19 — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/marco/brasil-e-o-6deg-pais-do-mundo-que-mais-vacinou-a-populacao-contra-a-covid-19"
+    },
+    {
+      "title": "VACCINOMETER WORLD - Painel COVID-19 -> Estatisticas do Coronavirus - Coronavirus Statistics",
+      "url": "https://www.giscard.com.br/coronavirus/vaccination-doses-covid19-world.php"
+    },
+    {
+      "title": "Covid-19: Brasil sobe para 10º lugar no ranking do número absoluto de vacinas aplicadas - Wikinotícias",
+      "url": "http://pt.wikinews.org/wiki/Covid-19:_Brasil_sobe_para_10%C2%BA_lugar_no_ranking_do_n%C3%BAmero_absoluto_de_vacinas_aplicadas"
+    },
+    {
+      "title": "Vacinometro COVID-19 - Ministério da Saúde",
+      "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_Vacina_C19/SEIDIGI_DEMAS_Vacina_C19.html"
+    }
+  ],
+  "response": "Sim, **o Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo**.\n\nDe acordo com os dados encontrados:\n\n1. **Em março de 2021** (início da campanha), o Brasil já era o **6º país do mundo** em número absoluto de doses aplicadas, com 8,8 milhões de doses, à frente de países como Alemanha, França e Itália.\n\n2. **Dados mais recentes** (janeiro de 2024) mostram que o Brasil aplicou **353,2 milhões de doses** e ocupava o **1º lugar** em número absoluto de doses aplicadas, de acordo com o painel Vaccinometer World.\n\nPortanto, o Brasil não apenas estava entre os países com maior número de doses aplicadas, como chegou a ocupar a **primeira posição** em números absolutos durante a campanha de vacinação contra COVID-19. Isso se deve tanto à sua grande população (mais de 200 milhões de habitantes) quanto à eficiência do Programa Nacional de Imunizações (PNI), que é reconhecido internacionalmente.",
+  "response_no_search": "# Brasil e Vacinação COVID-19\n\nSim, o Brasil estava entre os países com maior número total de doses aplicadas. \n\n**Contexto:**\n- O Brasil tem uma população de ~215 milhões de pessoas\n- Implementou uma campanha de vacinação em massa a partir de janeiro de 2021\n- Aplicou centenas de milhões de doses ao longo da pandemia\n\n**Em números absolutos**, o Brasil ficava entre os top 3-5 países em total de doses aplicadas, junto com:\n- China\n- Índia\n- Estados Unidos\n- Indonésia\n\n**Importante notar:**\n- Ess",
+  "error": null
+}

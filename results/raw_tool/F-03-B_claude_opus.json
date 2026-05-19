@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Inelegibilidade de Jair Bolsonaro – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Inelegibilidade_de_Jair_Bolsonaro"
+    },
+    {
+      "title": "Moraes comunica TSE sobre inelegibilidade de Bolsonaro até 2060",
+      "url": "https://www.gazetadopovo.com.br/republica/moraes-comunica-tse-sobre-inelegibilidade-de-bolsonaro-ate-2060-entenda/"
+    },
+    {
+      "title": "Moraes manda comunicar TSE sobre inelegibilidade de Bolsonaro | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/moraes-manda-comunicar-tse-sobre-inelegibilidade-de-bolsonaro"
+    },
+    {
+      "title": "Bolsonaro fica inelegível até 2060; TSE será comunicado de decisão | Radioagência Nacional",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2025-11/inelegibilidade-de-bolsonaro-sera-comunicada-ao-tse-determina-moraes"
+    }
+  ],
+  "response": "# A inelegibilidade de Bolsonaro: dura até **2060**\n\nA situação envolve, na verdade, **duas decisões distintas** que se somam:\n\n## 1ª condenação — Inelegibilidade até 2030 (TSE)\n\nPor maioria de votos (5 a 2), o Plenário do Tribunal Superior Eleitoral (TSE) declarou a inelegibilidade do ex-presidente Jair Bolsonaro por oito anos, contados a partir das Eleições 2022, ao reconhecer a prática de abuso de poder político e uso indevido dos meios de comunicação durante reunião realizada no Palácio da Alvorada com embaixadores estrangeiros no dia 18 de julho de 2022.\n\nEm 31 de outubro de 2023, o ex-candidato a vice-presidente Walter Braga Netto também tornou-se inelegível, por abuso de poder político e econômico nas comemorações do Bicentenário da Independência — caso em que Bolsonaro também foi declarado inelegível pela segunda vez.\n\nComo o prazo de 8 anos é contado a partir das eleições de 2022, ele só voltaria a poder concorrer em **2030**.\n\n## 2ª condenação — Inelegibilidade estendida até 2060 (STF, trama golpista)\n\nA situação mudou drasticamente em novembro de 2025. O ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes informou ao Tribunal Superior Eleitoral (TSE), em 25 de novembro, que o ex-presidente Jair Bolsonaro está inelegível pelos próximos 35 anos, após ser condenado a 27 anos e três meses de prisão pelos crimes de tentativa de abolição violenta do Estado Democrático de Direito, tentativa de golpe de Estado, participação em organização criminosa armada, dano qualificado por violência e grave ameaça e deterioração de patrimônio tombado.\n\nA chave para entender o prazo está na **Lei da Ficha Limpa**: de acordo com a atual redação da norma, quem é condenado por decisão judicial colegiada fica impedido de disputar as eleições pelo prazo de oito anos após o cumprimento da pena. Ou seja, os 8 anos só começam a contar **depois** que ele terminar de cumprir a pena de prisão de mais de 27 anos.\n\n## Resumo: até quando dura?\n\n- **Até 2030**: pela condenação original do TSE (reunião com embaixadores).\n- **Até 2060**: somando-se a pena de prisão + os 8 anos da Ficha Limpa após o cumprimento da pena.\n\nDessa forma, o ex-presidente está inelegível até ",
+  "response_no_search": "Jair Bolsonaro foi declarado inelegível pelo TSE em **30 de junho de 2023**, no julgamento da ação sobre a reunião com embaixadores em que atacou o sistema eleitoral.\n\nA inelegibilidade tem duração de **8 anos**, contados a partir das **eleições de 2022** (ano do pleito em que ocorreram as condutas julgadas).\n\nPortanto, ele fica inelegível **até 2030**, podendo voltar a disputar eleições somente em **2031**.\n\nVale destacar alguns pontos:\n\n- Em **outubro de 2023**, o TSE o condenou a uma **segund",
+  "error": null
+}

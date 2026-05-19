@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro ou Lula: em qual governo a taxa de desmatamento na Amazônia foi maior? - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-63290268"
+    },
+    {
+      "title": "Desmatamento na Amazônia tem a pior marca desde 2016 - 09/12/2022 - Ambiente - Folha",
+      "url": "https://www1.folha.uol.com.br/ambiente/2022/12/desmatamento-no-ultimo-ano-de-bolsonaro-ja-atinge-a-pior-marca-desde-2016.shtml"
+    },
+    {
+      "title": "Os dois piores anos do desmatamento na Amazônia foram no governo Bolsonaro, mostra série histórica do Deter - Jornal O Globo",
+      "url": "https://oglobo.globo.com/sociedade/um-so-planeta/desmatamento-na-amazonia-em-um-ano-o-segundo-pior-da-serie-historica-indicam-dados-do-inpe-25143499"
+    },
+    {
+      "title": "Amazônia perdeu 31 mil km² sob Bolsonaro, aponta Inpe",
+      "url": "https://www.dw.com/pt-br/amaz%C3%B4nia-perdeu-31-mil-km-sob-bolsonaro-aponta-inpe/a-62794898"
+    },
+    {
+      "title": "Bolsonaro deixa presidência com recorde histórico de desmatamento em Áreas Protegidas | Instituto Socioambiental",
+      "url": "https://www.socioambiental.org/noticias-socioambientais/bolsonaro-deixa-presidencia-com-recorde-historico-de-desmatamento-em-areas"
+    }
+  ],
+  "response": "O governo de Jair Bolsonaro registrou o maior desmatamento da Amazônia no século 21. Os dados do Deter (Sistema de Detecção do Desmatamento em Tempo Real) do Inpe (Instituto Nacional de Pesquisas Espaciais) mostram que os anos sob Bolsonaro dominam o ranking de derrubada de floresta.\n\nEm números absolutos, o desmatamento acumulado na Amazônia sob o governo Bolsonaro, de janeiro de 2019 a julho de 2022, atingiu 31 mil km², o que equivale ao território da Bélgica. Além disso, os anos de 2019, 2020 e 2021 registraram taxas de desmatamento em ascensão, com 10,1 mil km², 10,8 mil km² e 13 mil km² desmatados, respectivamente. Em 2022, o último ano do governo Bolsonaro, o desmatamento já atingiu a pior marca desde 2016, com mais de 10 mil km² de floresta derrubada.\n\nÉ importante notar que, embora o governo Lula tenha tido um período inicial com altos índices de desmatamento (25,3 mil km² em 2003 e 27,7 mil km² em 2004), houve uma queda significativa a partir de 2005, com a taxa de desmatamento caindo 67% ao longo dos dois mandatos. Os números continuaram em descenso durante o governo de Dilma Rousseff, atingindo o menor desmatamento na Amazônia em 2012, com 4,5 mil km² devastados.\n\nNo entanto, a partir de então, a área destruída só se ampliou, com uma nova aceleração do desmatamento entre os governos de Michel Temer e de Bolsonaro. Entre 2016 e 2021, a área destruída a cada ano quase dobrou.\n\nEm resumo, os dados indicam que o governo Bolsonaro foi o que teve o maior desmatamento da Amazônia no século 21, com um aumento de 94% no desmatamento em Áreas Protegidas em comparação com os anos anteriores da gestão.",
+  "response_no_search": "O governo que teve o maior desmatamento da Amazônia no século 21 foi o de **Jair Bolsonaro**.\n\nDurante seu mandato (2019-2022), a taxa de desmatamento na Amazônia brasileira atingiu níveis recordes, revertendo uma tendência de queda que vinha desde meados dos anos 2000.\n\n**Dados e Contexto:**\n\n*   **Pico:** O ano de 2021, sob o governo Bolsonaro, registrou o maior desmatamento anual em 15 anos, com 13.038 km² de floresta destruída, segundo dados do PRODES (Projeto de Monitoramento do Desmatament",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly explains that a single justice can issue such orders, provides specific examples involving Moraes, details the legal context including the controversial nature of these individual decisions, and mentions the real-world effects like platform blocking and fines."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Moraes issued monocratic orders, acknowledges the legal controversy surrounding this practice, and details the real effects of these actions."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

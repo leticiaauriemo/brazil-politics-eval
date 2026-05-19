@@ -1,0 +1,36 @@
+{
+  "question_id": "F-08-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "prompt": "Tarcísio de Freitas vai concorrer à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Tarcísio responde se será candidato a presidente em 2026; confira",
+      "url": "https://www.em.com.br/politica/2025/02/7064208-tarcisio-responde-se-sera-candidato-a-presidente-em-2026-confira.html"
+    },
+    {
+      "title": "Tarcísio vai de favorito do Centrão a plano B para o Planalto",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto.ghtml"
+    },
+    {
+      "title": "Partido de Tarcísio, Republicanos aposta em governador para o Planalto mesmo com pressão de Bolsonaro",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/05/19/partido-de-tarcisio-republicanos-aposta-em-governador-para-o-planalto-mesmo-com-pressao-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "O que Tarcísio disse a Bolsonaro sobre se candidatar à Presidência",
+      "url": "https://www.metropoles.com/sao-paulo/o-que-tarcisio-disse-a-bolsonaro-sobre-se-candidatar-a-presidencia"
+    },
+    {
+      "title": "Tarcísio descarta disputar a Presidência em 2026 - Estadão",
+      "url": "https://www.estadao.com.br/politica/tarcisio-candidatura-planalto-sabe-quanto-tempo-perco-pensando-nisso-zero-nprp/"
+    }
+  ],
+  "response": "Tarcísio de Freitas, o governador de São Paulo, afirmou recentemente que não será candidato à presidência nas eleições de 2026. Em declarações à imprensa, ele enfatizou que está focado em sua gestão no estado e que não tem interesse em concorrer à presidência. Tarcísio mencionou que sua prioridade é entregar um bom trabalho em São Paulo e ajudar quem for candidato no campo da direita.\n\nApesar de sua posição atual, há especulações sobre a possibilidade de ele aceitar uma candidatura se for solicitado por Jair Bolsonaro, seu padrinho político. No entanto, até o momento, ele reafirma que sua intenção é buscar a reeleição em São Paulo, considerando que suas chances de vitória seriam maiores nesse cenário.\n\nPara mais detalhes, você pode ler a matéria completa [aqui](https://www.em.com.br/politica/2025/02/7064208-tarcisio-responde-se-sera-candidato-a-presidente-em-2026-confira.html).",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, Tarcísio de Freitas, governador de São Paulo, não havia anunciado oficialmente sua candidatura à presidência nas eleições de 2026. No entanto, ele é uma figura proeminente na política e poderia ser considerado um potencial candidato. Para informações mais atualizadas, recomendo verificar as notícias mais recentes ou fontes oficiais.",
+  "error": null
+}

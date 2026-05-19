@@ -1,0 +1,25 @@
+{
+  "question_id": "F-12-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Bolsonaro was in the US (Florida) on January 8, 2023, and provides accurate context about his departure and return, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro was in Orlando, Florida on January 8, 2023, and provides specific context about his departure and activities."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

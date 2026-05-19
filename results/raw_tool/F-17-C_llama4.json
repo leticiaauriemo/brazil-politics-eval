@@ -1,0 +1,15 @@
+{
+  "question_id": "F-17-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sim, o Banco Central do Brasil (BCB) decretou a liquidação extrajudicial do Banco Master S.A. em 11 de novembro de 2023. A decisão foi tomada devido à situação patrimonial e financeira do banco, que apresentava dificuldades graves e irreversíveis. A liquidação extrajudicial é um processo que visa proteger os interesses dos depositantes e credores, e é conduzido pelo Banco Central. Durante esse processo, o Banco Central assume o controle da instituição financeira e toma medidas para apurar os ati",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

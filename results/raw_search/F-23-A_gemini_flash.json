@@ -1,0 +1,35 @@
+{
+  "question_id": "F-23-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "prompt": "Lula pode se candidatar à reeleição nas eleições de 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Lula pode se reeleger em 2026? Veja o que a lei diz - DCI",
+      "url": "https://www.dci.com.br/politica/lula-podera-se-reeleger-em-2026/283405/"
+    },
+    {
+      "title": "Fim da reeleição: Lula pode ser candidato em 2026? | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml"
+    },
+    {
+      "title": "Fim da reeleição afeta Lula? Saiba quando regra começa a valer | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/05/21/fim-da-reeleicao-afeta-lula-saiba-quando-regra-comeca-a-valer-se-for-aprovada-pela-camara.ghtml"
+    },
+    {
+      "title": "'Não decidi se vou ser candidato ainda', diz Lula | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/08/nao-decidi-se-vou-ser-candidato-ainda-diz-lula.ghtml"
+    },
+    {
+      "title": "Lula pode disputar 2026? Veja o que diz a Constituição",
+      "url": "https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/"
+    }
+  ],
+  "response": "Sim, Luiz Inácio Lula da Silva pode se candidatar à reeleição nas eleições de 2026 [dci.com.br, ndmais.com.br]. A Constituição Federal brasileira permite que o Presidente da República se candidate à reeleição para um único período subsequente [dci.com.br, ndmais.com.br].\n\nComo Lula iniciou um novo mandato em 2023, ele é considerado em seu primeiro mandato neste ciclo, o que o torna elegível para disputar a reeleição em 2026 [ndmais.com.br]. Caso seja reeleito, ele não poderia disputar um terceiro mandato consecutivo em 2030, mas poderia concorrer novamente após um intervalo fora da Presidência [ndmais.com.br].\n\nÉ importante notar que uma Proposta de Emenda Constitucional (PEC) que visa acabar com a reeleição para cargos do Executivo foi aprovada em comissão no Senado. No entanto, mesmo que essa PEC seja aprovada e se torne lei, ela não afetaria a eleição de 2026, permitindo que Lula se candidate [valor.globo.com, g1.globo.com]. A proibição da reeleição para presidente, governadores e prefeitos, conforme o texto atual da PEC, só começaria a valer a partir de 2034 [valor.globo.com, g1.globo.com].\n\nApesar da possibilidade legal, Lula afirmou em abril de 2026 que ainda não decidiu se será candidato à reeleição, embora tenha sugerido que \"dificilmente\" deixará de disputar a Presidência, citando sua experiência política [valor.globo.com].",
+  "response_no_search": "Sim, **Lula pode se candidatar à reeleição nas eleições de 2026**.\n\nA Constituição Federal brasileira permite uma reeleição para o cargo de Presidente da República. Como Lula está atualmente em seu primeiro mandato consecutivo (2023-2026), ele tem o direito de tentar um segundo mandato consecutivo.\n\nNão há impedimentos legais para que ele se candidate novamente em 2026.",
+  "error": null
+}

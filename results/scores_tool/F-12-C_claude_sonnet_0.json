@@ -1,0 +1,25 @@
+{
+  "question_id": "F-12-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Bolsonaro was in the US (Florida is implied by context) and provides accurate details about when he left Brazil and the context of his absence during the January 8 events."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro was in the United States on January 8, 2023, and provides context about his travel dates and involvement in subsequent investigations."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

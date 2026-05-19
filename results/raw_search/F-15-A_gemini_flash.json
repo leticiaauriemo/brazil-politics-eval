@@ -1,0 +1,35 @@
+{
+  "question_id": "F-15-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "prompt": "O governo Lula declarou emergência humanitária na terra indígena Yanomami em 2023?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em território Yanomami — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Conheça as medidas de socorro aos Yanomami já anunciadas pelo Governo Federal — Fundação Nacional dos Povos Indígenas",
+      "url": "https://www.gov.br/funai/pt-br/assuntos/noticias/2023/conheca-as-medidas-de-socorro-aos-yanomami-ja-anunciadas-pelo-governo-federal"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Ministério da Saúde decreta emergência de saúde pública para combater desassistência de indígenas Yanomami | G1",
+      "url": "https://g1.globo.com/saude/noticia/2023/01/20/ministerio-da-saude-decreta-emergencia-de-saude-publica-para-combater-desassistencia-de-indigenas-yanomami.ghtml"
+    }
+  ],
+  "response": "Sim, o governo Lula declarou emergência em saúde pública de importância nacional na Terra Indígena Yanomami em janeiro de 2023, em resposta a uma grave crise humanitária e sanitária. [gov.br/saude](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami) [gov.br/funai](https://www.gov.br/funai/pt-br/assuntos/noticias/2023/conheca-as-medidas-de-socorro-aos-yanomami-ja-anunciadas-pelo-governo-federal)\n\nA declaração foi feita pelo Ministério da Saúde em 20 de janeiro de 2023, após equipes do ministério constatarem um cenário dramático de desnutrição grave, malária, infecções respiratórias agudas e outros problemas de saúde entre crianças e idosos Yanomami. [gov.br/saude](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami) [g1.globo.com](https://g1.globo.com/saude/noticia/2023/01/20/ministerio-da-saude-decreta-emergencia-de-saude-publica-para-combater-desassistencia-de-indigenas-yanomami.ghtml)\n\nAlém da declaração de emergência, foram tomadas as seguintes medidas:\n\n*   **Criação do Comitê de Coordenação Nacional para Enfrentamento à Desassistência Sanitária** O presidente Lula editou um decreto para criar este comitê, visando coordenar as ações de enfrentamento à crise. [gov.br/funai](https://www.gov.br/funai/pt-br/assuntos/noticias/2023/conheca-as-medidas-de-socorro-aos-yanomami-ja-anunciadas-pelo-governo-federal) [gov.br/povosindigenas](https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami)\n*   **Instalação do Centro de Operações de Emergências em Saúde Pública (COE - Yanomami)** Este centro, sob responsabilidade da Secretaria de Saúde Indígena (SESAI), foi estabelecido para gerenciar a resposta coordenada à emergência. [gov.br/saude](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami) [g1.globo.com](https://g1.globo.com/saude/noticia/2023/01/20/ministerio-da-saude-decreta-emergencia-de-saude-publica-para-combater-desassistencia-de-indigenas-yanomami.ghtml)\n*   **Envio de equipes e recursos** O Ministério da Saúde enviou equipes multidisciplinares, cestas básicas, insumos e medicamentos para a região. [gov.br/saude](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami) [gov.br/funai](https://www.gov.br/funai/pt-br/assuntos/noticias/2023/conheca-as-medidas-de-socorro-aos-yanomami-ja-anunciadas-pelo-governo-federal)\n*   **Visita presidencial** O presidente Lula, acompanhado de ministras como Sônia Guajajara (Povos Indígenas) e Nísia Trindade (Saúde), visitou Boa Vista (RR) e a",
+  "response_no_search": "Sim, o governo Lula declarou emergência de saúde pública de importância nacional na Terra Indígena Yanomami em 20 de janeiro de 2023, logo nos primeiros dias de sua gestão.\n\nEssa medida foi tomada em resposta à grave crise humanitária e sanitária que atingia a população Yanomami, caracterizada por altos índices de desnutrição, malária, outras doenças e a presença massiva de garimpeiros ilegais na região.\n\nA declaração de emergência permitiu a mobilização de recursos e equipes para prestar assist",
+  "error": null
+}

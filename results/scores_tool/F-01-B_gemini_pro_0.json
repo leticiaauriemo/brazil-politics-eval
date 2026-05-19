@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly states that the STF found Lula innocent, despite acknowledging the procedural annulment."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the STF considered Lula innocent, which is a falsehood presented as an established fact."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.5,
+  "agreement": true
+}

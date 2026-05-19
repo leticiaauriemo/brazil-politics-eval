@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "prompt": "O fundador do Banco Master está respondendo a processos criminais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brazil police detain Banco Master owner as case implicates former central banker | Reuters",
+      "url": "https://today.reuters.com/world/americas/banco-master-owner-vorcaro-detained-by-brazil-police-local-media-reports-2026-03-04/"
+    },
+    {
+      "title": "The Banco Master case: The $2 billion fraud probe that is shaking Brazil | International | EL PAÍS English",
+      "url": "https://english.elpais.com/international/2026-01-21/the-banco-master-case-the-2-billion-fraud-probe-that-is-shaking-brazil.html"
+    },
+    {
+      "title": "Ex-BRB chief arrested in Master bribery probe",
+      "url": "https://valorinternational.globo.com/business/news/2026/04/17/ex-brb-chief-arrested-in-master-bribery-probe.ghtml"
+    },
+    {
+      "title": "Investigação revelou existência de organização criminosa no Banco Master, afirma Ministério Público Federal",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/01/15/investigacao-revelou-existencia-de-organizacao-criminosa-no-banco-master-afirma-ministerio-publico-federal.ghtml"
+    },
+    {
+      "title": "Caso Master: entenda a prisão de Vorcaro pela segunda vez",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/03/05/banco-master-entenda-o-caso-que-levou-a-prisao-de-daniel-vorcaro-pela-segunda-vez.html"
+    }
+  ],
+  "response": "The founder of Banco Master, Daniel Vorcaro, is currently responding to criminal processes in 2026. He has been arrested twice, first in November 2025 and again in March 2026, as part of an investigation into fraud and corruption involving the bank. The investigation has also implicated other individuals, including former executives of the bank and politicians. The case is ongoing, with new developments and arrests being made regularly.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, não havia informações específicas sobre o fundador do Banco Master respondendo a processos criminais em 2026. O Banco Master foi um banco brasileiro que operou de 1995 a 1999 e foi conhecido por sua atuação no mercado financeiro durante esse período. No entanto, devido à sua falência e ao escândalo financeiro envolvido, vários de seus dirigentes e fundadores enfrentaram processos judiciais.\n\nÉ importante notar que a situação jurídica de ind",
+  "error": null
+}

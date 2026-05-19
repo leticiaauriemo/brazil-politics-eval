@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "prompt": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em qual ano e governo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Aplicação da EC nº 103/2019 — Ministério da Previdência Social",
+      "url": "https://www.gov.br/previdencia/pt-br/assuntos/rpps/aplicacao-da-ec-no-103-2019"
+    },
+    {
+      "title": "O que é a PEC 103?",
+      "url": "https://www.portalinsights.com.br/perguntas-frequentes/o-que-e-a-pec-103"
+    },
+    {
+      "title": "Tabela de Aplicabilidade da EC nº 103/2019 - Portal Gov.br",
+      "url": "https://www.gov.br/previdencia/pt-br/assuntos/rpps/ec103/tabela-de-aplicabilidade-da-ec-no-103-2019"
+    },
+    {
+      "title": "Promulgada Emenda Constitucional da reforma da Previdência",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/11/12/promulgada-emenda-constitucional-da-reforma-da-previdencia"
+    }
+  ],
+  "response": "A Emenda Constitucional 103, que ficou conhecida como a Reforma da Previdência, foi promulgada em 12 de novembro de 2019, durante o governo do presidente Jair Bolsonaro.",
+  "response_no_search": "A Emenda Constitucional (EC) 103, conhecida como a **Reforma da Previdência**, foi promulgada em **12 de novembro de 2019**, durante",
+  "error": null
+}

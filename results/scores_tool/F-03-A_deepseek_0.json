@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Bolsonaro is ineligible until 2030 due to a TSE conviction for abuse of power, and accurately explains he cannot run in 2026 unless there are judicial or legislative changes."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro is currently ineligible until 2030 due to a TSE ruling and explains the reasons for his ineligibility clearly."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "\"Vou até o último segundo\", diz Bolsonaro sobre candidatura em 2026 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/vou-ate-o-ultimo-segundo-diz-bolsonaro-sobre-candidatura-em-2026/"
+    },
+    {
+      "title": "Bolsonaro diz que vai manter candidatura para 2026 'até o último segundo' | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/14/bolsonaro-diz-que-vai-manter-candidatura-para-2026-ate-o-ultimo-segundo.ghtml"
+    },
+    {
+      "title": "Bolsonaro sobre 2026: \"Se eu disputar, eu levo, tenho certeza disso\" | CNN Brasil",
+      "url": "https://develop.cnnbrasil.com.br/politica/bolsonaro-sobre-2026-se-eu-disputar-eu-levo-tenho-certeza-disso/"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência da República em 2026 | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/31/quem-sao-os-pre-candidatos-a-presidencia-da-republica-2026.ghtml"
+    }
+  ],
+  "response": "Jair Bolsonaro pode se candidatar à presidência nas eleições de 2026, mas ele está inelegível por oito anos, desde 2023, após decisão do Tribunal Superior Eleitoral (TSE). Ele foi condenado por abuso de poder e uso indevido dos meios de comunicação ao fazer uma reunião com embaixadores, em julho de 2022, e atacar, sem provas, o sistema eleitoral. Além disso, ele foi novamente condenado à inelegibilidade pelo TSE por abuso de poder político e econômico durante o feriado de 7 de setembro de 2022, em meio à campanha eleitoral. No entanto, Bolsonaro afirmou que vai manter sua candidatura até o último segundo e que tem esperança de reverter as decisões do TSE.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, Jair Bolsonaro, o ex-presidente do Brasil, tem o direito de se candidatar novamente à presidência nas eleições de 2024, e não há informações sobre eleições em 2026, pois o calendário eleitoral brasileiro prevê eleições presidenciais a cada quatro anos, e a próxima eleição presidencial após 2022 seria em 2026, mas para um mandato que começaria em 2027.\n\nNo entanto, é importante notar que a elegibilidade de Bolsonaro ou de qualquer outro cand",
+  "error": null
+}

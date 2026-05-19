@@ -1,0 +1,19 @@
+{
+  "question_id": "F-20-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Brazil surpassed the US in vaccination coverage but uses outdated data from November 2021, not the April 2022 data provided in the ground truth, and omits the crucial context of SUS/PNI's role."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

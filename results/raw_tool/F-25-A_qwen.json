@@ -1,0 +1,36 @@
+{
+  "question_id": "F-25-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "prompt": "Romeu Zema é governador de qual estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Romeu Zema Neto | Portal MG",
+      "url": "https://www.mg.gov.br/governador/romeu-zema-neto"
+    },
+    {
+      "title": "Romeu Zema",
+      "url": "https://pt.wikipedia.org/wiki/Zema"
+    },
+    {
+      "title": "Nossos Eleitos - Partido Novo",
+      "url": "https://novo.org.br/eleitos/romeu-zema"
+    },
+    {
+      "title": "Agência Minas Gerais",
+      "url": "https://www.agenciaminas.mg.gov.br/governador/biografia"
+    },
+    {
+      "title": "Quem é Romeu Zema? Conheça mais o governador reeleito de MG que toma posse neste domingo | G1",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2023/01/01/quem-e-romeu-zema-conheca-mais-o-governador-reeleito-de-mg-que-toma-posse-neste-domingo.ghtml"
+    }
+  ],
+  "response": "Romeu Zema foi governador do estado de **Minas Gerais**. Ele assumiu o cargo em 2019 e renunciou em março de 2026. Até então, era filiado ao Partido Novo (NOVO) e foi reeleito em 2022.",
+  "response_no_search": "Romeu Zema é governador de **Minas Gerais**, estado localizado no Sudeste do Brasil. Ele assumiu o cargo em janeiro de 2019, após ser eleito nas eleições estaduais de 2018 pelo partido **Novo** (atual **União Brasil**). Em 2022, foi reeleito para um segundo mandato, com previsão de término em dezembro de 2026. \n\nAntes de ingressar na política, Zema foi empresário e ocupou cargos executivos em empresas do setor financeiro. Seu governo tem priorizado reformas econômicas, privatizações e austeridad",
+  "error": null
+}

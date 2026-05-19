@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Rejeitada compra do Banco Master pelo BC e suas implicações",
+      "url": "https://www.otempo.com.br/economia/2025/9/4/entenda-o-caso-da-compra-do-banco-master-pelo-brb-rejeitada-pelo-banco-central"
+    },
+    {
+      "title": "O que levou o BC a rejeitar compra do Banco Master pelo BRB em setembro | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/o-que-levou-o-bc-a-rejeitar-compra-do-banco-master-pelo-brb-em-setembro/"
+    },
+    {
+      "title": "TCU vê indícios de improbidade em conduta do BRB na compra do Master",
+      "url": "https://www.metropoles.com/brasil/tcu-ve-indicios-de-improbidade-em-conduta-do-brb-na-compra-do-master"
+    },
+    {
+      "title": "BRB aponta dificuldade de comunicação com o Master",
+      "url": "https://bpmoney.com.br/negocios/documentos-do-brb-apontam-dificuldades-de-comunicacao-com-o-master/"
+    },
+    {
+      "title": "Banco Central rejeita compra do Master pelo BRB – Parlamento PB",
+      "url": "https://parlamentopb.com.br/banco-central-rejeita-compra-do-master-pelo-brb/"
+    }
+  ],
+  "response": "I'll search for the latest information on what happened to Banco Master after the Central Bank rejected its acquisition by BRB. \n\nApós a rejeição da compra do Banco Master pelo BRB pelo Banco Central (BC) em setembro de 2025, ocorreram os seguintes desdobramentos:\n\n1. **Liquidação do Banco Master** (dezembro de 2025):  \n   O BC decretou a **liquidação extrajudicial** do Banco Master após uma operação da Polícia Federal (\"Compliance Zero\") que prendeu Daniel Vorcaro, controlador do banco. A decisão foi baseada em:\n   - Risco sistêmico devido à má gestão financeira;\n   - Suspeitas de fraudes bilionárias e manipulação contábil;\n   - Ativos supervalorizados (\"inflados\") e passivos ocultos.\n\n2. **Proteção aos clientes**:  \n   Os correntistas estão protegidos pelo **Fundo Garantidor de Créditos (FGC)**, que cobre até R$ 250 mil por CPF/CNPJ.\n\n3. **Investigação do BRB pelo TCU**:  \n   O Tribunal de Contas da União (TCU) apontou **indícios de improbidade administrativa** por parte do BRB e do Governo do Distrito Federal (GDF):\n   - Falta de diligência na análise do Master (\"gestão temerária\");\n   - Persistência na compra mesmo após alertas do BC sobre inconsistências;\n   - Projeções financeiras \"inconsistentes\" (ativos pularam de R$ 25 bi para R$ 31 bi sem justificativa).\n\n4. **Irregularidades descobertas**:  \n   - O BRB adquiriu carteiras de crédito do Master que **não pertenciam originalmente ao banco** (provenientes da empresa Tirreno);\n   - O Master não cumpria cláusulas contratuais e **omitia pendências financeiras**;\n   - Controle operacional manual e incapacidade de calcular repasses.\n\n5. **Contexto político**:  \n   A rejeição ocorreu sob pressão do \"centrão\" no Congresso, que tentou aprovar projeto para **demitir diretores do BC** – visto como manobra para forçar a aprovação do negócio.\n\n### Resumo final:  \nO Banco Master foi **liquidado pelo BC** após a rejeição da compra pelo BRB, com descobertas de fraudes e gestão temerária. O BRB e o GDF enfrentam investigações por improbidade, enquanto clientes são protegidos pelo FGC. O caso expôs falhas graves de governança e pressões políticas sobre o sistema financeiro.",
+  "response_no_search": "Após o Banco Central do Brasil (BCB) **rejeitar a venda do Banco Master ao BRB** em agosto de 2023, a situação do Banco Master evoluiu da seguinte forma:\n\n1.  **Intervenção Preventiva (PReF):** Em **setembro de 2023**, o BCB colocou o Banco Master no **Programa de Incentivo à Redução do Portfólio de Instituições Financeiras (PReF)**, uma forma de intervenção preventiva. Isso significa que o banco passou a operar sob **forte supervisão e restrições do BCB**, com o objetivo principal de **preserva",
+  "error": null
+}

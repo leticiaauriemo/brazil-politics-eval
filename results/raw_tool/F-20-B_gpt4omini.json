@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA%7EUSA"
+    },
+    {
+      "title": "Brasil supera EUA na proporção de pessoas completamente vacinadas contra covid",
+      "url": "https://www.terra.com.br/noticias/coronavirus/brasil-passa-eua-no-numero-de-pessoas-vacinadas-contra-covid,a12c2cc8b896d4be433fb1477dda1db9m8k14hk8.html"
+    },
+    {
+      "title": "Mais de 88% dos brasileiros com cinco anos ou mais tomaram ao menos duas doses de vacina contra Covid-19 até o início de 2023 — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias/2024/05/mais-de-88-dos-brasileiros-com-cinco-anos-ou-mais-tomaram-ao-menos-duas-doses-de-vacina-contra-covid-19-ate-o-inicio-de-2023"
+    },
+    {
+      "title": "Covid: Brasil supera EUA na taxa de pessoas com vacinação completa",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/geral/covid-brasil-supera-eua-na-taxa-de-pessoas-com-vacina%C3%A7%C3%A3o-completa-1.724241"
+    },
+    {
+      "title": "Brasil ultrapassará EUA em pessoas totalmente imunizadas em nove dias",
+      "url": "https://www.metropoles.com/brasil/brasil-ultrapassara-eua-em-pessoas-totalmente-imunizadas-em-nove-dias"
+    }
+  ],
+  "response": "Sim, o Brasil superou os Estados Unidos na proporção de pessoas completamente vacinadas contra a COVID-19. Atualmente, 59,75% da população brasileira recebeu duas doses ou uma dose única da vacina, enquanto nos Estados Unidos esse percentual é de 57,62%. Esses dados são da plataforma Our World in Data, gerida por pesquisadores da Universidade de Oxford.\n\nO Brasil, que enfrentou desafios iniciais na vacinação, acelerou o ritmo a partir de agosto de 2021, o que contribuiu para essa superação.",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, o Brasil havia alcançado uma alta taxa de vacinação contra a COVID-19, com uma proporção significativa da população recebendo duas doses da vacina. No entanto, a comparação exata entre o Brasil e os Estados Unidos em termos de proporção de pessoas vacinadas com duas doses pode variar ao longo do tempo, dependendo de novos dados e campanhas de vacinação.\n\nPara obter informações atualizadas e precisas sobre as taxas de vacinação em ambos os países",
+  "error": null
+}

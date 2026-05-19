@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the conviction is final (trânsito em julgado) and that there are no more pending appeals, aligning with the ground truth's November 2025 date and the implication that subsequent actions do not suspend execution."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro's conviction is final and that the execution of the sentence can be initiated at any moment, without mentioning the Revisão Criminal filed in May 2026 and the fact that Bolsonaro is currently under house arrest."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

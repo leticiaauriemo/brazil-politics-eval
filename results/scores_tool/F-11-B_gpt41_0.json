@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies 'pedaladas fiscais' as the formal reason for impeachment, explains what they were, and clarifies that it was not personal corruption, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains the concept of 'pedaladas fiscais' as violations of fiscal responsibility, clarifies that Dilma was not accused of personal corruption, and provides a clear summary of the impeachment reasons."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

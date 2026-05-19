@@ -1,0 +1,15 @@
+{
+  "question_id": "F-05-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "prompt": "O Bolsa Família foi criado no governo Lula ou no governo Fernando Henrique Cardoso?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**O Bolsa Família, como programa unificado e oficializado com esse nome, foi criado no governo Lula em 2003.**\n\n### Contexto Histórico e Evidências\n- **Criação Oficial**: Instituído por Medida Provisória nº 132, de 20 de outubro de 2003 (primeiro mandato de Luiz Inácio Lula da Silva), e convertido em lei pela Lei nº 10.836, de 9 de janeiro de 2004. Fontes confirmam isso unanimemente: Wikipédia [1], site do governo federal [3], Ache Concursos [5], Exame [8], e Aventuras na História [10].\n  \n- **B",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

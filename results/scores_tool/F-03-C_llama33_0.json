@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies the TSE ruling as a reason for ineligibility but only mentions a potential future criminal conviction, not the established STF conviction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the TSE ruling on electoral abuse but does not address the STF criminal conviction, leading to a partially correct answer."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

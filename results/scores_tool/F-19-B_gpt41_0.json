@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Flávio Bolsonaro is the strongest candidate and that Tarcísio de Freitas is still in the running, directly contradicting the ground truth that Tarcísio opted out of the presidential race."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a strong candidate and notes that Tarcísio de Freitas opted for re-election in São Paulo, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

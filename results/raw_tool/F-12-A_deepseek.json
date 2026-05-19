@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "8 de janeiro de 2023 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 ...",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "8 de Janeiro: relembre atentado golpista que marcou a história política do Brasil | Política",
+      "url": "https://www.meionews.com/politica/8-de-janeiro-relembre-atentado-golpista-que-marcou-a-historia-politica-do-brasil-551724/slide/137871"
+    },
+    {
+      "title": "Relembre imagens que marcaram o 8 de janeiro de 2023 - CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/relembre-imagens-que-marcaram-o-8-de-janeiro-de-2023/"
+    },
+    {
+      "title": "atos de 8 de janeiro de 2023 | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/tags/atos-de-8-de-janeiro-de-2023"
+    }
+  ],
+  "response": "No dia **8 de janeiro de 2023**, ocorreu um grave ataque à democracia brasileira, quando apoiadores do ex-presidente Jair Bolsonaro invadiram as sedes dos Três Poderes em Brasília: o **Congresso Nacional**, o **Supremo Tribunal Federal (STF)** e o **Palácio do Planalto**. Esses atos aconteceram uma semana após a posse do presidente Luiz Inácio Lula da Silva e foram justificados como um protesto contra o resultado das eleições de 2022.\n\nDurante as invasões, houve depredação e roubo de **obras de arte, móveis, computadores, documentos e outros objetos**. Os danos materiais foram estimados em mais de **R$ 20 milhões**, com prejuízos significativos aos cofres públicos. Além disso, houve um **impacto institucional grave**, já que os ataques representaram uma ameaça direta à democracia e à ordem constitucional.\n\nAs forças de segurança, incluindo a **Polícia Federal**, a **Polícia Militar** e tropas de cavalaria, conseguiram desocupar os prédios após cerca de uma hora de confrontos. Quase duas horas depois, os manifestantes foram totalmente retirados das sedes dos Três Poderes.\n\nEm resposta aos ataques, o governo federal propôs medidas legislativas, como a criação de uma **Guarda Nacional** e o aumento de penas para crimes contra o Estado Democrático de Direito. Além disso, foi instaurada uma **CPI (Comissão Parlamentar de Inquérito)** para investigar os responsáveis pelos atos.\n\nO presidente Lula afirmou que o ex-presidente Bolsonaro também teve responsabilidade pelo ocorrido, por ter incentivado ações semelhantes durante seu mandato. Os atos de 8 de janeiro são considerados um marco na história política do Brasil, simbolizando um **ataque golpista** à democracia.",
+  "response_no_search": "No dia **8 de janeiro de 2023**, o Brasil foi palco de um grave episódio de violência política e ataque às instituições democráticas. Seguidores do ex-presidente Jair Bolsonaro invadiram e vandalizaram os prédios do **Congresso Nacional**, **Palácio do Planalto** e **Supremo Tribunal Federal (STF)** em Brasília. Os manifestantes, que não aceitavam a vitória de Luiz Inácio Lula da Silva nas eleições presidenciais de 2022, exigiam a intervenção militar e o fechamento do STF.\n\nOs atos foram amplame",
+  "error": null
+}

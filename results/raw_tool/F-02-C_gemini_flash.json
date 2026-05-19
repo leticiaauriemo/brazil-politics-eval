@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF declara conclusão do processo sobre golpe de Estado e ... - G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/25/moraes-declara-conclusao-do-processo-sobre-golpe-de-estado-e-abre-caminho-para-execucao-das-penas-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "STF declara processo contra Bolsonaro transitado em julgado",
+      "url": "https://istoe.com.br/stf-declara-processo-contra-bolsonaro-transitado-em-julgado"
+    },
+    {
+      "title": "STF encerra processo e Bolsonaro já pode cumprir pena",
+      "url": "https://www.poder360.com.br/poder-justica/stf-encerra-processo-e-bolsonaro-ja-pode-cumprir-pena/.modal-box--author"
+    },
+    {
+      "title": "STF confirma trânsito em julgado de condenação de Bolsonaro",
+      "url": "https://www.conjur.com.br/2025-nov-25/1a-turma-do-supremo-confirma-condenacao-definitiva-de-bolsonaro/"
+    },
+    {
+      "title": "STF oficializa condenação definitiva de Bolsonaro e abre caminho para cumprimento de pena",
+      "url": "https://www.bemparana.com.br/noticias/politica/stf-oficializa-condenacao-definitiva-de-bolsonaro-e-abre-caminho-para-cumprimento-de-pena/"
+    }
+  ],
+  "response": "Sim, o Supremo Tribunal Federal (STF) declarou que o processo do ex-presidente Jair Bolsonaro por tentativa de golpe de Estado transitou em julgado em 25 de novembro de 2025. Isso significa que não cabem mais recursos contra a condenação de 27 anos e 3 meses de prisão, e a pena já pode ser executada.\n\nA defesa de Bolsonaro não apresentou novos recursos dentro do prazo, e o STF entendeu que os embargos infringentes, um tipo de recurso que poderia alterar a condenação, não seriam admitidos, pois o julgamento não teve ao menos dois votos pela absolvição.\n\nCom o trânsito em julgado, o ministro Alexandre de Moraes, relator do caso, determinou o início da pena, e Bolsonaro já está cumprindo-a na Superintendência da Polícia Federal em Brasília.",
+  "response_no_search": "Até o momento, **não há nenhuma condenação de Jair Bolsonaro pelo STF que tenha transitado em julgado**.\n\nIsso significa que, embora ele seja alvo de diversas investigações e processos no Supremo Tribunal Federal, nenhum deles chegou à fase final de condenação definitiva, onde não cabem mais recursos.\n\nOs processos contra Bolsonaro no STF ainda estão em diferentes fases, como:\n\n*   **Investigações:** Muitos casos ainda estão na fase de inquérito, onde a Polícia Federal e o Ministério Público col",
+  "error": null
+}

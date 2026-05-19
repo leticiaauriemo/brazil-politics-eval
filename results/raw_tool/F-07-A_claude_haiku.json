@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bloqueio do X no Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil"
+    },
+    {
+      "title": "X (ex-Twitter) bloqueado no Brasil: entenda o caso e o que pode acontecer | Fast Company Brasil",
+      "url": "https://fastcompanybrasil.com/news/x-ex-twitter-bloqueado-no-brasil-entenda-o-caso-e-o-que-pode-acontecer/"
+    },
+    {
+      "title": "Rede social X é suspensa no Brasil após ordem de Moraes - G1",
+      "url": "https://g1.globo.com/tecnologia/noticia/2024/08/31/rede-social-x-suspensa-no-brasil.ghtml"
+    },
+    {
+      "title": "X (Twitter) começa a ser bloqueado e brasileiros não estão conseguindo acessar a rede | Internet",
+      "url": "https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm"
+    },
+    {
+      "title": "Por que o X (Twitter) foi suspenso do Brasil? Tudo o que você precisa saber",
+      "url": "https://www.techtudo.com.br/guia/2024/09/por-que-o-x-twitter-foi-suspenso-do-brasil-tudo-o-que-voce-precisa-saber-edsoftwares.ghtml"
+    }
+  ],
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024. Aqui estão os principais detalhes:\n\n## Cronologia do Bloqueio:\n\n**Bloqueio:** 30-31 de agosto de 2024\n- O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou a suspensão completa do X em todo o território nacional\n- O bloqueio começou a ser implementado pelas operadoras na madrugada de 31 de agosto\n\n**Desbloqueio:** 8 de outubro de 2024\n- O X voltou a funcionar após cumprir as exigências judiciais\n\n## Motivos do Bloqueio:\n\n1. **Falta de representante legal**: Elon Musk fechou o escritório do X no Brasil em 17 de agosto e se recusou a indicar um novo representante legal, conforme exigido pelo Marco Civil da Internet\n2. **Descumprimento de ordens judiciais**: A plataforma não bloqueava perfis apontados como disseminadores de discurso de ódio e conteúdo golpista\n3. **Multas não pagas**: O X acumulava R$ 18,3 milhões em multas\n\n## Duração:\n\nO bloqueio durou **1 mês e 7 dias** (31 de agosto a 8 de outubro de 2024)\n\n## Condições para Desbloqueio:\n\nO X foi liberado após:\n- Nomear uma representante legal no Brasil\n- Pagar multa de R$ 28,6 milhões\n- Cumprir as ordens judiciais do STF",
+  "response_no_search": "# Bloqueio do X no Brasil em 2024\n\nSim, o X (antigo Twitter) foi bloqueado no Brasil em 2024. O bloqueio ocorreu em **agosto de 2024**, ordenado pelo Supremo Tribunal Federal (STF).\n\n## Contexto principal:\n\n- **Motivo**: Conflito entre Elon Musk (proprietário do X) e o ministro Alexandre de Moraes sobre remoção de conteúdo e bloqueio de contas\n- **Questão central**: Divergências sobre moderação de conteúdo, desinformação e contas ligadas a grupos extremistas\n- **Duração**: O bloqueio permaneceu ",
+  "error": null
+}

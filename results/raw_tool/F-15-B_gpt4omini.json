@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em ...",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Proteção e construção de um novo futuro marcam os três anos da Emergência Yanomami",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias/2026/01/protecao-e-construcao-de-um-novo-futuro-marcam-os-tres-anos-da-emergencia-yanomami"
+    },
+    {
+      "title": "Governo declara emergência em saúde pública no território Yanomami em Roraima",
+      "url": "https://www.andes.org.br/conteudos/noticia/governo-declara-emergencia-em-saude-publica-no-territorio-yanomami-em-roraima1"
+    },
+    {
+      "title": "Óbitos por malária na terra Yanomami caem 80% com ações do Ministério da Saúde — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/abril/obitos-por-malaria-na-terra-yanomami-caem-80-com-acoes-do-ministerio-da-saude"
+    },
+    {
+      "title": "Crise humanitária: Entenda o que aconteceu com os povos indígenas Yanomamis em Roraima",
+      "url": "https://www.terra.com.br/nos/crise-humanitaria-entenda-o-que-aconteceu-com-os-povos-indigenas-yanomamis-em-roraima,c9e59bac9d7d8a698aef50ce6ce9074crnazfltc.html"
+    }
+  ],
+  "response": "O governo brasileiro declarou emergência de saúde pública na terra Yanomami em 20 de janeiro de 2023. A medida foi tomada devido à grave crise de saúde enfrentada pela população indígena, que incluía altos índices de desnutrição e malária. A declaração foi feita pelo Ministério da Saúde e visava coordenar ações para enfrentar a situação crítica na região.",
+  "response_no_search": "O governo brasileiro declarou emergência de saúde pública na terra Yanomami em janeiro de 2023. Essa medida foi tomada devido à grave crise de saúde enfrentada pela população Yanomami, que incluía desnutrição e surtos de doenças.",
+  "error": null
+}

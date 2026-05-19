@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Polícia Militar de Brasília escoltou radicais até a Esplanada",
+      "url": "https://www.poder360.com.br/brasil/policia-militar-de-brasilia-escoltou-bolsonaristas-ate-a-esplanada/"
+    },
+    {
+      "title": "Bolsonaro volta a lamentar atos de 8 de janeiro e diz que seu governo teve alguns “furos” - ISTOÉ Independente",
+      "url": "https://istoe.com.br/bolsonaro-volta-a-lamentar-atos-de-8-de-janeiro-e-diz-que-seu-governo-teve-alguns-furos"
+    },
+    {
+      "title": "Leia a cronologia dos desdobramentos do 8 de Janeiro",
+      "url": "https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/"
+    },
+    {
+      "title": "Ataques de 8 de janeiro em Brasília",
+      "url": "https://pt.wikipedia.org/wiki/Ataques_de_8_de_janeiro_em_Bras%C3%ADlia"
+    },
+    {
+      "title": "Bolsonaro culpa 8 de janeiro por ato esvaziado contra o aborto em BH - Estadão",
+      "url": "https://www.estadao.com.br/politica/jair-bolsonaro-oito-de-janeiro-ataque-tres-poderes-brasilia-belo-horizonte-minas-gerais-marcha-descriminalizacao-aborto-nprp/"
+    }
+  ],
+  "response": "Não, Jair Bolsonaro não estava no Brasil no dia 8 de janeiro de 2023. Ele estava nos Estados Unidos desde pouco antes da mudança de governo.",
+  "response_no_search": "Não, Jair Bolsonaro não estava no Brasil no dia 8 de janeiro de 2023. Ele viajou para os Estados Unidos em 30 de dezembro de 2022, dois dias antes do fim de seu mandato presidencial.",
+  "error": null
+}

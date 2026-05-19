@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that the annulments were due to a conclusion of innocence by the STF, despite acknowledging procedural issues."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the annulment of Lula's convictions was due to procedural issues, not a finding of innocence, and accurately explains the reasoning behind the STF's decision."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 0.5,
+  "agreement": false
+}

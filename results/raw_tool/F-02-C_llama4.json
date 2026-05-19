@@ -1,0 +1,15 @@
+{
+  "question_id": "F-02-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Até a minha última atualização em abril de 2023, não havia informações sobre uma condenação do ex-presidente Jair Bolsonaro pelo Supremo Tribunal Federal (STF) que tivesse transitado em julgado. O STF é o órgão máximo do Poder Judiciário brasileiro e tem competência para julgar ações penais contra altas autoridades, incluindo o Presidente da República.\n\nPara saber se uma condenação transitou em julgado ou se ainda há recursos pendentes, é necessário verificar o andamento processual dos casos esp",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

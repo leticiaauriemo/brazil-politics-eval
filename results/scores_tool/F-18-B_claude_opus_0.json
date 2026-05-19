@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms criminal charges against Daniel Vorcaro and lists the key crimes investigated in Operation Compliance Zero, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Daniel Vorcaro faces multiple criminal charges related to the Operation Compliance Zero and lists key crimes involved."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

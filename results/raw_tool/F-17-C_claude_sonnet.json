@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Master e preserva sistema financeiro nacional | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml"
+    },
+    {
+      "title": "BC anuncia liquidação do Banco Master Múltiplo, antes sob regime ...",
+      "url": "https://g1.globo.com/economia/noticia/2026/03/17/bc-anuncia-liquidacao-do-banco-master-multiplo-antes-sob-regime-especial-de-administracao.ghtml"
+    },
+    {
+      "title": "Folha do Estado | Banco Central entrega ao TCU detalhamento de ações que levaram à liquidação do Banco Master",
+      "url": "https://www.folhadoestado.com.br/brasil/banco-central-entrega-ao-tcu-detalhamento-de-acoes-que-levaram-a-liquidacao-do-banco-master/631652"
+    }
+  ],
+  "response": "Vou pesquisar as informações mais recentes sobre esse assunto.**Sim!** O Banco Central do Brasil decretou a **liquidação extrajudicial do Banco Master**. Veja um resumo completo do que aconteceu:\n\n---\n\n## 🏦 Liquidação Extrajudicial do Banco Master\n\n### 📅 Quando?\nA liquidação extrajudicial foi decretada em **18 de novembro de 2025**.\n\n### ❓ Por que foi decretada?\nO Banco Central apontou dois motivos principais:\n1. **Grave crise de liquidez** — falta de dinheiro em caixa para honrar compromissos, como saques de correntistas e pagamentos a investidores.\n2. **Graves violações às normas do sistema financeiro nacional.**\n\n### 📌 O que isso significa na prática?\n- O Banco Master **deixará de existir** — sairá definitivamente do mercado.\n- Um **administrador da liquidação** foi nomeado (Eduardo Felix Bianchini, servidor aposentado do BC), com poderes para vender imóveis, carteiras de crédito e recuperar créditos para pagar credores.\n- A **ordem de pagamento** aos credores segue a seguinte prioridade:\n  1. Trabalhistas (funcionários)\n  2. Dívidas fiscais (impostos)\n  3. Fornecedores e clientes com investimentos **acima de R$ 250 mil**\n\n### 🔎 Contexto\n- O Master era conhecido por oferecer **rendimentos muito acima da média do mercado**, o que atraía investidores.\n- Em 2024, houve uma tentativa de venda para o **Banco de Brasília (BRB)**, que foi **vetada pelo Banco Central**.\n- Em novembro de 2025, um consórcio liderado pela **Fictor Holding** tentou comprar o banco, mas suspendeu a operação após a decretação da liquidação.\n- A **Polícia Federal** realizou operação simultânea ao anúncio do BC.\n- O **Will Bank** (banco digital do mesmo grupo) **não foi incluído** na liquidação e continuou funcionando.\n\n### 📋 Desdobramentos posteriores\n- Em **janeiro de 2026**, a **Will Financeira** (outra empresa do grupo) também foi liquidada.\n- Em **março de 2026**, o **Banco Master Múltiplo** — que estava sob Regime de Administração Especial Temporária (RAET) desde novembro de 2025 — também teve sua **liquidação extrajudicial decretada**.\n- O Banco Central entregou ao **TCU (Tribunal de Contas da União)** um relatório detalhado justificando todas as ações tomadas desde 2023.\n\n---\n\nEm resumo, foi um processo longo de deterioração financeira que culminou na intervenção do Banco Central para **preservar a estabilidade do sistema financeiro nacional**.",
+  "response_no_search": "## Banco Master e Banco Central\n\nAté a data do meu conhecimento **(julho de 2025)**, o Banco Central do Brasil **não havia decretado a liquidação do Banco Master**.\n\n### O que estava acontecendo:\n\n- O **Banco Master** enfrentava **dificuldades financeiras** e havia negociações em curso\n- Havia discussões sobre uma possível **incorporação pelo Banco de Brasília (BRB)**, banco público do Distrito Federal\n- O caso gerou debate sobre o papel do **FGC (Fundo Garantidor de Créditos)** e a exposição a ",
+  "error": null
+}

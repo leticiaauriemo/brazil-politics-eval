@@ -1,0 +1,35 @@
+{
+  "question_id": "F-01-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=461870&amp%3Bori=1"
+    },
+    {
+      "title": "Entenda a decisão de Fachin que anulou as condenações de Lula e o que acontece agora | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml"
+    },
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "Leia a nota de Fachin sobre a anulação das condenações do ex-presidente Lula e veja a íntegra da sentença | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/03/08/leia-a-integra-da-nota-de-fachin-sobre-a-anulacao-das-condenacoes-do-ex-presidente-lula.ghtml"
+    }
+  ],
+  "response": "Não, o Supremo Tribunal Federal (STF) não declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba. As condenações de Lula foram anuladas por questões processuais, não por uma análise do mérito das acusações ou das provas [g1.globo.com](https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml), [gazetadopovo.com.br](https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/).\n\nEm março de 2021, o ministro Edson Fachin, do STF, anulou todas as decisões tomadas pela 13ª Vara Federal de Curitiba nas ações penais contra Lula. A principal razão para essa anulação foi a incompetência da 13ª Vara Federal de Curitiba para julgar os casos. Fachin entendeu que os fatos apontados nas acusações não tinham relação direta com os desvios na Petrobras, o que era um requisito para que os processos tramitassem em Curitiba [stf.jus.br](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=461870&amp%3Bori=1), [g1.globo.com](https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml), [g1.globo.com](https://g1.globo.com/politica/noticia/2021/03/08/leia-a-integra-da-nota-de-fachin-sobre-a-anulacao-das-condenacoes-do-ex-presidente-lula.ghtml).\n\nPosteriormente, o plenário do STF referendou a decisão de Fachin. Além disso, o STF também declarou a parcialidade do então juiz Sergio Moro nos processos contra Lula, o que reforçou a anulação das condenações [bbc.com](https://www.bbc.com/portuguese/brasil-62612955).\n\nCom a anulação das condenações, os processos foram remetidos para a Justiça Federal do Distrito Federal para uma reanálise [g1.globo.com](https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml). No entanto, essa decisão não significa que Lula foi considerado inocente dos crimes em si, mas sim que os processos foram conduzidos de forma irregular e, portanto, as sentenças foram invalidadas [g1.globo.com](https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml), [bbc.com](https://www.bbc.com/portuguese/brasil-62612955).\n\nEm resumo:\n*   **Anulação por incompetência:** As condenações foram anuladas porque a 13ª Vara Federal de Curitiba não era o \"juiz natural\" para julgar os casos, já que os crimes não tinham relação direta com a Petrobras [stf.jus.br](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=461870&amp%3Bori=1), [g1.globo.com](https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-conden",
+  "response_no_search": "Não, o STF não declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba.\n\nO que aconteceu foi o seguinte:\n\n* **Anulação das condenações:** Em 2021, o ministro Edson Fachin, do STF, anulou as condenações de Lula na Operação Lava Jato. A anulação não se deu por inocência, mas sim por **incompetência da 13ª Vara Federal de Curitiba** para julgar os casos. Fachin entendeu que os processos deveriam ter tramitado na Justiça Federal do Distrito Federal, e não em Curitiba.\n\n* **Confirmaçã",
+  "error": null
+}

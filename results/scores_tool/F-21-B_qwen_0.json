@@ -1,0 +1,25 @@
+{
+  "question_id": "F-21-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro as a federal senator and provides accurate supporting details about his political career."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies Flávio Bolsonaro as a senator since 2019 and provides specific details about his election and prior experience."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

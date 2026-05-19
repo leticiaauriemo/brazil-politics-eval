@@ -1,0 +1,35 @@
+{
+  "question_id": "F-21-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da CSP - Senado Federal",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/02/19/flavio-bolsonaro-e-eleito-presidente-da-csp"
+    },
+    {
+      "title": "Como Flávio Bolsonaro ocupou um cargo na Câmara dos ... - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-46828487"
+    },
+    {
+      "title": "Flávio assume gabinete de Bolsonaro em Brasília e avança no PL",
+      "url": "https://www.poder360.com.br/poder-eleicoes/flavio-assume-gabinete-de-bolsonaro-em-brasilia-e-avanca-no-pl/"
+    }
+  ],
+  "response": "Atualmente, Flávio Bolsonaro ocupa o cargo de **Senador da República** pelo estado do Rio de Janeiro [congressonacional.leg.br](https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894).\n\nAlém disso, ele desempenha as seguintes funções em comissões do Senado:\n*   **Presidente** da Comissão de Segurança Pública (CSP) [flaviobolsonaro.net](https://www.flaviobolsonaro.net/sobre-mim), [senado.leg.br](https://www12.senado.leg.br/noticias/materias/2025/02/19/flavio-bolsonaro-e-eleito-presidente-da-csp).\n*   **Titular** das Comissões de Desenvolvimento Regional e Turismo (CDR) e de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor (CTFC) [flaviobolsonaro.net](https://www.flaviobolsonaro.net/sobre-mim), [congressonacional.leg.br](https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894).\n*   **Suplente** das Comissões de Constituição, Justiça e Cidadania (CCJ) e de Direitos Humanos e Legislação Participativa (CDH) [flaviobolsonaro.net](https://www.flaviobolsonaro.net/sobre-mim), [congressonacional.leg.br](https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894).",
+  "response_no_search": "Atualmente, Flávio Bolsonaro ocupa o cargo de **Senador da República** pelo estado do Rio de Janeiro.",
+  "error": null
+}

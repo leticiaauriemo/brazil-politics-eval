@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/"
+    },
+    {
+      "title": "STF publica acórdão de julgamento que mantém condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "STF publica ata de julgamento que manteve condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/17/stf-publica-ata-de-julgamento-que-manteve-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "Bolsonaro é condenado pelo STF por golpe de estado e outros crimes; pena é de 27 anos",
+      "url": "https://www.bloomberglinea.com.br/brasil/jair-bolsonaro-e-considerado-culpado-pelo-stf-por-golpe-de-estado-e-mais-quatro-crimes/"
+    },
+    {
+      "title": "STF mantém condenação de Bolsonaro pela tentativa de golpe de Estado",
+      "url": "https://viva.com.br/noticias/stf-mantem-condenacao-de-bolsonaro-pela-tentativa-de-golpe.html"
+    }
+  ],
+  "response": "Sim, Jair Bolsonaro foi condenado pelo Supremo Tribunal Federal (STF) por tentativa de golpe de Estado. A condenação ocorreu na Ação Penal (AP) 2668, onde ele e outros sete réus foram considerados culpados por crimes relacionados à tentativa de abolição violenta do Estado Democrático de Direito, entre outros. A decisão foi tomada em setembro de 2025, e Bolsonaro foi condenado a 27 anos e três meses de prisão.\n\nO STF publicou o acórdão que oficializa a condenação e abre prazo para novos recursos. A Primeira Turma do STF rejeitou os embargos de declaração apresentados pela defesa de Bolsonaro, mantendo a condenação. A pena de Bolsonaro é a mais alta entre os réus, e a decisão também torna os condenados inelegíveis por oito anos.\n\nPara mais detalhes, você pode acessar as fontes:\n- [STF publica acórdão da condenação de Bolsonaro](https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/)\n- [STF mantém condenação de Bolsonaro pela tentativa de golpe de Estado](https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml)",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, Jair Bolsonaro não havia sido condenado pelo Supremo Tribunal Federal (STF) por tentativa de golpe de Estado. No entanto, ele enfrentou diversas investigações e processos judiciais relacionados a suas ações e declarações durante e após seu mandato. Para informações mais atualizadas, recomendo consultar fontes de notícias confiáveis.",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Novo Bolsa Família garante valor mínimo de R$ 600 ... - Portal Gov.br",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/novo-bolsa-familia-garante-valor-minimo-de-r-600-por-residencia-renda-minima-por-pessoa-e-adicional-para-criancas-adolescentes-e-gestantes"
+    },
+    {
+      "title": "Lula anunciou em média um benefício a cada oito dias, mostra levantamento – CartaCapital",
+      "url": "https://www.cartacapital.com.br/politica/lula-anunciou-em-media-um-beneficio-a-cada-oito-dias-mostra-levantamento/"
+    },
+    {
+      "title": "Como fica o Bolsa Família em 2023 e quem poderá receber; veja mudanças | Exame",
+      "url": "https://exame.com/brasil/guia-do-cidadao/bolsa-familia-2023-calendario-o-que-pode-mudar/"
+    },
+    {
+      "title": "Auxílio Brasil de R$ 1.200 é anunciado por Bolsonaro em debate; Entenda",
+      "url": "https://www.acheconcursos.com.br/beneficios-sociais/auxilio-brasil-de-r-1-200-e-anunciado-por-bolsonaro-em-debate-entenda-55133"
+    },
+    {
+      "title": "‘Queremos que Bolsonaro dê um auxílio de R$ 600’, defende Lula – CartaCapital",
+      "url": "https://www.cartacapital.com.br/politica/queremos-que-bolsonaro-de-um-auxilio-de-r-600-defende-lula/"
+    }
+  ],
+  "response": "Ambos os governos tiveram participação na implementação do benefício de R$600, mas de formas diferentes.\n\n*   **Governo Bolsonaro:** Aumentou o valor do então \"Auxílio Brasil\" para R$ 600 de forma temporária, com validade até dezembro de 2022. A proposta de orçamento enviada pelo governo Bolsonaro para 2023 previa um benefício de apenas R$ 400.\n\n*   **Governo Lula:** Durante a transição de governo, a equipe de Lula negociou a \"PEC de Transição\" para garantir o orçamento necessário para manter o benefício",
+  "response_no_search": "Ótima pergunta! A resposta é que **ambos os governos estão associados ao valor de R$600, mas em contextos e de formas diferentes.**\n\nPara entender claramente,",
+  "error": null
+}

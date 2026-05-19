@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Câmara aprova MP que recriou o programa Bolsa Família - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/967421-camara-aprova-mp-que-recriou-o-programa-bolsa-familia/"
+    },
+    {
+      "title": "Lula confirma Bolsa Família com valor MAIOR em Março",
+      "url": "https://www.acheconcursos.com.br/beneficios-sociais/lula-confirma-bolsa-familia-com-valor-maior-em-marco-58980"
+    },
+    {
+      "title": "Bolsonaro anuncia aumento do Auxílio Brasil para R$ 600 - Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/politica/2024/03/18/bolsonaro-anuncia-aumento-do-auxilio-brasil-para-r-600"
+    },
+    {
+      "title": "Aumento confirmado do Bolsa Família 2024: Saiba o novo valor atualizado  |  Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/aumento-confirmado-do-bolsa-familia-2024-saiba-o-novo-valor-atualizado/"
+    },
+    {
+      "title": "Desvende tudo sobre o Bolsa Família: Novos Valores e Condições! - Jornal Dia",
+      "url": "https://jornaldia.com.br/desvende-tudo-sobre-o-bolsa-familia-novos-valores-e-condicoes/"
+    }
+  ],
+  "response": "O aumento do valor do Bolsa Família para R$600 foi confirmado pelo presidente Luiz Inácio Lula da Silva. Ele anunciou o relançamento do programa com o novo valor mínimo de R$ 600 mensais para as famílias em situação de vulnerabilidade social, além de um adicional de R$ 150 por criança de até 6 anos .",
+  "response_no_search": "O valor do Bolsa Família foi aumentado para R$ 600 pelo presidente Luiz Inácio Lula da Silva, após ele assumir o cargo em janeiro de 2023. Essa medida faz parte de um conjunto de políticas sociais e econômicas implementadas pelo seu governo para combater a pobreza e promover a inclusão social no Brasil.",
+  "error": null
+}

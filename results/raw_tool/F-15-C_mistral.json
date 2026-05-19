@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Yanomami: por que governo Lula não cumpriu promessa de resolver crise e o que planeja fazer agora - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/crg45q8y015o"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023/01/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula-em-boa-vista"
+    },
+    {
+      "title": "Proteção e construção de um novo futuro marcam os três anos da Emergência Yanomami",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias/2026/01/protecao-e-construcao-de-um-novo-futuro-marcam-os-tres-anos-da-emergencia-yanomami"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Sob Bolsonaro, mortes de yanomami por desnutrição cresceram ...",
+      "url": "https://www.bbc.com/portuguese/articles/cw011x9rpldo"
+    }
+  ],
+  "response": "A emergência humanitária na terra Yanomami foi declarada pelo governo Lula. Em 20 de janeiro de 2023, o presidente Luiz Inácio Lula da Silva reconheceu a crise humanitária enfrentada pelo povo Yanomami e decretou emergência em saúde pública .",
+  "response_no_search": "A emergência humanitária na terra Yanomami foi declarada pelo governo Lula. Em janeiro de 2023, o governo de Luiz Inácio Lula da Silva declarou estado de emergência na região dos Yanomami, em resposta à grave crise humanitária e sanitária que a população indígena estava enfrentando. A situação incluiu desnutrição severa, doenças e falta de atendimento médico adequado, resultantes de anos de negligência e invasões de garimpeiros ilegais.",
+  "error": null
+}

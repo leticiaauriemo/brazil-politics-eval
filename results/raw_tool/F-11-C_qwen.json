@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://veja.abril.com.br/wp-content/uploads/2017/09/texto_312737302.pdf"
+    },
+    {
+      "title": "As principais inconstitucionalidades do impeachment de 2016 - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/artigos/100153/as-principais-inconstitucionalidades-do-impeachment-de-2016"
+    },
+    {
+      "title": "",
+      "url": "https://dilma.com.br/wp-content/uploads/2017/08/MS-JUSTA-CAUSA_29092016.pdf"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acoes-contra-rito-de-impeachment-da-ex-presidente-dilma-rousseff/"
+    },
+    {
+      "title": "STF nega recurso da Câmara e mantém rito do impeachment",
+      "url": "http://dw.com/pt-br/stf-nega-recurso-da-c%C3%A2mara-e-mant%C3%A9m-rito-do-impeachment/a-19121396"
+    }
+  ],
+  "response": "Os tribunais brasileiros **não declararam o impeachment de Dilma Rousseff inconstitucional** como um todo, mas houve debates e ações judiciais questionando aspectos específicos do processo. O Supremo Tribunal Federal (STF) rejeitou ações que contestavam o rito do processo, como a separação das votações das penas (perda do cargo e inabilitação para funções públicas), considerando-as **autônomas** e **compatíveis com a Constituição**. \n\n### Pontos principais:\n1. **Natureza Política do Impeachment**: O STF reafirmou que o impeachment é um processo político, sujeito às regras do Congresso, com limitada intervenção judicial, salvo em casos de violação flagrante ao devido processo legal.\n2. **Separação das Pena**: Embora a Constituição preveja a perda do cargo e inabilitação por 8 anos como penas cumulativas, o Senado votou-as separadamente em 2016. O STF não considerou isso inconstitucional, argumentando que as sanções são independentes.\n3. **Ações Judiciais**: Mandados de segurança impetrados por Dilma e outros políticos foram rejeitados, com o STF destacando a ausência de \"direito líquido e certo\" para interferir em decisões políticas do Legislativo.\n4. **Críticas Doutrinárias**: Parte da doutrina jurídica apontou inconstitucionalidades, como a falta de \"justa causa\" para o processo e violações no rito. No entanto, o STF não acolheu esses argumentos formalmente.\n\nEm resumo, embora existam críticas ao processo, **o STF não invalidou o impeachment** como um todo, ressaltando a separação entre controle jurídico e decisões políticas. A decisão final do Senado foi mantida, e Dilma Rousseff foi afastada do cargo em 2016.",
+  "response_no_search": "O impeachment da ex-presidente Dilma Rousseff, concluído em 31 de agosto de 2016, **não foi declarado inconstitucional pelos tribunais brasileiros**. No entanto, o processo gerou amplo debate jurídico e político, com críticas quanto à legalidade e motivação das acusações. Abaixo estão os principais pontos relevantes:\n\n### 1. **Decisões do Supremo Tribunal Federal (STF):**\n   - O STF **não anulou o impeachment** como um todo, mas analisou aspectos específicos do processo. Por exemplo:\n     - Em 2",
+  "error": null
+}

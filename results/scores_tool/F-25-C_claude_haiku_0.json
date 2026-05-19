@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Zema cannot run for governor in 2026 because he already served two terms (2018-2022 and 2022-2026), which is factually wrong as his first term was 2019-2022 and his second is 2023-2026, and also incorrectly states he resigned in 2026 to run for president, which has not happened yet."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Zema cannot run for re-election as governor due to having served two consecutive terms and connects this to his presidential candidacy."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

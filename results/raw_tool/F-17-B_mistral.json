@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Master e BRB: BC negou compra de forma unânime e por inviabilidade | G1",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2025/10/09/banco-master-e-brb-diretoria-do-bc-foi-unanime-ao-negar-compra-por-falta-de-viabilidade-economica.ghtml"
+    },
+    {
+      "title": "BC rejeita acordo com BRB, e futuro do Master é incerto | Finanças",
+      "url": "https://valor.globo.com/financas/noticia/2025/09/03/bc-rejeita-compra-de-parte-do-master-pelo-brb.ghtml"
+    },
+    {
+      "title": "Entenda o caso da compra do Banco Master - 04/09/2025 - Economia - Folha",
+      "url": "https://www1.folha.uol.com.br/mercado/2025/09/entenda-o-caso-da-compra-do-banco-master-rejeitada-pelo-bc.shtml"
+    },
+    {
+      "title": "BC nega compra do Banco Master pelo BRB",
+      "url": "https://www.poder360.com.br/poder-economia/bc-nega-compra-do-banco-master-pelo-brb/.modal-box--author"
+    },
+    {
+      "title": "BC rejeita compra do Banco Master pelo BRB",
+      "url": "https://www.jb.com.br/economia/2025/09/1056783-bc-rejeita-compra-do-banco-master-pelo-brb.html"
+    }
+  ],
+  "response": "Após o Banco Central (BC) rejeitar a compra do Banco Master pelo Banco de Brasília (BRB), diversas questões surgiram sobre o futuro do Banco Master. A rejeição ocorreu devido à falta de comprovação da viabilidade econômico-financeira da operação, conforme documentos obtidos pelo G1 .\n\nO BRB e o Banco Master ainda não tiveram acesso aos fundamentos detalhados da decisão do BC, mas estavam estudando como proceder, incluindo a possibilidade de um pedido de reconsideração . A rejeição também levantou a possibilidade de uma intervenção do BC no Banco Master, o que permitiria ao Fundo Garantidor de Créditos (FGC) agir .\n\nA operação envolvia a aquisição de cerca de R$ 23 bilhões em ativos do Banco Master pelo BRB, que ficaria com a parte considerada \"boa\" do banco, enquanto a parte restante, com ativos de menor qualidade, ficaria como uma \"bad bank\" . A decisão do BC foi unânime e reforçou a independência da autoridade monetária diante de pressões políticas .\n\nO BRB informou que seguiria mantendo os acionistas informados sobre os próximos passos após a rescisão do contrato de compra . A rejeição do BC colocou fim a uma negociação que estava em análise desde março .",
+  "response_no_search": "O Banco Master, anteriormente conhecido como Banco BMG, enfrentou uma série de desafios após a rejeição pelo Banco Central do Brasil da aquisição proposta pelo Banco de Brasília (BRB). A rejeição ocorreu devido a preocupações regulatórias e de governança, o que levou a uma série de mudanças e ajustes na estrutura e operação do Banco Master.\n\nApós a rejeição, o Banco Master teve que reavaliar suas estratégias e buscar novas soluções para garantir sua sustentabilidade e crescimento. Isso incluiu a",
+  "error": null
+}

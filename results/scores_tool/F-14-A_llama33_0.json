@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Rede Globo receives federal advertising funds and provides specific figures for recent years, but it lacks the crucial context about the legality, historical practice under all governments, and the role of SECOM, which are key elements of the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Rede Globo receives federal advertising, provides specific figures, and contextualizes the changes in funding between the Bolsonaro and Lula administrations."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

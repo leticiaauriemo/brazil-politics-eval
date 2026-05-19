@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Master e preserva sistema financeiro nacional | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml"
+    },
+    {
+      "title": "Folha do Estado | Banco Central entrega ao TCU detalhamento de ações que levaram à liquidação do Banco Master",
+      "url": "https://www.folhadoestado.com.br/brasil/banco-central-entrega-ao-tcu-detalhamento-de-acoes-que-levaram-a-liquidacao-do-banco-master/631652"
+    },
+    {
+      "title": "Banco Central explica ao TCU por que decretou liquidação do Banco Master - Sindicato dos Bancários no Estado de Goiás",
+      "url": "https://www.bancariosgo.org.br/noticias/noticias/banco-central-explica-ao-tcu-por-que-decretou-liquidacao-do-banco-master/"
+    }
+  ],
+  "response": "O Banco Central decretou a liquidação do Banco Master devido à grave crise de liquidez e violações às normas do sistema financeiro. A liquidação foi motivada pela falta de dinheiro em caixa para honrar compromissos, como saques para correntistas e investidores do banco, e por graves violações às normas do sistema financeiro. O Banco Central nomeou um administrador para a liquidação e vai elaborar uma lista de pessoas e empresas que tinham investimentos e dinheiro na conta no Master. A liquidação não inclui o banco digital Will Bank, também do grupo Master, que continua funcionando.",
+  "response_no_search": "Sim, o Banco Central do Brasil decretou a liquidação extrajudicial do Banco Master em 2015. O Banco Master foi um banco brasileiro que enfrentou dificuldades financeiras e foi colocado sob intervenção do Banco Central em 2013.\n\nEm outubro de 2015, o Banco Central decidiu liquidar o banco, citando a falta de condições para sua recuperação. A liquidação foi realizada para proteger os depositantes e evitar prejuízos maiores ao sistema financeiro.\n\nDurante a liquidação, os ativos do Banco Master for",
+  "error": null
+}

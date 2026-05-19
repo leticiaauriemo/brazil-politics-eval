@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Tarcísio de Freitas missed the deadline for presidential candidacy, explains the 'desincompatibilização' requirement, and clarifies his decision to run for re-election as governor."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Tarcísio de Freitas missed the deadline for presidential candidacy and clearly explains the desincompatibilização requirement."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

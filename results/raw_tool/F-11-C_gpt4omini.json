@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "As principais inconstitucionalidades do impeachment de 2016 - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/artigos/100153/as-principais-inconstitucionalidades-do-impeachment-de-2016"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acoes-contra-rito-de-impeachment-da-ex-presidente-dilma-rousseff/"
+    },
+    {
+      "title": "Alexandre rejeita recursos de Dilma contra processo de impeachment - Estadão",
+      "url": "https://www.estadao.com.br/politica/fausto-macedo/alexandre-rejeita-recursos-de-dilma-contra-processo-de-impeachment/"
+    },
+    {
+      "title": "Luis Regules: Não há fato jurídico concreto que justifique impeachment",
+      "url": "https://www.conjur.com.br/2016-mai-01/luis-regules-nao-fato-juridico-concreto-justifique-impeachment/"
+    },
+    {
+      "title": "STF rejeita ações contra rito de impeachment de Dilma Rousseff",
+      "url": "https://www.conjur.com.br/2023-set-26/stf-rejeita-acoes-rito-impeachment-dilma-rousseff/"
+    }
+  ],
+  "response": "Os tribunais brasileiros, especialmente o Supremo Tribunal Federal (STF), não declararam o impeachment de Dilma Rousseff como inconstitucional. Em várias decisões, o STF rejeitou ações que questionavam o rito do impeachment e a separação das votações para a perda do cargo e a inabilitação para o exercício de funções públicas.\n\n1. **Decisões do STF**: O STF rejeitou mandados de segurança que contestavam a forma como o Senado conduziu o processo de impeachment, afirmando que as sanções são autônomas e que a separação das votações era constitucional. A ministra Rosa Weber, relatora, destacou que não era possível substituir judicialmente o mérito da decisão política do Senado.\n\n2. **Impeachment e Direitos Políticos**: O STF decidiu que a sanção de perda do cargo foi aplicada sem que Dilma Rousseff perdesse seus direitos políticos, o que permitiu que ela concorresse a uma vaga no Senado em 2018.\n\n3. **Interpretação da Lei do Impeachment**: As ações questionavam a aplicação da Lei do Impeachment (Lei 1079/1950), mas o STF não encontrou fundamentos suficientes para considerar a votação ou o processo como inconstitucionais.\n\nPara mais detalhes, você pode consultar os seguintes links:\n- [STF rejeita ações contra rito de impeachment da ex-presidente Dilma Rousseff](https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acoes-contra-rito-de-impeachment-da-ex-presidente-dilma-rousseff/)\n- [As principais inconstitucionalidades do impeachment de 2016](https://jus.com.br/artigos/100153/as-principais-inconstitucionalidades-do-impeachment-de-2016)",
+  "response_no_search": "Não, os tribunais brasileiros, incluindo o Supremo Tribunal Federal (STF), não declararam o impeachment de Dilma Rousseff como inconstitucional. O impeachment foi aprovado pelo Congresso Nacional em 2016, e o STF, em diversas decisões, reconheceu a legalidade do processo. Embora houvesse debates sobre a constitucionalidade das acusações e do processo em si, o STF não invalidou o impeachment. Dilma Rousseff foi afastada da presidência em agosto de 2016, após o Senado aprovar o impeachment.",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-01-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Em 2019, o ex-presidente Luiz Inácio Lula da Silva foi inocentado das acusações de corrupção relacionadas à Operação Lava Jato em algumas instâncias, mas o processo foi complexo e envolveu várias decisões judiciais.\n\nAqui está um resumo dos principais eventos:\n\n1. **Condenação inicial**: Em 2018, Lula foi condenado a 12 anos de prisão por corrupção passiva, lavagem de dinheiro e recebimento de propina da Operação Lava Jato, especificamente no caso do triplex do Guarujá. A condenação foi proferid",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

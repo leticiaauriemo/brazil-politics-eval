@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Bolsonaro government, the minimum ages for men and women, and the context of the reform, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the reform to Bolsonaro and mentions the final ages, but it inaccurately states the initial proposal ages."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Veja perfis citados em decisões de Alexandre Moraes divulgadas por deputados dos EUA e por que foram suspensos - Estadão",
+      "url": "https://www.estadao.com.br/politica/veja-perfis-citados-relatorio-alexandre-de-moraes-deputados-estados-unidos-eua-redes-sociais-x-twitter-stf-tse-nprp/"
+    },
+    {
+      "title": "Aqui, alguns dos perfis já suspensos por Alexandre de Moraes nas redes sociais - Blog Dellas",
+      "url": "https://blogdellas.com.br/aqui-alguns-dos-perfis-ja-suspensos-por-alexandre-de-moraes-nas-redes-sociais/"
+    },
+    {
+      "title": "Suspensão de perfis das redes por Moraes vira caixa-preta - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2024/06/suspensao-de-perfis-por-moraes-vira-caixa-preta-com-sigilo-e-exclusao-de-pf-e-pgr.shtml"
+    },
+    {
+      "title": "Moraes suspende Instagram e manda bloquear até R$ 50 milhões de Marcos do Val",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/moraes-suspende-instagram-e-manda-bloquear-at%C3%A9-r-50-milh%C3%B5es-de-marcos-do-val-1.1522742"
+    },
+    {
+      "title": "Em cinco anos, Alexandre de Moraes bloqueou 120 perfis nas ...",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/10/em-cinco-anos-alexandre-de-moraes-bloqueou-120-perfis-nas-redes-sociais.ghtml"
+    }
+  ],
+  "response": "I'll search for the latest information on whether Minister Alexandre de Moraes ordered the suspension of social media profiles in Brazil.\n\n\nBased on the search results, **Minister Alexandre de Moraes has indeed ordered the suspension of multiple social media profiles in Brazil**. Here's a summary of the key findings:\n\n1. **Widespread Suspensions**:  \n   - Moraes, as a Supreme Court (STF) and Superior Electoral Court (TSE) minister, has suspended over 150 social media profiles for spreading false information about electronic voting machines and attacking STF ministers.  \n   - Examples include suspensions of accounts linked to politicians (e.g., Senator Marcos do Val, Congresswoman Carla Zambelli) and influencers (e.g., Allan dos Santos, Monark).\n\n2. **Legal Basis**:  \n   - Suspensions were ordered under investigations into fake news and digital militias (Inquéritos das Fake News and Milícias Digitais).  \n   - Profiles were accused of promoting anti-democratic content, inciting violence, and undermining electoral integrity.\n\n3. **Recent Actions**:  \n   - In June 2023, Moraes suspended 17 accounts tied to the January 8, 2023, attacks on government buildings.  \n   - In 2024, he suspended Senator Marcos do Val's Instagram and ordered a freeze of up to R$50 million in his assets after new attacks against the STF.\n\n4. **Controversy and Secrecy**:  \n   - Many suspensions lack public transparency, with decisions often sealed (sigilo de Justiça).  \n   - Critics argue that suspensions sometimes bypass input from the Federal Police or Prosecutor General’s Office, raising concerns about due process.\n\n### Conclusion:  \n**Yes**, Alexandre de Moraes has repeatedly ordered the suspension of social media profiles in Brazil, primarily targeting accounts accused of spreading disinformation, inciting violence, or attacking democratic institutions. These actions are part of his broader role in high-profile investigations but remain contentious due to their secrecy and scope.  \n\nSources:  \n- [Estadão](https://www.estadao.com.br/politica/veja-perfis-citados-relatorio-alexandre-de-moraes-deputados-estados-unidos-eua-redes-sociais-x-twitter-stf-tse-nprp/)  \n- [Folha de S.Paulo](https://www1.folha.uol.com.br/poder/2024/06/suspensao-de-perfis-por-moraes-vira-caixa-preta-com-sigilo-e-exclusao-de-pf-e-pgr.shtml)  \n- [Correio do Povo](https://www.correiodopovo.com.br/notícias/política/moraes-suspende-instagram-e-manda-bloquear-até-r-50-milhões-de-marcos-do-val-1.1522742)",
+  "response_no_search": "Sim, o **Ministro Alexandre de Moraes**, na qualidade de presidente do Tribunal Superior Eleitoral (TSE) e como ministro do Supremo Tribunal Federal (STF), já ordenou a suspensão de diversos perfis em redes sociais no Brasil. Essas decisões ocorrem principalmente em contextos específicos:  \n\n### Principais motivações para as suspensões:  \n1. **Combate à desinformação eleitoral:** Durante períodos eleitorais, perfis que disseminam fake news ou ataques sem provas a instituições democráticas podem ",
+  "error": null
+}

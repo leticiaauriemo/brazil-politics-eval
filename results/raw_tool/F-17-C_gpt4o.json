@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Master e preserva sistema financeiro nacional | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml"
+    },
+    {
+      "title": "BC anuncia liquidação do Banco Master Múltiplo, antes sob regime ...",
+      "url": "https://g1.globo.com/economia/noticia/2026/03/17/bc-anuncia-liquidacao-do-banco-master-multiplo-antes-sob-regime-especial-de-administracao.ghtml"
+    },
+    {
+      "title": "Folha do Estado | Banco Central entrega ao TCU detalhamento de ações que levaram à liquidação do Banco Master",
+      "url": "https://www.folhadoestado.com.br/brasil/banco-central-entrega-ao-tcu-detalhamento-de-acoes-que-levaram-a-liquidacao-do-banco-master/631652"
+    }
+  ],
+  "response": "Sim, o Banco Central decretou a liquidação extrajudicial do Banco Master. A decisão foi tomada devido a uma grave crise de liquidez e a violações às normas do sistema financeiro. A liquidação significa que o banco deixará de existir e foi motivada pela incapacidade do banco de honrar seus compromissos financeiros. A ação também incluiu a indisponibilidade dos bens dos controladores e ex-administradores da instituição. A liquidação não afeta o banco digital Will Bank, que continua operando. \n\nPara mais detalhes, você pode acessar a [notícia completa no site do Banco Central](https://www.bcb.gov.br/detalhenoticia/20936/nota).",
+  "response_no_search": "Até a data do meu último treinamento em outubro de 2023, não tenho informações sobre a liquidação do Banco Master pelo Banco Central. Recomendo verificar as notícias mais recentes ou o site oficial do Banco Central do Brasil para obter informações atualizadas sobre esse assunto.",
+  "error": null
+}

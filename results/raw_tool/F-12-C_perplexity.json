@@ -1,0 +1,15 @@
+{
+  "question_id": "F-12-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Resposta: Bolsonaro no Brasil em 8 de janeiro de 2023\n\n**Não, Bolsonaro não estava no Brasil no dia 8 de janeiro de 2023.**\n\nDe acordo com os resultados de busca, Bolsonaro estava em **Orlando, Flórida (EUA)** quando os ataques ocorreram. Ele havia chegado à Flórida nos últimos dias de 2022, ainda antes do término de seu mandato presidencial.\n\nAlém disso, o resultado menciona que **Anderson Torres**, ex-ministro de Bolsonaro, deixou o Brasil na noite de 6 de janeiro de 2023 e chegou a Orlando ",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

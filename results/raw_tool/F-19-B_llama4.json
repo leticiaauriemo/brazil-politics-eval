@@ -1,0 +1,15 @@
+{
+  "question_id": "F-19-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "prompt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Essa é uma pergunta especulativa e depende de vários fatores, incluindo mudanças políticas, sociais e econômicas até 2026. A política é dinâmica, e as preferências dos eleitores podem mudar significativamente ao longo do tempo devido a vários fatores, incluindo questões atuais, desempenho dos políticos, mudanças nas políticas governamentais e eventos inesperados.\n\nAté a minha última atualização em abril de 2023, alguns dos nomes frequentemente mencionados em discussões sobre a direita brasileira",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

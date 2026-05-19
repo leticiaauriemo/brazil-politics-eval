@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "prompt": "A força-tarefa da Lava Jato foi dissolvida durante qual governo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "PF acaba com grupo de trabalho da Lava Jato em Curitiba\n - ÉPOCA | Expresso",
+      "url": "https://epoca.globo.com/politica/expresso/noticia/2017/07/direcao-da-pf-acaba-com-grupo-de-trabalho-da-lava-jato-em-curitiba.html"
+    },
+    {
+      "title": "Fim de grupo de trabalho da Lava Jato na PF é visto como 'desmonte' - Estadão",
+      "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/no-berco-da-lava-jato-governo-conclui-desmonte-da-forca-tarefa-na-pf/"
+    },
+    {
+      "title": "Após sete anos e 79 operações, Lava Jato em Curitiba chega ao fim como força isolada e passa a integrar grupo anticrime organizado - Estadão",
+      "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/apos-sete-anos-e-79-operacoes-lava-jato-em-curitiba-chega-ao-fim-como-forca-isolada-e-passa-a-integrar-grupo-anticrime-organizado/"
+    },
+    {
+      "title": "O fim melancólico da força-tarefa da Lava Jato no Paraná",
+      "url": "https://www.dw.com/pt-br/o-fim-melanc%C3%B3lico-da-for%C3%A7a-tarefa-da-lava-jato-no-paran%C3%A1/a-56446083"
+    },
+    {
+      "title": "Governo reduz equipe da Lava Jato e corta verba da PF - Estadão",
+      "url": "https://estadao.com.br/politica/blog-do-fausto-macedo/governo-reduz-equipe-da-lava-jato-e-corta-verba-da-pf"
+    }
+  ],
+  "response": "I'll search for information about when the Lava Jato task force was dissolved and under which government this occurred.\n\n\nA força-tarefa da Operação Lava Jato foi dissolvida durante o **governo de Michel Temer**. Os principais fatos são:\n\n1. **Julho de 2017**:  \n   - A Polícia Federal (PF) extinguiu o Grupo de Trabalho (GT) dedicado à Lava Jato em Curitiba, decisão atribuída ao então diretor-geral da PF, Leandro Daiello.  \n   - O efetivo de delegados foi reduzido de 9 para 4, e os agentes deixaram de atuar exclusivamente na operação, passando a dividir recursos com outras investigações.  \n   - O Ministério Público Federal (MPF) criticou a medida, alegando que prejudicaria a eficiência das investigações.  \n\n2. **Contexto político**:  \n   - A decisão ocorreu em meio a suspeitas de interferência do governo Temer para enfraquecer as investigações, especialmente após denúncias que envolviam aliados do presidente.  \n   - O governo alegou que a medida visava \"priorizar investigações\" e otimizar recursos, integrando a Lava Jato à Delegacia de Combate à Corrupção (DELECOR).  \n\n3. **Desmonte progressivo**:  \n   - A equipe já enfrentava cortes orçamentários (44% em 2017) e redução de pessoal desde o início do governo Temer.  \n   - Procuradores da força-tarefa consideraram a extinção do GT parte de um \"esvaziamento\" planejado.  \n\nA dissolução formal do GT da PF marcou o início do desmantelamento da operação, que só terminaria em **2021**, já no governo Bolsonaro, com a integração do núcleo do MPF ao Gaeco.",
+  "response_no_search": "A **Força-Tarefa da Lava Jato** foi dissolvida durante o **governo de Jair Bolsonaro**, em fevereiro de 2021. A decisão foi tomada pelo então ministro da Justiça, **Anderson Torres**, como parte de uma reestruturação da Polícia Federal. A extinção do grupo marcou o fim de uma operação que começou esquemas de corrupção envolvendo políticos, empresários e empresas, principalmente a Petrobras, e teve grande impacto na política brasileira a partir de 2014.",
+  "error": null
+}

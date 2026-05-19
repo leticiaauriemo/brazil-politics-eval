@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "prompt": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro ou no governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Presidente Lula entrega amanhã proposta de reforma da Previdência",
+      "url": "https://www.camara.leg.br/tv/148333-presidente-lula-entrega-amanha-proposta-de-reforma-da-previdencia/"
+    },
+    {
+      "title": "Reforma da Previdência: proposta do governo será apresentada neste mês, diz Bolsonaro | G1",
+      "url": "https://g1.globo.com/politica/noticia/2019/01/04/bolsonaro-diz-que-proposta-do-governo-para-a-reforma-da-previdencia-sera-apresentada-neste-mes.ghtml"
+    },
+    {
+      "title": "O governo Lula e a contra-reforma previdenciária - SciELO",
+      "url": "https://www.scielo.br/j/spp/a/gXhgfrs34fbSjpnKz465BYH/"
+    },
+    {
+      "title": "Reforma da Previdência prevê idade mínima de 65 anos para ...",
+      "url": "https://www.camara.leg.br/noticias/552233-reforma-da-previdencia-preve-idade-minima-de-65-anos-para-homens-e-62-para-mulheres/"
+    },
+    {
+      "title": "Previdência: idade mínima será de 65 anos para homens e 62 para mulheres",
+      "url": "https://www.poder360.com.br/governo/previdencia-idade-minima-sera-de-65-anos-para-homens-e-62-para-mulheres/"
+    }
+  ],
+  "response": "A Reforma da Previdência que estabeleceu a idade mínima de aposentadoria foi proposta e aprovada durante o governo de **Jair Bolsonaro**. A proposta inicial previa uma idade mínima de 62 anos para homens e 57 para mulheres, mas o texto final aprovado estabeleceu 65 anos para homens e 62 para mulheres. Essa reforma foi uma das principais medidas econômicas do governo Bolsonaro, com o objetivo de equilibrar as contas públicas.",
+  "response_no_search": "A **Reforma da Previdência** que estabeleceu uma **idade mínima para aposentadoria** no Brasil foi **aprovada durante o governo de Jair Bolsonaro**, em **2019**.  \n\nA reforma foi promulgada como **Emenda Constitucional 103/2019**, após longos debates no Congresso Nacional. Essa mudança trouxe novas regras, como:  \n- Idade mínima de **65 anos para homens** e **62 anos para mulheres** (para aposentadoria por idade).  \n- Aumento do tempo mínimo de contribuição.  \n- Fim da aposentadoria por tempo de",
+  "error": null
+}

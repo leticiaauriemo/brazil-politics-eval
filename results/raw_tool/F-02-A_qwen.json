@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/"
+    },
+    {
+      "title": "STF publica acórdão de julgamento que mantém condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "STF publica ata de julgamento que manteve condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/17/stf-publica-ata-de-julgamento-que-manteve-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "STF condena Bolsonaro a 27 anos e 3 meses de prisão por tentativa de golpe de Estado e o deixa inelegível por décadas",
+      "url": "https://www.bol.uol.com.br/noticias/2025/09/11/stf-condena-bolsonaro-a-27-anos-e-3-meses-de-prisao-por-tentativa-de-golpe-de-estado-e-o-deixa-inelegivel-por-decadas.htm"
+    },
+    {
+      "title": "Bolsonaro é condenado pelo STF por golpe de estado e outros crimes; pena é de 27 anos",
+      "url": "https://www.bloomberglinea.com.br/brasil/jair-bolsonaro-e-considerado-culpado-pelo-stf-por-golpe-de-estado-e-mais-quatro-crimes/"
+    }
+  ],
+  "response": "Sim, o ex-presidente Jair Bolsonaro foi condenado pelo Supremo Tribunal Federal (STF) por envolvimento em uma tentativa de golpe de Estado, entre outros crimes. Em setembro de 2025, a Primeira Turma do STF concluiu o julgamento da Ação Penal (AP) 2668, condenando Bolsonaro e outros sete réus pelo **plano de golpe de Estado** após a derrota eleitoral de 2022. \n\n### Principais pontos da condenação:\n1. **Crimes envolvidos**:\n   - Tentativa de abolição violenta do Estado Democrático de Direito.\n   - Golpe de Estado.\n   - Participação em organização criminosa armada.\n   - Dano qualificado e deterioração de patrimônio tombado (relacionados aos atos de 8 de janeiro de 2023 em Brasília).\n\n2. **Pena**:\n   - Bolsonaro foi condenado a **27 anos e 3 meses de prisão** em regime inicialmente fechado.\n   - Outros réus receberam penas que variam de 26 a 16 anos, exceto Mauro Cid (ajudante de ordens de Bolsonaro), que obteve 2 anos em regime aberto por colaborar com a Justiça.\n\n3. **Consequências**:\n   - A condenação o torna **inelegível até 2060**, ampliando a inelegibilidade anterior (até 2030) por decisões do Tribunal Superior Eleitoral (TSE).\n   - Perda de patentes militares para Bolsonaro e outros réus com vinculação às Forças Armadas.\n\n4. **Recursos**:\n   - A Primeira Turma do STF rejeitou, por unanimidade, embargos de declaração apresentados pelas defesas. Novos recursos (embargos infringentes ou \"embargos dos embargos\") ainda podem ser protocolados, mas as chances de sucesso são consideradas baixas.\n\n5. **Contexto**:\n   - O caso está ligado aos atos de 8 de janeiro de 2023, quando manifestantes bolsonaristas invadiram sedes dos Três Poderes em Brasília. A Procuradoria-Geral da República (PGR) apontou Bolsonaro e seu núcleo como responsáveis pelo planejamento do golpe.\n\nEm resumo, a condenação é histórica, marcando a primeira vez que um ex-presidente brasileiro é punido por atentar contra a democracia. Bolsonaro nega as acusações e alega inocência, mas a decisão do STF reforça a gravidade dos fatos apurados.",
+  "response_no_search": "Até a data do meu conhecimento (julho de 2024), **Jair Bolsonaro não foi condenado pelo Supremo Tribunal Federal (STF) por tentativa de golpe de Estado**. No entanto, ele enfrenta investigações e acusações relacionadas a ações durante seu mandato, especialmente após as eleições de 2022. Aqui estão os principais pontos:\n\n1. **Inquérito sobre \"abuso de autoridade\"**:  \n   O STF abriu um inquérito em 2021 para investigar supostas condutas de Bolsonaro que teriam visado interferir no processo eleito",
+  "error": null
+}

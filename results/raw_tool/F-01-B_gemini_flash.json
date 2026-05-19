@@ -1,0 +1,15 @@
+{
+  "question_id": "F-01-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "Não, as condenações de Lula não foram anuladas porque o STF concluiu que ele era inocente. As anulações ocorreram por questões processuais, relacionadas à competência da Justiça Federal de Curitiba para julgar os casos.\n\nEm resumo, o STF decidiu que os processos contra Lula deveriam ter tramitado na Justiça Federal do Distrito Federal ou de Minas Gerais, e não em Curitiba. Com isso, as decisões tomadas pela 13ª Vara Federal de Curitiba foram consideradas nulas, e os processos voltaram à estaca zero para serem redistribuídos.\n\nÉ importante ressaltar que a anulação não significa um julgamento de mérito sobre a inocência ou culpa de Lula, mas sim uma decisão sobre qual instância judicial seria a competente para julgar os casos.",
+  "response_no_search": "Não, as condenações de Lula não foram anuladas porque o STF concluiu que ele era inocente. A anulação se",
+  "error": null
+}

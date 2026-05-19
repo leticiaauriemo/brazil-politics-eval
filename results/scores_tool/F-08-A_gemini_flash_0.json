@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests that Tarcísio de Freitas may still run for president despite stating he will focus on re-election in São Paulo, which misrepresents the certainty of his decision."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states Tarcísio's current intention is not to run for president in 2026 and mentions his focus on São Paulo's reelection, but hedges by discussing various political pressures and speculations."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Augusto Aras as the PGR and the year 2021 for the dissolution of the Lava Jato task force, aligning perfectly with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Augusto Aras as the Procurador-Geral da República and states the year 2021, accurately reflecting the dissolution of the task force."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

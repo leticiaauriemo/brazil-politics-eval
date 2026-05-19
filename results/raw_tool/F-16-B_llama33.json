@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senado aprova e auxílio de R$ 600 segue para sanção de Bolsonaro",
+      "url": "https://oglobo.globo.com/economia/senado-aprova-auxilio-de-600-segue-para-sancao-de-bolsonaro-24339424"
+    },
+    {
+      "title": "CCJ do Senado aprova PEC do Bolsa Família - a PEC do Lula",
+      "url": "https://www.esmaelmorais.com.br/ccj-do-senado-aprova-pec-do-bolsa-familia-a-pec-da-transicao-do-governo-lula/"
+    },
+    {
+      "title": "Bolsa Família 2026 confirma pagamento mínimo de R$ 600 com adicionais para crianças e gestantes – Mix Vale",
+      "url": "https://www.mixvale.com.br/2026/01/09/bolsa-familia-2026-confirma-pagamento-minimo-de-r-600-com-adicionais-para-criancas-e-gestantes/"
+    },
+    {
+      "title": "Só Lula garante Bolsa Família de R$ 600, alerta ex-ministra do ...",
+      "url": "https://pt.org.br/so-lula-garante-bolsa-familia-de-r-600-alerta-ex-ministra-do-combate-a-fome/"
+    },
+    {
+      "title": "Salário mínimo vai subir de 1,3% a 1,4% acima da inflação em 2023, afirma Wellington Dias",
+      "url": "https://www.infomoney.com.br/politica/salario-minimo-vai-subir-de-13-a-14-acima-da-inflacao-em-2023-afirma-wellington-dias/"
+    }
+  ],
+  "response": "O benefício mínimo de R$600 foi uma medida do governo Lula.",
+  "response_no_search": "O benefício mínimo de R$600 foi uma medida implementada pelo governo Lula, mais especificamente pelo presidente Luiz Inácio Lula da Silva, durante seu terceiro mandato. Em janeiro de 2023, o governo Lula anunciou um aumento no valor do benefício do Bolsa Família, que passou a ser chamado de Auxílio Brasil, para R$ 600, além de outros benefícios adicionais para famílias com crianças e adolescentes.\n\nEssa medida foi uma das principais promessas de campanha do presidente Lula e visa ajudar a reduzi",
+  "error": null
+}

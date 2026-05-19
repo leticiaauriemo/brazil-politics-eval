@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Leia as penas e multas impostas a Bolsonaro e aos outros réus",
+      "url": "https://www.poder360.com.br/poder-justica/leia-as-penas-e-multas-impostas-a-bolsonaro-e-aos-outros-reus/"
+    },
+    {
+      "title": "STF impõe pena de 27 anos e 3 meses de prisão a Bolsonaro",
+      "url": "https://www.jb.com.br/brasil/justica/2025/09/1056869-stf-impoe-pena-de-27-anos-e-3-meses-de-prisao-a-bolsonaro.html"
+    },
+    {
+      "title": "Veja de quanto foi pena imposta pelo STF a Bolsonaro e demais réus pela tentativa de golpe | Diario de Pernambuco - Rumo aos 200 anos",
+      "url": "https://www.diariodepernambuco.com.br/politica/2025/09/11695623-veja-de-quanto-foi-pena-imposta-pelo-stf-a-bolsonaro-e-demais-reus-pela-tentativa-de-golpe.html"
+    },
+    {
+      "title": "Bolsonaro condenado a regime fechado pelo STF: o que acontece agora? - BBC News Brasil",
+      "url": "https://www.bbc.co.uk/portuguese/articles/cy859egpl6jo"
+    },
+    {
+      "title": "Bolsonaro condenado a 27 anos. Como o STF chegou à pena?",
+      "url": "https://tvtnews.com.br/bolsonaro-condenado-27-anos-como-stf-chegou-pena/"
+    }
+  ],
+  "response": "Em 2025, o ex-presidente Jair Bolsonaro foi condenado pela Primeira Turma do Supremo Tribunal Federal (STF) a 27 anos e 3 meses de prisão em regime inicial fechado. A condenação foi por cinco crimes, incluindo tentativa de golpe de Estado, abolição violenta do Estado Democrático de Direito, dano qualificado, deterioração de patrimônio tombado e organização criminosa armada. Além da pena de prisão, Bolsonaro foi condenado a pagar uma multa de 124 dias-multa, com cada dia-multa equivalente a dois salários mínimos, totalizando aproximadamente R$ 365,3 mil. Ele também foi condenado a pagar R$ 30 milhões por danos morais coletivos e declarado inelegível por oito anos após o término do cumprimento das penas. A decisão foi tomada por 4 votos a 1 pelos ministros do STF.",
+  "response_no_search": "Sinto muito, mas não tenho informações sobre eventos ou decisões judiciais que ocorreram após outubro de 2023. Para obter informações atualizadas sobre esse assunto, recomendo consultar fontes de notícias confiáveis ou sites oficiais relacionados ao sistema judiciário brasileiro.",
+  "error": null
+}

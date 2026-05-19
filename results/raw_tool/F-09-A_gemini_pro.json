@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "prompt": "O governo Bolsonaro recusou ofertas de vacinas contra COVID-19 da Pfizer em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo rejeitou 70 milhões de doses da Pfizer, das quais 3 milhões poderiam já ter sido aplicadas - 06/03/2021 - Equilíbrio e Saúde - Folha",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2021/03/governo-negou-3-vezes-ofertas-da-pfizer-e-perdeu-ao-menos-3-milhoes-de-doses-de-vacina.shtml"
+    },
+    {
+      "title": "Rejeição de 70 milhões de doses da Pfizer por gestão Bolsonaro será novo foco da CPI da Covid - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-57018138"
+    },
+    {
+      "title": "Após rejeitar ofertas de vacinas da empresa, Bolsonaro agora pede à Pfizer para antecipar entregas | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/06/14/apos-rejeitar-ofertas-de-vacinas-da-empresa-bolsonaro-agora-pede-a-pfizer-para-antecipar-entregas.ghtml"
+    },
+    {
+      "title": "Após ignorar Pfizer, Bolsonaro pede antecipação de doses",
+      "url": "https://www.dw.com/pt-br/ap%C3%B3s-ignorar-pfizer-bolsonaro-pede-antecipa%C3%A7%C3%A3o-de-doses/a-57896926"
+    },
+    {
+      "title": "Representante da Pfizer confirma: governo não respondeu ofertas ...",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/13/representante-da-pfizer-confirma-governo-nao-respondeu-ofertas-feitas-em-agosto-de-2020"
+    }
+  ],
+  "response": "Sim, o governo Bolsonaro recusou várias ofertas de vacinas contra a COVID-19 da Pfizer em 2020.\n\nDe acordo com as informações disponíveis, a farmacêutica Pfizer fez a primeira oferta ao governo brasileiro em agosto de 2020, oferecendo 70 milhões de doses, com a possibilidade de entrega a partir de dezembro do mesmo ano. Essa e outras ofertas subsequentes foram ignoradas ou recusadas pelo governo.\n\nA recusa em fechar o acordo com a Pfizer em 2020 foi um dos principais focos da CPI da COVID no Senado, que investigou as ações e omissões do governo federal no combate à pandemia. Representantes da Pfizer confirmaram à CPI que o governo brasileiro não respondeu a diversas ofertas feitas em 2020.\n\nO contrato com a Pfizer para a compra de 100 milhões de doses só foi assinado em março de 2021, em um momento em que a pandemia estava no auge no Brasil. A demora na aquisição das vacinas é apontada como um dos fatores que contribuíram para o agravamento da crise sanitária no país.\n\nO governo alegou que as cláusulas do contrato proposto pela Pfizer eram \"draconianas\", principalmente no que diz respeito à isenção de responsabilidade da empresa por eventuais efeitos colaterais da vacina. No entanto, essas mesmas cláusulas foram aceitas por outros países que iniciaram a vacinação com o imunizante da Pfizer ainda em 2020.",
+  "response_no_search": "Sim, o governo do então presidente Jair Bolsonaro recusou diversas ofertas da farmacêutica Pfizer para a compra de vacinas contra a COVID-19 ao longo de 2020. Este fato",
+  "error": null
+}

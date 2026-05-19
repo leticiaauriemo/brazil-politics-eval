@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "prompt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Pesquisa aponta Flávio Bolsonaro como principal nome da direita para a Presidência em 2026 - GP1",
+      "url": "https://www.gp1.com.br/eleicoes-2026/noticia/2026/2/10/pesquisa-aponta-flavio-bolsonaro-como-principal-nome-da-direita-para-a-presidencia-em-2026-615312.html"
+    },
+    {
+      "title": "Flávio x Tarcísio: quem é o candidato à Presidência da direita em 2026",
+      "url": "https://mais.opovo.com.br/colunistas/esplanada/2026/02/02/flavio-x-tarcisio-quem-e-o-candidato-a-presidencia-da-direita-em-2026.html"
+    },
+    {
+      "title": "No Congresso, Flávio Bolsonaro é o nome mais citado para liderar a direita brasileira | VEJA",
+      "url": "https://veja.abril.com.br/brasil/no-congresso-flavio-bolsonaro-e-o-nome-mais-citado-para-liderar-a-direita-brasileira/"
+    },
+    {
+      "title": "Eleição 2026: direita apresenta nomes competitivos, mas segue fragmentada diante de Lula - Tribuna Conservadora",
+      "url": "https://www.tribunaconservadora.com.br/noticia/eleicao-2026-direita-apresenta-nomes-competitivos-mas-segue-fragmentada-diante-de-lula"
+    },
+    {
+      "title": "Saiba quem são e o que defendem os potenciais candidatos à Presidência em 2026",
+      "url": "https://www.poder360.com.br/poder-eleicoes/saiba-o-que-defendem-os-potenciais-candidatos-a-presidencia-em-2026/"
+    }
+  ],
+  "response": "Atualmente, o candidato mais forte da direita brasileira para as eleições presidenciais de 2026 é Flávio Bolsonaro. De acordo com pesquisas recentes, o senador Flávio Bolsonaro (PL-RJ) é apontado como o principal representante da direita na disputa pela Presidência da República. Ele lidera entre eleitores que se identificam como de direita e centro-direita, além de ser percebido pela maioria dos entrevistados como o candidato que melhor simboliza esse campo ideológico .\n\nOutros nomes citados como potenciais candidatos de direita incluem Tarcísio de Freitas (Republicanos), governador de São Paulo, Romeu Zema (Novo), governador de Minas Gerais, e Ronaldo Caiado (União Brasil), governador de Goiás. No entanto, Flávio Bolsonaro se destaca pela força do sobrenome, estrutura do PL e fidelidade da base bolsonarista, o que o coloca como o nome mais próximo de disputar diretamente com Lula em um eventual segundo turno .",
+  "response_no_search": "Determinar quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026 é uma questão complexa e depende de vários fatores, incluindo a popularidade atual dos políticos, a dinâmica política no momento e eventos futuros que podem influenciar a opinião pública.\n\nAté o momento, algumas figuras proeminentes da direita brasileira incluem:\n\n1. **Jair Bolsonaro**: Ex-presidente do Brasil, ele continua a ser uma figura influente no espectro político de direita. No entanto, ",
+  "error": null
+}

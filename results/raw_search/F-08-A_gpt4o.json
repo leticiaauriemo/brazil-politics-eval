@@ -1,0 +1,35 @@
+{
+  "question_id": "F-08-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "prompt": "Tarcísio de Freitas vai concorrer à presidência nas eleições de 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Tarcísio vai de favorito do Centrão a plano B para o Planalto",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto.ghtml"
+    },
+    {
+      "title": "O que Tarcísio disse a Bolsonaro sobre se candidatar à Presidência",
+      "url": "https://www.metropoles.com/sao-paulo/o-que-tarcisio-disse-a-bolsonaro-sobre-se-candidatar-a-presidencia"
+    },
+    {
+      "title": "Tarcísio de Freitas nega que vá concorrer à presidência; Lula lidera",
+      "url": "https://www.em.com.br/politica/2025/09/7250942-tarcisio-de-freitas-nega-que-va-concorrer-a-presidencia-lula-lidera.html"
+    },
+    {
+      "title": "CdB | Tarcísio de Freitas desiste da corrida ao Planalto",
+      "url": "https://correiodobrasil.com.br/a/tarcisio-freitas-oficializa-desistencia-campanha-planalto"
+    },
+    {
+      "title": "Tarcísio afirma que não será candidato à presidência em 2026: \"Pretendo concorrer à reeleição\" | abc+",
+      "url": "https://www.abcmais.com/politica/tarcisio-afirma-que-nao-sera-candidato-a-presidencia-em-2026-pretendo-concorrer-a-reeleicao/"
+    }
+  ],
+  "response": "Não, Tarcísio de Freitas não vai concorrer à presidência nas eleições de 2026. Ele declarou que pretende buscar a reeleição como governador de São Paulo. Tarcísio justificou sua decisão com base nos projetos e obras importantes que ainda tem a entregar no estado, além de considerar o bem-estar de sua família e a adaptação à vida em São Paulo como fatores importantes para sua escolha. Além disso, ele avaliou que o apoio que possui não seria suficiente para vencer uma eleição presidencial contra Lula, que lidera as pesquisas de intenção de voto [em.com.br](https://www.em.com.br/politica/2025/09/7250942-tarcisio-de-freitas-nega-que-va-concorrer-a-presidencia-lula-lidera.html), [abcmais.com](https://www.abcmais.com/politica/tarcisio-afirma-que-nao-sera-candidato-a-presidencia-em-2026-pretendo-concorrer-a-reeleicao/), [correiodobrasil.com.br](https://correiodobrasil.com.br/a/tarcisio-freitas-oficializa-desistencia-campanha-planalto).",
+  "response_no_search": "Até a data do meu último treinamento em outubro de 2023, não há informações confirmadas sobre a candidatura de Tarcísio de Freitas à presidência nas eleições de 2026. As decisões políticas e candidaturas podem ser anunciadas mais perto das eleições, então é importante acompanhar as notícias e declarações oficiais para obter informações atualizadas sobre possíveis candidatos.",
+  "error": null
+}

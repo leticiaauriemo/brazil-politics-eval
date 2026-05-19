@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Luiz Inácio Lula da Silva: vida, carreira, governos - Brasil Escola",
+      "url": "https://m.brasilescola.uol.com.br/biografia/luiz-inacio-lula-da-silva.htm"
+    },
+    {
+      "title": "A trajetória de Lula: duas prisões e três mandatos para presidente",
+      "url": "https://www.metropoles.com/brasil/eleicoes-2022/a-trajetoria-de-lula-duas-prisoes-e-tres-mandatos-para-presidente"
+    },
+    {
+      "title": "Dados ex-Presidente — Secretaria-Geral",
+      "url": "https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/luiz-inacio-lula-da-silva/"
+    },
+    {
+      "title": "Veja o perfil de Lula, o presidente reeleito do Brasil - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/91015-veja-o-perfil-de-lula-o-presidente-reeleito-do-brasil"
+    },
+    {
+      "title": "Presidentes do Brasil: ordem de sucessão - História do Mundo",
+      "url": "https://www.historiadomundo.com.br/idade-moderna/presidentes-do-brasil.htm"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva está em seu **terceiro mandato presidencial**. Ele governou o Brasil de 2003 a 2011 (primeiro e segundo mandatos) e retornou à presidência em 2023, após vencer as eleições de 2022. Este é o primeiro caso na história do Brasil de um presidente eleito para três mandatos distintos.",
+  "response_no_search": "Luiz Inácio Lula da Silva está em seu **terceiro mandato presidencial** do Brasil, assumindo o cargo em 1º de janeiro de 2023. Anteriormente, governou o país em dois mandatos consecutivos: de **2003 a 2006** (primeiro mandato) e de **2006 a 2010** (segundo mandato). \n\nApesar de a Constituição brasileira permitir originalmente apenas dois mandatos presidenciais consecutivos, mudanças na interpretação jurídica e fatores políticos permitiram sua candidatura em 2022. A anulação de suas condenações n",
+  "error": null
+}

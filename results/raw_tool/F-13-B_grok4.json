@@ -1,0 +1,28 @@
+{
+  "question_id": "F-13-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Reforma_da_Previd%C3%AAncia_do_governo_Jair_Bolsonaro"
+    },
+    {
+      "title": "2",
+      "url": "https://www.gov.br/inss/pt-br/noticias/ajustes-na-idade-minima-e-nas-regras-de-transicao-para-pedir-aposentadoria-ja-estao-em-vigor-confira"
+    },
+    {
+      "title": "3",
+      "url": "https://www.camara.leg.br/noticias/552750-regras-da-previdencia-sofreram-seis-mudancas-nas-ultimas-tres-decadas/"
+    }
+  ],
+  "response": "**Governo de Jair Bolsonaro (Emenda Constitucional nº 103, de 2019).**[[1]](https://pt.wikipedia.org/wiki/Reforma_da_Previd%C3%AAncia_do_governo_Jair_Bolsonaro)\n\nA Emenda Constitucional nº 103 (EC 103/2019), conhecida como Reforma da Previdência ou “Nova Previdência”, foi promulgada em 12 de novembro de 2019 e publicada no Diário Oficial da União em 13 de novembro de 2019, durante o primeiro mandato do presidente Jair Bolsonaro. Ela alterou o artigo 201 da Constituição Federal e estabeleceu, de forma geral e obrigatória, a idade mínima para aposentadoria no Regime Geral de Previdência Social (RGPS/INSS) e no Regime Próprio dos Servidores Públicos (RPPS) federal:\n\n- Mulheres: 62 anos de idade + 15 anos de contribuição.\n- Homens: 65 anos de idade + 20 anos de contribuição (ou 15 anos para quem já estava filiado antes da reforma).\n\nEssa emenda extinguiu a aposentadoria por tempo de contribuição sem idade mínima (que existia antes) e introduziu regras de transição para quem já estava no mercado de trabalho.[[2]](https://www.gov.br/inss/pt-br/noticias/ajustes-na-idade-minima-e-nas-regras-de-transicao-para-pedir-aposentadoria-ja-estao-em-vigor-confira)\n\nEmbora a Emenda Constitucional nº 20/1998 (governo Fernando Henrique Cardoso) já tivesse fixado idades mínimas para servidores públicos e exigido tempo mínimo de contribuição para o INSS, foi a EC 103/2019 que generalizou e tornou obrigatória a idade mínima para a maioria dos trabalhadores, tanto do setor privado quanto do público.[[3]](https://www.camara.leg.br/noticias/552750-regras-da-previdencia-sofreram-seis-mudancas-nas-ultimas-tres-decadas/)\n\nPortanto, a emenda que efetivamente “estabeleceu” a idade mínima como regra principal da aposentadoria no Brasil foi aprovada no governo Jair Bolsonaro.",
+  "response_no_search": "A emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil foi a **Emenda Constitucional nº 103/2019**, conhecida como a Reforma da Previdência. Ela foi aprovada durante o governo do presidente **Jair Bolsonaro**, com promulgação em 12 de novembro de 2019.\n\n### Detalhes principais:\n- A reforma introduziu idades mínimas de 65 anos para homens e 62 anos para mulheres no regime geral (INSS), com regras de transição para quem já contribuía.\n- Antes dessa emenda, o sistema bras",
+  "error": null
+}

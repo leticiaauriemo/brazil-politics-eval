@@ -1,0 +1,19 @@
+{
+  "question_id": "F-20-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Brazil as 4th globally in total doses but omits the crucial context about the SUS/PNI infrastructure and the government's initial resistance, which is a significant part of the ground truth's nuance."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

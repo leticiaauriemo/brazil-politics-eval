@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the conviction, specifies the sentence of 27 years and 3 months, and includes the detail of the vote count."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms Bolsonaro's conviction, mentions the approximate sentence of 27 years, and implies the conviction's finality, although it does not explicitly mention the trânsito em julgado in November 2025, it provides enough correct details to warrant a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

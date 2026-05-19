@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-suspensao-do-x-antigo-twitter-em-todo-o-territorio-nacional-2/"
+    },
+    {
+      "title": "STF rejeita 39 recursos contra bloqueio de perfis em redes sociais",
+      "url": "https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/"
+    },
+    {
+      "title": "Ordem para suspender X completa um mês; STF aguarda pagamento de multa - Folha do País",
+      "url": "https://www.folhadopais.com/politica-41480"
+    },
+    {
+      "title": "X obedece decisão de Moraes e suspende contas no Brasil",
+      "url": "https://www.gazetadopovo.com.br/republica/x-alexandre-moraes-suspende-contas-no-brasil-allan-dos-santos-paulo-figueiredo/"
+    },
+    {
+      "title": "Moraes manda bloquear rede social e R$ 50 milhões do senador Marcos Do Val - Metro 1",
+      "url": "https://www.metro1.com.br/noticias/justica/154008,moraes-manda-bloquear-rede-social-e-rdollar-50-milhoes-do-senador-marcos-do-val"
+    }
+  ],
+  "response": "Sim, um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil. O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a suspensão da conta do senador Marcos do Val (Podemos-ES) no Instagram e ordenou o bloqueio de até R$ 50 milhões das contas bancárias do senador. Além disso, o ministro também determinou a suspensão da plataforma X (antigo Twitter) no Brasil, após a empresa não cumprir ordens judiciais e pagar multas. A decisão foi tomada após o bilionário Elon Musk, dono da rede social, não obedecer a uma intimação de Moraes feita em mensagem no próprio X.",
+  "response_no_search": "Não, um ministro do Supremo Tribunal Federal (STF) não pode individualmente ordenar a suspensão de contas em redes sociais no Brasil sem seguir os procedimentos legais e constitucionais adequados. O STF, como corte constitucional, tem a autoridade para interpretar a Constituição e as leis do país, mas suas decisões devem ser tomadas de acordo com os procedimentos estabelecidos pela lei e pela Constituição.\n\nNo Brasil, a suspensão de contas em redes sociais por ordem judicial geralmente requer um",
+  "error": null
+}

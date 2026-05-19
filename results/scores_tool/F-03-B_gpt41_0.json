@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model correctly identifies the 8-year duration and the reason for the TSE's decision, but then introduces speculative and incorrect information about a 'new ineligibility via Lei da Ficha Limpa (STF)' with a 27-year prison sentence and an ineligibility until 2060, which is entirely false and misleading, thus making the core factual claim incorrect."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the duration of ineligibility as eight years until 2030 and clearly explains the reason for the ineligibility, including the context of the abuse of electoral power and the meeting with foreign ambassadors."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "STF confirma anulação de condenações da Lava Jato contra Lula — entenda - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56768338"
+    },
+    {
+      "title": "Após STF anular processos da Lava Jato, Lula foi inocentado ou não? Entenda",
+      "url": "https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    }
+  ],
+  "response": "Com base nos resultados da pesquisa, as informações sobre a situação jurídica do ex-presidente Luiz Inácio Lula da Silva em relação à Operação Lava Jato são as seguintes:\n\n### Resumo dos Fatos:\n1. **Anulação das Condenações**:\n   - Em 2021, o STF (Supremo Tribunal Federal) **anulou as condenações** de Lula nos casos do triplex do Guarujá e do sítio de Atibaia (fontes: [BBC](https://www.bbc.com/portuguese/brasil-62612955), [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261)).\n   - A decisão foi tomada por **questões processuais**: o STF considerou que a 13ª Vara Federal de Curitiba (onde Sergio Moro atuava) era **incompetente** para julgar os casos, pois as acusações não tinham ligação direta com desvios da Petrobras (contexto central da Lava Jato).\n\n2. **Motivos da Anulação**:\n   - **Incompetência do Juízo**: Os casos foram anulados porque deveriam ter sido julgados em Brasília ou São Paulo, não em Curitiba (fontes: [BBC News](https://www.bbc.com/portuguese/brasil-56768338), [O Povo](https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html)).\n   - **Parcialidade de Moro**: O STF também considerou que o ex-juiz Sergio Moro agiu com **parcialidade**, o que contaminou todo o processo (fonte: [Gazeta do Povo](https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/)).\n\n3. **Lula foi \"inocentado\"?**:\n   - **Não**, no sentido jurídico estrito. O STF **não analisou o mérito das acusações** (ou seja, não examinou se Lula era culpado ou inocente dos crimes). A anulação ocorreu por vícios processuais, não por falta de provas (fontes: [BBC](https://www.bbc.com/portuguese/brasil-62612955), [Gazeta do Povo](https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/)).\n   - Porém, com a anulação, Lula **recuperou a presunção de inocência**, garantida pela Constituição. Isso significa que, perante a lei, ele é **inocente até que uma nova condenação transitada em julgado ocorra** (fonte: [O Povo](https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html)).\n\n4. **Situação Atual**:\n   - Os processos anulados **não foram reabertos**. Muitos prescreveram devido ao tempo decorrido, e não há condenações válidas contra Lula relacionados à Lava Jato.\n   - Politicamente, setores oposicionistas referem-se a ele como \"descondenado\", enquanto aliados enfatizam a presunção de inocência (fonte: [BBC](https://www.bbc.com/portuguese/brasil-62612955)).\n\n### Conclusão:\nLula **não foi \"inocentado\"** no sentido de absolvição por mérito (ou seja, o STF não declarou que ele não cometeu os crimes). As condenações foram **anuladas por erros processuais**, o que restabeleceu sua presunção de inocência. Não há processos ativos contra ele na Lava Jato, mas a discussão sobre sua culpabilidade permanece no âmbito político, não jurídico.",
+  "response_no_search": "A situação jurídica do ex-presidente Lula em relação aos processos da Operação Lava Jato é complexa e envolve nuances importantes:\n\n1.  **Anulação das Condenações:** As condenações de Lula nos casos específicos julgados pela 13ª Vara Federal de Curitiba (como o triplex do Guarujá e o sítio de Atibaia) foram **anuladas** pelo Supremo Tribunal Federal (STF) em 2021.\n2.  **Motivos da Anulação:**\n    *   **Suspeição do Juiz Sergio Moro:** O STF entendeu que o então juiz Sergio Moro agiu com parciali",
+  "error": null
+}

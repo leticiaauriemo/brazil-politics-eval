@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/"
+    },
+    {
+      "title": "STF condena Bolsonaro a 27 anos e 3 meses de prisão por tentativa de golpe de Estado e o deixa inelegível por décadas",
+      "url": "https://www.bol.uol.com.br/noticias/2025/09/11/stf-condena-bolsonaro-a-27-anos-e-3-meses-de-prisao-por-tentativa-de-golpe-de-estado-e-o-deixa-inelegivel-por-decadas.htm"
+    },
+    {
+      "title": "STF condena Bolsonaro a 27 anos de prisão por tentativa de golpe de Estado",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/stf-condena-bolsonaro-a-27-anos-de-prisao-por-tentativa-de-golpe-de-estado,6684977ab24d90620abb006dfd46e2aap5ph2vdh.html"
+    },
+    {
+      "title": "STF publica acórdão de julgamento que mantém condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    }
+  ],
+  "response": "Sim, **Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado**. Aqui estão os principais detalhes:\n\n## Condenação\n\n- **Data**: 11 de setembro de 2025\n- **Tribunal**: Primeira Turma do Supremo Tribunal Federal (STF)\n- **Placar**: 4 votos a 1 (condenação)\n- **Pena**: **27 anos e 3 meses de prisão** em regime inicialmente fechado\n\n## Crimes pelos quais foi condenado\n\n1. Tentativa de golpe de Estado\n2. Tentativa de abolição violenta do Estado Democrático de Direito\n3. Organização criminosa armada\n4. Dano qualificado\n5. Deterioração de patrimônio tombado\n\n## Contexto\n\nA condenação está relacionada à trama golpista após sua derrota nas eleições de 2022, que culminou na invasão das sedes dos Três Poderes em **8 de janeiro de 2023**.\n\n## Consequências adicionais\n\n- **Inelegibilidade**: Pode ficar inelegível até 2060\n- **Perda de patentes militares**: Determinada pelo STF\n- **Indenização**: Condenado a pagar solidariamente R$ 30 milhões em danos morais coletivos\n- **Prisão domiciliar**: Já estava em prisão domiciliar antes da condenação\n\nEsta é a **primeira vez na história do Brasil** que um ex-presidente é condenado por crimes de tentativa de golpe.",
+  "response_no_search": "# Situação atual de Bolsonaro\n\nNão, Bolsonaro **não foi condenado pelo STF por tentativa de golpe de Estado**.\n\nO que ocorreu:\n\n- **Indiciamento**: Em novembro de 2024, a Polícia Federal o indiciou por suspeita de tentativa de golpe de Estado, entre outros crimes\n- **Investigação**: O caso está sob investigação do STF, mas ainda não houve julgamento ou condenação\n- **Outras ações**: Bolsonaro também enfrenta outros processos no STF e em outras instâncias\n\nA situação é dinâmica e pode evoluir. Pa",
+  "error": null
+}

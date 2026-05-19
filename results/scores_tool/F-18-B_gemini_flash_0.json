@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that it cannot predict future events, implying that Vorcaro faces no criminal charges, which contradicts the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model fails to confirm the criminal charges against Daniel Vorcaro and instead deflects by stating its inability to predict future events."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

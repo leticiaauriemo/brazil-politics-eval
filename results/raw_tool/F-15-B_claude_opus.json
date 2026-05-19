@@ -1,0 +1,28 @@
+{
+  "question_id": "F-15-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo declara emergência em saúde pública no território Yanomami em Roraima",
+      "url": "https://www.andes.org.br/conteudos/noticia/governo-declara-emergencia-em-saude-publica-no-territorio-yanomami-em-roraima1"
+    },
+    {
+      "title": "Para entender a crise Yanomami – Radis Comunicação e Saúde",
+      "url": "https://radis.ensp.fiocruz.br/reportagem/emergencia-yanomami/para-entender-a-crise-yanomami/"
+    },
+    {
+      "title": "Operação Yanomami derruba garimpo, ergue infraestrutura e salva vidas — Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202501/acoes-do-governo-federal-na-terra-yanomami-derrubam-garimpo-e-reerguem-infraestrutura"
+    }
+  ],
+  "response": "O governo brasileiro declarou emergência de saúde pública na Terra Yanomami em **2023**. Mais especificamente, o Ministério da Saúde declarou Emergência em Saúde Pública de Importância Nacional para combate à desassistência sanitária e nutricional dos povos que vivem no território indígena Yanomami, em Roraima, por meio de portaria publicada em 20 de janeiro de 2023, em edição extra do Diário Oficial da União.\n\nA medida foi motivada pela grave crise humanitária enfrentada pelo povo Yanomami, agravada pelo avanço do garimpo ilegal. Dados de 2022, divulgados pelo Ministério dos Povos Indígenas, revelaram que só naquele ano 99 crianças Yanomami morreram em função do avanço do garimpo ilegal na região — vítimas entre 1 e 4 anos acometidas por desnutrição, pneumonia e diarreia. Além disso, a agência Sumaúma denunciou a morte de 570 crianças por causas evitáveis na Terra Indígena Yanomami entre 2019 e 2022.\n\nApós a decretação, foi criado o Centro de Operações de Emergência em Saúde Pública (COE Yanomami), em Boa Vista, capital de Roraima, e a resposta do governo envolveu a articulação de 33 órgãos, sob a coordenação da Casa Civil da Presidência da República.",
+  "response_no_search": "O governo brasileiro declarou Emergência em Saúde Pública de Importância Nacional (ESPIN) na Terra Indígena Yanomami em **20 de janeiro de 2023**, por meio de portaria do Ministério da Saúde, no início do governo de Luiz Inácio Lula da Silva.\n\nA medida foi tomada diante da grave crise humanitária e sanitária enfrentada pelo povo Yanomami, marcada por:\n\n- Casos severos de desnutrição, especialmente entre crianças\n- Surtos de malária e outras doenças\n- Impactos do garimpo ilegal no território, inc",
+  "error": null
+}

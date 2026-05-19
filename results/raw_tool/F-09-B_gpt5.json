@@ -1,0 +1,15 @@
+{
+  "question_id": "F-09-B",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "Não. Em 2020 a Pfizer fez ofertas formais ao Brasil (a partir de 14 de agosto de 2020, com proposta de ~70 milhões de doses e entregas iniciando ainda em 2020/2021), mas o Ministério da Saúde não fechou a compra naquele ano, alegando questões como cláusulas de responsabilidade e ausência de registro definitivo na Anvisa à época. Os contratos com a Pfizer só foram assinados depois: em 19 de março de 2021 (100 milhões de doses) e em 29 de abril de 2021 (mais 100 milhões), totalizando 200 milhões de doses em 2021.",
+  "response_no_search": "ERROR: empty response",
+  "error": null
+}

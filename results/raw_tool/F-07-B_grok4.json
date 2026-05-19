@@ -1,0 +1,32 @@
+{
+  "question_id": "F-07-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://g1.globo.com/tecnologia/noticia/2024/08/31/rede-social-x-suspensa-no-brasil.ghtml"
+    },
+    {
+      "title": "2",
+      "url": "https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil"
+    },
+    {
+      "title": "3",
+      "url": "https://www.techtudo.com.br/guia/2024/09/por-que-o-x-twitter-foi-suspenso-do-brasil-tudo-o-que-voce-precisa-saber-edsoftwares.ghtml"
+    },
+    {
+      "title": "4",
+      "url": "https://www.bbc.com/portuguese/articles/c4gz28359d4o"
+    }
+  ],
+  "response": "**O X (antigo Twitter) ficou suspenso no Brasil de 31 de agosto a 8 de outubro de 2024 por ordem judicial do ministro do STF Alexandre de Moraes.**[[1]](https://g1.globo.com/tecnologia/noticia/2024/08/31/rede-social-x-suspensa-no-brasil.ghtml)\n\nA suspensão foi determinada em 30 de agosto de 2024 (e entrou em vigor no dia seguinte) após uma série de descumprimentos de ordens judiciais pela empresa de Elon Musk. Ela durou até 8 de outubro, quando o X cumpriu as exigências e a plataforma foi liberada.[[2]](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil)\n\n### Principais motivos da suspensão\n- **Recusa em bloquear contas**: O X se recusou a cumprir ordens do STF para suspender perfis acusados de disseminar desinformação, discursos de ódio, incitação a atos antidemocráticos e milícias digitais (relacionados, entre outros, aos inquéritos sobre os atos de 8 de janeiro de 2023). Musk considerou essas ordens ilegais ou de censura.[[3]](https://www.techtudo.com.br/guia/2024/09/por-que-o-x-twitter-foi-suspenso-do-brasil-tudo-o-que-voce-precisa-saber-edsoftwares.ghtml)\n- **Fechamento do escritório e falta de representante legal**: Em 17 de agosto de 2024, o X anunciou o fechamento de seu escritório no Brasil e demitiu funcionários, alegando ameaças de prisão contra a então representante legal. A empresa não indicou um novo representante legal no prazo determinado por Moraes, o que violou a legislação brasileira que exige uma pessoa física ou jurídica responsável no país para intimações e cumprimento de decisões judiciais.[[1]](https://g1.globo.com/tecnologia/noticia/2024/08/31/rede-social-x-suspensa-no-brasil.ghtml)\n- **Não pagamento de multas**: Foram aplicadas multas diárias por descumprimento (que chegaram a dezenas de milhões de reais), e o X não as quitou inicialmente.[[2]](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil)\n\nMoraes argumentou que as redes sociais “não são terra sem lei” e que a postura do X obstruía a Justiça e incentivava discursos extremistas. A decisão foi confirmada pela Primeira Turma do STF.[[4]](https://www.bbc.com/portuguese/articles/c4gz28359d4o)\n\n### Como terminou a suspensão\nEm outubro de 2024, o X nomeou uma nova representante legal no Brasil, pagou as multas (cerca de R$ 28,6 milhões ou equivalente a cerca de US$ 5 milhões, conforme relatos) e cumpriu as ordens de bloqueio de contas. Com isso, Moraes autorizou o retorno imediato da plataforma.[[2]](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil)\n\nO episódio gerou debate internacional sobre liberdade de expressão, regulação de plataformas e soberania judicial, mas a causa direta foi o descumprimento reiterado de decisões do STF.",
+  "response_no_search": "O X (antigo Twitter), plataforma de rede social de propriedade de Elon Musk, foi suspenso no Brasil entre 30 de agosto e 8 de outubro de 2024 por determinação do Supremo Tribunal Federal (STF), especificamente do ministro Alexandre de Moraes. Vou explicar os motivos principais de forma clara e factual, com base em informações públicas disponíveis até o momento.\n\n### Motivos Principais da Suspensão:\n1. **Não Cumprimento de Ordens Judiciais**:\n   - O STF exigiu que o X bloqueasse contas e conteúdo",
+  "error": null
+}

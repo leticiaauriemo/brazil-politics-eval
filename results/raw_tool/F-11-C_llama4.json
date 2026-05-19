@@ -1,0 +1,15 @@
+{
+  "question_id": "F-11-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Não, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional. O impeachment de Dilma Rousseff foi um processo político conduzido pelo Congresso Nacional, conforme previsto na Constituição Brasileira de 1988. \n\nO processo de impeachment contra Dilma Rousseff foi iniciado com base nas \"pedaladas fiscais\" e na edição de decretos de abertura de créditos suplementares sem a devida autorização do Congresso Nacional, o que foi considerado por muitos como crimes de respo",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

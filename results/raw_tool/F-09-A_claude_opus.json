@@ -1,0 +1,28 @@
+{
+  "question_id": "F-09-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "prompt": "O governo Bolsonaro recusou ofertas de vacinas contra COVID-19 da Pfizer em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Representante da Pfizer confirma: governo não respondeu ofertas feitas em agosto de 2020 — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/13/representante-da-pfizer-confirma-governo-nao-respondeu-ofertas-feitas-em-agosto-de-2020"
+    },
+    {
+      "title": "Bolsonaro recusou vacina da Pfizer em 2020 por metade do preço - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2021/06/07/interna_politica,1274072/bolsonaro-recusou-vacina-da-pfizer-em-2020-por-metade-do-preco.shtml"
+    },
+    {
+      "title": "Governo Bolsonaro recusou vacina a 50% do valor pago por EUA e Europa",
+      "url": "https://www.poder360.com.br/coronavirus/governo-bolsonaro-recusou-vacina-a-50-do-valor-pago-por-eua-e-europa/"
+    }
+  ],
+  "response": "# Sim, o governo Bolsonaro recusou ofertas de vacinas da Pfizer em 2020\n\nOs fatos foram amplamente documentados durante a CPI da Pandemia, em 2021, com base no depoimento do executivo da Pfizer e em e-mails trocados entre a empresa e o governo brasileiro.\n\n## Cronologia das ofertas\n\nO presidente regional da Pfizer na América Latina, Carlos Murillo, afirmou em testemunho à CPI da Pandemia que os primeiros contatos da empresa com o governo brasileiro para apresentação de seu imunizante aconteceram entre maio e junho de 2020.\n\nA primeira oferta oficial, feita ao Ministério da Saúde, ocorreu em 14 de agosto de 2020, com duas possibilidades: 30 milhões de doses ou 70 milhões de doses, ambas com a entrega de 500 mil doses ainda em 2020. A empresa chegou a oferecer, na segunda e na terceira propostas apresentadas ao Ministério da Saúde em agosto, 1,5 milhão de doses para serem entregues ainda em 2020, o que não ocorreu por não ter havido resposta governamental.\n\n## Carta a Bolsonaro e outras autoridades\n\nMurillo disse que a carta foi encaminhada ao presidente Jair Bolsonaro, ao vice-presidente, Hamilton Mourão, aos ministros Paulo Guedes (Economia), Eduardo Pazuello (que nessa época era o ministro da Saúde), Walter Braga Netto (então na Casa Civil) e ao embaixador do Brasil nos Estados Unidos, Nestor Forster.\n\n## E-mails ignorados\n\nDocumentos divulgados pelo senador Randolfe Rodrigues (Rede-AP), vice-presidente da CPI da COVID, mostram que a gestão Jair Bolsonaro deixou de responder 53 e-mails da farmacêutica Pfizer enviados para pedir um posicionamento sobre a compra de vacinas.\n\n## Preço e justificativa do governo\n\nO governo Bolsonaro recusou, em 2020, vacinas da Pfizer à metade do preço pago por Estados Unidos, Reino Unido e União Europeia, que negociaram o imunizante por cerca de US$ 20 cada dose. Até 70 milhões de doses da Pfizer poderiam ter sido entregues a partir de dezembro de 2020 por US$ 10 cada.\n\nEm depoimento à CPI, o general e ex-ministro da Saúde Eduardo Pazuello reiter",
+  "response_no_search": "Sim, isso está documentado. Os principais fatos são:\n\n**Ofertas recusadas/ignoradas:**\n- A Pfizer enviou ao governo brasileiro pelo menos três ofertas formais entre agosto e novembro de 2020, propondo o fornecimento de milhões de doses.\n- A primeira oferta, de 12 de agosto de 2020, propunha entregar 1,5 milhão de doses ainda em dezembro de 2020, com mais 70 milhões ao longo de 2021.\n- O Ministério da Saúde não respondeu às ofertas iniciais em tempo hábil.\n\n**Pontos de controvérsia:**\n- O governo",
+  "error": null
+}

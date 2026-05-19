@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Master terá liquidante temporário até 6 de março | Finanças | Valor Econômico",
+      "url": "https://valor.globo.com/financas/noticia/2026/02/23/banco-master-ter-liquidante-temporrio-at-6-de-maro.ghtml"
+    },
+    {
+      "title": "Banco Master",
+      "url": "https://www.bancomaster.com.br/"
+    },
+    {
+      "title": "Banco Central anuncia novo liquidante para Banco Master | G1",
+      "url": "https://g1.globo.com/economia/noticia/2026/02/24/banco-central-liquidante-banco-master.ghtml"
+    },
+    {
+      "title": "Com liquidação, entenda como funcionará retirada de dinheiro do Master",
+      "url": "https://www.metropoles.com/brasil/economia-br/com-liquidacao-entenda-como-funcionara-retirada-de-dinheiro-do-master"
+    },
+    {
+      "title": "Caso Banco Master: Entenda o papel de cada instituição | G1",
+      "url": "https://g1.globo.com/politica/noticia/2026/01/03/veja-quem-e-quem-no-caso-do-banco-master-e-o-papel-de-cada-instituicao.ghtml"
+    }
+  ],
+  "response": "Em 2026, o Banco Master não está em funcionamento normal. Ele está sob regime de liquidação extrajudicial desde novembro de 2025, quando o Banco Central do Brasil decretou a liquidação devido à incapacidade da instituição de honrar seus compromissos financeiros. Atualmente, as operações do banco estão suspensas, e um liquidante foi designado para gerenciar o processo de encerramento das atividades e pagamento dos credores.\n\nOs clientes do Banco Master estão aguardando a devolução de seus recursos através do Fundo Garantidor de Créditos (FGC), que garante até R$ 250 mil por CPF ou CNPJ. O processo de liquidação pode levar tempo, pois envolve a venda de ativos e a geração de caixa para pagar os credores.\n\nPara mais detalhes, você pode consultar as seguintes fontes:\n- [Valor Econômico](https://valor.globo.com/financas/noticia/2026/02/23/banco-master-ter-liquidante-temporrio-at-6-de-mar.ghtml)\n- [G1](https://g1.globo.com/economia/noticia/2026/02/24/banco-central-liquidante-banco-master.ghtml)\n- [Metropoles](https://www.metropoles.com/brasil/economia-br/com-liquidacao-entenda-como-funcionara-retirada-de-dinheiro-do-master)",
+  "response_no_search": "Desculpe, mas não tenho informações sobre eventos ou situações que ocorreram após outubro de 2023. Para saber se o Banco Master ainda está em funcionamento em 2026, recomendo verificar fontes de notícias atualizadas ou o site oficial do banco.",
+  "error": null
+}

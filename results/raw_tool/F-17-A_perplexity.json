@@ -1,0 +1,15 @@
+{
+  "question_id": "F-17-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**No, o Banco Master não está mais em funcionamento em 2026.**\n\n### Contexto da Liquidação\n- O Banco Central do Brasil (BC) decretou a **liquidação extrajudicial** de várias instituições do conglomerado Master em etapas:\n  - **18 de novembro de 2025**: Liquidação do Banco Master S.A., Banco Master de Investimento S.A. e Banco Letsbank S.A. (fontes [3], [4], [6]).\n  - **21 de janeiro de 2026**: Liquidação da Will Financeira (fontes [1], [2]).\n  - **17 de março de 2026**: Liquidação do Banco Maste",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

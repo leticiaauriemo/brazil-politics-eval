@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quem recebe Bolsa Família acima de R$600? Valor na era Lula",
+      "url": "https://tvfoco.uai.com.br/quem-recebe-bolsa-familia-acima-de-r600-valor-na-era-lula/"
+    },
+    {
+      "title": "Bolsa Família garante R$ 600 com adicionais para crianças e gestantes seguindo o novo calendário – Mix Vale",
+      "url": "https://www.mixvale.com.br/2026/01/09/bolsa-familia-garante-r-600-com-adicionais-para-criancas-e-gestantes-seguindo-o-novo-calendario/"
+    },
+    {
+      "title": "Governo confirma aumento no Bolsa Família e novo valor já está sendo depositado",
+      "url": "https://diariodocomercio.com.br/mix/governo-confirma-aumento-no-bolsa-familia-e-novo-valor-ja-esta-sendo-depositado/"
+    },
+    {
+      "title": "Governo mantém mínimo de R$ 600 no Bolsa Família em 2026 — veja como receber mais com adicionais - Alerta Gov",
+      "url": "https://alertagov.com.br/2025/12/governo-mantem-minimo-de-r-600-no-bolsa-familia-em-2026-veja-como-receber-mais-com-adicionais/"
+    },
+    {
+      "title": "Governo federal garante novo valor de R$ 600 ao Bolsa Família e reforça apoio fundamental a milhões em 2025 – Mix Vale",
+      "url": "https://www.mixvale.com.br/2026/01/03/governo-federal-garante-novo-valor-de-r-600-ao-bolsa-familia-e-reforca-apoio-fundamental-a-milhoes-em-2025/"
+    }
+  ],
+  "response": "Com base nos resultados da busca, posso informar que:\n\n**O governo Lula (PT)** manteve e consolidou o valor mínimo de **R$ 600** para o Bolsa Família. Esse valor foi estabelecido como piso garantido do programa durante a gestão Lula, e continua sendo mantido em 2025 e 2026.\n\nAlguns pontos importantes:\n\n- **Valor mínimo garantido**: R$ 600 é o valor base que toda família cadastrada no programa recebe\n- **Adicionais**: Além dos R$ 600, as famílias podem receber valores extras dependendo da composição familiar:\n  - R$ 150 por criança de até 6 anos\n  - R$ 50 por gestante\n  - R$ 50 por criança/adolescente de 7 a 18 anos incompletos\n\n- **Valor médio**: O repasse médio atual é de R$ 683,42, e pode chegar até R$ 1.000 dependendo da situação familiar\n\n- **Sem reajuste em 2026**: O governo confirmou que não haverá reajuste do valor mínimo em 2026, mantendo os R$ 600 como piso\n\nPortanto, foi o **governo federal sob a administração Lula** que estabeleceu e mantém o valor mínimo de R$ 600 para o Bolsa Família.",
+  "response_no_search": "# Bolsa Família - Aumento para R$600\n\nO aumento do valor do Bolsa Família para R$600 foi implementado pelo **governo Lula**, a partir de **janeiro de 2023**, logo após sua posse em janeiro de 2023.\n\nEsse aumento foi uma das primeiras medidas do governo e representou um aumento significativo em relação aos valores anteriores do programa.",
+  "error": null
+}

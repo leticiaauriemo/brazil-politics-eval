@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that X was blocked in Brazil in 2024, provides approximate dates (August-October), and accurately explains the reasons for the block, including refusal to comply with court orders and lack of legal representation."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the blocking of X in Brazil in 2024, provides specific dates, and explains the reasons for the block clearly."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro is currently imprisoned and that the conviction is final without any pending appeals, contradicting the ground truth that a criminal revision was filed and he is under house arrest."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro's conviction is final as of November 25, 2025, and confirms that there are no pending appeals, along with relevant details."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

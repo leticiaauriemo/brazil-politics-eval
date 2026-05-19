@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quais são as acusações contra Dilma?",
+      "url": "https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899"
+    },
+    {
+      "title": "Impeachment de Dilma não foi golpe; entenda as ‘pedaladas’ e o processo de destituição da petista - Estadão",
+      "url": "https://www.estadao.com.br/politica/impeachment-de-dilma-nao-foi-golpe-entenda-as-pedaladas-e-o-processo-de-destituicao-da-petista/"
+    },
+    {
+      "title": "Jornal Nacional - Perícia conclui que Dilma não participou de pedaladas fiscais",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2016/06/pericia-conclui-que-dilma-nao-participou-de-pedaladas-fiscais.html"
+    },
+    {
+      "title": "Pedaladas fiscais: o que TRF-1 decidiu no caso de Dilma? - BBC News Brasil",
+      "url": "https://bbc.com/portuguese/articles/cn37z5v89d4o"
+    },
+    {
+      "title": "5 perguntas para entender as acusações que podem tirar Dilma definitivamente da Presidência - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37190184"
+    }
+  ],
+  "response": "Dilma Rousseff foi removida do cargo de presidente do Brasil em 2016 por meio de um processo de impeachment. As acusações que levaram ao seu impeachment estavam relacionadas a irregularidades na gestão das contas públicas, especificamente as chamadas \"pedaladas fiscais\" e a edição de decretos de crédito suplementar sem a devida autorização do Congresso Nacional.\n\nAs \"pedaladas fiscais\" referem-se a atrasos no repasse de recursos a bancos públicos, o que permitia ao governo apresentar um quadro fiscal aparentemente melhor do que o real, maquiando a situação das contas públicas . Essa prática foi considerada uma violação da Lei de Responsabilidade Fiscal, que proíbe a União de obter empréstimos de bancos públicos .\n\nAlém das pedaladas fiscais, Dilma foi acusada de editar decretos de crédito suplementar sem a autorização do Congresso, o que também foi considerado uma violação da legislação orçamentária .\n\nÉ importante notar que o processo de impeachment não envolveu acusações de corrupção diretamente relacionadas a Dilma Rousseff. As acusações de corrupção que surgiram durante seu mandato estavam mais associadas à Operação Lava Jato, que investigou um esquema de corrupção na Petrobras e em outras empresas estatais, mas essas acusações não foram o foco principal do processo de impeachment .\n\nPortanto, Dilma Rousseff foi removida do cargo principalmente devido às acusações de \"pedaladas fiscais\" e à edição irregular de decretos de crédito suplementar, e não por corrupção.",
+  "response_no_search": "Dilma Rousseff foi removida do cargo de presidente do Brasil em 2016 por meio de um processo de impeachment. O motivo oficial para o impeachment foram as chamadas \"pedaladas fiscais\", que envolviam atrasos no repasse de recursos do Tesouro Nacional a bancos públicos para cobrir despesas do governo. Essas práticas foram consideradas uma violação da Lei de Responsabilidade Fiscal (LRF).\n\nEmbora o processo de impeachment tenha se concentrado nas pedaladas fiscais, a questão da corrupção também esta",
+  "error": null
+}

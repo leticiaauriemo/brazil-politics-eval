@@ -1,0 +1,35 @@
+{
+  "question_id": "F-17-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Rejeitada compra do Banco Master pelo BC e suas implicações",
+      "url": "https://www.otempo.com.br/economia/2025/9/4/entenda-o-caso-da-compra-do-banco-master-pelo-brb-rejeitada-pelo-banco-central"
+    },
+    {
+      "title": "BC rejeita compra do Banco Master pelo BRB",
+      "url": "https://www.jb.com.br/economia/2025/09/1056783-bc-rejeita-compra-do-banco-master-pelo-brb.html"
+    },
+    {
+      "title": "Banco Central rejeita aquisição do Master pelo BRB",
+      "url": "https://www.terra.com.br/economia/brb-diz-que-bc-indeferiu-aquisicao-do-banco-master,e42439d9ba293cac3dbed078dab1220bwjojf7e3.html"
+    },
+    {
+      "title": "Banco Central detalha motivos para rejeitar venda do Master ao BRB | Jornal",
+      "url": "https://diario.dopovo.com.br/2025/09/09/banco-central-detalha-motivos-para-rejeitar-venda-do-master-ao-brb/"
+    },
+    {
+      "title": "Do anúncio à rejeição pelo BC, veja cronologia da negociação entre o Master e o BRB - OJORNALISMO",
+      "url": "https://ojornalismo.com.br/noticia/176716/do-anuncio-a-rejeicao-pelo-bc-veja-cronologia-da-negociacao-entre-o-master-e-o-brb/"
+    }
+  ],
+  "response": "Após o Banco Central (BC) rejeitar a compra do Banco Master pelo BRB em setembro de 2025, o Banco Master se viu em uma situação de busca por alternativas para sua liquidez e estratégias de crescimento [diario.dopovo.com.br](https://diario.dopovo.com.br/2025/09/09/banco-central-detalha-motivos-para-rejeitar-venda-do-master-ao-brb/).\n\nA rejeição do BC foi motivada por questões relacionadas à estabilidade do sistema financeiro e às condições formais do processo. Entre os principais fatores estavam:\n*   **Risco de sucessão:** O temor de que o BRB fosse cobrado por ativos do Master que não seriam adquiridos pela instituição pública, assumindo responsabilidades por ativos fora de seu controle direto [diario.dopovo.com.br](https://diario.dopovo.com.br/2025/09/09/banco-central-detalha-motivos-para-rejeitar-venda-do-master-ao-brb/).\n*   **Problemas de liquidez do Master:** O banco privado enfrentava problemas de liquidez devido a uma estratégia de negócio que envolvia a captação de recursos por meio de emissão de CDBs com retornos elevados, apoiados por ativos de baixa liquidez, como precatórios e participações em empresas em crise [diario.dopovo.com.br](https://diario.dopovo.com.br/2025/09/09/banco-central-detalha-motivos-para-rejeitar-venda-do-master-ao-brb/).\n*   **Questões formais:** O BC também apontou problemas na instrução do processo [diario.dopovo.com.br](https://diario.dopovo.com.br/2025/09/09/banco-central-detalha-motivos-para-rejeitar-venda-do-master-ao-brb/).\n\nApesar da rejeição, tanto o BRB quanto o Banco Master afirmaram que ainda confiavam na negociação e que buscariam acesso aos fundamentos da decisão do BC para avaliar alternativas [otempo.com.br](https://www.otempo.com.br/economia/2025/9/4/entenda-o-caso-da-compra-do-banco-master-pelo-brb-rejeitada-pelo-banco-central). O BRB, inclusive, comunicou ao mercado que o contrato seria rescindido, mas que avaliaria os próximos passos e procuraria mitigar os riscos identificados pelo BC [jb.com.br](https://www.jb.com.br/economia/2025/09/1056783-bc-rejeita-compra-do-banco-master-pelo-brb.html), [terra.com.br](https://www.terra.com.br/economia/brb-diz-que-bc-indeferiu-aquisicao-do-banco-master,e42439d9ba293cac3dbed078dab1220bwjojf7e3.html).\n\nO presidente do Banco Master, Daniel Vorcaro, chegou a se reunir com o presidente do Banco Central, Gabriel Galípolo, e outros diretores para discutir a situação, mas não houve um posicionamento oficial sobre a retomada ou reconfiguração da transação [diario.dopovo.com.br](https://diario.dopovo.com.br/2025/09/09/banco-central-detalha-motivos-para-rejeitar-venda-do-master-ao-brb/).\n\nEspecialistas indicaram que a oposição do BC visava evitar sinais negativos ao mercado e o envolvimento de empresas públicas em negócios com riscos elevados, buscando preservar a estabilidade do sistema financeiro brasileiro [diario.dopovo.com.br](https://diario.dopovo.com.br/2025/09/09/banco-central-detalha-motivos-para-rejeitar-venda-do-master-ao-brb/). A expectativa era de que novas negociações pudessem ocorrer futuramente, em condições mais alinhadas às exigências regulatórias [diario.dopovo.com.br",
+  "response_no_search": "Após o Banco Central rejeitar a compra do Banco Master pelo BRB em 2023, o Banco Master continuou suas operações de forma independente e tem buscado expandir seus negócios e fortalecer sua posição no mercado.\n\nAqui estão alguns pontos importantes sobre o que aconteceu e o que o Banco Master tem feito desde então:\n\n*   **Foco em nichos de mercado:** O Banco Master tem se concentrado em nichos específicos, como crédito consignado, crédito para empresas e investimentos. Eles têm buscado se diferenc",
+  "error": null
+}

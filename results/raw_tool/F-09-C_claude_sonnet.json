@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo não aceitou propostas que previam 1,5 milhão de doses de vacina ainda em 2020, diz Pfizer | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/05/13/governo-federal-nao-aceitou-propostas-que-previam-15-milhao-de-doses-de-vacina-ainda-em-2020-diz-pfizer.ghtml"
+    },
+    {
+      "title": "Veja as 9 ofertas da Pfizer que foram ignoradas pelo governo Bolsonaro - Estadão",
+      "url": "https://www.estadao.com.br/politica/veja-as-ofertas-da-pfizer-que-foram-ignoradas-pelo-governo-bolsonaro/"
+    },
+    {
+      "title": "Vacina contra covid no Brasil: Pfizer diz que fez oferta em agosto",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/01/08/vacina-pfizer-coronavirus-covid-19-pazuello.htm"
+    },
+    {
+      "title": "Governo rejeitou 70 milhões de doses da Pfizer, das quais 3 milhões poderiam já ter sido aplicadas - 06/03/2021 - Equilíbrio e Saúde - Folha",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2021/03/governo-negou-3-vezes-ofertas-da-pfizer-e-perdeu-ao-menos-3-milhoes-de-doses-de-vacina.shtml"
+    },
+    {
+      "title": "Ex-presidente da Pfizer diz à CPI que Brasil recusou 6 ofertas de vacina",
+      "url": "https://www.poder360.com.br/congresso/diretor-da-pfizer-diz-a-cpi-que-brasil-recusou-6-ofertas-de-vacina/"
+    }
+  ],
+  "response": "## Não — o governo federal brasileiro **não aceitou** as ofertas da Pfizer em 2020.\n\nEsse episódio foi amplamente investigado pela **CPI da Covid** no Senado, em 2021, e gerou grande repercussão. Veja o que aconteceu:\n\n---\n\n### 📅 A cronologia das ofertas ignoradas\n\nAs negociações entre a Pfizer e o governo brasileiro começaram ainda em **maio de 2020**. Em julho, a empresa encaminhou ao Ministério da Saúde uma expressão formal de interesse. A partir daí, foram feitas **múltiplas propostas**, todas sem resposta positiva do governo:\n\n| Data | Proposta |\n|---|---|\n| **14/08/2020** | 1ª oferta oficial: contratos de 30 ou 70 milhões de doses, com 500 mil doses ainda em 2020 |\n| **18/08/2020** | Nova proposta elevando para **1,5 milhão de doses ainda em 2020** |\n| **26/08/2020** | Proposta vinculante (com prazo de 15 dias para resposta) — o governo **não aceitou nem rejeitou** |\n| **11/11/2020** | Nova oferta de 70 milhões de doses — também ignorada |\n| **24/11/2020** | Mais uma proposta — sem resposta |\n| **15/02/2021** | Oferta de 100 milhões de doses — também não aceita de imediato |\n\nO contrato só foi **efetivamente assinado em março/abril de 2021**, quando a pandemia já estava no auge e o sistema de saúde de vários estados entrava em colapso.\n\n---\n\n### 📣 O que disse a Pfizer na CPI\n\nO gerente-geral da Pfizer para a América Latina, **Carlos Murillo**, declarou à CPI da Covid:\n\n> *\"Nossa oferta de 26 de agosto era vinculante. Passados os 15 dias, o governo do Brasil não rejeitou, mas tampouco aceitou.\"*\n\nEle confirmou ainda que, em **12 de setembro de 2020**, o CEO global da Pfizer enviou uma **carta diretamente ao presidente Jair Bolsonaro** — com cópia para o vice-presidente, o ministro da Saúde Eduardo Pazuello e outras autoridades — reforçando o interesse da empresa. A carta também ficou sem resposta.\n\n---\n\n### ⚠️ As consequências\n\nSegundo a própria Pfizer, o Brasil **perdeu pelo menos 4 milhões de doses** que poderiam ter sido entregues no primeiro semestre de 2021 por causa da demora. Se o primeiro contrato tivesse sido aceito, o país teria recebido **18 milhões de doses** — em vez das 14 milhões previstas no contrato tardio.\n\n---\n\n### 🔎 A justificativa do governo\n\nO Ministério da Saúde alegou que as **cláusulas contratuais** da Pfizer eram problemáticas — como a exigência de isenção de responsabilidade por efeitos colaterais e, segundo reportagens investigativas, até a exigência de bens estatais como garantia. O governo usou isso para justificar a demora, mas críticos e membros da CPI consideraram a postura \"incompetente\" e de \"pouco empenho\" na negociação.",
+  "response_no_search": "## Oferta da Pfizer ao Brasil em 2020\n\nNão, o governo federal **não aceitou** a oferta da Pfizer em 2020. Este é um episódio bem documentado e que gerou grande controvérsia no Brasil.\n\n### O que aconteceu:\n\n- A Pfizer fez ofertas ao Ministério da Saúde ainda em **2020**, antes mesmo da aprovação final da vacina\n- O governo federal **ignorou ou recusou** as propostas iniciais, não fechando contrato na época\n- Foram relatadas **reuniões e e-mails sem resposta** por parte do Ministério da Saúde\n- O",
+  "error": null
+}

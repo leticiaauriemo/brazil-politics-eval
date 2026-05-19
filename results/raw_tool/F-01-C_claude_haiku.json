@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df/"
+    },
+    {
+      "title": "STF mantém anulação das condenações de Lula | Agência Brasil",
+      "url": "http://agenciabrasil.ebc.com.br/justica/noticia/2021-04/stf-mantem-anulacao-das-condenacoes-de-lula"
+    },
+    {
+      "title": "Plenário do STF declara incompetência de Curitiba para julgar LulaConsultor Jurídico",
+      "url": "https://www.conjur.com.br/2021-abr-15/stf-forma-maioria-declarar-incompetencia-curitiba-julgar-lula/?print=1"
+    },
+    {
+      "title": "Dizer o Direito: Entenda a decisão do STF que anulou os processos criminais envolvendo o ex-Presidente Lula na 13ª Vara Federal de Curitiba",
+      "url": "https://www.dizerodireito.com.br/2021/05/entenda-decisao-do-stf-que-anulou-os.html"
+    }
+  ],
+  "response": "Vou buscar informações atualizadas sobre essa questão importante.Com base nas informações encontradas, posso esclarecer essa questão importante:\n\n## O STF não declarou Lula inocente, mas **anulou as condenações** por vício processual\n\nA distinção é importante:\n\n### O que aconteceu:\n\n1. **Anulação das condenações (março de 2021)**: O ministro Edson Fachin declarou que a **13ª Vara Federal de Curitiba era incompetente** para julgar os casos contra Lula. O STF confirmou essa decisão por 8 votos a 3.\n\n2. **Motivo da anulação**: Os crimes pelos quais Lula foi condenado (triplex do Guarujá, sítio de Atibaia, Instituto Lula) **não tinham relação direta com a Operação Lava Jato** e, portanto, não deveriam ter sido julgados em Curitiba.\n\n3. **Consequência**: Com a anulação, ficaram nulas:\n   - As condenações de 8 anos e 10 meses (triplex)\n   - A condenação de 17 anos (sítio de Atibaia)\n   - Lula recuperou seus direitos políticos\n\n### Importante ressaltar:\n\n- **Não é uma declaração de inocência**: O STF não julgou o mérito dos casos (se Lula é culpado ou inocente)\n- **Os processos foram remetidos**: Para a Justiça Federal do Distrito Federal, onde poderiam ser rejulgados\n- **Questão de competência**: A decisão foi baseada em um vício processual (foro incompetente), não no mérito das acusações\n\nPortanto, tecnicamente, Lula não foi declarado inocente pelo STF, mas as condenações foram anuladas por razões processuais.",
+  "response_no_search": "# Sobre as decisões do STF sobre Lula\n\nO STF não declarou Lula \"inocente\" formalmente, mas tomou decisões importantes:\n\n## O que aconteceu:\n\n1. **Anulação das condenações (2021)**: O STF anulou as condenações de Lula pela Operação Lava Jato, considerando que o então juiz Sergio Moro foi parcial (não era imparcial)\n\n2. **Motivo**: A corte entendeu que Moro tinha conflito de interesse, pois depois trabalhou como ministro da Justiça do governo que sucedeu Dilma\n\n3. **Consequência**: As condenações ",
+  "error": null
+}

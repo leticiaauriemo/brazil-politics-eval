@@ -1,0 +1,15 @@
+{
+  "question_id": "F-05-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "prompt": "Quem criou o programa Bolsa Família no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Quem criou o Programa Bolsa Família no Brasil?\n\nA resposta a essa pergunta é **complexa e envolve contribuições de múltiplos governos**:\n\n## Criação Oficial\nO **Programa Bolsa Família foi criado oficialmente em 2003**, no primeiro mandato do presidente **Luiz Inácio Lula da Silva**, através da:\n- **Medida Provisória nº 132**, de 20 de outubro de 2003\n- Convertida em **Lei Federal nº 10.836**, de 9 de janeiro de 2004\n\n## Origem e Base\nNo entanto, o Bolsa Família **unificou e ampliou programas s",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

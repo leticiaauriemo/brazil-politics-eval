@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "prompt": "Quem criou o programa Bolsa Família no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "L10836",
+      "url": "http://planalto.gov.br/CCIVIL_03/_Ato2004-2006/2004/Lei/L10.836.htm"
+    },
+    {
+      "title": "Uma controvérsia de anos: Quem criou o Bolsa Família? - Aventuras na História",
+      "url": "https://aventurasnahistoria.com.br/noticias/almanaque/uma-controversia-de-anos-quem-criou-o-bolsa-familia.phtml"
+    },
+    {
+      "title": "InstitutoLula - Bolsa Família: 22 anos do maior programa de combate à fome do mundo",
+      "url": "https://institutolula.org/noticias/noticias/bolsa-familia-22-anos-do-maior-programa-de-combate-a-fome-do-mundo"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    },
+    {
+      "title": "A história do Bolsa Família",
+      "url": "https://pp.nexojornal.com.br/linha-do-tempo/2020/a-hist%c3%b3ria-do-bolsa-fam%c3%adlia"
+    }
+  ],
+  "response": "O programa Bolsa Família foi instituído durante o governo do ex-presidente Luiz Inácio Lula da Silva, em 2003, e oficializado pela lei nº 10.836 em janeiro de 2004.\n\nNo entanto, o Bolsa Família unificou e ampliou diversos programas de transferência de renda já existentes. Alguns desses programas, como o Bolsa Escola, Bolsa Alimentação, Auxílio-Gás e o cadastramento único do governo federal, foram implementados durante o governo de Fernando Henrique Cardoso (1995-2002).\n\nA ideia do Bolsa Escola, por sua vez, tem origens ainda mais antigas, sendo creditada a Cristovam Buarque, que em 1986, quando reitor da Universidade de Brasília, teve a ideia de um projeto de transferência de renda. Ele implementou o Bolsa-Educação em 1995, quando foi governador do Distrito Federal.\n\nPortanto, embora o Bolsa Família como o conhecemos tenha sido criado no governo Lula, ele se baseou em iniciativas anteriores e unificou diferentes ações de transferência de renda.",
+  "response_no_search": "O programa Bolsa Família foi criado no Brasil durante o governo do presidente **Luiz Inácio Lula da Silva**, em **2003**.\n\nEle foi resultado da unificação de diversos programas sociais existentes anteriormente, como o Bolsa Escola, o Bolsa Alimentação e o Auxílio Gás, com o objetivo de simplificar e ampliar o alcance das políticas de transferência de renda.",
+  "error": null
+}

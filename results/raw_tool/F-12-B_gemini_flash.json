@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Manifestantes invadem Congresso, Planalto e STF | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/manifestantes-invadem-congresso-planalto-e-stf"
+    },
+    {
+      "title": "Invasões aos Três Poderes: PGR determina abertura de inquérito | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/invasoes-aos-tres-poderes-pgr-determina-abertura-de-inquerito"
+    },
+    {
+      "title": "Golpistas invadem Congresso, STF e Palácio do Planalto; governo Lula intervém na segurança do DF - Estadão",
+      "url": "https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/"
+    },
+    {
+      "title": "Entenda o Caso — Ministério Público Federal",
+      "url": "https://www.mpf.mp.br/atuacao/grandes-casos/atos-antidemocraticos/entenda-o-caso-1"
+    },
+    {
+      "title": "AGU pede condenação definitiva dos detidos por invasão às sedes dos Três Poderes em 8 de janeiro | Jovem Pan",
+      "url": "https://jovempan.com.br/noticias/politica/agu-pede-condenacao-definitiva-dos-detidos-por-invasao-as-sedes-dos-tres-poderes-em-8-de-janeiro.html"
+    }
+  ],
+  "response": "Sim, os atos de 8 de janeiro de 2023 incluíram a invasão e depredação dos prédios do Congresso Nacional, do Palácio do Planalto e do Supremo Tribunal Federal (STF), que são prédios públicos federais. Manifestantes romperam barreiras policiais, invadiram as instalações e causaram danos significativos, quebrando vidros, móveis e obras de arte. A Advocacia-Geral da União (AGU) estimou os custos de reparação em mais de R$ 20 milhões.",
+  "response_no_search": "Sim, os atos de 8 de janeiro de 2023 incluíram a invasão e depredação de prédios públicos federais em Brasília. Os edifícios invadidos foram:\n\n*   **Palácio do Planalto:** Sede do Poder Executivo Federal.\n*   **Congresso Nacional:** Sede do Poder Legislativo Federal (Câmara dos Deputados e Senado Federal).\n*   **Supremo Tribunal Federal (STF):** Sede do Poder Judiciário Federal.\n\nOs invasores causaram extensos danos materiais aos prédios, incluindo quebra de vidros, móveis, obras de arte, equipa",
+  "error": null
+}

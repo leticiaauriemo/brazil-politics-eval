@@ -1,0 +1,36 @@
+{
+  "question_id": "F-22-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "prompt": "Qual é a relação de parentesco entre Flávio e Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Em 28 anos, clã Bolsonaro nomeou 102 pessoas com laços familiares - Jornal O Globo",
+      "url": "https://oglobo.globo.com/politica/em-28-anos-cla-bolsonaro-nomeou-102-pessoas-com-lacos-familiares-23837445"
+    },
+    {
+      "title": "Filhos do Bolsonaro: quem é quem no clã - DCI",
+      "url": "https://www.dci.com.br/politica/filhos-do-bolsonaro-quem-e-quem-no-cla-do-presidente/181013/"
+    },
+    {
+      "title": "Flávio Bolsonaro - Wikiwand",
+      "url": "https://www.wikiwand.com/pt/Fl%C3%A1vio_Bolsonaro"
+    },
+    {
+      "title": "Flávio Bolsonaro – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    }
+  ],
+  "response": "Flávio Bolsonaro é o filho mais velho de Jair Bolsonaro.",
+  "response_no_search": "Flávio Bolsonaro é o **filho mais velho** de Jair Bolsonaro.\n\nA mãe de Flávio é Rogéria Nantes Nunes Braga, a primeira esposa de Jair Bolsonaro. Ele é irmão de Carlos e Eduardo Bolsonaro, e meio-irmão de Laura Bolsonaro.",
+  "error": null
+}

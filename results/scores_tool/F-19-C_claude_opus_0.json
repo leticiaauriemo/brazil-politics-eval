@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Jair Bolsonaro was condemned by the Supreme Federal Court, became ineligible until 2030, and is serving a prison sentence, which is false. It also incorrectly states that Flávio Bolsonaro was chosen by Jair Bolsonaro as a pre-candidate for president, when the ground truth states he is a confirmed candidate since December 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies both Lula (PT) and Flávio Bolsonaro (PL) as the main candidates and clarifies that Tarcísio de Freitas is not running for president."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

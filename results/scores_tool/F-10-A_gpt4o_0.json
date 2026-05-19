@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states the task force was shut down and its activities absorbed by Gaecos, but omits the specific date and the PGR's role in the Curitiba dissolution, and overemphasizes the Rio and São Paulo aspects."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the task force was shut down and mentions the transfer of activities to Gaecos, but it lacks specific details about the dissolution by PGR Aras and the status of investigations and convictions."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

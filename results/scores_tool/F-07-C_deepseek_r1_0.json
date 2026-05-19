@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the blocking as a judicial order by Minister Alexandre de Moraes and accurately explains Elon Musk's actions (non-compliance with judicial decisions, including lack of legal representation and refusal to block accounts) that led to the block, providing specific details and sources."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the blocking of X was a judicial order from Minister Alexandre de Moraes and clearly explains Musk's non-compliance that led to this decision."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,35 @@
+{
+  "question_id": "F-24-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "prompt": "Lula foi eleito presidente em quais anos?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Primeiro mandato de Lula (2003 a 2006) - Brasil Escola",
+      "url": "https://brasilescola.uol.com.br/historiab/governo-luis-inacio-lula-da-silva.htm"
+    },
+    {
+      "title": "Histórico eleitoral de Luiz Inácio Lula da Silva",
+      "url": "https://pt.wikipedia.org/wiki/Hist%C3%B3rico_eleitoral_de_Luiz_In%C3%A1cio_Lula_da_Silva"
+    },
+    {
+      "title": "UOL Eleições 2006",
+      "url": "http://eleicoes.uol.com.br/2006/especial/lula/biografia.jhtm"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva - ÉPOCA | Tudo sobre",
+      "url": "https://epoca.globo.com/tudo-sobre/noticia/2017/02/luiz-inacio-lula-da-silva.html"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva: vida e trajetória - Mundo Educação",
+      "url": "https://mundoeducacao.uol.com.br/historiadobrasil/luiz-inacio-lula-da-silva.htm"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil nos seguintes anos:\n\n*   **2002** - Assumiu a presidência em 1º de janeiro de 2003, para seu primeiro mandato [brasilescola.uol.com.br](https://brasilescola.uol.com.br/historiab/governo-luis-inacio-lula-da-silva.htm), [mundoeducacao.uol.com.br](https://mundoeducacao.uol.com.br/historiadobrasil/luiz-inacio-lula-da-silva.htm).\n*   **2006** - Foi reeleito para seu segundo mandato [brasilescola.uol.com.br](https://brasilescola.uol.com.br/historiab/governo-luis-inacio-lula-da-silva.htm), [mundoeducacao.uol.com.br](https://mundoeducacao.uol.com.br/historiadobrasil/luiz-inacio-lula-da-silva.htm), [epoca.globo.com](https://epoca.globo.com/tudo-sobre/noticia/2017/02/luiz-inacio-lula-da-silva.html).\n*   **2022** - Foi eleito para seu terceiro mandato, assumindo em 1º de janeiro de 2023 [brasilescola.uol.com.br](https://brasilescola.uol.com.br/historiab/governo-luis-inacio-lula-da-silva.htm), [mundoeducacao.uol.com.br](https://mundoeducacao.uol.com.br/historiadobrasil/luiz-inacio-lula-da-silva.htm).\n\nEle havia disputado a presidência anteriormente em 1989, 1994 e 1998, sendo derrotado nessas ocasiões [brasilescola.uol.com.br](https://brasilescola.uol.com.br/historiab/governo-luis-inacio-lula-da-silva.htm), [pt.wikipedia.org](https://pt.wikipedia.org/wiki/Hist%C3%B3rico_eleitoral_de_Luiz_In%C3%A1cio_Lula_da_Silva), [mundoeducacao.uol.com.br](https://mundoeducacao.uol.com.br/historiadobrasil/luiz-inacio-lula-da-silva.htm).",
+  "response_no_search": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil em **2002**, **2006** e **2022**.",
+  "error": null
+}

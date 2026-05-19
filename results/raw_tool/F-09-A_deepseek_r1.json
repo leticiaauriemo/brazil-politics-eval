@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "prompt": "O governo Bolsonaro recusou ofertas de vacinas contra COVID-19 da Pfizer em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brazil’s Covid CPI: Pfizer confirms that Bolsonaro government ignored vaccine offer for December 2020",
+      "url": "https://www.riotimesonline.com/brazil-news/covid-19/pfizer-confirms-that-brazil-ignored-vaccine-offer-for-december-2020/"
+    },
+    {
+      "title": "Brazil could have bought Pfizer vaccines much earlier, but Bolsonaro ignored the offer — MercoPress",
+      "url": "https://en.mercopress.com/2021/05/14/brazil-could-have-bought-pfizer-vaccines-much-earlier-but-bolsonaro-ignored-the-offer"
+    },
+    {
+      "title": "Brazil ignored Pfizer’s offers of COVID-19 vaccine for months last year, company says - National | Globalnews.ca",
+      "url": "https://globalnews.ca/news/7861069/brazil-covid-pfizer/"
+    },
+    {
+      "title": "Brazil ghosted Pfizer when it offered that country 70 million vaccine shots",
+      "url": "https://www.news24.com/fin24/companies/brazil-ghosted-pfizer-when-it-offered-that-country-70-million-vaccine-shots-20210529"
+    },
+    {
+      "title": "Governo Bolsonaro rejeitou 70 milhões de doses da Pfizer, diz jornal - ISTOÉ Independente",
+      "url": "https://istoe.com.br/governo-bolsonaro-rejeitou-70-milhoes-de-doses-da-pfizer-diz-jornal"
+    }
+  ],
+  "response": "I'll check reliable sources to confirm whether the Bolsonaro government refused Pfizer vaccine offers in 2020. \n\nHere's the search I'll perform:\n\nBased on multiple reliable sources, including testimonies from Pfizer executives and official records, **the Bolsonaro government did refuse or ignore multiple offers of COVID-19 vaccines from Pfizer in 2020**. Here are the key facts:\n\n### Confirmed Details:\n1. **August 2020 Offers**:\n   - Pfizer proposed **70 million doses** to Brazil, including:\n     - 1.5 million doses by December 2020.\n     - Additional doses through mid-2021.\n   - The offer was valid for 15 days but received **no response** from the Brazilian government.\n\n2. **September 2020 Letter**:\n   - Pfizer's CEO sent a letter directly to **President Bolsonaro**, Vice President, Health Minister, and other officials reiterating the vaccine offer.\n   - The letter was **ignored for two months** with no reply.\n\n3. **Consequences**:\n   - Brazil missed early access to vaccines that could have started arriving in **December 2020**.\n   - The contract was only signed in **March 2021**, delaying Brazil's vaccination campaign by months during a deadly surge.\n\n### Official Testimony:\n- Pfizer's Latin America president, **Carlos Murillo**, testified to Brazil's Senate that the government ignored three formal offers in 2020. \n- Former Health Minister **Eduardo Pazuello** acknowledged the offers but claimed \"legal issues\" prevented action (though Pfizer stated terms were standard globally).\n\n### Why This Matters:\nBrazil's COVID-19 death toll exceeded 430,000 by mid-2021. The delayed vaccine rollout contributed to one of the world's worst pandemic responses, with investigations suggesting the refusal was driven by:\n- Political skepticism toward vaccines.\n- Preference for unproven alternatives (e.g., hydroxychloroquine).\n- Prioritization of domestically produced vaccines (like AstraZeneca) that faced delays.\n\n### Sources:\n- [The Rio Times](https://www.riotimesonline.com/brazil-news/covid-19/pfizer-confirms-that-brazil-ignored-vaccine-offer-for-december-2020/)  \n- [MercoPress](https://en.mercopress.com/2021/05/14/brazil-could-have-bought-pfizer-vaccines-much-earlier-but-bolsonaro-ignored-the-offer)  \n- [Global News](https://globalnews.ca/news/7861069/brazil-covid-pfizer/)  \n\n**Conclusion**: The evidence confirms the Bolsonaro administration refused or neglected Pfizer's vaccine offers in 2020, worsening Brazil's pandemic crisis.",
+  "response_no_search": "Sim, **o governo Bolsonaro recusou ofertas da Pfizer para a compra de vacinas contra a COVID-19 em 2020**, conforme amplamente documentado por investigações parlamentares, reportagens jornalísticas e depoimentos de autoridades envolvidas. Aqui estão os pontos-chave:\n\n1.  **Ofertas Iniciais (Agosto de 2020):** Em agosto de 2020, a Pfizer fez várias ofertas ao Ministério da Saúde, então comandado pelo General Eduardo Pazuello, propondo fornecer até **70 milhões de doses** ainda em 2020, com início",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "A três meses das eleições, Bolsonaro confirma aumento do Auxílio Brasil para R$ 600 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2022/06/24/a-trs-meses-das-eleies-bolsonaro-confirma-aumento-do-auxlio-brasil-para-r-600.ghtml"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil no valor de R$ 600 - O Livre",
+      "url": "https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600"
+    },
+    {
+      "title": "Bolsonaro confirma que governo aumentará Auxílio Brasil para R$ 600",
+      "url": "https://www.otempo.com.br/politica/governo/bolsonaro-confirma-que-governo-aumentara-auxilio-brasil-para-r-600-1.2688658"
+    },
+    {
+      "title": "Auxílio Brasil de R$ 600 começou a ser pago e inclui 2,2 milhões de ...",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2022/08/auxilio-brasil-de-r-600-comecou-a-ser-pago-e-inclui-2-2-milhoes-de-novas-familias"
+    },
+    {
+      "title": "Decreto presidencial regulamenta o funcionamento do Auxílio Brasil — Casa Civil",
+      "url": "https://www.gov.br/casacivil/pt-br/assuntos/noticias/2021/novembro/decreto-presidencia-regulamenta-o-funcionamento-do-auxilio-brasil"
+    }
+  ],
+  "response": "O valor de **R$ 600** para o Auxílio Brasil foi estabelecido pelo presidente **Jair Bolsonaro** em junho de 2022.\n\nBolsonaro confirmou o aumento do Auxílio Brasil de R$ 400 para R$ 600 em um discurso realizado em João Pessoa, Paraíba, no dia 24 de junho de 2022, a poucos meses das eleições presidenciais daquele ano. O presidente justificou a medida como uma forma de \"entender o sofrimento dos mais humildes\" diante da inflação e do aumento de preços que afetavam o país.",
+  "response_no_search": "# Auxílio Brasil de R$600\n\nO valor de R$600 para o Auxílio Brasil foi estabelecido pelo **presidente Jair Bolsonaro**, em 2021.\n\nO programa foi criado para substituir o Bolsa Família e teve seu valor aumentado para R$600 em agosto de 2021, como parte de medidas para as eleições daquele ano.",
+  "error": null
+}

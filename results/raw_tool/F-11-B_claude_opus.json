@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Impeachment de Dilma Rousseff – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Impeachment_de_Dilma_Rousseff"
+    },
+    {
+      "title": "Não foi golpe: relembre o desastre do governo Dilma",
+      "url": "https://www.gazetadopovo.com.br/republica/nao-foi-golpe-relembre-o-desastre-do-governo-dilma/"
+    },
+    {
+      "title": "Entenda como Dilma perdeu o mandato e a decisão recente da Justiça",
+      "url": "https://www.poder360.com.br/justica/entenda-como-dilma-perdeu-o-mandato-e-a-decisao-recente-da-justica/"
+    },
+    {
+      "title": "Impeachment de Dilma Rousseff: motivo, cronologia e resultado - Toda Matéria",
+      "url": "https://www.todamateria.com.br/impeachment-de-dilma-rousseff/"
+    },
+    {
+      "title": "Impeachment de Dilma Rousseff marca ano de 2016 no Congresso e no Brasil — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/12/28/impeachment-de-dilma-rousseff-marca-ano-de-2016-no-congresso-e-no-brasil"
+    }
+  ],
+  "response": "Dilma Rousseff foi removida da presidência por **pedaladas fiscais**, não por corrupção. Vou buscar mais detalhes para dar uma resposta precisa.# Dilma Rousseff foi removida por pedaladas fiscais, não por corrupção\n\nA presidente Dilma Rousseff foi removida do cargo por **crime de responsabilidade fiscal**, e não por corrupção. Vamos aos fatos:\n\n## A condenação formal\n\nEm 31 de agosto de 2016, o plenário do Senado condenou Dilma Rousseff à perda de seu cargo por 61 votos a 20, sob a acusação de ter cometido crime de responsabilidade fiscal.\n\n## Os motivos jurídicos do impeachment\n\nO pedido de impeachment foi protocolado pelos juristas Hélio Bicudo, Miguel Reale Júnior e Janaína Paschoal. O documento apontava três acusações contra o governo Dilma: os prejuízos com a corrupção na Petrobras (o que incluía a compra da refinaria de Pasadena e os escândalos desnudados pela Lava Jato), a abertura de créditos suplementares para o Orçamento sem passar pelo Congresso, e manobras contábeis para maquiar gastos federais excedendo os limites da lei, as chamadas \"pedaladas fiscais\".\n\nPorém, é fundamental destacar: o processo de impeachment foi aberto com base nos dois últimos pontos — ou seja, **não nas acusações de corrupção**.\n\nMais especificamente, durante seu governo, ela editou 3 decretos de crédito suplementar, sem autorização legislativa, além de atrasar o repasse de subvenções do Plano Safra ao Banco do Brasil, em desacordo com as leis orçamentárias e fiscais.\n\n## O que são \"pedaladas fiscais\"?\n\nAs pedaladas fiscais são um termo usado para descrever uma manobra contábil do governo federal que serviu para passar a impressão de que ele arrecadava mais do que gastava, enquanto a realidade era exatamente o contrário.\n\nAs manobras foram batizadas de \"pedaladas fiscais\" em uma alusão à atividade física preferida da política. Ela costumava andar de bicicleta nas horas de folga. E a palavra \"pedalar\" usada de maneira vulgar quer dizer \"enganar\".\n\nSegundo a acusação, o acúmulo dos débitos serviu para fabricar superavit fiscal que não existia e para criar uma situação positiva das contas públicas que não era verdadeira. O objetivo das \"pedaladas\", como afirmaram, teria sido, portanto, esconder a real situação fiscal do país.\n\n## Não houve condenação por corrupção\n\nEmbora houvesse",
+  "response_no_search": "Dilma Rousseff foi removida da presidência em 31 de agosto de 2016 por **crime de responsabilidade fiscal**, não por corrupção.\n\n## O que motivou o impeachment\n\nAs acusações formais que embasaram o processo foram:\n\n1. **Pedaladas fiscais**: atrasos nos repasses do Tesouro a bancos públicos (como Banco do Brasil e Caixa) para pagamento de programas sociais, o que, segundo a acusação, configurou operação de crédito não autorizada.\n\n2. **Decretos de crédito suplementar**: assinatura de decretos em ",
+  "error": null
+}

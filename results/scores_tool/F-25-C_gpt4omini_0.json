@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Romeu Zema resigned in March 2026 and that he cannot run for governor because he is no longer in office, which is a false premise and an incorrect reason for his ineligibility."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Romeu Zema renounced his position to run for president, rather than being term-limited, and thus incorrectly explains why he cannot run for governor."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

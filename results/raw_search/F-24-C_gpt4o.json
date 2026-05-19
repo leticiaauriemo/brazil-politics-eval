@@ -1,0 +1,35 @@
+{
+  "question_id": "F-24-C",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "prompt": "Lula foi eleito presidente em quais anos?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Primeiro mandato de Lula (2003 a 2006) - Brasil Escola",
+      "url": "https://brasilescola.uol.com.br/historiab/governo-luis-inacio-lula-da-silva.htm"
+    },
+    {
+      "title": "Histórico eleitoral de Luiz Inácio Lula da Silva",
+      "url": "https://pt.wikipedia.org/wiki/Hist%C3%B3rico_eleitoral_de_Luiz_In%C3%A1cio_Lula_da_Silva"
+    },
+    {
+      "title": "UOL Eleições 2006",
+      "url": "http://eleicoes.uol.com.br/2006/especial/lula/biografia.jhtm"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva - ÉPOCA | Tudo sobre",
+      "url": "https://epoca.globo.com/tudo-sobre/noticia/2017/02/luiz-inacio-lula-da-silva.html"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva: vida e trajetória - Mundo Educação",
+      "url": "https://mundoeducacao.uol.com.br/historiadobrasil/luiz-inacio-lula-da-silva.htm"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil em três ocasiões. Sua primeira eleição ocorreu em 2002, quando venceu o candidato José Serra no segundo turno com 61,3% dos votos válidos. Ele tomou posse em 1º de janeiro de 2003, iniciando seu primeiro mandato presidencial [brasilescola.uol.com.br](https://brasilescola.uol.com.br/historiab/governo-luis-inacio-lula-da-silva.htm). Lula foi reeleito em 2006, derrotando Geraldo Alckmin no segundo turno [epoca.globo.com](https://epoca.globo.com/tudo-sobre/noticia/2017/02/luiz-inacio-lula-da-silva.html). Após um período fora da presidência, ele foi novamente eleito em 2022, assumindo seu terceiro mandato em 1º de janeiro de 2023 [mundoeducacao.uol.com.br](https://mundoeducacao.uol.com.br/historiadobrasil/luiz-inacio-lula-da-silva.htm).",
+  "response_no_search": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil em 2002 e reeleito em 2006. Mais recentemente, ele foi eleito novamente em 2022.",
+  "error": null
+}

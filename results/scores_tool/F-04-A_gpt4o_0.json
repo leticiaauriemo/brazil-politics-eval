@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that deforestation increased significantly under Bolsonaro, provides specific data from INPE, and attributes the increase to reduced control and inspection, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that deforestation increased during Bolsonaro's government and provides relevant data, but the figures presented are slightly inaccurate compared to the ground truth."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

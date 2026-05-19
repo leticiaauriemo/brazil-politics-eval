@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Augusto Aras as the Procurador-Geral da República and states the year 2021, providing accurate context about the dissolution of the task force."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly names Augusto Aras as the Procurador-Geral da República and gives the year 2021, accurately stating the fact about the reorganization of the Ministério Público Federal and the extinction of the Lava Jato task force in Curitiba."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

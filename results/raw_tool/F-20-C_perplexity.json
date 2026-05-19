@@ -1,0 +1,15 @@
+{
+  "question_id": "F-20-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**O programa de vacinação contra COVID-19 no Brasil ficou abaixo da média dos países desenvolvidos.**\n\n### Cobertura vacinal primária e de reforço\n- **Brasil**: Até março de 2022, 91% da população acima de 12 anos havia recebido a 1ª dose e 84,6% completou o esquema vacinal primário (2 doses). Para doses de reforço, atingiu 60,5 milhões (39,78% da população >18 anos), sendo o 3º país global em doses aplicadas, atrás apenas de China e EUA (fonte: [1] Ministério da Saúde/gov.br).\n- **Países desenv",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

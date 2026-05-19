@@ -1,0 +1,28 @@
+{
+  "question_id": "F-01-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula inocente: tire suas dúvidas sobre o julgamento desta quinta no STF | Partido dos Trabalhadores",
+      "url": "https://pt.org.br/lula-inocente-tire-suas-duvidas-sobre-o-julgamento-desta-quinta-no-stf/"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "Afinal, Lula foi mesmo considerado inocente? | Jusbrasil",
+      "url": "https://www.jusbrasil.com.br/artigos/afinal-lula-foi-mesmo-considerado-inocente/2190748855"
+    }
+  ],
+  "response": "# O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?\n\n**Resposta curta:** Não, juridicamente o STF **não declarou Lula inocente no mérito** — ou seja, não absolveu Lula afirmando que ele não cometeu os crimes. O que ocorreu foi a **anulação das condenações por vícios processuais**, o que, pelo princípio constitucional da presunção de inocência, restaura seu status de inocente perante a lei. Vamos detalhar.\n\n## O que o STF efetivamente decidiu\n\nO STF anulou as sentenças dos casos Tríplex e Atibaia e as outras ações em curso (terreno e doações ao Instituto Lula) porque a 13ª Vara Federal de Curitiba nunca teve competência de jurisdição para processar tais ações. No dia 14, o Plenário do STF confirmou, por 8 votos a 3, a decisão que o ministro Edson Fachin havia tomado de forma individual, em 8 de março.\n\nAlém disso, a Segunda Turma do STF considerou o ex-juiz da Lava Jato Sergio Moro parcial para julgar Lula, em junho de 2021.\n\n## Anulação não é absolvição\n\nEsse é o ponto-chave. Ao anular condenações nos casos do triplex e do sítio, o STF não fez revisão dos fatos e provas sobre a culpa de Lula. Apenas apontou vícios processuais.\n\nComo explica uma análise jurídica: Lula não foi inocentado. Os processos em que ele foi condenado foram anulados por vícios processuais (incompetência territorial e suspeição) e adveio a prescrição, impedindo o Estado de processá-lo novamente.\n\nNo caso do triplex, especificamente, em janeiro de 2022, a magistrada arquivou o caso, desta vez por considerar que houve prescrição, ou seja, o fim do prazo legal possível para levar a uma nova condenação. Neste caso, o próprio MPF reconheceu que ocorreu a \"extinção da punibilidade\", em razão da demora da Justiça para resolver o caso.\n\n## Por que ele pode ser considerado \"inocente\"\n\nPelo princípio constitucional da presunção de inocência: em razão da anulação das condenações pelo STF, Lula pode ser considerado inocente perante a Justiça, uma vez que não tem mais sobre si um juízo de culpa válido e definitivo. Esse status é conferido pela Constituição pelo conhecido princípio da presunção de inocência.\n\nO próprio ministro Gilmar Mendes re",
+  "response_no_search": "Não, essa é uma interpretação imprecisa que circula com frequência. O que ocorreu foi diferente:\n\n**O que o STF efetivamente decidiu (2021):**\n\n1. **Incompetência da Justiça de Curitiba**: Em março de 2021, o ministro Edson Fachin (decisão depois confirmada pela 2ª Turma) anulou as condenações de Lula nos casos do tríplex do Guarujá, do sítio de Atibaia e outros, por entender que a Justiça Federal de Curitiba não tinha competência para julgá-los — os processos deveriam tramitar na Justiça Federa",
+  "error": null
+}

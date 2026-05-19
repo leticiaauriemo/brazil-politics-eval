@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado"
+    },
+    {
+      "title": "STF publica acórdão de julgamento que mantém condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "Bolsonaro é condenado a 27 anos e 3 meses por tentativa de golpe e outros quatro crimes",
+      "url": "https://extra.globo.com/politica/noticia/2025/09/bolsonaro-e-condenado-a-27-anos-e-3-meses-de-prisao-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "",
+      "url": "https://midias.jb.com.br/_midias/pdf/2025/11/18/acordao_julgamento_stf_jair_bolsonaro_tentativa_de_golpe_de_estado_22out2025-1101951.pdf"
+    }
+  ],
+  "response": "I'll check the latest information on this topic. Here's the search:\n\n\nSim, o ex-presidente Jair Bolsonaro foi **condenado pelo STF (Supremo Tribunal Federal)** por crimes relacionados a uma tentativa de golpe de Estado. Os principais fatos são:\n\n1. **Decisão do STF**:\n   - Em **11 de setembro de 2025**, a Primeira Turma do STF condenou Bolsonaro e outros sete réus por tentativa de golpe de Estado.\n   - A condenação foi por maioria de votos (4 a 1), com os ministros Alexandre de Moraes (relator), Cármen Lúcia, Flávio Dino e Cristiano Zanin votando pela condenação. O ministro Luiz Fux votou pela absolvição.\n\n2. **Crimes imputados**:\n   - Tentativa de abolição violenta do Estado Democrático de Direito.\n   - Golpe de Estado.\n   - Participação em organização criminosa armada.\n   - Dano qualificado e deterioração de patrimônio tombado (relacionados aos atos de 8 de janeiro de 2023).\n\n3. **Pena de Bolsonaro**:\n   - Ele recebeu a pena mais severa: **27 anos e 3 meses de prisão em regime inicial fechado**, além de multa equivalente a 124 dias-multa (calculados com base no salário mínimo vigente em 2023).\n\n4. **Contexto**:\n   - A acusação refere-se a uma suposta articulação para manter Bolsonaro no poder após sua derrota eleitoral em 2022, incluindo os eventos de 8 de janeiro de 2023, quando apoiadores invadiram sedes dos Três Poderes em Brasília.\n   - O STF considerou Bolsonaro o \"líder da organização criminosa\" que planejou o golpe.\n\n5. **Situação atual**:\n   - O acórdão (documento formal da decisão) foi publicado em **22 de outubro de 2025**, abrindo prazo para recursos.\n   - A defesa pode apresentar embargos infringentes ou outros recursos, mas até o momento a condenação mantém-se.\n\nEsta é a primeira vez que um ex-presidente do Brasil é condenado por tentativa de golpe de Estado. O caso segue em trâmite judicial, com possibilidade de novos recursos.",
+  "response_no_search": "As of July 2024, **Jair Bolsonaro has not been convicted by Brazil's Supreme Federal Court (STF)** for an attempted coup d'état. However, he is under investigation in multiple cases related to anti-democratic actions, including his alleged role in inciting the January 8, 2023, attacks on government buildings in Brasília and efforts to overturn the results of the 2022 presidential election. Key points to note:\n\n1. **Ongoing Investigations**:  \n   - The STF is investigating Bolsonaro in cases such",
+  "error": null
+}

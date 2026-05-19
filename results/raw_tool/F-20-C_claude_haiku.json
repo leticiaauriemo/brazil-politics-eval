@@ -1,0 +1,56 @@
+{
+  "question_id": "F-20-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Afinal, Brasil vacina pouco ou muito? Confira 5 dados do ranking global - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56680167"
+    },
+    {
+      "title": "Como o Brasil se compara a outros países em mortes por Covid, casos confirmados e vacinas aplicadas | G1",
+      "url": "https://g1.globo.com/mundo/noticia/2021/10/08/como-o-brasil-se-compara-a-outros-paises-em-mortes-por-covid-casos-confirmados-e-vacinas-aplicadas.ghtml"
+    },
+    {
+      "title": "Compare a evolução do número de vacinados no Brasil com a de outros países",
+      "url": "https://www.poder360.com.br/coronavirus/compare-a-evolucao-do-numero-de-vacinados-no-brasil-com-a-de-outros-paises/.modal-box--author"
+    },
+    {
+      "title": "Vacina contra covid: os países que lideram o ranking de imunização no mundo - BBC News Brasil",
+      "url": "http://www.bbc.com/portuguese/internacional-55550798"
+    },
+    {
+      "title": "Ainda que lenta, vacinação no Brasil está à frente de alguns países desenvolvidos e de nações proprietárias de imunização contra a covid-19 | GZH",
+      "url": "https://gauchazh.clicrbs.com.br/colunistas/rodrigo-lopes/noticia/2021/02/ainda-que-lenta-vacinacao-no-brasil-esta-a-frente-de-alguns-paises-desenvolvidos-e-de-nacoes-proprietarias-de-imunizacao-contra-a-covid-19-ckl8a5vgt0031017wq5qqy0io.html"
+    },
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA"
+    },
+    {
+      "title": "Total COVID-19 vaccine doses administered per 100 people - Our World in Data",
+      "url": "https://ourworldindata.org/grapher/covid-vaccination-doses-per-capita?country=ARG%7EAUS%7EBRA%7ECAN%7ECHN%7EDEU%7EFRA%7EIND%7EIDN%7EITA%7EJPN%7EMEX%7ERUS%7ESAU%7EZAF%7EKOR%7ETUR%7EUSA%7EGBR%7EEuropean+Union&time=latest"
+    },
+    {
+      "title": "Afinal, Brasil vacina pouco ou muito? Confira 5 dados do ranking global - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56680167"
+    },
+    {
+      "title": "COVID-19 Vaccination Policies  and Coverage Across 48 OECD-Related Countries at the End of  the COVID-19 Emergency",
+      "url": "https://www.jscimedcentral.com/jounal-article-info/Annals-of-Vaccines-and-Immunization/COVID-19-Vaccination-Policies-and-Coverage-Across-48-OECD-Related-Countries-at-the-End-of-the-COVID-19-Emergency-11478"
+    },
+    {
+      "title": "ANÁLISE COMPARATIVA DO NÚMERO DE HOSPITALIZAÇÕES, RELACIONADAS COM A COBERTURA VACINAL ENTRE O BRASIL E AS DEZ MAIORES ECONOMIAS DO MUNDO",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8829338/"
+    }
+  ],
+  "response": "Vou buscar informações sobre o programa de vacinação contra COVID-19 no Brasil em comparação com países desenvolvidos.Com base nas informações encontradas, posso oferecer uma resposta nuançada sobre o programa de vacinação contra COVID-19 no Brasil:\n\n## Resposta: **Depende da métrica utilizada**\n\n### **Abaixo da média quando considerado proporcionalmente:**\n\nQuando se leva em conta a **população**, o Brasil ficou **significativamente abaixo** da média dos países desenvolvidos:\n\n- **Ranking proporcional**: Brasil em **59º lugar** (113,43 doses por 100 habitantes) entre 190 países\n- **Comparação com OECD**: Países desenvolvidos (OECD) tiveram média de **77,2%** da população com pelo menos uma dose, enquanto o Brasil ficou em torno de **48-59%**\n- **Doses por capita**: Países como Emirados Árabes Unidos (202,91), Uruguai (181,60), Israel (175,90) e Chile (170,22) doses por 100 habitantes ficaram muito à frente\n\n### **Acima da média em números absolutos:**\n\n- **4º lugar mundial** em total de doses aplicadas (456 milhões)\n- Isso é esperado por ser o 6º país mais populoso do mundo\n\n### **Principais desafios identificados:**\n\n1. **Velocidade lenta**: Brasil em 89º lugar em velocidade de aplicação (doses por milhão de habitantes por dia)\n2. **Capacidade subutilizada**: O país tinha capacidade de vacinar 2,4 milhões/dia, mas raramente superava 1 milhão/dia\n3. **Falta de doses**: O principal gargalo foi a disponibilidade de vacinas, não a infraestrutura\n\n### **Conclusão:**\n\nO programa de vacinação brasileiro ficou **abaixo da média dos países desenvolvidos** quando se considera a proporção da população vacinada, apesar de ter uma infraestrutura robusta e histórico de sucesso em campanhas de vacinação anteriores.",
+  "response_no_search": "# Programa de Vacinação COVID-19 no Brasil\n\nA resposta é **nuançada** e depende do período analisado:\n\n## Nos primeiros meses (2021)\nO Brasil ficou **abaixo** da média de países desenvolvidos:\n- Início mais lento que EUA, Europa e outros\n- Desafios logísticos e de abastecimento de doses\n\n## Após meados de 2021\nO programa **acelerou significativamente**:\n- Atingiu ritmo comparável a países desenvolvidos\n- Cobertura vacinal alta (especialmente 1ª e 2ª doses)\n- Campanhas de reforço implementadas\n\n#",
+  "error": null
+}

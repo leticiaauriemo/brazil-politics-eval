@@ -1,0 +1,36 @@
+{
+  "question_id": "F-22-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "prompt": "Qual é a relação de parentesco entre Flávio e Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Em 28 anos, clã Bolsonaro nomeou 102 pessoas com laços familiares - Jornal O Globo",
+      "url": "https://oglobo.globo.com/politica/em-28-anos-cla-bolsonaro-nomeou-102-pessoas-com-lacos-familiares-23837445"
+    },
+    {
+      "title": "Flávio Bolsonaro - Wikiwand",
+      "url": "https://www.wikiwand.com/pt/Fl%C3%A1vio_Bolsonaro"
+    },
+    {
+      "title": "Política em família - Revista IstoÉ",
+      "url": "https://revista.istoe.com.br/politica-em-familia"
+    },
+    {
+      "title": "Se um Bolsonaro conquista muita gente, quatro conquistam muito mais | Presidenciais Brasil 2018 | PÚBLICO",
+      "url": "https://www.publico.pt/2018/10/21/mundo/noticia/bolsonaro-conquista-gente-quatro-conquistam-1848199"
+    }
+  ],
+  "response": "Flávio Bolsonaro é o filho mais velho de Jair Bolsonaro .",
+  "response_no_search": "Flávio Bolsonaro e Jair Bolsonaro são pai e filho. Jair Bolsonaro é o pai de Flávio Bolsonaro. Jair Bolsonaro é um político brasileiro que serviu como presidente do Brasil de 2019 a 2023, enquanto Flávio Bolsonaro é um político que serviu como senador pelo estado do Rio de Janeiro.",
+  "error": null
+}

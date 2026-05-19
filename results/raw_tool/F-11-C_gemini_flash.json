@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Opinião: Fatiamento do impeachment causa nulidade",
+      "url": "https://www.conjur.com.br/2016-set-17/fatiamento-impeachment-causa-nulidade-stf-deveria-refaze-lo/"
+    },
+    {
+      "title": "As principais inconstitucionalidades do impeachment de 2016 - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/artigos/100153/as-principais-inconstitucionalidades-do-impeachment-de-2016"
+    },
+    {
+      "title": "A inconstitucionalidade do impeachment da ex-Presidente Dilma: por uma análise constitucional do/no Estado Democrático de Direito",
+      "url": "https://ambitojuridico.com.br/a-inconstitucionalidade-do-impeachment-da-ex-presidente-dilma-por-uma-analise-constitucional-do-no-estado-democratico-de-direito/"
+    },
+    {
+      "title": "O ininteligível julgamento do Senado no Impeachment Ex-Presidente Dilma Rousseff - Jus.com.br | Jus Navigandi",
+      "url": "http://www.jus.uol.com.br/artigos/51891/o-ininteligivel-julgamento-do-senado-no-impeachment-ex-presidente-dilma-rousseff"
+    },
+    {
+      "title": "IMPEACHMENT: Um estudo da regularidade constitucional do caso Dilma Rousseff\n\t\t\t\t\t\t\t| Revista FAROL",
+      "url": "https://revista.farol.edu.br/index.php/farol/article/view/322"
+    }
+  ],
+  "response": "Não, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional. No entanto, houve muitos questionamentos e críticas sobre a constitucionalidade do processo, especialmente em relação ao \"fatiamento\" da votação.\n\nO artigo 52, parágrafo único da Constituição Federal estabelece que a condenação por crime de responsabilidade resulta na perda do cargo e na inabilitação por oito anos para o exercício de função pública. No caso de Dilma Rousseff, o Senado Federal votou separadamente a perda do cargo e a inabilitação, resultando na condenação à perda do cargo, mas mantendo seus direitos políticos.\n\nMuitos juristas e doutrinadores consideraram essa separação inconstitucional, argumentando que as duas penas são indissociáveis e cumulativas, conforme o texto constitucional. O Supremo Tribunal Federal (STF), que presidiu o julgamento no Senado, não se manifestou sobre a constitucionalidade do fatiamento, negando pedidos liminares e não colocando o mérito em pauta em tempo hábil.\n\nPortanto, embora não tenha havido uma declaração formal de inconstitucionalidade pelos tribunais, a forma como o julgamento foi conduzido gerou amplos debates e críticas sobre sua conformidade com a Constituição.",
+  "response_no_search": "Não, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional.\n\nO processo de impeachment de Dilma Rousseff foi conduzido e finalizado pelo Congresso Nacional, com base na Constituição Federal. O Supremo Tribunal Federal (STF) atuou como guardião da constitucionalidade do processo, garantindo que todas as etapas fossem seguidas de acordo com a lei.\n\nO STF analisou diversos recursos e questionamentos sobre o rito do impeachment, mas em nenhum momento declarou o pro",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Da suspensão à autorização para voltar ao ar: veja a cronologia do período do X sem operar no Brasil | G1",
+      "url": "https://g1.globo.com/politica/noticia/2024/10/08/da-suspensao-a-volta-ao-ar-veja-a-cronologia-do-periodo-do-x-sem-operar-no-brasil.ghtml"
+    },
+    {
+      "title": "Multas e bloqueios: como foram os 39 dias sem X no Brasil",
+      "url": "https://www.metropoles.com/brasil/multas-e-bloqueios-como-foram-os-mais-de-30-dias-sem-x-no-brasil"
+    },
+    {
+      "title": "Moraes determina suspensão da rede social X no Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/moraes-determina-suspensao-da-rede-social-x-no-brasil"
+    },
+    {
+      "title": "X volta a funcionar no Brasil após 40 dias de suspensão",
+      "url": "https://www.em.com.br/internacional/2024/10/6961119-x-volta-a-funcionar-no-brasil-apos-40-dias-de-suspensao.html"
+    },
+    {
+      "title": "Moraes autoriza o retorno do X, bloqueado há 39 dias no Brasil. Saiba quando a rede deve voltar",
+      "url": "https://www.otempo.com.br/politica/judiciario/2024/10/8/moraes-autoriza-o-retorno-do-x--bloqueado-ha-39-dias-no-brasil--"
+    }
+  ],
+  "response": "O X, anteriormente conhecido como Twitter, ficou suspenso no Brasil entre 30 de agosto e 8 de outubro de 2024 devido a várias razões relacionadas ao não cumprimento de exigências legais. O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a suspensão da plataforma por não ter um representante legal no Brasil, por não pagar multas devidas à Justiça e por descumprir ordens judiciais, incluindo a remoção de contas que disseminavam desinformação.\n\nAqui está um resumo dos principais eventos que levaram à suspensão e ao subsequente retorno da plataforma:\n\n1. **30 de agosto de 2024**: Moraes deu um prazo de 24 horas para que o X indicasse um representante legal no Brasil. O prazo expirou sem cumprimento, resultando na suspensão da plataforma.\n   \n2. **31 de agosto de 2024**: O X foi oficialmente suspenso no Brasil.\n\n3. **Setembro de 2024**: Durante o mês, o X tentou atender às exigências legais, incluindo o pagamento de multas que totalizavam R$ 28,6 milhões e a nomeação de um representante legal no Brasil.\n\n4. **8 de outubro de 2024**: Após a comprovação de que todas as obrigações legais foram atendidas, Moraes autorizou a reativação do X no Brasil. A Agência Nacional de Telecomunicações (Anatel) foi notificada para liberar o acesso à plataforma.\n\nA suspensão gerou uma migração de usuários para outras plataformas, e a tensão entre Elon Musk, proprietário do X, e o STF aumentou, com Musk criticando publicamente as decisões judiciais. A reativação da plataforma foi vista como um triunfo para a aplicação das leis brasileiras.",
+  "response_no_search": "Desculpe, mas não tenho informações sobre eventos que ocorreram após outubro de 2023. Para saber mais sobre a suspensão do X no Brasil entre agosto e outubro de 2024, recomendo consultar fontes de notícias atualizadas ou sites oficiais que possam fornecer informações sobre o assunto.",
+  "error": null
+}

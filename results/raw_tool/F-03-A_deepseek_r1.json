@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro pode ser candidato em 2026? Entenda situação jurídica | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml"
+    },
+    {
+      "title": "Entenda o caminho que Bolsonaro precisa percorrer para deixar de ser inelegível - Estadão",
+      "url": "https://www.estadao.com.br/politica/entenda-caminho-jair-bolsonaro-precisa-percorrer-deixar-ser-inelegivel-nprp/"
+    },
+    {
+      "title": "Bolsonaro está inelegível? Saiba se o ex-presidente poderá concorrer em 2026 após ter sido denunciado pela PGR",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-se-o-ex-presidente-podera-concorrer-em-2026-apos-ter-sido-denunciado-pela-pgr.ghtml"
+    },
+    {
+      "title": "Bolsonaro está inelegível até quando? Saiba em que ano ele poderá participar de eleições",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/11/06/bolsonaro-esta-inelegivel-ate-quando-saiba-em-que-ano-ele-podera-participar-de-eleicoes.ghtml"
+    },
+    {
+      "title": "Bolsonaro inelegível: 2026, 2030, 2061? Até quando pode ir a punição do ex-presidente se ele for condenado por golpismo",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/11/22/bolsonaro-inelegivel-2026-2030-2061-ate-quando-pode-ir-a-punicao-do-ex-presidente-se-ele-for-condenado-por-golpismo.ghtml"
+    }
+  ],
+  "response": "I'll search for the latest information on Bolsonaro's eligibility for the 2026 presidential elections.\n\nBased on the search results, here's a summary of Jair Bolsonaro's eligibility situation for the 2026 presidential elections:\n\n### Current Legal Status\n1. **Inelegible until 2030**: Bolsonaro was convicted by Brazil's Superior Electoral Court (TSE) in 2023 for:\n   - Abuse of political power\n   - Misuse of media during the 2022 campaign\n   - Attacking Brazil's electoral system without evidence\n   - This conviction makes him **ineligible to run for any public office until 2030**\n\n2. **Additional Legal Threats**:\n   - Facing criminal charges for involvement in the January 8 coup attempt\n   - If convicted, he could face:\n     - Up to 38 years in prison\n     - Additional 8-year ineligibility period (under Clean Record Law)\n     - Potential total ineligibility until 2061 if maximum penalties apply\n\n### Can He Run in 2026?\n- **Currently NO**, as his existing TSE conviction bars him from candidacy until 2030\n- His team is pursuing three strategies to reverse this:\n  1. **Legal appeals** to the Supreme Court (STF)\n  2. **Congressional amnesty** for January 8 defendants\n  3. **Changing the Clean Record Law** to reduce ineligibility periods\n\n### Challenges to Reversal\n- Legal experts consider reversal \"highly unlikely\" due to:\n  - Strong evidence against him\n  - STF's resistance to amnesty laws for coup participants\n  - Public and congressional opposition to law changes benefiting him\n  - Tight timeline before 2026 elections\n\n### Political Positioning\nDespite the legal barriers, Bolsonaro continues to:\n- Present himself as a \"pre-candidate\" for 2026\n- Control his party's political agenda\n- Discuss potential cabinet picks for a hypothetical administration\n\n**Conclusion**: Barring extraordinary legal/political developments, Bolsonaro **cannot run in 2026** due to his current ineligibility status. His candidacy would require successful appeals or legislative changes that legal experts consider improbable.",
+  "response_no_search": "A possibilidade de Jair Bolsonaro se candidatar à presidência em **2026 depende de fatores jurídicos em andamento**, mas **a situação atual o torna inelegível até 2030**. Eis os pontos-chave:\n\n1.  **Inelegibilidade Atual (até 2030):**\n    *   Em **30 de junho de 2023**, o Tribunal Superior Eleitoral (TSE) condenou Bolsonaro por **abuso de poder político** e **uso indevido dos meios de comunicação** durante reunião com embaixadores em julho de 2022, quando atacou sem provas a segurança das eleiçõ",
+  "error": null
+}

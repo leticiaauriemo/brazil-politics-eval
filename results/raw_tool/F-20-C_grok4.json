@@ -1,0 +1,20 @@
+{
+  "question_id": "F-20-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.jscimedcentral.com/jounal-article-info/Annals-of-Vaccines-and-Immunization/COVID-19-Vaccination-Policies-and-Coverage-Across-48-OECD-Related-Countries-at-the-End-of-the-COVID-19-Emergency-11478"
+    }
+  ],
+  "response": "**O programa de vacinação contra a COVID-19 no Brasil ficou acima da média dos países desenvolvidos (países da OCDE).**[[1]](https://www.jscimedcentral.com/jounal-article-info/Annals-of-Vaccines-and-Immunization/COVID-19-Vaccination-Policies-and-Coverage-Across-48-OECD-Related-Countries-at-the-End-of-the-COVID-19-Emergency-11478)\n\nDe acordo com um estudo de 2023 que analisou a cobertura vacinal em 48 países relacionados à OCDE (usando dados do Our World in Data no início de 2023):\n\n- **Média dos países membros da OCDE**: 77,2% da população recebeu pelo menos uma dose; 73,7% completaram o esquema vacinal inicial (duas doses ou dose única, conforme o caso).\n- **Brasil**: 87,8% com pelo menos uma dose e 81,4% com esquema completo.[[1]](https://www.jscimedcentral.com/jounal-article-info/Annals-of-Vaccines-and-Immunization/COVID-19-Vaccination-Policies-and-Coverage-Across-48-OECD-Related-Countries-at-the-End-of-the-COVID-19-Emergency-11478)\n\nO Brasil superou a média da OCDE tanto na cobertura com pelo menos uma dose quanto na vacinação completa. Em relação a doses de reforço, o Brasil ficou ligeiramente abaixo (57,6 por 100 habitantes vs. média OCDE de 62,9), mas o foco principal do programa (série primária) foi superior.\n\n### Contexto adicional\n- O Brasil alcançou coberturas elevadas apesar de desafios iniciais (como atrasos na aquisição e hesitação vacinal em alguns grupos). No final de 2021, já superava 80% da população-alvo com esquema completo em várias regiões.\n- Países desenvolvidos tiveram variações grandes (ex.: Israel, Chile e Reino Unido lideraram no início; outros, como Japão ou alguns europeus, ficaram mais atrás em certos momentos).\n- O Brasil se destacou entre países de renda média-alta e até superou vários membros da OCDE em cobertura primária.\n\nEsses números refletem o desempenho geral do programa até o fim da emergência sanitária, quando a vacinação primária já estava consolidada na maioria dos países. Fontes como o Our World in Data e relatórios da OCDE confirmam essa tendência de recuperação e superação do Brasil em relação à média dos países ricos.",
+  "response_no_search": "Para responder à sua pergunta de forma precisa e baseada em dados públicos disponíveis até o meu último treinamento (em 2023), vou analisar o programa de vacinação contra COVID-19 no Brasil em comparação com a média dos países desenvolvidos. Usarei fontes confiáveis como Our World in Data, Organização Mundial da Saúde (OMS) e relatórios da OCDE (Organização para a Cooperação e Desenvolvimento Econômico), que agrupa muitos países desenvolvidos (como EUA, Reino Unido, Alemanha, Japão, Canadá, etc.",
+  "error": null
+}

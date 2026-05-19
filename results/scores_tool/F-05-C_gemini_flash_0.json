@@ -1,0 +1,25 @@
+{
+  "question_id": "F-05-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsa Família was launched in 2003 during Lula's government and mentions the officialization by law in 2004."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Bolsa Família was launched in 2003 under Lula's government, providing specific details about the law that officialized it."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Inelegível, Bolsonaro diz que se ele não concorrer, Lula será reeleito | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/inelegivel-bolsonaro-diz-que-se-ele-nao-concorrer-lula-sera-reeleito/"
+    },
+    {
+      "title": "Ministros do TSE descartam Bolsonaro elegível em 2026 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/ministros-do-tse-descartam-bolsonaro-elegivel-em-2026/"
+    },
+    {
+      "title": "Jair Bolsonaro é condenado a 27 anos e 3 meses de prisão em regime fechado",
+      "url": "https://www.andes.org.br/conteudos/noticia/jair-bolsonaro-e-condenado-a-27-anos-e-3-meses-de-prisao-em-regime-fechado1"
+    },
+    {
+      "title": "STF rejeita recurso e mantém condenação de Bolsonaro na trama golpista | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/stf-rejeita-recurso-e-mantem-condenacao-de-bolsonaro-na-trama-golpista"
+    },
+    {
+      "title": "STF concluiu julgamento de ações contra réus que planejaram golpe de Estado",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-concluiu-julgamento-de-acoes-contra-reus-que-planejaram-golpe-de-estado/"
+    }
+  ],
+  "response": "# Bolsonaro pode se candidatar à presidência em 2026?\n\n**Resposta curta: Não.** Jair Bolsonaro está impedido de disputar as eleições presidenciais de 2026 por múltiplas razões jurídicas.\n\n## Inelegibilidade declarada pelo TSE\n\nEm junho de 2023, o TSE tornou Bolsonaro inelegível por oito anos, por entender que ele cometeu abuso de poder e uso indevido dos meios de comunicação, ao reunir embaixadores, em julho de 2022, para atacar, sem provas, o sistema eleitoral. Meses depois, o ex-presidente foi condenado novamente à inelegibilidade pelo TSE, desta vez por abuso de poder político e econômico durante as cerimônias do Bicentenário da Independência, em 7 de setembro de 2022, durante a campanha eleitoral.\n\nMinistros do Tribunal Superior Eleitoral (TSE) descartam a possibilidade de Jair Bolsonaro se tornar elegível para disputar as eleições presidenciais de 2026. Mesmo que uma eventual anistia, defendida por Flávio Bolsonaro e pelo entorno do ex-presidente, pudesse livrar Bolsonaro da condenação de 27 anos, as inelegibilidades declaradas pelo TSE permaneceriam. Segundo fontes do tribunal eleitoral consultadas pelo jornalista, não há nenhuma chance de reversão dessas decisões.\n\n## Condenação criminal pelo STF\n\nA situação ficou ainda mais grave em 2025: a Primeira Turma do Supremo Tribunal Federal (STF) condenou, em 11 de setembro de 2025, o ex-presidente Jair Bolsonaro por participação em uma tentativa de golpe de Estado, entre outros crimes, impondo pena de 27 anos e 3 meses de prisão em regime inicial fechado.\n\nPor quatro votos a zero, os ministros negaram os recursos, que são os chamados embargos de declaração. Foram negados também os recursos de outros seis réus.\n\nComo consequência da condenação criminal: outro efeito da condenação é a suspensão dos direitos políticos de todos os sentenciados desde o julgamento até oito anos depois do cumprimento da pena. Nesse período, não poderão votar nem ser candidatos.\n\n## Situação atual\n\nAtualmente, ele cumpre prisão domiciliar, com uso de tornozeleira eletrônica, e está inelegível.",
+  "response_no_search": "Não. Jair Bolsonaro está **inelegível até 2030**.\n\n## Entenda o caso:\n\n**Primeira condenação (junho de 2023):**\nO Tribunal Superior Eleitoral (TSE) declarou Bolsonaro inelegível por 8 anos por **abuso de poder político e uso indevido dos meios de comunicação**. O caso se refere à reunião com embaixadores estrangeiros em julho de 2022, no Palácio da Alvorada, em que ele atacou o sistema eletrônico de votação sem apresentar provas.\n\n**Segunda condenação (outubro de 2023):**\nO TSE o tornou inelegív",
+  "error": null
+}

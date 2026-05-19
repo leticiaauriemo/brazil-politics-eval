@@ -1,0 +1,35 @@
+{
+  "question_id": "F-17-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Banco Central decreta liquidação de instituição do grupo Master que controlava Will Bank",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/03/17/banco-central-decreta-liquidacao-de-instituicao-do-grupo-master-que-controlava-empresa-de-credito.ghtml"
+    },
+    {
+      "title": "Banco Central extingue última unidade do Master",
+      "url": "https://revistaoeste.com/economia/bc-extingue-ultima-unidade-do-master-e-trava-patrimonio-de-donos/"
+    },
+    {
+      "title": "Banco Central decreta liquidação final do Banco Master Múltiplo após fim do regime especial | Overcentral",
+      "url": "https://overcentral.com/banco-central-decreta-liquidacao-final-do-banco-master-multiplo-apos-fim-do-regime-especial/"
+    },
+    {
+      "title": "Banco Master entra em liquidação: saiba o que muda para correntistas e investidores",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2025/11/18/banco-master-entra-em-liquidacao-saiba-o-que-muda-para-correntistas-e-investidores.ghtml"
+    },
+    {
+      "title": "Banco Central determina liquidação do Will Bank, braço digital do grupo Master",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/01/21/banco-central-determina-liquidacao-do-will-bank-braco-digital-do-grupo-master.ghtml"
+    }
+  ],
+  "response": "Não, o Banco Master não está mais em funcionamento em 2026. O Banco Central (BC) decretou a liquidação extrajudicial do Banco Master Múltiplo S.A. em 17 de março de 2026, encerrando definitivamente a última instituição do conglomerado financeiro que ainda operava sob um regime de exceção [overcentral.com](https://overcentral.com/banco-central-decreta-liquidacao-final-do-banco-master-multiplo-apos-fim-do-regime-especial), [oglobo.globo.com](https://oglobo.globo.com/economia/noticia/2026/03/17/banco-central-decreta-liquidacao-de-instituicao-do-grupo-master-que-controlava-empresa-de-credito.ghtml).\n\nA liquidação do Banco Master Múltiplo foi o capítulo final de um processo que começou em novembro de 2025, quando o Banco Master original e outras instituições do grupo, como o Letsbank e a corretora de câmbio, títulos e valores mobiliários, foram liquidados [oglobo.globo.com](https://oglobo.globo.com/economia/financas/noticia/2025/11/18/banco-master-entra-em-liquidacao-saiba-o-que-muda-para-correntistas-e-investidores.ghtml). O Banco Master Múltiplo havia sido colocado em Regime de Administração Especial Temporária (RAET) na época, na tentativa de viabilizar a venda do Will Bank, que fazia parte do mesmo grupo [oglobo.globo.com](https://oglobo.globo.com/economia/financas/noticia/2025/11/18/banco-master-entra-em-liquidacao-saiba-o-que-muda-para-correntistas-e-investidores.ghtml), [overcentral.com](https://overcentral.com/banco-central-decreta-liquida%C3%A7%C3%A3o-final-do-banco-master-multiplo-apos-fim-do-regime-especial).\n\nNo entanto, a venda do Will Bank não se concretizou, e a Will Financeira (controlada pelo Banco Master Múltiplo) foi liquidada em 21 de janeiro de 2026, após problemas com a Mastercard [oglobo.globo.com](https://oglobo.globo.com/economia/noticia/2026/01/21/banco-central-determina-liquidacao-do-will-bank-braco-digital-do-grupo-master.ghtml). Com a liquidação da Will Financeira, o Banco Central concluiu que não havia mais motivos para manter o regime especial do Banco Master Múltiplo, levando à sua liquidação definitiva em março de 2026 [oglobo.globo.com](https://oglobo.globo.com/economia/noticia/2026/03/17/banco-central-decreta-liquida%C3%A7%C3%A3o-de-instituicao-do-grupo-master-que-controlava-empresa-de-credito.ghtml), [revistaoeste.com](https://revistaoeste.com/economia/bc-extingue-ultima-unidade-do-master-e-trava-patrimonio-de-donos/).",
+  "response_no_search": "Para saber se o Banco Master estará em funcionamento em 2026, é preciso considerar que o cenário financeiro pode mudar rapidamente.\n\nNo entanto, **até o momento (2024), o Banco Master está em pleno funcionamento e tem demonstrado um crescimento significativo e planos de expansão.**\n\n**Fatores que indicam a continuidade do Banco Master:**\n\n*   **Crescimento e Aquisições:** O Banco Master tem se destacado por aquisições estratégicas e um crescimento robusto, especialmente no segmento de crédito co",
+  "error": null
+}

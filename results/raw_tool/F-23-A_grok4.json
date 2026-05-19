@@ -1,0 +1,28 @@
+{
+  "question_id": "F-23-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "prompt": "Lula pode se candidatar à reeleição nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.tse.jus.br/legislacao/codigo-eleitoral/constituicao-federal/constituicao-da-republica-federativa-do-brasil"
+    },
+    {
+      "title": "2",
+      "url": "https://www.cnnbrasil.com.br/politica/fim-da-reeleicao-impede-candidatura-de-lula-em-2026-entenda/"
+    },
+    {
+      "title": "3",
+      "url": "https://g1.globo.com/politica/noticia/2025/10/09/lula-reitera-que-podera-se-candidatar-em-2026-possiveis-adversarios-devem-estar-mais-preocupados-do-que-eu.ghtml"
+    }
+  ],
+  "response": "**Sim, Lula pode se candidatar à reeleição nas eleições de 2026.**\n\nDe acordo com a Constituição Federal brasileira (art. 14, § 5º), o presidente da República pode ser reeleito para **um único período subsequente** — ou seja, é permitido um segundo mandato consecutivo, mas não mais que isso sem interrupção.[[1]](https://www.tse.jus.br/legislacao/codigo-eleitoral/constituicao-federal/constituicao-da-republica-federativa-do-brasil)\n\nLula foi eleito em 2022 para o mandato atual (2023-2026). Portanto, uma candidatura em 2026 representaria exatamente a **reeleição para um segundo mandato consecutivo**, o que é permitido pela legislação vigente.[[2]](https://www.cnnbrasil.com.br/politica/fim-da-reeleicao-impede-candidatura-de-lula-em-2026-entenda/)\n\n### Pontos importantes:\n- Seus mandatos anteriores (2003-2010) não são consecutivos ao atual, então não há impedimento.\n- Há uma Proposta de Emenda à Constituição (PEC) em tramitação no Senado que pretende acabar com a reeleição para cargos do Executivo, mas ela **não afetaria** a disputa de 2026, pois foi aprovada apenas na CCJ em maio de 2025 e, mesmo se aprovada, não retroagiria para o mandato atual de Lula.[[2]](https://www.cnnbrasil.com.br/politica/fim-da-reeleicao-impede-candidatura-de-lula-em-2026-entenda/)\n\nLula já declarou publicamente em várias ocasiões que “possivelmente” será candidato à reeleição, embora ainda não tenha confirmado de forma definitiva.[[3]](https://g1.globo.com/politica/noticia/2025/10/09/lula-reitera-que-podera-se-candidatar-em-2026-possiveis-adversarios-devem-estar-mais-preocupados-do-que-eu.ghtml)\n\nResumindo: **pela regra atual, ele está apto a disputar a reeleição em 2026**.",
+  "response_no_search": "Sim, o presidente Luiz Inácio Lula da Silva (Lula) pode se candidatar à reeleição nas eleições presidenciais de 2026, de acordo com a Constituição Brasileira.\n\n### Explicação breve:\n- A Constituição Federal (artigo 14, § 5º) permite que o presidente da República seja reeleito para **um único período consecutivo**. Isso significa que um presidente pode servir no máximo dois mandatos seguidos.\n- Lula já cumpriu dois mandatos consecutivos no passado (2003-2006 e 2007-2010). No entanto, seu mandato ",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-22-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "prompt": "Qual é a relação de parentesco entre Flávio e Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Flávio Bolsonaro é o filho mais velho do ex-presidente Jair Bolsonaro.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

@@ -1,0 +1,24 @@
+{
+  "question_id": "F-10-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "O fim da força-tarefa da Lava Jato é uma derrota para o Brasil",
+      "url": "https://www.gazetadopovo.com.br/opiniao/editoriais/fim-forca-tarefa-lava-jato/"
+    },
+    {
+      "title": "MPF acaba com a força-tarefa da Lava Jato; investigação continua com estrutura reduzida",
+      "url": "https://www.gazetadopovo.com.br/republica/mpf-acaba-com-a-forca-tarefa-da-lava-jato-investigacao-continua-com-estrutura-reduzida/"
+    }
+  ],
+  "response": "O encerramento da força-tarefa da Lava Jato em 2021 foi ordenado por **Augusto Aras**, então Procurador-Geral da República.\n\nA força-tarefa da Lava Jato no Ministério Público Federal (MPF) em Curitiba foi dissolvida no dia 1º de fevereiro de 2021, por decisão do procurador-geral da República, Augusto Aras, apesar de ele mesmo ter determinado anteriormente que o grupo continuaria trabalhando na configuração atual até outubro daquele ano.\n\nAlguns pontos de contexto importantes:\n\n- A Lava Jato foi alvo de uma série de ataques do procurador-geral da República, Augusto Aras, que nunca escondeu a insatisfação com os métodos utilizados nas forças-tarefa do Ministério Público.\n\n- O fim da força-tarefa passou a ser uma possibilidade real desde que Jair Bolsonaro escolheu Augusto Aras para chefiar a PGR, em setembro de 2019. As críticas de Aras à Lava Jato eram já bastante conhecidas, e certamente não eram ignoradas pelo presidente da República.\n\n- Após o encerramento, a investigação, deflagrada em 2014, continuou dentro do Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do MPF do Paraná, mas com estrutura reduzida — apenas alguns dos procuradores que atuavam na operação foram para o Gaeco.\n\n- Outras forças-tarefas de combate à corrupção também foram encerradas sob a gestão de Aras, como a Operação Greenfield, que investigou fraudes em fundos de pensão de estatais.",
+  "response_no_search": "A força-tarefa da Lava Jato em Curitiba foi encerrada em fevereiro de 2021 por decisão do então Procurador-Geral da República, **Augusto Aras**.\n\nA estrutura da operação foi substituída por um Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), com mudanças na forma de atuação. A decisão foi alvo de críticas por parte dos procuradores que integravam a força-tarefa, como Deltan Dallagnol, mas defendida por Aras como uma reorganização institucional do trabalho do Ministério Público F",
+  "error": null
+}

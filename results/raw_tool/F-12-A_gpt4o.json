@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "8 de janeiro de 2023 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 ...",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Relembre imagens que marcaram o 8 de janeiro de 2023 - CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/relembre-imagens-que-marcaram-o-8-de-janeiro-de-2023/"
+    },
+    {
+      "title": "8 de Janeiro: relembre atentado golpista que marcou a história política do Brasil | Política",
+      "url": "https://www.meionews.com/politica/8-de-janeiro-relembre-atentado-golpista-que-marcou-a-historia-politica-do-brasil-551724/slide/137871"
+    },
+    {
+      "title": "atos de 8 de janeiro de 2023 | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/tags/atos-de-8-de-janeiro-de-2023"
+    }
+  ],
+  "response": "No dia 8 de janeiro de 2023, ocorreu um ataque significativo à democracia brasileira, quando apoiadores do ex-presidente Jair Bolsonaro invadiram as sedes dos Três Poderes em Brasília: o Congresso Nacional, o Supremo Tribunal Federal (STF) e o Palácio do Planalto. Este evento aconteceu uma semana após a posse do novo presidente eleito, Luiz Inácio Lula da Silva.\n\nDurante a invasão, obras de arte, vidros, computadores, móveis, documentos e outros objetos foram depredados ou roubados. As forças de segurança, incluindo a Polícia Federal e Militar, conseguiram desocupar os prédios algumas horas após o início dos ataques. Os danos materiais foram estimados em mais de R$ 20 milhões.\n\nO evento foi amplamente condenado e resultou na instauração de uma Comissão Parlamentar de Inquérito (CPI) para investigar os responsáveis pelos atos. Além disso, o governo propôs medidas legislativas para prevenir futuros ataques à democracia, incluindo a criação de uma Guarda Nacional e o aumento de penas para crimes contra o Estado Democrático de Direito.\n\nO ataque foi visto como uma tentativa de golpe de Estado por parte dos manifestantes, que estavam insatisfeitos com o resultado das eleições presidenciais de 2022. O evento teve um impacto significativo na política brasileira, com várias condenações e acordos de não persecução penal sendo realizados para responsabilizar os envolvidos.",
+  "response_no_search": "No dia 8 de janeiro de 2023, ocorreram eventos significativos em Brasília, a capital do Brasil. Manifestantes que apoiavam o ex-presidente Jair Bolsonaro invadiram e vandalizaram prédios importantes do governo, incluindo o Congresso Nacional, o Palácio do Planalto (sede do Poder Executivo) e o Supremo Tribunal Federal. Esses atos foram amplamente condenados tanto no Brasil quanto internacionalmente, sendo comparados à invasão do Capitólio nos Estados Unidos em 6 de janeiro de 2021. As autoridade",
+  "error": null
+}

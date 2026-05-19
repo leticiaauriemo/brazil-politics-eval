@@ -1,0 +1,19 @@
+{
+  "question_id": "F-07-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the block as a judicial order by Minister Alexandre de Moraes, and explains Musk's refusal to comply with orders and close the office as the trigger for the block."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

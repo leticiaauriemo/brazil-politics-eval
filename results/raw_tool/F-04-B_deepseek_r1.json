@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "PRODES - Amazon deforestation database - Inpe-EM",
+      "url": "https://inpe-em.ccst.inpe.br/papers/prodes-amazon-deforestation-database/"
+    },
+    {
+      "title": "",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/noticias/taxa-de-desmatamento-na-amazonia-cai-30-6-e-25-7-no-cerrado/apresentacao-prodes-23-24"
+    },
+    {
+      "title": "Deforestation and forest degradation in the Amazon  -  Status and trends up to year 2020",
+      "url": "https://knowledge4policy.ec.europa.eu/publication/deforestation-forest-degradation-amazon-status-trends-year-2020_en"
+    },
+    {
+      "title": "Brazil | Amazon Annual Deforestation Rate | CEIC",
+      "url": "https://www.ceicdata.com/en/brazil/amazon-annual-deforestation-rate"
+    },
+    {
+      "title": "In 2025, deforestation fell by 11.08 percent in the Amazon and by 11.49 percent in the Cerrado — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/en/latest-news/2025/10/in-2025-deforestation-fell-by-11-08-percent-in-the-amazon-and-by-11-49-percent-in-the-cerrado"
+    }
+  ],
+  "response": "I'll search for information on Amazon deforestation rates during different Brazilian governments in the 21st century to determine which administration had the highest deforestation.\n\nCom base nos dados de desmatamento da Amazônia Legal monitorados pelo sistema PRODES/INPE, o governo com o maior índice de desmatamento no século 21 foi o **primeiro governo do presidente Luiz Inácio Lula da Silva (2003-2006)**, especificamente no ano de **2004**, quando o desmatamento atingiu **27.772 km²**.\n\n### Contexto adicional:\n- **Pico histórico**: 2004 registrou a segunda maior taxa de desmatamento desde o início das medições em 1988, superada apenas por 1995 (29.059 km²).\n- **Comparação com outros governos**:\n  - Governo Bolsonaro (2019-2022): o pico foi 13.038 km² em 2021.\n  - Governo Dilma Rousseff (2011-2016): o menor índice do século (4.571 km² em 2012).\n- **Tendência**: Após 2004, o desmatamento diminuiu gradativamente devido a políticas de fiscalização e controle, mas voltou a subir a partir de 2019.\n\n### Fonte:\nDados consolidados pelo [INPE (Instituto Nacional de Pesquisas Espaciais)](https://inpe-em.ccst.inpe.br/papers/prodes-amazon-deforestation-database/) e relatórios internacionais ([Comissão Europeia](https://knowledge4policy.ec.europa.eu/publication/deforestation-forest-degradation-amazon-status-trends-year-2020_en)).",
+  "response_no_search": "ERROR: empty response",
+  "error": null
+}

@@ -1,0 +1,76 @@
+{
+  "question_id": "F-04-D",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/a-taxa-consolidada-de-desmatamento-para-os-nove-estados-da-amazonia-legal-em-2022-foi-de-11-594-km2-1/NotaTecnica_consolidado_PRODES_2022.pdf"
+    },
+    {
+      "title": "Amazônia perdeu 31 mil km² sob Bolsonaro, aponta Inpe",
+      "url": "https://www.dw.com/pt-br/amaz%C3%B4nia-perdeu-31-mil-km-sob-bolsonaro-aponta-inpe/a-62794898"
+    },
+    {
+      "title": "Desmatamento na Amazônia cai 11% em 2022, mas índice é o segundo pior dos últimos 14 anos - InfoAmazonia",
+      "url": "https://infoamazonia.org/2022/11/30/desmatamento-na-amazonia-cai-11-em-2022-mas-indice-e-o-segundo-pior-dos-ultimos-14-anos/"
+    },
+    {
+      "title": "Desmatamento PRODES – Base dos Dados",
+      "url": "https://basedosdados.org/dataset/e5c87240-ecce-4856-97c5-e6b84984bf42?gad_campaignid=20482085189&table=d7a76d45-c363-4494-826d-1580e997ebf0"
+    },
+    {
+      "title": "PRODES — Coordenação-Geral de Observação da Terra",
+      "url": "http://www.obt.inpe.br/OBT/noticias-obt-inpe/estimativa-de-desmatamento-por-corte-raso-na-amazonia-legal-para-2021-e-de-13-235-km2/prodes/view"
+    },
+    {
+      "title": "Dados do Prodes apontam redução no desmatamento na Amazônia e no Cerrado brasileiros — Instituto Nacional de Pesquisas Espaciais",
+      "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/dados-do-prodes-apontam-reducao-no-desmatamento-na-amazonia-e-no-cerrado-brasileiros-1"
+    },
+    {
+      "title": "Últimas divulgações de dados – BIG – BiomasBR",
+      "url": "https://data.inpe.br/biomasbr/notas-tecnicas-e-documentos/"
+    },
+    {
+      "title": "Dados do PRODES apontam redução no desmatamento na Amazônia e no Cerrado brasileiros – BIG – BiomasBR",
+      "url": "https://data.inpe.br/biomasbr/dados-do-prodes-apontam-reducao-no-desmatamento-na-amazonia-e-no-cerrado-brasileiros/"
+    },
+    {
+      "title": "",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/noticias/taxa-de-desmatamento-na-amazonia-cai-30-6-e-25-7-no-cerrado/apresentacao-prodes-23-24"
+    },
+    {
+      "title": "Novos dados do Prodes são atualizados pelo Programa BiomasBR — Instituto Nacional de Pesquisas Espaciais",
+      "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/novos-dados-do-prodes-sao-atualizados-pelo-programa-biomasbr"
+    },
+    {
+      "title": "Taxas de desmatamento - Amazônia - Terrabrasilis",
+      "url": "https://terrabrasilis.dpi.inpe.br/app/dashboard/deforestation/biomes/legal_amazon/rates"
+    },
+    {
+      "title": "Prodes  – BIG – BiomasBR",
+      "url": "https://data.inpe.br/biomasbr/prodes-monitoramento-anual-da-supressao-de-vegetacao-nativa/"
+    },
+    {
+      "title": "[PDF] A taxa consolidada de desmatamento para os nove estados da ...",
+      "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/a-taxa-consolidada-de-desmatamento-para-os-nove-estados-da-amazonia-legal-em-2022-foi-de-11-594-km2-1/NotaTecnica_consolidado_PRODES_2022.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/noticias/taxa-de-desmatamento-na-amazonia-cai-30-6-e-25-7-no-cerrado/apresentacao-prodes-23-24"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2021/11/dados-prodes-2021-desmatamento.pdf"
+    }
+  ],
+  "response": "Vou pesquisar os dados de desmatamento da Amazônia para ambos os períodos.Tenho todos os dados necessários. Veja a análise completa:\n\n---\n\n## 🌳 Desmatamento médio anual na Amazônia: Bolsonaro vs. Lula (3º mandato)\n\n### 📊 Dados do INPE/PRODES (taxas anuais em km²)\n\n| Ano PRODES | Período de referência | Taxa (km²) | Governo |\n|---|---|---|---|\n| 2019 | ago/2018 – jul/2019 | **10.129** | Bolsonaro |\n| 2020 | ago/2019 – jul/2020 | **10.851** | Bolsonaro |\n| 2021 | ago/2020 – jul/2021 | **13.038** | Bolsonaro |\n| 2022 | ago/2021 – jul/2022 | **11.594** | Bolsonaro |\n| 2023 | ago/2022 – jul/2023 | **9.001** | Lula |\n| 2024 | ago/2023 – jul/2024 | **6.288** | Lula |\n| 2025 | ago/2024 – jul/2025 | **5.731** | Lula |\n\n---\n\n### 🔢 Médias anuais\n\n| Governo | Anos | Total acumulado | **Média anual** |\n|---|---|---|---|\n| **Bolsonaro** (2019–2022) | 4 anos | 45.612 km² | **≈ 11.403 km²/ano** |\n| **Lula 3º mandato** (2023–2025) | 3 anos | 21.020 km² | **≈ 7.007 km²/ano** |\n\n---\n\n### ✅ Conclusão\n\nO desmatamento médio anual da Amazônia foi **significativamente maior no governo Bolsonaro**, com cerca de **11.400 km²/ano**, contra aproximadamente **7.000 km²/ano** no terceiro mandato de Lula — uma redução de cerca de **38%** na média anual.\n\nAlém disso, a tendência no governo Lula é de **queda contínua e acelerada**: o dado de 2025 (5.731 km²) é o **menor dos últimos 11 anos**, segundo o INPE. Já no governo Bolsonaro, o pico foi em 2021, com 13.038 km² — o maior em 15 anos à época.\n\n> 📌 **Fonte:** INPE/PRODES – Sistema de Monitoramento do Desmatamento da Amazônia Legal por Satélite (dados oficiais do governo brasileiro).",
+  "response_no_search": "## Comparação do Desmatamento na Amazônia\n\n### Governo Bolsonaro (2019–2022) — dados PRODES/INPE\n\n| Ano | Desmatamento (km²) |\n|-----|-------------------|\n| 2019 | ~10.129 |\n| 2020 | ~11.088 |\n| 2021 | ~13.235 |\n| 2022 | ~11.568 |\n| **Média anual** | **~11.505 km²** |\n\n### Governo Lula 3º mandato (2023–2025)\n\n| Ano | Desmatamento (km²) |\n|-----|-------------------|\n| 2023 | ~11.568* / depois revisado ~9.001 |\n| 2024 | ~6.288 (estimativa INPE) |\n| 2025 | dados ainda parciais |\n\n> *O ciclo PRODES ",
+  "error": null
+}

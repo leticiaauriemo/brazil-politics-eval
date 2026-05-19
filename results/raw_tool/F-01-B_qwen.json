@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Leia a nota de Fachin sobre a anulação das condenações do ex-presidente Lula e veja a íntegra da sentença | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/03/08/leia-a-integra-da-nota-de-fachin-sobre-a-anulacao-das-condenacoes-do-ex-presidente-lula.ghtml"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/"
+    },
+    {
+      "title": "STF confirma anulação das condenações de Lula | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2021/04/15/stf-confirma-anulacao-das-condenacoes-de-lula.ghtml"
+    },
+    {
+      "title": "Entenda a decisão de Fachin que anulou as condenações de Lula e ...",
+      "url": "https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml"
+    },
+    {
+      "title": "Lula livre: STF anula as condenações do ex-presidente  |  Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-livre-stf-anula-as-condenacoes-do-ex-presidente/"
+    }
+  ],
+  "response": "As condenações de Lula foram anuladas pelo STF **não por considerar sua inocência**, mas por **questões de competência jurisdicional**. O ministro Edson Fachin e a maioria do STF concluíram que a 13ª Vara Federal de Curitiba (responsável pela Lava Jato) **não era o juízo competente** para julgar os casos do ex-presidente. \n\n### Principais pontos:\n1. **Jurisdição inadequada**: Fachin argumentou que os crimes atribuídos a Lula (como o triplex do Guarujá e o sítio de Atibaia) não estavam diretamente ligados aos desvios da Petrobras, foco da Lava Jato. Assim, a competência para julgar esses casos deveria ser da Justiça Federal do Distrito Federal, não de Curitiba.\n\n2. **Princípio do \"juiz natural\"**: O STF reforçou que as regras de competência garantem imparcialidade e isonomia, evitando que casos semelhantes sejam julgados por tribunais diferentes. Outros políticos com acusações semelhantes tiveram seus processos remetidos a Brasília.\n\n3. **Não julgamento do mérito**: A decisão **não absolveu Lula** nem invalidou as acusações, mas apenas anulou o processo por \"vício de competência\". As ações penais foram remetidas para a Justiça Federal do DF, onde poderão ser reanalisadas.\n\n4. **Suspeição de Moro**: Embora separada da decisão de Fachin, a suspeição do ex-juiz Sérgio Moro foi posteriormente confirmada pela 2ª Turma do STF, reforçando a irregularidade nos processos originais.\n\nEm resumo, a anulação ocorreu por **falhas processuais e jurisdicionais**, não por inocência, e abriu espaço para que os casos fossem reavaliados em outra instância.",
+  "response_no_search": "As condenações do ex-presidente Luiz Inácio Lula da Silva foram anuladas pelo Supremo Tribunal Federal (STF) em 2021, **mas não porque o STF concluiu que ele era inocente**. A decisão foi baseada em **questões processuais e de competência jurisdicional**, não em uma revisão do mérito das acusações. \n\n### Principais motivos da anulação:\n1. **Competência do tribunal**:  \n   O STF decidiu que o juiz Sérgio Moro, responsável pelos processos da Lava Jato no Paraná, **não tinha jurisdição** para julga",
+  "error": null
+}

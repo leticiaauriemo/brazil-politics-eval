@@ -1,0 +1,56 @@
+{
+  "question_id": "F-04-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Desmatamento na Amazônia cresce 9,5% e bate novo recorde",
+      "url": "https://www.dw.com/pt-br/desmatamento-anual-na-amaz%C3%B4nia-cresce-95-e-bate-novo-recorde/a-55779949"
+    },
+    {
+      "title": "Em que ano houve o maior desmatamento?",
+      "url": "https://www.portalinsights.com.br/perguntas-frequentes/em-que-ano-houve-o-maior-desmatamento"
+    },
+    {
+      "title": "Desmatamento da Amazônia tem 3ª maior alta percentual da história - Instituto Humanitas Unisinos - IHU",
+      "url": "https://ihu.unisinos.br/594457"
+    },
+    {
+      "title": "Área sob alerta de desmatamento na Amazônia em 2022 é a maior já registrada, aponta Inpe | G1",
+      "url": "https://g1.globo.com/meio-ambiente/noticia/2023/01/06/alertas-de-desmate-na-amazonia-tem-terceiro-pior-dezembro-na-serie-historica-aponta-inpe.ghtml"
+    },
+    {
+      "title": "[PDF] O desmatamentro da Amazônia brasileira entre 1980 a 2021",
+      "url": "https://www.repositorio.ufal.br/bitstream/123456789/11297/1/O%20desmatamentro%20da%20Amaz%C3%B4nia%20brasileira%20entre%201980%20a%202021%20-%20%20uma%20releitura.pdf"
+    },
+    {
+      "title": "Comparação de desmatamento na Amazônia sob FHC, Lula, Dilma e Bolsonaro é falsa | Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/comparacao-de-desmatamento-na-amazonia-sob-fhc-lula-dilma-e-bolsonaro-e-falsa/"
+    },
+    {
+      "title": "Houve menos desmatamento com Bolsonaro? – Observador",
+      "url": "https://observador.pt/factchecks/fact-check-desmatamento-anual-da-amazonia-foi-48-menor-com-bolsonaro-do-que-com-lula/"
+    },
+    {
+      "title": "Lula X Bolsonaro: quem desmatou mais? - ClimaInfo",
+      "url": "https://climainfo.org.br/2022/10/18/lula-x-bolsonaro-quem-desmatou-mais/"
+    },
+    {
+      "title": "É incorreta comparação de dados de desmatamento de governos FHC, Lula, Dilma e Bolsonaro • Lupa",
+      "url": "https://lupa.uol.com.br/jornalismo/2021/09/27/verificamos-desmatamento-fhc-lula-dilma-bolsonaro"
+    },
+    {
+      "title": "Amazônia Check: Checamos as afirmações sobre Amazônia que Lula fez no 1º debate   |   Amazônia Check   |   O Liberal",
+      "url": "https://www.oliberal.com/eleicoes/amazonia-check/amazonia-check-menor-desmatamento-da-amazonia-nao-foi-no-governo-lula-1.580127"
+    }
+  ],
+  "response": "Com base nos dados disponíveis, a resposta depende de como você analisa os números:\n\n## **Números Absolutos vs. Tendências**\n\n### **Maior desmatamento total (números absolutos):**\n- **Fernando Henrique Cardoso (FHC)**: ~153 mil km²\n- **Lula**: ~125 mil km² (com média anual de 15,7 mil km²)\n- **Bolsonaro**: ~11,3 mil km² de média anual\n\n### **Mas a análise mais importante é sobre as TENDÊNCIAS:**\n\n**Durante o governo Lula (2003-2010):**\n- Recebeu um patamar de desmatamento de 21,6 mil km² (herança de FHC)\n- **Reduziu o desmatamento em 67%** ao longo de seus dois mandatos\n- Entregou o indicador em 7,5 mil km² (mínima histórica em 2010)\n\n**Durante o governo Bolsonaro (2019-2022):**\n- Recebeu 7,5 mil km² (patamar baixo)\n- **Aumentou o desmatamento em 73%** nos três primeiros anos\n- Atingiu 13 mil km² em 2021 (maior desde 2006)\n- Crescimento de 59,5% durante os 4 anos de governo\n\n## **Conclusão:**\n\nEmbora Lula tenha tido números absolutos maiores, isso se deve ao patamar inicial muito alto que recebeu. **Bolsonaro teve a maior aceleração do desmatamento** no século 21, invertendo uma tendência de queda de mais de uma década. Os dados mostram que Bolsonaro recebeu a Amazônia em seu melhor estado de preservação e a deixou em deterioração acelerada.",
+  "response_no_search": "# Desmatamento na Amazônia no século 21\n\nO governo **Jair Bolsonaro (2019-2022)** registrou os maiores índices de desmatamento da Amazônia no século 21.\n\n## Dados principais:\n\n- **2019-2022**: Aumento significativo nas taxas de desmatamento\n- **2020**: Atingiu o maior pico em 12 anos (11.088 km²)\n- **2021**: Manteve níveis elevados (10.362 km²)\n\n## Contexto:\n\nEsse período foi marcado por:\n- Redução de fiscalização ambiental\n- Enfraquecimento de órgãos como IBAMA e ICMBio\n- Políticas menos restri",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro: Entenda o que significa 'decretou o trânsito em julgado'",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/25/o-que-significa-fim-do-transito-em-julgado.ghtml"
+    },
+    {
+      "title": "STF declara processo contra Bolsonaro transitado em julgado",
+      "url": "https://istoe.com.br/stf-declara-processo-contra-bolsonaro-transitado-em-julgado"
+    },
+    {
+      "title": "STF declara conclusão do processo sobre golpe de Estado e ... - G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/25/moraes-declara-conclusao-do-processo-sobre-golpe-de-estado-e-abre-caminho-para-execucao-das-penas-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "STF encerra processo e Bolsonaro já pode cumprir pena",
+      "url": "https://www.poder360.com.br/poder-justica/stf-encerra-processo-e-bolsonaro-ja-pode-cumprir-pena/.modal-box--author"
+    },
+    {
+      "title": "STF confirma trânsito em julgado de condenação de Bolsonaro",
+      "url": "https://www.conjur.com.br/2025-nov-25/1a-turma-do-supremo-confirma-condenacao-definitiva-de-bolsonaro/"
+    }
+  ],
+  "response": "A condenação do ex-presidente Jair Bolsonaro pelo Supremo Tribunal Federal (STF) transitou em julgado, ou seja, não cabem mais recursos contra a decisão. Isso foi confirmado em 25 de novembro de 2025, após o STF rejeitar a possibilidade de novos embargos de declaração ou infringentes, já que não houve ao menos dois votos pela absolvição no julgamento (4 a 1 pela condenação). \n\nCom isso, a pena de **27 anos e 3 meses de prisão** em regime inicial fechado pode ser executada imediatamente. O ministro Alexandre de Moraes, relator do caso, já decretou o início do cumprimento da pena, e Bolsonaro está preso na Superintendência da Polícia Federal em Brasília. \n\n### Pontos-chave:\n1. **Trânsito em julgado**: Decisão definitiva sem possibilidade de recursos ordinários.\n2. **Embargos infringentes**: Considerados incabíveis pela STF, pois exigem ao menos dois votos pela absolvição, o que não ocorreu.\n3. **Prisão imediata**: Autorizada pelo STF, com definição do local e início da execução penal já em andamento.\n\nPortanto, não há recursos pendentes capazes de alterar a condenação, e o processo está concluído para todos os efeitos legais.",
+  "response_no_search": "A situação jurídica do ex-presidente Jair Bolsonaro no Supremo Tribunal Federal (STF) envolve diferentes processos, e o status de cada um varia. Até a última atualização em julho de 2024, é possível resumir o seguinte:\n\n### 1. **Condenação no caso Marielle Franco**  \n   - **Status:** **Trânsito em julgado**.  \n   - Em **junho de 2021**, Bolsonaro foi condenado a **3 anos e 11 meses de prisão em regime domiciliar** por quebra de decoro parlamentar por ofensas à então senadora Gleisi Hoffmann (PT)",
+  "error": null
+}

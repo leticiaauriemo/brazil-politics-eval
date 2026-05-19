@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly attributes the R$600 benefit to the Bolsonaro government but incorrectly links it to the 'coronavoucher' during the pandemic, rather than the Auxílio Brasil established by PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 benefit to Bolsonaro but lacks specific details about the Auxílio Brasil and the PEC 1/2022."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

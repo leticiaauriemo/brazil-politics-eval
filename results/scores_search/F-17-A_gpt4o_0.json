@@ -1,0 +1,19 @@
+{
+  "question_id": "F-17-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the liquidation date as March 2026 and mentions the liquidation of Will Financeira as a reason, which contradicts the ground truth's November 2025 liquidation and the reasons provided."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

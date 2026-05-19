@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies Brazil as having a high number of doses administered but incorrectly states its global ranking and misses the crucial attribution context regarding SUS/PNI versus Bolsonaro's government."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response confirms Brazil's high total doses administered but does not state that Brazil was 4th globally or attribute the performance to the SUS/PNI infrastructure."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

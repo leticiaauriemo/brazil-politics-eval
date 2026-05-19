@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Afinal, Brasil vacina pouco ou muito? Confira 5 dados do ranking global - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56680167"
+    },
+    {
+      "title": "Ranking da Covid: como o Brasil se compara a outros países em mortes, casos e vacinas aplicadas | G1",
+      "url": "https://g1.globo.com/mundo/noticia/2021/04/29/ranking-da-covid-como-o-brasil-se-compara-a-outros-paises-em-mortes-casos-e-vacinas-aplicadas.ghtml"
+    },
+    {
+      "title": "Compare a evolução do número de vacinados no Brasil com a de outros países",
+      "url": "https://www.poder360.com.br/coronavirus/compare-a-evolucao-do-numero-de-vacinados-no-brasil-com-a-de-outros-paises/.modal-box--author"
+    },
+    {
+      "title": "Vacina contra covid: os países que lideram o ranking de imunização no mundo - BBC News Brasil",
+      "url": "http://www.bbc.com/portuguese/internacional-55550798"
+    },
+    {
+      "title": "Vacina COVID-19: perfis dos países - OPAS/OMS",
+      "url": "https://www.paho.org/pt/node/69568/vacina-covid-19-perfis-dos-paises"
+    }
+  ],
+  "response": "O programa de vacinação contra a COVID-19 no Brasil apresenta resultados mistos quando comparado à média dos países desenvolvidos. Aqui estão alguns pontos principais:\n\n1. **Total de Doses Aplicadas**: O Brasil ocupa a quarta posição global em termos de total de doses aplicadas, com aproximadamente 456 milhões de doses até o momento. Isso é um reflexo do tamanho da população brasileira, que é a sexta maior do mundo.\n\n2. **Vacinação Proporcional**: Quando a comparação é feita em relação ao tamanho da população, o Brasil cai para a 78ª posição entre 190 países. Até junho de 2021, cerca de 23% da população brasileira havia recebido pelo menos uma dose, colocando o Brasil em 72º lugar no ranking global.\n\n3. **Média Diária de Vacinas**: O Brasil tem uma capacidade instalada para vacinar até 2,4 milhões de pessoas por dia, mas, na prática, tem conseguido vacinar mais de 1 milhão por dia em apenas algumas ocasiões. Em comparação, países como a China têm vacinado até 20 milhões por dia.\n\n4. **Comparação com Países Desenvolvidos**: Em termos de doses aplicadas por 100 habitantes, o Brasil ocupa a 57ª posição, atrás de muitos países desenvolvidos. Por exemplo, países como Israel, Reino Unido e Estados Unidos estão muito à frente nesse aspecto.\n\n5. **Desafios**: Apesar de ter uma estrutura de vacinação reconhecida, o Brasil enfrentou desafios significativos, como a escassez de vacinas, que impactou a velocidade da vacinação.\n\nEm resumo, enquanto o Brasil se destaca em números absolutos de doses aplicadas, sua performance proporcional em relação à população e a velocidade de vacinação estão abaixo da média dos países desenvolvidos. Para mais detalhes, você pode consultar a [BBC News Brasil](https://www.bbc.com/portuguese/brasil-56680167).",
+  "response_no_search": "O programa de vacinação contra a COVID-19 no Brasil foi considerado um dos mais abrangentes e rápidos do mundo, especialmente em comparação com muitos países desenvolvidos. O Brasil conseguiu vacinar uma grande parte da população em um curto período, utilizando uma combinação de vacinas disponíveis e uma infraestrutura de saúde pública já estabelecida.\n\nEm termos de porcentagem da população vacinada, o Brasil alcançou números comparáveis a muitos países desenvolvidos, embora houvesse variações r",
+  "error": null
+}

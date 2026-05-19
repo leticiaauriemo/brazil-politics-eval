@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the Bolsonaro government and the promulgation date, but omits the specific constitutional amendment number and the minimum ages, making it correct but less specific than a perfect score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the pension reform was approved during Bolsonaro's government and mentions the date of promulgation, but it lacks specific details about the minimum ages established by the reform."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

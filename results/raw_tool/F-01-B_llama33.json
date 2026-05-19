@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    },
+    {
+      "title": "Lula é inocente? O que significa ter as condenações anuladas pelo ...",
+      "url": "https://noticias.uol.com.br/eleicoes/2022/10/28/lula-e-inocente-o-que-significa-ter-as-condenacoes-anuladas-pelo-stf.htm"
+    },
+    {
+      "title": "Fachin anula condenações de Lula na Lava Jato | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato"
+    },
+    {
+      "title": "Entenda por que Lula é inocente sem ter sido inocentado",
+      "url": "https://www.portaldoholanda.com.br/politica/entenda-por-que-lula-e-inocente-sem-ter-sido-inocentado"
+    }
+  ],
+  "response": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente. A anulação ocorreu porque o ministro Edson Fachin reconheceu que as acusações da força-tarefa da Lava Jato contra Lula não estavam relacionadas diretamente com os desvios na Petrobras. Além disso, o STF também considerou que o juiz Sérgio Moro foi parcial e que os processos não deveriam ter tramitado na 13ª Vara Federal de Curitiba. Com a anulação das condenações, Lula retornou à condição de inocente.",
+  "response_no_search": "Não, as condenações de Lula não foram anuladas porque o STF concluiu que ele era inocente. Em abril de 2021, o Supremo Tribunal Federal (STF) decidiu que o ex-juiz Sergio Moro, que condenou Lula no caso do triplex do Guarujá, não era imparcial. Essa decisão anulou as condenações de Lula na Operação Lava Jato, permitindo que ele se candidatasse novamente ao cargo de presidente. No entanto, isso não significa que o STF tenha declarado Lula inocente, mas sim que houve um vício processual devido à p",
+  "error": null
+}

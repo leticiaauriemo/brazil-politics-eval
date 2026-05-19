@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Brazilian courts, specifically the STF, did not declare Dilma Rousseff's impeachment unconstitutional and provides specific details about the STF's decisions, distinguishing the judicial conclusion from political debate."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the Brazilian courts, specifically the STF, did not declare the impeachment of Dilma Rousseff as unconstitutional and provides detailed examples of the court's decisions."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

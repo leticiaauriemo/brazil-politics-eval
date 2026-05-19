@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model initially states he can run for reelection in 2026, then contradicts itself by saying he cannot, but the overall premise is incorrect as he has already served two consecutive terms."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Zema can run for re-election in 2026 but then contradicts itself by acknowledging he cannot due to serving two consecutive terms."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

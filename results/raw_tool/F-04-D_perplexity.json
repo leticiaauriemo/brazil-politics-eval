@@ -1,0 +1,15 @@
+{
+  "question_id": "F-04-D",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "### Desmatamento Médio Anual: Governo Bolsonaro (2019–2022) vs. Terceiro Mandato de Lula (2023–2025)\n\nOs resultados de busca fornecem dados detalhados e consistentes do INPE (via Prodes) para o governo Bolsonaro (2019–2022), confirmando uma **média anual de aproximadamente 11.396 km²** de desmatamento na Amazônia Legal. No entanto, **não há dados disponíveis nos resultados para 2023–2025** (terceiro mandato de Lula). Como a data atual é maio de 2026, os dados completos para 2025 podem não estar ",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

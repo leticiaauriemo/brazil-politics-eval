@@ -1,0 +1,35 @@
+{
+  "question_id": "F-07-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "X (Twitter) começa a ser bloqueado e brasileiros não estão conseguindo acessar a rede | Internet",
+      "url": "https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm"
+    },
+    {
+      "title": "Fim do X (Twitter) no Brasil? Entenda como acontece o bloqueio de redes",
+      "url": "https://www.opovo.com.br/noticias/politica/2024/08/30/fim-do-x-twitter-no-brasil-entenda-como-acontece-o-bloqueio-de-redes.html"
+    },
+    {
+      "title": "X (Twitter) sai do ar em todo o Brasil - Notícias do Centro",
+      "url": "https://noticiasdocentro.com.br/brasil/x-twitter-sai-do-ar-em-todo-o-brasil/"
+    },
+    {
+      "title": "X é bloqueado no Brasil após Musk descumprir decisão de Moraes",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/x-e-bloqueado-no-brasil-apos-musk-descumprir-decisao-de-moraes"
+    },
+    {
+      "title": "Da suspensão à retomada: relembre como foram os 40 dias sem Twitter/X no Brasil",
+      "url": "https://www.infomoney.com.br/politica/da-suspensao-a-retomada-relembre-como-foram-os-40-dias-sem-twitter-x-no-brasil/"
+    }
+  ],
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024.\n\nO bloqueio ocorreu a partir da madrugada de 31 de agosto de 2024, por ordem do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) [tecmundo.com.br](https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm), [opovo.com.br](https://www.opovo.com.br/noticias/politica/2024/08/30/fim-do-x-twitter-no-brasil-entenda-como-acontece-o-bloqueio-de-redes.html), [noticiasdocentro.com.br](https://noticiasdocentro.com.br/brasil/x-twitter-sai-do-ar-em-todo-o-brasil/). A decisão foi tomada após a plataforma não cumprir a ordem judicial de nomear um novo representante legal no Brasil, uma condição obrigatória para empresas operarem no país [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/x-e-bloqueado-no-brasil-apos-musk-descumprir-decisao-de-moraes), [infomoney.com.br](https://www.infomoney.com.br/politica/da-suspensao-a-retomada-relembre-como-foram-os-40-dias-sem-twitter-x-no-brasil/).\n\nA Agência Nacional de Telecomunicações (Anatel) foi notificada e, em 24 horas, emitiu um alerta para as operadoras de internet no Brasil para que realizassem o bloqueio do acesso à plataforma [tecmundo.com.br](https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm), [opovo.com.br](https://www.opovo.com.br/noticias/politica/2024/08/30/fim-do-x-twitter-no-brasil-entenda-como-acontece-o-bloqueio-de-redes.html). Inicialmente, a decisão também proibia o uso de VPNs para acessar a plataforma, com multa de R$ 50 mil para quem tentasse burlar o bloqueio, mas essa restrição foi posteriormente suspensa por Moraes [opovo.com.br](https://www.opovo.com.br/noticias/politica/2024/08/30/fim-do-x-twitter-no-brasil-entenda-como-acontece-o-bloqueio-de-redes.html), [noticiasdocentro.com.br](https://noticiasdocentro.com.br/brasil/x-twitter-sai-do-ar-em-todo-o-brasil/).\n\nO bloqueio durou cerca de 40 dias, sendo determinado o desbloqueio em 8 de outubro de 2024, após a reativação da representação legal do X no Brasil e o pagamento de multas que somavam R$ 28,6 milhões [infomoney.com.br](https://www.infomoney.com.br/politica/da-suspensao-a-retomada-relembre-como-foram-os-40-dias-sem-twitter-x-no-brasil/).",
+  "response_no_search": "Não, o acesso ao X (antigo Twitter) **não foi bloqueado no Brasil em 2024**.\n\nA plataforma continua funcionando normalmente no país.\n\nÉ possível que você tenha se deparado com notícias ou discussões sobre possíveis bloqueios ou restrições, especialmente em relação a decisões judiciais que exigem a remoção de conteúdo ou o bloqueio de contas específicas. No entanto, essas medidas pontuais não configuram um bloqueio geral da plataforma para todos os usuários no Brasil.\n\nSe você está tendo dificuld",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the conviction is final and that Bolsonaro is imprisoned, contradicting the ground truth about the timeline and his current status."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the conviction is final as of November 25, 2025, and correctly notes that the revision criminal filed in May 2026 does not suspend the execution of the sentence."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

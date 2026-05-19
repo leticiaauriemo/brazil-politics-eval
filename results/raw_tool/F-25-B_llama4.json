@@ -1,0 +1,15 @@
+{
+  "question_id": "F-25-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "prompt": "Romeu Zema pertence ao Partido Novo ou ao PL?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Romeu Zema pertence ao Partido Novo.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

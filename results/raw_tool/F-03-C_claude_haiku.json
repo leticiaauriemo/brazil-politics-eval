@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "prompt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro pode ser candidato em 2026? Entenda situação jurídica | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml"
+    },
+    {
+      "title": "Bolsonaro está inelegível? Saiba se o ex-presidente poderá concorrer em 2026 após ter sido denunciado pela PGR",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-se-o-ex-presidente-podera-concorrer-em-2026-apos-ter-sido-denunciado-pela-pgr.ghtml"
+    },
+    {
+      "title": "Bolsonaro está inelegível. Saiba o porquê e até quando | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml"
+    },
+    {
+      "title": "Nem anistia garante Bolsonaro nas eleições de 2026",
+      "url": "https://www.intercept.com.br/2025/02/26/nem-anistia-bolsonaro-so-disputa-2026-com-milagre-no-congresso/"
+    },
+    {
+      "title": "Bolsonaro está inelegível até quando? Saiba em que ano ele poderá participar de eleições",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/11/06/bolsonaro-esta-inelegivel-ate-quando-saiba-em-que-ano-ele-podera-participar-de-eleicoes.ghtml"
+    }
+  ],
+  "response": "Bolsonaro está impedido de concorrer nas eleições de 2026 principalmente por **condenação do Tribunal Superior Eleitoral (TSE)** em 2023. Os motivos são:\n\n## Condenação do TSE (2023)\n\nBolsonaro foi condenado por:\n- **Abuso de poder político**\n- **Uso indevido dos meios de comunicação**\n\nA condenação decorre de dois episódios de 2022:\n1. **Reunião com embaixadores** (julho de 2022) no Palácio da Alvorada, onde atacou sem provas o sistema eleitoral brasileiro, afirmando que as urnas eletrônicas eram \"inauditáveis\" e mencionando \"hackers\" no TSE\n2. **Uso das comemorações do 7 de Setembro** como palanque eleitoral\n\nO TSE entendeu que Bolsonaro fez um \"monólogo eleitoreiro\" para instigar seu eleitorado contra o sistema eleitoral com discursos repleto de mentiras. A votação foi de 5 a 2, tornando-o **inelegível até 2030**.\n\n## Outras questões jurídicas\n\nAlém disso, Bolsonaro foi **denunciado pela Procuradoria-Geral da República (PGR)** por participação em uma trama golpista para impedir a posse de Lula. Se condenado pelo STF, isso geraria mais inelegibilidade.\n\n## Tentativas de reverter\n\nBolsonaristas buscam reverter essa situação através de:\n- Aprovação de anistia aos condenados pelos atos golpistas\n- Alteração da Lei da Ficha Limpa (reduzindo de 8 para 2 anos o período de inelegibilidade)\n\nNo entanto, essas mudanças enfrentam forte resistência no Congresso e no STF.",
+  "response_no_search": "# Inelegibilidade de Bolsonaro\n\nBolsonaro está impedido de concorrer por decisão do **Tribunal Superior Eleitoral (TSE)** em 2023, que o declarou inelegível por **8 anos** (até 2030).\n\n## Principais motivos:\n\n1. **Abuso de poder político** - Uso da máquina pública durante campanha\n2. **Abuso de poder econômico** - Uso indevido de recursos\n3. **Violação de direitos políticos** - Discursos e ações consideradas atentatórias\n\nA decisão foi baseada na **Lei da Ficha Limpa** e em eventos durante seu m",
+  "error": null
+}

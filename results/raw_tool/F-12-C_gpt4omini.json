@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 de janeiro de 2023 – OBCC",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Entrevistas à CNN: as visões de Lula, Bolsonaro, Moraes e outras autoridades sobre o 8/1 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/entrevistas-a-cnn-as-visoes-de-lula-bolsonaro-moraes-e-outras-autoridades-sobre-o-8-1/"
+    },
+    {
+      "title": "Bolsonaro depõe à PF sobre atos antidemocráticos de 8 de janeiro | Exame",
+      "url": "https://exame.com/brasil/bolsonaro-depoe-a-pf-sobre-atos-antidemocraticos-de-8-de-janeiro/"
+    },
+    {
+      "title": "Bolsonaro volta a lamentar atos de 8 de janeiro e diz que seu governo teve alguns “furos” - ISTOÉ Independente",
+      "url": "https://istoe.com.br/bolsonaro-volta-a-lamentar-atos-de-8-de-janeiro-e-diz-que-seu-governo-teve-alguns-furos"
+    },
+    {
+      "title": "Dois anos do 8 de janeiro: relembre a cronologia dos ataques aos Três Poderes - ISTOÉ Independente",
+      "url": "https://istoe.com.br/dois-anos-do-8-de-janeiro-relembre-a-cronologia-dos-ataques-aos-tres-poderes"
+    }
+  ],
+  "response": "Não, Jair Bolsonaro não estava no Brasil no dia 8 de janeiro de 2023. Naquele dia, apoiadores do ex-presidente invadiram as sedes dos três Poderes em Brasília, mas Bolsonaro estava nos Estados Unidos. Ele retornou ao Brasil apenas em 30 de março de 2023, após ter viajado para os EUA antes da posse de Luiz Inácio Lula da Silva. Durante os eventos de 8 de janeiro, Bolsonaro repudiou as invasões e depredações, mas também foi alvo de investigações sobre sua possível incitação aos atos.",
+  "response_no_search": "Não, Jair Bolsonaro não estava no Brasil no dia 8 de janeiro de 2023. Naquele dia, ele estava nos Estados Unidos, onde permaneceu após deixar a presidência. Durante esse período, ocorreram manifestações e invasões em prédios públicos em Brasília por parte de apoiadores de Bolsonaro.",
+  "error": null
+}

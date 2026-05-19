@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da Comissão de Segurança Pública do Senado",
+      "url": "https://www.correiobraziliense.com.br/politica/2025/02/7065041-flavio-bolsonaro-e-eleito-presidente-da-comissao-de-seguranca-publica-do-senado.html"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da CSP - Senado Federal",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/02/19/flavio-bolsonaro-e-eleito-presidente-da-csp"
+    },
+    {
+      "title": "Divulgação da atividade parlamentar em 02/2025 por Flávio Bolsonaro - Transparência e Prestação de Contas",
+      "url": "https://www6g.senado.leg.br/transparencia/sen/5894/ceaps/5/detalhe/?mesAno=02%2F2025"
+    }
+  ],
+  "response": "Deixa eu buscar essa informação atualizada para você!Atualmente, **Flávio Bolsonaro** (Flávio Nantes Bolsonaro) ocupa o cargo de **Senador da República** pelo estado do **Rio de Janeiro**, filiado ao **PL (Partido Liberal)**. Ele exerce o mandato desde **2019**, tendo sido eleito com mais de 4 milhões de votos.\n\nAlém do mandato de senador, desde **fevereiro de 2025** ele também é **Presidente da Comissão de Segurança Pública (CSP)** do Senado Federal, onde tem como foco o endurecimento da legislação penal.",
+  "response_no_search": "Minha base de conhecimento tem um corte em julho de 2025, mas não tenho informações precisas e atualizadas sobre o cargo político atual de **Flávio Bolsonaro** neste momento.\n\nAté onde sei, Flávio Bolsonaro foi **Senador Federal** pelo estado do **Rio de Janeiro** (eleito em 2018). Para informações mais atualizadas sobre seu cargo atual, recomendo consultar fontes como o site do **Senado Federal** (senado.leg.br) ou portais de notícias recentes.",
+  "error": null
+}

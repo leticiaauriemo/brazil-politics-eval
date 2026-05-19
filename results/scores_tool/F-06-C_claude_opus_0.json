@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly explains that individual STF ministers have issued monocratic orders to suspend social media accounts, highlights the legal controversy, and details the real-world effects, including the blocking of X."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that STF ministers can issue individual orders to suspend social media accounts, highlights the legal controversy surrounding this practice, and provides specific examples of its real effects."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

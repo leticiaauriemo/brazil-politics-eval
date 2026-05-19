@@ -1,0 +1,56 @@
+{
+  "question_id": "F-01-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/"
+    },
+    {
+      "title": "Decisão de Fachin sobre condenações de Lula não “inocentou” o ex-presidente | Checamos",
+      "url": "https://checamos.afp.com/decisao-de-fachin-sobre-condenacoes-de-lula-nao-inocentou-o-ex-presidente"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df/"
+    },
+    {
+      "title": "Leia a nota de Fachin sobre a anulação das condenações do ex-presidente Lula e veja a íntegra da sentença | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/03/08/leia-a-integra-da-nota-de-fachin-sobre-a-anulacao-das-condenacoes-do-ex-presidente-lula.ghtml"
+    },
+    {
+      "title": "STF mantém anulação das condenações de Lula | Agência Brasil",
+      "url": "http://agenciabrasil.ebc.com.br/justica/noticia/2021-04/stf-mantem-anulacao-das-condenacoes-de-lula"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/"
+    },
+    {
+      "title": "TRF 1 rejeita reabertura de ação contra Lula sobre Atibaia (SP)",
+      "url": "https://hjur.com.br/trf-1-rejeita-reabertura-de-acao-contra-lula-sobre-atibaia-sp/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-suspeicao-de-sergio-moro-na-acao-do-triplex-do-guaruja/"
+    },
+    {
+      "title": "TRF-1 rejeita recurso do MPF e mantém encerrada ação do sítio de Atibaia contra Lula  |  Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/trf-1-rejeita-recurso-do-mpf-e-mantem-encerrada-acao-do-sitio-de-atibaia-contra-lula/"
+    }
+  ],
+  "response": "Ótima pergunta! A resposta é **não** — o STF **não declarou Lula inocente** dos crimes pelos quais ele foi condenado em Curitiba. O que ocorreu foi algo juridicamente diferente e mais complexo. Veja o resumo completo:\n\n---\n\n## ❌ O STF não declarou Lula inocente\n\n### O que o STF realmente fez:\n\nO STF tomou **duas decisões processuais** distintas, mas **nenhuma delas analisou o mérito** (ou seja, se Lula cometeu ou não os crimes):\n\n---\n\n### 1️⃣ Incompetência da 13ª Vara de Curitiba (março/abril de 2021)\n- O ministro **Edson Fachin** anulou todas as condenações de Lula (triplex do Guarujá, sítio de Atibaia, Instituto Lula) por entender que a **13ª Vara Federal de Curitiba não tinha competência** para julgá-lo, pois os casos não tinham relação direta com os desvios na Petrobras — foco da Operação Lava Jato.\n- O Plenário do STF **confirmou essa decisão por 8 votos a 3**.\n- Os processos foram **remetidos para a Justiça Federal do Distrito Federal** para serem julgados novamente.\n- O próprio STF esclareceu: *\"O ministro Edson Fachin não analisou o mérito das decisões. Apenas reconheceu a incompetência da 13ª Vara Federal de Curitiba.\"*\n\n---\n\n### 2️⃣ Suspeição de Sergio Moro (2021)\n- O STF também declarou, por **7 votos a 4**, a **suspeição (parcialidade) do ex-juiz Sergio Moro** no caso do triplex do Guarujá, anulando todos os atos por ele praticados.\n- Isso também **não equivale a uma declaração de inocência**, mas sim ao reconhecimento de que o processo foi conduzido de forma parcial.\n\n---\n\n### 3️⃣ O que aconteceu depois com os processos?\n- Com as ações anuladas e remetidas à Justiça Federal do DF, o Ministério Público tentou reabrir os casos.\n- No caso do **sítio de Atibaia**, a juíza responsável reconheceu a **prescrição da pretensão punitiva**, pois Lula tem mais de 70 anos (o que reduz o prazo prescricional pela metade, conforme o Código Penal). O TRF-1 manteve essa decisão.\n- Ou seja, os casos foram encerrados por **razões processuais** (prescrição, nulidades), **não por absolvição no mérito**.\n\n---\n\n### 🔑 Resumo da diferença:\n\n| O que aconteceu | O que NÃO aconteceu |\n|---|---|\n| Condenações **anuladas** por incompetência do juízo | Lula **não foi absolvido** do mérito |\n| Moro declarado **suspeito/parcial** | O STF **não analisou** se Lula era culpado ou inocente |\n| Processos **prescritos** por questão de idade | Não houve **declaração de inocência** |\n\nEm termos jurídicos, Lula passou do status de **condenado** para o de **não condenado** (presumido inocente pela Constituição), mas isso se deu por razões **processuais e formais**, e não porque o STF tenha concluído que ele não praticou os crimes.",
+  "response_no_search": "## Resposta direta: Não exatamente.\n\nO que o STF decidiu foi diferde uma declaração de inocência:\n\n### O que realmente aconteceu\n\n- **Em 2021**, o STF (por maioria) decidiu que o **juízo de Curitiba (Sergio Moro) era **incompetente**** para julgar os casos envolvendo Lula, pois os fatos não tinham relação direta com a Petrobras no âmbito da Lava Jato em Curitiba.\n\n- Com isso, as **condenações foram **anuladas**** (não por inocência, mas por vício de competência).\n\n- As provas e processos foram *",
+  "error": null
+}

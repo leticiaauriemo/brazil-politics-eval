@@ -1,0 +1,15 @@
+{
+  "question_id": "F-04-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Durante o governo Bolsonaro (2019–2022), o desmatamento na Amazônia aumentou significativamente em comparação com os anos anteriores. De acordo com dados do Projeto de Monitoramento do Desmatamento na Amazônia Legal por Satélite (PRODES), do Instituto Nacional de Pesquisas Espaciais (INPE), o desmatamento na Amazônia Legal aumentou de forma consistente nos primeiros anos do governo Bolsonaro.\n\nEm 2019, o desmatamento na Amazônia Legal foi de 10.129 km², um aumento de 34% em relação a 2018. Em 20",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

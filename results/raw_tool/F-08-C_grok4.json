@@ -1,0 +1,32 @@
+{
+  "question_id": "F-08-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "prompt": "Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.cnnbrasil.com.br/politica/tarcisio-descarta-disputar-presidencia-em-2026-e-aposta-em-reeleicao/"
+    },
+    {
+      "title": "2",
+      "url": "https://cbn.globo.com/politica/noticia/2025/09/17/tarcisio-de-freitas-afirma-que-nao-vai-concorrer-ao-palacio-do-planalto-em-2026.ghtml"
+    },
+    {
+      "title": "3",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/tarcisio-confirma-bolsonaro-candidatura-reeleicao-sp-apoio-flavio-presidencia/"
+    },
+    {
+      "title": "4",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/"
+    }
+  ],
+  "response": "**Tarcísio de Freitas decidiu não disputar a Presidência em 2026 e vai concorrer à reeleição como governador de São Paulo.** Ele confirmou isso publicamente em várias ocasiões, especialmente após a condenação de Jair Bolsonaro e o lançamento da pré-candidatura de Flávio Bolsonaro (PL) ao Planalto.[[1]](https://www.cnnbrasil.com.br/politica/tarcisio-descarta-disputar-presidencia-em-2026-e-aposta-em-reeleicao/)\n\n### Principais motivos e contexto:\n- **Foco na reeleição em São Paulo**: Tarcísio afirmou categoricamente que pretende disputar a reeleição ao governo paulista em 2026, onde é considerado favorito (quase certo de vitória no primeiro turno, segundo analistas). Ele prioriza continuar seus projetos no estado em vez de uma candidatura nacional mais arriscada.[[2]](https://cbn.globo.com/politica/noticia/2025/09/17/tarcisio-de-freitas-afirma-que-nao-vai-concorrer-ao-palacio-do-planalto-em-2026.ghtml)\n- **Apoio a Flávio Bolsonaro**: O governador confirmou a Jair Bolsonaro que fará parte do “time” e apoia a candidatura de Flávio ao Palácio do Planalto. Em eventos recentes, ele já se referiu ao senador como “próximo presidente da República”. Essa escolha reforça a lealdade ao grupo bolsonarista e evita divisão na direita.[[3]](https://www.gazetadopovo.com.br/eleicoes/2026/tarcisio-confirma-bolsonaro-candidatura-reeleicao-sp-apoio-flavio-presidencia/)\n- **Cenário político após a condenação de Bolsonaro**: Com Jair Bolsonaro inelegível, o nome de Flávio ganhou força na direita, o que “enterrou” qualquer chance real de Tarcísio disputar a Presidência. Tarcísio tem repetido que não seria candidato nem mesmo se Bolsonaro pedisse.[[4]](https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/)\n\nEm resumo, Tarcísio optou por uma estratégia de consolidação no governo de São Paulo (seu “feudo” político) e de apoio à família Bolsonaro na disputa presidencial, em vez de entrar na corrida pelo Planalto em 2026. Ele já descartou publicamente a candidatura presidencial em entrevistas e pronunciamentos desde 2025.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

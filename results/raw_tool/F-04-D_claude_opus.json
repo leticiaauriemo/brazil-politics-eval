@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-D",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro encerra governo com alta de 60% no desmate na Amazônia - OC | Observatório do Clima",
+      "url": "https://www.oc.eco.br/bolsonaro-encerra-governo-com-alta-de-60-no-desmate-na-amazonia/"
+    },
+    {
+      "title": "Governo Lula reduziu em 22% a taxa de desflorestação da Amazónia | Brasil | PÚBLICO",
+      "url": "https://www.publico.pt/2023/11/10/azul/noticia/governo-lula-reduziu-22-taxa-desflorestacao-amazonia-2069737"
+    },
+    {
+      "title": "Observatório do ClimaForte queda do desmatamento mostra que Brasil pode mais - OC | Observatório do Clima",
+      "url": "https://www.oc.eco.br/forte-queda-do-desmatamento-mostra-que-brasil-pode-mais/"
+    },
+    {
+      "title": "Em 2025, desmatamento tem redução de 11,08% na Amazônia e 11,49% no Cerrado — Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202510/em-2025-desmatamento-tem-reducao-de-11-08-na-amazonia-e-11-49-no-cerrado-1"
+    },
+    {
+      "title": "Desmatamento na Amazônia sobe 91% em maio - Observatório do Clima",
+      "url": "https://oc.eco.br/desmatamento-na-amazonia-sobe-91-em-maio/"
+    }
+  ],
+  "response": "Tenho dados suficientes para responder de forma comparativa.\n\n# Desmatamento médio anual da Amazônia: Bolsonaro vs. terceiro mandato de Lula\n\nA resposta é clara: **o desmatamento médio anual foi significativamente maior no governo Bolsonaro (2019–2022) do que no terceiro mandato de Lula (2023–2025)**.\n\n## Governo Bolsonaro (2019–2022)\n\nSegundo dados do sistema PRODES/INPE, a média anual de desmatamento sob Bolsonaro foi de 11.396 km², contra 7.145 km² no período anterior (2015-2018). O governo de Jair Bolsonaro terminou com um aumento de 59,5% da taxa de desmatamento na Amazônia em relação aos quatro anos anteriores (governos Dilma e Temer) — a maior alta percentual num mandato presidencial desde o início das medições por satélite, em 1988.\n\n## Terceiro mandato de Lula (2023–2025)\n\nAs três taxas anuais do PRODES sob Lula foram:\n\n- **2023** (ago/2022–jul/2023): redução de 22,37%, com cerca de 9.000 km² desmatados\n- **2024** (ago/2023–jul/2024): queda de 31%, com 6.288 km² em 2024, retornando aos patamares pré-impeachment\n- **2025** (ago/2024–jul/2025): 5.796 km², queda de 11,08% — a terceira menor taxa da série histórica iniciada em 1988, e o terceiro ano consecutivo de redução, acumulando 50% de declínio em relação a 2022\n\nA média anual nos três anos do atual mandato de Lula é, portanto, de aproximadamente **7.028 km²** (média de 9.000 + 6.288 + 5.796).\n\n## Comparação direta\n\n| Período | Média anual (km²) |\n|---|---|\n| Bolsonaro (2019–2022) | ~11.396 |\n| Lula 3º mandato (2023–2025) | ~7.028 |\n\nO desmatamento médio anual no governo Bolsonaro foi **cerca de 62% maior** do que o registrado nos três primeiros anos do atual mandato de Lula. A queda expressiva da taxa de desmatamento na Amazônia em 2023 e 2024 é apontada como o principal resultado da gestão de Marina Silva, com o PRODES indicando redução de 46% no período em relação a 2022, último ano do governo Bolsonaro.\n\nVale ressaltar, porém, que há sinais de risco de revers",
+  "response_no_search": "# Desmatamento na Amazônia: Bolsonaro vs. Lula 3º mandato\n\nCom base nos dados do **PRODES/INPE** (sistema oficial de monitoramento por satélite), que mede o desmatamento anual entre agosto de um ano e julho do seguinte:\n\n## Governo Bolsonaro (2019–2022)\n- 2019: ~10.129 km²\n- 2020: ~10.851 km²\n- 2021: ~13.038 km² (maior valor em 15 anos)\n- 2022: ~11.594 km²\n- **Média anual: ~11.400 km²**\n\n## Governo Lula 3º mandato (2023–2025)\n- 2023: ~9.064 km²\n- 2024: ~6.288 km² (menor valor desde 2015)\n- 2025:",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect and confident, as it states Tarcísio de Freitas is a likely candidate when the ground truth explicitly states he is not running for president."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Lula and Flávio Bolsonaro as main candidates but fails to clarify that Tarcísio de Freitas is not running."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-20-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sim, o Brasil estava entre os países com o maior número de doses de vacina contra a COVID-19 aplicadas. Em 2021, o Brasil era o segundo país que mais aplicou doses de vacina contra a COVID-19, atrás apenas da China. O número de doses aplicadas no Brasil foi muito grande devido ao tamanho da sua população e aos esforços de vacinação em massa realizados pelo governo brasileiro e pelas autoridades de saúde locais.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-20-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "Para responder a essa pergunta, preciso de dados sobre o programa de vacinação contra COVID-19 no Brasil e a média dos países desenvolvidos. Você gostaria que eu pesquisasse por esses dados?",
+  "response_no_search": "O programa de vacinação contra a COVID-19 no Brasil, em termos de **velocidade e cobertura**, ficou **abaixo da média dos países desenvolvidos**, especialmente no início da campanha.\n\nAqui estão os principais pontos que explicam essa situação:\n\n*   **Atraso no início:** O Brasil demorou mais para iniciar a vacinação em massa em comparação com muitos países desenvolvidos, que já estavam vacinando suas populações no final de 2020.\n*   **Dificuldade na aquisição de vacinas:** Houve problemas e atra",
+  "error": null
+}

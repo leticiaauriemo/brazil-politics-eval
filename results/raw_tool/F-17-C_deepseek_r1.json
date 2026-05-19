@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Master e preserva sistema financeiro nacional | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml"
+    },
+    {
+      "title": "Banco Central decreta liquidação do Banco Master; dono é preso em operação",
+      "url": "https://www.contabeis.com.br/noticias/73936/banco-central-decreta-liquidacao-do-banco-master-dono-e-preso-em-operacao/"
+    },
+    {
+      "title": "BC decreta liquidação do Banco Master e põe fim a acordo com Fictor",
+      "url": "https://mais.opovo.com.br/jornal/economia/2025/11/19/bc-decreta-liquidacao-do-banco-master-e-poe-fim-a-acordo-com-fictor.html"
+    }
+  ],
+  "response": "Sim, o Banco Central do Brasil decretou a liquidação extrajudicial do **Banco Master**. Essa decisão foi anunciada em **18 de novembro de 2025** devido a uma grave crise de liquidez e violações às normas do sistema financeiro. \n\n### Principais pontos:\n1. **Motivação**: \n   - Insolvência irrecuperável e falta de capital para honrar compromissos.\n   - Violações graves das regras do sistema financeiro.\n\n2. **Consequências**:\n   - O banco será retirado do mercado e deixará de operar.\n   - O **Fundo Garantidor de Créditos (FGC)** indenizará correntistas e investidores:\n     - Até **R$ 250 mil por CPF/CNPJ**.\n     - Valores acima desse limite serão incluídos na liquidação (sem garantia de recuperação total).\n\n3. **Operação policial**:\n   - O dono do banco, **Daniel Vorcaro**, foi preso no mesmo dia pela Polícia Federal na \"Operação Compliance Zero\", que investiga fraudes com títulos de crédito.\n\n4. **Impacto**:\n   - Cerca de **R$ 62,2 bilhões** em depósitos cobertos pelo FGC.\n   - O banco digital **Will Bank** (do mesmo grupo) **não foi afetado** e continua operando.\n\n### Fontes:\n- [Banco Central do Brasil](https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao)\n- [G1](https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml)\n- [Contábeis](https://www.contabeis.com.br/noticias/73936/banco-central-decreta-liquidacao-do-banco-master-dono-e-preso-em-operacao/)\n\nA liquidação marca o fim do Banco Master após tentativas fracassadas de venda, como o negócio vetado com o Banco de Brasília (BRB) em setembro de 2025.",
+  "response_no_search": "Com base nas informações oficiais disponíveis até o momento (julho de 2024), **não houve decretação de liquidação do Banco Master pelo Banco Central do Brasil (BCB)**. O que ocorreu foi uma **intervenção regulatória** seguida de um **processo de recuperação judicial**. Eis os detalhes:\n\n1.  **Intervenção (Abril/2023):**\n    *   Em 28 de abril de 2023, o BCB decretou **intervenção** no Banco Master e em outras instituições financeiras do mesmo grupo (como a Facta Financeira).\n    *   O BCB nomeou",
+  "error": null
+}

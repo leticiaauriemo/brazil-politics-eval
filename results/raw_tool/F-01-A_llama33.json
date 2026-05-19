@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fachin anula condenações de Lula na Lava Jato | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato"
+    },
+    {
+      "title": "Lula foi inocentado na Lava Jato? Entenda - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2022/08/22/interna_politica,1388097/lula-foi-inocentado-na-lava-jato-entenda.shtml"
+    },
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "Após STF anular processos da Lava Jato, Lula foi inocentado ou não? Entenda",
+      "url": "https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html"
+    },
+    {
+      "title": "STF confirma anulação de condenações do ex-presidente Lula na ...",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    }
+  ],
+  "response": "Lula foi inocentado das acusações de corrupção da Lava Jato. O Supremo Tribunal Federal (STF) anulou as condenações de Lula em 2021, entendendo que a 13ª Vara Federal de Curitiba não tinha competência legal para julgar as acusações. Além disso, o STF também declarou que o juiz Sergio Moro foi parcial nos processos contra Lula. Com a anulação das condenações, Lula não terá mais restrições na Justiça Eleitoral e está elegível para disputar um cargo público.",
+  "response_no_search": "Sim, em novembro de 2021, o ex-presidente Luiz Inácio Lula da Silva foi inocentado de todas as acusações relacionadas aos processos da Operação Lava Jato pelo Superior Tribunal de Justiça (STJ).",
+  "error": null
+}

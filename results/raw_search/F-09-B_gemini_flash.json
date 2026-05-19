@@ -1,0 +1,35 @@
+{
+  "question_id": "F-09-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Ministério confirma memorando com a Pfizer para aquisição de 70 milhões de doses da vacina - Estadão",
+      "url": "https://www.estadao.com.br/saude/ministerio-confirma-memorando-com-a-pfizer-para-aquisicao-de-70-milhoes-de-doses-da-vacina/"
+    },
+    {
+      "title": "Vacina contra covid no Brasil: Pfizer diz que fez oferta em agosto",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/01/08/vacina-pfizer-coronavirus-covid-19-pazuello.htm"
+    },
+    {
+      "title": "Ministério assina intenção de compra de doses da vacina da Pfizer e diz que Butantan está na 'mesma condição' | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2020/12/10/ministerio-diz-ter-assinado-intencao-de-compra-de-70-milhoes-de-doses-de-vacina-da-pfizer.ghtml"
+    },
+    {
+      "title": "Governo recusou seis propostas de vacinas da Pfizer; veja quais foram | Exame",
+      "url": "https://exame.com/brasil/governo-recusou-seis-propostas-de-vacinas-da-pfizer-veja-quais-foram/"
+    },
+    {
+      "title": "Pazuello preteriu a Pfizer por avaliar que Brasil não precisaria da vacina | Exame",
+      "url": "https://exame.com/brasil/pazuello-preteriu-a-pfizer-por-avaliar-que-brasil-nao-precisaria-da-vacina/"
+    }
+  ],
+  "response": "Não, o Ministério da Saúde não comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020.\n\nA Pfizer iniciou negociações com o governo brasileiro em junho de 2020 e fez sua primeira oferta formal em 15 de agosto de 2020, propondo a entrega de 70 milhões de doses a partir de dezembro do mesmo ano [exame.com](https://exame.com/brasil/governo-recusou-seis-propostas-de-vacinas-da-pfizer-veja-quais-foram/), [noticias.uol.com.br](https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/01/08/vacina-pfizer-coronavirus-covid-19-pazuello.htm). No entanto, o governo brasileiro recusou seis ofertas da Pfizer entre agosto de 2020 e fevereiro de 2021 [exame.com](https://exame.com/brasil/governo-recusou-seis-propostas-de-vacinas-da-pfizer-veja-quais-foram/).\n\nEm 10 de dezembro de 2020, o Ministério da Saúde assinou um \"memorando de intenções\" para a compra de 70 milhões de doses da vacina da Pfizer, com previsão de entrega de 8,5 milhões de doses no primeiro semestre de 2021 e 61,5 milhões no segundo semestre [estadao.com.br](https://www.estadao.com.br/saude/ministerio-confirma-memorando-com-a-pfizer-para-aquisicao-de-70-milhoes-de-doses-da-vacina/), [g1.globo.com](https://g1.globo.com/bemestar/vacina/noticia/2020/12/10/ministerio-diz-ter-assinado-intencao-de-compra-de-70-milhoes-de-doses-de-vacina-da-pfizer.ghtml). No entanto, este memorando não era um contrato de compra definitivo, e os valores eram sigilosos [estadao.com.br](https://www.estadao.com.br/saude/ministerio-confirma-memorando-com-a-pfizer-para-aquisicao-de-70-milhoes-de-doses-da-vacina/), [g1.globo.com](https://g1.globo.com/bemestar/vacina/noticia/2020/12/10/ministerio-diz-ter-assinado-intencao-de-compra-de-70-milhoes-de-doses-de-vacina-da-pfizer.ghtml).\n\nO primeiro contrato para a compra de 100 milhões de doses da vacina da Pfizer só foi assinado em 18 de março de 2021 [exame.com](https://exame.com/brasil/pazuello-preteriu-a-pfizer-por-avaliar-que-brasil-nao-precisaria-da-vacina/). A demora nas negociações foi atribuída, em parte, à avaliação interna do Ministério da Saúde de que o país não precisaria de mais imunizantes além dos acordos para produção nacional das vacinas Oxford-AstraZeneca e Coronavac [exame.com](https://exame.com/brasil/pazuello-preteriu-a-pfizer-por-avaliar-que-brasil-nao-precisaria-da-vacina/). As primeiras doses da vacina da Pfizer só chegaram ao Brasil em 29 de abril de 2021 [exame.com](https://exame.com/brasil/pazuello-preteriu-a-pfizer-por-avaliar-que-brasil-nao-precisaria-da-vacina/).",
+  "response_no_search": "Não, o Ministério da Saúde não comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020.\n\nHouve uma série de negociações e trocas de correspondência entre a Pfizer e o governo brasileiro ao longo de 2020, onde a empresa ofereceu doses da sua vacina. No entanto, o governo brasileiro, na época, não fechou o acordo de compra.\n\nAs razões para a não compra em 2020 foram diversas e geraram muita controvérsia, incluindo:\n\n*   **Cláusulas contratuais:** A Pfizer exigia cláusulas considerad",
+  "error": null
+}

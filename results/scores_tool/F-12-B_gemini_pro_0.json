@@ -1,0 +1,25 @@
+{
+  "question_id": "F-12-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the invasion and vandalism of all three locations, clearly stating the targets involved."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly and specifically confirms the invasion and vandalism of all three locations, including the Congresso Nacional, STF, and Palácio do Planalto, in Brasília."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

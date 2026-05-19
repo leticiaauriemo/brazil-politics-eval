@@ -1,0 +1,32 @@
+{
+  "question_id": "F-08-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "prompt": "Tarcísio de Freitas vai concorrer à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/tarcisio-confirma-bolsonaro-candidatura-reeleicao-sp-apoio-flavio-presidencia/"
+    },
+    {
+      "title": "2",
+      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/04/27/tarcisio-flavio-evento-governo-sp.ghtml"
+    },
+    {
+      "title": "3",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/"
+    },
+    {
+      "title": "4",
+      "url": "https://www.brasil247.com/brasil/tarcisio-diz-a-valdemar-que-nao-sera-candidato-a-presidencia-em-2026-xfe5rdt3"
+    }
+  ],
+  "response": "**Não, Tarcísio de Freitas não vai concorrer à Presidência da República nas eleições de 2026.**[[1]](https://www.gazetadopovo.com.br/eleicoes/2026/tarcisio-confirma-bolsonaro-candidatura-reeleicao-sp-apoio-flavio-presidencia/)\n\nEle confirmou publicamente, em janeiro de 2026, que é pré-candidato à **reeleição** como governador de São Paulo pelo Republicanos. Em visita a Jair Bolsonaro em Brasília no final de janeiro, reiterou essa decisão e declarou apoio irrestrito à candidatura do senador Flávio Bolsonaro (PL) ao Planalto.[[1]](https://www.gazetadopovo.com.br/eleicoes/2026/tarcisio-confirma-bolsonaro-candidatura-reeleicao-sp-apoio-flavio-presidencia/)\n\nDesde então, Tarcísio tem mantido essa posição de forma consistente:\n- Em eventos oficiais (como na Agrishow em abril de 2026), ele se referiu a Flávio Bolsonaro como “nosso próximo presidente”.[[2]](https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/04/27/tarcisio-flavio-evento-governo-sp.ghtml)\n- Aliados e reportagens recentes tratam sua candidatura ao governo de SP como certa, enquanto a disputa presidencial é vista como plano de Flávio.[[3]](https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/)\n\nEmbora em 2025 houvesse muita especulação sobre uma possível candidatura presidencial de Tarcísio (ele era visto como nome forte da direita e preferido do mercado), ele sempre evitou confirmar e, a partir do final de 2025/início de 2026, deixou claro que seu foco é São Paulo.[[4]](https://www.brasil247.com/brasil/tarcisio-diz-a-valdemar-que-nao-sera-candidato-a-presidencia-em-2026-xfe5rdt3)\n\nResumo atual (maio de 2026): Tarcísio está na corrida pela reeleição estadual e integra o grupo que apoia Flávio Bolsonaro para presidente. Não há qualquer sinal recente de que ele vá mudar de rota e disputar o Planalto.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

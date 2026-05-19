@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies that the peak deforestation occurred during Lula's first government in 2004, but lacks the nuance about the subsequent reduction in deforestation."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies Lula's first government as having the highest deforestation rate in the 21st century, specifically mentioning 2004, but lacks the nuance of noting the subsequent reduction under Lula."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

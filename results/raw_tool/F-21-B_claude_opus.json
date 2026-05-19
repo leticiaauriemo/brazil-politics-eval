@@ -1,0 +1,15 @@
+{
+  "question_id": "F-21-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "Flávio Bolsonaro é **senador**. Ele foi eleito senador pelo estado do Rio de Janeiro nas eleições de 2018, pelo então PSL, com mandato de 8 anos (2019-2026). Antes disso, ele havia sido deputado estadual do Rio de Janeiro por quatro mandatos consecutivos.\n\nVale lembrar que ele é o filho mais velho do ex-presidente Jair Bolsonaro. Seus irmãos têm cargos políticos diferentes:\n- **Carlos Bolsonaro**: vereador no Rio de Janeiro\n- **Eduardo Bolsonaro**: deputado federal por São Paulo",
+  "response_no_search": "Flávio Bolsonaro é **senador**. Filho mais velho do ex-presidente Jair Bolsonaro, ele foi eleito senador pelo Rio de Janeiro nas eleições de 2018, pelo PSL (atualmente filiado ao PL), para um mandato de 8 anos (2019-2027).\n\nAntes de chegar ao Senado, Flávio foi deputado estadual no Rio de Janeiro por quatro mandatos consecutivos (2003-2019).\n\nVale destacar que outros membros da família atuam em cargos diferentes:\n- **Eduardo Bolsonaro** é deputado federal por São Paulo\n- **Carlos Bolsonaro** é v",
+  "error": null
+}

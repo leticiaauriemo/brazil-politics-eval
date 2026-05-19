@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Lula's first government (specifically 2004) as having the highest deforestation peak in the 21st century, provides the correct figure, and includes the important nuance about the subsequent sharp reduction under the same government, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies the peak deforestation in 2004 under Lula's first government and notes the subsequent reduction in deforestation rates, providing specific data and context."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-02-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "Não, Jair Bolsonaro não foi condenado pelo STF por tentativa de golpe de Estado. Ele é investigado em inquéritos relacionados a esse tema, mas ainda não houve condenação.",
+  "response_no_search": "Não, **Jair Bolsonaro não foi condenado pelo STF por tentativa de golpe de Estado.**\n\nÉ importante esclarecer que:\n\n*   **Ele está sendo investigado** em diversos inquéritos relacionados aos eventos de 8 de janeiro de 2023 e outras ações que levantaram suspeitas de tentativa de golpe de Estado.\n*   **O inquérito mais proeminente** nesse sentido é o que investiga a suposta tentativa de golpe de Estado e abolição do Estado Democrático de Direito, que inclui a investigação sobre a minuta do golpe e",
+  "error": null
+}

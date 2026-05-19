@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "prompt": "O Bolsa Família foi criado no governo Lula ou no governo Fernando Henrique Cardoso?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsa Família é herança de programas sociais do governo FHC | PSDB – Partido da Social Democracia Brasileira",
+      "url": "https://www.psdb.org.br/acompanhe/bolsa-familia-e-heranca-de-programas-sociais-do-governo-fhc/"
+    },
+    {
+      "title": "De FHC e Lula a Bolsonaro: a história do Bolsa Família no Brasil | Exame",
+      "url": "https://exame.com/brasil/de-fhc-e-lula-a-bolsonaro-a-historia-do-bolsa-familia-no-brasil/"
+    },
+    {
+      "title": "Entenda a trajetória dos programas de transferência de renda desde a criação do Bolsa Família, no início dos anos 2000",
+      "url": "https://www.infomoney.com.br/politica/entenda-a-trajetoria-dos-programas-de-transferencia-de-renda-desde-a-criacao-do-bolsa-familia-no-inicio-dos-anos-2000/"
+    },
+    {
+      "title": "Entenda o que é o Bolsa Família e suas alterações ao longo dos anos - Estadão",
+      "url": "https://www.estadao.com.br/politica/entenda-o-que-e-o-bolsa-familia-e-suas-alteracoes-ao-longo-dos-anos/"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    }
+  ],
+  "response": "O **Bolsa Família foi criado no governo Lula**, em **2003**, mas com uma ressalva importante:\n\n## A resposta completa:\n\n**Criação formal:** O programa foi instituído durante o governo de Luiz Inácio Lula da Silva, sendo anunciado em outubro de 2003 e oficializado pela Lei nº 10.836 em janeiro de 2004.\n\n**Porém:** O Bolsa Família não foi criado do zero. Ele nasceu da **unificação de programas sociais** que já existiam no governo Fernando Henrique Cardoso (1995-2003):\n\n- **Bolsa Escola** (criado em 2001)\n- **Bolsa Alimentação** (criado em 2001)\n- **Auxílio-Gás** (criado em 2002)\n- **Cartão Alimentação**\n- **Cadastro Único** (criado em 2001)\n\n## Conclusão:\n\nPortanto, a resposta depende da perspectiva:\n- **Formalmente:** Foi criado por Lula em 2003\n- **Historicamente:** Incorporou programas e infraestrutura desenvolvidos por FHC\n\nO mérito de Lula foi consolidar e unificar essas iniciativas em um único programa de transferência de renda com maior abrangência e impacto social.",
+  "response_no_search": "O Bolsa Família foi criado no **governo Lula**, em **2003**.\n\nNo entanto, é importante mencionar que ele foi baseado em programas anteriores de transferência de renda que já existiam no governo Fernando Henrique Cardoso (1995-2002), como o Programa de Erradicação do Trabalho Infantil (PETI) e outros programas estaduais. Lula unificou e expandiu esses programas, criando o Bolsa Família como conhecemos.",
+  "error": null
+}

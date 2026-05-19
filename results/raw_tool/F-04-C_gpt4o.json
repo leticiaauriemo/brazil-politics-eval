@@ -1,0 +1,56 @@
+{
+  "question_id": "F-04-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Desmatamento na Amazônia nos anos Bolsonaro (2019-2022)",
+      "url": "https://infoamazonia.org/storymap/desmatamento-na-amazonia-nos-anos-bolsarno-2019-2022/"
+    },
+    {
+      "title": "Desmatamento na Amazônia: veja dados dos governos Lula e Bolsonaro",
+      "url": "https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm"
+    },
+    {
+      "title": "Desmatamento na Amazônia cai 11% em 2022, mas índice é o segundo pior dos últimos 14 anos - InfoAmazonia",
+      "url": "https://infoamazonia.org/2022/11/30/desmatamento-na-amazonia-cai-11-em-2022-mas-indice-e-o-segundo-pior-dos-ultimos-14-anos/"
+    },
+    {
+      "title": "Amazônia perdeu 31 mil km² sob Bolsonaro, aponta Inpe",
+      "url": "https://www.dw.com/pt-br/amaz%C3%B4nia-perdeu-31-mil-km-sob-bolsonaro-aponta-inpe/a-62794898"
+    },
+    {
+      "title": "Inpe: desmatamento na Amazônia tem queda de 11% em relação a 2021 | G1",
+      "url": "https://g1.globo.com/meio-ambiente/noticia/2022/11/30/inpe-desmatamento-na-amazonia-passa-de-11-mil-km-entre-agosto-de-2021-e-julho-de-2022.ghtml"
+    },
+    {
+      "title": "SERVICIO FORESTAL BRASILEÑO",
+      "url": "https://snif.florestal.gov.br/es/dados-complementares/233-perda-da-cobertura-florestal-amazonia-tabelas-e-graficos"
+    },
+    {
+      "title": "Desmatamento na Amazônia: veja dados dos governos Lula e Bolsonaro",
+      "url": "https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm"
+    },
+    {
+      "title": "Compare os dados de desmatamento e queimadas na Amazônia nos governos Lula e Bolsonaro • Lupa",
+      "url": "https://lupa.uol.com.br/jornalismo/2022/10/26/desmatamento-amazonia-lula-e-bolsonaro"
+    },
+    {
+      "title": "Lula deixa governo com menor desmatamento na Amazônia em 23 anos - Vermelho",
+      "url": "https://vermelho.org.br/2010/12/30/lula-deixa-governo-com-menor-desmatamento-na-amazonia-em-23-anos/"
+    },
+    {
+      "title": "Bolsonaro ou Lula: em qual governo a taxa de desmatamento na Amazônia foi maior? - Data saving version: BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-63290268.lite"
+    }
+  ],
+  "response": "Durante o governo de Jair Bolsonaro (2019-2022), o desmatamento médio anual na Amazônia foi significativamente maior em comparação com os mandatos de Luiz Inácio Lula da Silva (2003-2010).\n\n### Governo Bolsonaro (2019-2022):\n- O desmatamento na Amazônia aumentou em cerca de 73% durante o governo Bolsonaro, passando de 7.536 km² em 2018 para 13.038 km² em 2021.\n- Em 2022, houve uma redução de 11% em relação a 2021, mas ainda assim, o índice foi o segundo pior dos últimos 14 anos, com 11.568 km² desmatados.\n- No total, entre 2019 e 2022, a Amazônia Legal perdeu 45,5 mil km² de floresta.\n\n### Governos Lula (2003-2010):\n- Lula iniciou seu primeiro mandato com desmatamento em alta, mas a partir de 2005, essa tendência se inverteu.\n- Durante seus dois mandatos, a área desmatada caiu de 21.651 km² em 2002 para 7.000 km² em 2010, representando uma redução total de 67,6%.\n- A média anual de desmatamento foi de 24,06 mil km² no primeiro mandato e 10,67 mil km² no segundo mandato.\n\nPortanto, o desmatamento médio anual foi maior durante o governo Bolsonaro em comparação com os mandatos de Lula, que conseguiram reduzir significativamente as taxas de desmatamento ao longo dos anos.",
+  "response_no_search": "O desmatamento médio anual da Amazônia foi maior durante o governo de Jair Bolsonaro (2019–2022) em comparação com os dois mandatos de Luiz Inácio Lula da Silva (2003–2010). Durante o governo Bolsonaro, houve um aumento significativo nas taxas de desmatamento, o que gerou preocupações tanto nacionais quanto internacionais sobre a preservação da floresta amazônica. Em contraste, durante os mandatos de Lula, embora o desmatamento também tenha sido uma questão importante, houve períodos de redução ",
+  "error": null
+}

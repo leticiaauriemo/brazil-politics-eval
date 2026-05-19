@@ -1,0 +1,15 @@
+{
+  "question_id": "F-05-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "prompt": "O Bolsa Família foi criado no governo Lula ou no governo Fernando Henrique Cardoso?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "O Bolsa Família tem uma história interessante que envolve ambos os governos, mas com uma distinção importante:\n\n**O Bolsa Família, como o conhecemos hoje, foi criado no governo Lula**, em outubro de 2003, por meio da Medida Provisória nº 132, posteriormente convertida na Lei nº 10.836/2004.\n\nNo entanto, o programa foi resultado da **unificação de diversos programas sociais anteriores**, muitos dos quais foram criados durante o governo Fernando Henrique Cardoso (FHC):\n\n- **Bolsa Escola** (2001) – vinculado à frequência escolar\n- **Bolsa Alimentação** (2001) – ligado à saúde\n- **Auxílio-Gás** (2002) – compensação pelo fim do subsídio ao gás de cozinha\n- **Cartão Alimentação** (2003, já no governo Lula, ligado ao Fome Zero)\n\nEsses programas funcionavam de forma fragmentada, com cadastros e gestões separadas. O governo Lula os **unificou em um único programa** com gestão centralizada, ampliou significativamente o público atendido e os valores dos benefícios, criando o Bolsa Família.\n\n**Resumindo:**\n- 🟢 **A criação formal do Bolsa Família** = governo Lula (2003)\n- 🟡 **Os programas que deram origem a ele** = em grande parte, governo FHC\n\nPor isso, há debate político sobre o \"mérito\" do programa: aliados de FHC destacam que ele lançou as bases dos programas de transferência de renda condicionada no Brasil, enquanto aliados de Lula ressaltam que foi seu governo que consolidou, ampliou e transformou esses programas no maior programa social do país.",
+  "response_no_search": "O **Bolsa Família** foi criado no **governo Lula**, em **outubro de 2003**, por meio da Medida Provisória nº 132, posteriormente convertida na Lei nº 10.836/2004.\n\nNo entanto, é importante destacar que o programa foi resultado da **unificação de diversos programas sociais já existentes**, alguns deles criados no governo de **Fernando Henrique Cardoso (FHC)**, como:\n\n- **Bolsa Escola** (2001) — vinculado à frequência escolar\n- **Bolsa Alimentação** (2001) — focado em saúde e nutrição\n- **Auxílio-",
+  "error": null
+}

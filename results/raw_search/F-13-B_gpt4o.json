@@ -1,0 +1,35 @@
+{
+  "question_id": "F-13-B",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "De FHC a Bolsonaro: a Previdência ao longo do tempo - Estadão",
+      "url": "https://economia.estadao.com.br/noticias/geral,de-fhc-a-bolsonaro-a-previdencia-ao-longo-do-tempo,70003059756"
+    },
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Com reforma, Brasil passa a ter idade mínima para aposentadoria",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/com-reforma-brasil-passa-a-ter-idade-m%C3%ADnima-para-aposentadoria-1.374725"
+    },
+    {
+      "title": "Governo confirma idade mínima de 65 anos para aposentadoria - Estadão",
+      "url": "https://www.estadao.com.br/economia/governo-confirma-idade-minima-de-65-anos-para-aposentadoria/"
+    },
+    {
+      "title": "Reforma da Previdência do governo Jair Bolsonaro - Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Reforma_da_Previd%C3%AAncia_do_governo_Jair_Bolsonaro"
+    }
+  ],
+  "response": "A emenda constitucional que estabeleceu a idade mínima para aposentadoria no Brasil foi aprovada durante o governo do presidente Jair Bolsonaro. A Emenda Constitucional nº 103, também conhecida como a reforma da Previdência, foi promulgada em 12 de novembro de 2019. Esta reforma introduziu a obrigatoriedade de uma idade mínima para aposentadoria, fixando-a em 62 anos para mulheres e 65 anos para homens, tanto no setor público federal quanto no setor privado urbano [wikipedia.org](https://pt.wikipedia.org/wiki/Reforma_da_Previd%C3%AAncia_do_governo_Jair_Bolsonaro).",
+  "response_no_search": "A emenda constitucional que estabeleceu a idade mínima para aposentadoria no Brasil foi aprovada durante o governo de Jair Bolsonaro. A Emenda Constitucional nº 103, conhecida como a Reforma da Previdência, foi promulgada em 12 de novembro de 2019. Ela introduziu diversas mudanças nas regras de aposentadoria, incluindo a fixação de uma idade mínima para aposentadoria no regime geral da previdência social.",
+  "error": null
+}

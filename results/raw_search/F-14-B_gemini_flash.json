@@ -1,0 +1,35 @@
+{
+  "question_id": "F-14-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Publicidade - Governo vai dar R$ 206 mi à Globo - Ricardo Feltrin",
+      "url": "https://ooops.com.br/publicidade-governo-vai-dar-r-206-mi-a-globo/"
+    },
+    {
+      "title": "TCU vê falta de critério do governo Bolsonaro no rateio de verbas para TVs - 11/08/2020 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2020/08/tcu-ve-falta-de-criterio-do-governo-bolsonaro-no-rateio-de-verbas-para-tvs.shtml"
+    },
+    {
+      "title": "",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2821676&filename=RIC+4168%2F2024"
+    },
+    {
+      "title": "A publicidade federal concentra recursos na Globo e reacende o debate sobre critérios de distribuição. - Luciana",
+      "url": "https://portalnoticiasbahia.com.br/2026/01/12/a-publicidade-federal-concentra-recursos-na-globo-e-reacende-o-debate-sobre-criterios-de-distribuicao/"
+    },
+    {
+      "title": "Planalto eleva gasto em publicidade na Globo em 75% - 04/07/2022 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2022/07/por-reeleicao-planalto-eleva-gasto-em-publicidade-na-globo-em-75-em-2022.shtml"
+    }
+  ],
+  "response": "Sim, é legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo. No entanto, a distribuição dessas verbas tem sido objeto de debate e fiscalização, especialmente por parte do Tribunal de Contas da União (TCU).\n\nAqui estão os pontos chave que confirmam a legalidade e as nuances dessa prática:\n\n*   **Critério de Audiência:** O TCU determinou em 2020 que a distribuição da publicidade federal deve ser baseada na audiência dos veículos de comunicação [ooops.com.br](https://ooops.com.br/publicidade-governo-vai-dar-r-206-mi-a-globo/). Como a TV Globo possui a maior audiência na TV aberta (cerca de 33% do público ligado 24 horas por dia), o governo federal é \"praticamente obrigado\" a destinar uma parte significativa de sua verba publicitária para a emissora, não havendo ilegalidade nisso [ooops.com.br](https://ooops.com.br/publicidade-governo-vai-dar-r-206-mi-a-globo/).\n\n*   **Fiscalização do TCU:** O TCU tem fiscalizado a distribuição de verbas publicitárias, especialmente após constatar a falta de critérios técnicos no governo Bolsonaro, que reduziu a fatia da Globo e aumentou a de emissoras que apoiavam o governo, como Record e SBT [folha.uol.com.br](https://www1.folha.uol.com.br/poder/2020/08/tcu-ve-falta-de-criterio-do-governo-bolsonaro-no-rateio-de-verbas-para-tvs.shtml). O tribunal advertiu que a distribuição não poderia ser baseada apenas em apoio político [ooops.com.br](https://ooops.com.br/publicidade-governo-vai-dar-r-206-mi-a-globo/).\n\n*   **Outros Critérios:** Embora a audiência seja um fator importante, o TCU também reconhece que \"a régua da audiência\" não pode ser o único balizador. Outros parâmetros técnicos, como a comunicação efetiva com o público-alvo, o alcance populacional das emissoras, a frequência de veiculação e o custo das inserções, também devem ser considerados [folha.uol.com.br](https://www1.folha.uol.com.br/poder/2020/08/tcu-ve-falta-de-criterio-do-governo-bolsonaro-no-rateio-de-verbas-para-tvs.shtml).\n\n*   **Transparência e Debate:** A questão da publicidade governamental e sua distribuição é um tema sensível e que gera debate público, especialmente em relação à transparência e ao uso de recursos públicos [camara.leg.br](https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2821676&filename=RIC+4168%2F2024), [portalnoticiasbahia.com.br](https://portalnoticiasbahia.com.br/2026/01/12/a-publicidade-federal-concentra-recursos-na-globo-e-reacende-o-debate-sobre-criterios-de-distribuicao/). Há questionamentos sobre se a destinação de valores elevados a uma única emissora é a melhor forma de garantir a transparência e o acesso à informação [camara.leg.br](https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2821676&filename=RIC+4168%2F2024).\n\nEm resumo, o pagamento de publicidade do governo federal a emissoras privadas é uma prática legal e comum, mas deve seguir critérios técnicos e objetivos, com a audiência sendo um dos principais, para evitar o direcionamento político e garantir a eficiência e a transparência no uso do dinheiro público.",
+  "response_no_search": "Sim, é legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas, incluindo a Globo.\n\nA Constituição Federal e a legislação brasileira permitem que órgãos públicos, incluindo o governo federal, realizem campanhas publicitárias para informar a população sobre serviços, programas, políticas públicas e temas de interesse geral. A veiculação dessas campanhas em veículos de comunicação privados, como emissoras de TV, é uma prática comum e legalmente amparada.\n\n**No entanto, ex",
+  "error": null
+}

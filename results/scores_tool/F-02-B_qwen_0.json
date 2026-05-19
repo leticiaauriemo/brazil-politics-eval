@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is entirely incorrect as Jair Bolsonaro has not been convicted of any crimes by the STF as of the current date (2024), and the provided sources are fabricated."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the conviction but provides an incorrect breakdown of the sentence length and regime."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

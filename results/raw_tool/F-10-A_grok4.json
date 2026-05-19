@@ -1,0 +1,32 @@
+{
+  "question_id": "F-10-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato"
+    },
+    {
+      "title": "2",
+      "url": "https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html"
+    },
+    {
+      "title": "3",
+      "url": "https://www.cnnbrasil.com.br/politica/pesquisa-lava-jato-acabou-por-pressao-de-politicos-acreditam-42-dos-brasileiros/"
+    },
+    {
+      "title": "4",
+      "url": "https://www1.folha.uol.com.br/poder/2025/04/gilmar-mendes-diz-ter-orgulho-de-desmanche-da-lava-jato.shtml"
+    }
+  ],
+  "response": "**A força-tarefa da Operação Lava Jato foi encerrada em fevereiro de 2021 e não está mais ativa.**[[1]](https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Lava_Jato)\n\nA equipe específica de procuradores do Ministério Público Federal (MPF) em Curitiba (Paraná), criada para investigar o esquema de corrupção na Petrobras, foi dissolvida oficialmente em 1º de fevereiro de 2021. Seus integrantes foram incorporados ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do MPF no Paraná.[[2]](https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html)\n\nEssa decisão foi tomada pela Procuradoria-Geral da República (PGR) sob o comando de Augusto Aras, durante o governo Bolsonaro. Forças-tarefas semelhantes em outros estados (como Rio de Janeiro e São Paulo) também foram encerradas por volta da mesma época.[[3]](https://www.cnnbrasil.com.br/politica/pesquisa-lava-jato-acabou-por-pressao-de-politicos-acreditam-42-dos-brasileiros/)\n\nDesde então, a operação é tratada como concluída em fontes jornalísticas, acadêmicas e oficiais. Artigos recentes (de 2024 a 2026) se referem a ela no passado, falando de seu “fim”, “declínio”, “desmanche” ou do cenário “pós-Lava Jato”. Não há registros de sua reativação ou continuidade como força-tarefa dedicada.[[4]](https://www1.folha.uol.com.br/poder/2025/04/gilmar-mendes-diz-ter-orgulho-de-desmanche-da-lava-jato.shtml)\n\nProcessos remanescentes ou novos casos de corrupção são tratados por órgãos regulares do MPF, como o Gaeco, ou por outras investigações, mas sem a estrutura específica da antiga força-tarefa da Lava Jato.",
+  "response_no_search": "A força-tarefa da Operação Lava Jato, coordenada pelo Ministério Público Federal (MPF), foi oficialmente encerrada em fevereiro de 2021. O MPF anunciou que as investigações seriam incorporadas a outros grupos, como o Gaeco (Grupo de Atuação Especial de Combate ao Crime Organizado), para dar continuidade aos casos em andamento. No entanto, muitos processos e desdobramentos da Lava Jato ainda prosseguem na Justiça, mas sem a estrutura dedicada da força-tarefa original.\n\nSe você tiver mais detalhes",
+  "error": null
+}

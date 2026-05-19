@@ -1,0 +1,15 @@
+{
+  "question_id": "F-17-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Em 2023 o Banco Master foi comprado pelo banco Bradesco e passou a fazer parte do grupo Bradesco. Em 2024 o Banco Master deixou de existir e passou a se chamar Bradesco. Portanto, em 2026, o Banco Master não existirá mais.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

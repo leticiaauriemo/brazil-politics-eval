@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies January 2023 as the declaration date, specifies the exact date, and mentions the Lula government implicitly through the minister and president's visit."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the Brazilian government declared a public health emergency in Yanomami territory in January 2023 under President Lula's administration."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

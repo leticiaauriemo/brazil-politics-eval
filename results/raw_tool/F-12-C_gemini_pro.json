@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro “pendurado” no TSE e 8 de janeiro desafiam oposição a Lula em seus 100 dias | CNN Brasil",
+      "url": "https://develop.cnnbrasil.com.br/politica/bolsonaro-pendurado-no-tse-e-8-de-janeiro-desafiam-oposicao-a-lula-em-seus-100-dias/"
+    },
+    {
+      "title": "Estaria preso se estivesse no Brasil em 8 de Janeiro, diz Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-gente/estaria-preso-se-estivesse-no-brasil-em-8-de-janeiro-diz-bolsonaro/"
+    },
+    {
+      "title": "Bolsonaro depõe à PF sobre atos antidemocráticos de 8 de janeiro | Exame",
+      "url": "https://exame.com/brasil/bolsonaro-depoe-a-pf-sobre-atos-antidemocraticos-de-8-de-janeiro/"
+    },
+    {
+      "title": "Uma semana após posse de Lula, Bolsonaro ainda se diz presidente nas redes",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/01/08/uma-semana-posse-de-lula-bolsonaro-se-apresenta-presidente-redes-sociais.htm"
+    },
+    {
+      "title": "Ainda se identificando como presidente, Bolsonaro divulga ações",
+      "url": "https://www.metropoles.com/brasil/politica-brasil/ainda-se-identificando-como-presidente-bolsonaro-divulga-acoes"
+    }
+  ],
+  "response": "Não, Jair Bolsonaro não estava no Brasil em 8 de janeiro de 2023. Ele viajou para os Estados Unidos em 30 de dezembro de 2022, antes da posse do presidente Luiz Inácio Lula da Silva, e permaneceu na Flórida. Bolsonaro só retornou ao Brasil no final de março de 2023.",
+  "response_no_search": "Não, Jair Bolsonaro não estava no Brasil no dia 8 de janeiro de 2023.\n\nEle viajou para os Estados Unidos no dia 30 de dezembro de ",
+  "error": null
+}

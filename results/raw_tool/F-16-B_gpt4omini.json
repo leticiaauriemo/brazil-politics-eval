@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senado aprova e auxílio de R$ 600 segue para sanção de Bolsonaro",
+      "url": "https://oglobo.globo.com/economia/senado-aprova-auxilio-de-600-segue-para-sancao-de-bolsonaro-24339424"
+    },
+    {
+      "title": "CCJ do Senado aprova PEC do Bolsa Família - a PEC do Lula",
+      "url": "https://www.esmaelmorais.com.br/ccj-do-senado-aprova-pec-do-bolsa-familia-a-pec-da-transicao-do-governo-lula/"
+    },
+    {
+      "title": "Programas sociais turbinados e isenção do IR: os bilhões que Lula vai injetar na economia em ano eleitoral - Rádio Via 5",
+      "url": "https://radiovia5.com/noticia/2497045/programas-sociais-turbinados-e-isencao-do-ir-os-bilhoes-que-lula-vai-injetar-na-economia-em-ano-eleitoral"
+    },
+    {
+      "title": "Bolsa Família: \"Lula manterá os R$ 600. Quem está recebendo ...",
+      "url": "https://www.brasil247.com/economia/bolsa-familia-lula-mantera-os-r-600-quem-esta-recebendo-fique-tranquilo-garante-tereza-campello"
+    },
+    {
+      "title": "Salário mínimo vai subir de 1,3% a 1,4% acima da inflação em 2023, afirma Wellington Dias",
+      "url": "https://www.infomoney.com.br/politica/salario-minimo-vai-subir-de-13-a-14-acima-da-inflacao-em-2023-afirma-wellington-dias/"
+    }
+  ],
+  "response": "O benefício mínimo de R$600 foi inicialmente implementado durante o governo de Jair Bolsonaro, como parte do auxílio emergencial durante a pandemia de COVID-19. O valor foi aprovado pelo Senado e sancionado por Bolsonaro em 2020, após um aumento do valor que inicialmente era de R$200.\n\nApós a eleição de Luiz Inácio Lula da Silva, ele manteve o valor de R$600 para o Bolsa Família, que foi resgatado como o nome do programa social. Portanto, o valor de R$600 foi uma medida do governo Bolsonaro, mas foi mantido pelo governo Lula. \n\nPara mais detalhes, você pode consultar as seguintes fontes:\n- [Senado aprova e auxílio de R$ 600 segue para sanção de Bolsonaro](https://oglobo.globo.com/economia/senado-aprova-auxilio-de-600-segue-para-sancao-de-bolsonaro-24339424)\n- [Bolsa Família: Lula manterá os R$ 600](https://www.brasil247.com/economia/bolsa-familia-lula-mantera-os-r-600-quem-esta-recebendo-fique-tranquilo-garante-tereza-campello)",
+  "response_no_search": "O benefício mínimo de R$600 foi uma medida do governo Lula. Essa quantia foi estabelecida como parte do programa de assistência social do governo, que visa aumentar o valor do Auxílio Brasil, substituto do Bolsa Família. O governo Bolsonaro havia implementado o Auxílio Emergencial durante a pandemia, mas o valor de R$600 como benefício mínimo foi uma decisão do governo Lula em 2023.",
+  "error": null
+}

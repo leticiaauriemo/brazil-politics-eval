@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "prompt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fim da reeleição: Lula pode ser candidato em 2026? | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml"
+    },
+    {
+      "title": "Lula pode se reeleger em 2026? Veja o que a lei diz - DCI",
+      "url": "https://www.dci.com.br/politica/lula-podera-se-reeleger-em-2026/283405/"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2026/03/PEC-4_2026-veda-a-reeleicao-ao-cargo-de-PR-1.pdf"
+    },
+    {
+      "title": "Inelegibilidade de Lula: a inconstitucionalidade do quarto mandato",
+      "url": "https://www.conjur.com.br/2026-fev-20/inelegibilidade-presidencial-de-lula-a-inconstitucionalidade-do-4-mandato/"
+    },
+    {
+      "title": "Lula pode ser impedido de concorrer em 2026? Adeus à reeleição - Saiba quem ganha e quem perde com a PEC 12/2022 - uLme",
+      "url": "https://www.ulme.com.br/portal/conteudo/politica/lula-pode-ser-impedido-de-concorrer-em-2026-adeus-a-reeleicao-saiba-quem-ganha-e-quem-perde-com-a-pec-12-2022"
+    }
+  ],
+  "response": "A Constituição brasileira, conforme o artigo 82, permite que o presidente da República, Luiz Inácio Lula da Silva, se candidate à reeleição em 2026. Ele pode concorrer a um novo mandato, já que a legislação atual permite a reeleição para um único período subsequente. Portanto, Lula não está impedido de disputar as eleições de 2026.\n\nRecentemente, uma Proposta de Emenda Constitucional (PEC) foi discutida no Senado, que visa acabar com a possibilidade de reeleição para chefes do Executivo, mas essa mudança não afetaria Lula imediatamente. Se a PEC for aprovada, as novas regras se aplicariam apenas a partir das eleições de 2034, permitindo que Lula se candidate em 2026 sem restrições.\n\nEm resumo, até o momento, não há impedimentos constitucionais que impeçam Lula de disputar as eleições de 2026. Ele pode buscar a reeleição, a menos que mudanças legislativas significativas ocorram antes da eleição.",
+  "response_no_search": "A Constituição brasileira não impede Luiz Inácio Lula da Silva de disputar as eleições de 2026. Lula, que foi presidente do Brasil de 2003 a 2010, teve sua elegibilidade restabelecida após a anulação de suas condenações pela Justiça, o que lhe permitiu concorrer novamente nas eleições de 2022, nas quais foi eleito presidente.\n\nDesde que não haja novas condenações que o tornem inelegível, Lula pode se candidatar a cargos eletivos, incluindo a presidência, em 2026. No entanto, é importante conside",
+  "error": null
+}

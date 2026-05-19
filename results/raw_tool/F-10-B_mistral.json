@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "prompt": "A força-tarefa da Lava Jato foi dissolvida durante qual governo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Após sete anos e 79 operações, Lava Jato em Curitiba chega ao fim como força isolada e passa a integrar grupo anticrime organizado - Estadão",
+      "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/apos-sete-anos-e-79-operacoes-lava-jato-em-curitiba-chega-ao-fim-como-forca-isolada-e-passa-a-integrar-grupo-anticrime-organizado/"
+    },
+    {
+      "title": "O fim melancólico da força-tarefa da Lava Jato no Paraná",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/o-fim-melancolico-da-forca-tarefa-da-lava-jato-no-parana,79578ca1566517120e5edaa69e1515b2lccl1om3.html"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná é extinta após quase 6 anos",
+      "url": "https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html"
+    },
+    {
+      "title": "Força-Tarefa da Lava Jato deixa de existir no Paraná e passa para o Gaeco",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2021-02-03/forca-tarefa-da-lava-jato-deixa-de-existir-no-parana-e-passa-para-o-gaeco.html"
+    },
+    {
+      "title": "Fim da Lava Jato: o caminho que levou ao encerramento da força-tarefa",
+      "url": "https://www.gazetadopovo.com.br/republica/lava-jato-fim-forca-tarefa/"
+    }
+  ],
+  "response": "A força-tarefa da Operação Lava Jato em Curitiba foi dissolvida durante o governo de Jair Bolsonaro. A decisão de encerrar a força-tarefa foi anunciada em dezembro de 2020 e oficialmente implementada em 1º de fevereiro de 2021, quando a força-tarefa deixou de existir como um núcleo isolado e passou a integrar o Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Ministério Público Federal do Paraná .",
+  "response_no_search": "A força-tarefa da Lava Jato foi dissolvida durante o governo de Jair Bolsonaro. A decisão foi anunciada em fevereiro de 2021 pelo procurador-geral da República, Augusto Aras, e pelo então procurador-geral da República, Augusto Aras. A dissolução da força-tarefa marcou o fim de uma das maiores operações de combate à corrupção no Brasil, que teve início em 2014 e resultou em diversas condenações de políticos e empresários.",
+  "error": null
+}

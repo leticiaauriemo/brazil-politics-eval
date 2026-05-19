@@ -1,0 +1,19 @@
+{
+  "question_id": "F-19-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Lula and Flávio Bolsonaro as main candidates but incorrectly lists Ronaldo Caiado as a notable candidate and fails to clarify Tarcísio de Freitas is not running, which was a key part of the resolution criteria for a higher score."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

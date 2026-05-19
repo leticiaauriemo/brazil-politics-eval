@@ -1,0 +1,19 @@
+{
+  "question_id": "F-12-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms the invasion and vandalism of all three locations, detailing the destruction of public property, works of art, and historical archives, and mentioning significant financial damage."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

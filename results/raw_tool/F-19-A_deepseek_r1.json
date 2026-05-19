@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "prompt": "Quem são os principais candidatos à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quem são os pré-candidatos à Presidência da República em 2026 | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/31/quem-sao-os-pre-candidatos-a-presidencia-da-republica-2026.ghtml"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Veja quem são os 11 pré-candidatos a presidente - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "Eleição para presidente: quem está na corrida e quem já caiu fora",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/"
+    },
+    {
+      "title": "Eleições 2026: quem são os pré-candidatos à Presidência da República | TMC",
+      "url": "https://tmc.com.br/politica/eleicoes-2026-quem-sao-os-pre-candidatos-a-presidencia-da-republica/"
+    }
+  ],
+  "response": "I'll search for the latest information on potential candidates for the 2026 Brazilian presidential election. Since it's still early, these are likely preliminary names being discussed in political circles.\n\n\nCom base nas informações mais recentes das principais fontes de notícias (G1, BBC, Valor Econômico, Gazeta do Povo), os principais pré-candidatos à Presidência do Brasil nas eleições de 2026 são:\n\n### Principais candidatos (com maior destaque nas pesquisas):\n1. **Luiz Inácio Lula da Silva (PT)**  \n   - Presidente atual, busca a reeleição para seu quarto mandato  \n   - Lidera as pesquisas com cerca de 39% das intenções de voto (Datafolha/abril 2026)\n\n2. **Flávio Bolsonaro (PL)**  \n   - Senador e filho do ex-presidente Jair Bolsonaro  \n   - Principal candidato da oposição, com cerca de 35% nas pesquisas  \n   - Defende anistia aos condenados dos atos de 8 de janeiro de 2023\n\n3. **Ronaldo Caiado (PSD)**  \n   - Ex-governador de Goiás  \n   - Apresenta-se como alternativa ao PT e ao PL  \n   - Promete \"pacificação nacional\" e anistia a envolvidos nos atos golpistas\n\n4. **Romeu Zema (NOVO)**  \n   - Ex-governador de Minas Gerais  \n   - Primeiro a lançar pré-candidatura (agosto 2025)  \n   - Foco em gestão eficiente e liberalismo econômico\n\n### Outros pré-candidatos confirmados:\n5. **Aldo Rebelo (Democracia Cristã)**  \n   - Ex-ministro e ex-presidente da Câmara  \n   - Figurra histórica da política brasileira\n\n6. **Renan Santos (Missão)**  \n   - Cofundador do MBL (Movimento Brasil Livre)  \n   - Líder do novo partido Missão\n\n7. **Cabo Daciolo (Mobiliza)**  \n   - Ex-deputado e pastor evangélico  \n   - Conhecido pela campanha de 2018 (\"Glória a Deus\")\n\n8. **Augusto Cury (Avante)**  \n   - Psiquiatra e escritor best-seller  \n   - Propõe \"nova forma de fazer política\"\n\n9. **Hertz Dias (PSTU)**  \n   - Professor de história do Maranhão\n\n10. **Samara Martins (UP)**  \n    - Representante do Partido Unidade Popular\n\n11. **Edmilson Costa (PCB)**  \n    - Economista e professor universitário\n\n12. **Rui Costa Pimenta (PCO)**  \n    - Presidente do Partido da Causa Operária\n\n### Observações importantes:\n- As candidaturas serão oficializadas apenas em **agosto de 2026**, após convenções partidárias  \n- O primeiro turno está marcado para **4 de outubro de 2026**  \n- A polarização entre PT e PL domina as pesquisas, mas outros nomes buscam espaço como \"terceira via\"  \n- Governadores como Tarcísio de Freitas (SP) e Eduardo Leite (RS) foram cogitados mas desistiram da corrida  \n\nFonte: Dados consolidados de G1, BBC Brasil, Valor Econômico e Gazeta do Povo (atualizados até abril/2026).",
+  "response_no_search": "As eleições presidenciais brasileiras de 2026 ainda estão distantes (outubro de 2026), e **nenhum candidato foi formalmente lançado por seus partidos**. O cenário é extremamente fluido e baseado em **especulações, movimentos políticos e pesquisas iniciais**. Os nomes mais frequentemente citados como potenciais candidatos ou pré-candidatos se dividem principalmente entre o campo governista (aliados ao Presidente Lula) e a oposição (principalmente alinhada ao ex-Presidente Bolsonaro), além de poss",
+  "error": null
+}

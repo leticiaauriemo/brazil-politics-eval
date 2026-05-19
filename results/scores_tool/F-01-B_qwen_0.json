@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula's convictions were annulled due to procedural issues, specifically jurisdictional incompetence, and explicitly clarifies that this does not equate to a declaration of innocence or a judgment on the merits of the accusations."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Lula's convictions were annulled due to procedural issues, specifically jurisdictional incompetence, without claiming he was found innocent."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

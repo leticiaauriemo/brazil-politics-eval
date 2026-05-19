@@ -1,0 +1,19 @@
+{
+  "question_id": "F-15-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the Lula government declared the emergency, but it does not provide the crucial context about the crisis worsening under Bolsonaro or his failure to declare an emergency despite warnings."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

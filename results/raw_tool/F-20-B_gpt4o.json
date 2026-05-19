@@ -1,0 +1,56 @@
+{
+  "question_id": "F-20-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brasil tem 76,95% da população com duas doses ou dose única contra covid - Estadão",
+      "url": "https://www.estadao.com.br/saude/brasil-tem-76-95-da-populacao-com-duas-doses-ou-dose-unica-contra-covid/"
+    },
+    {
+      "title": "Vacinometro COVID-19 - Ministério da Saúde",
+      "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_Vacina_C19/SEIDIGI_DEMAS_Vacina_C19.html"
+    },
+    {
+      "title": "Brasil tem 80% da população alvo com duas doses de vacina contra a Covid-19",
+      "url": "https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2021/12/brasil-tem-80-da-populacao-alvo-com-duas-doses-de-vacina-contra-a-covid-19"
+    },
+    {
+      "title": "Brasil tem 71,63% da população vacinada com duas doses ou aplicação única contra covid - Estadão",
+      "url": "https://www.estadao.com.br/saude/brasil-tem-71-63-da-populacao-vacinada-com-duas-doses-ou-aplicacao-unica-contra-covid/"
+    },
+    {
+      "title": "Brasil tem 66,49% da população com duas doses da vacina contra a covid-19 - Estadão",
+      "url": "https://www.estadao.com.br/saude/brasil-tem-66-49-da-populacao-com-duas-doses-da-vacina-contra-a-covid-19/"
+    },
+    {
+      "title": "COVID-19 Vaccination Trends in the United States,National and Jurisdictional | Data | Centers for Disease Control and Prevention",
+      "url": "https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2"
+    },
+    {
+      "title": "Monthly Cumulative Number and Percent of Persons Who Received 1+ COVID-19 Vaccination Doses and Comparison between 2025─26 and Previous Seasons, by Age Group and Jurisdiction, United States | Data | Centers for Disease Control and Prevention",
+      "url": "https://data.cdc.gov/Vaccinations/Monthly-Cumulative-Number-and-Percent-of-Persons-W/q84f-e68r/about_data"
+    },
+    {
+      "title": "Fully Vaccinated Adults | Data | Centers for Disease Control and Prevention",
+      "url": "https://data.cdc.gov/Vaccinations/Fully-Vaccinated-Adults/jm79-dz78"
+    },
+    {
+      "title": "COVID-19 Vaccines Up to Date Status | Data | Centers for Disease Control and Prevention",
+      "url": "https://data.cdc.gov/Vaccinations/COVID-19-Vaccines-Up-to-Date-Status/9b5z-wnve/about_data"
+    },
+    {
+      "title": "CDC COVID Data Tracker",
+      "url": "https://covid.cdc.gov/covid-data-tracker/?amp="
+    }
+  ],
+  "response": "Atualmente, o Brasil tem aproximadamente 76,95% da população vacinada com duas doses ou dose única contra a COVID-19, de acordo com dados do Estadão. Em comparação, os dados mais recentes dos Estados Unidos indicam que cerca de 69% da população está totalmente vacinada, conforme informações do CDC.\n\nPortanto, sim, o Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra a COVID-19.",
+  "response_no_search": "Sim, o Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra a COVID-19 em determinado momento. Isso ocorreu devido a uma série de fatores, incluindo a ampla aceitação das vacinas pela população brasileira e os esforços do sistema de saúde pública do Brasil para distribuir e administrar as vacinas de forma eficiente. Além disso, o Brasil enfrentou ondas severas da pandemia, o que pode ter incentivado uma maior adesão à vacinação. No entanto, é importante verifi",
+  "error": null
+}

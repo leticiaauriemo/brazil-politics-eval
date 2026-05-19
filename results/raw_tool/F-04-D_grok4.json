@@ -1,0 +1,40 @@
+{
+  "question_id": "F-04-D",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.greenpeace.org/brasil/blog/taxa-de-desmatamento-da-amazonia-mantem-patamar-alarmante-revela-prodes-2022/"
+    },
+    {
+      "title": "2",
+      "url": "https://oeco.org.br/noticias/amazonia-perdeu-115-mil-km%C2%B2-de-floresta-em-2022-aponta-inpe/"
+    },
+    {
+      "title": "3",
+      "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/divulgacao-de-dados-prodes.pdf"
+    },
+    {
+      "title": "4",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-11/desmatamento-anual-da-amazonia-tem-queda-de-223"
+    },
+    {
+      "title": "5",
+      "url": "https://www.instagram.com/p/DQccEkTkT-d/"
+    },
+    {
+      "title": "6",
+      "url": "https://g1.globo.com/meio-ambiente/noticia/2025/10/30/brasil-desmatamento.ghtml"
+    }
+  ],
+  "response": "**O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022).**[[1]](https://www.greenpeace.org/brasil/blog/taxa-de-desmatamento-da-amazonia-mantem-patamar-alarmante-revela-prodes-2022/)\n\nOs dados oficiais vêm do sistema PRODES do INPE (Instituto Nacional de Pesquisas Espaciais), que mede a taxa anual de desmatamento na Amazônia Legal no período de agosto a julho.\n\n### Período Bolsonaro (2019–2022)\n- Taxa total nos quatro anos: cerca de 45.586 km².[[1]](https://www.greenpeace.org/brasil/blog/taxa-de-desmatamento-da-amazonia-mantem-patamar-alarmante-revela-prodes-2022/)\n- **Média anual**: aproximadamente 11.396 km².[[2]](https://oeco.org.br/noticias/amazonia-perdeu-115-mil-km%C2%B2-de-floresta-em-2022-aponta-inpe/)\n- Exemplos de anos: 2019 (~10.129 km²), 2020 (~10.851 km²), 2021 (~13.235 km²) e 2022 (11.568 km²).[[3]](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/divulgacao-de-dados-prodes.pdf)\n\n### Período Lula 3 (2023–2025)\n- Taxas anuais em queda acentuada:\n  - 2023 (ago/2022–jul/2023): 9.001 km².[[4]](https://agenciabrasil.ebc.com.br/geral/noticia/2023-11/desmatamento-anual-da-amazonia-tem-queda-de-223)\n  - 2024 (ago/2023–jul/2024): cerca de 6.288–6.518 km².[[5]](https://www.instagram.com/p/DQccEkTkT-d/)\n  - 2025 (ago/2024–jul/2025): 5.796 km² (queda de ~11% em relação ao ano anterior e de 50% em relação a 2022).[[6]](https://g1.globo.com/meio-ambiente/noticia/2025/10/30/brasil-desmatamento.ghtml)\n- **Média anual aproximada**: cerca de 7.000–7.100 km² (muito inferior à de Bolsonaro).\n\nOs números mostram uma redução consistente e expressiva a partir de 2023, consolidando quatro anos consecutivos de queda até 2025. A comparação direta das médias anuais confirma que o desmatamento foi maior no período 2019–2022.",
+  "response_no_search": "Com base em dados oficiais e públicos do Instituto Nacional de Pesquisas Espaciais (INPE), que monitora o desmatamento na Amazônia Legal por meio do sistema PRODES (Programa de Monitoramento do Desmatamento na Floresta Amazônica), posso responder à sua pergunta de forma factual e comparativa. Vou me ater aos números disponíveis até o momento (meu conhecimento é atualizado até 2023, mas incluo dados recentes reportados até 2024; 2025 ainda não está completo e depende de projeções ou dados parciai",
+  "error": null
+}

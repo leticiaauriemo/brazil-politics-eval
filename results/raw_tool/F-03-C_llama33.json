@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "prompt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro pode ser candidato em 2026? Entenda situação jurídica | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml"
+    },
+    {
+      "title": "Bolsonaro está inelegível. Saiba o porquê e até quando | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml"
+    },
+    {
+      "title": "Bolsonaro está inelegível até quando? Saiba em que ano ele poderá participar de eleições",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/11/06/bolsonaro-esta-inelegivel-ate-quando-saiba-em-que-ano-ele-podera-participar-de-eleicoes.ghtml"
+    },
+    {
+      "title": "Nem anistia garante Bolsonaro nas eleições de 2026",
+      "url": "https://www.intercept.com.br/2025/02/26/nem-anistia-bolsonaro-so-disputa-2026-com-milagre-no-congresso/"
+    },
+    {
+      "title": "Ministros do TSE descartam Bolsonaro elegível em 2026 | CNN Brasil",
+      "url": "https://preprod.cnnbrasil.com.br/eleicoes/ministros-do-tse-descartam-bolsonaro-elegivel-em-2026/"
+    }
+  ],
+  "response": "Jair Bolsonaro está impedido de concorrer nas eleições de 2026 devido a uma condenação pelo Tribunal Superior Eleitoral (TSE) por abuso de poder político e uso indevido dos meios de comunicação. A decisão o tornou inelegível até 2030, barrando sua participação nas eleições de 2026. Além disso, Bolsonaro foi denunciado pela Procuradoria-Geral da República (PGR) por participação em atos golpistas, o que pode torná-lo inelegível também em razão desse processo, de acordo com a legislação brasileira sobre inelegibilidade.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, não havia informações definitivas ou oficiais que impedissem Jair Bolsonaro de concorrer nas eleições de 2026. No entanto, é importante considerar alguns pontos que poderiam potencialmente afetar sua elegibilidade:\n\n1. **Lei da Ficha Limpa**: Esta lei estabelece critérios para a inelegibilidade de candidatos com base em condenações judiciais, entre outros fatores. Se Bolsonaro fosse condenado em um processo que o enquadrasse nos critérios d",
+  "error": null
+}

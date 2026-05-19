@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo muda postura e anuncia a compra de 70 milhões de doses da vacina Pfizer | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2020/12/08/governo-muda-postura-e-anuncia-a-compra-de-70-milhoes-de-doses-da-vacina-pfizer.ghtml"
+    },
+    {
+      "title": "Governo negocia compra de 70 milhões de doses de vacina da Pfizer, diz Ministério da Saúde | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2020/12/07/vacina-contra-covid-ministerio-da-saude-diz-que-deve-assinar-nesta-semana-intencao-de-compra-de-70-milhoes-de-doses.ghtml"
+    },
+    {
+      "title": "Ministério da Saúde e Pfizer avançam em compra de 70 milhões de doses da vacina - Estadão",
+      "url": "https://estadao.com.br/saude/ministerio-da-saude-e-pfizer-avancam-em-compra-de-70-milhoes-de-doses"
+    },
+    {
+      "title": "Ministério confirma memorando com a Pfizer para aquisição de 70 milhões de doses da vacina - Estadão",
+      "url": "http://saude.estadao.com.br/noticias/geral,ministerio-confirma-memorando-com-a-pfizer-para-aquisicao-de-70-milhoes-de-doses-da-vacina,70003547879"
+    },
+    {
+      "title": "Covid-19: Brasil assina memorando com Pfizer, afirma Ministério - Notícias ao Minuto Brasil",
+      "url": "https://www.noticiasaominuto.com.br/ultima-hora/1759440/covid-19-brasil-assina-memorando-com-pfizer-afirma-ministerio"
+    }
+  ],
+  "response": "Em dezembro de 2020, o Ministério da Saúde anunciou a intenção de compra de 70 milhões de doses da vacina da Pfizer/BioNTech. No dia 10 de dezembro de 2020, foi assinado um memorando de entendimento com a Pfizer para a aquisição dessas doses, com previsão de entrega em 2021. O acordo previa 8,5 milhões de doses no primeiro semestre e 61,5 milhões no segundo semestre de 2021.\n\nÉ importante notar que, na época, o governo havia mudado sua postura inicial, que questionava a infraestrutura do Brasil para armazenar vacinas que exigiam temperaturas muito baixas. A Pfizer, por sua vez, ofereceu soluções logísticas, como caixas de gelo seco que garantiam a conservação das doses.\n\nApesar do memorando, a efetivação da compra e o início da vacinação dependiam do registro ou autorização de uso emergencial da vacina pela Anvisa, o que ainda não havia ocorrido em 2020.",
+  "response_no_search": "Não, o Ministério da Saúde não comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020.\n\nHouve uma série de negociações e trocas de correspondência entre a Pfizer e o governo brasileiro ao longo de 2020, onde a empresa ofereceu doses da sua vacina. No entanto, o governo brasileiro, na época, não fechou o acordo de compra.\n\nAs razões para a não compra em 2020 foram diversas e geraram muita controvérsia, incluindo:\n\n*   **Cláusulas contratuais:** A Pfizer exigia cláusulas considerad",
+  "error": null
+}

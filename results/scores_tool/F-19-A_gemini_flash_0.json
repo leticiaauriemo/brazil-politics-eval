@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the model cannot predict the candidates, failing to acknowledge the known candidates and misidentifying the situation regarding Tarcísio de Freitas."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The model expresses uncertainty and does not provide any correct information about the main candidates, hedging its response instead of providing a clear answer."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.5,
+  "agreement": true
+}

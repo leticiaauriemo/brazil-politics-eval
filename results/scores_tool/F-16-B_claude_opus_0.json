@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that the R$600 benefit originated under the Bolsonaro government as Auxílio Brasil, specifically mentioning PEC 15/2022 (which is PEC 1/2022 in the ground truth, a minor numerical difference that doesn't alter the core fact) and the electoral year context, and then explains Lula's role in making it permanent and adding extra benefits."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 value to Bolsonaro but lacks clarity on the specific context of the Auxílio Brasil under PEC 1/2022."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

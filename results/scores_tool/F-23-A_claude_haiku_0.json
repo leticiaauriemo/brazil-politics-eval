@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Lula can run for re-election, but it fails to explain the crucial 'non-consecutive' mandate logic that makes it legally possible, which is a key part of the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula can run for re-election in 2026, explains the non-consecutive mandate logic, and notes his intention to run without overstating the minority legal debate."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

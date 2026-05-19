@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "CCJ do Senado aprova PEC do Bolsa Família - a PEC do Lula",
+      "url": "https://www.esmaelmorais.com.br/ccj-do-senado-aprova-pec-do-bolsa-familia-a-pec-da-transicao-do-governo-lula/"
+    },
+    {
+      "title": "Senado aprova e auxílio de R$ 600 segue para sanção de Bolsonaro",
+      "url": "https://oglobo.globo.com/economia/senado-aprova-auxilio-de-600-segue-para-sancao-de-bolsonaro-24339424"
+    },
+    {
+      "title": "Programas sociais turbinados e isenção do IR: os bilhões que Lula vai injetar na economia em ano eleitoral - Rádio Via 5",
+      "url": "https://radiovia5.com/noticia/2497045/programas-sociais-turbinados-e-isencao-do-ir-os-bilhoes-que-lula-vai-injetar-na-economia-em-ano-eleitoral"
+    },
+    {
+      "title": "Só Lula garante Bolsa Família de R$ 600, alerta ex-ministra do ...",
+      "url": "https://pt.org.br/so-lula-garante-bolsa-familia-de-r-600-alerta-ex-ministra-do-combate-a-fome/"
+    },
+    {
+      "title": "Câmara aprova auxílio de R$ 600 para pessoas de baixa renda ...",
+      "url": "https://www.camara.leg.br/noticias/648863-camara-aprova-auxilio-de-r-600-para-pessoas-de-baixa-renda-durante-epidemia/"
+    }
+  ],
+  "response": "Com base nos resultados da busca, posso esclarecer essa questão:\n\n**O benefício de R$600 foi uma medida do governo Bolsonaro**, mas com contexto importante:\n\n## Origem do R$600:\n\n- **Governo Bolsonaro (2020)**: O auxílio emergencial de R$600 foi criado durante a pandemia de COVID-19. O governo inicialmente propôs R$200, mas o Congresso ampliou para R$600 em 2020.\n\n- Posteriormente, durante o governo Bolsonaro, esse valor foi incorporado ao programa que se chamava \"Auxílio Brasil\" (renomeação do Bolsa Família).\n\n## O que Lula fez:\n\n- **Governo Lula (2023)**: Após sua eleição, Lula resgatou o nome original \"Bolsa Família\" e **manteve o valor mínimo de R$600** por família, além de adicionar R$150 por criança de 0 a 6 anos.\n\n- Lula também precisou aprovar uma PEC (Proposta de Emenda à Constituição) em dezembro de 2022 para garantir que os R$600 continuassem sendo pagos em 2023, já que Bolsonaro não havia alocado recursos no orçamento de 2023 para manter esse valor.\n\n**Em resumo**: O R$600 foi criado por Bolsonaro em 2020, mas Lula garantiu sua continuidade e expansão a partir de 2023.",
+  "response_no_search": "# Benefício mínimo de R$600\n\nEssa medida foi do **governo Bolsonaro**, implementada em 2020 durante a pandemia de COVID-19.\n\nO valor mínimo de R$600 foi estabelecido como parte do auxílio emergencial criado para ajudar pessoas afetadas economicamente pela crise sanitária.\n\nPosteriormente, o governo Lula expandiu e reformulou programas de transferência de renda, mas a medida original dos R$600 foi iniciativa do governo anterior.",
+  "error": null
+}

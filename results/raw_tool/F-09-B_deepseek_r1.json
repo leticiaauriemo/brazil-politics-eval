@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brasil negou 3 vezes ofertas da Pfizer e perdeu ao menos 3 milhões de doses - Notícias ao Minuto Brasil",
+      "url": "https://www.noticiasaominuto.com.br/brasil/1783682/brasil-negou-3-vezes-ofertas-da-pfizer-e-perdeu-ao-menos-3-milhoes-de-doses"
+    },
+    {
+      "title": "Representante da Pfizer confirma: governo não respondeu ofertas ...",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/13/representante-da-pfizer-confirma-governo-nao-respondeu-ofertas-feitas-em-agosto-de-2020"
+    },
+    {
+      "title": "Governo negocia compra de 70 milhões de doses de vacina da Pfizer, diz Ministério da Saúde | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2020/12/07/vacina-contra-covid-ministerio-da-saude-diz-que-deve-assinar-nesta-semana-intencao-de-compra-de-70-milhoes-de-doses.ghtml"
+    },
+    {
+      "title": "Covid-19: Brasil assina memorando com Pfizer, afirma Ministério | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-12/covid-19-brasil-assina-memorando-com-pfizer-afirma-ministerio"
+    },
+    {
+      "title": "Carlos Murillo confirma que Brasil ignorou três ofertas da Pfizer por ...",
+      "url": "https://www.cnnbrasil.com.br/politica/carlos-murillo-confirma-que-brasil-ignorou-tres-ofertas-da-pfizer-por-vacinas/"
+    }
+  ],
+  "response": "To answer your question about whether the Brazilian Ministry of Health purchased Pfizer vaccines when they were offered in 2020, I'll perform a web search for reliable information. \n\nHere's the search query I'll use: \"Ministério da Saúde Brasil compra vacinas Pfizer oferecidas 2020\"\n\nBanayেশCom base nas informações obtidas da pesquisa, o Ministério da Saúde **não comprou as vacinas da Pfizer quando foram inicialmente oferecidas ao Brasil em 2020**. Os fatos principais são:\n\n1. **Ofertas rejeitadas em 2020**:\n   - A Pfizer fez três ofertas formais ao governo brasileiro em agosto de 2020 (dias 14, 18 e 26), incluindo entregas ainda em dezembro de 2020 (500 mil a 1,5 milhão de doses) e mais doses ao longo de 2021.\n   - O governo **não respondeu a essas ofertas**, deixando-as expirar sem aceitação. Carlos Murillo, presidente da Pfizer para a América Latina, confirmou esse fato em depoimento à CPI da Pandemia.\n\n2. **Atraso na decisão**:\n   - A primeira proposta foi feita em 14 de agosto de 2020, mas o Ministério da Saúde só anunciou um memorando de intenção de compra em **dezembro de 2020**, quase quatro meses depois.\n   - Mesmo esse memorando (assinado em 10 de dezembro) previa entregas apenas a partir do primeiro semestre de 2021, não em 2020.\n\n3. **Justificativas do governo**:\n   - Autoridades do Ministério da Saúde alegaram \"óbices técnicos e legais\" para não fechar o acordo mais cedo, incluindo cláusulas contratuais e falta de aval da Anvisa.\n\n**Consequências**:  \nO Brasil perdeu a oportunidade de receber pelo menos **3 milhões de doses ainda em 2020**, o que teria acelerado o início da vacinação. As primeiras doses da Pfizer só chegaram ao país em abril/maio de 2021, após pressão de governadores e da opinião pública.\n\n**Fontes principais**:  \n- [Notícias ao Minuto](https://www.noticiasaominuto.com.br/brasil/1783682/brasil-negou-3-vezes-ofertas-da-pfizer-e-perdeu-ao-menos-3-milhoes-de-doses)  \n- [Senado Federal](https://www12.senado.leg.br/noticias/materias/2021/05/13/representante-da-pfizer-confirma-governo-nao-respondeu-ofertas-feitas-em-agosto-de-2020)  \n- [CNN Brasil](https://www.cnnbrasil.com.br/politica/carlos-murillo-confirma-que-brasil-ignorou-tres-ofertas-da-pfizer-por-vacinas/)",
+  "response_no_search": "Em 2020, o Ministério da Saúde do Brasil, sob a gestão do então ministro Eduardo Pazuello, **não fechou o acordo com a Pfizer** para a compra de vacinas contra a COVID-19, apesar de a empresa ter feito propostas ao governo brasileiro ainda em agosto e setembro daquele ano. A negociação só foi concluída em **março de 2021****, após meses de críticas públicas, pressão política e judicial, além do agravamento da pandemia no país.\n\n### Principais pontos do contexto:\n1. **Oferta inicial da Pfizer (20",
+  "error": null
+}

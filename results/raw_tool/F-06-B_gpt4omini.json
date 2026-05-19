@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2020/07/moraes-bloqueio_240720204911.pdf"
+    },
+    {
+      "title": "Liberdade de Expressão 2.0: a constitucionalidade dos casos de deplatforming no Inquérito das Fake News - Internet & Sociedade",
+      "url": "https://revista.internetlab.org.br/liberdade-de-expressao-2-0-a-constitucionalidade-dos-casos-de-deplatforming-no-inquerito-das-fake-news/"
+    },
+    {
+      "title": "28.07.2020 -InternetLab InternetLab",
+      "url": "https://internetlab.org.br/pt/itens-semanario/desinformacao-twitter-bloqueia-contas-apos-determinacao-do-stf-no-ambito-do-inquerito-das-fake-news/"
+    },
+    {
+      "title": "X afirma ter derrubado 223 contas por ordem de STF e TSE desde 2020",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2024/10/09/x-suspendeu-223-contas-por-ordem-do-stf-e-tse-desde-2020.htm"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2023/05/INQ-4781-GOOGLE.pdf"
+    }
+  ],
+  "response": "Sim, o Inquérito 4781, conhecido como o inquérito das fake news, resultou em ordens de bloqueio de contas em plataformas digitais. O Ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou o bloqueio de contas em redes sociais como Facebook, Twitter e Instagram de usuários investigados, com o objetivo de interromper a disseminação de discursos de ódio e informações fraudulentas.\n\nEm uma decisão de 26 de maio de 2020, Moraes fundamentou que o bloqueio era necessário para cessar a lesão a direitos e proteger as instituições do Estado de Direito. A ordem incluía a suspensão imediata das contas de vários investigados, e a não conformidade com essa determinação poderia resultar em multas diárias.\n\nApesar da ordem, houve relatos de que algumas contas continuaram ativas por um período, levando a novas intimações para que as plataformas cumprissem a decisão judicial. O Twitter, por exemplo, inicialmente alegou dificuldades em identificar quais contas deveriam ser bloqueadas, mas posteriormente cumpriu a ordem após receber uma lista específica de perfis a serem removidos.\n\nAlém disso, desde 2020, a rede social X (anteriormente Twitter) informou que cumpriu diversas ordens do STF, incluindo aquelas relacionadas ao Inquérito 4781, bloqueando contas de influenciadores e políticos envolvidos na disseminação de fake news e incitações golpistas.",
+  "response_no_search": "Sim, o inquérito das fake news, também conhecido como Inquérito 4781, resultou em ordens de bloqueio de contas em plataformas digitais. O inquérito, conduzido pelo Supremo Tribunal Federal (STF) do Brasil, teve como objetivo investigar a disseminação de notícias falsas e ataques a instituições democráticas. Como parte das medidas para combater a desinformação, o STF determinou o bloqueio de contas de usuários e perfis em redes sociais que estivessem envolvidos na propagação de conteúdos consider",
+  "error": null
+}

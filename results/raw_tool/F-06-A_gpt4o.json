@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Veja perfis citados em decisões de Alexandre Moraes divulgadas por deputados dos EUA e por que foram suspensos - Estadão",
+      "url": "https://www.estadao.com.br/politica/veja-perfis-citados-relatorio-alexandre-de-moraes-deputados-estados-unidos-eua-redes-sociais-x-twitter-stf-tse-nprp/"
+    },
+    {
+      "title": "Suspensão de perfis das redes por Moraes vira caixa-preta - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2024/06/suspensao-de-perfis-por-moraes-vira-caixa-preta-com-sigilo-e-exclusao-de-pf-e-pgr.shtml"
+    },
+    {
+      "title": "Em cinco anos, Alexandre de Moraes bloqueou 120 perfis nas ...",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/10/em-cinco-anos-alexandre-de-moraes-bloqueou-120-perfis-nas-redes-sociais.ghtml"
+    },
+    {
+      "title": "Aqui, alguns dos perfis já suspensos por Alexandre de Moraes nas redes sociais - Blog Dellas",
+      "url": "https://blogdellas.com.br/aqui-alguns-dos-perfis-ja-suspensos-por-alexandre-de-moraes-nas-redes-sociais/"
+    },
+    {
+      "title": "X obedece decisão de Moraes e suspende contas no Brasil",
+      "url": "https://www.gazetadopovo.com.br/republica/x-alexandre-moraes-suspende-contas-no-brasil-allan-dos-santos-paulo-figueiredo/"
+    }
+  ],
+  "response": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou a suspensão de perfis em redes sociais no Brasil. Essas suspensões foram parte de investigações sobre a disseminação de informações falsas, ataques a ministros do STF, e atos golpistas. Perfis de figuras públicas e influenciadores ligados ao bolsonarismo, como o senador Marcos do Val, a deputada federal Carla Zambelli, e os blogueiros Allan dos Santos e Monark, foram alvos dessas decisões. As ações de Moraes têm sido criticadas por falta de transparência, já que muitas decisões são mantidas em sigilo. As plataformas de redes sociais, como Twitter (agora X), Facebook, e Instagram, foram obrigadas a cumprir essas ordens judiciais.",
+  "response_no_search": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) do Brasil, tem sido ativo em ordenar a suspensão de perfis em redes sociais em várias ocasiões. Essas ações geralmente estão relacionadas a investigações sobre a disseminação de desinformação, discursos de ódio ou ataques às instituições democráticas. As decisões de Moraes têm gerado debates sobre a liberdade de expressão e o papel do judiciário na regulação do conteúdo online. É importante verificar as notícias mais recentes",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "question_id": "F-25-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies Romeu Zema as a member of Partido Novo and clearly distinguishes it from the Partido Liberal (PL), providing relevant historical context."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

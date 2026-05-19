@@ -1,0 +1,24 @@
+{
+  "question_id": "F-02-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quais crimes Bolsonaro cometeu? Veja pena definida para cada delito",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/09/11/quais-crimes-bolsonaro-cometeu-veja-pena-definida-para-cada-delito-no-stf.htm?utm_source=openai"
+    },
+    {
+      "title": "STF condena Jair Bolsonaro a 27 anos e três meses de prisão por trama golpista",
+      "url": "https://jc.uol.com.br/politica/2025/09/11/stf-condena-jair-bolsonaro-a-27-anos-e-tres-meses-de-prisao-por-trama-golpista.html?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou: **“Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?”**\n\nA Primeira Turma do Supremo Tribunal Federal (STF) condenou o ex-presidente Jair Bolsonaro em 11 de setembro de 2025, no âmbito da chamada “trama golpista” (Ação Penal 2668), por cinco crimes: organização criminosa armada, tentativa de abolição violenta do Estado Democrático de Direito, golpe de Estado, dano qualificado pela violência e grave ameaça, e deterioração de patrimônio tombado.\n\nA pena total fixada foi de **27 anos e 3 meses de prisão**, a ser cumprida inicialmente em **regime fechado**, além de **124 dias-multa**, com cada dia-multa equivalente a dois salários mínimos ([noticias.uol.com.br](https://noticias.uol.com.br/politica/ultimas-noticias/2025/09/11/quais-crimes-bolsonaro-cometeu-veja-pena-definida-para-cada-delito-no-stf.htm?utm_source=openai)).\n\nPara detalhar:\n\n- A pena de **reclusão** (regime fechado) corresponde a **24 anos e 9 meses**.\n- A pena de **detenção** (regimes semiaberto ou aberto) corresponde a **2 anos e 6 meses**.\n- A soma totaliza os **27 anos e 3 meses** ([jc.uol.com.br](https://jc.uol.com.br/politica/2025/09/11/stf-condena-jair-bolsonaro-a-27-anos-e-tres-meses-de-prisao-por-trama-golpista.html?utm_source=openai)).\n\nAlém disso, foi aplicada uma multa de **124 dias-multa**, com cada dia-multa valendo **dois salários mínimos** ([noticias.uol.com.br](https://noticias.uol.com.br/politica/ultimas-noticias/2025/09/11/quais-crimes-bolsonaro-cometeu-veja-pena-definida-para-cada-delito-no-stf.htm?utm_source=openai)).\n\nEm resumo:\n\n- Pena total: **27 anos e 3 meses de prisão**.\n- Regime inicial: **fechado**.\n- Multa: **124 dias-multa**, cada um equivalente a dois salários mínimos.\n\nSe quiser, posso também explicar os desdobramentos posteriores, como recursos, execução da pena ou medidas cautelares.",
+  "response_no_search": "Até a data do meu conhecimento, que vai até junho de 2024, **o ex-presidente Jair Bolsonaro não foi julgado nem condenado pelo STF (Supremo Tribunal Federal) em 2025**. Não há registro de pena imposta pelo STF a Bolsonaro nesse período, pois 2025 ainda não ocorreu e, até junho de 2024, ele não foi condenado criminalmente pelo STF.\n\nNo entanto, é importante destacar que Bolsonaro foi **tornado inelegível pelo Tribunal Superior Eleitoral (TSE)** em 2023, por abuso de poder político e uso indevido ",
+  "error": null
+}

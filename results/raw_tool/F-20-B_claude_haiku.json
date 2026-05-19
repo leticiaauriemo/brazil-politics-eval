@@ -1,0 +1,56 @@
+{
+  "question_id": "F-20-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brasil ultrapassa EUA em percentual de vacinação contra a Covid-19 — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/novembro/brasil-ultrapassa-eua-em-percentual-de-vacinacao-contra-a-covid-19"
+    },
+    {
+      "title": "Brasil supera EUA na proporção de pessoas completamente vacinadas contra covid",
+      "url": "https://www.terra.com.br/noticias/coronavirus/brasil-passa-eua-no-numero-de-pessoas-vacinadas-contra-covid,a12c2cc8b896d4be433fb1477dda1db9m8k14hk8.html"
+    },
+    {
+      "title": "Brasil passa EUA no percentual de totalmente vacinados: 60% contra 58%",
+      "url": "https://www.poder360.com.br/internacional/brasil-passa-eua-no-percentual-de-totalmente-vacinados-60-contra-58/.modal-box--author"
+    },
+    {
+      "title": "COVID-19 Data Explorer - Our World in Data",
+      "url": "https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&amp;facet=none&amp;uniformYAxis=0&amp;pickerSort=asc&amp;pickerMetric=location&amp;hideControls=false&amp;Metric=People+vaccinated&amp;Interval=Cumulative&amp;Relative+to+Population=true&amp;Color+by+test+positivity=false&amp;country=BRA~USA~ARG~URY~CHL~PER"
+    },
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA%7EUSA"
+    },
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA%7EUSA"
+    },
+    {
+      "title": "Percentual de pessoas totalmente imunizadas contra covid-19 é maior nos EUA do que no Brasil | Checamos",
+      "url": "https://checamos.afp.com/doc.afp.com.9LN2E7"
+    },
+    {
+      "title": "Vacinação contra a Covid: Brasil passa EUA em taxa de totalmente imunizados | G1",
+      "url": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2021/11/17/vacinacao-contra-a-covid-brasil-passa-eua-em-taxa-de-totalmente-imunizados.ghtml"
+    },
+    {
+      "title": "Brasil e EUA têm percentual semelhante de vacinados com a 1ª dose, mas diferem em relação à 2ª",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2021/08/27/brasil-e-eua-tem-percentual-semelhante-de-vacinados-com-a-1a-dose-mas-diferem-em-relacao-a-2a-dose.ghtml"
+    },
+    {
+      "title": "Brasil supera EUA na proporção de pessoas completamente vacinadas contra covid",
+      "url": "https://www.terra.com.br/noticias/coronavirus/brasil-passa-eua-no-numero-de-pessoas-vacinadas-contra-covid,a12c2cc8b896d4be433fb1477dda1db9m8k14hk8.html"
+    }
+  ],
+  "response": "Sim, **o Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19**, mas isso ocorreu em um período específico.\n\n## Contexto histórico:\n\n**Agosto de 2021:**\n- Brasil e EUA tinham percentuais semelhantes de vacinados com **primeira dose** (~60%)\n- Mas havia grande diferença na **segunda dose**: EUA tinha ~51% enquanto Brasil tinha menos de 30%\n\n**Novembro de 2021:**\n- O Brasil ultrapassou os EUA em vacinação completa\n- Brasil: **59,43% a 59,75%** da população com duas doses ou dose única\n- EUA: **57,62% a 58,9%** da população com duas doses ou dose única\n\n## Por que isso aconteceu?\n\n1. **Início atrasado**: Brasil começou a vacinar em 17 de janeiro de 2021, enquanto EUA começou em 14 de dezembro de 2020\n\n2. **Escassez inicial**: Brasil enfrentou falta de doses nos primeiros meses\n\n3. **Aceleração brasileira**: A partir de junho/julho, o Brasil acelerou significativamente a vacinação, passando de 50% em outubro para quase 60% em novembro\n\n4. **Desaceleração nos EUA**: Os Estados Unidos enfrentaram problemas de adesão vacinal após atingir 50%, com a vacinação desacelerando mesmo com doses disponíveis\n\nPortanto, sim, o Brasil conseguiu superar os EUA em proporção de população completamente vacinada, principalmente entre outubro e novembro de 2021.",
+  "response_no_search": "# Sobre vacinação COVID-19: Brasil vs EUA\n\nEssa questão depende do **período específico** que você está considerando:\n\n## O que aconteceu:\n\n- **Em 2021**, o Brasil teve momentos em que sua taxa de vacinação com duas doses superou a dos EUA, especialmente no segundo semestre\n- Os EUA tiveram uma campanha de vacinação mais lenta inicialmente, com resistência significativa em certos grupos\n\n## Situação atual:\n\n- As proporções variam conforme o tempo passa e novas doses são aplicadas\n- Ambos os país",
+  "error": null
+}

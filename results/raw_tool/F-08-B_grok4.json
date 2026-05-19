@@ -1,0 +1,32 @@
+{
+  "question_id": "F-08-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "prompt": "Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/onze-governadores-renunciam-para-disputar-eleicoes-de-outubro"
+    },
+    {
+      "title": "2",
+      "url": "https://www.youtube.com/watch?v=Jq_n3K7wdQQ"
+    },
+    {
+      "title": "3",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/01/22/tarcisio-diz-que-sera-candidato-a-reeleicao-em-sp-e-anuncia-visita-a-bolsonaro-para-prestar-apoio.ghtml"
+    },
+    {
+      "title": "4",
+      "url": "https://www.tse.jus.br/eleicoes/calendario-eleitoral"
+    }
+  ],
+  "response": "**Sim, Tarcísio de Freitas perdeu o prazo legal para se candidatar à Presidência em 2026.**[[1]](https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/onze-governadores-renunciam-para-disputar-eleicoes-de-outubro)\n\nNo Brasil, governadores que pretendem disputar outro cargo (como a Presidência) precisam renunciar ao mandato até a data limite de desincompatibilização, que para as eleições de 2026 foi **4 de abril de 2026**. Esse prazo já passou (a data atual é 19 de maio de 2026).[[2]](https://www.youtube.com/watch?v=Jq_n3K7wdQQ)\n\n- Tarcísio não renunciou ao governo de São Paulo e, portanto, está inelegível para concorrer à Presidência.\n- Ele confirmou publicamente que será candidato à **reeleição** no governo de SP e que apoia a pré-candidatura de Flávio Bolsonaro à Presidência.[[3]](https://g1.globo.com/sp/sao-paulo/noticia/2026/01/22/tarcisio-diz-que-sera-candidato-a-reeleicao-em-sp-e-anuncia-visita-a-bolsonaro-para-prestar-apoio.ghtml)\n- Governadores que buscam reeleição no mesmo cargo não precisam renunciar, o que é o caso dele.[[1]](https://agenciabrasil.ebc.com.br/politica/noticia/2026-04/onze-governadores-renunciam-para-disputar-eleicoes-de-outubro)\n\nAs convenções partidárias (20 de julho a 5 de agosto de 2026) ainda estão por vir, mas isso não muda o fato: sem a desincompatibilização no prazo, Tarcísio não pode ser escolhido como candidato a presidente.[[4]](https://www.tse.jus.br/eleicoes/calendario-eleitoral)\n\nResumo: ele optou pela reeleição em SP e perdeu a janela para disputar o Planalto em 2026.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

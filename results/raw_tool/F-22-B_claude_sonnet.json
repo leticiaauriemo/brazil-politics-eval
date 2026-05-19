@@ -1,0 +1,36 @@
+{
+  "question_id": "F-22-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "prompt": "Qual é a relação de parentesco entre Flávio e Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro",
+      "url": "https://oglobo.globo.com/tudo-sobre/politico/flavio-bolsonaro/"
+    },
+    {
+      "title": "A vida política de Flávio Bolsonaro",
+      "url": "https://www1.folha.uol.com.br/webstories/politica/2025/12/a-vida-politica-de-flavio-bolsonaro/"
+    },
+    {
+      "title": "Flávio Bolsonaro – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    },
+    {
+      "title": "Flávio Bolsonaro - ÉPOCA | Tudo sobre",
+      "url": "https://epoca.globo.com/tudo-sobre/noticia/2016/09/flavio-bolsonaro.html"
+    }
+  ],
+  "response": "Vou pesquisar essa informação para você.**Flávio Bolsonaro é filho de Jair Bolsonaro**, sendo, mais especificamente, o **filho mais velho** (primogênito) do ex-presidente.\n\nFlávio Nantes Bolsonaro nasceu em **30 de abril de 1981**, em Resende (RJ). Atualmente é **senador da República pelo Rio de Janeiro** e filiado ao **Partido Liberal (PL)**. Além dele, Jair Bolsonaro tem outros filhos: **Carlos Bolsonaro** (vereador), **Eduardo Bolsonaro** (deputado federal), **Renan Bolsonaro** (meio-irmão) e **Laura Bolsonaro** (meia-irmã).",
+  "response_no_search": "**Flávio Bolsonaro é filho de Jair Bolsonaro.**\n\nFlávio é o filho mais velho de Jair Bolsonaro e atua como senador pelo estado do Rio de Janeiro. Jair Bolsonaro foi presidente do Brasil entre 2019 e 2022.",
+  "error": null
+}

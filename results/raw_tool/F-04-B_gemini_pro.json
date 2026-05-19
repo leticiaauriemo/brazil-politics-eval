@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro ou Lula: em qual governo a taxa de desmatamento na Amazônia foi maior? - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-63290268"
+    },
+    {
+      "title": "Bolsonaro encerra governo com alta de 60% no desmate na Amazônia - Observatório do Clima",
+      "url": "https://www.oc.eco.br/bolsonaro-encerra-governo-com-alta-de-60-no-desmate-na-amazonia/"
+    },
+    {
+      "title": "Desmate na Amazônia cai 11% em um ano, mas alta na gestão Bolsonaro é de 59,5% - Estadão",
+      "url": "https://www.estadao.com.br/sustentabilidade/desmate-na-amazonia-cai-11-em-um-ano-mas-tem-alta-na-gestao-bolsonaro-e-de-595/"
+    },
+    {
+      "title": "Desmatamento na Amazônia cresceu 56,6% sob governo Bolsonaro - IPAM Amazônia",
+      "url": "https://ipam.org.br/desmatamento-na-amazonia-cresceu-566-sob-governo-bolsonaro/"
+    },
+    {
+      "title": "[PDF] O desmatamentro da Amazônia brasileira entre 1980 a 2021",
+      "url": "https://www.repositorio.ufal.br/bitstream/123456789/11297/1/O%20desmatamentro%20da%20Amaz%C3%B4nia%20brasileira%20entre%201980%20a%202021%20-%20%20uma%20releitura.pdf"
+    }
+  ],
+  "response": "Em termos de área total desmatada, o recorde do século 21 pertence aos primeiros anos do governo Lula. Em 2004, o desmatamento atingiu ",
+  "response_no_search": "Ótima pergunta. A resposta é um pouco complexa, pois depende de como analisamos os dados: se olhamos para os **picos anuais**, a **média por",
+  "error": null
+}

@@ -1,0 +1,35 @@
+{
+  "question_id": "F-21-C",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "prompt": "Por qual estado Flávio Bolsonaro foi eleito senador?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Flávio Bolsonaro (PSL) — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/01/18/flavio-bolsonaro-psl"
+    },
+    {
+      "title": "Flávio Bolsonaro e Arolde de Oliveira são eleitos pelo Rio de Janeiro",
+      "url": "https://www12.senado.leg.br/noticias/materias/2018/10/07/flavio-bolsonaro-e-arolde-de-oliveira-sao-eleitos-pelo-rio-de-janeiro"
+    },
+    {
+      "title": "A trajetória de Flávio Bolsonaro: de deputado mais jovem do Rio a senador sob suspeita - Jornal O Globo",
+      "url": "https://oglobo.globo.com/politica/a-trajetoria-de-flavio-bolsonaro-de-deputado-mais-jovem-do-rio-senador-sob-suspeita-23392525"
+    },
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www25.senado.leg.br/pt_BR/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "Candidato Flávio Bolsonaro | Eleições 2018 - Estadão",
+      "url": "https://www.estadao.com.br/politica/eleicoes/2018/candidatos/rj/senador/flavio-bolsonaro/177/"
+    }
+  ],
+  "response": "Flávio Bolsonaro foi eleito senador pelo estado do Rio de Janeiro. Ele obteve 31,3% dos votos válidos, totalizando mais de 4 milhões de votos, sendo o candidato mais votado na disputa por uma vaga ao Senado pelo Rio de Janeiro [senado.leg.br](https://www12.senado.leg.br/noticias/materias/2018/10/07/flavio-bolsonaro-e-arolde-de-oliveira-sao-eleitos-pelo-rio-de-janeiro).",
+  "response_no_search": "Flávio Bolsonaro foi eleito senador pelo estado do Rio de Janeiro.",
+  "error": null
+}

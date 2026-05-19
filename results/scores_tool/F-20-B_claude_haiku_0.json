@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Brazil surpassed the US in double-dose coverage but provides different dates and percentages than the ground truth, and omits the crucial role of SUS/PNI."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms that Brazil surpassed the US in vaccination rates but lacks specific data about the April 2022 figures and the role of SUS/PNI."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

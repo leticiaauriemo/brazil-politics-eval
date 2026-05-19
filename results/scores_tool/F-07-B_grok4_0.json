@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies both the refusal to comply with court orders and the lack of a legal representative in Brazil as key reasons for the suspension, along with the non-payment of fines."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains both key reasons for the suspension of X: refusal to comply with court orders and lack of a legal representative in Brazil."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

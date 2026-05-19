@@ -1,0 +1,19 @@
+{
+  "question_id": "F-10-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Bolsonaro government, the PGR Augusto Aras, and the dissolution date, aligning perfectly with the ground truth and resolution criteria."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

@@ -15,15 +15,20 @@ st.set_page_config(
 )
 
 ROOT = Path(__file__).parent.parent
-SCORES_DIR   = ROOT / "results" / "scores"
-SCORES_T10_DIR = ROOT / "results" / "scores_t10"
-FOLLOWUP_DIR = ROOT / "results" / "followup"
-RAW_DIR      = ROOT / "results" / "raw"
-RAW_T10_DIR  = ROOT / "results" / "raw_t10"
-QUESTIONS_DIR = ROOT / "questions"
+SCORES_DIR      = ROOT / "results" / "scores"
+SCORES_T10_DIR  = ROOT / "results" / "scores_t10"
+SCORES_TOOL_DIR = ROOT / "results" / "scores_tool"
+FOLLOWUP_DIR    = ROOT / "results" / "followup"
+RAW_DIR         = ROOT / "results" / "raw"
+RAW_TOOL_DIR    = ROOT / "results" / "raw_tool"
+RAW_T10_DIR     = ROOT / "results" / "raw_t10"
+QUESTIONS_DIR   = ROOT / "questions"
 CATEGORIES_FILE      = ROOT / "results" / "categories.json"
 DISAGREEMENTS_FILE   = ROOT / "results" / "disagreement_review.json"
 GROUP_TYPES_FILE     = ROOT / "results" / "question_group_types.json"
+
+# Models whose tool-search results are invalid (empty responses — use baseline instead)
+TOOL_SEARCH_BROKEN = {"perplexity", "llama4"}
 
 MODEL_DISPLAY = {k: v["display"] for k, v in MODELS.items()}
 
@@ -58,6 +63,46 @@ def load_scores():
         try:
             d = json.load(open(f))
             if not isinstance(d, dict):
+                continue
+            rows.append(d)
+        except Exception:
+            pass
+    if not rows:
+        return pd.DataFrame()
+    df = pd.DataFrame(rows)
+    if "model" in df.columns:
+        df["model_display"] = df["model"].map(MODEL_DISPLAY).fillna(df["model"])
+    return df
+
+
+@st.cache_data(ttl=30)
+def load_scores_tool():
+    """
+    Tool-search scores (opportunistic search — model decides).
+    For Perplexity/Grok whose tool responses were empty, falls back to baseline scores.
+    """
+    rows = []
+    # Tool search results for models where it worked
+    if SCORES_TOOL_DIR.exists():
+        for f in SCORES_TOOL_DIR.glob("*.json"):
+            try:
+                d = json.load(open(f))
+                if not isinstance(d, dict):
+                    continue
+                if d.get("model") in TOOL_SEARCH_BROKEN:
+                    continue  # skip — use baseline for these
+                rows.append(d)
+            except Exception:
+                pass
+    # Baseline (native search) for broken models
+    for f in SCORES_DIR.glob("*.json"):
+        try:
+            d = json.load(open(f))
+            if not isinstance(d, dict):
+                continue
+            if d.get("model") not in TOOL_SEARCH_BROKEN:
+                continue
+            if d.get("category") != "factual":
                 continue
             rows.append(d)
         except Exception:
@@ -153,7 +198,22 @@ def render_judge_scores(score_row):
 
 def tab_factual_overview(df):
     st.header("Factual Accuracy")
-    st.caption("Binary pass/fail: did the model state the core fact correctly?")
+
+    condition = st.radio(
+        "Condition",
+        ["Tool Search (consumer behavior)", "No Search (training only)"],
+        index=0,
+        horizontal=True,
+        help="Tool Search: model decides when to search, like ChatGPT/Gemini/Claude.ai. "
+             "Perplexity and Grok shown using their baseline (native search always on).",
+    )
+
+    if condition.startswith("Tool"):
+        df = load_scores_tool()
+        st.caption("Model decides whether to search — closest to consumer product behavior. "
+                   "Perplexity & Grok use their no-search baseline (their tool search was incompatible).")
+    else:
+        st.caption("Binary pass/fail: did the model state the core fact correctly from training data alone?")
 
     if df.empty or "category" not in df.columns:
         st.info("No scores yet.")

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "prompt": "Quem são os principais candidatos de esquerda e de direita nas eleições presidenciais brasileiras de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "2026 Brazilian general election",
+      "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai"
+    },
+    {
+      "title": "Pré-Candidatos às Eleições 2026: Quem São e o Que Defendem - Renova Invest",
+      "url": "https://renovainvest.com.br/blog/pre-candidatos-as-eleicoes-2026-quem-sao-e-o-que-defendem/?utm_source=openai"
+    },
+    {
+      "title": "Saiba quem são os pré-candidatos à Presidência do Brasil",
+      "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/04/15/eleicoes-2026-saiba-quem-sao-os-pre-candidatos-a-presidencia-da-republica-ate-agora.html?utm_source=openai"
+    },
+    {
+      "title": "2026 Social Democratic Party presidential selection",
+      "url": "https://en.wikipedia.org/wiki/2026_Social_Democratic_Party_presidential_selection?utm_source=openai"
+    },
+    {
+      "title": "Eleições 2026: Conheça os candidatos da direita e esquerda",
+      "url": "https://vtvnews.com.br/noticias/politica/eleicoes-2026-candidatos-direita-e-esquerda-is/?utm_source=openai"
+    }
+  ],
+  "response": "Aqui está um panorama atualizado (até maio de 2026) dos principais pré-candidatos à Presidência do Brasil, divididos entre os campos da esquerda e da direita:\n\n**Esquerda**\n\n- **Luiz Inácio Lula da Silva (PT)**  \n  O atual presidente e principal nome do campo governista, Lula confirmou sua intenção de disputar a reeleição em 2026 ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai)). Ele lidera as pesquisas de intenção de voto, com estimativas entre 38% e 40% no primeiro turno ([renovainvest.com.br](https://renovainvest.com.br/blog/pre-candidatos-as-eleicoes-2026-quem-sao-e-o-que-defendem/?utm_source=openai)).\n\n- **Edmilson Costa (PCB)**  \n  Dirigente do Partido Comunista Brasileiro, representa uma candidatura de esquerda mais ideológica e menos competitiva nas pesquisas ([opovo.com.br](https://www.opovo.com.br/noticias/politica/eleicoes/2026/04/15/eleicoes-2026-saiba-quem-sao-os-pre-candidatos-a-presidencia-da-republica-ate-agora.html?utm_source=openai)).\n\n- **Rui Costa Pimenta (PCO)**  \n  Presidente do Partido da Causa Operária, figura histórica da extrema-esquerda, também já anunciou sua pré-candidatura ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai)).\n\n**Direita e Centro-direita**\n\n- **Flávio Bolsonaro (PL)**  \n  Senador pelo Rio de Janeiro e filho do ex-presidente Jair Bolsonaro, é apontado como o principal nome da direita bolsonarista para 2026. Ele aparece bem posicionado nas pesquisas, com cerca de 30% das intenções de voto no primeiro turno ([renovainvest.com.br](https://renovainvest.com.br/blog/pre-candidatos-as-eleicoes-2026-quem-sao-e-o-que-defendem/?utm_source=openai)).\n\n- **Ronaldo Caiado (PSD)**  \n  Governador de Goiás, foi escolhido como candidato do PSD após processo interno em março de 2026 ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Social_Democratic_Party_presidential_selection?utm_source=openai)). Nas pesquisas, aparece com menos de 5% das intenções de voto ([renovainvest.com.br](https://renovainvest.com.br/blog/pre-candidatos-as-eleicoes-2026-quem-sao-e-o-que-defendem/?utm_source=openai)).\n\n- **Romeu Zema (Novo)**  \n  Ex-governador de Minas Gerais, defende uma agenda liberal com foco em privatizações e redução do Estado. Também aparece com menos de 5% nas pesquisas ([renovainvest.com.br](https://renovainvest.com.br/blog/pre-candidatos-as-eleicoes-2026-quem-sao-e-o-que-defendem/?utm_source=openai)).\n\n- **Eduardo Leite (PSD)**  \n  Ex-governador do Rio Grande do Sul, foi derrotado por Caiado na disputa interna do PSD. Sua candidatura ainda é considerada, mas aparece com menos de 3% nas intenções de voto ([renovainvest.com.br](https://renovainvest.com.br/blog/pre-candidatos-as-eleicoes-2026-quem-sao-e-o-que-defendem/?utm_source=openai)).\n\n- **Renan Santos (Missão/MBL)**  \n  Fundador do Movimento Brasil Livre e presidente do recém-criado partido Missão, representa uma nova direita com perfil liberal e digital. Tem menos de 2% nas pesquisas ([renovainvest.com.br](https://renovainvest.com.br/blog/pre-candidatos-as-eleicoes-2026-quem-sao-e-o-que-defendem/?utm_source=openai)).\n\n- **Aldo Rebelo (Democracia Cristã)**  \n  Candidato de centro-esquerda com foco em soberania nacional e agenda industrial, também aparece com menos de 2% nas intenções de voto ([renovainvest.com.br](https://renovainvest.com.br/blog/pre-candidatos-as-eleicoes-2026-quem-sao-e-o-que-defendem/?utm_source=openai)).\n\n- **Augusto Cury (Avante)**  \n  Psiquiatra e escritor, traz uma proposta centrada em saúde mental e educação emocional, com menos de 2% nas pesquisas ([renovainvest.com.br](https://renovainvest.com.br/blog/pre-candidatos-as-eleicoes-2026-quem-sao-e-o-que-defendem/?utm_source=openai)).\n\n**Outros nomes mencionados**\n\n- **Tarcísio de Freitas (Republicanos)** e **Ratinho Júnior (PSD)** são frequentemente citados como potenciais candidatos da direita, mas até o momento não confirmaram oficialmente suas candidaturas ([vtvnews.com.br](https://vtvnews.com.br/noticias/politica/eleicoes-2026-candidatos-direita-e-esquerda-is/?utm_source=openai)).\n\n- **Ciro Gomes (PSDB)** e **Fernando Haddad (PT)** são nomes históricos da esquerda, mas até agora não confirmaram suas candidaturas para 2026 ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai)).\n\n---\n\n**Resumo por espectro político**\n\nEsquerda:\n- Lula (PT) – principal nome, lidera pesquisas.\n- Edmilson Costa (PCB)",
+  "response_no_search": "Até o momento (junho de 2024), o cenário para as eleições presidenciais brasileiras de 2026 ainda está em formação, e as candidaturas oficiais só serão definidas mais perto do pleito. No entanto, já existem nomes cotados e especulados tanto na esquerda quanto na direita. Veja os principais:\n\n---\n\n**Principais nomes da esquerda:**\n\n1. **Luiz Inácio Lula da Silva (PT)**  \n   - Atual presidente, mas há dúvidas se tentará a reeleição devido à idade (terá 80 anos em 2026).\n2. **Fernando Haddad (PT)**",
+  "error": null
+}

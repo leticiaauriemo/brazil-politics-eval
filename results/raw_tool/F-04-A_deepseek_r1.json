@@ -1,0 +1,15 @@
+{
+  "question_id": "F-04-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "Para responder sua pergunta sobre as tendências de desmatamento na Amazônia durante o governo Bolsonaro (2019-2022), vou consultar fontes atualizadas usando a ferramenta de pesquisa. \n\nBanayderrfunction<｜tool▁sep｜>openrouter_web_search\n```json\n{\"query\": \"Amazon deforestation trends during Bolsonaro administration 2019-2022\"}\n```<｜tool▁call▁end｜><｜tool▁calls▁end｜>",
+  "response_no_search": "**O desmatamento na Amazônia Legal aumentou significativamente durante o governo Bolsonaro (2019–2022).** Dados oficiais do **INPE (Instituto Nacional de Pesquisas Espaciais)**, que monitora a floresta via satélite, confirmam essa tendência:  \n\n### Principais dados (PRODES/INPE - taxa anual consolidada):\n- **2018** (último ano completo antes de Bolsonaro): 7.536 km²  \n- **2019**: 10.129 km² (**+34%** em relação a 2018)  \n- **2020**: 10.851 km² (**+7%** em relação a 2019)  \n- ****2021**: 13.038 k",
+  "error": null
+}

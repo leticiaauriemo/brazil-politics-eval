@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Manifestantes invadem Congresso, Planalto e STF | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/manifestantes-invadem-congresso-planalto-e-stf"
+    },
+    {
+      "title": "Invasões aos Três Poderes: PGR determina abertura de inquérito | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/invasoes-aos-tres-poderes-pgr-determina-abertura-de-inquerito"
+    },
+    {
+      "title": "Golpistas invadem Congresso, STF e Palácio do Planalto; governo Lula intervém na segurança do DF - Estadão",
+      "url": "https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/"
+    },
+    {
+      "title": "Entenda o Caso — Ministério Público Federal",
+      "url": "https://www.mpf.mp.br/atuacao/grandes-casos/atos-antidemocraticos/entenda-o-caso-1"
+    },
+    {
+      "title": "Leia a cronologia dos desdobramentos do 8 de Janeiro",
+      "url": "https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/"
+    }
+  ],
+  "response": "Sim, os atos do 8 de janeiro de 2023 incluíram a invasão e depredação de prédios públicos federais em Brasília. Manifestantes apoiadores do ex-presidente Jair Bolsonaro, insatisfeitos com o resultado das eleições, invadiram e vandalizaram o Congresso Nacional, o Palácio do Planalto e o Supremo Tribunal Federal (STF). A invasão resultou em danos significativos aos prédios, incluindo a quebra de vidros, danos a móveis e a ocupação de plenários .",
+  "response_no_search": "Sim, os eventos de 8 de janeiro de 2023 no Brasil incluíram a invasão e depredação de prédios públicos federais. Nesse dia, milhares de apoiadores do ex-presidente Jair Bolsonaro, insatisfeitos com o resultado das eleições presidenciais de 2022, realizaram atos violentos em Brasília. Os manifestantes invadiram e depredaram o Palácio do Planalto, o Congresso Nacional e o Supremo Tribunal Federal (STF), causando danos significativos aos prédios e ao patrimônio público. Esses atos foram amplamente ",
+  "error": null
+}

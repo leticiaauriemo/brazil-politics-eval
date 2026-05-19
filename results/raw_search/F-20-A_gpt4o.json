@@ -1,0 +1,35 @@
+{
+  "question_id": "F-20-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA"
+    },
+    {
+      "title": "Mundo ultrapassa 10 bilhões de vacinas contra Covid aplicadas | G1",
+      "url": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/01/28/mundo-ultrapassa-10-bilhoes-de-vacinas-contra-covid-aplicadas.ghtml"
+    },
+    {
+      "title": "Brasil é o 6° país do mundo que mais vacinou a população contra a Covid-19 — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/marco/brasil-e-o-6deg-pais-do-mundo-que-mais-vacinou-a-populacao-contra-a-covid-19"
+    },
+    {
+      "title": "VACCINOMETER WORLD - Painel COVID-19 -> Estatisticas do Coronavirus - Coronavirus Statistics",
+      "url": "https://www.giscard.com.br/coronavirus/vaccination-doses-covid19-world.php"
+    },
+    {
+      "title": "Brasil é o quarto País que mais vacina contra Covid-19, mas 66º em ranking por 100 habitantes",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/geral/brasil-%C3%A9-o-quarto-pa%C3%ADs-que-mais-vacina-contra-covid-19-mas-66%C2%BA-em-ranking-por-100-habitantes-1.631865"
+    }
+  ],
+  "response": "Sim, o Brasil estava entre os países com o maior número total de doses de vacina contra a COVID-19 aplicadas no mundo. De acordo com os dados, o Brasil aplicou aproximadamente 358 milhões de doses, o que o coloca em quarto lugar no ranking global de doses administradas, atrás apenas da China, Índia e Estados Unidos [g1.globo.com](https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/01/28/mundo-ultrapassa-10-bilhoes-de-vacinas-contra-covid-aplicadas.ghtml). Além disso, o Brasil foi destacado como o sexto país que mais vacinou a população contra a COVID-19, segundo a plataforma Our World in Data [gov.br](https://www.gov.br/saude/pt-br/assuntos/noticias/2021/marco/brasil-e-o-6deg-pais-do-mundo-que-mais-vacinou-a-populacao-contra-a-covid-19).",
+  "response_no_search": "Sim, o Brasil esteve entre os países com o maior número total de doses de vacina contra a COVID-19 aplicadas. Desde o início da campanha de vacinação, o Brasil implementou um programa de vacinação em larga escala, dada a sua grande população e a necessidade urgente de controlar a pandemia. O país utilizou várias vacinas aprovadas e conseguiu vacinar uma parte significativa de sua população, o que o colocou entre os líderes mundiais em termos de doses administradas.",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the refusal to comply with court orders but omits the crucial detail about the lack of a legal representative in Brazil."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the refusal to comply with court orders but does not mention the lack of a legal representative in Brazil."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

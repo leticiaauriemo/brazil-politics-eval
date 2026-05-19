@@ -1,0 +1,25 @@
+{
+  "question_id": "F-21-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro as a Federal Senator for Rio de Janeiro, elected in 2018, and accurately states his current role and mandate."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a senator for Rio de Janeiro and mentions his election in 2018, but it inaccurately states his term ends in 2027 instead of 2026."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

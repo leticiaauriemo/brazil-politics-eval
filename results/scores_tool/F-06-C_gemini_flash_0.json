@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that a Supreme Court minister can individually order social media suspensions and mentions the controversy surrounding these actions, but it lacks specific details about the legal controversy and the real effects of such orders."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly explains that a single justice, Moraes, issued monocratic orders resulting in social media suspensions, acknowledges the legal controversy surrounding this practice, and notes its real effect."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

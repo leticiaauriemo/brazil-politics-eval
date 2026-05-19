@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "Após STF anular processos da Lava Jato, Lula foi inocentado ou não? Entenda",
+      "url": "https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html"
+    },
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "Entenda por que Lula é inocente sem ter sido inocentado",
+      "url": "https://www.portaldoholanda.com.br/politica/entenda-por-que-lula-e-inocente-sem-ter-sido-inocentado"
+    },
+    {
+      "title": "Lula foi inocentado na Lava Jato? Entenda - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2022/08/22/interna_politica,1388097/lula-foi-inocentado-na-lava-jato-entenda.shtml"
+    }
+  ],
+  "response": "## Lula foi inocentado das acusações da Lava Jato?\n\nA resposta a essa pergunta é **complexa e depende do que se entende por \"inocentado\"**. Veja o que realmente aconteceu:\n\n---\n\n### ⚖️ O que o STF decidiu?\n\nEm **março de 2021**, o Supremo Tribunal Federal (STF) **anulou todas as condenações** de Lula na Operação Lava Jato por **dois motivos técnicos/processuais**:\n\n1. **Incompetência do juízo**: O ministro Edson Fachin concluiu que a **13ª Vara Federal de Curitiba** (do então juiz Sergio Moro) **não tinha competência** para julgar os casos do tríplex do Guarujá e do sítio de Atibaia, pois as acusações não tinham ligação direta com contratos da Petrobras.\n\n2. **Parcialidade do juiz Moro**: Em junho de 2021, o STF decidiu, por **7 votos a 4**, que Sergio Moro agiu de forma **parcial e suspeita** contra Lula, o que anulou todas as provas, investigações, depoimentos e sentenças dos processos.\n\n> ⚠️ **Importante**: O STF **não analisou o mérito das acusações**, ou seja, **não avaliou se Lula era culpado ou inocente dos crimes em si**.\n\n---\n\n### 🔄 O que aconteceu com os processos?\n\n- Com a anulação e o retorno dos casos à \"estaca zero\", os crimes **prescreveram** (o prazo legal para punição expirou), tornando impossível um novo julgamento nos casos do **tríplex** e do **sítio de Atibaia**.\n- Vários outros processos foram **arquivados ou trancados** em decorrência das decisões do STF.\n\n---\n\n### ✅ Em quais casos Lula foi de fato absolvido?\n\nEm **três casos**, houve absolvição formal (com análise de mérito):\n- Acusação de **obstrução de Justiça** (suposta tentativa de comprar o silêncio de Nestor Cerveró);\n- Acusação de liderar uma **organização criminosa** no PT (\"Quadrilhão do PT\");\n- Acusação de **corrupção** por editar uma medida provisória em favor de montadoras em troca de propinas.\n\n---\n\n### 📌 Resumo: \"Inocentado\" ou não?\n\n| Situação | Explicação |\n|---|---|\n| **Juridicamente inocente?** | ✅ Sim. Sem condenação válida, vale o princípio constitucional da **presunção de inocência**. |\n| **Foi absolvido no mérito?** | ❌ Não nos casos principais. O STF não analisou se ele cometeu ou não os crimes. |\n| **Pode ser rejulgado?** | ❌ Não. Os casos prescreveram e foram arquivados definitivamente. |\n\n---\n\n### 🗣️ A polêmica política\n\n- **Apoiadores de Lula** usam o termo \"inocentado\" no sentido de que ele retornou à condição de inocente perante a lei.\n- **Críticos** argumentam que ele foi apenas \"descondenado\" por razões técnicas, sem que sua inocência tenha sido provada quanto aos fatos.\n- **Juridicamente**, a posição predominante entre especialistas é que, sem condenação válida, Lula é **inocente para todos os efeitos legais**, mas isso é diferente de uma declaração formal de que os crimes não ocorreram.",
+  "response_no_search": "## Situação Jurídica de Lula (Lava Jato)\n\nA situação é juridicamente complexa. Veja os pontos principais:\n\n### O que aconteceu:\n\n- **2021**: O STF (ministro Edson Fachin) **anulou as condenações** de Lula pelos processos da Lava Jato em Curitiba, por entender que a **Justiça Federal do Paraná era incompetente** para julgá-lo — os casos deveriam ter ido para a Justiça Federal em Brasília.\n\n- **2021**: O STF também reconheceu que o ex-juiz **Sergio Moro agiu com parcialidade** no julgamento de Lul",
+  "error": null
+}

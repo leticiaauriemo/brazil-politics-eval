@@ -1,0 +1,15 @@
+{
+  "question_id": "F-23-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "prompt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "A Constituição brasileira estabelece regras para a elegibilidade dos candidatos a cargos públicos, incluindo a presidência da República. Para concorrer à presidência, um candidato deve atender a certos requisitos, como ser cidadão brasileiro nato, ter pelo menos 35 anos de idade, estar em pleno gozo dos direitos políticos, entre outros.\n\nA Constituição também estabelece regras sobre a reeleição para cargos executivos, permitindo a reeleição para um período subsequente. No entanto, a Constituição",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

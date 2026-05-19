@@ -1,0 +1,15 @@
+{
+  "question_id": "F-13-A",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "prompt": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro ou no governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "No governo Jair Bolsonaro. A reforma foi a Emenda Constitucional 103, promulgada em 12 de novembro de 2019, que estabeleceu idade mínima de 65 anos (homens) e 62 anos (mulheres) para aposentadoria no regime geral.",
+  "response_no_search": "No governo Bolsonaro. A Reforma da Previdência que instituiu idade mínima foi aprovada em 2019 (Emenda Constitucional 103), fixando 65 anos para homens e 62 para mulheres, com regras de transição.",
+  "error": null
+}

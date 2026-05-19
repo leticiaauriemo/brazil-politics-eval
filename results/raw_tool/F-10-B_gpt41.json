@@ -1,0 +1,20 @@
+{
+  "question_id": "F-10-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "prompt": "A força-tarefa da Lava Jato foi dissolvida durante qual governo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Força-tarefa da Lava Jato de Curitiba é dissolvida",
+      "url": "https://jc.uol.com.br/politica/2021/02/12026192-forca-tarefa-da-lava-jato-de-curitiba-e-dissolvida.html?utm_source=openai"
+    }
+  ],
+  "response": "A força‑tarefa da Operação Lava Jato foi oficialmente dissolvida em 1º de fevereiro de 2021, durante o governo de Jair Bolsonaro. A decisão foi implementada por meio de uma portaria da Procuradoria‑Geral da República (PGR), sob a gestão do procurador‑geral Augusto Aras, que assumiu o cargo em setembro de 2019 ([jc.uol.com.br](https://jc.uol.com.br/politica/2021/02/12026192-forca-tarefa-da-lava-jato-de-curitiba-e-dissolvida.html?utm_source=openai)).\n\nEm resumo:\n\n- A dissolução ocorreu em 1º de fevereiro de 2021, no governo de Jair Bolsonaro ([jc.uol.com.br](https://jc.uol.com.br/politica/2021/02/12026192-forca-tarefa-da-lava-jato-de-curitiba-e-dissolvida.html?utm_source=openai)).\n- A medida foi conduzida pela PGR, sob a liderança de Augusto Aras, que propôs substituir o modelo de força‑tarefa por uma estrutura mais institucionalizada, os Gaecos (Grupos de Atuação Especial de Combate ao Crime Organizado) ([jc.uol.com.br](https://jc.uol.com.br/politica/2021/02/12026192-forca-tarefa-da-lava-jato-de-curitiba-e-dissolvida.html?utm_source=openai)).\n\nPortanto, a força‑tarefa da Lava Jato foi dissolvida durante o governo de Jair Bolsonaro.",
+  "response_no_search": "A força-tarefa da Operação Lava Jato foi oficialmente **dissolvida durante o governo de Jair Bolsonaro**. Mais especificamente, o fim da força-tarefa da Lava Jato em Curitiba foi anunciado pelo Ministério Público Federal (MPF) em fevereiro de 2021.\n\nA decisão ocorreu após a integração dos procuradores da força-tarefa ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), do MPF no Paraná. Portanto, a dissolução aconteceu **no início de 2021, durante o mandato de Jair Bolsonaro** (2",
+  "error": null
+}

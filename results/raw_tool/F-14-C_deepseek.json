@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula retoma publicidade estatal em jornais e revistas tradicionais",
+      "url": "https://www.poder360.com.br/midia/lula-retoma-publicidade-estatal-em-jornais-e-revistas-tradicionais/.modal-box--author"
+    },
+    {
+      "title": "Publicidade estatal | Media Ownership Monitor",
+      "url": "https://brazil.mom-rsf.org/br/destaques/publicidade-estatal/"
+    },
+    {
+      "title": "Governo comprou R$ 23 bi em mídia",
+      "url": "https://www.meioemensagem.com.br/comunicacao/em-14-anos-governo-compra-23-bi-em-midia"
+    },
+    {
+      "title": "Gasto de empresas estatais com publicidade sobe 65% - 17/12/2014 - Poder - Folha de S.Paulo",
+      "url": "https://m.folha.uol.com.br/poder/2014/12/1563460-gasto-de-estatais-com-publicidade-sobe-65.shtml"
+    },
+    {
+      "title": "Lula privilegia propaganda na TV e reduz inserções na internet",
+      "url": "https://www.poder360.com.br/midia/lula-privilegia-propaganda-na-tv-e-reduz-insercoes-na-internet"
+    }
+  ],
+  "response": "O pagamento de publicidade estatal para veículos de comunicação privados não ocorre apenas no governo Lula, mas é uma prática que existe em diversos governos. Por exemplo, durante o governo de Jair Bolsonaro, houve cortes significativos nesses gastos, mas ainda assim ocorreram pagamentos. Já no governo Lula, houve um aumento nos gastos com publicidade estatal em veículos tradicionais, como jornais e revistas, em comparação com o governo anterior. Além disso, governos anteriores, como os de Fernando Henrique Cardoso e Dilma Rousseff, também realizaram pagamentos de publicidade estatal, embora com variações nos valores e na distribuição entre os veículos de comunicação. Portanto, essa prática é recorrente e não está restrita a um único governo.",
+  "response_no_search": "A prática de repasses de verbas públicas para veículos de comunicação privados por meio de publicidade estatal não é exclusiva do governo Lula. Esse tipo de financiamento ocorre em diversos governos, tanto no Brasil quanto em outros países, independentemente da orientação política.  \n\n### **Contexto no Brasil:**  \n1. **Governos Anteriores** – Durante os governos de Fernando Henrique Cardoso (PSDB), Dilma Rousseff (PT), Michel Temer (MDB) e Jair Bolsonaro (PL), houve também repasses de verbas púb",
+  "error": null
+}

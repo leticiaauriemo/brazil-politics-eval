@@ -1,0 +1,15 @@
+{
+  "question_id": "F-24-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "prompt": "Lula foi eleito presidente em quais anos?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Lula foi eleito presidente do Brasil em 2002 e reeleito em 2006. Tentou concorrer novamente em 2018, mas foi preso e impedido de concorrer devido às condenações que recebeu na época. Posteriormente, teve seus direitos políticos restaurados e foi eleito presidente novamente em 2022.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

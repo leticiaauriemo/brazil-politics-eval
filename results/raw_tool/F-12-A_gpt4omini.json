@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "8 de janeiro de 2023 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 ...",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "8 de Janeiro: relembre atentado golpista que marcou a história política do Brasil | Política",
+      "url": "https://www.meionews.com/politica/8-de-janeiro-relembre-atentado-golpista-que-marcou-a-historia-politica-do-brasil-551724/slide/137871"
+    },
+    {
+      "title": "Relembre imagens que marcaram o 8 de janeiro de 2023 - CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/relembre-imagens-que-marcaram-o-8-de-janeiro-de-2023/"
+    },
+    {
+      "title": "atos de 8 de janeiro de 2023 | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/tags/atos-de-8-de-janeiro-de-2023"
+    }
+  ],
+  "response": "No dia 8 de janeiro de 2023, ocorreu um ataque significativo à democracia brasileira, quando apoiadores do ex-presidente Jair Bolsonaro invadiram as sedes dos Três Poderes em Brasília: o Congresso Nacional, o Supremo Tribunal Federal (STF) e o Palácio do Planalto. Este evento aconteceu uma semana após a posse do novo presidente, Luiz Inácio Lula da Silva.\n\nOs manifestantes depredaram e roubaram diversos bens, incluindo obras de arte, móveis, computadores e documentos. O prejuízo estimado para a restauração dos danos ultrapassou R$ 20 milhões. As forças de segurança, incluindo a Polícia Federal e Militar, foram mobilizadas para desocupar os prédios, utilizando sprays de pimenta e bombas de gás.\n\nO presidente Lula, em resposta aos eventos, afirmou que o ex-presidente Bolsonaro tinha responsabilidade pelo ocorrido, devido ao incentivo à invasão durante seu mandato. Em resposta aos atos, foi instaurada uma Comissão Parlamentar de Inquérito (CPI) para investigar os responsáveis.\n\nOs atos de 8 de janeiro foram considerados uma tentativa de golpe de Estado, refletindo a insatisfação de uma parte da população com o resultado das eleições de 2022. Desde então, várias pessoas foram condenadas por sua participação nos ataques, e o STF homologou acordos de não persecução penal que resultaram em ressarcimento aos cofres públicos.",
+  "response_no_search": "No dia 8 de janeiro de 2023, ocorreu uma invasão ao Palácio do Planalto, ao Congresso Nacional e ao Supremo Tribunal Federal (STF) em Brasília, por parte de apoiadores do ex-presidente Jair Bolsonaro. Esses manifestantes contestavam os resultados das eleições de 2022, nas quais Luiz Inácio Lula da Silva foi eleito presidente. A situação gerou uma grande repercussão nacional e internacional, resultando em condenações e ações de segurança por parte das autoridades. O governo federal e as forças de",
+  "error": null
+}

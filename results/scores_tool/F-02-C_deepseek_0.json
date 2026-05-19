@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro is currently in preventive detention and that the conviction has transited in judgment, while the ground truth indicates a future date for the final judgment and current house arrest."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the conviction is final but lacks specific details about the date and the nature of the revision criminal."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro as the strongest right-wing candidate and accurately notes that Tarcísio de Freitas chose not to run for president."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as the strongest right-wing candidate and notes that Tarcísio de Freitas opted for re-election instead of running for president."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

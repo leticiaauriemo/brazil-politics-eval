@@ -1,0 +1,15 @@
+{
+  "question_id": "F-07-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**O X (antigo Twitter) foi suspenso no Brasil de 30 de agosto a 8 de outubro de 2024 (por cerca de 38 dias), por ordem do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).**\n\n### Motivo Principal\nA suspensão foi determinada porque a plataforma, de propriedade de Elon Musk, **desobedeceu ordens judiciais repetidas**, fechou seu escritório no Brasil e **não nomeou um representante legal no país** dentro do prazo de 24 horas estipulado por Moraes. Isso violou a lei brasileira, que ex",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

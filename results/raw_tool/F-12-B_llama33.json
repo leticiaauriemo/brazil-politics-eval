@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Manifestantes invadem Congresso, Planalto e STF | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/manifestantes-invadem-congresso-planalto-e-stf"
+    },
+    {
+      "title": "",
+      "url": "https://www.cl.df.gov.br/documents/5744614/28876714/Notas_Taquigraficas_CPI_29_11_23_final_2.pdf/ab1cfe37-b30f-b526-0333-b947e87f1a64?t=1701881066921&version=1.1"
+    },
+    {
+      "title": "Invasões aos Três Poderes: PGR determina abertura de inquérito | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/invasoes-aos-tres-poderes-pgr-determina-abertura-de-inquerito"
+    },
+    {
+      "title": "Golpistas invadem Congresso, STF e Palácio do Planalto; governo Lula intervém na segurança do DF - Estadão",
+      "url": "https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/"
+    },
+    {
+      "title": "Ataques do 8/1 revelaram ódio ao STF, apontam especialistas | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2024-01/ataques-do-81-revelaram-odio-ao-stf-apontam-especialistas"
+    }
+  ],
+  "response": "Os atos do 8 de janeiro de 2023 incluíram a invasão e depredação de prédios públicos federais, incluindo o Congresso Nacional, o Palácio do Planalto e o Supremo Tribunal Federal (STF). Os manifestantes, apoiadores do ex-presidente Jair Bolsonaro, ocuparam os prédios, quebraram vidraças, entraram em gabinetes e depredaram obras de arte. Houve também cenas de vandalismo e destruição em outros locais da cidade. A polícia militar e outras forças de segurança foram chamadas para conter a situação, e mais de 400 pessoas foram presas em flagrante. O presidente Luiz Inácio Lula da Silva decretou intervenção federal na segurança pública do Distrito Federal, e o governo federal vai agir até o dia 31 de janeiro, com a intervenção passando pelo aval do Congresso.",
+  "response_no_search": "Sim, os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais no Brasil.",
+  "error": null
+}

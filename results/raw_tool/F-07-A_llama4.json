@@ -1,0 +1,15 @@
+{
+  "question_id": "F-07-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em agosto de 2024, após uma decisão do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes. A decisão foi motivada pela recusa da empresa em nomear um representante legal no país e cumprir com determinações da justiça brasileira relacionadas à moderação de conteúdo.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

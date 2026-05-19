@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "prompt": "O fundador do Banco Master está respondendo a processos criminais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Daniel Vorcaro, dono do Banco Master, é novamente preso em operação da PF | Finanças | Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2026/03/04/vorcaro-dono-do-banco-master-e-preso-em-nova-operacao-da-pf.ghtml"
+    },
+    {
+      "title": "Investigação revelou existência de organização criminosa no Banco Master, afirma Ministério Público Federal",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/01/15/investigacao-revelou-existencia-de-organizacao-criminosa-no-banco-master-afirma-ministerio-publico-federal.ghtml"
+    },
+    {
+      "title": "Banqueiro, pastor e empresários: quem são os principais alvos da PF no caso do Banco Master? | G1",
+      "url": "https://g1.globo.com/economia/noticia/2026/01/28/banqueiro-pastor-e-empresarios-quem-sao-os-principais-alvos-da-pf-no-caso-do-banco-master.ghtml"
+    },
+    {
+      "title": "Dono do Banco Master deve responder por crime de estelionato",
+      "url": "https://www.metropoles.com/colunas/andreza-matais/dono-do-master-deve-ser-enquadrado-como-estelionatario"
+    },
+    {
+      "title": "Caso Master: entenda a prisão de Vorcaro pela segunda vez",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/03/05/banco-master-entenda-o-caso-que-levou-a-prisao-de-daniel-vorcaro-pela-segunda-vez.html"
+    }
+  ],
+  "response": "Sim, Daniel Vorcaro, fundador do Banco Master, está respondendo a processos criminais em 2026. Ele foi preso novamente em uma operação da Polícia Federal em março de 2026, como parte da terceira fase da Operação Compliance Zero. As investigações apontam para a prática de crimes como ameaça, corrupção, lavagem de dinheiro e invasão de dispositivos informáticos, além de fraudes financeiras envolvendo a instituição .",
+  "response_no_search": "Como dezembro de 2023, não tenho informações sobre eventos que ocorrerão em 2026, incluindo qualquer processo criminal envolvendo o fundador do Banco Master. Minha capacidade de fornecer informações é limitada aos dados disponíveis até a data do meu último treinamento. Para informações atualizadas, recomendo consultar fontes de notícias confiáveis ou documentos oficiais relacionados ao caso.",
+  "error": null
+}

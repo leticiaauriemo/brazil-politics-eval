@@ -1,0 +1,35 @@
+{
+  "question_id": "F-01-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df/"
+    },
+    {
+      "title": "STF confirma anulação de condenações da Lava Jato contra Lula — entenda - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56768338"
+    },
+    {
+      "title": "Lula é inocente? O que significa ter as condenações anuladas pelo STF?",
+      "url": "https://noticias.uol.com.br/eleicoes/2022/10/28/lula-e-inocente-o-que-significa-ter-as-condenacoes-anuladas-pelo-stf.htm"
+    },
+    {
+      "title": "Fachin anula condenações de Lula na Lava Jato | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato"
+    },
+    {
+      "title": "Entenda por que não é juridicamente correto dizer que Lula foi inocentado pelo STF e pela ONU | Checamos",
+      "url": "https://checamos.afp.com/doc.afp.com.32JQ4VY"
+    }
+  ],
+  "response": "Não, as condenações de Lula não foram anuladas porque o Supremo Tribunal Federal (STF) concluiu que ele era inocente das acusações. A anulação ocorreu por questões processuais, especificamente pela incompetência da 13ª Vara Federal de Curitiba para julgar os casos [noticias.stf.jus.br](https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df), [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato).\n\nEm março de 2021, o ministro Edson Fachin, do STF, anulou todas as decisões tomadas pela 13ª Vara Federal de Curitiba nas ações penais contra Lula. A justificativa foi que os fatos apontados nos processos não tinham relação direta com o esquema de desvios na Petrobras, o que tornava a Vara de Curitiba incompetente para julgá-los [noticias.stf.jus.br](https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df), [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato). Essa decisão foi posteriormente confirmada pela maioria do STF [bbc.com](https://www.bbc.com/portuguese/brasil-56768338).\n\nComo consequência dessa anulação, as condenações nos casos do Triplex do Guarujá e do Sítio de Atibaia foram invalidadas, e os processos foram remetidos para a Justiça Federal do Distrito Federal para serem reiniciados [noticias.stf.jus.br](https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df), [bbc.com](https://www.bbc.com/portuguese/brasil-56768338), [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato).\n\nÉ importante notar que a decisão de Fachin e a posterior confirmação do STF não analisaram o mérito das acusações contra Lula, ou seja, não julgaram se ele cometeu ou não os crimes. A anulação se deu por um erro processual, que comprometeu o direito à defesa do ex-presidente ao ser julgado por uma jurisdição incorreta [uol.com.br](https://noticias.uol.com.br/eleicoes/2022/10/28/lula-e-inocente-o-que-significa-ter-as-condenacoes-anuladas-pelo-stf.htm), [checamos.afp.com](https://checamos.afp.com/doc.afp.com.32JQ4VY).\n\nPosteriormente, o STF também declarou a parcialidade do ex-juiz Sergio Moro ao julgar Lula no caso do Triplex do Guarujá, estendendo essa decisão a outros processos. Essa declaração de parcialidade invalidou as provas produzidas e os processos, levando-os de volta à estaca zero [uol.com.br](https://noticias.uol.com.br/eleicoes/2022/10/28/lula-e-inocente-o-que-significa-ter-as-condenacoes-anuladas-pelo-stf.htm), [checamos.afp.com](https://checamos.afp.com/doc.afp.com.32JQ4VY).\n\nJuridicamente, Lula voltou à condição de inocente porque, no regramento jurídico brasileiro, a presun",
+  "response_no_search": "Não, as condenações de Lula não foram anuladas porque o STF concluiu que ele era inocente. A anulação se",
+  "error": null
+}

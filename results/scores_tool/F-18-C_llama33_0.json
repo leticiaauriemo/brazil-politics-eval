@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Daniel Vorcaro was arrested by Operação Compliance Zero, but it incorrectly states the first arrest date and omits the influencer scheme."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the arrest of Daniel Vorcaro but provides an incorrect date for the first arrest and omits the detail about the influencer scheme."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

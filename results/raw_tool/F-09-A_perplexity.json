@@ -1,0 +1,15 @@
+{
+  "question_id": "F-09-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "prompt": "O governo Bolsonaro recusou ofertas de vacinas contra COVID-19 da Pfizer em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Yes, the Brazilian government under President Jair Bolsonaro rejected or ignored multiple offers from Pfizer for COVID-19 vaccines in 2020.**\n\n### Key Evidence from Sources\n- **Multiple Offers in August 2020**: Pfizer made three formal offers (August 14, 18, and 26) for 70 million doses each, with initial deliveries starting in December 2020 (e.g., 1.5 million doses by end of 2020 in later offers). The government did not respond within the 15-day deadlines, allowing them to expire without acce",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

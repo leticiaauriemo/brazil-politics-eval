@@ -1,0 +1,52 @@
+{
+  "question_id": "F-06-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-suspensao-do-x-antigo-twitter-em-todo-o-territorio-nacional-2/"
+    },
+    {
+      "title": "Moraes determina bloqueio imediato, completo e integral do X no Brasil",
+      "url": "https://cbn.globo.com/brasil/noticia/2024/08/30/moraes-determina-suspensao-do-x-no-brasil.ghtml"
+    },
+    {
+      "title": "Após novos ataques ao STF, Moraes suspende rede social e bloqueia até R$ 50 milhões de Marcos do Val",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/08/13/apos-novos-ataques-ao-stf-moraes-suspende-rede-social-e-bloqueia-ate-r-50-milhoes-de-marcos-do-val.ghtml"
+    },
+    {
+      "title": "Moraes determina bloqueio mundial de contas de bolsonaristas no Twitter e Facebook",
+      "url": "https://www.terra.com.br/noticias/tecnologia/moraes-pede-bloqueio-mundial-de-contas-no-twitter-e-facebook,c945d3197ac210d2ed9ef1cfeeaf2459ks3fef4n.html"
+    },
+    {
+      "title": "Moraes manda bloquear rede social e R$ 50 milhões do senador Marcos Do Val - Metro 1",
+      "url": "https://www.metro1.com.br/noticias/justica/154008,moraes-manda-bloquear-rede-social-e-rdollar-50-milhoes-do-senador-marcos-do-val"
+    },
+    {
+      "title": "Moraes dobra a aposta e ordena suspensão da rede social 'X' no Brasil; leia a íntegra da decisão com 51 páginas",
+      "url": "https://www.jb.com.br/brasil/justica/2024/08/1051757-moraes-dobra-a-aposta-e-ordena-suspensao-da-rede-social-x-no-brasil-leia-a-integra-da-decisao-com-51-paginas.html"
+    },
+    {
+      "title": "Leia a íntegra da decisão de Moraes para tirar o X do ar no Brasil",
+      "url": "https://www.poder360.com.br/poder-justica/leia-a-integra-da-decisao-de-moraes-para-tirar-o-x-do-ar-no-brasil/"
+    },
+    {
+      "title": "Moraes vota contra recursos do X para desbloquear perfis",
+      "url": "https://www.poder360.com.br/poder-justica/moraes-vota-contra-recursos-do-x-para-desbloquear-perfis/"
+    },
+    {
+      "title": "Entenda a decisão de Moraes que bloqueou o X no Brasil e quais os próximos passos",
+      "url": "https://www.otempo.com.br/politica/judiciario/2024/8/31/entenda-a-decisao-de-moraes-que-bloqueou-o-x-no-brasil-e-quais-o"
+    }
+  ],
+  "response": "Com base nas informações encontradas, posso responder sua pergunta:\n\n## Sim, um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais\n\n**Exemplos práticos:**\n\nO ministro **Alexandre de Moraes** tem exercido esse poder de forma recorrente:\n\n1. **Bloqueio de contas individuais**: Moraes determinou a suspensão de contas de diversos usuários, como:\n   - Senador Marcos do Val (Instagram)\n   - Blogueiro Allan dos Santos\n   - Senadora Sara Winter\n   - Presidente do PTB Roberto Jefferson\n   - Empresário Luciano Hang\n   - E muitos outros\n\n2. **Bloqueio de plataformas inteiras**: Em agosto de 2024, Moraes ordenou a suspensão completa do X (antigo Twitter) em todo o Brasil, determinando que a Anatel e operadoras de internet bloqueassem o acesso.\n\n## Como funciona:\n\n- O ministro atua como **relator** de investigações (como inquéritos sobre fake news ou atos antidemocráticos)\n- Emite decisões individuais que são executadas pela Anatel e operadoras de internet\n- Pode aplicar multas diárias para descumprimento\n- As decisões geralmente ocorrem no contexto de investigações criminais\n\n## Controvérsias:\n\nEssas ações têm gerado críticas sobre:\n- Concentração de poder em um único magistrado\n- Possíveis violações ao direito de defesa\n- Questões sobre liberdade de expressão\n- Recursos apresentados pelas plataformas contra essas decisões\n\nPortanto, embora tecnicamente possível, o exercício desse poder por um ministro individual tem sido bastante controverso no Brasil.",
+  "response_no_search": "# Poder Individual de Ministro do STF\n\n**Não, não pode fazer isso unilateralmente.**\n\n## O que a lei permite:\n\nUm ministro do STF pode **individualmente**:\n- Conceder liminares (medidas urgentes) em casos específicos\n- Ordenar bloqueios em situações excepcionais de segurança\n- Agir em caráter de urgência, mas com posterior apreciação pelo tribunal\n\n## Limitações importantes:\n\n- Decisões individuais podem ser **revistas pelo tribunal** (plenário ou órgão colegiado)\n- Devem respeitar o **devido pr",
+  "error": null
+}

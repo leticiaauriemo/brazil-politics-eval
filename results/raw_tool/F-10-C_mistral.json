@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fim da Lava Jato: o caminho que levou ao encerramento da força-tarefa",
+      "url": "https://www.gazetadopovo.com.br/republica/lava-jato-fim-forca-tarefa/"
+    },
+    {
+      "title": "MPF acaba com a força-tarefa da Lava Jato; investigação continua com estrutura reduzida",
+      "url": "http://www.gazetadopovo.com.br/republica/mpf-acaba-com-a-forca-tarefa-da-lava-jato-investigacao-continua-com-estrutura-reduzida/"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná é extinta após quase 6 anos",
+      "url": "https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato de Curitiba é dissolvida",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/for%C3%A7a-tarefa-da-lava-jato-de-curitiba-%C3%A9-dissolvida-1.565612"
+    },
+    {
+      "title": "MPF anuncia fim da for�a-tarefa da Opera��o Lava-Jato em Curitiba - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2021/02/03/interna_politica,1234786/mpf-anuncia-fim-da-forca-tarefa-da-operacao-lava-jato-em-curitiba.shtml"
+    }
+  ],
+  "response": "O encerramento da força-tarefa da Lava Jato em 2021 foi ordenado pelo Ministério Público Federal (MPF). A decisão de encerrar a força-tarefa foi tomada pelo próprio MPF, que informou que as investigações continuariam dentro do Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do MPF no Paraná, mas com uma estrutura reduzida .",
+  "response_no_search": "Em fevereiro de 2021, o procurador-geral da República, Augusto Aras, ordenou o encerramento da força-tarefa da Operação Lava Jato, que tinha sede em Curitiba. A decisão foi justificada pela necessidade de reestruturar e descentralizar as investigações, integrando-as às estruturas regionais da Procuradoria-Geral da República (PGR). A medida foi controversa e gerou debates sobre as razões e implicações do encerramento da força-tarefa, que havia sido responsável por grandes avanços na luta contra a",
+  "error": null
+}

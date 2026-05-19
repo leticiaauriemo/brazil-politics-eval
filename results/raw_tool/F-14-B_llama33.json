@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "L15321",
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15321.htm"
+    },
+    {
+      "title": "Decreto n� 6246",
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6246.htm"
+    },
+    {
+      "title": "Governo e TCU dizem que publicidade federal segue normas legais",
+      "url": "https://www.camara.leg.br/noticias/224406-governo-e-tcu-dizem-que-publicidade-federal-segue-normas-legais"
+    },
+    {
+      "title": "Entenda como funciona a publicidade no Governo Federal",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/publicidade"
+    },
+    {
+      "title": "Lei 12.232/2010: Regras e Limites da Publicidade Governamental - Legale Educacional",
+      "url": "https://legale.com.br/blog/lei-12-232-2010-regras-e-limites-da-publicidade-governamental/"
+    }
+  ],
+  "response": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo? Sim, é legal, desde que seja feito de acordo com as regras e limites estabelecidos pela Lei nº 12.232/2010, que regula a contratação de serviços de publicidade pela administração pública. A lei exige que as contratações sejam precedidas de licitação do tipo “técnica e preço” e que os serviços sejam prestados por meio de agências de propaganda. Além disso, a lei impõe restrições ao uso de publicidade governamental para fins eleitorais e exige transparência e controle sobre os gastos com publicidade oficial.",
+  "response_no_search": "A legalidade da prática do governo federal pagar publicidade para emissoras de TV privadas, como a Globo, no Brasil, é um tema complexo e depende de vários fatores, incluindo a legislação vigente, a transparência e a isenção na alocação dos recursos públicos. No Brasil, a publicidade governamental é uma ferramenta importante para a comunicação oficial do governo com a população, visando informar sobre políticas públicas, programas e serviços oferecidos.\n\nA Constituição Federal de 1988 e leis esp",
+  "error": null
+}

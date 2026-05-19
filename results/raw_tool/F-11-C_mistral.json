@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "As principais inconstitucionalidades do impeachment de 2016 - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/artigos/100153/as-principais-inconstitucionalidades-do-impeachment-de-2016"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acoes-contra-rito-de-impeachment-da-ex-presidente-dilma-rousseff/"
+    },
+    {
+      "title": "Alexandre rejeita recursos de Dilma contra processo de impeachment - Estadão",
+      "url": "https://www.estadao.com.br/politica/fausto-macedo/alexandre-rejeita-recursos-de-dilma-contra-processo-de-impeachment/"
+    },
+    {
+      "title": "Luis Regules: Não há fato jurídico concreto que justifique impeachment",
+      "url": "https://www.conjur.com.br/2016-mai-01/luis-regules-nao-fato-juridico-concreto-justifique-impeachment/"
+    },
+    {
+      "title": "STF rejeita ações contra rito de impeachment de Dilma Rousseff",
+      "url": "https://www.conjur.com.br/2023-set-26/stf-rejeita-acoes-rito-impeachment-dilma-rousseff/"
+    }
+  ],
+  "response": "Os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional. O Supremo Tribunal Federal (STF) rejeitou várias ações que questionavam o rito do impeachment, incluindo mandados de segurança apresentados por partidos políticos e ex-senadores. Essas ações argumentavam que a Lei do Impeachment (Lei 1079/1950) foi aplicada de forma inadequada, especialmente em relação à separação das votações para a perda do cargo e a perda de direitos políticos.\n\nA ministra Rosa Weber, presidente do STF, destacou que o mandado de segurança exige a demonstração de direito líquido e certo para fundamentar a intervenção judicial nos trabalhos legislativos, o que não ocorreu no caso. Além disso, a ministra ressaltou a inviabilidade de repetir as votações ou substituir judicialmente o mérito da decisão política tomada pelo Senado Federal .\n\nO ministro Alexandre de Moraes também rejeitou recursos apresentados pela ex-presidente Dilma Rousseff contra o processo de impeachment, afirmando que não havia provas de desvio de finalidade na conduta de Eduardo Cunha, nem erros de procedimento na análise das arguições ou na formulação dos quesitos .\n\nPortanto, até o momento, não há decisão judicial que tenha declarado o impeachment de Dilma Rousseff inconstitucional.",
+  "response_no_search": "Não, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional. O processo de impeachment de Dilma Rousseff, que foi presidenta do Brasil, foi conduzido de acordo com os procedimentos estabelecidos pela Constituição Federal e foi concluído com a sua destituição em agosto de 2016. O impeachment foi baseado em acusações de crimes de responsabilidade, especificamente relacionados a supostas irregularidades fiscais cometidas durante o seu mandato.\n\nO processo foi aprov",
+  "error": null
+}

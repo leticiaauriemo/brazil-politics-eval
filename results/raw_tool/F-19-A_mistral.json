@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "prompt": "Quem são os principais candidatos à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quem são os pré-candidatos à Presidência da República em 2026 | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/31/quem-sao-os-pre-candidatos-a-presidencia-da-republica-2026.ghtml"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Veja quem são os 11 pré-candidatos a presidente - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "Eleição para presidente: quem está na corrida e quem já caiu fora",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/"
+    },
+    {
+      "title": "Eleições 2026: quem são os seis pré-candidatos à Presidência da República até agora – Noticias R7",
+      "url": "https://noticias.r7.com/eleicoes/2026/eleicoes-2026-quem-sao-os-seis-pre-candidatos-a-presidencia-da-republica-31032026/"
+    }
+  ],
+  "response": "Até o momento, os principais pré-candidatos à presidência nas eleições de 2026 são:\n\n1. **Luiz Inácio Lula da Silva (PT)** - O atual presidente busca a reeleição e lidera as intenções de voto nas pesquisas mais recentes.\n2. **Flávio Bolsonaro (PL)** - Filho do ex-presidente Jair Bolsonaro, Flávio é o principal adversário de Lula, segundo as pesquisas.\n3. **Ronaldo Caiado (PSD)** - Ex-governador de Goiás, conhecido por suas posições conservadoras e defesa do agronegócio.\n4. **Romeu Zema (Novo)** - Ex-governador de Minas Gerais, lançou sua pré-candidatura em agosto de 2025.\n5. **Aldo Rebelo (DC)** - Ex-ministro e conhecido por sua volatilidade política, agora filiado ao Democracia Cristã.\n6. **Renan Santos (Missão)** - Fundador do Movimento Brasil Livre (MBL) e presidente do recém-fundado Partido Missão.\n7. **Cabo Daciolo (Mobiliza)** - Ex-deputado federal e pastor evangélico, que surpreendeu na eleição de 2018.\n8. **Augusto Cury (Avante)** - Psiquiatra e autor de best-sellers, lançou sua pré-candidatura em abril de 2026.\n9. **Hertz Dias (PSTU)** - Professor de história e candidato ao governo do Maranhão em 2022.\n10. **Samara Martins (UP)** - Lançada pelo Partido Unidade Popular em fevereiro de 2026.\n11. **Rui Costa Pimenta (PCO)** - Fundador do PCO e já disputou diversos cargos políticos.\n12. **Edmilson Costa (PCB)** - Doutor em Economia pela Unicamp e autor do livro \"Reflexões sobre a crise brasileira\" .\n\nEsses são os nomes que se destacam até o momento, mas a lista de candidatos pode sofrer alterações até o prazo final de registro em agosto de 2026.",
+  "response_no_search": "Até o momento, não há informações específicas sobre os principais candidatos à presidência nas eleições de 2026, pois ainda estamos em outubro de 2023. As campanhas eleitorais geralmente começam a ganhar mais forma e clareza à medida que a data das eleições se aproxima. Além disso, a situação política pode mudar significativamente em um curto período de tempo, influenciada por eventos nacionais e internacionais, mudanças na economia, e outros fatores.\n\nPara obter informações atualizadas sobre os",
+  "error": null
+}

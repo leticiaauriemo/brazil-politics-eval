@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo não aceitou propostas que previam 1,5 milhão de doses ...",
+      "url": "https://g1.globo.com/politica/noticia/2021/05/13/governo-federal-nao-aceitou-propostas-que-previam-15-milhao-de-doses-de-vacina-ainda-em-2020-diz-pfizer.ghtml"
+    },
+    {
+      "title": "Pfizer diz ter oferecido 70 milhões de doses de vacina a governo brasileiro para entrega a partir de dezembro de 2020 | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2021/01/08/pfizer-diz-ter-oferecido-70-milhoes-de-doses-de-vacina-a-governo-brasileiro-para-entrega-em-dezembro-de-2020.ghtml"
+    },
+    {
+      "title": "Vacina contra covid no Brasil: Pfizer diz que fez oferta em agosto",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/01/08/vacina-pfizer-coronavirus-covid-19-pazuello.htm"
+    },
+    {
+      "title": "Pfizer: Se acordo fosse selado, Brasil teria mais 8 mi vacinados",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/05/20/vacinas-pfizer-projecao-brasil.htm"
+    },
+    {
+      "title": "Pfizer oferece ao Brasil milhões de doses de vacina",
+      "url": "https://www.dw.com/pt-br/pfizer-oferece-ao-brasil-milh%C3%B5es-de-doses-de-vacina-contra-covid-19/a-55661327"
+    }
+  ],
+  "response": "O governo federal do Brasil não aceitou as ofertas da Pfizer para a compra de vacinas contra a COVID-19 em 2020. Segundo Carlos Murillo, executivo da Pfizer, a empresa fez várias propostas ao governo brasileiro, incluindo uma que previa a entrega de 1,5 milhão de doses ainda em 2020, mas essas ofertas não foram respondidas. O Brasil só firmou um contrato com a Pfizer em 19 de março de 2021, quando a pandemia já estava em um estado crítico.\n\nAs propostas feitas pela Pfizer incluíam a entrega de 70 milhões de doses, com um cronograma que previa a entrega de 500 mil doses ainda em 2020 e 1,5 milhão no primeiro trimestre de 2021. No entanto, o governo brasileiro não aceitou essas ofertas, e a Pfizer continuou a buscar um acordo até que finalmente foi assinado em março de 2021.\n\nPara mais detalhes, você pode ler a matéria completa [aqui](https://g1.globo.com/politica/noticia/2021/05/13/governo-federal-nao-aceitou-propostas-que-previam-15-milhao-de-doses-de-vacina-ainda-em-2020-diz-pfizer.ghtml).",
+  "response_no_search": "Em 2020, a Pfizer realmente ofereceu vacinas contra a COVID-19 ao Brasil, mas o governo federal não aceitou a oferta imediatamente. As negociações entre a Pfizer e o governo brasileiro enfrentaram dificuldades, incluindo questões contratuais e exigências de responsabilidade. O Brasil acabou firmando um contrato com a Pfizer em março de 2021, mas a oferta inicial em 2020 não foi aceita na época. Essa situação gerou críticas e debates sobre a gestão da pandemia e a aquisição de vacinas no país.",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-01-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "O Supremo Tribunal Federal (STF) não declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba. O que o STF fez foi decidir sobre questões processuais relacionadas às condenações de Lula proferidas pelo juiz Sergio Moro e pelo Tribunal Regional Federal da 4ª Região (TRF4), sediado em Curitiba.\n\nA principal decisão do STF nesse contexto foi a de que o juiz Sergio Moro era suspeito para julgar Lula, o que levou à anulação das condenações proferidas por ele. Essa decisão foi baseada n",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

@@ -1,0 +1,24 @@
+{
+  "question_id": "F-15-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em território Yanomami — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami?utm_source=openai"
+    },
+    {
+      "title": "Proteção e construção de um novo futuro marcam os três anos da Emergência Yanomami — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/01/protecao-e-construcao-de-um-novo-futuro-marcam-os-tres-anos-da-emergencia-yanomami?utm_source=openai"
+    }
+  ],
+  "response": "O governo brasileiro declarou **Emergência em Saúde Pública de Importância Nacional (ESPIN)** no território Yanomami no ano de **2023**. A portaria que formalizou essa declaração — a **Portaria GM/MS nº 28** — foi publicada em **20 de janeiro de 2023** no Diário Oficial da União, assinada pela então ministra da Saúde, **Nísia Trindade** ([gov.br](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami?utm_source=openai)).\n\nAlém disso, o presidente Luiz Inácio Lula da Silva, após visitar Roraima, reconheceu a crise humanitária enfrentada pelo povo Yanomami e decretou a emergência em saúde pública no mesmo dia, **20 de janeiro de 2023** ([gov.br](https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/01/protecao-e-construcao-de-um-novo-futuro-marcam-os-tres-anos-da-emergencia-yanomami?utm_source=openai)).\n\nPortanto, a resposta à sua pergunta é:\n\nAno da declaração de emergência de saúde pública na Terra Yanomami: **2023** (especificamente em **20 de janeiro de 2023**).",
+  "response_no_search": "O governo brasileiro declarou **emergência de saúde pública na terra Yanomami em janeiro de 2023**. A medida foi tomada devido à grave crise humanitária enfrentada pelo povo Yanomami, causada por desnutrição, doenças e impactos do garimpo ilegal na região.",
+  "error": null
+}

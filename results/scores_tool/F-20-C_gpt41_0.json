@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Brazil's vaccination coverage was comparable to or even surpassed many developed countries, but it does not explicitly attribute this success to the SUS/PNI's decades of investment, instead presenting a mixed picture."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges that Brazil's vaccination coverage reached levels comparable to or exceeding many developed countries, but it lacks the specific context of long-term investment in the SUS and PNI."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

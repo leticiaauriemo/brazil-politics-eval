@@ -1,0 +1,35 @@
+{
+  "question_id": "F-10-B",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "prompt": "A força-tarefa da Lava Jato foi dissolvida durante qual governo?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Ministério Público anuncia que força-tarefa da Lava Jato de Curitiba está dissolvida - Tribuna do Norte",
+      "url": "https://tribunadonorte.com.br/politica/ministerio-publico-anuncia-que-forca-tarefa-da-lava-jato-de-curitiba-esta-dissolvida/"
+    },
+    {
+      "title": "Lava Jato sai de cena sob um Brasil em silêncio | Atualidade | EL PAÍS Brasil",
+      "url": "https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná é extinta após quase 6 anos",
+      "url": "https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html"
+    },
+    {
+      "title": "PF acaba com grupo de trabalho da Lava Jato em Curitiba\n - ÉPOCA | Expresso",
+      "url": "https://epoca.globo.com/politica/expresso/noticia/2017/07/direcao-da-pf-acaba-com-grupo-de-trabalho-da-lava-jato-em-curitiba.html"
+    },
+    {
+      "title": "O fim súbito da força-tarefa da Lava Jato",
+      "url": "https://www.dw.com/pt-br/o-fim-s%C3%BAbito-da-for%C3%A7a-tarefa-da-lava-jato/a-39591410"
+    }
+  ],
+  "response": "A força-tarefa da Lava Jato foi dissolvida durante o governo de Jair Bolsonaro. A decisão de dissolver a operação foi formalizada pela Procuradoria-Geral da República (PGR) em dezembro de 2020, e a força-tarefa deixou de existir oficialmente em 1º de fevereiro de 2021. Augusto Aras, indicado por Bolsonaro para a PGR, foi um crítico da Lava Jato e desempenhou um papel significativo na dissolução da força-tarefa [tribunadonorte.com.br](https://tribunadonorte.com.br/politica/ministerio-publico-anuncia-que-forca-tarefa-da-lava-jato-de-curitiba-esta-dissolvida/) [brasil.elpais.com](https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html).",
+  "response_no_search": "A força-tarefa da Lava Jato foi oficialmente dissolvida em fevereiro de 2021, durante o governo do presidente Jair Bolsonaro.",
+  "error": null
+}

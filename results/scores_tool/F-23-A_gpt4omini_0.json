@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Lula can run for re-election but fails to explain the constitutional basis for this, focusing instead on his stated intentions and political considerations."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not address the core factual claim about Lula's eligibility for re-election based on the Brazilian Constitution's rules on consecutive terms."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

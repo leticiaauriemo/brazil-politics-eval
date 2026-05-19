@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Covid-19: Brasil assina memorando com Pfizer, afirma Ministério | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-12/covid-19-brasil-assina-memorando-com-pfizer-afirma-ministerio"
+    },
+    {
+      "title": "Ministério assina intenção de compra de doses da vacina da Pfizer e diz que Butantan está na 'mesma condição' | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2020/12/10/ministerio-diz-ter-assinado-intencao-de-compra-de-70-milhoes-de-doses-de-vacina-da-pfizer.ghtml"
+    },
+    {
+      "title": "Ministério confirma memorando com a Pfizer para aquisição de 70 milhões de doses da vacina - Estadão",
+      "url": "http://saude.estadao.com.br/noticias/geral,ministerio-confirma-memorando-com-a-pfizer-para-aquisicao-de-70-milhoes-de-doses-da-vacina,70003547879"
+    },
+    {
+      "title": "Governo negocia compra de 70 milhões de doses de vacina da Pfizer, diz Ministério da Saúde | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2020/12/07/vacina-contra-covid-ministerio-da-saude-diz-que-deve-assinar-nesta-semana-intencao-de-compra-de-70-milhoes-de-doses.ghtml"
+    },
+    {
+      "title": "Ministério da Saúde já assinou memorando para compra de vacina da Pfizer",
+      "url": "https://www.correiobraziliense.com.br/brasil/2020/12/4894237-ministerio-da-saude-ja-assinou-memorando-para-compra-de-vacina-da-pfizer.html"
+    }
+  ],
+  "response": "O Ministério da Saúde do Brasil assinou um memorando de intenções com a Pfizer em 10 de dezembro de 2020, para a compra de 70 milhões de doses da vacina contra a COVID-19. O acordo previa a entrega de 8,5 milhões de doses no primeiro semestre de 2021 e 61,5 milhões no segundo semestre. No entanto, a Pfizer ainda não havia solicitado o registro ou autorização emergencial junto à Anvisa na época da assinatura do memorando.\n\nO secretário-executivo do Ministério, Élcio Franco, destacou que a vacinação poderia começar em dezembro de 2020, dependendo da autorização da Anvisa e da disponibilidade das doses. O valor do contrato não foi divulgado devido a uma cláusula de confidencialidade.\n\nPara mais detalhes, você pode acessar as fontes:\n- [Agência Brasil](https://agenciabrasil.ebc.com.br/saude/noticia/2020-12/covid-19-brasil-assina-memorando-com-pfizer-afirma-ministerio)\n- [G1](https://g1.globo.com/bemestar/vacina/noticia/2020/12/10/ministerio-diz-ter-assinado-intencao-de-compra-de-70-milhoes-de-doses-de-vacina-da-pfizer.ghtml)",
+  "response_no_search": "O Ministério da Saúde do Brasil começou as negociações para a compra das vacinas da Pfizer em 2020, mas o contrato final para a aquisição das vacinas foi assinado em março de 2021. A Pfizer havia oferecido suas vacinas ao Brasil em 2020, mas as negociações enfrentaram diversos obstáculos e atrasos, incluindo questões contratuais e de responsabilidade. A vacina da Pfizer-BioNTech foi uma das primeiras a ser autorizada para uso emergencial no Brasil, e a vacinação começou em janeiro de 2021.",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "prompt": "A Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Sob Lula, Globo volta a liderar publicidade do governo - 24/07/2023 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2023/07/globo-desbanca-record-e-sob-lula-volta-a-liderar-verbas-de-publicidade-do-governo.shtml"
+    },
+    {
+      "title": "Governo Lula destina R$ 177,2 mi em publicidade para Globo em 2023 e 2024",
+      "url": "https://guiadoinvestidor.com.br/noticias/governo-lula-destina-r-1772-mi-em-publicidade-para-globo-em-2023-e-2024/"
+    },
+    {
+      "title": "\"Globo\" recebeu 49% da verba de publicidade de Lula na TV",
+      "url": "https://www.poder360.com.br/poder-midia/globo-recebeu-49-da-verba-de-publicidade-de-lula-na-tv/"
+    },
+    {
+      "title": "CdB | Esquema de publicidade do governo aumenta a verba da Globo",
+      "url": "https://correiodobrasil.com.br/a/esquema-publicidade-governo-aumenta-verba-globo"
+    },
+    {
+      "title": "Folha do Estado | Governo Lula investe 62,5% de verba publicitária à Rede Globo",
+      "url": "https://www.folhadoestado.com.br/brasil/governo-lula-investe-625-de-verba-publicitaria-a-rede-globo/593882"
+    }
+  ],
+  "response": "Sim, a Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro.\n\nSob o governo Lula, o Grupo Globo retomou a liderança na publicidade do governo federal. Em 2023, veículos de mídia da Globo receberam ao menos R$ 54,4 milhões em propagandas da Secretaria de Comunicação Social (Secom) da Presidência da República e de ministérios. Em 2023 e 2024, a Globo recebeu R$ 177,2 milhões em publicidade do governo Lula, superando os R$ 177 milhões destinados à emissora durante a gestão Bolsonaro (2019-2022).\n\nEm 2023, a Globo recebeu 62,5% do valor destinado às emissoras de televisão pelo governo Lula até outubro, totalizando R$ 66,1 milhões. Em comparação, a TV Record recebeu R$ 16,4 milhões e o SBT obteve R$ 13,3 milhões no mesmo período.\n\nOs dados mostram que a Globo tem sido a principal beneficiária das verbas publicitárias governamentais, consolidando sua posição de liderança no setor de mídia televisiva.",
+  "response_no_search": "Sim, a Rede Globo, assim como outras emissoras de televisão, jornais, rádios e portais de notícias, recebe verbas de publicidade do governo federal brasileiro.\n\nEssa prática é comum e faz parte da estratégia de comunicação de qualquer governo para divulgar suas ações, programas, campanhas de utilidade pública (saúde, educação, etc.) e informações relevantes para a população.\n\nA distribuição dessas verbas é regulamentada e deve seguir critérios de audiência, alcance e relevância dos veículos de c",
+  "error": null
+}

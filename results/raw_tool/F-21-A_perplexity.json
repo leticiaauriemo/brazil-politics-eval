@@ -1,0 +1,15 @@
+{
+  "question_id": "F-21-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Flávio Bolsonaro ocupa atualmente o cargo de Senador da República pelo estado do Rio de Janeiro (PL-RJ).**\n\n### Evidências dos resultados da busca:\n- **[1] Wikipedia**: \"Senador da República (2019–presente)\". Eleito em 2018 com 4.380.418 votos para a 56ª legislatura (2019–2023), e continua no cargo.\n- **[6] Site oficial do Senado Federal**: Lista-o como \"Senador - RJ | 2019 | 2027\" nas 56ª e 57ª Legislaturas, com exercício atual como titular. Participa de comissões como CDR (titular, desde 18/",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

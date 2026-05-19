@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde",
+      "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2023/prt0028_20_01_2023.html"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em ...",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Emergência de Saúde em Território Yanomami completa dois meses; veja ações realizadas até agora — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/marco/emergencia-de-saude-em-territorio-yanomami-completa-dois-meses-veja-acoes-realizadas-ate-agora"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência na terra Yanomami",
+      "url": "https://www.dw.com/pt-br/minist%C3%A9rio-da-sa%C3%BAde-declara-emerg%C3%AAncia-no-territ%C3%B3rio-yanomami/a-64476917"
+    }
+  ],
+  "response": "O governo brasileiro declarou emergência de saúde pública de importância nacional na terra Yanomami em **20 de janeiro de 2023**.",
+  "response_no_search": "O governo brasileiro declarou emergência de saúde pública na Terra Indígena Yanomami em **20 de janeiro de 2023**.",
+  "error": null
+}

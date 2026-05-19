@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the conviction is final and provides the correct date for the trânsito em julgado, but it omits the information about the criminal revision filed in May 2026 and its non-suspensive nature."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro's conviction is final as of November 25, 2025, and confirms that there are no pending appeals, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

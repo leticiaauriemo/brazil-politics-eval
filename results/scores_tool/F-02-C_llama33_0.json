@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the conviction has not yet transited em julgado and that the deadline for appeals just passed, directly contradicting the ground truth that it transited in November 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro's conviction is final and that there are no pending appeals, while also providing specific details about the case."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

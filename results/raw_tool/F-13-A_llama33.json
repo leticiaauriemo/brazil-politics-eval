@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "prompt": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro ou no governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Presidente Lula entrega amanhã proposta de reforma da ...",
+      "url": "https://www.camara.leg.br/tv/148333-presidente-lula-entrega-amanha-proposta-de-reforma-da-previdencia/"
+    },
+    {
+      "title": "Aposentadoria por tempo de contribuição foi extinta na ...",
+      "url": "https://www.gov.br/secom/pt-br/fatos/brasil-contra-fake/noticias/2023/07/aposentadoria-por-tempo-de-contribuicao-foi-extinta-na-reforma-da-previdencia-de-2019"
+    },
+    {
+      "title": "Reforma da Previdência prevê idade mínima de 65 anos ...",
+      "url": "https://www.camara.leg.br/noticias/552233-reforma-da-previdencia-preve-idade-minima-de-65-anos-para-homens-e-62-para-mulheres/"
+    },
+    {
+      "title": "Reforma da Previdência: o que mudou na aposentadoria nos últimos anos",
+      "url": "https://www.em.com.br/politica/2026/05/7415516-reforma-da-previdencia-o-que-mudou-na-aposentadoria-nos-ultimos-anos.html"
+    },
+    {
+      "title": "Bolsonaro entrega Reforma da Previdência com aumento ...",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2019/02/20/bolsonaro-entrega-reforma-da-previdencia-com-aumento-da-idade-minima-e-contribuicao"
+    }
+  ],
+  "response": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro. A idade mínima de aposentadoria é de 65 anos para homens e 62 anos para mulheres. Além disso, a reforma também estabeleceu um tempo de contribuição mínimo de 20 anos para os trabalhadores urbanos e 25 anos para os servidores públicos. A reforma da Previdência foi aprovada em 2019 pela Emenda Constitucional nº 103/2019.",
+  "response_no_search": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro. A proposta de reforma da Previdência foi apresentada pelo governo de Jair Bolsonaro em 2019 e aprovada pelo Congresso Nacional em outubro de 2019. A reforma estabeleceu uma idade mínima de 62 anos para homens e 60 anos para mulheres para se aposentar, além de outras mudanças nas regras de aposentadoria.\n\nNo entanto, é importante notar que a discussão sobre a reforma da Previdência começou antes do",
+  "error": null
+}

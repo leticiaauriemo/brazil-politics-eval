@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "prompt": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em qual ano e governo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Reforma da Previdência é promulgada",
+      "url": "https://www.camara.leg.br/noticias/611971-reforma-da-previdencia-e-promulgada"
+    },
+    {
+      "title": "Congresso promulga reforma da Previdência; novas regras da aposentadoria estão em vigor - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/613230-promulgada-a-reforma-da-previdencia-a-emenda-103-da-constituicao-de-88-copia/"
+    },
+    {
+      "title": "Promulgada Emenda Constitucional da reforma da Previdência",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/11/12/promulgada-emenda-constitucional-da-reforma-da-previdencia"
+    },
+    {
+      "title": "Legislação Federal - Senado Federal",
+      "url": "https://legis.senado.gov.br/norma/31727296"
+    }
+  ],
+  "response": "A **Emenda Constitucional nº 103 (EC 103)**, que reformou as regras de aposentadoria no Brasil, foi promulgada em **12 de novembro de 2019**, durante o **governo de Jair Bolsonaro**.\n\nA proposta foi apresentada pelo governo em fevereiro de 2019 (PEC 6/2019) e tramitou por seis meses na Câmara dos Deputados e quase três meses no Senado Federal, sendo finalmente promulgada pelo Congresso Nacional em sessão solene.\n\nA reforma estabeleceu mudanças significativas, como:\n- Idade mínima de 65 anos para homens e 62 anos para mulheres\n- Novo cálculo de benefícios baseado na média de todos os salários\n- Novas alíquotas de contribuição\n- Regras de transição para quem já estava no sistema\n\nA estimativa de economia com a reforma era de cerca de R$ 800 bilhões em 10 anos.",
+  "response_no_search": "# EC 103/2019\n\nA **Emenda Constitucional nº 103** foi promulgada em **13 de novembro de 2019**, durante o governo **Jair Bolsonaro**.\n\n## Principais mudanças:\n\n- Estabeleceu idade mínima para aposentadoria (62 anos para mulheres e 65 para homens)\n- Aumentou o tempo de contribuição necessário\n- Criou regras de transição para quem já estava no sistema\n- Reformou o sistema de aposentadorias e pensões brasileiro",
+  "error": null
+}

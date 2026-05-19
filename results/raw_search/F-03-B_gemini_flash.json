@@ -1,0 +1,35 @@
+{
+  "question_id": "F-03-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Bolsonaro está inelegível. Saiba o porquê e até quando | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml"
+    },
+    {
+      "title": "Bolsonaro inelegível: entenda o que acontece com o ex-presidente após a condenação no TSE | G1",
+      "url": "https://g1.globo.com/politica/noticia/2023/06/30/entenda-o-que-pode-acontecer-se-o-tse-considerar-bolsonaro-inelegivel-nesta-sexta.ghtml"
+    },
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Bolsonaro está inelegível até quando? Saiba em que ano ele poderá participar de eleições",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/11/06/bolsonaro-esta-inelegivel-ate-quando-saiba-em-que-ano-ele-podera-participar-de-eleicoes.ghtml"
+    },
+    {
+      "title": "Bolsonaro ficará inelegível até quando? Entenda decisões que condenaram ex-presidente - Estadão",
+      "url": "https://www.estadao.com.br/politica/inelegivel-jair-bolsonaro-relembre-decisoes-condenacoes-ex-presidente-nprp/"
+    }
+  ],
+  "response": "O Tribunal Superior Eleitoral (TSE) declarou Jair Bolsonaro inelegível por oito anos, a partir das eleições de 2022. Isso significa que ele estará impedido de concorrer a cargos eletivos até 2030 [valor.globo.com, g1.globo.com, tse.jus.br, oglobo.globo.com, estadao.com.br].\n\nA decisão principal que o tornou inelegível foi em junho de 2023, por abuso de poder político e uso indevido dos meios de comunicação. O caso central foi uma reunião que Bolsonaro realizou no Palácio da Alvorada em julho de 2022 com embaixadores estrangeiros, na qual ele fez ataques ao sistema eleitoral brasileiro, e que foi transmitida ao vivo pela TV Brasil [valor.globo.com, g1.globo.com, tse.jus.br, oglobo.globo.com].\n\nPosteriormente, em outubro de 2023, Bolsonaro recebeu outra condenação por abuso de poder político durante as celebrações do Dia da Independência em 2022, onde os ministros concluíram que ele usou a data cívica para fins de campanha. Embora ele tenha acumulado duas condenações, o prazo de inelegibilidade não se soma, permanecendo até 2030 [estadao.com.br].\n\nCom essa proibição, Bolsonaro não poderá participar das eleições de 2024, 2026 e 2028, estando apto a concorrer novamente apenas em 2030 [g1.globo.com].",
+  "response_no_search": "O Tribunal Superior Eleitoral (TSE) declarou Jair Bolsonaro inelegível por **oito anos**, a contar da eleição de 2022.\n\nIsso significa que ele não poderá se candidatar a nenhum cargo eletivo até as eleições de **2030**.\n\nA decisão foi tomada em 30 de junho de 2023, no julgamento de uma Ação de Investigação Judicial Eleitoral (AIJE) que o acusava de abuso de poder político e uso indevido dos meios de comunicação. A ação se baseou em uma reunião que Bolsonaro realizou com embaixadores estrangeiros",
+  "error": null
+}

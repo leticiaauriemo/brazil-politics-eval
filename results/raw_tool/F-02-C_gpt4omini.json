@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF declara conclusão do processo sobre golpe de Estado e ordena execução da pena de Bolsonaro",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/25/moraes-declara-conclusao-do-processo-sobre-golpe-de-estado-e-abre-caminho-para-execucao-das-penas-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "STF encerra processo e Bolsonaro já pode cumprir pena",
+      "url": "https://www.poder360.com.br/poder-justica/stf-encerra-processo-e-bolsonaro-ja-pode-cumprir-pena/.modal-box--author"
+    },
+    {
+      "title": "Bolsonaro e aliados têm condenações definitivas no STF por trama golpista",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/moraes-declara-transito-em-julgado-para-bolsonaro-ramagem-e-torres-no-processo-da-trama-golpista,5ef8e7fa3a4befc25ebf6d32f333b743x3bqipd4.html"
+    },
+    {
+      "title": "STF encerra processo contra Jair Bolsonaro | Brasil Paralelo",
+      "url": "https://www.brasilparalelo.com.br/noticias/stf-encerra-processo-contra-jair-bolsonaro"
+    },
+    {
+      "title": "Publicada decisão que condenou Bolsonaro; cabe recurso pela defesa - O Progresso",
+      "url": "https://www.progresso.com.br/brasil/publicada-decisao-que-condenou-bolsonaro-cabe-recurso-pela-defesa/450387/"
+    }
+  ],
+  "response": "A condenação de Jair Bolsonaro pelo Supremo Tribunal Federal (STF) transitou em julgado, o que significa que não há mais possibilidade de recursos pendentes. O STF declarou que o processo contra Bolsonaro, que resultou em uma condenação de 27 anos e 3 meses de prisão por tentativa de golpe de Estado, foi encerrado e que a execução da pena pode ser iniciada a qualquer momento.\n\nA defesa de Bolsonaro não apresentou novos recursos antes do prazo final, que se encerrou em 24 de novembro de 2025. Embora houvesse a possibilidade de apresentar embargos infringentes, o STF entendeu que esse tipo de recurso não era cabível, pois não houve votos suficientes pela absolvição durante o julgamento.\n\nPortanto, a situação atual é que a condenação é definitiva e a execução da pena está autorizada. Bolsonaro permanece preso preventivamente enquanto aguarda a determinação do início do cumprimento da pena. \n\nPara mais detalhes, você pode consultar as fontes:\n- [G1](https://g1.globo.com/politica/noticia/2025/11/25/moraes-declara-conclusao-do-processo-sobre-golpe-de-estado-e-abre-caminho-para-execucao-das-penas-de-bolsonaro.ghtml)\n- [Poder360](https://www.poder360.com.br/poder-justica/stf-encerra-processo-e-bolsonaro-ja-pode-cumprir-pena/.modal-box--author)\n- [Terra](https://www.terra.com.br/noticias/brasil/politica/moraes-declara-transito-em-julgado-para-bolsonaro-ramagem-e-torres-no-processo-da-trama-golpista,5ef8e7fa3a4befc25ebf6d32f333b743x3bqipd4.html)",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, a situação jurídica de Jair Bolsonaro estava em constante evolução, e não tenho informações atualizadas sobre se houve um trânsito em julgado em relação a alguma condenação específica ou se ainda há recursos pendentes. Para obter informações precisas e atualizadas, recomendo consultar fontes de notícias confiáveis ou verificar diretamente com o site do Supremo Tribunal Federal (STF) ou outros órgãos judiciais.",
+  "error": null
+}

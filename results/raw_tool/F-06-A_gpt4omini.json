@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Moraes manda bloquear perfis de Monark e o proíbe de postar fake news",
+      "url": "https://www.uol.com.br/splash/noticias/2023/06/14/moraes-manda-redes-sociais-bloquearem-contas-e-canais-de-monark.htm"
+    },
+    {
+      "title": "Alexandre de Moraes manda bloquear novamente as redes sociais do YouTuber Monark; bloqueio aconteceu após um alerta do ‘setor de enfrentamento à desinformação’ do TSE • O Apolo Brasil",
+      "url": "https://oapolo.com/alexandre-de-moraes-manda-bloquear-novamente-as-redes-sociais-do-youtuber-monark-bloqueio-aconteceu-apos-um-alerta-do-setor-de-enfrentamento-a-desinformacao-do-tse/"
+    },
+    {
+      "title": "Alexandre de Moraes determina bloqueio das redes de Marcos do Val",
+      "url": "https://www.correiobraziliense.com.br/politica/2023/06/5102106-alexandre-de-moraes-determina-bloqueio-das-redes-de-marcos-do-val.html"
+    },
+    {
+      "title": "Aqui, alguns dos perfis já suspensos por Alexandre de Moraes nas redes sociais - Blog Dellas",
+      "url": "https://blogdellas.com.br/aqui-alguns-dos-perfis-ja-suspensos-por-alexandre-de-moraes-nas-redes-sociais/"
+    },
+    {
+      "title": "Moraes derrubou perfis a pedido de órgão chefiado por ele - 18/04/2024 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2024/04/moraes-derrubou-perfis-a-pedido-de-orgao-criado-e-chefiado-por-ele-no-tse-mostra-relatorio.shtml"
+    }
+  ],
+  "response": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou a suspensão de perfis em redes sociais no Brasil. Recentemente, ele determinou que plataformas como Discord, Meta (Facebook e Instagram), Rumble, Telegram e Twitter bloqueassem os perfis do influenciador digital Bruno Monteiro Aiub, conhecido como Monark, devido à divulgação de notícias fraudulentas sobre a atuação do STF e do Tribunal Superior Eleitoral (TSE). Moraes estipulou um prazo de duas horas para que as empresas realizassem o bloqueio, sob pena de multa diária de R$ 100 mil.\n\nAlém disso, Moraes também tem tomado medidas semelhantes em relação a outros perfis que, segundo ele, ajudaram a promover atos antidemocráticos e a disseminar desinformação. Em uma decisão anterior, ele havia determinado a exclusão de 17 contas em diferentes redes sociais que estavam associadas a atos golpistas.\n\nEssas ações fazem parte de um esforço mais amplo para combater a desinformação e proteger a integridade das instituições democráticas no Brasil.",
+  "response_no_search": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), tem tomado decisões que envolvem a suspensão de perfis em redes sociais no Brasil, especialmente em casos relacionados à disseminação de desinformação, discursos de ódio ou ameaças à democracia. Essas ações fazem parte de um esforço mais amplo para combater a desinformação e proteger a integridade das instituições democráticas. No entanto, para informações mais atualizadas ou específicas sobre casos recentes, é recomendável ",
+  "error": null
+}

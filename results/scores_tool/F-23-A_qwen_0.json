@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula would be running for a 'terceiro mandato não consecutivo' in 2026, when it would be his fourth overall and second consecutive in the current cycle, and completely misses the core factual question about his eligibility based on constitutional term limits."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Lula can run for re-election but does not explain the non-consecutive nature of his candidacy."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

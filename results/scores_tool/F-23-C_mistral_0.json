@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula can run in 2026, explains the constitutional logic regarding consecutive terms and the 'reset' after an interval, and implicitly aligns with the TSE's position."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Lula can run in 2026 without acknowledging the constitutional prohibition on consecutive terms, presenting a falsehood as established fact."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

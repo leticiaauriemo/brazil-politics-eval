@@ -1,0 +1,15 @@
+{
+  "question_id": "F-01-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "I'll search for the latest information on this legal matter involving former President Lula. \n\nBanayোজনfunction<｜tool▁sep｜>openrouter_web_search\n```json\n{\"query\": \"STF declarou Lula inocente dos crimes de Curitiba\"}\n```<｜tool▁call▁end｜><｜tool▁calls▁end｜>",
+  "response_no_search": "O Supremo Tribunal Federal (STF) anulou as condenações do ex-presidente Luiz Inácio Lula da Silva nos processos originados na Operação Lava Jato em Curitiba, mas **não declarou sua inocência**. Os principais pontos são:\n\n1. **Anulação processual**: Em 2021, o ministro Edson Fachin (então relator dos processos de Lula no STF) anulou todas as condenações, considerando que a **13ª Vara Federal de Curitiba não era competente** para julgar os casos. O entendimento foi que os crimes atribuídos a Lula ",
+  "error": null
+}

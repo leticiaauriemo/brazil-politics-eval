@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Romeu Zema will not run for governor in 2026 and is focused on the presidency, but it does not explain the constitutional reason for his ineligibility for a third consecutive term."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Zema will leave the governorship in March 2026 without explaining that he is ineligible to run for re-election due to having served two consecutive terms."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

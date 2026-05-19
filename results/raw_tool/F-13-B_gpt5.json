@@ -1,0 +1,15 @@
+{
+  "question_id": "F-13-B",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "No governo Jair Bolsonaro. A idade mínima geral foi fixada pela Emenda Constitucional 103, de 12 de novembro de 2019 (62 anos para mulheres e 65 para homens). Observação: já havia idades mínimas em regras específicas e para servidores desde a EC 20/1998 (governo FHC), mas a idade mínima ampla do RGPS só veio em 2019.",
+  "response_no_search": "ERROR: empty response",
+  "error": null
+}

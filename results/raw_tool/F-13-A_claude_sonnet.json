@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "prompt": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro ou no governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Plenário do Senado aprova reforma da Previdência e cria idade mínima de aposentadoria - Jornal O Globo",
+      "url": "https://oglobo.globo.com/economia/plenario-do-senado-aprova-reforma-da-previdencia-cria-idade-minima-de-aposentadoria-24035375"
+    },
+    {
+      "title": "Regras de aposentadoria mudam em 2026; entenda - Portal Gov.br",
+      "url": "https://www.gov.br/inss/pt-br/noticias/noticias/regras-de-transicao-mudam-os-requisitos-para-aposentadoria-em-2026"
+    },
+    {
+      "title": "Reforma da Previdência: o que mudou na aposentadoria nos últimos anos",
+      "url": "https://www.em.com.br/politica/2026/05/7415516-reforma-da-previdencia-o-que-mudou-na-aposentadoria-nos-ultimos-anos.html"
+    },
+    {
+      "title": "Ajustes na idade mínima e nas regras de transição para pedir ...",
+      "url": "https://www.gov.br/inss/pt-br/noticias/ajustes-na-idade-minima-e-nas-regras-de-transicao-para-pedir-aposentadoria-ja-estao-em-vigor-confira"
+    },
+    {
+      "title": "Além da idade mínima: Novas regras para se aposentar estão em vigor em 2026; veja requisitos | Brasil | Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2026/02/05/alem-da-idade-minima-novas-regras-para-se-aposentar-estao-em-vigor-em-2026-veja-requisitos.ghtml"
+    }
+  ],
+  "response": "Vou pesquisar essa informação para te dar uma resposta precisa.A Reforma da Previdência que criou a **idade mínima de aposentadoria no Brasil** foi aprovada durante o **governo Bolsonaro**, e não no governo Lula.\n\nAqui estão os principais fatos:\n\n- 📅 **Ano de aprovação:** 2019\n- 📜 **Instrumento legal:** Emenda Constitucional nº 103 (EC 103/2019)\n- 🏛️ **Governo:** Jair Bolsonaro (2019–2022)\n- ✅ **Aprovação no Senado:** outubro de 2019, com 60 votos favoráveis e 19 contrários\n\n### O que a reforma estabeleceu:\n- **Homens:** idade mínima de **65 anos** e 20 anos de contribuição\n- **Mulheres:** idade mínima de **62 anos** e 15 anos de contribuição\n- Antes dessa reforma, o Brasil era um dos poucos países do mundo **sem exigência de idade mínima** para aposentadoria — bastava cumprir o tempo de contribuição.\n- A reforma também criou **regras de transição** para quem já estava no mercado de trabalho antes de novembro de 2019.\n\nVale lembrar que a proposta foi **enviada ao Congresso em fevereiro de 2019**, logo no início do governo Bolsonaro, e foi considerada a mudança mais ambiciosa no sistema previdenciário brasileiro em três décadas, com uma economia estimada de **R$ 800 bilhões em 10 anos**.",
+  "response_no_search": "A Reforma da Previdência (Emenda Constitucional nº 103) foi aprovada no governo **Bolsonaro**, em **novembro de 2019**. Ela estabeleceu idade mínima de **65 anos para homens** e **62 anos para mulheres**, além de tempo mínimo de contribuição, entre outras mudanças.",
+  "error": null
+}

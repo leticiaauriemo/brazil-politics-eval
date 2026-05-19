@@ -1,0 +1,28 @@
+{
+  "question_id": "F-17-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Master",
+      "url": "https://en.wikipedia.org/wiki/Banco_Master?utm_source=openai"
+    },
+    {
+      "title": "Brazil's central bank shuts down $16-billion bank following federal fraud investigation",
+      "url": "https://apnews.com/article/2c09a5978bf793018359e8ff40eca3f6?utm_source=openai"
+    },
+    {
+      "title": "BC decreta liquidação do Banco Master Múltiplo e encerra atividades da instituição | TMC",
+      "url": "https://tmc.com.br/economia/liquidacao-banco-master-multiplo/?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se o Banco Master ainda está em funcionamento em 2026. A resposta é: não, o banco não está mais em operação.\n\nEm 18 de novembro de 2025, o Banco Central do Brasil decretou a liquidação extrajudicial do Banco Master, retirando-o do sistema financeiro nacional ([en.wikipedia.org](https://en.wikipedia.org/wiki/Banco_Master?utm_source=openai)). Essa medida foi tomada após a constatação de graves irregularidades e problemas de liquidez, considerados irreversíveis pelas autoridades ([apnews.com](https://apnews.com/article/2c09a5978bf793018359e8ff40eca3f6?utm_source=openai)).\n\nPosteriormente, em 17 de março de 2026, o Banco Central converteu o Regime de Administração Especial Temporária (RAET), que estava em vigor desde 18 de novembro de 2025, em liquidação extrajudicial definitiva do Banco Master Múltiplo — braço do conglomerado Master — encerrando formalmente suas atividades ([tmc.com.br](https://tmc.com.br/economia/liquidacao-banco-master-multiplo/?utm_source=openai)). Com isso, o banco foi oficialmente retirado do sistema financeiro nacional ([tmc.com.br](https://tmc.com.br/economia/liquidacao-banco-master-multiplo/?utm_source=openai)).\n\nPortanto, em 2026, o Banco Master já não está mais em funcionamento. Se quiser, posso te explicar mais sobre o processo de liquidação, os impactos para clientes e credores, ou o andamento das investigações.",
+  "response_no_search": "Até a data do meu conhecimento, que vai até junho de 2024, o Banco Master estava em funcionamento no Brasil. Não tenho acesso a informações futuras ou eventos ocorridos após essa data, portanto não posso afirmar com certeza se o Banco Master estará em funcionamento em 2026.\n\nPara obter informações atualizadas sobre o Banco Master em 2026, recomendo consultar fontes oficiais, como o site do próprio banco, notícias recentes ou o Banco Central do Brasil. Se precisar de informações históricas ou sob",
+  "error": null
+}

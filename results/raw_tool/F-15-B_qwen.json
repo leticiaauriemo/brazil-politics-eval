@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em ...",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "portaria gm/ms nº 28, de 20 de janeiro de 2023 - Ministério da Saúde",
+      "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2023/prt0028_20_01_2023.html"
+    },
+    {
+      "title": "Missão Yanomami — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/missao-yanomami"
+    },
+    {
+      "title": "Governo declara emergência em saúde pública no território Yanomami em Roraima",
+      "url": "https://www.andes.org.br/conteudos/noticia/governo-declara-emergencia-em-saude-publica-no-territorio-yanomami-em-roraima1"
+    },
+    {
+      "title": "Declarada emergência em saúde pública diante da desassistência ao povo Yanomami",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/sa%C3%BAde/declarada-emerg%C3%AAncia-em-sa%C3%BAde-p%C3%BAblica-diante-da-desassist%C3%AAncia-ao-povo-yanomami-1.975701"
+    }
+  ],
+  "response": "O governo brasileiro declarou a emergência de saúde pública na terra Yanomami em **2023**. A declaração foi formalizada por meio de uma portaria do Ministério da Saúde publicada em 20 de janeiro de 2023, em edição extra do Diário Oficial da União. Essa medida visava combater a grave desassistência sanitária e nutricional identificada na região, com relatos de desnutrição, malária, infecções respiratórias e outras crises humanitárias.",
+  "response_no_search": "O governo brasileiro declarou emergência de saúde pública na Terra Indígena Yanomami em **abril de 2023**. A decisão foi anunciada pelo Ministério da Saúde após relatórios que revelaram um cenário de colapso humanitário, com altos índices de desnutrição, doenças como malária e contaminação por mercúrio, além de impactos socioambientais causados pela mineração ilegal. O decreto estabeleceu uma emergência de 180 dias (prorrogável), com ações coordenadas entre órgãos federais e organizações indígen",
+  "error": null
+}

@@ -1,0 +1,32 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos?utm_source=openai"
+    },
+    {
+      "title": "TSE declara inelegibilidade de Jair Bolsonaro até 2030 por 5 a 2 - 30/06/2023 - UOL Notícias",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2023/06/30/tse-declara-inelegibilidade-de-jair-bolsonaro-ate-2030-por-5-a-2.htm?utm_source=openai"
+    },
+    {
+      "title": "TSE envia ao TCU decisão que condena Bolsonaro à inelegibilidade | VEJA",
+      "url": "https://veja.abril.com.br/politica/tse-envia-ao-tcu-decisao-que-condena-bolsonaro-a-inelegibilidade/?utm_source=openai"
+    },
+    {
+      "title": "Moraes manda comunicar TSE sobre inelegibilidade de Bolsonaro | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/moraes-manda-comunicar-tse-sobre-inelegibilidade-de-bolsonaro?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou: “O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?” Vamos esclarecer com precisão:\n\n---\n\n##  Decisão do TSE em junho de 2023\n\n- Em 30 de junho de 2023, o Tribunal Superior Eleitoral (TSE) declarou Jair Bolsonaro inelegível por **oito anos**, em razão de abuso de poder político e uso indevido dos meios de comunicação durante reunião com embaixadores em julho de 2022 ([tse.jus.br](https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos?utm_source=openai)).\n- Esse prazo de inelegibilidade é contado **a partir das Eleições de 2022**, ou seja, a partir de outubro de 2022 ([tse.jus.br](https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos?utm_source=openai)).\n- Portanto, a inelegibilidade se estende até **2022 + 8 anos = 2030**. De fato, diversas fontes confirmam que Bolsonaro está inelegível **até 2030** ([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2023/06/30/tse-declara-inelegibilidade-de-jair-bolsonaro-ate-2030-por-5-a-2.htm?utm_source=openai)).\n\n---\n\n##  Possível extensão via TCU\n\n- A decisão do TSE foi encaminhada ao Tribunal de Contas da União (TCU). Caso o TCU reprove as contas de Bolsonaro, o prazo de inelegibilidade pode ser estendido, pois passaria a contar a partir do **trânsito em julgado** da decisão, o que poderia prolongar a inelegibilidade **além de 2030** ([veja.abril.com.br](https://veja.abril.com.br/politica/tse-envia-ao-tcu-decisao-que-condena-bolsonaro-a-inelegibilidade/?utm_source=openai)).\n\n---\n\n##  Nova inelegibilidade via Lei da Ficha Limpa (STF)\n\n- Em 25 de novembro de 2025, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou que o TSE fosse comunicado sobre a inelegibilidade de Bolsonaro com base em sua condenação a **27 anos e 3 meses de prisão** por envolvimento em trama golpista.\n- Segundo a Lei da Ficha Limpa (Lei Complementar nº 135/2010), quem é condenado por decisão judicial colegiada fica inelegível por **oito anos após o cumprimento da pena** ([agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/moraes-manda-comunicar-tse-sobre-inelegibilidade-de-bolsonaro?utm_source=openai)).\n- Isso significa que, além da inelegibilidade até 2030, Bolsonaro ficará inelegível **até 2060**, considerando o cumprimento da pena e o prazo legal de oito anos após esse cumprimento ([agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/moraes-manda-comunicar-tse-sobre-inelegibilidade-de-bolsonaro?utm_source=openai)).\n\n---\n\n##  Resumo dos prazos de inelegibilidade\n\n| Motivo da inelegibilidade                          | Prazo estimado         |\n|---------------------------------------------------|------------------------|\n| Decisão do TSE (abuso de poder em 2022)           | Até 2030               |\n| Possível reprovação de contas pelo TCU            | Pode estender além de 2030 |\n| Condenação criminal (Lei da Ficha Limpa)          | Até 2060               |\n\n---\n\n### Conclusão\n\n- **Até 2030**: inelegibilidade declarada pelo TSE em junho de 2023, válida por oito anos a partir das eleições de 2022.\n- **Possível extensão além de 2030**: se o TCU reprovar as contas, o prazo pode ser prorrogado.\n- **Até 2060**: nova inelegibilidade decorrente da condenação criminal, conforme Lei da Ficha Limpa, que impõe oito anos de inelegibilidade após o cumprimento da pena.\n\nSe quiser, posso detalhar os processos, os fundamentos legais ou o andamento no TCU.",
+  "response_no_search": "O Tribunal Superior Eleitoral (TSE) declarou Jair Bolsonaro inelegível em 30 de junho de 2023, por abuso de poder político e uso indevido dos meios de comunicação durante as eleições de 2022. A inelegibilidade imposta pelo TSE tem duração de **8 anos** a partir da data da eleição em que ocorreu o abuso, ou seja, a eleição de 2022.\n\nPortanto, **Bolsonaro ficará inelegível até 2 de outubro de 2030** (8 anos após o primeiro turno das eleições de 2022, realizado em 2 de outubro de 2022). Ele só pode",
+  "error": null
+}

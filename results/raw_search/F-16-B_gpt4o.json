@@ -1,0 +1,35 @@
+{
+  "question_id": "F-16-B",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Novo Bolsa Família garante valor mínimo de R$ 600, renda mínima por pessoa e adicional para crianças, adolescentes e gestantes — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/novo-bolsa-familia-garante-valor-minimo-de-r-600-por-residencia-renda-minima-por-pessoa-e-adicional-para-criancas-adolescentes-e-gestantes"
+    },
+    {
+      "title": "Medida Provisória garante valor mínimo de R$ 600 ao Bolsa Família em 2023 — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/medida-provisoria-garante-valor-minimo-de-r-600-ao-bolsa-familia-em-2023"
+    },
+    {
+      "title": "Bolsa Família é recriado com mínimo de R$ 600 por família e mais R$ 150 por criança de até seis anos",
+      "url": "https://www.gov.br/pt-br/noticias/bolsa-familia-e-recriado-com-minimo-de-r-600-por-familia-e-mais-r-150-por-crianca-de-ate-seis-anos"
+    },
+    {
+      "title": "Eleições 2026: Lula injetará bilhoes na economia com programas sociais turbinados e isenção do IR - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cy716x7kkzvo"
+    },
+    {
+      "title": "Lula assina atos para auxílio de R$ 600, sigilos e combustíveis",
+      "url": "https://www.poder360.com.br/governo/lula-assina-atos-para-auxilio-de-r-600-sigilos-e-combustiveis/"
+    }
+  ],
+  "response": "O benefício mínimo de R$ 600 para o Bolsa Família foi uma medida implementada durante o governo de Jair Bolsonaro, quando o programa foi renomeado para Auxílio Brasil. Em junho de 2022, o valor foi aumentado de R$ 400 para R$ 600, com validade até o final de 2022. Após a eleição, o presidente Luiz Inácio Lula da Silva manteve o valor de R$ 600 e resgatou o nome original do programa, Bolsa Família, sem reajustes adicionais ou correção inflacionária até o momento [bbc.com](https://www.bbc.com/portuguese/articles/cy716x7kkzvo).",
+  "response_no_search": "O benefício mínimo de R$600 foi uma medida implementada durante o governo de Jair Bolsonaro. Em 2022, o governo Bolsonaro aumentou o valor do Auxílio Brasil, que era o programa de transferência de renda que substituiu o Bolsa Família, para um mínimo de R$600 por família. Essa medida foi parte de um pacote de auxílio econômico aprovado pelo Congresso Nacional. Posteriormente, no governo de Luiz Inácio Lula da Silva, o Bolsa Família foi retomado, mantendo o valor mínimo de R$600, com adicionais pa",
+  "error": null
+}

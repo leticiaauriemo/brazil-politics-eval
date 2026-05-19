@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal, cites relevant laws (Lei 12.232/10, Decreto 6.555/08), and explains the criteria for distribution, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the legality of government advertising to private broadcasters, cites relevant laws, and explains the regulatory framework involving SECOM."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

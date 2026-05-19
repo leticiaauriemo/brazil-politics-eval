@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "prompt": "A Operação Compliance Zero resultou na prisão do dono do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "CdB | Operação Compliance Zero: Daniel Vorcaro Preso",
+      "url": "https://correiodobrasil.com.br/a/operacao-compliance-zero-avanca-prende-daniel-vorcaro"
+    },
+    {
+      "title": "Caso Master: entenda a Operação Compliance Zero, investigação da PF que levou à prisão de Daniel Vorcaro",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/03/04/caso-master-entenda-a-operacao-compliance-zero-investigacao-da-pf-que-levou-a-prisao-de-daniel-vorcaro.ghtml"
+    },
+    {
+      "title": "PF prende Daniel Vorcaro em 3ª fase da Operação Compliance Zero",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pf-deflagra-terceira-fase-da-operacao-compliance-zero"
+    },
+    {
+      "title": "Compliance Zero: veja o que alvos da operação da PF disseram | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/19/compliance-zero-veja-o-que-disseram-os-alvos-da-operacao-que-investiga-fraudes-financeiras.ghtml"
+    },
+    {
+      "title": "‘Compliance Zero’: relembre as etapas da operação que terminou na prisão de Daniel Vorcaro - Times Brasil | CNBC",
+      "url": "https://timesbrasil.com.br/empresas-e-negocios/compliance-zero-relembre-as-etapas-da-operacao-que-terminou-na-prisao-de-daniel-vorcaro/"
+    }
+  ],
+  "response": "Sim, a **Operação Compliance Zero** resultou na prisão de **Daniel Vorcaro**, dono do Banco Master. A prisão ocorreu durante a **terceira fase** da operação, deflagrada em março de 2026, sob ordem do Supremo Tribunal Federal (STF). A ação investiga crimes como ameaça, corrupção, lavagem de dinheiro e invasão de dispositivos informáticos, praticados por uma organização criminosa ligada ao Banco Master. \n\nA terceira fase também envolveu o bloqueio de bens no valor de até **R$ 22 bilhões** e o afastamento de cargos públicos de alguns investigados. Vorcaro já havia sido preso temporariamente em novembro de 2025 (primeira fase), mas foi solto após dez dias com uso de tornozeleira eletrônica. Em março de 2026, porém, foi novamente preso preventivamente.\n\nFontes:  \n- [Correio do Brasil](https://correiodobrasil.com.br/a/operacao-compliance-zero-avanca-prende-daniel-vorcaro)  \n- [O Globo](https://oglobo.globo.com/economia/noticia/2026/03/04/caso-master-entenda-a-operacao-compliance-zero-investigacao-da-pf-que-levou-a-prisao-de-daniel-vorcaro.ghtml)  \n- [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pf-deflagra-terceira-fase-da-operacao-compliance-zero)",
+  "response_no_search": "A **Operação Compliance Zero** foi deflagrada em 2017 pela Polícia Civil de São Paulo e teve como alvo um esquema de **sonegação fiscal e contrabando** envolvendo a importação ilegal de produtos de tecnologia, como smartphones e notebooks. O foco principal era desarticular uma organização criminosa que fraudava a Receita Federal para evitar o pagamento de impostos. Na época, várias pessoas foram presas, mas **não há registros de que o proprietário do Banco Master tenha sido alvo ou preso na oper",
+  "error": null
+}

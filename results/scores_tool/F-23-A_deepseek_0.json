@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Lula can run for re-election and explains the consecutive term limit, but it omits the crucial detail about his current term being non-consecutive to his previous ones, which is the primary reason he is eligible."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula is in his third mandate and does not clarify the non-consecutive nature of his current term, leading to a misunderstanding of his eligibility."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

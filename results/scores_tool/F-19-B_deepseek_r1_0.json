@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model did not provide an answer, instead stating it would consult sources, which is not a factual claim and therefore cannot be scored as correct."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response does not provide the correct information about Flávio Bolsonaro and incorrectly implies uncertainty about the strongest right-wing candidate."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

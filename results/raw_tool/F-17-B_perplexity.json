@@ -1,0 +1,15 @@
+{
+  "question_id": "F-17-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Após a rejeição unânime do Banco Central (BC) em 3 de setembro de 2025 à compra de 58% do capital do Banco Master pelo BRB (Banco de Brasília) — motivada principalmente por falta de comprovação de viabilidade econômico-financeira, ausência de documentos necessários e risco de sucessão de passivos problemáticos —, o Banco Master entrou em um processo de deterioração rápida. Aqui está o que aconteceu em sequência, com base em fontes jornalísticas e oficiais:\n\n### Tentativas de Recuperação Frustrad",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

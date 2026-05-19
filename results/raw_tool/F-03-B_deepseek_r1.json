@@ -1,0 +1,15 @@
+{
+  "question_id": "F-03-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "I'll search for the latest information on the duration of Jair Bolsonaro's ineligibility declared by Brazil's Superior Electoral Court (TSE).\n\nBanayুদfunction<｜tool▁sep｜>openrouter_web_search\n```json\n{\"query\": \"TSE declarou Bolsonaro inelegível até quando\"}\n```<｜tool▁call▁end｜><｜tool▁calls▁end｜>",
+  "response_no_search": "A **inelegibilidade de Jair Bolsonaro**, decretada pelo Tribunal Superior Eleitoral (TSE) em **30 de junho de 2023**, tem duração de **8 (oito) anos**, conforme estabelecido pelo **artigo 26, inciso I, da Lei Complementar nº 64/1990** (Lei da Ficha Limpa). \n\n### Detalhes importantes:\n1. **Data de início**:  \n   A inelegibilidade começou a contar a partir da **data da decisão do TSE (30 de junho de 2023)**.  \n\n2. **Término previsto**:  \n   O prazo de 8 anos se encerra em **30 de junho de 2031**. ",
+  "error": null
+}

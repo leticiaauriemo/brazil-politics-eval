@@ -1,0 +1,32 @@
+{
+  "question_id": "F-04-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "4 years of Amazon destruction - Greenpeace International",
+      "url": "https://www.greenpeace.org/international/story/57219/brazil-amazon-deforestation-2022-bolsonaro-lula/?utm_source=openai"
+    },
+    {
+      "title": "Desmatamento na Amazônia foi maior nos governos FHC e Lula | VEJA",
+      "url": "https://veja.abril.com.br/brasil/desmatamento-na-amazonia-foi-maior-nos-governos-fhc-e-lula/?utm_source=openai"
+    },
+    {
+      "title": "Deforestation of the Amazon rainforest",
+      "url": "https://en.wikipedia.org/wiki/Deforestation_of_the_Amazon_rainforest?utm_source=openai"
+    },
+    {
+      "title": "Compare os dados de desmatamento e queimadas na Amazônia nos governos Lula e Bolsonaro • Lupa",
+      "url": "https://www.agencialupa.org/jornalismo/2022/10/26/desmatamento-amazonia-lula-e-bolsonaro/?utm_source=openai"
+    }
+  ],
+  "response": "Aqui está uma comparação clara e fundamentada entre o desmatamento médio anual na Amazônia durante o governo de Jair Bolsonaro (2019–2022) e nos dois mandatos de Luiz Inácio Lula da Silva (2003–2010):\n\n**1. Governo Bolsonaro (2019–2022)**  \n- Segundo dados do INPE consolidados pelo WWF-Brasil, o total de desmatamento na Amazônia durante os quatro anos de Bolsonaro foi de aproximadamente **45.586 km²**, o que corresponde a uma média anual de cerca de **11.396 km²** ([greenpeace.org](https://www.greenpeace.org/international/story/57219/brazil-amazon-deforestation-2022-bolsonaro-lula/?utm_source=openai)).  \n- Outra fonte, a revista *Veja*, indica que nos primeiros três anos do governo Bolsonaro (2019–2021), a média anual foi de **11,4 mil km²** ([veja.abril.com.br](https://veja.abril.com.br/brasil/desmatamento-na-amazonia-foi-maior-nos-governos-fhc-e-lula/?utm_source=openai)).\n\n**2. Governos Lula (2003–2010)**  \n- De acordo com dados do INPE, o desmatamento anual na Amazônia foi:  \n  - 2003: 25.396 km²  \n  - 2004: 27.772 km²  \n  - 2005: 19.014 km²  \n  - 2006: 14.285 km²  \n  - 2007: 11.651 km²  \n  - 2008: 12.911 km²  \n  - 2009: 7.464 km²  \n  - 2010: 7.000 km² ([en.wikipedia.org](https://en.wikipedia.org/wiki/Deforestation_of_the_Amazon_rainforest?utm_source=openai)).  \n- A Agência Lupa, ao analisar os três primeiros anos de cada mandato, calculou que a média anual foi de **24,06 mil km²** no primeiro mandato de Lula (2003–2006) e **10,67 mil km²** no segundo mandato (2007–2010) ([agencialupa.org](https://www.agencialupa.org/jornalismo/2022/10/26/desmatamento-amazonia-lula-e-bolsonaro/?utm_source=openai)).\n\n**3. Comparação direta**  \n- **Primeiro mandato de Lula (2003–2006)**: média anual de **24,06 mil km²** — significativamente maior que a média anual de Bolsonaro (~11,4 mil km²).  \n- **Segundo mandato de Lula (2007–2010)**: média anual de **10,67 mil km²**, ligeiramente inferior à média anual de Bolsonaro (~11,4 mil km²).  \n- **Governo Bolsonaro (2019–2022)**: média anual de **11,4 mil km²**, superior à do segundo mandato de Lula, mas bem inferior à do primeiro mandato de Lula.\n\n**Conclusão**  \n- O **desmatamento médio anual foi maior no primeiro mandato de Lula (2003–2006)** do que no governo Bolsonaro.  \n- Já no **segundo mandato de Lula (2007–2010)**, o desmatamento médio anual foi **menor** do que no governo Bolsonaro.\n\nSe quiser, posso detalhar mais por ano ou trazer gráficos comparativos.",
+  "response_no_search": "Vamos comparar os dados de desmatamento médio anual da Amazônia nos períodos mencionados:\n\n### 1. **Governo Bolsonaro (2019–2022)**\n- **Desmatamento médio anual:**  \n  Segundo dados do INPE (PRODES), o desmatamento médio anual foi de aproximadamente **11.396 km²** por ano.\n\n### 2. **Primeiro e segundo mandatos de Lula (2003–2010)**\n- **Desmatamento médio anual:**  \n  Também segundo o INPE, o desmatamento médio anual nesse período foi de aproximadamente **18.100 km²** por ano.\n\n#### **Resumo dos ",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Master e preserva sistema financeiro nacional | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml"
+    },
+    {
+      "title": "BC anuncia liquidação do Banco Master Múltiplo, antes sob regime ...",
+      "url": "https://g1.globo.com/economia/noticia/2026/03/17/bc-anuncia-liquidacao-do-banco-master-multiplo-antes-sob-regime-especial-de-administracao.ghtml"
+    },
+    {
+      "title": "Folha do Estado | Banco Central entrega ao TCU detalhamento de ações que levaram à liquidação do Banco Master",
+      "url": "https://www.folhadoestado.com.br/brasil/banco-central-entrega-ao-tcu-detalhamento-de-acoes-que-levaram-a-liquidacao-do-banco-master/631652"
+    }
+  ],
+  "response": "Sim, **o Banco Central decretou a liquidação extrajudicial do Banco Master**. Aqui estão os principais detalhes:\n\n## Data e Contexto\n- A liquidação foi decretada em **18 de novembro de 2024**\n- A decisão foi motivada por grave crise de liquidez (falta de dinheiro em caixa) e graves violações às normas do sistema financeiro\n\n## O que foi liquidado\n- O Banco Master e outras empresas do grupo (como a corretora de câmbio, títulos e valores mobiliários)\n- **Exceção**: O banco digital Will Bank, também do grupo, continuou funcionando inicialmente\n- Posteriormente, em março de 2026, o Banco Master Múltiplo também foi liquidado\n\n## Consequências\n- O banco sai do mercado e deixa de existir\n- Indisponibilidade dos bens dos controladores e ex-administradores\n- Nomeação de Eduardo Felix Bianchini como administrador da liquidação\n- Prioridade de pagamento: funcionários (trabalhistas), impostos e dívidas, depois fornecedores e clientes com investimentos acima de R$ 250 mil\n\n## Contexto anterior\n- A crise vinha se desenrolando desde 2024\n- Em setembro de 2024, o BC havia vetado a venda do Master para o Banco de Brasília\n- O Master era conhecido por atrair investidores com rendimentos muito acima da média do mercado\n\nA ação foi considerada robusta pelo Ministério da Fazenda como forma de preservar a estabilidade do sistema financeiro nacional.",
+  "response_no_search": "# Sobre a Liquidação do Banco Master\n\nSim, o Banco Central do Brasil decretou a **liquidação extrajudicial do Banco Master em 2018**.\n\n## Principais pontos:\n\n- **Data**: A decisão foi tomada em **junho de 2018**\n- **Motivo**: Problemas de gestão, irregularidades e dificuldades financeiras\n- **Processo**: Liquidação extrajudicial (fora do judiciário)\n- **Impacto**: Afetou clientes e correntistas da instituição\n\n## O que isso significou:\n\n- Encerramento das operações do banco\n- Proteção de depósit",
+  "error": null
+}

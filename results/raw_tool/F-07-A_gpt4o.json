@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "X (Twitter) começa a ser bloqueado e brasileiros não estão conseguindo acessar a rede | Internet",
+      "url": "https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm"
+    },
+    {
+      "title": "Entenda por que o Twitter virou X: usuários relatam volta da rede social",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/09/18/entenda-por-que-o-twitter-virou-x-usuarios-relatam-volta-da-rede-social.ghtml"
+    },
+    {
+      "title": "Bloqueio do X no Brasil: a manobra que fez rede de Musk ... - BBC",
+      "url": "https://www.bbc.com/portuguese/articles/c5y3xy47jxzo"
+    },
+    {
+      "title": "X é bloqueado no Brasil após Musk descumprir decisão de Moraes",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/x-e-bloqueado-no-brasil-apos-musk-descumprir-decisao-de-moraes"
+    },
+    {
+      "title": "X, antigo Twitter, está bloqueado no Brasil",
+      "url": "https://nucleo.jor.br/curtas/2024-08-30-bloqueio-x-autorizado-stf/"
+    }
+  ],
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024. A decisão foi tomada pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), devido ao descumprimento de ordens judiciais pela plataforma, incluindo a falha em indicar um representante legal no país e o não pagamento de multas. O bloqueio começou a ser implementado em 31 de agosto de 2024, com a suspensão do funcionamento da rede social em todo o território nacional. A medida foi uma resposta a uma série de embates entre a justiça brasileira e o proprietário do X, Elon Musk, que não cumpriu as determinações judiciais, como o bloqueio de perfis investigados por ataques à democracia.",
+  "response_no_search": "Não tenho informações sobre eventos que ocorreram após outubro de 2023. Para saber se o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024, recomendo verificar as notícias mais recentes ou fontes oficiais para obter informações atualizadas.",
+  "error": null
+}

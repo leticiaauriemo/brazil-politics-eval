@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "prompt": "O governo Bolsonaro recusou ofertas de vacinas contra COVID-19 da Pfizer em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brazil’s Covid CPI: Pfizer confirms that Bolsonaro government ignored vaccine offer for December 2020",
+      "url": "https://www.riotimesonline.com/brazil-news/covid-19/pfizer-confirms-that-brazil-ignored-vaccine-offer-for-december-2020/"
+    },
+    {
+      "title": "Brazil ghosted Pfizer when it offered that country 70 million vaccine shots",
+      "url": "https://www.news24.com/fin24/companies/brazil-ghosted-pfizer-when-it-offered-that-country-70-million-vaccine-shots-20210529"
+    },
+    {
+      "title": "Brazil ignored Pfizer’s offers of COVID-19 vaccine for months last year, company says - National | Globalnews.ca",
+      "url": "https://globalnews.ca/news/7861069/brazil-covid-pfizer/"
+    },
+    {
+      "title": "Brazil could have bought Pfizer vaccines much earlier, but Bolsonaro ignored the offer — MercoPress",
+      "url": "https://en.mercopress.com/2021/05/14/brazil-could-have-bought-pfizer-vaccines-much-earlier-but-bolsonaro-ignored-the-offer"
+    },
+    {
+      "title": "Brazil’s vaccine rollout: blunder after blunder after Bolsonaro",
+      "url": "https://www.businesslive.co.za/bd/world/americas/2021-05-28-brazils-vaccine-rollout-blunder-after-blunder-after-bolsonaro/"
+    }
+  ],
+  "response": "Sim, o governo de Jair Bolsonaro **não respondeu a múltiplas ofertas da Pfizer** para aquisição de vacinas contra a COVID-19 em 2020, segundo depoimentos e reportagens com base em investigações parlamentares brasileiras. \n\n### Detalhes das ofertas da Pfizer:\n1. **Agosto de 2020**: A Pfizer propôs inicialmente **30 milhões de doses**, com previsão de entrega de 500.000 doses ainda em dezembro de 2020.\n2. **Final de agosto de 2020**: A oferta foi ampliada para **70 milhões de doses**, incluindo 1,5 milhão de doses disponíveis em dezembro de 2020 e o restante até meados de 2021.\n3. **Setembro de 2020**: O CEO global da Pfizer enviou uma carta formal ao presidente Bolsonaro e ministros, reiterando o interesse em fornecer vacinas. Nenhuma resposta foi dada.\n\n### Consequências:\n- O governo brasileiro **não respondeu** a essas ofertas por meses, atrasando a aquisição de vacinas. O contrato final foi fechado apenas em **março de 2021** (100 milhões de doses), com as primeiras entregas em abril.\n- Testemunhos de executivos da Pfizer, como Carlos Murillo (presidente da empresa para a América Latina), confirmaram que o governo ignorou propostas que poderiam ter acelerado a imunização no país.\n\n### Contexto adicional:\n- O então ministro da Saúde, Eduardo Pazuello, alegou que regulamentações e prioridade para vacinas produzidas localmente (como a CoronaVac) justificaram a demora.\n- Críticos, no entanto, apontam que a inação ocorreu durante uma crise sanitária que resultou em mais de 450.000 mortes no Brasil até então.\n\nPortanto, embora não haja registro de uma recusa formal, **a falta de resposta do governo Bolsonaro às ofertas da Pfizer** é amplamente documentada e considerada um fator que atrasou a campanha de vacinação no país.",
+  "response_no_search": "Sim, o governo Bolsonaro enfrentou críticas por supostamente ter atrasado ou dificultado a aquisição de vacinas da Pfizer contra a COVID-19 em 2020, principalmente devido a divergências sobre cláusulas contratuais. Abaixo estão os principais pontos relacionados ao caso:\n\n1. **Oferta da Pfizer**: Em 2020, a Pfizer ofereceu ao Brasil a possibilidade de adquirir doses de sua vacina, mas o governo federal não avançou rapidamente nas negociações. A empresa exigia, entre outras condições, isenção de r",
+  "error": null
+}

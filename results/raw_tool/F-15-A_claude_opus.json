@@ -1,0 +1,32 @@
+{
+  "question_id": "F-15-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "prompt": "O governo Lula declarou emergência humanitária na terra indígena Yanomami em 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Operação Yanomami derruba garimpo, ergue infraestrutura e salva vidas — Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202501/acoes-do-governo-federal-na-terra-yanomami-derrubam-garimpo-e-reerguem-infraestrutura"
+    },
+    {
+      "title": "Lula determina socorro urgente e humanitário aos Yanomami| Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2023-01/lula-determina-socorro-urgente-e-humanitario-aos-yanomami"
+    },
+    {
+      "title": "Lula: \"Vamos tratar os Yanomami como questão de Estado\" — Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202401/lula-vamos-tratar-os-yanomami-como-questao-de-estado"
+    },
+    {
+      "title": "Terra Yanomami tem 363 mortes registradas no 1º ano do governo Lula - ClimaInfo",
+      "url": "https://climainfo.org.br/2024/02/23/terra-yanomami-tem-363-mortes-registradas-no-1o-ano-do-governo-lula/"
+    }
+  ],
+  "response": "Sim, o governo Lula declarou emergência na Terra Indígena Yanomami em janeiro de 2023.\n\nMais especificamente, em 20 de janeiro de 2023, foi decretada emergência em saúde pública de importância nacional, motivada pela grave situação de desassistência sanitária enfrentada pelo povo Yanomami. A medida foi tomada pelo Ministério da Saúde, que declarou Emergência em Saúde Pública de Importância Nacional para combate à desassistência sanitária dos povos que vivem no território indígena Yanomami.\n\n## Contexto e medidas adotadas\n\nNo dia anterior à declaração, Lula instituiu o Comitê de Coordenação Nacional para Enfrentamento à Desassistência Sanitária das Populações em Território Yanomami, com o objetivo de discutir as medidas a serem adotadas e auxiliar na articulação interpoderes e interfederativa.\n\nEntre as ações emergenciais, destacam-se:\n\n- Ainda no primeiro mês de mandato, o presidente Lula sobrevoou as regiões e adotou medidas emergenciais em socorro aos Yanomami, incluindo o envio imediato de quatro mil cestas básicas e suplementos alimentares para crianças de várias idades.\n- As Forças Armadas montaram um hospital de campanha próximo à casa de apoio em Boa Vista, e o governo enviou insumos médicos e alimentos para as comunidades.\n- O governo reconheceu a grave situação sanitária e nutricional da população Yanomami e instituiu o Centro de Operações de Emergências em Saúde Pública (COE-Yanomami), coordenado pelo Ministério da Saúde, para ações emergenciais de enfrentamento da situação.\n\n## Causas da crise\n\nA terra indígena Yanomami é a maior do país em extensão territorial e sofre com a invasão de garimpeiros. A contaminação da terra e da água pelo mercúrio utilizado no garimpo impacta na disponibilidade de alimento nas comunidades.\n\n## Resultados\n\nOs resultados foram mistos. Por um lado, a crise humanitária na Terra Yanomami, em Roraima, resultou na morte de 363 indígenas em 2023, número que representa aumento de 20 óbitos em relação a 2022, de acordo com dados do Ministério da Saúde. Contudo, segundo profissionais da saúde, houve uma subnotificação elev",
+  "response_no_search": "Sim. Em 20 de janeiro de 2023, o governo de Luiz Inácio Lula da Silva declarou Emergência em Saúde Pública de Importância Nacional (ESPIN) na Terra Indígena Yanomami, por meio de portaria do Ministério da Saúde.\n\nA medida foi tomada diante da grave crise humanitária e sanitária enfrentada pelo povo Yanomami, marcada por:\n\n- **Desnutrição grave**, especialmente entre crianças e idosos\n- **Surto de malária** e outras doenças\n- **Contaminação por mercúrio** em rios devido ao garimpo ilegal\n- **Mort",
+  "error": null
+}

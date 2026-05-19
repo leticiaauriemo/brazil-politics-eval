@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=461870&amp%3Bori=1"
+    },
+    {
+      "title": "Entenda o julgamento da anulação das sentenças de Lula",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/lava-jato/entenda-o-julgamento-da-anulacao-das-sentencas-de-lula,83a53f8d9c28b0412ce037507590e809pxienock.html"
+    },
+    {
+      "title": "Lula livre: STF anula as condenações do ex-presidente  |  Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-livre-stf-anula-as-condenacoes-do-ex-presidente/"
+    }
+  ],
+  "response": "I'll help answer your question about the annulment of Lula's convictions by searching for current information. Let me find reliable sources about this legal matter.\n\n\nAs condenações do ex-presidente Lula **não foram anuladas porque o STF concluiu que ele era inocente**, mas sim por uma questão de **incompetência jurisdicional**. Eis os pontos-chave:\n\n1. **Motivo da anulação**:  \n   O ministro Edson Fachin (STF) anulou as condenações porque concluiu que a **13ª Vara Federal de Curitiba (PR)** era incompetente para julgar os casos de Lula. Os processos (triplex do Guarujá, sítio de Atibaia e Instituto Lula) não tinham ligação direta com os desvios da Petrobras investigados na Operação Lava Jato ([STF, 08/03/2021](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=461870)).\n\n2. **Falta de conexão com a Petrobras**:  \n   Fachin destacou que as acusações contra Lula não demonstravam relação entre seus atos como presidente e contratos específicos da Petrobras que teriam gerado vantagens indevidas. As denúncias envolviam empresas como OAS e Odebrecht, mas sem vínculo comprovado com os desvios da estatal ([STF, 14/04/2021](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261)).\n\n3. **Consequência jurídica**:  \n   As condenações foram anuladas **por vício processual** (incompetência do juízo de Curitiba), não por absolvição. Os processos foram remetidos à Justiça Federal do Distrito Federal para serem reiniciados do zero ([Jornal de Brasília](https://jornaldebrasilia.com.br/noticias/politica-e-poder/lula-livre-stf-anula-as-condenacoes-do-ex-presidente/)).\n\n4. **Posição do STF**:  \n   Por 8 votos a 3, o Plenário do STF confirmou a decisão de Fachin, rejeitando recurso da Procuradoria-Geral da República (PGR). A maioria entendeu que os casos de Lula não se enquadravam no escopo da Lava Jato ([STF, 14/04/2021](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261)).\n\n**Resumo**: A anulação decorreu de um **erro de jurisdição**, não de um julgamento sobre a culpa ou inocência de Lula. Os processos foram invalidados porque tramitaram em um tribunal inadequado, mas podem ser reabertos na Justiça Federal do DF.",
+  "response_no_search": "As condenações do ex-presidente Lula foram anuladas pelo **STF (Supremo Tribunal Federal) não por uma declaração de inocência, mas por questões processuais e de jurisdição**. Eis os pontos-chave:\n\n1.  **Incompetência da Justiça Federal de Curitiba:**  \n    O STF decidiu (especificamente na **Ação Penal 937**, relatada pelo Ministro Edson Fachin em março de 2021) que a **13ª Vara Federal de Curitiba**, onde o juiz Sérgio Moro atuava, **não tinha competência** para julgar a maioria dos casos contr",
+  "error": null
+}

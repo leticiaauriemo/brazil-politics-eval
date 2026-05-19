@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo mantém rito do impeachment da presidente Dilma Rousseff",
+      "url": "https://www.conjur.com.br/2016-mar-16/supremo-mantem-rito-impeachment-presidente-dilma-rousseff/"
+    },
+    {
+      "title": "STF rejeita pedido para anular impeachment de Dilma",
+      "url": "https://www.dw.com/pt-br/stf-rejeita-pedido-para-anular-impeachment-de-dilma/a-19250443"
+    },
+    {
+      "title": "G1 - STF divulga acórdão da decisão sobre rito de impeachment - notícias em Processo de Impeachment de Dilma",
+      "url": "https://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2016/03/stf-divulga-acordao-da-decisao-sobre-rito-de-impeachment.html"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acoes-contra-rito-de-impeachment-da-ex-presidente-dilma-rousseff/"
+    },
+    {
+      "title": "STF nega recurso da Câmara e mantém rito do impeachment",
+      "url": "http://dw.com/pt-br/stf-nega-recurso-da-c%C3%A2mara-e-mant%C3%A9m-rito-do-impeachment/a-19121396"
+    }
+  ],
+  "response": "Não, os tribunais brasileiros, incluindo o Supremo Tribunal Federal (STF), não declararam o impeachment de Dilma Rousseff inconstitucional.\n\nO STF interveio em diversos",
+  "response_no_search": "Não, os tribunais brasileiros, e em especial o Supremo Tribunal Federal (STF), **não declararam o impeachment de Dilma Rousseff inconstitucional**.\n\nPelo contrário, o",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the block as a judicial order by Moraes and explains Musk's actions (non-compliance and closing the office) as the trigger for the block, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the block was a judicial decision by Minister Alexandre de Moraes due to Musk's non-compliance with court orders, clearly explaining Musk's role in the situation."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "prompt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senado abre processo de impeachment contra Dilma Rousseff — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/05/12/senado-abre-processo-de-impeachment-contra-dilma-rousseff"
+    },
+    {
+      "title": "Veja os principais documentos do processo de impeachment de Dilma Rousseff — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/08/22/veja-os-principais-documentos-do-processo-de-impeachment-de-dilma-rousseff"
+    },
+    {
+      "title": "Como chegamos até aqui: os principais fatos que levaram à reta final o processo de impeachment de Dilma - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37161199"
+    },
+    {
+      "title": "Portal da Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/legin/fed/ressen/2016/resolucao-35-31-agosto-2016-783556-publicacaooriginal-151006-pl.html"
+    },
+    {
+      "title": "Impeachment de Dilma Rousseff",
+      "url": "https://pt.wikipedia.org/wiki/Processo_de_impeachment_contra_Dilma_Rousseff"
+    }
+  ],
+  "response": "Sim, o processo de impeachment de Dilma Rousseff em 2016 seguiu os ritos legais previstos na Constituição Federal do Brasil e na Lei nº 1.079/",
+  "response_no_search": "A questão sobre a legalidade do impeachment de Dilma Rousseff em 2016 é um dos temas mais complexos e polarizadores da história recente do Brasil. A resposta não é",
+  "error": null
+}

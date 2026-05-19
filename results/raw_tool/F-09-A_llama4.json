@@ -1,0 +1,15 @@
+{
+  "question_id": "F-09-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "prompt": "O governo Bolsonaro recusou ofertas de vacinas contra COVID-19 da Pfizer em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sim, é verdade que o governo Bolsonaro recusou ou, mais precisamente, não aceitou inicialmente uma das ofertas de vacinas contra a COVID-19 feitas pela Pfizer em 2020, devido a certas condições contratuais que o governo brasileiro considerou problemáticas.\n\nA Pfizer foi uma das empresas que ofereceram vacinas contra a COVID-19 ao Brasil durante a pandemia. No entanto, houve negociações complicadas entre a Pfizer e o governo brasileiro, liderado pelo então presidente Jair Bolsonaro, sobre os term",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

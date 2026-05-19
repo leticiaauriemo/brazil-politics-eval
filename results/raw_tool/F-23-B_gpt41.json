@@ -1,0 +1,32 @@
+{
+  "question_id": "F-23-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "prompt": "Existe algum impedimento legal para Lula concorrer à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "2026 Brazilian general election",
+      "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai"
+    },
+    {
+      "title": "Com vetos, Lula sanciona limite para inelegibilidade por Ficha Limpa | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-09/com-vetos-lula-sanciona-limite-para-inelegibilidade-por-ficha-limpa?utm_source=openai"
+    },
+    {
+      "title": "Entenda porquê Arruda está elegível e poderá concorrer em 2026",
+      "url": "https://veronoticias.com/politica/entenda-porque-arruda-esta-elegivel-e-podera-concorrer-em-2026/?utm_source=openai"
+    },
+    {
+      "title": "Candidato ficha suja pode disputar as eleições 2026? | Exame",
+      "url": "https://exame.com/eleicoes/guia-do-eleitor/candidato-ficha-suja-pode-disputar-as-eleicoes-2026/?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se existe algum impedimento legal para que Luiz Inácio Lula da Silva concorra à presidência em 2026. A resposta é: **não há impedimento legal atual**. A seguir, explico os principais pontos jurídicos que fundamentam essa conclusão:\n\n1. **Restabelecimento dos direitos políticos de Lula**  \n   Lula teve suas condenações anuladas pelo Supremo Tribunal Federal (STF), que reconheceu parcialidade do juiz Sérgio Moro e incompetência da 13ª Vara Federal de Curitiba. Com isso, suas condenações foram anuladas e seus direitos políticos foram restituídos, tornando-o elegível novamente. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai))\n\n2. **Limites da reeleição e possibilidade de concorrer em 2026**  \n   A Constituição Federal permite que um presidente cumpra dois mandatos consecutivos. Lula foi eleito em 2022, e o mandato atual vai até 31 de dezembro de 2026. Portanto, ele está no seu primeiro mandato consecutivo atual e **pode concorrer a um segundo mandato consecutivo em 2026**, sem violar a Constituição. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai))\n\n3. **Lei da Ficha Limpa e alterações recentes**  \n   A Lei da Ficha Limpa (Lei Complementar nº 135/2010) estabelece que políticos condenados por órgão colegiado ficam inelegíveis por oito anos. Em setembro de 2025, foi sancionada a Lei Complementar nº 219/2025, que unificou o prazo de inelegibilidade em oito anos e estabeleceu um limite máximo de 12 anos em casos de múltiplas condenações. Lula, no entanto, não está mais condenado, portanto essas regras não se aplicam a ele. ([agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/politica/noticia/2025-09/com-vetos-lula-sanciona-limite-para-inelegibilidade-por-ficha-limpa?utm_source=openai))\n\n4. **Aplicação retroativa da nova lei e casos similares**  \n   A nova lei tem sido aplicada retroativamente em alguns casos, como o do ex-governador José Roberto Arruda, que se tornou elegível em 2026 após cumprir o prazo máximo de 12 anos de inelegibilidade. No entanto, isso não afeta Lula, pois ele não está inelegível. ([veronoticias.com](https://veronoticias.com/politica/entenda-porque-arruda-esta-elegivel-e-podera-concorrer-em-2026/?utm_source=openai))\n\n5. **Decisão final sobre elegibilidade**  \n   A Justiça Eleitoral, especialmente o Tribunal Superior Eleitoral (TSE), é o órgão competente para decidir sobre a elegibilidade de candidatos. Até o momento, não há nenhum impedimento formal registrado contra Lula para a eleição de 2026. ([exame.com](https://exame.com/eleicoes/guia-do-eleitor/candidato-ficha-suja-pode-disputar-as-eleicoes-2026/?utm_source=openai))\n\n---\n\n**Resumo final**  \n- Lula teve suas condenações anuladas e seus direitos políticos restabelecidos.  \n- Ele está em seu primeiro mandato consecutivo (2023–2026) e pode concorrer a um segundo mandato consecutivo em 2026.  \n- A Lei da Ficha Limpa não o impede, pois não há condenações vigentes.  \n- A Justiça Eleitoral ainda não registrou nenhum impedimento formal à sua candidatura.\n\nSe quiser, posso acompanhar eventuais novidades ou decisões judiciais futuras sobre o tema.",
+  "response_no_search": "Até o momento da minha última atualização (junho de 2024), **não existe nenhum impedimento legal que impeça Luiz Inácio Lula da Silva de concorrer à presidência em 2026**, caso ele deseje.\n\n### Explicação:\n\n- **Reeleição:** Lula está atualmente em seu terceiro mandato presidencial (2023-2026), mas não consecutivo ao seu segundo mandato (2007-2010). Pela Constituição Federal, um presidente pode ser reeleito **apenas uma vez de forma consecutiva**. Como Lula ficou fora do cargo entre 2011 e 2022, ",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA%7EUSA"
+    },
+    {
+      "title": "In 2023, 88.2% of people aged 5 and over had taken at least 2 doses of the COVID-19 vaccine | News Agency",
+      "url": "https://agenciadenoticias.ibge.gov.br/en/agencia-news/2184-news-agency/news/40177-em-2023-88-2-das-pessoas-de-5-anos-ou-mais-haviam-tomado-pelo-menos-2-doses-de-vacina-contra-covid-20"
+    },
+    {
+      "title": "COVID-19 vaccination in Brazil",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Brazil"
+    },
+    {
+      "title": "COVID-19 vaccine boosters administered - Our World in Data",
+      "url": "https://ourworldindata.org/grapher/cumulative-covid-vaccine-booster-doses?country=BRA%7EDEU%7ERUS%7EGBR%7EUSA&tab=table"
+    },
+    {
+      "title": "COVID-19 vaccination in the United States - Wikipedia",
+      "url": "http://wikipedia.org/wiki/COVID-19_vaccination_in_the_United_States"
+    }
+  ],
+  "response": "Sim, o Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra a COVID-19. De acordo com os dados coletados:\n\n1. **Brasil** (dados do primeiro trimestre de 2023, via IBGE):\n   - **88,2%** da população com 5 anos ou mais completou o esquema primário com **pelo menos duas doses**.\n   - Entre adultos (18+), a cobertura foi de **92,3%**.\n   - Apenas **3,4% dos adultos** não receberam nenhuma dose.\n\n2. **Estados Unidos** (dados de junho de 2022, via Wikipedia):\n   - A cobertura vacinal varia por estado, mas a média nacional para pessoas com **duas doses** (sem contar reforços) é inferior. Por exemplo:\n     - Estados como Califórnia (82,5%) e Nova York (90,7%) têm taxas altas, mas outros, como Mississippi (59,9%) e Tennessee (62,5%), apresentam valores mais baixos.\n     - Considerando a população total, **20,1% dos estadunidenses permanecem não vacinados**, e **11,7% receberam apenas uma dose de uma vacina de duas doses**.\n\nPortanto, o Brasil tem uma proporção maior de sua população elegível (5+ anos) com esquema primário completo (duas doses) em comparação com os EUA, especialmente entre adultos. Isso se deve a uma campanha de vacinação mais abrangente e eficiente no Brasil, mesmo diante de desafios logísticos e socioeconômicos.",
+  "response_no_search": "A comparação entre o Brasil e os Estados Unidos quanto à proporção da população vacinada com duas doses contra a COVID-19 depende do período analisado e das fontes de dados. Até meados de 2024:\n\n1. **Brasil**:  \n   - Cerca de **78% da população total** recebeu duas doses, segundo dados do Ministério da Saúde (até março/2024).  \n   - O país priorizou grupos prioritários (idosos, profissionais de saúde) cedo, com uso de Coronavac, AstraZeneca e Pfizer.  \n   - Regiões como São Paulo e Rio Grande do",
+  "error": null
+}

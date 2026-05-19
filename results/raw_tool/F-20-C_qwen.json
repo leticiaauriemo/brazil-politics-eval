@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "COVID-19 Data Explorer - Our World in Data",
+      "url": "https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&amp;facet=none&amp;pickerSort=desc&amp;pickerMetric=population&amp;hideControls=true&amp;Metric=People+vaccinated+%28by+dose%29&amp;Interval=Cumulative&amp;Relative+to+Population=true&amp;Color+by+test+positivity=false&amp;country=BHR~BRA~CHL~FRA~DEU~HUN~IND~ISR~SRB~TUR~GBR~USA~URY~ESP~ITA~ARE~MEX~RUS"
+    },
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA"
+    },
+    {
+      "title": "Total COVID-19 vaccine doses administered per 100 people - Our World in Data",
+      "url": "https://ourworldindata.org/grapher/covid-vaccination-doses-per-capita?country=ARG%7EAUS%7EBRA%7ECAN%7ECHN%7EDEU%7EFRA%7EIND%7EIDN%7EITA%7EJPN%7EMEX%7ERUS%7ESAU%7EZAF%7EKOR%7ETUR%7EUSA%7EGBR%7EEuropean+Union&time=latest"
+    },
+    {
+      "title": "Understanding Vaccination Progress by Country",
+      "url": "https://coronavirus.jhu.edu/vaccines/international"
+    },
+    {
+      "title": "ANÁLISE COMPARATIVA DO NÚMERO DE HOSPITALIZAÇÕES, RELACIONADAS COM A COBERTURA VACINAL ENTRE O BRASIL E AS DEZ MAIORES ECONOMIAS DO MUNDO",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8829338/"
+    }
+  ],
+  "response": "O programa de vacinação contra a COVID-19 no Brasil esteve **abaixo da média dos países desenvolvidos**, especialmente no início e durante a maior parte de 2021. Dados do estudo comparativo publicado no **NCBI** (2022) indicam que, até agosto de 2021, **71,67% da população brasileira estava vacinada**, enquanto países como Reino Unido (95,96%), Alemanha (95,94%), Estados Unidos (95,89%) e França (92,60%) apresentavam coberturas significativamente mais altas. \n\nEmbora o Brasil tenha avançado na vacinação ao longo de 2022, países desenvolvidos mantiveram taxas superiores, muitos ultrapassando 80-90% da população vacinada. Fontes como o **Our World in Data** (atualizado até 2022) confirmam que a média global dos países desenvolvidos permaneceu acima da brasileira, mesmo com melhorias posteriores. \n\nPortanto, apesar dos esforços, o Brasil enfrentou desafios logísticos, desigualdades regionais e hesitação vacinal, resultando em uma cobertura inferior à média dos países mais industrializados.",
+  "response_no_search": "O programa de vacinação contra a COVID-19 no Brasil apresentou um desempenho misto em comparação com a média dos países desenvolvidos, com desafios iniciais e uma recuperação gradual. Aqui está uma análise detalhada:\n\n### **1. Início Atrasado e Obstáculos Iniciais**\n- **Atraso na distribuição**: O Brasil iniciou a vacinação em janeiro de 2021, cerca de um mês após países como Estados Unidos, Reino Unido e Israel. Isso foi agravado por atrasos na aquisição de vacinas (como a CoronaVac, produzida ",
+  "error": null
+}

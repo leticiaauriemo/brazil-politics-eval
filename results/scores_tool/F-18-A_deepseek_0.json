@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies both arrests of Daniel Vorcaro (November 2025 and March 2026) under Operation Compliance Zero and mentions the investigation into irregularities in the bank's management, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Daniel Vorcaro was arrested in both November 2025 and March 2026, but it lacks specific details about the crimes investigated in the operation."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

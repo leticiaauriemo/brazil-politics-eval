@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em território Yanomami — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Ministério da Saúde",
+      "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2023/prt0028_20_01_2023.html"
+    },
+    {
+      "title": "Brazil declares public health emergency for Yanomami people | CBC News",
+      "url": "https://www.cbc.ca/news/world/brazil-yanomami-health-emergency-1.6722007"
+    },
+    {
+      "title": "Brazil: Lula declares public health emergency for Yanomami people in the Amazon",
+      "url": "https://www.lemonde.fr/en/international/article/2023/01/22/brazil-lula-declares-public-health-emergency-for-yanomami-people_6012537_4.html"
+    },
+    {
+      "title": "UNICEF Bolsters Response to Humanitarian Crisis in Yanomami Territory",
+      "url": "https://www.unicef.org/brazil/en/press-releases/unicef-bolsters-response-humanitarian-crisis-yanomami-territory"
+    }
+  ],
+  "response": "A emergência humanitária na terra Yanomami foi declarada pelo governo Lula.",
+  "response_no_search": "A emergência humanitária na terra Yanomami foi declarada pelo governo Lula, em janeiro de 2023.",
+  "error": null
+}

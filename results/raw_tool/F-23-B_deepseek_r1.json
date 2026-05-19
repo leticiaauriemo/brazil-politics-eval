@@ -1,0 +1,15 @@
+{
+  "question_id": "F-23-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "prompt": "Existe algum impedimento legal para Lula concorrer à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Com base na legislação brasileira atual e no contexto jurídico-politico, **não há impedimento legal formal para que Luiz Inácio Lula da Silva concorra à presidência em 2026**. Os principais aspectos são:\n\n### 1. **Reeleição e Limites de Mandato**  \n   - A Constituição (art. 14, §5º) permite **apenas uma reeleição consecutiva**. Como Lula foi eleito em **2022** (após mandatos não consecutivos: 2003–2010 e 2023–2027), **ele poderá concorrer novamente em 2026**, pois não se trata de uma tentativa d",
+  "error": "Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}"
+}

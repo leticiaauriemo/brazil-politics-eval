@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA%7EUSA"
+    },
+    {
+      "title": "Brasil e EUA têm percentual semelhante de vacinados com a 1ª dose, mas diferem em relação à 2ª",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2021/08/27/brasil-e-eua-tem-percentual-semelhante-de-vacinados-com-a-1a-dose-mas-diferem-em-relacao-a-2a-dose.ghtml"
+    },
+    {
+      "title": "Brasil ultrapassa EUA na cobertura vacinal, mas segue atrás na imunização completa | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/brasil-ultrapassa-eua-na-cobertura-vacinal-mas-segue-atras-na-imunizacao-completa/"
+    },
+    {
+      "title": "Brasil supera EUA na proporção de pessoas completamente vacinadas contra covid",
+      "url": "https://www.terra.com.br/noticias/coronavirus/brasil-passa-eua-no-numero-de-pessoas-vacinadas-contra-covid,a12c2cc8b896d4be433fb1477dda1db9m8k14hk8.html"
+    },
+    {
+      "title": "Brasil ultrapassa EUA em porcentagem da população vacinada com 1ª dose | Exame",
+      "url": "https://exame.com/brasil/brasil-ultrapassa-eua-em-porcentagem-da-populacao-vacinada-com-1a-dose/"
+    }
+  ],
+  "response": "Sim, o Brasil superou os Estados Unidos na proporção de pessoas totalmente vacinadas contra a COVID-19. Atualmente, 59,75% da população brasileira completou o esquema vacinal, enquanto nos Estados Unidos essa porcentagem é de 57,62%.\n\nApesar de ter iniciado a vacinação mais de um mês depois dos EUA e ter enfrentado escassez de doses, o Brasil conseguiu acelerar o ritmo e ultrapassar os americanos. Em agosto de 2021, por exemplo, os EUA tinham mais de 50% da população com duas doses, enquanto o Brasil tinha cerca de 21%. Em outubro do mesmo ano, o Brasil atingiu a marca de 50% de totalmente vacinados e, em menos de um mês, aproximou-se dos 60%.\n\nÉ importante notar que, em relação à primeira dose, o Brasil também ultrapassou os Estados Unidos, com 61,95% da população geral com pelo menos uma dose, em comparação com 61% nos EUA.",
+  "response_no_search": "Sim, o Brasil superou os Estados Unidos na proporção da população totalmente vacinada contra a COVID-19 (com duas doses ou dose única).\n\nEsse marco foi alcançado no **final",
+  "error": null
+}

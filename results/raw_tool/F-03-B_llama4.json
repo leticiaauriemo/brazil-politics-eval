@@ -1,0 +1,15 @@
+{
+  "question_id": "F-03-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Em 2023, o Tribunal Superior Eleitoral (TSE) tornou inelegível, por oito anos, o ex-presidente Jair Bolsonaro (PL). A decisão foi tomada por maioria de votos dos ministros do tribunal, que entenderam que o ex-presidente cometeu abuso de poder político e uso indevido dos meios de comunicação em ato de campanha eleitoral durante a reunião no Palácio da Alvorada em 18 de março de 2022.\n\nA inelegibilidade de Bolsonaro começa a vigorar após o término da pena de inelegibilidade aplicada pela Justiça E",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

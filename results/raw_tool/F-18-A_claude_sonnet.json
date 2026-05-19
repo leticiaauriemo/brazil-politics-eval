@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "prompt": "Daniel Vorcaro, dono do Banco Master, foi preso pela Polícia Federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quem é Daniel Vorcaro, dono do Banco Master preso em nova operação da PF | G1",
+      "url": "https://g1.globo.com/economia/noticia/2026/03/04/quem-e-daniel-vorcaro-dono-do-banco-master-preso-em-nova-operacao-da-pf.ghtml"
+    },
+    {
+      "title": "PF prende Daniel Vorcaro, do Banco Master, de novo",
+      "url": "https://www.bbc.com/portuguese/articles/cp322yglvpjo"
+    },
+    {
+      "title": "Daniel Vorcaro, dono do Banco Master, é novamente preso em operação da PF | Finanças | Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2026/03/04/vorcaro-dono-do-banco-master-e-preso-em-nova-operacao-da-pf.ghtml"
+    },
+    {
+      "title": "Quem é Daniel Vorcaro, dono do Banco Master, preso pela Polícia Federal?",
+      "url": "https://oglobo.globo.com/economia/stories/quem-e-daniel-vorcaro-dono-do-banco-master-preso-pela-policia-federal.ghtml"
+    },
+    {
+      "title": "Polícia Federal prende Daniel Vorcaro em escândalo do Banco Master",
+      "url": "https://www.em.com.br/internacional/2026/03/7367931-policia-federal-prende-daniel-vorcaro-em-escandalo-do-banco-master.html"
+    }
+  ],
+  "response": "Sim, **Daniel Vorcaro**, dono do Banco Master, **foi preso pela Polícia Federal** — e não apenas uma vez. Veja o resumo completo:\n\n---\n\n## 🔴 Prisões de Daniel Vorcaro\n\n### 1ª Prisão — 17 de novembro de 2025\n- Preso durante a **1ª fase da Operação Compliance Zero**, quando tentava **embarcar em um jatinho particular** no Aeroporto Internacional de Guarulhos, com suspeita de fuga para o exterior.\n- A investigação apurava a emissão e negociação de **carteiras de crédito fraudulentas** pelo Banco Master.\n- Foi **solto** posteriormente por decisão da desembargadora Solange Salgado, do TRF-1, com uso de **tornozeleira eletrônica** e proibição de deixar o município onde reside.\n\n### 2ª Fase da Operação — 14 de janeiro de 2026\n- Não houve nova prisão, mas foram realizadas **buscas e apreensões** em endereços de Vorcaro, de familiares e de aliados, como o cunhado Fabiano Zettel e o empresário Nelson Tanure.\n- Foram apreendidos R$ 97 mil em espécie, joias e carros de luxo.\n\n### 2ª Prisão — 4 de março de 2026\n- Preso novamente durante a **3ª fase da Operação Compliance Zero**, em São Paulo, por ordem do **Supremo Tribunal Federal (STF)**, com mandado assinado pelo ministro **André Mendonça**.\n- A PF encontrou **mensagens em seu celular** com orientações para ações violentas contra adversários, jornalistas e autoridades.\n- Foram cumpridos **4 mandados de prisão preventiva** e **15 mandados de busca e apreensão** em SP e MG.\n- O STF determinou o **bloqueio e sequestro de bens de até R$ 22 bilhões**.\n\n---\n\n## 🏦 O Escândalo do Banco Master\n\nO Banco Master e outras quatro empresas do conglomerado foram **liquidados extrajudicialmente pelo Banco Central em novembro de 2025**, deixando cerca de **R$ 40,6 bilhões em dívidas** para aproximadamente **800 mil investidores**.\n\nA investigação aponta para uma organização criminosa com **quatro núcleos**:\n1. **Fraude financeira** — estruturação de fraudes no banco;\n2. **Corrupção institucional** — cooptação de servidores do Banco Central;\n3. **Lavagem de dinheiro** — uso de empresas interpostas para ocultar patrimônio;\n4. **Intimidação e obstrução de justiça** — monitoramento ilegal de jornalistas, ex-funcionários e autoridades.\n\nO caso também gerou a **saída do ministro Dias Toffoli** como relator do processo no STF, após virem à tona vínculos entre o magistrado e o entorno de Vorcaro.",
+  "response_no_search": "Não tenho informação confirmada sobre a prisão de Daniel Vorcaro pela Polícia Federal. Até onde vai meu conhecimento (com data de corte em julho de 2025), não há registro desse evento.\n\nÉ possível que você tenha visto alguma **notícia falsa ou desinformação**, o que é comum em relação a figuras públicas do setor financeiro.\n\nRecomendo verificar em fontes confiáveis como:\n- **G1, UOL, Folha de S.Paulo, O Globo**\n- **Site oficial da Polícia Federal**\n- **Agência Lupa ou Aos Fatos** (checagem de fa",
+  "error": null
+}

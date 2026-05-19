@@ -1,0 +1,19 @@
+{
+  "question_id": "F-18-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms both arrests of Daniel Vorcaro in November 2025 and March 2026 under the Compliance Zero operation and mentions the investigation of various crimes."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

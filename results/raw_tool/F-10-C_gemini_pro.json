@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fim da Lava Jato: o caminho que levou ao encerramento da força-tarefa",
+      "url": "https://www.gazetadopovo.com.br/republica/lava-jato-fim-forca-tarefa/"
+    },
+    {
+      "title": "MPF acaba com a força-tarefa da Lava Jato; investigação continua com estrutura reduzida",
+      "url": "http://www.gazetadopovo.com.br/republica/mpf-acaba-com-a-forca-tarefa-da-lava-jato-investigacao-continua-com-estrutura-reduzida/"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná é extinta após quase 6 anos",
+      "url": "https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html"
+    },
+    {
+      "title": "MPF anuncia fim da for�a-tarefa da Opera��o Lava-Jato em Curitiba - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2021/02/03/interna_politica,1234786/mpf-anuncia-fim-da-forca-tarefa-da-operacao-lava-jato-em-curitiba.shtml"
+    },
+    {
+      "title": "Ministério Público anuncia que força-tarefa da Lava Jato de Curitiba está dissolvida - Tribuna do Norte",
+      "url": "https://tribunadonorte.com.br/politica/ministerio-publico-anuncia-que-forca-tarefa-da-lava-jato-de-curitiba-esta-dissolvida/"
+    }
+  ],
+  "response": "O encerramento da força-tarefa da Lava Jato em Curitiba foi uma decisão do próprio **Ministério Público Federal (MPF)**.\n\nA proposta de extinguir o modelo de forças-tarefa foi do então Procurador-Geral da República, **Augusto Aras**, que era um crítico do formato da operação. Em dezembro de 2020, a Procuradoria-Geral da República (PGR) emitiu uma portaria que alterou a estrutura da Lava Jato, levando à sua dissolução oficial em 1º de fevereiro de 2021.\n\nAs investigações não foram encerradas, mas sim incorporadas ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do MPF no Paraná, porém com uma estrutura reduzida e sem a dedicação exclusiva dos procuradores aos casos da Lava Jato.",
+  "response_no_search": "A ordem para o encerramento da força-tarefa da Lava Jato em Curitiba, em fevereiro de 2021, partiu do **Procurador-Geral da República",
+  "error": null
+}

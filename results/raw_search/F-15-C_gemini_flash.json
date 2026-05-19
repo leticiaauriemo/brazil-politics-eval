@@ -1,0 +1,35 @@
+{
+  "question_id": "F-15-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em território Yanomami — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Governo decreta emergência contra desassistência de ianomâmis",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/01/20/ministerio-da-saude-decreta-emergencia-contra-desassistencia-de-ianomamis.htm"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência na terra Yanomami",
+      "url": "https://www.dw.com/pt-br/minist%C3%A9rio-da-sa%C3%BAde-declara-emerg%C3%AAncia-no-territ%C3%B3rio-yanomami/a-64476917"
+    }
+  ],
+  "response": "A emergência humanitária na terra Yanomami foi declarada pelo governo **Lula**.\n\nEm 20 de janeiro de 2023, o Ministério da Saúde, sob a gestão da Ministra Nísia Trindade, declarou Emergência em Saúde Pública de Importância Nacional devido à grave desassistência sanitária dos povos Yanomami. Esta declaração foi publicada em edição extra do Diário Oficial da União [gov.br/saude](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami), [dw.com](https://www.dw.com/pt-br/minist%C3%A9rio-da-sa%C3%BAde-declara-emerg%C3%AAncia-no-territ%C3%B3rio-yanomami/a-64476917), [noticias.uol.com.br](https://noticias.uol.com.br/politica/ultimas-noticias/2023/01/20/ministerio-da-saude-decreta-emergencia-contra-desassistencia-de-ianomamis.htm).\n\nNo mesmo dia, o Governo Federal também decretou estado de calamidade pública na terra indígena e instituiu o Comitê de Coordenação Nacional para Enfrentamento à Desassistência Sanitária das Populações em Território Yanomami, por meio de um decreto assinado pelo Presidente Lula [gov.br/povosindigenas](https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami), [gov.br/saude](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula). O presidente Lula, acompanhado de ministros como Sônia Guajajara (Povos Indígenas) e Nísia Trindade (Saúde), visitou Boa Vista (RR) no dia seguinte para verificar a situação e anunciar medidas emergenciais [gov.br/saude](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula), [dw.com](https://www.dw.com/pt-br/minist%C3%A9rio-da-sa%C3%BAde-declara-emerg%C3%AAncia-no-territ%C3%B3rio-yanomami/a-64476917).",
+  "response_no_search": "A emergência humanitária na terra Yanomami foi declarada pelo governo **Lula**.\n\nO governo Lula, em janeiro de 2023, decretou estado de emergência de saúde pública de importância nacional para enfrentar a crise humanitária e sanitária que atinge o povo Yanomami.\n\nEmbora a situação de vulnerabilidade e os problemas de saúde e segurança na terra Yanomami já fossem graves durante o governo Bolsonaro, a declaração formal de emergência e as ações coordenadas para enfrentá-la foram tomadas pelo govern",
+  "error": null
+}

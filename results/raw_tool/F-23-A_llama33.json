@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "prompt": "Lula pode se candidatar à reeleição nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula espera cenário mais favorável para se lançar pré-candidato | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/05/12/lula-espera-cenario-mais-favoravel-para-se-lancar-pre-candidato.ghtml"
+    },
+    {
+      "title": "Lula anuncia Alckmin na chapa que disputará a reeleição em outubro | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/01/lula-anuncia-alckmin-na-chapa-que-disputara-a-reeleicao-em-outubro.ghtml"
+    },
+    {
+      "title": "'Vou ser candidato, sim', diz Lula sobre eleições de outubro",
+      "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/3/19/vou-ser-candidato-sim-diz-lula-sobre-eleicoes-de-outubro"
+    },
+    {
+      "title": "Lula reafirma candidatura e fala em 'compromisso cristão'",
+      "url": "https://www.otempo.com.br/politica/governo/2026/4/14/lula-reafirma-candidatura-fala-em-compromisso-cristao-e-que-mercado-sempre-vai-querer-outro"
+    },
+    {
+      "title": "Lula diz que disputará novo mandato para impedir volta do fascismo e aprofundar inclusão social | Brasil 247",
+      "url": "https://www.brasil247.com/poder/lula-diz-que-disputara-novo-mandato-para-impedir-volta-do-fascismo-e-aprofundar-inclusao-social"
+    }
+  ],
+  "response": "Sim, Lula pode se candidatar à reeleição nas eleições de 2026. Ele já anunciou sua intenção de concorrer à reeleição e tem um compromisso moral, ético e cristão de impedir o retorno de \"fascistas\" ao poder. Além disso, ele se sente fisicamente e politicamente bem preparado para seguir na vida pública e tem um legado no país que deseja continuar a construir. No entanto, é importante notar que a decisão final sobre sua candidatura ainda depende de várias circunstâncias políticas e do momento conjuntural do país.",
+  "response_no_search": "Sim, Lula pode se candidatar à reeleição nas eleições de 2026. De acordo com a Constituição Brasileira, um presidente pode ser reeleito para um segundo mandato consecutivo, mas não pode ser reeleito para um terceiro mandato consecutivo. No entanto, após um intervalo de um mandato, o presidente pode se candidatar novamente.\n\nLula já foi presidente do Brasil de 2003 a 2010 e, após um intervalo, foi eleito novamente em 2022. Portanto, se ele cumprir seu mandato de 2023 a 2026, ele poderá se candida",
+  "error": null
+}

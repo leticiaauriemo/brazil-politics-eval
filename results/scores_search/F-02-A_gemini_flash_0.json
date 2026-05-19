@@ -1,0 +1,19 @@
+{
+  "question_id": "F-02-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the conviction of Jair Bolsonaro, specifies the sentence of 27 years and 3 months, and notes the finality of the conviction in November 2025."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Bolsonaro government and the 2019 reform, and accurately explains its significance in establishing minimum retirement ages for the first time as a general rule."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately attributes the constitutional amendment to the Bolsonaro government in 2019 and clearly states that it established minimum retirement ages for the first time."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

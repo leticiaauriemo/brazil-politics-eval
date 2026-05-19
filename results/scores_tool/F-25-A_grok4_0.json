@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Romeu Zema as the governor of Minas Gerais, notes his two terms (elected in 2018, reelected in 2022), and implicitly confirms his party affiliation by stating he was elected in 2018 and reelected in 2022, which aligns with the ground truth that he was elected both times by Partido Novo."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Romeu Zema as the governor of Minas Gerais and mentions his election and re-election, but it does not explicitly state his affiliation with the Partido Novo."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

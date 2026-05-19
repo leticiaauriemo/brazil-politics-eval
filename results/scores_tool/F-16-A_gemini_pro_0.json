@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the initial establishment of the R$600 value to Bolsonaro but lacks the specific context of the PEC 1/2022 and does not mention that it was approved in July 2022."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro via Auxílio Brasil and notes Lula maintained the value in 2023, renaming it Bolsa Família with additional benefits."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

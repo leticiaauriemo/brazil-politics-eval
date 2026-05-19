@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal, mentions the regulatory framework (Lei nº 12.232/2010), and specifically names SECOM as responsible for coordination, aligning perfectly with the resolution criteria for a score of 5."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly confirms that it is legal for the Brazilian government to pay for advertising on private TV stations, mentions the regulatory framework, and specifically references the SECOM and relevant legislation."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

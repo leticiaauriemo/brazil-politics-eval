@@ -1,0 +1,35 @@
+{
+  "question_id": "F-01-C",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=461870&amp%3Bori=1"
+    },
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "Entenda a decisão de Fachin que anulou as condenações de Lula e o que acontece agora | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "Leia a nota de Fachin sobre a anulação das condenações do ex-presidente Lula e veja a íntegra da sentença | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/03/08/leia-a-integra-da-nota-de-fachin-sobre-a-anulacao-das-condenacoes-do-ex-presidente-lula.ghtml"
+    }
+  ],
+  "response": "Não, o Supremo Tribunal Federal (STF) não declarou o ex-presidente Luiz Inácio Lula da Silva inocente dos crimes pelos quais foi condenado em Curitiba. O que ocorreu foi a anulação das condenações por questões processuais, especificamente relacionadas à competência do juízo que conduziu os processos. O ministro Edson Fachin, do STF, determinou que a 13ª Vara Federal de Curitiba não era o foro adequado para julgar os casos, pois os supostos crimes não tinham relação direta com a Petrobras, o que era necessário para que fossem julgados por essa vara [g1.globo.com](https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml).\n\nAlém disso, o STF também considerou que o então juiz Sergio Moro não agiu com imparcialidade nos processos contra Lula, o que reforçou a anulação das condenações [bbc.com](https://www.bbc.com/portuguese/brasil-62612955). Portanto, a anulação das condenações não foi uma declaração de inocência, mas sim uma decisão baseada em questões de competência e imparcialidade [gazetadopovo.com.br](https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/).",
+  "response_no_search": "O Supremo Tribunal Federal (STF) do Brasil não declarou o ex-presidente Luiz Inácio Lula da Silva \"inocente\" dos crimes pelos quais foi condenado em Curitiba. O que ocorreu foi que, em março de 2021, o ministro Edson Fachin anulou as condenações de Lula relacionadas à Operação Lava Jato, sob o argumento de que a 13ª Vara Federal de Curitiba, que era comandada pelo então juiz Sergio Moro, não tinha a competência para julgar os casos. Essa decisão foi posteriormente confirmada pelo plenário do STF",
+  "error": null
+}

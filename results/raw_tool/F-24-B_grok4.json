@@ -1,0 +1,24 @@
+{
+  "question_id": "F-24-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
+    },
+    {
+      "title": "2",
+      "url": "https://en.wikipedia.org/wiki/Second_presidency_of_Lula_da_Silva"
+    }
+  ],
+  "response": "**Lula está em seu terceiro mandato presidencial.** \n\nEle já ocupou a Presidência em dois mandatos consecutivos (2003–2010) e foi eleito novamente em 2022, assumindo o cargo pela terceira vez em 1º de janeiro de 2023.[[1]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva)[[2]](https://en.wikipedia.org/wiki/Second_presidency_of_Lula_da_Silva)\n\nEssa é a primeira vez na história do Brasil que um presidente é eleito para um terceiro mandato não consecutivo.[[1]](https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva)\n\nAtualmente (maio de 2026), ele continua no exercício desse terceiro mandato, que vai até janeiro de 2027.",
+  "response_no_search": "Lula (Luiz Inácio Lula da Silva) está em seu **terceiro mandato** como presidente do Brasil. Vamos contextualizar rapidamente:\n\n- **Primeiro mandato**: De 1º de janeiro de 2003 a 31 de dezembro de 2006.\n- **Segundo mandato**: De 1º de janeiro de 2007 a 31 de dezembro de 2010.\n- **Terceiro mandato**: Iniciado em 1º de janeiro de 2023, após vencer as eleições de 2022, e ainda em curso.\n\nEle foi reeleito para esse terceiro mandato após um intervalo de 12 anos, o que é permitido pela Constituição br",
+  "error": null
+}

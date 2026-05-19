@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the block as a judicial decision by Minister Alexandre de Moraes and explains that it was a consequence of Elon Musk's company failing to comply with court orders, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the blockage of X in Brazil was a court order by Minister Alexandre de Moraes and explains Elon Musk's role in triggering the blockage by not complying with judicial orders."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

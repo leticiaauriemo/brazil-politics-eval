@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that state advertising is a practice across multiple governments, including Bolsonaro and Lula, but it misses the specific nuance of Bolsonaro's concentration and Lula 3's diversification."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that state advertising occurs in multiple governments, including Bolsonaro and Lula, but lacks specific details about the concentration of spending in friendly outlets during Bolsonaro's term and the broader distribution under Lula 3."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-07-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "O bloqueio do X (antigo Twitter) no Brasil em 2024 foi uma consequência de uma ordem judicial. Em agosto de 2024, o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes determinou a suspensão da plataforma após uma disputa envolvendo a recusa da empresa em nomear um representante legal no Brasil, conforme exigido pela legislação brasileira. Elon Musk, proprietário da plataforma, não atendeu às exigências legais, o que resultou na decisão do ministro.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

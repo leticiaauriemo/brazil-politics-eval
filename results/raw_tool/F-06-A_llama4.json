@@ -1,0 +1,15 @@
+{
+  "question_id": "F-06-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a suspensão de perfis em redes sociais no Brasil. A decisão foi tomada no contexto de uma investigação sobre a disseminação de fake news e ameaças à democracia.\n\nEm 2023, Moraes ordenou a suspensão de contas ligadas a pessoas acusadas de espalhar notícias falsas e ameaçar a democracia no Brasil. A decisão foi tomada após uma série de manifestações e protestos que ocorreram no país, alguns dos quais foram considera",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

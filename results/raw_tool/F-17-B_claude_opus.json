@@ -1,0 +1,32 @@
+{
+  "question_id": "F-17-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "BC rejeita compra do Master pelo Banco de Brasília (BRB) | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-09/bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb"
+    },
+    {
+      "title": "O que levou o BC a rejeitar compra do Banco Master pelo BRB em setembro | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/o-que-levou-o-bc-a-rejeitar-compra-do-banco-master-pelo-brb-em-setembro/"
+    },
+    {
+      "title": "BRB propôs mudanças para salvar compra do Master horas antes de veto do BC",
+      "url": "https://www.metropoles.com/brasil/brb-propos-mudancas-para-salvar-compra-do-master-horas-antes-de-veto-do-bc"
+    },
+    {
+      "title": "Banco Central rejeitou compra do Master pelo BRB dois meses antes de liquidação | Brasil 247",
+      "url": "https://www.brasil247.com/economia/banco-central-rejeitou-compra-do-master-pelo-brb-dois-meses-antes-de-liquidacao"
+    }
+  ],
+  "response": "# O destino do Banco Master após a rejeição do Banco Central\n\nApós o Banco Central vetar a compra pelo BRB em setembro de 2025, o Banco Master seguiu uma trajetória de colapso que culminou em liquidação extrajudicial e investigação criminal. Veja o resumo dos acontecimentos:\n\n## A rejeição pelo Banco Central (setembro de 2025)\n\nO Banco Central decidiu rejeitar a compra do Banco Master pelo Banco de Brasília (BRB), que estava em análise pela instituição desde março e era a última etapa regulatória necessária para que a operação fosse adiante. A decisão sobre o veto foi informada na noite de quarta-feira (3 de setembro), em comunicado de fato relevante do BRB aos investidores.\n\nNa época, o órgão regulador apontou riscos excessivos na operação, especialmente em relação aos ativos detidos pelo Master, que não se alinhavam ao perfil do BRB e de seus correntistas.\n\n## Tentativa de última hora do BRB\n\nHoras antes de o Banco Central rejeitar a compra, o banco público fez uma última tentativa para salvar o negócio. Documentos mostram que a então diretoria do BRB chegou a propor mudanças relevantes na operação, incluindo a saída de Daniel Vorcaro do quadro societário. O ofício foi enviado ao BC em 3 de setembro de 2025, às 11h22. No mesmo dia, às 19h20, os dois bancos foram informados de que a Diretoria Colegiada do BC havia decidido, por unanimidade, barrar a operação.\n\n## Alertas prévios do BC\n\nDois meses antes de barrar oficialmente a aquisição, o Banco Central já havia informado às duas instituições que o negócio, da forma como foi apresentado, não poderia ser aprovado. Entre os pontos críticos levantados estava um relatório da consultoria PwC, que identificou falhas relevantes na qualidade das informações apresentadas, apontando ausência de reconciliação de saldos importantes como aplicações compromissadas, operações de crédito e depósitos à vista. Parte desses dados era controlada manualmente, o que aumentava o risco de inconsistências.\n\n## Liquidação extrajudicial e prisão do dono (novembro de 2025)\n\nO Banco Central decretou em 18 de novembro a liquidação extrajudicial do Banco Master, em meio a uma operação da Polícia Federal que resultou na prisão de Daniel Vorcaro, dono da institu",
+  "response_no_search": "Não tenho informações detalhadas sobre os desdobramentos específicos após uma eventual rejeição da compra do Banco Master pelo BRB (Banco de Brasília) por parte do Banco Central.\n\nO que sei do contexto geral:\n\n- Em **março de 2025**, foi anunciado que o **BRB** pretendia adquirir o **Banco Master**, controlado por Daniel Vorcaro, em uma operação que gerou bastante controvérsia.\n- A operação levantou questionamentos sobre a carteira de crédito do Master, exposição a precatórios e títulos privados",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "prompt": "Quem criou o programa Bolsa Família no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsa Família nasceu da unificação de programas de Fernando Henrique Cardoso – Noticias R7",
+      "url": "https://noticias.r7.com/brasil/bolsa-familia-nasceu-da-unificacao-de-programas-denbspfernando-henrique-cardoso-29062022/"
+    },
+    {
+      "title": "Uma controvérsia de anos: Quem criou o Bolsa Família? - Aventuras na História",
+      "url": "https://aventurasnahistoria.com.br/noticias/almanaque/uma-controversia-de-anos-quem-criou-o-bolsa-familia.phtml"
+    },
+    {
+      "title": "'Estado se afastou dos pobres', diz o criador do Bolsa Família",
+      "url": "https://oglobo.globo.com/economia/noticia/2022/09/estado-se-afastou-dos-pobres-diz-o-criador-do-bolsa-familia.ghtml"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    },
+    {
+      "title": "InstitutoLula - Bolsa Família: 22 anos do maior programa de combate à fome do mundo",
+      "url": "https://institutolula.org/noticias/noticias/bolsa-familia-22-anos-do-maior-programa-de-combate-a-fome-do-mundo"
+    }
+  ],
+  "response": "I'll look up information about the creator of the Bolsa Família program in Brazil. Let me search for reliable sources.\n\nBanayO programa **Bolsa Família** foi formalmente criado durante o governo do presidente **Luiz Inácio Lula da Silva** (2003–2010), por meio da **Lei nº 10.836, de 9 de janeiro de 2004**. No entanto, sua origem é resultado da unificação de programas sociais anteriores, como:  \n- **Bolsa Escola** (criado por Cristovam Buarque no Distrito Federal em 1995 e implementado em nível federal por Fernando Henrique Cardoso em 2001);  \n- **Bolsa Alimentação** e **Auxílio-Gás** (também instituídos no governo FHC);  \n- **Cadastramento Único do Governo Federal**.  \n\n### Principais pontos:  \n1. **Formalização**:  \n   - Lula unificou os programas existentes sob o nome \"Bolsa Família\", centralizando a gestão no Ministério do Desenvolvimento Social.  \n   - A lei de 2004 consolidou o programa como política nacional de transferência de renda.  \n\n2. **Precursores**:  \n   - **Fernando Henrique Cardoso** (FHC): estruturou programas-base como Bolsa Escola e Auxílio-Gás.  \n   - **Cristovam Buarque**: idealizou o conceito de \"Bolsa-Escola\" em 1986 e implementou-o no DF (1995–1999).  \n   - **José Roberto Magalhães** (PSDB): criou programa similar em Campinas (1995).  \n\n3. **Impacto**:  \n   - O Bolsa Família tornou-se a maior iniciativa de combate à pobreza do mundo, beneficiando até 14 milhões de famílias.  \n\nEm resumo: **Lula formalizou o programa**, mas sua concepção envolve contribuições de diversos atores e governos anteriores.",
+  "response_no_search": "O programa **Bolsa Família** foi **criado e implementado durante o primeiro governo do presidente Luiz Inácio Lula da Silva (PT)**, em **outubro de 2003**.\n\nAqui estão os detalhes importantes:\n\n1.  **Presidente:** Luiz Inácio Lula da Silva.\n2.  **Ministro responsável:** Patrus Ananias, então Ministro do Desenvolvimento Social e Combate à Fome (MDS).\n3.  **Lei de criação:** Medida Provisória nº 132, convertida na **Lei nº 10.836, de 9 de janeiro de 2004**.\n4.  **Contexto:** O Bolsa Família foi um",
+  "error": null
+}

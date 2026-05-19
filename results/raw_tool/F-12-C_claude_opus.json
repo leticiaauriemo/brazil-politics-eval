@@ -1,0 +1,24 @@
+{
+  "question_id": "F-12-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro vai passar 8 de janeiro em casa na praia de Angra dos Reis | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-vai-passar-8-de-janeiro-em-casa-na-praia-de-angra-dos-reis/"
+    },
+    {
+      "title": "Ataques de 8 de janeiro em Brasília – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Ataques_de_8_de_janeiro_em_Bras%C3%ADlia"
+    }
+  ],
+  "response": "Não, Bolsonaro não estava no Brasil em 8 de janeiro de 2023. Durante os atos criminosos de 8 de janeiro de 2023, Bolsonaro estava longe da capital do país — encontrava-se nos Estados Unidos, para onde viajou após deixar o comando para Luiz Inácio Lula da Silva (PT), sem fazer a passagem da faixa presidencial ou participar da posse do petista.\n\nMais especificamente, ele estava em Orlando desde 30 de dezembro de 2022, ou seja, viajou ainda antes do fim de seu mandato e permaneceu nos EUA durante os ataques às sedes dos Três Poderes em Brasília.",
+  "response_no_search": "Não. No dia 8 de janeiro de 2023, quando ocorreram os ataques às sedes dos Três Poderes em Brasília, Jair Bolsonaro estava nos Estados Unidos, mais especificamente em Orlando, na Flórida. Ele havia deixado o Brasil em 30 de dezembro de 2022, dois dias antes do fim de seu mandato presidencial e da posse de Luiz Inácio Lula da Silva, que ocorreu em 1º de janeiro de 2023.\n\nBolsonaro permaneceu nos EUA por cerca de três meses, retornando ao Brasil apenas em 30 de março de 2023.",
+  "error": null
+}

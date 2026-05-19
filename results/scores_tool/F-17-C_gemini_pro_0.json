@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the liquidation of Banco Master but lacks specific details about the Compliance Zero investigation."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model confirms the liquidation of the Banco Master but does not mention the Central Bank's decision in November 2025 or the Compliance Zero operation, providing only partial details about the reasons for the liquidation."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

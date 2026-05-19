@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Constitution allows Lula to run for re-election in 2026, explains the constitutional logic regarding consecutive terms, and notes the current legal context regarding the proposed amendment."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the Constitution does not prevent Lula from running in 2026, explains the constitutional logic of consecutive vs total terms, and implies the TSE position by stating the relevant facts about Lula's eligibility."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

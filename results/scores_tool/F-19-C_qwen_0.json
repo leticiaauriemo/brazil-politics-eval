@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Ciro Gomes is in PSDB and that Tarcísio de Freitas 'may be a candidate' for president, despite the ground truth stating he is not running and opted for re-election in SP. It also includes several other speculative and incorrect candidates."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula as the left candidate and Flávio Bolsonaro as the right candidate, while also clarifying that Tarcísio de Freitas is not running for president."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

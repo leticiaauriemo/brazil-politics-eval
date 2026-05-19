@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "Lula: absolvido ou inocente? Com um ano de governo, desinformação persiste — Humanista",
+      "url": "https://www.ufrgs.br/humanista/2023/12/04/lula-absolvido-ou-inocente-com-um-ano-de-governo-desinformacao-persiste/"
+    },
+    {
+      "title": "Dino diz que decisão de Toffoli reafirma inocência de Lula e prova 'absurdo histórico' | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2023/09/06/dino-diz-que-decisao-de-toffoli-reafirma-inocencia-de-lula-e-prova-absurdo-historico.ghtml"
+    },
+    {
+      "title": "Entenda por que Lula é inocente sem ter sido inocentado",
+      "url": "https://www.portaldoholanda.com.br/politica/entenda-por-que-lula-e-inocente-sem-ter-sido-inocentado"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva, ex-presidente do Brasil, teve suas condenações na operação Lava Jato anuladas pelo Supremo Tribunal Federal (STF) em 2021. As anulações ocorreram por razões técnicas, como a parcialidade do então juiz Sergio Moro e a incompetência da Justiça de Curitiba para julgar os casos. Isso significa que as condenações foram consideradas nulas, mas não houve uma revisão do mérito das acusações ou das provas apresentadas.\n\nPortanto, Lula não foi formalmente \"inocentado\" no sentido de uma absolvição que revisasse as provas e concluísse pela sua inocência. No entanto, com a anulação das condenações, ele retornou à condição de inocente perante a Justiça, conforme o princípio da presunção de inocência, que estabelece que ninguém é considerado culpado até o trânsito em julgado de sentença penal condenatória.\n\nAlém disso, em alguns casos, como na operação Zelotes, Lula foi absolvido por falta de provas. Contudo, a maioria dos processos relacionados à Lava Jato foram anulados ou arquivados por questões processuais, e não por uma declaração formal de inocência.",
+  "response_no_search": "Sim, Luiz Inácio Lula da Silva, ex-presidente do Brasil, teve suas condenações relacionadas à Operação Lava Jato anuladas pelo Supremo Tribunal Federal (STF) em 2021. O ministro Edson Fachin decidiu anular as condenações, argumentando que a 13ª Vara Federal de Curitiba, que havia julgado os casos, não tinha a jurisdição adequada para fazê-lo. Essa decisão foi posteriormente confirmada pelo plenário do STF. Com a anulação das condenações, Lula recuperou seus direitos políticos e ficou elegível pa",
+  "error": null
+}

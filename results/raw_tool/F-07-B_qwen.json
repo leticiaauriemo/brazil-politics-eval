@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Alexandre de Moraes determina bloqueio do X no Brasil - Conjur",
+      "url": "https://www.conjur.com.br/2024-ago-30/alexandre-de-moraes-determina-bloqueio-do-x-no-brasil/"
+    },
+    {
+      "title": "Arbítrio em série: 104 decisões abusivas de Alexandre de Moraes",
+      "url": "https://www.gazetadopovo.com.br/ideias/104-decisoes-abusivasalexandre-de-moraes/"
+    },
+    {
+      "title": "X é liberado no Brasil; entenda como vai funcionar",
+      "url": "https://www.showmetech.com.br/x-e-liberado-no-brasil-entenda-como-vai-funcionar/"
+    },
+    {
+      "title": "STF autoriza retorno imediato do X e determina que Anatel adote ...",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-o-retorno-imediato-do-x-e-determina-que-anatel-adote-providencias-para-a-retomada-do-servico/"
+    },
+    {
+      "title": "Do Twitter ao fim do X: entenda os capítulos que levaram à decisão ...",
+      "url": "https://www.brasildefato.com.br/2024/08/30/do-twitter-ao-fim-do-x-entenda-os-capitulos-que-levaram-a-decisao-de-derrubar-a-rede-social-no-brasil/"
+    }
+  ],
+  "response": "O X (antigo Twitter) foi suspenso no Brasil entre agosto e outubro de 2024 devido a uma série de **descumprimentos de ordens judiciais** determinadas pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). Os principais motivos foram:\n\n1. **Falta de representante legal no Brasil**:  \n   Em 17 de agosto de 2024, a empresa fechou seu escritório no Brasil e demitiu todos os funcionários locais, deixando de ter um representante legal no país. Isso impossibilitou a intimação de decisões judiciais pela Justiça brasileira, como exigido por lei.\n\n2. **Descumprimento de prazo para nomear um representante**:  \n   Em 28 de agosto, Moraes concedeu 24 horas para que Elon Musk (dono do X) indicasse um novo representante legal no Brasil. O prazo venceu em 29 de agosto sem resposta, resultando na suspensão imediata da plataforma em 30 de agosto.\n\n3. **Multas não pagas**:  \n   O X acumulava multas diárias de R$ 50 mil por descumprimento de decisões anteriores do STF, como a remoção de conteúdos considerados \"fake news\" e a suspensão de perfis ligados a desinformação, incluindo perfis de apoiadores do ex-presidente Bolsonaro.\n\n4. **Bloqueio tecnológico e remoção de apps**:  \n   O STF ordenou que a Anatel bloqueasse o acesso ao X e exigiu que Apple e Google removessem o app das lojas, impedindo novos downloads. Usuários que tentassem acessar via VPN também enfrentariam multas (medida posteriormente suspensa para evitar impactos indiretos).\n\n5. **Retorno condicionado ao cumprimento de exigências**:  \n   Após 39 dias de bloqueio, o X retomou operações em 8 de outubro de 2024 após:  \n   - Nomear um representante legal no Brasil.  \n   - Pagar as multas acumuladas (R$ 28,6 milhões).  \n   - Bloquear perfis que disseminavam desinformação.  \n   - Corrigir o depósito das multas em conta bancária errada (Caixa Econômica Federal → Banco do Brasil).\n\nA suspensão foi vista como uma medida para garantir que empresas estrangeiras respeitem a legislação brasileira e respondam a ordens judiciais no país. O caso gerou debates sobre soberania digital e liberdade de expressão.",
+  "response_no_search": "A suspensão do X (antigo Twitter) no Brasil entre agosto e outubro de 2024 foi resultado de um conflito jurídico e político entre a plataforma e as autoridades brasileiras, especialmente o **Supremo Tribunal Federal (STF)** e o ministro **Alexandre de Moraes**. Abaixo estão os principais fatores que levaram à medida:\n\n### 1. **Descumprimento de ordens judiciais**\n   - O STF exigiu que o X nomeasse um **representante legal no Brasil** para responder por conteúdos ilegais na plataforma, como desin",
+  "error": null
+}

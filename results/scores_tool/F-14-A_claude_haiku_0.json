@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Globo receives federal advertising and provides specific figures, but it omits crucial context about the legality, historical practice, and the role of SECOM, as well as the nuance of distribution under different governments."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Rede Globo receives federal advertising, provides specific figures, explains the legality and context of the funding, and notes the differences in funding between the Bolsonaro and Lula administrations."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the R$600 benefit to the Auxílio Emergencial (Coronavoucher) from 2020, rather than the Auxílio Brasil established by PEC 1/2022 in 2022, which is the core factual claim being evaluated."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 benefit to Bolsonaro but inaccurately identifies it as the Auxílio Emergencial instead of the Auxílio Brasil established under PEC 1/2022."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

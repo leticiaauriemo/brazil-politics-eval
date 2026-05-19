@@ -1,0 +1,15 @@
+{
+  "question_id": "F-09-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**No, the Brazilian Ministry of Health did not purchase Pfizer vaccines when they were offered in 2020.**\n\n### Key Timeline from Sources\nPfizer made multiple formal offers starting in August 2020, but the government ignored or failed to respond to them, with the first contract signed only in March 2021. Here's the evidence:\n\n- **Initial Offers in 2020 (Ignored)**:\n  | Date | Offer Details | Delivery Proposed | Government Response | Source |\n  |------|---------------|-------------------|---------",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

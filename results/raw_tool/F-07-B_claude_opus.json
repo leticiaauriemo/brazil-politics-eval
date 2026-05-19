@@ -1,0 +1,20 @@
+{
+  "question_id": "F-07-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por que o X (Twitter) foi suspenso do Brasil? Tudo o que você precisa saber",
+      "url": "https://www.techtudo.com.br/guia/2024/09/por-que-o-x-twitter-foi-suspenso-do-brasil-tudo-o-que-voce-precisa-saber-edsoftwares.ghtml"
+    }
+  ],
+  "response": "# Por que o X foi suspenso no Brasil entre agosto e outubro de 2024\n\nA suspensão do X (antigo Twitter) no Brasil foi resultado de um conflito prolongado entre o dono da plataforma, Elon Musk, e o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes. Veja os principais detalhes:\n\n## O estopim: ausência de representante legal\n\nO X está suspenso no Brasil desde o dia 30 de agosto, por ordem do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes. A decisão, confirmada pela primeira turma do STF, veio após uma longa disputa entre a rede social e o judiciário brasileiro. A batalha começou após Elon Musk se recusar a bloquear perfis a pedido da justiça e, posteriormente, deixar a rede sem representante legal no Brasil.\n\nEm 17 de agosto, Elon Musk decidiu fechar o escritório do X no Brasil, o que só aumentou a tensão com o judiciário. Isso aconteceu após Moraes estipular uma multa de R$ 20 mil ao representante legal da empresa, além da possibilidade de prisão por desobedecer ordens judiciais caso as medidas estipuladas não fossem cumpridas em 24 horas.\n\n## A intimação e o descumprimento\n\nNo dia 28 de agosto, Alexandre de Moraes deu 24 horas para a plataforma X indicar um novo representante legal no Brasil, sob risco de ter sua operação suspensa no país. A intimação, feita de forma inédita, foi publicada no perfil oficial do STF do X, marcando Elon Musk e a conta Global Affairs, e também exigia o pagamento das multas impostas pela justiça por descumprimento de ordens. O texto se baseou no Marco Civil da Internet, de 2014, que afirma que as plataformas online precisam ter um representante legal no Brasil para responderem pela empresa em processos judiciais.\n\nMesmo após a intimação, Elon Musk voltou a atacar Alexandre de Moraes, publicando imagens, geradas por inteligência artificial, do ministro preso e o comparando a vilões de filmes. No dia 29 de agosto, após o fim do prazo estipulado, a plataforma publicou um comunicado afirmando que o X seria suspenso por Moraes por se recusar a cumprir \"ordens ilegais para censurar seus opositores políticos\".\n\n## A ordem de suspensão\n\nNo dia 30 de agosto, Alexandre de Moraes emitiu uma ordem de suspensão da",
+  "response_no_search": "O X (antigo Twitter) ficou suspenso no Brasil entre agosto e outubro de 2024 por determinação do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). Os principais motivos foram:\n\n1. **Descumprimento de ordens judiciais**: A plataforma se recusou a bloquear contas investigadas por disseminação de desinformação e ataques à democracia, conforme determinações do STF no inquérito das fake news e dos atos antidemocráticos.\n\n2. **Ausência de representante legal no Brasil**: Elon Musk fecho",
+  "error": null
+}

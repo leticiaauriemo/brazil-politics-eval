@@ -1,0 +1,32 @@
+{
+  "question_id": "F-18-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "prompt": "O fundador do Banco Master está respondendo a processos criminais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "PF Mira Banco Master e Bloqueia Mais de R$ 5,7 Bilhões em Nova Fase da Operação Compliance Zero",
+      "url": "https://forbes.com.br/forbes-money/2026/01/pf-mira-banco-master-e-bloqueia-mais-de-r-57-bilhoes-em-nova-fase-da-operacao-compliance-zero/?utm_source=openai"
+    },
+    {
+      "title": "Mendonça prorroga inquérito que apura fraudes no Banco Master | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/mendonca-prorroga-inquerito-que-apura-fraudes-no-banco-master?utm_source=openai"
+    },
+    {
+      "title": "Master: operação da PF contra fraude bilionária completa seis meses | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/master-operacao-da-pf-contra-fraude-bilionaria-completa-seis-meses?utm_source=openai"
+    },
+    {
+      "title": "Justiça bloqueia ações do BRB ligadas a Banco Master | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/justica-bloqueia-acoes-do-brb-ligadas-banco-master?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se o fundador do Banco Master está respondendo a processos criminais em 2026. A resposta é sim — e o caso é um dos mais complexos e de maior repercussão no sistema financeiro brasileiro atualmente.\n\n**1. Quem é o fundador e principal alvo?**  \nO principal investigado é Daniel Bueno Vorcaro, que era o dono e principal executivo do Banco Master. Ele foi preso preventivamente em novembro de 2025, quando tentava embarcar para o exterior em seu jatinho particular, no Aeroporto de Guarulhos, em meio à decretação da liquidação extrajudicial do banco pelo Banco Central ([forbes.com.br](https://forbes.com.br/forbes-money/2026/01/pf-mira-banco-master-e-bloqueia-mais-de-r-57-bilhoes-em-nova-fase-da-operacao-compliance-zero/?utm_source=openai)).\n\n**2. Quais são as acusações?**  \nVorcaro é alvo da Operação Compliance Zero, conduzida pela Polícia Federal, que investiga uma série de crimes, incluindo organização criminosa, gestão fraudulenta de instituição financeira, manipulação de mercado, lavagem de dinheiro, e até invasão de sistemas informáticos ([forbes.com.br](https://forbes.com.br/forbes-money/2026/01/pf-mira-banco-master-e-bloqueia-mais-de-r-57-bilhoes-em-nova-fase-da-operacao-compliance-zero/?utm_source=openai)).\n\n**3. Como está o andamento do processo em 2026?**  \n- Em março de 2026, o ministro do Supremo Tribunal Federal (STF), André Mendonça, prorrogou o inquérito por mais 60 dias, mantendo Vorcaro custodiado na Penitenciária Federal em Brasília ([agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/mendonca-prorroga-inquerito-que-apura-fraudes-no-banco-master?utm_source=openai)).  \n- Em 18 de maio de 2026, a Operação Compliance Zero completou seis meses. Até então, já haviam sido cumpridas seis fases da operação, com 21 prisões (temporárias e preventivas), incluindo a de Vorcaro, além de 116 mandados de busca e apreensão e bloqueio de bens no valor de aproximadamente R$ 27,7 bilhões ([agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/master-operacao-da-pf-contra-fraude-bilionaria-completa-seis-meses?utm_source=openai)).\n\n**4. Há outros envolvidos?**  \nSim. A investigação também atinge outros executivos e sócios, como o ex-CEO Augusto Ferreira Lima, o ex-sócio Maurício Quadrado, o investidor Nelson Tanure, e o fundador da Reag Investimentos, João Carlos Mansur ([agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2026-02/justica-bloqueia-acoes-do-brb-ligadas-banco-master?utm_source=openai)).\n\n**5. Resumo da situação atual (até 18 de maio de 2026):**  \n- Daniel Vorcaro está preso e responde a processos criminais no STF.  \n- O inquérito foi prorrogado e segue em andamento.  \n- A Operação Compliance Zero continua ativa, com novas fases e medidas judiciais sendo executadas.  \n- Há bloqueios de bens e prisões de outros envolvidos no esquema.\n\nSe quiser, posso detalhar mais sobre as fases da operação, os valores envolvidos, ou o papel de outros investigados.",
+  "response_no_search": "Até a data do meu conhecimento, que vai até junho de 2024, **não há informações públicas ou notícias confiáveis que indiquem que o fundador do Banco Master está respondendo a processos criminais**. O Banco Master, anteriormente conhecido como Banco Máxima, é uma instituição financeira brasileira, e seu fundador é Daniel Vorcaro.\n\nCaso você esteja buscando informações mais recentes (de 2026), recomendo consultar fontes de notícias atualizadas, registros públicos ou comunicados oficiais do banco, ",
+  "error": null
+}

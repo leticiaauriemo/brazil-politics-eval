@@ -1,0 +1,15 @@
+{
+  "question_id": "F-16-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**O benefício mínimo de R$600 do Bolsa Família foi uma medida do governo Lula.**\n\n### Origem Histórica\n- **Auxílio emergencial de R$600 (2020)**: Isso veio do governo Bolsonaro, aprovado pela Câmara em 26 de março de 2020 (Projeto de Lei 9236/17, com relatório de Marcelo Aro). Era temporário (3 meses), para baixa renda durante a pandemia de COVID-19, com critérios como renda per capita ≤½ salário mínimo (R$522,50) e sem emprego formal. Virou lei após Senado e sanção (veja [1]).\n- **Bolsa Família",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

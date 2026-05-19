@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "prompt": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em qual ano e governo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Congresso promulga reforma da Previdência; novas regras da aposentadoria estão em vigor - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/613230-congresso-promulga-reforma-da-previdencia-novas-regras-da-aposentadoria-estao-em-vigor/"
+    },
+    {
+      "title": "Confira as principais mudanças da Nova Previdência - GOV.BR",
+      "url": "https://www.gov.br/inss/pt-br/noticias/noticias/confira-as-principais-mudancas-da-nova-previdencia"
+    },
+    {
+      "title": "Promulgada Emenda Constitucional da reforma da Previdência",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/11/12/promulgada-emenda-constitucional-da-reforma-da-previdencia"
+    },
+    {
+      "title": "Legislação Federal - Senado Federal",
+      "url": "https://legis.senado.gov.br/norma/31727296"
+    }
+  ],
+  "response": "A Emenda Constitucional nº 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em **12 de novembro de 2019** durante o governo do presidente **Jair Bolsonaro**. Essa reforma, conhecida como Reforma da Previdência, trouxe mudanças significativas no sistema previdenciário, como novas idades mínimas para aposentadoria e ajustes no tempo de contribuição.",
+  "response_no_search": "A **Reforma da Previdência** (EC 103/2019) foi promulgada no **governo de Jair Bolsonaro**, em **12 de novembro de 2019**, após aprovação pelo Congresso Nacional. Essa emenda constitucional alterou as regras da aposentadoria no Brasil, estabelecendo idade mínima e novos cálculos para benefícios, entre outras mudanças.  \n\n### Principais pontos da reforma:\n- **Idade mínima**: 65 anos para homens e 62 anos para mulheres.  \n- **Tempo de contribuição**: 15 anos para ambos os sexos.  \n- **Fim da apose",
+  "error": null
+}

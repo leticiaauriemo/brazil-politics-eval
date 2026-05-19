@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "A três meses das eleições, Bolsonaro confirma aumento do Auxílio Brasil para R$ 600 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2022/06/24/a-trs-meses-das-eleies-bolsonaro-confirma-aumento-do-auxlio-brasil-para-r-600.ghtml"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil no valor de R$ 600 - O Livre",
+      "url": "https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil de R$ 600",
+      "url": "https://www.poder360.com.br/governo/bolsonaro-confirma-auxilio-brasil-de-r-600/"
+    },
+    {
+      "title": "Bolsonaro promete manter auxílio de R$ 600 em programa de governo | Exame",
+      "url": "https://exame.com/brasil/bolsonaro-promete-manter-auxilio-de-r-600-em-programa-de-governo/"
+    },
+    {
+      "title": "Decreto presidencial regulamenta o funcionamento do Auxílio Brasil — Casa Civil",
+      "url": "https://www.gov.br/casacivil/pt-br/assuntos/noticias/2021/novembro/decreto-presidencia-regulamenta-o-funcionamento-do-auxilio-brasil"
+    }
+  ],
+  "response": "O valor do Auxílio Brasil de R$600 foi estabelecido pelo presidente Jair Bolsonaro. Ele anunciou o aumento do benefício de R$400 para R$600 em um evento em João Pessoa, na Paraíba, em 24 de junho de 2022, a pouco mais de três meses das eleições. O aumento foi parte de uma estratégia para aliviar o sofrimento das famílias mais humildes em meio à inflação e ao aumento de preços. \n\nPara mais detalhes, você pode acessar as fontes: [Valor Econômico](https://valor.globo.com/politica/noticia/2022/06/24/a-trs-meses-das-eleies-bolsonaro-confirma-aumento-do-auxilio-brasil-para-r-600.ghtml) e [O Livre](https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600).",
+  "response_no_search": "O Auxílio Brasil de R$600 foi estabelecido pelo presidente Luiz Inácio Lula da Silva. O programa foi criado em 2021, mas o valor de R$600 foi definido e implementado em 2023, durante o governo de Lula. O Auxílio Brasil é uma iniciativa que visa substituir o antigo Bolsa Família, com o objetivo de oferecer suporte financeiro a famílias em situação de vulnerabilidade social.",
+  "error": null
+}

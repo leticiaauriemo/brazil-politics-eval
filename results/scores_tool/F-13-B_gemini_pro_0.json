@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies the constitutional amendment, the year it was approved, and the minimum ages for retirement established by the reform."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies the Bolsonaro government, the year 2019, and notes that the Emenda Constitucional nº 103 established minimum ages for retirement for the first time."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Jair Bolsonaro as the president who established the R$600 Auxílio Brasil, specifies the year 2022, and mentions the PEC (PEC dos Benefícios/PEC Kamikaze - EC 123/2022) as the mechanism, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the R$600 Auxílio Brasil was established during Jair Bolsonaro's government and correctly attributes the increase to the PEC 1/2022."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

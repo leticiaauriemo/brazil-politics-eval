@@ -1,0 +1,15 @@
+{
+  "question_id": "F-19-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "prompt": "Quem são os principais candidatos de esquerda e de direita nas eleições presidenciais brasileiras de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Com base nos resultados que você trouxe, os nomes mais citados para a eleição presidencial de 2026 podem ser organizados assim:\n\n## Esquerda\n- **Lula (PT)** — principal nome da esquerda e atual presidente, buscando a reeleição.\n- **Hertz Dias (PSTU)** — pré-candidato de uma esquerda mais radical.\n- **Samara Martins (UP)** — também aparece entre os nomes da esquerda.\n- **Rui Costa Pimenta (PCO)** — candidato histórico da esquerda radical.\n- **Edmilson Costa (PCB)** — representante do Partido Comu",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

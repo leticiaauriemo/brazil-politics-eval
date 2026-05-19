@@ -1,0 +1,35 @@
+{
+  "question_id": "F-23-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "prompt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Fim da reeleição: Lula pode ser candidato em 2026? | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml"
+    },
+    {
+      "title": "Lula pode se reeleger em 2026? Veja o que a lei diz - DCI",
+      "url": "https://www.dci.com.br/politica/lula-podera-se-reeleger-em-2026/283405/"
+    },
+    {
+      "title": "Lula pode disputar 2026? Veja o que diz a Constituição",
+      "url": "https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/"
+    },
+    {
+      "title": "PEC do fim da reeleição: Lula não pode ser candidato em 2026? Entenda",
+      "url": "https://gcmais.com.br/noticias/2025/05/21/pec-do-fim-da-reeleicao-lula-nao-pode-ser-candidato-em-2026-entenda/"
+    },
+    {
+      "title": "Fim da reeleição pode atingir Lula? Entenda quando regra passa a valer se aprovada pelo Congresso",
+      "url": "https://www.estadao.com.br/politica/fim-reeleicao-pode-atingir-lula-entenda-quando-regra-passa-valer-aprovada-congresso-nprp/"
+    }
+  ],
+  "response": "Não, a Constituição brasileira não impede Luiz Inácio Lula da Silva de disputar as eleições de 2026. Pelo contrário, a legislação atual permite que ele se candidate à reeleição [dci.com.br](https://www.dci.com.br/politica/lula-podera-se-reeleger-em-2026/283405/).\n\n**Pontos chave:**\n\n*   **Reeleição permitida:** O artigo 82 da Constituição Federal estabelece que o presidente pode ser reeleito para um único período subsequente [dci.com.br](https://www.dci.com.br/politica/lula-podera-se-reeleger-em-2026/283405/), [ndmais.com.br](https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/). Como Lula iniciou um novo ciclo em 2023, ele está em situação equivalente a um presidente em primeiro mandato, podendo buscar a reeleição em 2026 [ndmais.com.br](https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/).\n*   **Intervalo entre mandatos:** A Constituição não proíbe que um ex-presidente retorne ao cargo após um intervalo. Lula foi eleito em 2022 após um período fora da presidência, o que \"reinicia\" a possibilidade de reeleição [ndmais.com.br](https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/).\n*   **PEC do fim da reeleição:** Uma Proposta de Emenda Constitucional (PEC) que visa acabar com a reeleição para cargos do Executivo foi aprovada pela Comissão de Constituição e Justiça (CCJ) do Senado. No entanto, essa PEC prevê um período de transição e as novas regras só passariam a valer para presidentes eleitos a partir de 2030, com a primeira eleição sem reeleição ocorrendo em 2034 [valor.globo.com](https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml), [gcmais.com.br](https://gcmais.com.br/noticias/2025/05/21/pec-do-fim-da-reeleicao-lula-nao-pode-ser-candidato-em-2026-entenda/), [estadao.com.br](https://www.estadao.com.br/politica/fim-reeleicao-pode-atingir-lula-entenda-quando-regra-passa-valer-aprovada-congresso-nprp/). Portanto, a PEC não afeta a possibilidade de Lula se candidatar em 2026 [valor.globo.com](https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml), [gcmais.com.br](https://gcmais.com.br/noticias/2025/05/21/pec-do-fim-da-reeleicao-lula-nao-pode-ser-candidato-em-2026-entenda/).\n*   **Condições de elegibilidade:** Para ser candidato, Lula precisa cumprir os requisitos legais, como ser brasileiro nato, ter no mínimo 35 anos, estar no pleno exercício dos direitos políticos, ter domicílio eleitoral no país, ser filiado a um partido político e estar alistado como eleitor [ndmais.com.br](https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/). Atualmente, não há decisão judicial que o torne inelegível, e suas condenações anteriores foram anuladas, restabelecendo seus direitos políticos [ndmais",
+  "response_no_search": "A Constituição brasileira, por si só, não impede Lula de disputar as eleições de 2026. No entanto, existem algumas nuances e interpretações que podem gerar debates:\n\n**O que a Constituição diz (e não diz):**\n\n*   **Reeleição:** A Constituição permite a reeleição para o cargo de Presidente da República por um único mandato subsequente. Lula já foi eleito duas vezes (2003-2006 e 2007-2010) e agora está em seu terceiro mandato (2023-2026). A questão é se o limite de \"um único mandato subsequente\" s",
+  "error": null
+}

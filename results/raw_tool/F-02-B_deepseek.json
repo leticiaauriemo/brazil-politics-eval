@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Leia as penas e multas impostas a Bolsonaro e aos outros réus",
+      "url": "https://www.poder360.com.br/poder-justica/leia-as-penas-e-multas-impostas-a-bolsonaro-e-aos-outros-reus/"
+    },
+    {
+      "title": "Veja de quanto foi pena imposta pelo STF a Bolsonaro e demais réus pela tentativa de golpe | Diario de Pernambuco - Rumo aos 200 anos",
+      "url": "https://www.diariodepernambuco.com.br/politica/2025/09/11695623-veja-de-quanto-foi-pena-imposta-pelo-stf-a-bolsonaro-e-demais-reus-pela-tentativa-de-golpe.html"
+    },
+    {
+      "title": "STF impõe pena de 27 anos e 3 meses de prisão a Bolsonaro",
+      "url": "https://www.jb.com.br/brasil/justica/2025/09/1056869-stf-impoe-pena-de-27-anos-e-3-meses-de-prisao-a-bolsonaro.html"
+    },
+    {
+      "title": "STF publica acórdão do julgamento que condenou Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-justica/stf-publica-acordao-do-julgamento-de-bolsonaro/"
+    },
+    {
+      "title": "Bolsonaro condenado a regime fechado pelo STF: o que acontece agora? - BBC News Brasil",
+      "url": "http://www.bbc.com/portuguese/articles/cy859egpl6jo"
+    }
+  ],
+  "response": "O ex-presidente Jair Bolsonaro foi condenado pela 1ª Turma do STF em 11 de setembro de 2025 a **27 anos e 3 meses de prisão em regime inicial fechado** por crimes relacionados a uma tentativa de golpe de Estado e outros delitos. Além disso, ele foi condenado ao pagamento de **124 dias-multa**, equivalente a aproximadamente **R$ 365,3 mil**, com cada dia-multa correspondendo a dois salários mínimos da época dos fatos, corrigidos pelo IPCA até agosto de 2025. \n\nA condenação incluiu crimes como abolição violenta do Estado Democrático de Direito, tentativa de golpe de Estado, organização criminosa, dano qualificado e deterioração de patrimônio tombado. A defesa de Bolsonaro já anunciou que recorrerá da decisão, inclusive em âmbito internacional, considerando as penas \"absurdamente excessivas e desproporcionais\". \n\nApós a publicação do acórdão, que ocorreu em 22 de outubro de 2025, o processo seguirá para recursos antes de transitar em julgado. Atualmente, Bolsonaro está em prisão domiciliar por descumprimento de medidas cautelares anteriores.",
+  "response_no_search": "Em 2025, o ex-presidente Jair Bolsonaro **não foi condenado pelo Supremo Tribunal Federal (STF)** a nenhuma pena criminal definitiva. Até o momento, não há registros oficiais de que o STF tenha imposto qualquer sentença penal a Bolsonaro naquele ano. \n\nNo entanto, é importante destacar que Bolsonaro enfrenta **múltiplas investigações e processos judiciais** no STF, incluindo inquéritos sobre:  \n- **Atos antidemocráticos** (como suposta tentativa de interferência nas eleições de 2022);  \n- **Poss",
+  "error": null
+}

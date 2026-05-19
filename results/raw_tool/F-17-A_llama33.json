@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Central decreta liquidação de instituição do grupo Master que controlava Will Bank",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/03/17/banco-central-decreta-liquidacao-de-instituicao-do-grupo-master-que-controlava-empresa-de-credito.ghtml"
+    },
+    {
+      "title": "Banco Central extingue última unidade do Master",
+      "url": "https://revistaoeste.com/economia/bc-extingue-ultima-unidade-do-master-e-trava-patrimonio-de-donos/"
+    },
+    {
+      "title": "Banco Central decreta liquidação final do Banco Master Múltiplo após fim do regime especial | Overcentral",
+      "url": "https://overcentral.com/banco-central-decreta-liquidacao-final-do-banco-master-multiplo-apos-fim-do-regime-especial/"
+    },
+    {
+      "title": "Banco Master entra em liquidação: saiba o que muda para correntistas e investidores",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2025/11/18/banco-master-entra-em-liquidacao-saiba-o-que-muda-para-correntistas-e-investidores.ghtml"
+    },
+    {
+      "title": "Banco Central determina liquidação do Will Bank, braço digital do grupo Master",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/01/21/banco-central-determina-liquidacao-do-will-bank-braco-digital-do-grupo-master.ghtml"
+    }
+  ],
+  "response": "O Banco Master não está mais em funcionamento em 2026. O Banco Central decretou a liquidação extrajudicial do Banco Master Múltiplo em março de 2026, encerrando definitivamente a última instituição do conglomerado financeiro que ainda operava sob um regime de exceção. A medida marca o capítulo final de um processo que começou em novembro de 2025, quando o banco entrou no Regime de Administração Especial Temporário (Raet) após a liquidação da controladora Master.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, o Banco Master era um banco brasileiro que operava no país. No entanto, é importante notar que o setor bancário está sujeito a mudanças constantes, incluindo fusões, aquisições e possíveis encerramentos de operações.\n\nPara saber se o Banco Master ainda está em funcionamento em 2026, recomendo verificar fontes atualizadas e oficiais, como o site do próprio banco, notícias financeiras recentes ou o site do Banco Central do Brasil, que geralme",
+  "error": null
+}

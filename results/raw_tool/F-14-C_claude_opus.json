@@ -1,0 +1,44 @@
+{
+  "question_id": "F-14-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Os gastos em publicidade do governo federal (2000-2015) – I",
+      "url": "https://coleguinhas.wordpress.com/2016/05/15/os-gastos-em-publicidade-do-governo-federal-em-2015-i/"
+    },
+    {
+      "title": "Lula retoma publicidade estatal em jornais e revistas tradicionais",
+      "url": "https://www.poder360.com.br/midia/lula-retoma-publicidade-estatal-em-jornais-e-revistas-tradicionais/"
+    },
+    {
+      "title": "Public Spending | Media Ownership Monitor",
+      "url": "http://brazil.mom-gmr.org/en/findings/publicadvertising/"
+    },
+    {
+      "title": "É falso que governo Bolsonaro gastou apenas R$ 150 milhões em publicidade em 2019 | Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/e-falso-que-governo-bolsonaro-gastou-apenas-r-150-milhoes-em-publicidade-em-2019/"
+    },
+    {
+      "title": "Sem título",
+      "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/349611/noticia.htm?sequence=1&isAllowed=y"
+    },
+    {
+      "title": "É falso que Bolsonaro gastou apenas R$ 65 milhões com publicidade por ano | Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/e-falso-que-bolsonaro-gastou-apenas-r-65-milhoes-com-publicidade-por-ano/"
+    },
+    {
+      "title": "É falso que governo Bolsonaro não destina dinheiro para emissoras de TV | Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/e-falso-que-governo-bolsonaro-nao-destina-dinheiro-para-emissoras-de-tv/"
+    }
+  ],
+  "response": "O pagamento de publicidade estatal a veículos de comunicação privados é uma prática histórica no Brasil, presente em todos os governos. Vou buscar dados mais específicos para contextualizar.# Publicidade estatal: prática histórica de todos os governos\n\nO pagamento de publicidade estatal a veículos privados de comunicação **não é exclusivo do governo Lula** — trata-se de uma prática que existe em todos os governos brasileiros, com variações significativas em valores e na distribuição entre veículos conforme afinidade política.\n\n## Histórico de transparência e dados\n\nDesde 2000 (ou seja, ainda durante o tucanato), em algum momento de abril ou maio, a Secretaria de Comunicação da Presidência da República divulga os gastos do governo federal com publicidade. O governo federal ofereceu um nível de transparência maior de 1999 (sob a Presidência de Fernando Henrique Cardoso) até 2016 (final da administração da petista Dilma Rousseff).\n\nA transparência diminuiu a partir de 2017: a instituição oficialmente responsável pelo monitoramento da publicidade estatal, o IAP (Instituto de Acompanhamento da Publicidade), vinculado à Secretaria de Comunicação Social da Presidência, foi fechada em maio de 2017, deixando um vácuo e representando um grande retrocesso na transparência dos dados sobre publicidade do governo e das empresas públicas.\n\n## Gastos por governo (exemplos)\n\n**Governo FHC (2000-2002):** A soma das despesas em publicidade dos últimos três anos do mandato de Fernando Henrique Cardoso foi de R$ 4,8 bilhões, conforme levantamento do IAP.\n\n**Governo Lula (2003-2010):** De 2003 a 2009, a Presidência da República, ministérios e estatais gastaram R$ 7,7 bilhões com propaganda. Os gastos de 2009, de R$ 1,17 bilhão, superaram em 48% os R$ 796,2 milhões investidos no primeiro ano de governo.\n\n**Governo Dilma:** Dos cinco anos com maiores investimentos, três (2013, 2012 e 2014) ocorreram nos cinco anos do período Dilma, e dois (2009 e 2010) nos oito anos do período Lula.\n\n**Governo Bolsonaro:** Apesar de discursos sobre cortes, os gastos continuaram bilionários. Segundo o TCU (Tribunal de Contas da União), Bolsonaro gastou R$ 1,14 bilhão em propaganda só em 2019. Levantamento do Poder360 mostra que o total de gastos da Secom sob Bolsonaro com todas",
+  "response_no_search": "O pagamento de publicidade estatal a veículos de comunicação privados **ocorre em todos os governos** brasileiros, e também é prática comum em democracias ao redor do mundo. Não é algo exclusivo do governo Lula.\n\n## Como funciona\n\nA publicidade oficial é gerenciada principalmente pela **Secretaria de Comunicação Social (Secom)** da Presidência, além de ministérios, estatais (como Caixa, Banco do Brasil, Petrobras, Correios) e governos estaduais/municipais. Os recursos são distribuídos para TVs, ",
+  "error": null
+}

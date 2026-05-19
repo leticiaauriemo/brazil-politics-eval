@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Yanomami: por que governo Lula não cumpriu promessa de resolver crise e o que planeja fazer agora - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/crg45q8y015o"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023/01/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula-em-boa-vista"
+    },
+    {
+      "title": "Yanomami: Governo Federal apresenta à Corte Interamericana de Direitos Humanos medidas de enfrentamento à crise na TI — Fundação Nacional dos Povos Indígenas",
+      "url": "https://www.gov.br/funai/pt-br/assuntos/noticias/2024/yanomami-governo-federal-apresenta-a-corte-interamericana-de-direitos-humanos-medidas-de-enfrentamento-a-crise-na-ti"
+    },
+    {
+      "title": "Proteção e construção de um novo futuro marcam os três anos da Emergência Yanomami",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias/2026/01/protecao-e-construcao-de-um-novo-futuro-marcam-os-tres-anos-da-emergencia-yanomami"
+    }
+  ],
+  "response": "A emergência humanitária na terra Yanomami foi declarada pelo governo de Luiz Inácio Lula da Silva. Em janeiro de 2023, Lula assinou um decreto que reconheceu a crise enfrentada pelo povo Yanomami e declarou emergência em saúde pública, estabelecendo um comitê para coordenar as ações necessárias para enfrentar a situação crítica de desassistência sanitária e nutricional na região.\n\nDurante a gestão do ex-presidente Jair Bolsonaro, a situação dos Yanomami já era preocupante, mas foi sob o governo Lula que a emergência foi oficialmente reconhecida e medidas emergenciais foram implementadas para tentar resolver a crise.",
+  "response_no_search": "A emergência humanitária na terra Yanomami foi declarada pelo governo Lula, em janeiro de 2023. Essa declaração ocorreu em resposta à grave crise de saúde e à situação de desnutrição enfrentada pela população Yanomami, que se agravou durante os anos anteriores, especialmente durante o governo Bolsonaro.",
+  "error": null
+}

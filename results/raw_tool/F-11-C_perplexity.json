@@ -1,0 +1,15 @@
+{
+  "question_id": "F-11-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**No, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional.**\n\n### Contexto Constitucional e Processual\nO impeachment de Dilma Rousseff, ocorrido em 2016, foi baseado na Constituição Federal de 1988 (art. 85), que define crimes de responsabilidade como atos que atentam contra a Lei de Responsabilidade Fiscal (LRF), incluindo as \"pedaladas fiscais\" (atrasos em repasses a bancos públicos para maquiar contas) e decretos de crédito suplementar sem autorização cong",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

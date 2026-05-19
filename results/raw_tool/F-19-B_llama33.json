@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "prompt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Flávio x Tarcísio: quem é o candidato à Presidência da direita em 2026",
+      "url": "https://mais.opovo.com.br/colunistas/esplanada/2026/02/02/flavio-x-tarcisio-quem-e-o-candidato-a-presidencia-da-direita-em-2026.html"
+    },
+    {
+      "title": "Tarcísio seria o melhor nome da direita à Presidência, diz presidente do Republicanos – Noticias R7",
+      "url": "https://noticias.r7.com/eleicoes/2026/tarcisio-seria-o-melhor-nome-da-direita-a-presidencia-diz-presidente-do-republicanos-14042026/"
+    },
+    {
+      "title": "Pesquisa aponta Flávio Bolsonaro como principal nome da direita para a Presidência em 2026 - GP1",
+      "url": "https://www.gp1.com.br/eleicoes-2026/noticia/2026/2/10/pesquisa-aponta-flavio-bolsonaro-como-principal-nome-da-direita-para-a-presidencia-em-2026-615312.html"
+    },
+    {
+      "title": "Eleição 2026: direita apresenta nomes competitivos, mas segue fragmentada diante de Lula - Tribuna Conservadora",
+      "url": "https://www.tribunaconservadora.com.br/noticia/eleicao-2026-direita-apresenta-nomes-competitivos-mas-segue-fragmentada-diante-de-lula"
+    },
+    {
+      "title": "No Congresso, Flávio Bolsonaro é o nome mais citado para liderar a direita brasileira | VEJA",
+      "url": "https://veja.abril.com.br/brasil/no-congresso-flavio-bolsonaro-e-o-nome-mais-citado-para-liderar-a-direita-brasileira/"
+    }
+  ],
+  "response": "De acordo com as informações disponíveis, o candidato mais forte da direita brasileira para as eleições presidenciais de 2026 é Flávio Bolsonaro. Ele é apontado como o principal nome da direita para a Presidência da República em 2026, de acordo com uma pesquisa nacional divulgada pelo instituto Realtime Big Data. Além disso, Flávio Bolsonaro é citado como o nome mais cotado entre deputados e senadores para liderar a direita no Brasil, de acordo com uma pesquisa divulgada pelo Ranking dos Políticos.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, é difícil prever com certeza quem será o candidato mais forte da direita brasileira para as eleições presidenciais de 2026, considerando a dinâmica política e as mudanças constantes no cenário político. No entanto, podemos considerar alguns fatores e figuras políticas que poderiam influenciar essa corrida.\n\n1. **Bolsonaro**: Jair Bolsonaro, o atual presidente do Brasil (até 2022), é uma figura central da direita brasileira. Seu desempenho n",
+  "error": null
+}

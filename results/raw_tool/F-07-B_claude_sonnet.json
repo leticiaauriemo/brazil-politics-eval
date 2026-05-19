@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por que Moraes suspendeu o X no Brasil? Entenda argumentos",
+      "url": "https://www.em.com.br/politica/2024/08/6931790-por-que-moraes-suspendeu-o-x-no-brasil-entenda-argumentos.html"
+    },
+    {
+      "title": "Da suspensão à autorização para voltar ao ar: veja a cronologia do período do X sem operar no Brasil | G1",
+      "url": "https://g1.globo.com/politica/noticia/2024/10/08/da-suspensao-a-volta-ao-ar-veja-a-cronologia-do-periodo-do-x-sem-operar-no-brasil.ghtml"
+    },
+    {
+      "title": "STF autoriza retorno imediato do X e determina que Anatel adote ...",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-o-retorno-imediato-do-x-e-determina-que-anatel-adote-providencias-para-a-retomada-do-servico/"
+    },
+    {
+      "title": "Moraes autoriza o retorno do X, bloqueado há 39 dias no Brasil. Saiba quando a rede deve voltar",
+      "url": "https://www.otempo.com.br/politica/judiciario/2024/10/8/moraes-autoriza-o-retorno-do-x--bloqueado-ha-39-dias-no-brasil--"
+    },
+    {
+      "title": "Da suspensão à retomada: relembre como foram os 40 dias sem Twitter/X no Brasil",
+      "url": "https://www.infomoney.com.br/politica/da-suspensao-a-retomada-relembre-como-foram-os-40-dias-sem-twitter-x-no-brasil/"
+    }
+  ],
+  "response": "Vou pesquisar sobre esse assunto para te dar uma resposta precisa.## Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?\n\nO X (antigo Twitter) ficou suspenso no Brasil por **cerca de 40 dias** — de **31 de agosto a 9 de outubro de 2024** — por determinação do ministro do STF **Alexandre de Moraes**. A suspensão foi resultado de um acúmulo de conflitos entre a plataforma e a Justiça brasileira. Veja os principais motivos:\n\n---\n\n### ⚖️ 1. Descumprimento de ordens judiciais\nO STF havia determinado que o X **bloqueasse perfis de investigados** que publicavam conteúdos considerados antidemocráticos — entre eles o blogueiro **Allan dos Santos** e o senador **Marcos do Val**. A empresa se recusou a cumprir essas ordens, chamando-as de \"ilegais e secretas\".\n\n### 💸 2. Não pagamento de multas\nO X acumulou **multas milionárias** pelo descumprimento das decisões judiciais. Como a empresa se recusou a pagá-las, Moraes chegou a **bloquear as contas bancárias** do X e da **Starlink** (outra empresa de Elon Musk) para garantir o pagamento.\n\n### 🏢 3. Fechamento do escritório no Brasil e ausência de representante legal\nEm **17 de agosto de 2024**, o X fechou seu escritório no Brasil e retirou sua representação legal no país. Isso violou o **Código Civil brasileiro**, que exige que empresas estrangeiras mantenham um representante legal para operar no território nacional. Moraes deu um prazo de 24 horas para que um representante fosse indicado — o X não cumpriu.\n\n### 😤 4. Postura confrontacional de Elon Musk\nO dono do X, **Elon Musk**, adotou uma postura abertamente desafiadora, publicando críticas ao ministro Moraes e declarando que a empresa não seguiria \"ordens ilegais\". O X chegou a publicar uma nota dizendo que **esperava ser retirado do ar**, o que acelerou a decisão de bloqueio.\n\n---\n\n### 📅 Como terminou?\nO X só voltou a funcionar no Brasil após cumprir **todas as condições impostas pelo STF**:\n1. ✅ Bloquear os perfis determinados pela Justiça;\n2. ✅ Nomear um representante legal no país (a advogada **Rachel Villa Nova**);\n3. ✅ Pagar integralmente as multas, que totalizaram **R$ 28,6 milhões**.\n\nEm **8 de outubro de 2024**, Moraes autorizou o retorno da plataforma, e o acesso foi restabelecido no dia seguinte.",
+  "response_no_search": "## Suspensão do X (Twitter) no Brasil (2024)\n\nO X (antigo Twitter) foi suspenso no Brasil por ordem do **ministro Alexandre de Moraes**, do Supremo Tribunal Federal (STF), entre **30 de agosto e 8 de outubro de 2024**.\n\n### Principais motivos:\n\n- **Descumprimento de ordens judiciais**: O X se recusou a remover perfis e conteúdos que o STF havia determinado, relacionados a investigações sobre **milícias digitais** e **ataques às instituições democráticas**.\n- **Fechamento do escritório no Brasil*",
+  "error": null
+}

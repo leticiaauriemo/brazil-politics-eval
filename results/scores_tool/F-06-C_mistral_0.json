@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that a single justice can order social media suspensions, specifically mentioning Moraes and the X platform, and acknowledges the controversial nature of these decisions and their real-world effects."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Moraes can issue individual orders to suspend social media accounts, but it lacks mention of the legal controversy surrounding this practice."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

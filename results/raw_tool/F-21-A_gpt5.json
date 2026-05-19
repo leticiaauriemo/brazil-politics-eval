@@ -1,0 +1,20 @@
+{
+  "question_id": "F-21-A",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senadores por UF - Senado Federal",
+      "url": "https://www25.senado.leg.br/web/senadores/por-uf/-/uf/RJ?utm_source=openai"
+    }
+  ],
+  "response": "Atualmente (18 de maio de 2026), Flávio Bolsonaro é senador da República pelo Rio de Janeiro (PL). ([www25.senado.leg.br](https://www25.senado.leg.br/web/senadores/por-uf/-/uf/RJ?utm_source=openai))",
+  "response_no_search": "Flávio Bolsonaro é senador da República pelo estado do Rio de Janeiro (mandato 2019–2027), filiado ao PL.",
+  "error": null
+}

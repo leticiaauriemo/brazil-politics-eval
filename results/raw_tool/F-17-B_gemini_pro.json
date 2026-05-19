@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Master e BRB: BC negou compra de forma unânime e por inviabilidade | G1",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2025/10/09/banco-master-e-brb-diretoria-do-bc-foi-unanime-ao-negar-compra-por-falta-de-viabilidade-economica.ghtml"
+    },
+    {
+      "title": "BC rejeita acordo com BRB, e futuro do Master é incerto | Finanças",
+      "url": "https://valor.globo.com/financas/noticia/2025/09/03/bc-rejeita-compra-de-parte-do-master-pelo-brb.ghtml"
+    },
+    {
+      "title": "Entenda o caso da compra do Banco Master - 04/09/2025 - Economia - Folha",
+      "url": "https://www1.folha.uol.com.br/mercado/2025/09/entenda-o-caso-da-compra-do-banco-master-rejeitada-pelo-bc.shtml"
+    },
+    {
+      "title": "BC rejeita compra do Master pelo Banco de Brasília (BRB)",
+      "url": "https://www.acessa.com/economia/2025/09/283706-bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb.html"
+    },
+    {
+      "title": "BC rejeita compra do Banco Master pelo BRB",
+      "url": "https://www.jb.com.br/economia/2025/09/1056783-bc-rejeita-compra-do-banco-master-pelo-brb.html"
+    }
+  ],
+  "response": "Após o Banco Central (BC) rejeitar a compra de parte do Banco Master pelo Banco de Brasília (BRB), o futuro do Banco Master tornou-se incerto e a operação foi desfeita.\n\nAqui estão os principais pontos do que aconteceu:\n\n*   **Motivo da Rejeição:** A diretoria do Banco Central rejeitou a operação de forma unânime por \"falta de viabilidade econômico-financeira\". O BC avaliou que os documentos apresentados não comprovavam a sustentabilidade do negócio proposto.\n*   **Fim do Acordo:** Com a decisão do BC, o contrato de compra entre os dois bancos foi rescindido. O BRB comunicou ao mercado que solicitaria acesso à íntegra da decisão para avaliar os fundamentos, mas o negócio foi cancelado.\n*   **Incerteza para o Master:** A recusa do Banco Central deixou o futuro do Banco Master incerto. Analistas de mercado chegaram a cogitar a possibilidade de uma intervenção do BC na instituição.\n*   **Contexto Político:** A negociação ocorreu em meio a um ambiente de forte pressão política para que o Banco Central aprovasse o acordo. A rejeição foi vista como uma demonstração de independência da autoridade monetária.\n\nEm resumo,",
+  "response_no_search": "Ótima pergunta! O episódio da rejeição da compra pelo BRB foi um momento decisivo para o Banco Master. Longe de ser um fim, marcou o início de uma nova e",
+  "error": null
+}

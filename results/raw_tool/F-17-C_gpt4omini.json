@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Liquidação do Banco Master é uma das maiores já feitas no sistema financeiro brasileiro - Estadão",
+      "url": "https://www.estadao.com.br/economia/liquidacao-banco-master-maiores-ja-feitas-sistema-financeiro-brasileiro-npr/"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Master e preserva sistema financeiro nacional | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml"
+    },
+    {
+      "title": "Folha do Estado | Banco Central entrega ao TCU detalhamento de ações que levaram à liquidação do Banco Master",
+      "url": "https://www.folhadoestado.com.br/brasil/banco-central-entrega-ao-tcu-detalhamento-de-acoes-que-levaram-a-liquidacao-do-banco-master/631652"
+    },
+    {
+      "title": "BC decreta liquidação do Banco Master e põe fim a acordo com Fictor",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/economia/bc-decreta-liquidacao-do-banco-master-e-poe-fim-a-acordo-com-fictor-1.1668425"
+    }
+  ],
+  "response": "Sim, o Banco Central do Brasil decretou a liquidação extrajudicial do Banco Master no dia 18 de novembro de 2023. Essa decisão foi tomada devido a uma grave crise de liquidez enfrentada pela instituição, que não conseguia honrar seus compromissos financeiros, como saques de correntistas e pagamentos a investidores. A liquidação é uma das maiores intervenções já realizadas no sistema financeiro brasileiro e resulta em um fechamento definitivo do banco.\n\nO Banco Central também nomeou um liquidante para administrar o processo, que inclui a venda de ativos do banco para pagar os credores. A liquidação foi precedida por tentativas de venda do banco, que não avançaram, e a situação se agravou após a negativa do BC para a compra do Banco Master pelo Banco de Brasília.\n\nPara mais detalhes, você pode acessar as seguintes fontes:\n- [Banco Central - Liquidação Extrajudicial do Banco Master](https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao)\n- [Estadão - Liquidação do Banco Master](https://www.estadao.com.br/economia/liquidacao-banco-master-maiores-ja-feitas-sistema-financeiro-brasileiro-npr/)\n- [G1 - Liquidação do Banco Master](https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml)",
+  "response_no_search": "Sim, o Banco Central do Brasil decretou a liquidação do Banco Master em 2020. A decisão foi tomada devido a problemas financeiros e à incapacidade da instituição de cumprir com suas obrigações. A liquidação é um processo em que os ativos e passivos do banco são administrados para garantir a devolução dos depósitos dos clientes e a resolução das pendências financeiras. Se precisar de mais informações ou detalhes sobre o processo, sinta-se à vontade para perguntar!",
+  "error": null
+}

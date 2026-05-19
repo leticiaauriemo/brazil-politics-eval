@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Bolsonaro cannot run in 2026, providing specific details about the TSE's decision, the duration of the ineligibility, and the criminal conviction by the STF, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro cannot run in 2026 due to his ineligibility confirmed by the TSE and details the reasons for this ineligibility, including the 8-year ban and the criminal conviction."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

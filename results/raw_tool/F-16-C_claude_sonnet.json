@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "A três meses das eleições, Bolsonaro confirma aumento do Auxílio Brasil para R$ 600 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2022/06/24/a-trs-meses-das-eleies-bolsonaro-confirma-aumento-do-auxlio-brasil-para-r-600.ghtml"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil no valor de R$ 600 - O Livre",
+      "url": "https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil de R$ 600",
+      "url": "https://www.poder360.com.br/governo/bolsonaro-confirma-auxilio-brasil-de-r-600/"
+    },
+    {
+      "title": "Auxílio Brasil de R$ 600 começou a ser pago e inclui 2,2 milhões de ...",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2022/08/auxilio-brasil-de-r-600-comecou-a-ser-pago-e-inclui-2-2-milhoes-de-novas-familias"
+    },
+    {
+      "title": "Decreto presidencial regulamenta o funcionamento do Auxílio Brasil — Casa Civil",
+      "url": "https://www.gov.br/casacivil/pt-br/assuntos/noticias/2021/novembro/decreto-presidencia-regulamenta-o-funcionamento-do-auxilio-brasil"
+    }
+  ],
+  "response": "O valor de **R$ 600** do Auxílio Brasil foi estabelecido pelo presidente **Jair Bolsonaro (PL)**. O anúncio foi feito em **24 de junho de 2022**, durante um evento de entrega de moradias populares em **João Pessoa (PB)**, a pouco mais de três meses das eleições presidenciais daquele ano.\n\nAté então, o benefício era pago no valor de **R$ 400**. Bolsonaro justificou o aumento citando os impactos da inflação e da guerra na Ucrânia sobre os mais pobres, afirmando: *\"É o governo entendendo o sofrimento dos mais humildes\"*. O novo valor passou a ser pago a partir de **agosto de 2022**, beneficiando cerca de **18,1 milhões de famílias**.\n\nVale lembrar que o próprio programa **Auxílio Brasil** havia sido criado por Bolsonaro em novembro de 2021, em substituição ao **Bolsa Família**, por meio do Decreto nº 10.852.",
+  "response_no_search": "O valor de **R$ 600** para o Auxílio Brasil foi estabelecido durante o governo do presidente **Jair Bolsonaro**, por meio da **Emenda Constitucional nº 123/2022** (a chamada \"PEC das Bondades\" ou PEC Eleitoral), aprovada em agosto de 2022, às vésperas das eleições presidenciais daquele ano.\n\nAnteriormente, o benefício era de R$ 400. O aumento para R$ 600 foi amplamente criticado por ter sido implementado em ano eleitoral.\n\nPosteriormente, já no governo **Lula** (a partir de 2023), o programa foi",
+  "error": null
+}

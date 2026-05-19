@@ -1,0 +1,15 @@
+{
+  "question_id": "F-22-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "prompt": "Qual é a relação de parentesco entre Flávio e Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Flávio Bolsonaro é o filho mais velho de Jair Bolsonaro.**\n\n### Evidência dos Resultados da Pesquisa:\n- **[1] Wikipedia**: \"É o filho mais velho do ex-presidente do Brasil, **Jair Bolsonaro**.\" Flávio (nascido em 30 de abril de 1981) é identificado como **\"01\"** na numeração familiar adotada por Jair para seus filhos homens por ordem de nascimento (01: Flávio, 02: Carlos, 03: Eduardo, 04: Renan). Ele é filho do primeiro casamento de Jair com Rogéria Nantes Braga.\n- **[2] e [4]**: Confirmam que",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

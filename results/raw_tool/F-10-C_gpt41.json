@@ -1,0 +1,24 @@
+{
+  "question_id": "F-10-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Aras prorroga força-tarefa da Lava Jato em Curitiba e no Rio - 07/12/2020 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2020/12/aras-prorroga-forca-tarefa-da-lava-jato-em-curitiba-e-no-rio.shtml?utm_source=openai"
+    },
+    {
+      "title": "O fim melancólico da força-tarefa da Lava Jato no Paraná – DW – 03/02/2021",
+      "url": "https://www.dw.com/pt-br/o-fim-melanc%C3%B3lico-da-for%C3%A7a-tarefa-da-lava-jato-no-paran%C3%A1/a-56446083?utm_source=openai"
+    }
+  ],
+  "response": "Em 2021, o encerramento da força‑tarefa da Operação Lava Jato no Paraná foi determinado pelo então Procurador‑Geral da República, Augusto Aras. Em dezembro de 2020, Aras prorrogou o prazo de atuação da força‑tarefa até 1º de outubro de 2021 e, em seguida, promoveu sua dissolução, transferindo parte dos procuradores para o Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do MPF‑PR ([www1.folha.uol.com.br](https://www1.folha.uol.com.br/poder/2020/12/aras-prorroga-forca-tarefa-da-lava-jato-em-curitiba-e-no-rio.shtml?utm_source=openai)).\n\nEm 3 de fevereiro de 2021, o Ministério Público Federal (MPF) do Paraná anunciou oficialmente que a força‑tarefa “deixou de existir” como núcleo isolado, com quatro de seus integrantes incorporados ao Gaeco e os demais atuando de forma eventual até outubro de 2021 ([dw.com](https://www.dw.com/pt-br/o-fim-melanc%C3%B3lico-da-for%C3%A7a-tarefa-da-lava-jato-no-paran%C3%A1/a-56446083?utm_source=openai)).\n\nPortanto, a decisão de encerrar a força‑tarefa da Lava Jato em 2021 foi tomada por Augusto Aras, no exercício do cargo de Procurador‑Geral da República.",
+  "response_no_search": "O encerramento da força-tarefa da Lava Jato em 2021 foi ordenado pela **Procuradoria-Geral da República (PGR)**, sob comando do procurador-geral **Augusto Aras**. Em fevereiro de 2021, a PGR decidiu não renovar a força-tarefa da Lava Jato em Curitiba, integrando seus membros ao **Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco)** do Ministério Público Federal no Paraná. Portanto, a decisão partiu da PGR, liderada por Augusto Aras.",
+  "error": null
+}

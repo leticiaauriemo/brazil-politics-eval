@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da CSP — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/02/19/flavio-bolsonaro-e-eleito-presidente-da-csp"
+    },
+    {
+      "title": "Divulgação da atividade parlamentar em 02/2025 por Flávio Bolsonaro - Transparência e Prestação de Contas",
+      "url": "https://www6g.senado.leg.br/transparencia/sen/5894/ceaps/5/detalhe/?mesAno=02%2F2025"
+    },
+    {
+      "title": "Flávio Bolsonaro",
+      "url": "https://oglobo.globo.com/tudo-sobre/politico/flavio-bolsonaro/"
+    }
+  ],
+  "response": "Flávio Bolsonaro ocupa atualmente o cargo de **Senador da República** pelo estado do Rio de Janeiro, representando o PL (Partido Liberal). Ele foi eleito em 2018 com mais de 4 milhões de votos e está no mandato que vai até 2027.\n\nAlém disso, ele é **Presidente da Comissão de Segurança Pública (CSP)** do Senado Federal, cargo para o qual foi eleito em fevereiro de 2025. Também é titular de outras comissões, como a de Desenvolvimento Regional (CDR) e a de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor (CTFC).",
+  "response_no_search": "# Flávio Bolsonaro\n\nFlávio Bolsonaro é atualmente **Senador da República** pelo estado do Rio de Janeiro, cargo que ocupa desde 2019.\n\nEle foi eleito senador nas eleições de 2018 e continua nessa posição. Antes disso, foi deputado estadual no Rio de Janeiro.",
+  "error": null
+}

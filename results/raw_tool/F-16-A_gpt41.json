@@ -1,0 +1,24 @@
+{
+  "question_id": "F-16-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Medida Provisória garante valor mínimo de R$ 600 ao Bolsa Família em 2023 — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/medida-provisoria-garante-valor-minimo-de-r-600-ao-bolsa-familia-em-2023?utm_source=openai"
+    },
+    {
+      "title": "Novo Bolsa Família garante valor mínimo de R$ 600, renda mínima por pessoa e adicional para crianças, adolescentes e gestantes — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/novo-bolsa-familia-garante-valor-minimo-de-r-600-por-residencia-renda-minima-por-pessoa-e-adicional-para-criancas-adolescentes-e-gestantes?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou: **“Quem aumentou o valor do Bolsa Família para R$ 600?”**\n\nAqui está a resposta clara e fundamentada:\n\nO valor mínimo de R$ 600 mensais para o Bolsa Família foi estabelecido pelo **presidente Luiz Inácio Lula da Silva**, por meio da **Medida Provisória nº 1.155/2023**, assinada em **2 de janeiro de 2023**. Essa MP garantiu o piso de R$ 600 por família e também assegurou o pagamento integral do Auxílio Gás ([gov.br](https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/medida-provisoria-garante-valor-minimo-de-r-600-ao-bolsa-familia-em-2023?utm_source=openai)).\n\nAlém disso, o **novo Bolsa Família**, lançado em **2 de março de 2023**, manteve esse valor mínimo de R$ 600 por família e introduziu benefícios complementares: R$ 150 por criança de até seis anos e R$ 50 por criança ou adolescente de 7 a 18 anos, além de gestantes ([gov.br](https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/novo-bolsa-familia-garante-valor-minimo-de-r-600-por-residencia-renda-minima-por-pessoa-e-adicional-para-criancas-adolescentes-e-gestantes?utm_source=openai)).\n\nEm resumo:\n\n- A **Medida Provisória nº 1.155/2023**, assinada por **Lula em 2 de janeiro de 2023**, foi responsável por elevar o valor mínimo do Bolsa Família para R$ 600.\n- O **novo Bolsa Família**, implementado em **março de 2023**, consolidou esse valor e acrescentou benefícios adicionais conforme a composição familiar.\n\nSe quiser, posso detalhar mais sobre os benefícios complementares ou o funcionamento do programa.",
+  "response_no_search": "O aumento do valor do **Bolsa Família** para **R$600** foi uma medida implementada durante o governo do presidente **Luiz Inácio Lula da Silva** (Lula), em 2023. No entanto, é importante entender o contexto:\n\n- **Em 2022**, durante o governo de **Jair Bolsonaro**, o programa social foi rebatizado como **Auxílio Brasil** e o valor do benefício foi elevado para R$600 de forma temporária, por meio de uma **Emenda Constitucional** aprovada pelo Congresso Nacional, válida até dezembro de 2022, em raz",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-12-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Yes**, the events of January 8, 2023, in Brasília explicitly included the invasion and vandalism (depredação) of federal public buildings, specifically the seats of Brazil's three branches of government: the National Congress, Palácio do Planalto (Executive), and Supreme Federal Court (STF).\n\n### Key Evidence from Search Results\nAll 10 sources unanimously confirm this, describing coordinated actions by Bolsonaro supporters (often labeled \"bolsonaristas,\" \"golpistas,\" or \"extremists\") who breac",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

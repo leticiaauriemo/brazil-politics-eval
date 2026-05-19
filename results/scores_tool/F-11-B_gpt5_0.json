@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-B",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies 'crimes de responsabilidade' related to 'pedaladas fiscais' and supplementary credit decrees, explicitly states it was not for personal corruption, and provides a detailed explanation consistent with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Dilma was impeached for 'crimes de responsabilidade' related to pedaladas fiscais and clarifies that there was no accusation of personal corruption."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-06-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Sim, um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil.**\n\n### Base Legal e Competência\nNo Brasil, ministros do Supremo Tribunal Federal (STF) têm ampla competência para decidir monocraticamente (individualmente) em processos sob sua relatoria, especialmente em casos de **urgência**, **inquéritos** ou **mandados de segurança**. Isso está previsto no:\n- **Regimento Interno do STF** (arts. 13, §2º, e 192): Permite decisões monocráticas em matérias p",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

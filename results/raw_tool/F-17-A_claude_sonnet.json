@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Master",
+      "url": "https://www.bancomaster.com.br/"
+    },
+    {
+      "title": "O que aconteceu com o Banco Master? Entenda o caso",
+      "url": "https://www.politize.com.br/banco-master/"
+    },
+    {
+      "title": "Número 291 31 de março de 2026 Caso Banco Master: impactos",
+      "url": "https://www.dieese.org.br/notatecnica/2026/notaTec291BancoMaster.pdf"
+    },
+    {
+      "title": "Entenda o caso do Banco Master e do Banco Will em detalhes - Portal do Cooperativismo Financeiro",
+      "url": "https://cooperativismodecredito.coop.br/2026/01/entenda-o-caso-do-banco-master/"
+    },
+    {
+      "title": "Como o Banco Master entra em 2026: da corrida por CDBs turbinados à liquidação, investigações e pressão sobre o BC - Seu Dinheiro",
+      "url": "https://www.seudinheiro.com/2026/empresas/como-o-banco-master-entra-em-2026-da-corrida-por-cdbs-turbinados-a-liquidacao-investigacoes-e-pressao-sobre-o-bc-miql/"
+    }
+  ],
+  "response": "**Não, o Banco Master não está mais em funcionamento em 2026.** Veja o que aconteceu:\n\n---\n\n### 🏦 Liquidação do Banco Master\n\nPor meio do Ato do Presidente do Banco Central do Brasil número 1.369, de 18 de novembro de 2025, foi decretada a **liquidação extrajudicial do Banco Master S.A.**\n\nO Banco Central avaliou que a situação econômico-financeira da instituição estava comprometida.\n\n---\n\n### 📉 O que levou à liquidação?\n\nEntre 2021 e 2024, os ativos totais do Master passaram de R$ 10,3 bilhões para R$ 63 bilhões, enquanto os depósitos totais cresceram de R$ 8,4 bilhões para R$ 59 bilhões. A expansão foi acompanhada por forte aumento das operações de crédito, que se multiplicaram mais de 13 vezes no período. Esse crescimento acelerado, baseado em uma estratégia agressiva de captação, acabou revelando fragilidades estruturais.\n\n---\n\n### 🔗 Efeito em cadeia no conglomerado\n\nAo liquidar o Banco Master, o Banco Central optou por manter o Banco Master Múltiplo sob Regime de Administração Especial Temporária (RAET), com o objetivo declarado de tentar preservar a operação da controlada Will Financeira (Will Bank), banco digital voltado à inclusão financeira.\n\nEm janeiro de 2026, o Will Bank descumpriu a grade de pagamentos com o arranjo Mastercard, o que levou ao bloqueio de sua participação no sistema de pagamentos. Sem acesso ao arranjo, a continuidade operacional tornou-se inviável. Em 21 de janeiro de 2026, o Banco Central decretou a liquidação extrajudicial do Will Bank, encerrando a última tentativa de preservação de parte do conglomerado.\n\nEm fevereiro de 2026, o Banco Central liquidou também o Banco Pleno e sua distribuidora de valores, instituições de pequeno porte que haviam integrado anteriormente o ecossistema do Banco Master.\n\nEm março de 2026, o Banco Central converteu o RAET do Banco Master Múltiplo em liquidação extrajudicial, encerrando formalmente todos os regimes especiais aplicados ao conglomerado.\n\n---\n\n### 💰 Impacto para investidores e credores\n\nO processo de liquidação levou o FGC (Fundo Garantidor de Créditos) a realizar o maior esforço de ressarcimento de sua história recente, com pagamentos estimados em cerca de **R$ 40 bilhões** para aproximadamente **800 mil investidores**, apenas no caso Master.\n\nO processo de consolidação e validação das relações de credores do Banco Master S.A., Banco Master de Investimento S.A. e Banco Letsbank S.A. foi concluído. Os credores que têm direito à solicitação do pagamento de garantia devem realizar seus pedidos junto ao FGC.\n\n---\n\n### 🔍 Investigações em andamento\n\nA investigação no Banco Master se concentra em suspeitas de fraudes financeiras, possíveis prejuízos a um banco público e questionamentos sobre falhas na supervisão do sistema financeiro. ",
+  "response_no_search": "Minha base de conhecimento tem um **corte em julho de 2025**, então não tenho informações sobre o que aconteceu com o Banco Master após essa data.\n\n## O que eu sei até julho de 2025:\n\n- O Banco Master estava em **negociações para ser adquirido pelo BRB (Banco de Brasília)**\n- A operação gerou **debate regulatório**, especialmente sobre a cobertura do FGC (Fundo Garantidor de Créditos) para CRIs e outros ativos\n- O **Banco Central** estava analisando a operação\n- Havia preocupações sobre a **soli",
+  "error": null
+}

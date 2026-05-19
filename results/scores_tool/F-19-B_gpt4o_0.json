@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro but incorrectly suggests Tarcísio de Freitas is still a potential strong candidate for president, despite acknowledging his interest in re-election as governor, which contradicts the ground truth that he is out of the presidential race."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro but does not explicitly mention that Tarcísio de Freitas opted for re-election, which is crucial context."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

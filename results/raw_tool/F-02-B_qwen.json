@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/"
+    },
+    {
+      "title": "STF publica acórdão de julgamento que mantém condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "STF impõe a Bolsonaro 27 anos e três meses de prisão em regime fechado; veja todas as penas - Estadão",
+      "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/stf-tamanho-pena-bolsonaro-julgamento-trama-golpista-golpe/"
+    },
+    {
+      "title": "STF publica o tão esperado acórdão da condenação de Bolsonaro, com 1991 páginas; leia a íntegra",
+      "url": "https://www.jb.com.br/brasil/justica/2025/11/1057661-stf-publica-o-tao-esperado-acordao-da-condenacao-de-bolsonaro-com-1991-paginas-leia-a-integra.html"
+    },
+    {
+      "title": "STF publica acórdão do julgamento que condenou Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-justica/stf-publica-acordao-do-julgamento-de-bolsonaro/"
+    }
+  ],
+  "response": "O ex-presidente Jair Bolsonaro foi condenado pelo Supremo Tribunal Federal (STF) em 2025 a **27 anos e três meses de prisão** por envolvimento na tentativa de golpe de Estado de 2022. A sentença inclui:\n\n- **24 anos e 9 meses** de reclusão (regime fechado).  \n- **2 anos e 6 meses** de detenção (regime semiaberto/aberto).  \n\nEle foi considerado líder do \"Núcleo Crucial\" do golpe e condenado pelos crimes de:  \n1. Tentativa de abolição violenta do Estado Democrático de Direito.  \n2. Golpe de Estado.  \n3. Participação em organização criminosa armada.  \n4. Dano qualificado.  \n5. Deterioração de patrimônio tombado.  \n\nAlém disso, foi aplicada uma **multa de 248 salários mínimos** (valor atualizado conforme a época dos crimes). A pena é a mais severa entre os oito réus, refletindo seu papel central na trama golpista.  \n\nFontes:  \n- [STF oficializa condenação](https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/)  \n- [O Globo](https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml)  \n- [Estadão](https://www.estadao.com.br/politica/blog-do-fausto-macedo/stf-tamanho-pena-bolsonaro-julgamento-trama-golpista-golpe/)",
+  "response_no_search": "Em 2023, não há registros de decisões judiciais do Supremo Tribunal Federal (STF) contra o ex-presidente Jair Bolsonaro que sejam referentes a 2025. Como estamos ainda no ano de 2023, o ano de 2025 não ocorreu, e, portanto, não há informações sobre eventuais penas ou julgamentos futuros. \n\nEventuais processos legais contra ex-presidentes no Brasil dependem de investigações, apresentação de denúncias pelo Ministério Público, aceitação pelo STF e julgamento, um processo que pode levar anos. Até o ",
+  "error": null
+}

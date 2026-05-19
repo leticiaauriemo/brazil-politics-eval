@@ -1,0 +1,35 @@
+{
+  "question_id": "F-24-B",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Lula pode disputar 2026? Veja o que diz a Constituição",
+      "url": "https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/"
+    },
+    {
+      "title": "Após 12 anos e depois de ter ficado preso por 580 dias, Lula volta à Presidência | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/lula-toma-posse-hoje-para-terceiro-mandato-e-volta-a-presidencia-apos-12-anos/"
+    },
+    {
+      "title": "Lula é eleito presidente do Brasil pela 3ª vez; veja propostas e desafios | Eleições 2022 | Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/30/lula-e-eleito-presidente-do-brasil.ghtml"
+    },
+    {
+      "title": "Biografia do Presidente da República — Planalto - Portal Gov.br",
+      "url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente"
+    },
+    {
+      "title": "Lula entra para a história da redemocratização com 3º mandato | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2023/01/01/lula-entra-para-a-histria-da-redemocratizao-com-3-mandato.ghtml"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva está atualmente em seu terceiro mandato presidencial. Ele foi eleito presidente do Brasil pela primeira vez em 2002 e reeleito em 2006, cumprindo dois mandatos consecutivos de 2003 a 2010. Após um intervalo fora da presidência, ele foi novamente eleito em 2022, iniciando seu terceiro mandato em 2023 [valor.globo.com](https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/30/lula-e-eleito-presidente-do-brasil.ghtml). \n\nA Constituição brasileira permite que um presidente exerça dois mandatos consecutivos, mas não impede que ele volte a concorrer após um intervalo fora do cargo. Assim, o mandato iniciado em 2023 é considerado o primeiro de um novo ciclo, permitindo que Lula dispute uma reeleição em 2026 [ndmais.com.br](https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/).",
+  "response_no_search": "Luiz Inácio Lula da Silva está em seu terceiro mandato presidencial. Ele foi presidente do Brasil pela primeira vez de 2003 a 2010, cumprindo dois mandatos consecutivos. Em 2022, Lula foi eleito novamente e iniciou seu terceiro mandato em janeiro de 2023.",
+  "error": null
+}

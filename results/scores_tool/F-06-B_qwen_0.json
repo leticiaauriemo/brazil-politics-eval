@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms that the inquiry resulted in account blocking orders and names specific platforms, aligning with the ground truth and resolution criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Inquiry 4781 resulted in account blocking orders and specifically names the platforms involved."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,32 @@
+{
+  "question_id": "F-18-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "prompt": "Daniel Vorcaro, dono do Banco Master, foi preso pela Polícia Federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Daniel Vorcaro",
+      "url": "https://en.wikipedia.org/wiki/Daniel_Vorcaro?utm_source=openai"
+    },
+    {
+      "title": "Banco Master",
+      "url": "https://en.wikipedia.org/wiki/Banco_Master?utm_source=openai"
+    },
+    {
+      "title": "Justiça mantém prisão de Daniel Vorcaro, dono do Banco Master | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/justica-mantem-prisao-de-daniel-vorcaro-dono-do-banco-master?utm_source=openai"
+    },
+    {
+      "title": "Dono do Banco Master, Daniel Vorcaro é preso pela Polícia Federal em São Paulo - GP1",
+      "url": "https://www.gp1.com.br/brasil/noticia/2026/3/4/dano-do-banco-master-daniel-vorcaro-e-preso-pela-policia-federal-em-sao-paulo-617117.html?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se **Daniel Vorcaro**, dono do Banco Master, foi preso pela Polícia Federal. A resposta é sim — e houve **duas prisões distintas**, em momentos diferentes, no contexto da Operação *Compliance Zero*.\n\n---\n\n##  Prisão em novembro de 2025\n\n- Em **17 de novembro de 2025**, Daniel Vorcaro foi detido pela Polícia Federal no **Aeroporto de Guarulhos (SP)**, enquanto tentava embarcar em seu jatinho particular com destino ao exterior — possivelmente Malta ou Dubai. A prisão ocorreu no âmbito da **Operação Compliance Zero**, que investiga a emissão de títulos de crédito falsos pelo Banco Master ([en.wikipedia.org](https://en.wikipedia.org/wiki/Daniel_Vorcaro?utm_source=openai)).\n\n- No dia seguinte, **18 de novembro de 2025**, o Banco Central decretou a **liquidação extrajudicial** do Banco Master, e Vorcaro foi formalmente preso por suspeita de **lavagem de dinheiro** ([en.wikipedia.org](https://en.wikipedia.org/wiki/Banco_Master?utm_source=openai)).\n\n- A prisão preventiva foi mantida pela Justiça Federal em **20 de novembro de 2025**, após a defesa ter solicitado habeas corpus, que foi negado ([agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/justica-mantem-prisao-de-daniel-vorcaro-dono-do-banco-master?utm_source=openai)).\n\n---\n\n##  Prisão em março de 2026\n\n- Em **4 de março de 2026**, Vorcaro foi novamente preso pela Polícia Federal, desta vez em sua **residência em São Paulo**, em uma nova fase da Operação Compliance Zero. A prisão foi autorizada pelo ministro **André Mendonça**, do Supremo Tribunal Federal (STF) ([gp1.com.br](https://www.gp1.com.br/brasil/noticia/2026/3/4/dano-do-banco-master-daniel-vorcaro-e-preso-pela-policia-federal-em-sao-paulo-617117.html?utm_source=openai)).\n\n- Essa nova fase da investigação envolveu o cumprimento de **quatro mandados de prisão preventiva** e **15 mandados de busca e apreensão** em São Paulo e Minas Gerais, além do **sequestro e bloqueio de bens** no valor de até **R$ 22 bilhões** ([gp1.com.br](https://www.gp1.com.br/brasil/noticia/2026/3/4/dano-do-banco-master-daniel-vorcaro-e-preso-pela-policia-federal-em-sao-paulo-617117.html?utm_source=openai)).\n\n---\n\n##  Resumo cronológico\n\n| Data               | Evento                                                                 |\n|--------------------|------------------------------------------------------------------------|\n| 17 nov 2025        | Prisão no Aeroporto de Guarulhos enquanto tentava deixar o país       |\n| 18 nov 2025        | Liquidação do Banco Master e prisão por lavagem de dinheiro           |\n| 20 nov 2025        | Justiça mantém prisão preventiva (habeas corpus negado)               |\n| 4 mar 2026         | Nova prisão em São Paulo, autorizada pelo STF, com bloqueio de bens   |\n\n---\n\n### Conclusão\n\nSim, **Daniel Vorcaro foi preso pela Polícia Federal**, em **duas ocasiões distintas**:\n\n1. **Novembro de 2025**, no aeroporto, durante a primeira fase da Operação Compliance Zero.\n2. **Março de 2026**, em sua residência, em uma nova fase da mesma operação, com autorização do STF.\n\nSe quiser, posso te ajudar com mais detalhes sobre as acusações, o andamento judicial ou o impacto do caso no sistema financeiro brasileiro.",
+  "response_no_search": "Até a data do meu conhecimento, em junho de 2024, **não há registros públicos ou notícias confiáveis de que Daniel Vorcaro, dono do Banco Master, tenha sido preso pela Polícia Federal**.\n\nCaso você tenha visto alguma notícia recente sobre isso, recomendo verificar a fonte da informação, pois até o momento não há confirmação em veículos de imprensa reconhecidos ou comunicados oficiais sobre uma prisão envolvendo Daniel Vorcaro.\n\nSe precisar de informações atualizadas, posso ajudar a buscar notíci",
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "question_id": "F-16-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.camara.leg.br/noticias/648863-camara-aprova-auxilio-de-r-600-para-pessoas-de-baixa-renda-durante-epidemia/"
+    },
+    {
+      "title": "2",
+      "url": "https://www12.senado.leg.br/noticias/materias/2020/03/30/coronavirus-senado-aprova-auxilio-emergencial-de-r-600"
+    },
+    {
+      "title": "3",
+      "url": "https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Emergencial"
+    }
+  ],
+  "response": "**O benefício mínimo de R$ 600 foi uma medida do governo Bolsonaro.**\n\nTrata-se do **Auxílio Emergencial** (também chamado de coronavoucher), criado durante a pandemia de Covid-19 em 2020. Ele foi aprovado pelo Congresso Nacional e sancionado pelo presidente Jair Bolsonaro:\n\n- A Câmara dos Deputados aprovou o valor de R$ 600 em 26 de março de 2020.[[1]](https://www.camara.leg.br/noticias/648863-camara-aprova-auxilio-de-r-600-para-pessoas-de-baixa-renda-durante-epidemia/)\n- O Senado aprovou o projeto em 30 de março de 2020 e o enviou para sanção presidencial.[[2]](https://www12.senado.leg.br/noticias/materias/2020/03/30/coronavirus-senado-aprova-auxilio-emergencial-de-r-600)\n- Bolsonaro sancionou a Lei nº 13.982 em 1º de abril de 2020 (publicada em 2 de abril), instituindo o pagamento de R$ 600 mensais para trabalhadores informais, de baixa renda, MEIs e contribuintes individuais do INSS, inicialmente por três meses (com possibilidade de prorrogação). Os pagamentos começaram em abril de 2020.[[3]](https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Emergencial)\n\nEsse auxílio atendeu dezenas de milhões de pessoas e foi uma das principais medidas de transferência de renda do período.\n\n### Observação sobre o governo Lula\nO governo Lula (a partir de 2023) manteve e reajustou o Bolsa Família (que substituiu o Auxílio Brasil), com valores médios superiores a R$ 600 em muitos casos, mas o benefício emergencial específico de R$ 600 foi criado e implementado no governo anterior. Algumas promessas ou referências a R$ 600 em campanhas de Lula se referiam ao Bolsa Família ou a propostas futuras, não ao Auxílio Emergencial original.",
+  "response_no_search": "O benefício mínimo de R$ 600 a que você se refere provavelmente está relacionado ao programa de transferência de renda no Brasil, como o Auxílio Brasil (durante o governo Bolsonaro) ou o Bolsa Família (reinstituído no governo Lula). Vou explicar de forma clara e factual, com base em informações públicas e históricas, para contextualizar:\n\n### Contexto Histórico:\n- **Governo Bolsonaro (2019-2022)**:\n  - Em 2020, durante a pandemia de COVID-19, o governo Bolsonaro criou o **Auxílio Emergencial**, ",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-21-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro as a senator from Rio de Janeiro, but incorrectly states he is a candidate for president in 2026, which is a significant factual error."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies Flávio Bolsonaro as a senator from Rio de Janeiro, correctly stating his election year and providing relevant context."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

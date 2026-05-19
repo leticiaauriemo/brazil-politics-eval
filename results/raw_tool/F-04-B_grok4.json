@@ -1,0 +1,28 @@
+{
+  "question_id": "F-04-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Desmatamento_da_Floresta_Amaz%C3%B4nica"
+    },
+    {
+      "title": "2",
+      "url": "https://revistapesquisa.fapesp.br/a-volta-do-desmatamento/"
+    },
+    {
+      "title": "3",
+      "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/dados-do-prodes-apontam-reducao-no-desmatamento-na-amazonia-e-no-cerrado-brasileiros-1"
+    }
+  ],
+  "response": "**O governo de Luiz Inácio Lula da Silva (primeiro mandato, 2003–2010) registrou o maior desmatamento da Amazônia Legal no século 21, especialmente nos anos de pico de 2004 e 2005.**[[1]](https://pt.wikipedia.org/wiki/Desmatamento_da_Floresta_Amaz%C3%B4nica)\n\nOs dados oficiais vêm do sistema PRODES do INPE (Instituto Nacional de Pesquisas Espaciais), que mede o desmatamento por corte raso na Amazônia Legal (período de agosto a julho). As taxas anuais mais altas do século 21 foram:\n\n- **2004**: cerca de 27.772 km² (pico histórico recente, sob Lula).\n- **2005**: cerca de 19.014 km² (ainda sob Lula).\n- Anos seguintes caíram drasticamente graças a políticas como o PPCDAm (Plano de Prevenção e Controle do Desmatamento na Amazônia).\n\nComparação com outros governos (valores aproximados de PRODES):\n\n- **Fernando Henrique Cardoso** (até 2002): taxas altas, mas o pico de 2004 já é no mandato seguinte.\n- **Dilma Rousseff** (2011–2016): taxas mais baixas (geralmente abaixo de 8.000 km²/ano após 2012).\n- **Michel Temer** (2016–2018): aumento moderado, chegando a ~7.500 km² em 2018.\n- **Jair Bolsonaro** (2019–2022): forte alta, com picos de ~10.129 km² (2019), ~10.851 km² (2020) e ~13.235 km² (2021) — os maiores desde 2008, mas bem abaixo dos recordes de 2004.[[2]](https://revistapesquisa.fapesp.br/a-volta-do-desmatamento/)\n- **Lula (segundo mandato, 2023–)**: queda acentuada, com taxas em torno de 9.000 km² (2023), ~6.500 km² (2024) e estimativa de ~5.800 km² (2025) — os menores em mais de uma década.[[3]](https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/dados-do-prodes-apontam-reducao-no-desmatamento-na-amazonia-e-no-cerrado-brasileiros-1)\n\n**Resumo**: Embora o desmatamento tenha subido muito no governo Bolsonaro em relação aos anos anteriores, os números absolutos mais elevados do século 21 ocorreram no início do primeiro mandato de Lula (2003–2010), quando as taxas ainda eram muito superiores às de qualquer outro período posterior. Os dados do INPE/TerraBrasilis confirmam essa série histórica.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

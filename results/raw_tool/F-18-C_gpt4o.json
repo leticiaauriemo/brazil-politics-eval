@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "prompt": "A Operação Compliance Zero resultou na prisão do dono do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Caso Master: entenda a Operação Compliance Zero, investigação da PF que levou à prisão de Daniel Vorcaro",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/03/04/caso-master-entenda-a-operacao-compliance-zero-investigacao-da-pf-que-levou-a-prisao-de-daniel-vorcaro.ghtml"
+    },
+    {
+      "title": "Daniel Vorcaro, dono do Banco Master, é preso novamente em operação da PF",
+      "url": "https://viva.com.br/noticias/daniel-vorcaro-dono-do-banco-master-e-preso-novamente-em-operacao-da-pf.html"
+    },
+    {
+      "title": "Dono do Banco Master, Daniel Vorcaro é preso em operação da PF",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-daniel-vorcaro-e-preso-em-operacao-da-pf,881c45affdce2a196f27d76e8ce2f903fbe125yi.html"
+    },
+    {
+      "title": "Guerra jurídica: Dono do Banco Master cobra provas do STF após nova prisão na PF",
+      "url": "https://abcagora.com.br/dono-banco-master-prisao-stf-compliance-zero/"
+    },
+    {
+      "title": "Compliance Zero: veja o que alvos da operação da PF disseram | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/19/compliance-zero-veja-o-que-disseram-os-alvos-da-operacao-que-investiga-fraudes-financeiras.ghtml"
+    }
+  ],
+  "response": "Sim, a Operação Compliance Zero resultou na prisão de Daniel Vorcaro, dono do Banco Master. A operação, conduzida pela Polícia Federal, investiga um esquema bilionário de fraudes no sistema financeiro, centrado no Banco Master. Daniel Vorcaro foi preso durante a terceira fase da operação, que foi autorizada pelo ministro do Supremo Tribunal Federal (STF), André Mendonça. A operação apura crimes como gestão fraudulenta, manipulação de mercado, lavagem de dinheiro, ameaça, corrupção e invasão de dispositivos informáticos. Vorcaro já havia sido preso anteriormente em fases anteriores da operação.",
+  "response_no_search": "Até a data do meu último treinamento em outubro de 2023, não há informações disponíveis sobre uma operação chamada \"Operação Compliance Zero\" ou sobre a prisão do dono do Banco Master relacionada a essa operação. É importante verificar as notícias mais recentes ou fontes confiáveis para obter informações atualizadas sobre esse assunto.",
+  "error": null
+}

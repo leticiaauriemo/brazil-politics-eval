@@ -1,0 +1,32 @@
+{
+  "question_id": "F-04-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Desmatamento na Amazônia: passado, presente e futuro",
+      "url": "https://infoamazonia.org/2023/03/21/desmatamento-na-amazonia-passado-presente-e-futuro/"
+    },
+    {
+      "title": "Desmatamento na Amazônia foi maior no governo de Lula ou Bolsonaro? Entenda - País - Diário do Nordeste",
+      "url": "https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/desmatamento-na-amazonia-foi-maior-no-governo-de-lula-ou-bolsonaro-entenda-1.3290164"
+    },
+    {
+      "title": "Com Bolsonaro, Amazônia tem maior Desmatamento desde 2006 - Greenpeace Brasil",
+      "url": "https://www.greenpeace.org/brasil/blog/com-bolsonaro-amazonia-tem-maior-desmatamento-desde-2006/"
+    },
+    {
+      "title": "Maior desmatamento na Amazônia em 11 anos: atingidos pelo desmonte ambiental de Bolsonaro se reúnem em Brasília - INESC",
+      "url": "https://inesc.org.br/maior-desmatamento-na-amazonia-em-11-anos-atingidos-pelo-desmonte-ambiental-de-bolsonaro-se-reunem-em-brasilia/"
+    }
+  ],
+  "response": "# O desmatamento da Amazônia por governo no século 21\n\nA resposta depende de como se analisa: **taxa anual de pico** ou **tendência durante o mandato**.\n\n## Maior pico anual: primeiro mandato de Lula (2003-2004)\n\nO ano com a cifra mais alta foi 2003, chegando a quase 5 milhões de hectares de florestas derrubadas em toda a região amazônica. Considerando apenas a Amazônia brasileira, conforme monitoramento do Projeto Prodes, o número saiu de 25,3 mil quilômetros quadrados (km²) desmatados na Amazônia em 2003 para apenas 7 mil km² em 2010.\n\n## Maior crescimento e aceleração: governo Bolsonaro (2019-2022)\n\nEmbora as taxas absolutas no início dos anos 2000 tenham sido mais altas, foi durante o governo Bolsonaro que se reverteu uma tendência de queda histórica:\n\n- Ao longo de todo o governo de Lula, houve queda de 67% no desmatamento da Amazônia, enquanto no de Bolsonaro ocorreu crescimento de 73%, conforme informações da BBC News Brasil.\n- A área desmatada na Amazônia divulgada pelo Instituto Nacional de Pesquisas Espaciais (Inpe) foi de 13.235 km². Os dados representam um aumento de 21,97% na taxa de destruição em relação ao ano anterior, que foi de 10.851 km². Esta é a maior taxa já registrada desde 2006 — referente ao período 2020-2021.\n- Uma área equivalente ao Distrito Federal e as cidades de São Paulo, Rio de Janeiro e Belém somadas foi desmatada na Amazônia de agosto de 2018 a julho de 2019. Foram embora 9.762km² de floresta, a mais alta taxa desde 2008 e um aumento percentual de 29,5% – o maior salto anual dos últimos 22 anos.\n\n## Evolução histórica resumida\n\nDesde o início do monitoramento, a taxa chegou a patamares históricos de queda entre 2006 e 2015. A tendência de redução foi mantida principalmente durante o governo de Dilma Rousseff (PT), que registrou apenas 4,5 mil km² em 2012 - menor número histórico. No entanto, a partir do governo de Michel Temer (MDB), o número voltou a crescer. Após assumir a Presidência, o governo de Bolsonaro não registrou queda em nenhum ano. Pelo contrário: a taxa de desmatamento subi",
+  "response_no_search": "Considerando dados oficiais do INPE (Instituto Nacional de Pesquisas Espaciais) através do sistema PRODES, que mede o desmatamento anual na Amazônia Legal:\n\n## Maior desmatamento acumulado por governo no século 21:\n\n**1º lugar: Governo Lula (1º e 2º mandatos, 2003-2010)**\n- Desmatamento acumulado: aproximadamente **155 mil km²**\n- Apesar do total elevado, foi o período em que ocorreu a **maior queda** já registrada: de 27.772 km² (2004) para 7.000 km² (2010), uma redução de cerca de 75%.\n\n**2º l",
+  "error": null
+}

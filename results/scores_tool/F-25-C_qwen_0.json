@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Romeu Zema left office in March 2026 to run for president, implying he could have run for governor again, and also incorrectly states that Mateus Simões will be the candidate for reelection as governor in 2026, which is not possible as Simões would be in his first term."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Zema will leave office in March 2026 to run for president, implying he can run for governor again, which contradicts the fact that he is ineligible due to having served two consecutive terms."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

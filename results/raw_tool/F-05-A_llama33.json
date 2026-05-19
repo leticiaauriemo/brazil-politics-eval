@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "prompt": "Quem criou o programa Bolsa Família no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsa Família nasceu da unificação de programas de Fernando Henrique Cardoso – Noticias R7",
+      "url": "https://noticias.r7.com/brasil/bolsa-familia-nasceu-da-unificacao-de-programas-denbspfernando-henrique-cardoso-29062022/"
+    },
+    {
+      "title": "Uma controvérsia de anos: Quem criou o Bolsa Família? - Aventuras na História",
+      "url": "https://aventurasnahistoria.com.br/noticias/almanaque/uma-controversia-de-anos-quem-criou-o-bolsa-familia.phtml"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    },
+    {
+      "title": "Entenda a trajetória dos programas de transferência de renda desde a criação do Bolsa Família, no início dos anos 2000",
+      "url": "https://www.infomoney.com.br/politica/entenda-a-trajetoria-dos-programas-de-transferencia-de-renda-desde-a-criacao-do-bolsa-familia-no-inicio-dos-anos-2000/"
+    },
+    {
+      "title": "InstitutoLula - Bolsa Família: 22 anos do maior programa de combate à fome do mundo",
+      "url": "https://institutolula.org/noticias/noticias/bolsa-familia-22-anos-do-maior-programa-de-combate-a-fome-do-mundo"
+    }
+  ],
+  "response": "O programa Bolsa Família foi criado por Luiz Inácio Lula da Silva, mas teve origem em programas sociais criados durante o governo de Fernando Henrique Cardoso, como o Bolsa Escola, o Bolsa Alimentação, o Auxílio-Gás e o cadastramento único do governo federal. O programa foi instituído em 2003 e oficializado pela lei nº 10.836 em 2004.",
+  "response_no_search": "O programa Bolsa Família foi criado no Brasil em 2003, durante o governo do presidente Luiz Inácio Lula da Silva. Foi uma iniciativa do Ministério do Desenvolvimento Social e Combate à Fome, com o objetivo de combater a pobreza e a desigualdade social no país. O programa oferece uma bolsa mensal às famílias em situação de pobreza que atendam a certos critérios, como manter os filhos na escola e garantir que eles recebam vacinas e acompanhamento de saúde regular. O Bolsa Família foi um dos princi",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that it is legal, provides specific legal frameworks (Lei nº 12.232/2010, Art. 37, § 1º da Constituição Federal, Lei nº 4.117/1962, Decreto nº 52.795/1963), and mentions the conditions for such advertising, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the legality of government advertising on private TV stations in Brazil, cites relevant laws and regulations, and explains the conditions under which such advertising occurs."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

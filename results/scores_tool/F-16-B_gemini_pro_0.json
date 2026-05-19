@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly attributes the R$600 benefit to Bolsonaro but lacks specific details about the Auxílio Brasil and the PEC 1/2022."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Bolsonaro's government as the one that established the R$600 value under the Auxílio Brasil program through PEC 1/2022 in 2022, providing specific details about the implementation."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

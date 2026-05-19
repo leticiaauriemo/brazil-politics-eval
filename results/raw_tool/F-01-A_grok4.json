@@ -1,0 +1,28 @@
+{
+  "question_id": "F-01-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    },
+    {
+      "title": "2",
+      "url": "https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva"
+    },
+    {
+      "title": "3",
+      "url": "https://www.jusbrasil.com.br/artigos/afinal-lula-foi-mesmo-considerado-inocente/2190748855"
+    }
+  ],
+  "response": "**Não, Lula não foi inocentado (absolvido) das acusações de corrupção da Lava Jato no mérito.** \n\nSuas condenações foram **anuladas** pelo Supremo Tribunal Federal (STF) em 2021 por razões processuais, e não porque os fatos foram reanalisados e ele considerado inocente.[[1]](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1)\n\n### O que aconteceu exatamente?\n- Em março de 2021, o ministro Edson Fachin do STF declarou a **incompetência** da 13ª Vara Federal de Curitiba (juiz Sergio Moro) para julgar os casos de Lula relacionados à Lava Jato (como o triplex do Guarujá e o sítio de Atibaia). Os processos foram anulados e remetidos à Justiça Federal de Brasília.[[2]](https://pt.wikipedia.org/wiki/Pris%C3%A3o_de_Luiz_In%C3%A1cio_Lula_da_Silva)\n- Posteriormente, o plenário do STF confirmou a anulação (por 8 a 3) e também reconheceu a **suspeição/parcialidade** de Moro em alguns aspectos.[[1]](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1)\n- Com as anulações, as condenações deixaram de existir. Os processos foram transferidos, mas muitos prescreveram (por decurso de prazo), impedindo novos julgamentos. Não houve análise das provas nem absolvição por falta de provas ou inocência comprovada.\n\n### Diferença entre anulação e absolvição\n- **Anulação** (o que ocorreu): Decisão por vícios processuais (incompetência territorial, suspeição do juiz). O processo é “zerado”, mas os fatos não são julgados novamente.\n- **Absolvição**: Ocorre quando o juiz analisa as provas e conclui que o réu não cometeu o crime ou que não há provas suficientes (art. 386 do Código de Processo Penal).\n\nFontes jurídicas e jornalísticas (BBC, CNN, O Globo, Jusbrasil) são unânimes: Lula **não foi absolvido** nem “inocentado” pela Lava Jato. Ele voltou à condição de inocente processualmente (sem condenação transitada em julgado), mas isso não equivale a uma declaração de inocência nos fatos.[[3]](https://www.jusbrasil.com.br/artigos/afinal-lula-foi-mesmo-considerado-inocente/2190748855)\n\n### Situação atual (2026)\nLula não tem condenações ativas da Lava Jato. Ele é considerado “ficha limpa” para fins eleitorais desde as anulações. Há menções a uma absolvição específica no caso do “Quadrilhão do PT” (em Brasília), mas isso é um processo distinto e não abrange todas as acusações da Lava Jato.\n\nResumo: Lula foi **descondenado** por questões técnicas, não inocentado por falta de provas. Essa distinção é importante e frequentemente debatida no debate público brasileiro.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

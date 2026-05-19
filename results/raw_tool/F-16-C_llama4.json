@@ -1,0 +1,15 @@
+{
+  "question_id": "F-16-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "O Auxílio Brasil foi criado pelo presidente Jair Bolsonaro, em substituição ao Bolsa Família. O valor inicial do benefício era de R$ 400, mas foi reajustado para R$ 600 em 2022.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

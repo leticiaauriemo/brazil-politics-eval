@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Inquérito das Fake News ultrapassa cem perfis bloqueados em ...",
+      "url": "https://oglobo.globo.com/politica/noticia/2023/04/inquerito-das-fake-news-ultrapassa-cem-perfis-bloqueados-em-quatro-anos-e-vira-arma-politica-de-governo-e-oposicao.ghtml"
+    },
+    {
+      "title": "Inquérito das Fake News – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Inqu%C3%A9rito_das_Fake_News"
+    },
+    {
+      "title": "Twitter alega que não bloqueou contas antes porque só tinha CPF e nome de bolsonaristas - Estadão",
+      "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/twitter-alega-que-nao-bloqueou-contas-antes-porque-so-tinha-cpf-e-nome-de-bolsonaristas/"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2020/07/Despacho-Facebook.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2021/02/inq4781pet_030220213402.pdf"
+    }
+  ],
+  "response": "Sim, o Inquérito 4781, conhecido como \"Inquérito das Fake News\", resultou em diversas ordens de bloqueio de contas em plataformas digitais.\n\nDecisões do ministro Alexandre de Moraes, relator do inquérito no Supremo Tribunal Federal (STF), determinaram o bloqueio de mais de uma centena de perfis em redes sociais como Twitter, Facebook, Instagram e WhatsApp. Os alvos foram pessoas investigadas por disseminar notícias falsas, discurso de ódio e ameaças contra ministros do STF e outras autoridades.\n\nEntre os afetados pelas ordens de bloqueio estão políticos, empresários e ativistas digitais. Em alguns casos, as plataformas de redes sociais foram multadas por não cumprirem as determinações judiciais de bloqueio integral das contas.",
+  "response_no_search": "Sim, o Inquérito 4781, conhecido como \"Inquérito das Fake News\", resultou em diversas ordens de bloqueio de contas e perfis em plataformas digitais,",
+  "error": null
+}

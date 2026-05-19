@@ -1,0 +1,15 @@
+{
+  "question_id": "F-18-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "prompt": "A Operação Compliance Zero resultou na prisão do dono do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Sim, a Operação Compliance Zero resultou na prisão de Daniel Vorcaro, dono do Banco Master.**\n\n### Evidências principais dos resultados da busca:\n- **Fase 1 (18/11/2025)**: Vorcaro foi preso no aeroporto de Guarulhos ao tentar fugir para Dubai em seu jato particular de R$ 200 milhões ([5], [2]).\n- **Fase 3 (4/3/2026)**: Reprise preventivamente, junto com seu cunhado Fabiano Zettel e Luís Felipe Mourão ([1], [4], [5]).\n- **Status atual (até maio/2026)**: Vorcaro permanece preso na Superintendên",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

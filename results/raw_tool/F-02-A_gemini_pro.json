@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado"
+    },
+    {
+      "title": "STF publica acórdão de julgamento que mantém condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "Bolsonaro é condenado a 27 anos e 3 meses por tentativa de golpe e outros quatro crimes",
+      "url": "https://extra.globo.com/politica/noticia/2025/09/bolsonaro-e-condenado-a-27-anos-e-3-meses-de-prisao-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "STF condena Bolsonaro a 27 anos de prisão por tentativa de golpe de Estado",
+      "url": "http://www.terra.com.br/noticias/brasil/politica/stf-condena-bolsonaro-a-27-anos-de-prisao-por-tentativa-de-golpe-de-estado,6684977ab24d90620abb006dfd46e2aap5ph2vdh.html"
+    }
+  ],
+  "response": "Sim, em setembro de 2025, a Primeira Turma do Supremo Tribunal Federal (STF) condenou o ex-presidente Jair Bolsonaro a 27 anos e 3 meses de prisão por tentativa de golpe de Estado e outros crimes.\n\nA condenação, que se deu por 4 votos a 1, abrange os seguintes crimes:\n* Tentativa de abolição viol",
+  "response_no_search": "Não, até o momento, **Jair Bolsonaro não foi condenado pelo STF (Supremo Tribunal Federal) por tentativa de golpe de Estado.**\n\nNo entanto, ele é **investigado**",
+  "error": null
+}

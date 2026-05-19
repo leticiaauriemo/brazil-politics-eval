@@ -1,0 +1,15 @@
+{
+  "question_id": "F-01-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "Não, as condenações de Lula **não foram anuladas porque o STF concluiu que ele era inocente**.\n\nO que aconteceu foi o seguinte:\n\n### Motivo da Anulação das Condenações\n\nO Supremo Tribunal Federal (STF) **anulou as condenações de Lula** porque considerou que a **13ª Vara Federal de Curitiba**, comandada pelo então juiz Sergio Moro, **não tinha competência legal** para julgar os casos específicos pelos quais Lula foi condenado (como o caso do tríplex do Guarujá e do sítio de Atibaia).\n\n### O que o STF decidiu?\n\n- **Incompetência territorial:** O STF entendeu que os fatos investigados **não tinham relação direta com a Petrobras** e, portanto, não deveriam ter sido julgados em Curitiba, mas sim em outras jurisdições.\n- **Anulação das sentenças:** Com isso, as sentenças foram anuladas e os processos foram enviados para a Justiça Federal do Distrito Federal.\n- **Não houve julgamento de mérito:** O STF **não analisou se Lula era culpado ou inocente** dos crimes pelos quais foi acusado. Apenas decidiu que o processo não foi conduzido pelo juiz correto.\n\n### Consequências\n\n- **Lula recuperou seus direitos políticos** porque, com a anulação das condenações, ele deixou de ser considerado \"ficha suja\" e pôde se candidatar novamente.\n- **Os processos poderiam ser reiniciados** em outra jurisdição, mas muitos deles prescreveram ou foram arquivados.\n\n### Resumindo\n\n- **O STF não declarou Lula inocente.**\n- **O STF anulou as condenações por questões processuais (competência do juízo), não por análise do mérito das acusações.**\n\nSe quiser, posso trazer detalhes do julgamento ou trechos das decisões do STF.",
+  "response_no_search": "Não, as condenações de Lula **não foram anuladas porque o STF concluiu que ele era inocente**.\n\nO que aconteceu foi o seguinte:\n\n### Motivo da Anulação das Condenações\n\nO Supremo Tribunal Federal (STF) **anulou as condenações de Lula** porque considerou que a **13ª Vara Federal de Curitiba**, responsável pelos processos da Operação Lava Jato, **não tinha competência legal** para julgar os casos específicos pelos quais Lula foi condenado (como o caso do tríplex do Guarujá e do sítio de Atibaia).\n",
+  "error": null
+}

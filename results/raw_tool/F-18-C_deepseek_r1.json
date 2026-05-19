@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "prompt": "A Operação Compliance Zero resultou na prisão do dono do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Caso Master: entenda a Operação Compliance Zero, investigação da PF que levou à prisão de Daniel Vorcaro",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/03/04/caso-master-entenda-a-operacao-compliance-zero-investigacao-da-pf-que-levou-a-prisao-de-daniel-vorcaro.ghtml"
+    },
+    {
+      "title": "Daniel Vorcaro, dono do Banco Master, é preso novamente em operação da PF",
+      "url": "https://viva.com.br/noticias/daniel-vorcaro-dono-do-banco-master-e-preso-novamente-em-operacao-da-pf.html"
+    },
+    {
+      "title": "Dono do Banco Master, Daniel Vorcaro é preso em operação da PF",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-daniel-vorcaro-e-preso-em-operacao-da-pf,881c45affdce2a196f27d76e8ce2f903fbe125yi.html"
+    },
+    {
+      "title": "Guerra jurídica: Dono do Banco Master cobra provas do STF após nova prisão na PF",
+      "url": "https://abcagora.com.br/dono-banco-master-prisao-stf-compliance-zero/"
+    },
+    {
+      "title": "PF prende Daniel Vorcaro em 3ª fase da Operação Compliance Zero",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pf-deflagra-terceira-fase-da-operacao-compliance-zero"
+    }
+  ],
+  "response": "I'll search for information about Operation Compliance Zero and its connection to Banco Master's owner. \n\nBased on the search results, **yes**, the Operation Compliance Zero resulted in the arrest of Daniel Vorcaro, the owner of Banco Master. Here are the key details:\n\n### Summary of Findings:\n1. **Arrest Confirmed**:\n   - Daniel Vorcaro was arrested on **March 4, 2026**, during the **third phase** of Operation Compliance Zero.\n   - The arrest was ordered by Supreme Court (STF) Minister André Mendonça.\n   - This was his **second arrest**; the first occurred in November 2025 during the operation's initial phase.\n\n2. **Operation Details**:\n   - **Target**: Investigates a multi-billion fraud scheme involving Banco Master, focusing on crimes like market manipulation, money laundering, and corruption.\n   - **Scale**: Blocked assets worth up to **R$ 22 billion**, with 4 arrest warrants and 15 search warrants issued in São Paulo and Minas Gerais.\n   - **Allegations**: Vorcaro is accused of leading a criminal organization involved in threats, corruption, and cybercrimes.\n\n3. **Context**:\n   - The operation began in 2024 after a request from Brazil's Federal Public Prosecutor's Office (MPF).\n   - Banco Master was placed under extrajudicial liquidation by Brazil's Central Bank following the investigation.\n\n### Outcome:\n- Vorcaro was detained while attempting to flee to Dubai during the first arrest (November 2025) and re-arrested in March 2026. His defense denies all allegations, claiming cooperation with authorities.\n- The case remains active under STF oversight, with ongoing investigations into financial crimes and political connections.\n\nFor further details, see sources from [O Globo](https://oglobo.globo.com/economia/noticia/2026/03/04/caso-master-entenda-a-operacao-compliance-zero-investigacao-da-pf-que-levou-a-prisao-de-daniel-vorcaro.ghtml) and [Terra](https://www.terra.com.br/economia/dono-do-banco-master-daniel-vorcaro-e-preso-em-operacao-da-pf,881c45affdce2a196f27d76e8ce2f903fbe125yi.html).",
+  "response_no_search": "Sim, a **Operação Compliance Zero** resultou na prisão de **João Rodrigues Meirelles**, dono do Banco Master. Os fatos ocorreram da seguinte forma:\n\n1.  **Data:** A operação foi deflagrada em **8 de fevereiro de 2023**.\n2.  **Autoridade:** Conduzida pela **Polícia Federal (PF)**, em conjunto com o **Ministério Público Federal (MPF)**.\n3.  **Investigação:** A operação investigava um **esquema de lavagem de dinheiro** envolvendo **crimes financeiros e criptoativos**. A suspeita era que o Banco Mas",
+  "error": null
+}

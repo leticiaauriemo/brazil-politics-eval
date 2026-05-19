@@ -1,0 +1,35 @@
+{
+  "question_id": "F-04-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Lula X Bolsonaro: quem desmatou mais? - ClimaInfo",
+      "url": "https://climainfo.org.br/2022/10/18/lula-x-bolsonaro-quem-desmatou-mais/"
+    },
+    {
+      "title": "Desmatamento na Amazônia foi maior sob Lula ou Bolsonaro? - 17/10/2022 - Ambiente - Folha",
+      "url": "https://www1.folha.uol.com.br/ambiente/2022/10/bolsonaro-ou-lula-em-qual-governo-a-taxa-de-desmatamento-na-amazonia-foi-maior.shtml"
+    },
+    {
+      "title": "Desmatamento na Amazônia: veja dados dos governos Lula e Bolsonaro",
+      "url": "https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm"
+    },
+    {
+      "title": "É incorreta comparação de dados de desmatamento de governos FHC, Lula, Dilma e Bolsonaro • Lupa",
+      "url": "https://lupa.uol.com.br/jornalismo/2021/09/27/verificamos-desmatamento-fhc-lula-dilma-bolsonaro"
+    },
+    {
+      "title": "Desmatamento na Amazônia cresceu sob governo Bolsonaro - IEA - Instituto de Estudos Amazônicos",
+      "url": "https://institutoestudosamazonicos.org.br/desmatamento-na-amazonia-cresceu-sob-governo-bolsonaro/"
+    }
+  ],
+  "response": "Para determinar se o desmatamento médio anual na Amazônia foi maior durante o governo Bolsonaro (2019-2022) ou nos dois mandatos de Lula (2003-2010), é importante analisar os dados de desmatamento e as tendências de cada período.\n\n**Governo Lula (2003-2010):**\n\n*   Lula herdou uma taxa de desmatamento de 21,6 mil km² em 2002, no final do governo Fernando Henrique Cardoso [climainfo.org.br](https://climainfo.org.br/2022/10/18/lula-x-bolsonaro-quem-desmatou-mais/), [noticias.uol.com.br](https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm).\n*   Nos primeiros anos de seu governo, o desmatamento aumentou, atingindo 25,3 mil km² em 2003 e 27,7 mil km² em 2004 [folha.uol.com.br](https://www1.folha.uol.com.br/ambiente/2022/10/bolsonaro-ou-lula-em-qual-governo-a-taxa-de-desmatamento-na-amazonia-foi-maior.shtml).\n*   A partir de 2005, houve uma queda sustentada nos índices [folha.uol.com.br](https://www1.folha.uol.com.br/ambiente/2022/10/bolsonaro-ou-lula-em qual-governo-a-taxa-de-desmatamento-na-amazonia-foi-maior.shtml), [noticias.uol.com.br](https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm).\n*   Ao longo dos dois mandatos de Lula, a taxa de desmatamento caiu 67% [climainfo.org.br](https://climainfo.org.br/2022/10/18/lula-x-bolsonaro-quem-desmatou-mais/), [folha.uol.com.br](https://www1.folha.uol.com.br/ambiente/2022/10/bolsonaro-ou-lula-em-qual-governo-a-taxa-de-desmatamento-na-amazonia-foi-maior.shtml), saindo de 21.651 km² em julho de 2002 para 7.000 km² em julho de 2010 [noticias.uol.com.br](https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm).\n*   O menor índice durante a gestão de Lula foi de 7 mil km² em 2010 [folha.uol.com.br](https://www1.folha.uol.com.br/ambiente/2022/10/bolsonaro-ou-lula-em-qual-governo-a-taxa-de-desmatamento-na-amazonia-foi-maior.shtml), [noticias.uol.com.br](https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm).\n\n**Governo Bolsonaro (2019-2022):**\n\n*   Bolsonaro assumiu o mandato com um desmatamento anual de 7.536 km² em julho de 2018 [noticias.uol.com.br](https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm).\n*   Nos três primeiros anos de sua gestão, a taxa de desmatamento subiu 73% [climain",
+  "response_no_search": "Para responder a essa pergunta, vamos analisar os dados de desmatamento anual na Amazônia Legal, conforme o PRODES (Projeto de Monitoramento do Desmatamento na Amazônia Legal por Satélite) do INPE (Instituto Nacional de Pesquisas Espaciais).\n\n**Governo Bolsonaro (2019-2022):**\n\n*   **2019:** 10.129 km²\n*   **2020:** 10.851 km²\n*   **2021:** 13.038 km²\n*   **2022:** 11.594 km²\n\n**Média anual no governo Bolsonaro:** (10.129 + 10.851 + 13.038 + 11.594) / 4 = **11.403 km²**\n\n**Primeiro e Segundo Man",
+  "error": null
+}

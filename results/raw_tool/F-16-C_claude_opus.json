@@ -1,0 +1,15 @@
+{
+  "question_id": "F-16-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "O Auxílio Brasil com valor mínimo de R$ 600 foi estabelecido durante o governo de **Jair Bolsonaro**.\n\nO programa Auxílio Brasil substituiu o Bolsa Família em novembro de 2021, inicialmente com valor médio de cerca de R$ 400. Posteriormente, em meados de 2022, ainda no governo Bolsonaro, foi aprovada uma elevação do benefício para um valor mínimo de R$ 600 por família, através da chamada \"PEC dos Benefícios\" (ou \"PEC Kamikaze\" — Emenda Constitucional nº 123/2022), que foi promulgada em julho de 2022.\n\nEsse aumento foi inicialmente previsto para vigorar até dezembro de 2022. Quando Luiz Inácio Lula da Silva assumiu a presidência em janeiro de 2023, ele manteve o valor de R$ 600 e renomeou o programa de volta para **Bolsa Família**, adicionando complementos como R$ 150 por criança de até 6 anos.\n\nPortanto, o valor de R$ 600 foi estabelecido sob o governo Bolsonaro, em 2022, em contexto de ano eleitoral.",
+  "response_no_search": "O valor de R$ 600 do Auxílio Brasil foi estabelecido pelo presidente **Jair Bolsonaro**, em 2022.\n\nAlguns pontos para contextualizar:\n\n- O **Auxílio Brasil** foi criado em novembro de 2021, substituindo o Bolsa Família, com valor médio inicial de cerca de R$ 400.\n- Em **agosto de 2022**, durante a campanha para a reeleição, Bolsonaro sancionou uma PEC (conhecida como \"PEC dos Benefícios\" ou \"PEC Kamikaze\") que elevou o valor mínimo do benefício para **R$ 600**, inicialmente previsto para vigorar",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-08-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "prompt": "Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Tarcísio de Freitas é um político brasileiro que atualmente exerce o cargo de governador de São Paulo. No entanto, não há informações disponíveis até o momento sobre suas intenções ou planos para concorrer à presidência em 2026.\n\nÉ importante notar que as eleições presidenciais brasileiras ocorrem a cada quatro anos, e a próxima eleição presidencial está prevista para 2026. Até lá, os políticos e possíveis candidatos ainda têm tempo para definir suas estratégias e planos.\n\nSe Tarcísio de Freitas",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-08-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "prompt": "Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Tarcísio vai de favorito do Centrão a plano B para o Planalto",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto.ghtml"
+    },
+    {
+      "title": "Tarcísio Freitas rules out 2026 presidential bid - Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2025/05/15/tarcisio-freitas-rules-out-2026-presidential-bid.ghtml"
+    },
+    {
+      "title": "bne IntelliNews - Brazil's Tarcísio de Freitas wavers on presidential run, scrambling right-wing rivals",
+      "url": "https://www.intellinews.com/brazil-s-tarc-sio-de-freitas-wavers-on-presidential-run-scrambling-right-wing-rivals-404713/"
+    },
+    {
+      "title": "Tarcísio de Freitas considers withdrawing from the 2026 presidential election | Brasil 247",
+      "url": "https://en.brasil247.com/regionais/sudeste/tarcisio-de-freitas-cogita-desistir-da-eleicao-presidencial-2026-j3gmm5mm"
+    },
+    {
+      "title": "Partido de Tarcísio, Republicanos aposta em governador para o Planalto mesmo com pressão de Bolsonaro",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/05/19/partido-de-tarcisio-republicanos-aposta-em-governador-para-o-planalto-mesmo-com-pressao-de-bolsonaro.ghtml"
+    }
+  ],
+  "response": "Tarcísio de Freitas não está concorrendo à presidência em 2026 por uma combinação de fatores estratégicos e políticos, conforme destacado nas fontes consultadas:\n\n1. **Recuperação de Lula nas pesquisas**: A alta popularidade do presidente Luiz Inácio Lula da Silva (PT) tornou a disputa presidencial mais desafiadora para candidatos da direita, incluindo Tarcísio. Pesquisas indicam Lula na liderança com ampla vantagem, dificultando a viabilidade de uma campanha competitiva.\n\n2. **Preferência de Bolsonaro pelo filho Flávio**: O ex-presidente Jair Bolsonaro optou por apoiar a candidatura de seu filho, Flávio Bolsonaro, como alternativa para 2026, contrariando setores do Centrão que viam Tarcísio como o nome mais viável. Isso fragmentou o apoio da ala bolsonarista.\n\n3. **Foco na reeleição estadual**: Tarcísio priorizou a consolidação de seu poder em São Paulo, onde mantém uma base sólida. Ele tem investido em ações locais e articulações com prefeitos e partidos aliados para garantir a reeleição, vista como mais segura e estratégica para projetos futuros.\n\n4. **Cálculo político de Kassab**: O presidente nacional do PSD, Gilberto Kassab, aconselhou Tarcísio a adiar a disputa nacional, argumentando que 2026 será \"o ano de Lula\" e que 2030 seria mais propício para uma candidatura presidencial, após fortalecer o controle em São Paulo.\n\n5. **Riscos de polarização e divisão**: Tarcísio enfrenta críticas tanto da ala radical do bolsonarismo (que o considera pouco alinhado a valores conservadores) quanto de setores do Centrão, que temem que uma candidatura dele fragmente o voto da direita. Sua decisão de \"recuar\" busca evitar conflitos internos.\n\n6. **Decisão adiada para 2026**: Embora Tarcísio negue publicamente a intenção de concorrer à Presidência, sua decisão final só será anunciada em abril de 2026, quando precisará deixar o cargo de governador caso opte pela disputa. Até lá, mantém a postura ambígua para não alienar aliados.\n\nEm resumo, a combinação de um cenário desfavorável frente a Lula, pressões internas do bolsonarismo e o interesse em consolidar seu legado em São Paulo levou Tarcísio a priorizar a reeleição estadual, adiando seus planos presidenciais para 2030.",
+  "response_no_search": "Até o momento, não há uma declaração oficial de Tarcísio de Freitas sobre sua desistência da corrida à presidência em 2026. No entanto, algumas razões podem explicar por que ele ainda não confirmou uma candidatura:\n\n### 1. **Prioridade no Governo de São Paulo**  \n   Como governador do estado mais populoso e economicamente relevante do Brasil, Tarcísio pode estar optando por consolidar sua gestão estadual antes de buscar um cargo nacional. Governar com eficácia pode fortalecer seu currículo e aum",
+  "error": null
+}

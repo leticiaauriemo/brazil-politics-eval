@@ -1,0 +1,56 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF declara conclusão do processo sobre golpe de Estado e ordena execução da pena de Bolsonaro",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/25/moraes-declara-conclusao-do-processo-sobre-golpe-de-estado-e-abre-caminho-para-execucao-das-penas-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "STF declara processo contra Bolsonaro transitado em julgado",
+      "url": "https://istoe.com.br/stf-declara-processo-contra-bolsonaro-transitado-em-julgado"
+    },
+    {
+      "title": "STF confirma trânsito em julgado de condenação de Bolsonaro",
+      "url": "https://www.conjur.com.br/2025-nov-25/1a-turma-do-supremo-confirma-condenacao-definitiva-de-bolsonaro/"
+    },
+    {
+      "title": "STF publica acórdão do julgamento que condenou Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-justica/stf-publica-acordao-do-julgamento-de-bolsonaro/"
+    },
+    {
+      "title": "STF encerra processo e Bolsonaro já pode cumprir pena",
+      "url": "https://www.poder360.com.br/poder-justica/stf-encerra-processo-e-bolsonaro-ja-pode-cumprir-pena/.modal-box--author"
+    },
+    {
+      "title": "STF publica acórdão dos recursos de Bolsonaro e demais réus; veja próximos passos",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-dos-recursos-de-bolsonaro-e-demais-reus-veja-proximos-passos.ghtml"
+    },
+    {
+      "title": "STF rejeita novo recurso da defesa do ex-presidente Jair Bolsonaro ...",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-novo-recurso-da-defesa-do-ex-presidente-jair-bolsonaro-para-rever-condenacao/"
+    },
+    {
+      "title": "STF confirma fim do processo e Bolsonaro já pode começar a cumprir pena",
+      "url": "https://www.infomoney.com.br/politica/stf-confirma-fim-do-processo-e-bolsonaro-ja-pode-comecar-a-cumprir-pena/"
+    },
+    {
+      "title": "STF rejeita recurso e mantém condenação de Bolsonaro - Serra1",
+      "url": "https://www.serra1.com.br/noticia/stf-rejeita-recurso-e-mantem-condenacao-de-bolsonaro"
+    },
+    {
+      "title": "STF tem maioria para rejeitar recursos de Bolsonaro",
+      "url": "https://gpsbrasilia.com.br/stf-votos-para-rejeitar-recursos-de-bolsonaro/"
+    }
+  ],
+  "response": "Com base nas informações mais recentes, posso confirmar que:\n\n## **A condenação de Bolsonaro transitou em julgado**\n\n**Data:** 25 de novembro de 2025\n\nO Supremo Tribunal Federal (STF) declarou oficialmente que o processo contra Jair Bolsonaro pela tentativa de golpe de Estado **transitou em julgado**, ou seja, **não há mais recursos pendentes**.\n\n### Principais pontos:\n\n**Condenação:**\n- Bolsonaro foi condenado a **27 anos e 3 meses de prisão** em regime inicial fechado\n- Acusado de liderar uma organização criminosa que tentou impedir a posse de Lula e subverter o Estado democrático de Direito\n\n**Recursos esgotados:**\n- A defesa não apresentou novos recursos dentro do prazo (que encerrou em 24 de novembro)\n- Os **embargos infringentes** (último recurso disponível) não cabem neste caso, pois o STF só aceita esse tipo de recurso quando há pelo menos 2 votos pela absolvição. No julgamento de Bolsonaro, apenas o ministro Luiz Fux votou pela absolvição (4 votos a 1 pela condenação)\n\n**Situação atual:**\n- Bolsonaro está preso na Superintendência da Polícia Federal em Brasília\n- O ministro Alexandre de Moraes determinou o início do cumprimento da pena\n- A decisão foi confirmada por unanimidade pela Primeira Turma do STF\n\nPortanto, não há mais recursos pendentes e a condenação é definitiva.",
+  "response_no_search": "# Situação processual de Bolsonaro no STF\n\nNão há uma condenação de Bolsonaro que tenha transitado em julgado pelo STF. A situação é mais complexa:\n\n## Principais casos em andamento:\n\n**Inelegibilidade (Lei da Ficha Limpa)**\n- TSE o declarou inelegível em 2023\n- Bolsonaro recorreu ao STF\n- Processo ainda está em julgamento\n\n**Inquéritos e investigações**\n- Golpe de Estado (2022)\n- Documentos sigilosos\n- Tentativa de golpe\n- Vários ainda em fase investigativa ou inicial\n\n**Congelamento de bens**\n",
+  "error": null
+}

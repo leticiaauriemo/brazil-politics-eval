@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies Bolsonaro as establishing the R$600 Auxílio Brasil and the timing, but omits the crucial detail of it being done via PEC 1/2022."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that President Jair Bolsonaro established the R$600 Auxílio Brasil benefit."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

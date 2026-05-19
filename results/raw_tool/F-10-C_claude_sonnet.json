@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fim da Lava Jato: o caminho que levou ao encerramento da força-tarefa",
+      "url": "https://www.gazetadopovo.com.br/republica/lava-jato-fim-forca-tarefa/"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná é extinta após quase 6 anos",
+      "url": "https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html"
+    },
+    {
+      "title": "MPF anuncia fim da for�a-tarefa da Opera��o Lava-Jato em Curitiba - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2021/02/03/interna_politica,1234786/mpf-anuncia-fim-da-forca-tarefa-da-operacao-lava-jato-em-curitiba.shtml"
+    },
+    {
+      "title": "Força-Tarefa da Lava Jato deixa de existir no Paraná e passa para o Gaeco",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2021-02-03/forca-tarefa-da-lava-jato-deixa-de-existir-no-parana-e-passa-para-o-gaeco.html"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato de Curitiba é dissolvida",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/for%C3%A7a-tarefa-da-lava-jato-de-curitiba-%C3%A9-dissolvida-1.565612"
+    }
+  ],
+  "response": "Vou pesquisar essa informação para você.## Encerramento da Força-Tarefa da Lava Jato em 2021\n\nO encerramento da força-tarefa da Operação Lava Jato no Paraná foi determinado pela **Procuradoria-Geral da República (PGR)**, sob o comando do procurador-geral **Augusto Aras**.\n\n### Como aconteceu:\n- Em **7 de dezembro de 2020**, Augusto Aras assinou uma **portaria** determinando a integração dos membros da força-tarefa ao **Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco)** do MPF no Paraná.\n- A força-tarefa **deixou de existir oficialmente em 1º de fevereiro de 2021**, e o anúncio público foi feito em **3 de fevereiro de 2021**.\n\n### Contexto:\nAugusto Aras era **crítico declarado da Lava Jato** desde que assumiu o cargo de procurador-geral em setembro de 2019. Ele defendia a extinção do modelo de forças-tarefa e a adoção de um novo modelo de investigação, sem o que chamava de métodos \"personalistas\" e \"caixas-pretas\".\n\nApós quase **7 anos de operação**, 79 fases, 533 acusados e mais de R$ 4,3 bilhões recuperados, a estrutura foi dissolvida, com apenas **5 dos 15 procuradores** sendo transferidos para o Gaeco para dar continuidade aos casos.",
+  "response_no_search": "Em 2021, o encerramento da força-tarefa da **Lava Jato em Curitiba** foi determinado pelo **Procurador-Geral da República Augusto Aras**, que decidiu não renovar a portaria que mantinha o grupo especial de procuradores. A força-tarefa foi oficialmente encerrada em **fevereiro de 2021**.",
+  "error": null
+}

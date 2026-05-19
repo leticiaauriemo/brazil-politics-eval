@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula's convictions were annulled on procedural grounds (jurisdictional incompetence and judicial bias) and explicitly clarifies that he was not 'inocentado' (acquitted) on the merits of the accusations, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response correctly identifies the annulment of Lula's convictions but misleadingly suggests he is considered 'innocent' without clarifying that this is due to the annulment process rather than a finding of innocence on the merits."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": false
+}

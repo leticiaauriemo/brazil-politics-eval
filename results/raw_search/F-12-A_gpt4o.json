@@ -1,0 +1,35 @@
+{
+  "question_id": "F-12-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Ataques de 8 de janeiro: as perguntas ainda sem respostas um ano depois - Data saving version: BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c06y1vekdgeo.lite"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 ...",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Leia a cronologia dos desdobramentos do 8 de Janeiro",
+      "url": "https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/"
+    },
+    {
+      "title": "Documentário BBC | 8 de Janeiro: o dia que abalou o Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cgjw58lzd8wo"
+    },
+    {
+      "title": "Três anos do 8 de janeiro: relembre a tentativa de golpe e saiba quem já foi condenado",
+      "url": "https://ndmais.com.br/politica/8-de-janeiro-relembre-a-tentativa-de-golpe/"
+    }
+  ],
+  "response": "No dia 8 de janeiro de 2023, o Brasil vivenciou um dos episódios mais graves de sua história democrática recente. Apoiadores do ex-presidente Jair Bolsonaro, insatisfeitos com a eleição e posse do presidente Luiz Inácio Lula da Silva, invadiram e vandalizaram as sedes dos Três Poderes em Brasília: o Congresso Nacional, o Palácio do Planalto e o Supremo Tribunal Federal (STF) [bbc.com](https://www.bbc.com/portuguese/articles/c06y1vekdgeo.lite).\n\nOs manifestantes, motivados por alegações infundadas de fraude eleitoral, romperam as barreiras de segurança e causaram destruição generalizada, buscando forçar uma intervenção militar para reverter o resultado eleitoral [ndmais.com.br](https://ndmais.com.br/politica/8-de-janeiro-relembre-a-tentativa-de-golpe/). Obras de arte, vidros, computadores, móveis e outros objetos foram depredados ou roubados, resultando em prejuízos estimados em mais de R$ 20 milhões [ufsm.br](https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023).\n\nA resposta das instituições foi imediata, com prisões em flagrante e a abertura de investigações para apurar responsabilidades. A Procuradoria-Geral da República (PGR) dividiu as investigações em quatro núcleos: executores, incitadores, financiadores e possíveis autoridades envolvidas [bbc.com](https://www.bbc.com/portuguese/articles/c06y1vekdgeo.lite). Até a metade de 2025, quase 2 mil pessoas foram responsabilizadas por atos antidemocráticos relacionados ao episódio [ndmais.com.br](https://ndmais.com.br/politica/8-de-janeiro-relembre-a-tentativa-de-golpe/).\n\nO evento gerou reações de políticos e da Justiça, com condenações de centenas de pessoas, incluindo figuras políticas e militares de alta patente [bbc.com](https://www.bbc.com/portuguese/articles/cgjw58lzd8wo).",
+  "response_no_search": "No dia 8 de janeiro de 2023, ocorreram eventos significativos em Brasília, a capital do Brasil. Manifestantes que apoiavam o ex-presidente Jair Bolsonaro invadiram e vandalizaram prédios importantes do governo, incluindo o Congresso Nacional, o Palácio do Planalto (sede do Poder Executivo) e o Supremo Tribunal Federal. Esses atos foram amplamente condenados tanto no Brasil quanto internacionalmente, sendo comparados à invasão do Capitólio nos Estados Unidos em 6 de janeiro de 2021. As autoridade",
+  "error": null
+}

@@ -1,0 +1,24 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF rejeita novo recurso da defesa do ex-presidente Jair Bolsonaro para rever condenação",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-novo-recurso-da-defesa-do-ex-presidente-jair-bolsonaro-para-rever-condenacao/"
+    },
+    {
+      "title": "Trânsito em julgado: entenda o 'ponto final' que mudou o rumo de Bolsonaro e aliados no STF",
+      "url": "https://ndmais.com.br/justica/transito-em-julgado-termo-juridico-da-situacao-de-bolsonaro/"
+    }
+  ],
+  "response": "# Condenação de Bolsonaro: situação atual\n\nSim, a condenação **já transitou em julgado**, mas a defesa segue tentando apresentar recursos que vêm sendo rejeitados pelo STF.\n\n## O trânsito em julgado\n\nEm 25/11/2025, ao considerar que não cabia mais nenhum tipo de recurso no caso, o ministro Alexandre de Moraes declarou o trânsito em julgado da condenação e determinou o início do cumprimento da pena, medida confirmada, por unanimidade, pelo colegiado no dia seguinte.\n\nO STF confirmou em 25 de novembro o trânsito em julgado do processo da tentativa de golpe envolvendo o ex-presidente Jair Bolsonaro, o ex-ministro Anderson Torres e o ex-chefe da Abin, Alexandre Ramagem. Com isso, não há mais possibilidade de recursos. Agora, o próximo passo é a execução das penas.\n\nO processo chegou ao fim porque os réus não apresentaram os segundos embargos de declaração dentro do prazo. Antes disso, em 14 de fevereiro, a Primeira Turma havia rejeitado por unanimidade o primeiro recurso apresentado por Bolsonaro e outros condenados do chamado Núcleo 1 da trama.\n\n## Tentativas posteriores de recurso (rejeitadas)\n\nMesmo após o trânsito em julgado, a defesa continuou apresentando peças:\n\n1. **Embargos infringentes (3/12):** A defesa de Bolsonaro apresentou embargos infringentes, recurso por meio do qual o condenado busca reverter condenações impostas por decisão não unânime. O ministro Alexandre rejeitou o processamento do pedido, destacando o entendimento do STF de que são necessários dois votos absolutórios para o cabimento de embargos infringentes contra decisões das Turmas. No caso do ex-presidente, houve apenas um voto absolutório. O relator também reconheceu o caráter protelatório do recurso, que se revelou \"ineficaz para impedir o trânsito em julgado da condenação\".\n\n2. **Agravo regimental:** Os advogados de Bolsonaro interpuseram agravo regimental com o objetivo de reformar essa decisão. Na decisão desta terça-feira (13), o ministro Alexandre de Moraes reafirmou que é \"absolutamente incabível juridicamente\" a apresentação do agravo regimental pela defesa de Bolsonaro após a decisão que tornou definitiva a condenação e determinou o início do cumprimento da pena.\n\n3. **Ped",
+  "response_no_search": "Não tenho informação confirmada sobre uma condenação de Jair Bolsonaro pelo STF que tenha transitado em julgado. Posso te dar o panorama do que sei e do que precisa ser verificado:\n\n**O que se sabe sobre o processo:**\n- Bolsonaro é réu em ação penal no STF relacionada à trama golpista de 2022 (tentativa de golpe de Estado, organização criminosa, etc.), no âmbito da Primeira Turma, relatada pelo ministro Alexandre de Moraes.\n- O julgamento do mérito da ação contra ele e outros réus do \"núcleo 1\" ",
+  "error": null
+}

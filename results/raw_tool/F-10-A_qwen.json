@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Polícia Federal vai investigar irregularidades em acordos da Lava Jato | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-09/policia-federal-vai-investigar-irregularidades-em-acordos-da-lava-jato"
+    },
+    {
+      "title": "QG da Lava-Jato: pelo menos R$ 95 milhões arrecadados pela operação ainda aguardam destinação",
+      "url": "https://oglobo.globo.com/politica/noticia/2023/11/12/qg-da-lava-jato-pelo-menos-r-95-milhoes-arrecadados-pela-operacao-ainda-aguardam-destinacao.ghtml"
+    },
+    {
+      "title": "10 anos de Lava Jato: fatos e resultados da operação que mudou a política brasileira - SBT News",
+      "url": "https://sbtnews.sbt.com.br/noticia/politica/10-anos-de-lava-jato-fatos-e-resultados-da-operacao-que-mudou-a-politica-brasileira"
+    },
+    {
+      "title": "Governo faz segunda investida contra a Lava-Jato no mês e amplia ofensiva sobre atuação da força-tarefa",
+      "url": "https://oglobo.globo.com/politica/noticia/2023/09/19/governo-faz-segunda-investida-contra-a-lava-jato-no-mes-e-amplia-ofensiva-sobre-atuacao-da-forca-tarefa.ghtml"
+    },
+    {
+      "title": "CNJ aponta \"gestão caótica\" de valores em acordos da Lava Jato | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-09/cnj-aponta-gestao-caotica-de-valores-em-acordos-da-lava-jato"
+    }
+  ],
+  "response": "A força-tarefa da Operação Lava Jato **foi oficialmente encerrada em 1º de fevereiro de 2021**, quando o Ministério Público Federal (MPF) decidiu integrar a operação ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), encerrando sua existência como unidade autônoma. Desde então, não há mais uma força-tarefa específica para a Lava Jato, embora investigações sobre possíveis irregularidades nos acordos e destinação de recursos continuem sendo conduzidas por outros órgãos, como o Conselho Nacional de Justiça (CNJ), a Polícia Federal e a Advocacia-Geral da União (AGU), conforme destacado nos resultados de busca. \n\nRecentes ações, como a investigação sobre a \"gestão caótica\" de recursos e a revisão de acordos de leniência (exemplo: decisão do STF em setembro de 2023), são desdobramentos da apuração de condutas passadas, não indicando atividade contínua da força-tarefa original.",
+  "response_no_search": "A **Força-Tarefa da Operação Lava Jato** foi oficialmente **encerrada em 2021**. A dissolução ocorreu após a saída do então juiz Sergio Moro do Ministério da Justiça e a decisão do Departamento de Polícia Federal (DPF) de reestruturar suas operações, encerrando o modelo de \"forças-tarefa\" temporárias. \n\n### Contexto e desdobramentos:\n1. **Motivos do encerramento**:  \n   - A Polícia Federal optou por não renovar a designação temporária dos integrantes da força-tarefa, adotando um modelo mais cent",
+  "error": null
+}

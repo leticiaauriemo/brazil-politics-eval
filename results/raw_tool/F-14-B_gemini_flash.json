@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "INSTRUÇÃO NORMATIVA Nº 2, DE 20 DE ABRIL DE 2018 - Imprensa Nacional",
+      "url": "https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/12923710"
+    },
+    {
+      "title": "Publicidade no Governo Federal — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/in-publicidade-digital/orientacoes/publicidade-do-governo-federal"
+    },
+    {
+      "title": "De onde vêm as campanhas publicitárias veiculadas pelo governo?",
+      "url": "https://www.conjur.com.br/2025-out-16/de-onde-vem-as-propagandas-do-governo-a-lei-12-232-2010-e-as-agencias-de-publicidade/"
+    },
+    {
+      "title": "",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1387856&filename=PL+3043%2F2015"
+    },
+    {
+      "title": "PORTARIA DE CONSOLIDAÇÃO GM/MCOM Nº 1, DE 1º DE JUNHO DE 2023 (*) - PORTARIA DE CONSOLIDAÇÃO GM/MCOM Nº 1, DE 1º DE JUNHO DE 2023 (*) - DOU - Imprensa Nacional",
+      "url": "https://www.in.gov.br/web/dou/-/portaria-de-consolidacao-gm/mcom-n-1-de-1-de-junho-de-2023-*-487937728"
+    }
+  ],
+  "response": "Sim, é legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas, como a Globo.\n\nA publicidade governamental é regulamentada por leis e normas específicas, como a Lei nº 12.232/2010 e a Instrução Normativa nº 2/2018. Essas normas estabelecem que a publicidade dos órgãos e entidades do Poder Executivo federal deve ter caráter educativo, informativo ou de orientação social, observando o princípio da impessoalidade.\n\nExistem diferentes tipos de publicidade governamental:\n\n*   **Publicidade institucional:** para divulgar atos, ações, programas, obras, serviços, campanhas, metas e resultados do governo.\n*   **Publicidade de utilidade pública:** para divulgar temas de interesse social, com o objetivo de informar, educar, orientar, mobilizar, prevenir ou alertar a população.\n*   **Publicidade legal:** para divulgar balanços, atas, editais, decisões, avisos e outras informações que atendam a prescrições legais.\n\nA contratação de serviços de publicidade pelo governo é feita por meio de licitações, geralmente na modalidade de concorrência, com julgamento de \"melhor técnica\" ou \"técnica e preço\". As agências de publicidade contratadas são responsáveis por intermediar a compra de tempo e espaço nos veículos de comunicação, incluindo emissoras de TV privadas.\n\nO governo federal instituiu o Comitê de Negociação de Mídia do Governo Federal para negociar as condições de compra de espaços publicitários nos maiores veículos de divulgação do país, considerando suas audiências e participações nos investimentos publicitários do governo.\n\nÉ importante ressaltar que a publicidade governamental deve ser identificada com a marca do governo federal e seguir as diretrizes do Manual de Uso da Marca do Governo Federal. Além disso, há discussões e propostas para limitar os gastos com publicidade governamental e priorizar a publicidade de utilidade pública e legal.",
+  "response_no_search": "Sim, é legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas, incluindo a Globo.\n\nA Constituição Federal e a legislação brasileira permitem que órgãos públicos, incluindo o governo federal, realizem campanhas publicitárias para informar a população sobre serviços, programas, políticas públicas e temas de interesse geral. A veiculação dessas campanhas em veículos de comunicação privados, como emissoras de TV, é uma prática comum e legalmente amparada.\n\n**No entanto, ex",
+  "error": null
+}

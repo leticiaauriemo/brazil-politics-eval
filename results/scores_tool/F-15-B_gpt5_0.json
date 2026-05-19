@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-B",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies the year 2023 but lacks specificity regarding the month or the government responsible for the declaration."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the year as 2023 but lacks specific details about the month and the context of Lula's government."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Why did Brazil’s Supreme Court suspend X? | Explained - The Hindu",
+      "url": "https://www.thehindu.com/news/international/why-did-brazils-supreme-court-suspend-x-explained/article68631494.ece"
+    },
+    {
+      "title": "Brazil’s X ban is coming to an end: all the latest news | The Verge",
+      "url": "https://www.theverge.com/2024/8/30/24232573/brazil-x-twitter-ban-elon-musk"
+    },
+    {
+      "title": "Brazil's Supreme Court lifts ban on X - UPI.com",
+      "url": "https://www.upi.com/Top_News/World-News/2024/10/09/brazil-Supreme-Court-lifts-X-ban/5651728452171/"
+    },
+    {
+      "title": "Brazil lifts ban on X after Elon Musk complies with court orders",
+      "url": "https://cnbc.com/2024/10/08/elon-musks-x-back-online-in-brazil-after-receiving-court-clearance.html"
+    },
+    {
+      "title": "The Right Lessons from the Flap Over X in Brazil | Human Rights Watch",
+      "url": "https://www.hrw.org/news/2024/10/09/right-lessons-flap-over-x-brazil"
+    }
+  ],
+  "response": "I'll search for information on why X (formerly Twitter) was suspended in Brazil between August and October 2024. This appears to be a recent event involving legal actions by Brazilian authorities.\n\nLet me perform a web search to find the latest information.X (formerly Twitter) was suspended in Brazil between August and October 2024 due to a legal conflict between the platform and Brazilian authorities, primarily centered on the following issues:\n\n### Key Reasons for Suspension:\n1. **Non-Compliance with Court Orders**:\n   - X refused to comply with Brazilian Supreme Court Justice Alexandre de Moraes' orders to:\n     - Block accounts spreading disinformation, hate speech, and incitements to violence (including far-right groups linked to former President Jair Bolsonaro).\n     - Provide user data (e.g., IP addresses) for accounts under investigation for attacking democratic institutions.\n\n2. **Failure to Appoint a Legal Representative**:\n   - Brazilian law requires foreign companies to have a local legal representative. X ignored a 24-hour ultimatum to appoint one after closing its Brazil offices in protest.\n\n3. **Defiance of Brazilian Law**:\n   - Elon Musk publicly denounced Justice Moraes as \"tyrannical\" and reactivated accounts the court had ordered suspended. He accused Moraes of \"censorship,\" while Brazilian authorities framed it as enforcing laws against hate speech and election disinformation.\n\n4. **Unpaid Fines**:\n   - X accumulated daily fines (up to $20,000 USD) for non-compliance. The court later froze X's and SpaceX's Brazilian accounts to enforce penalties.\n\n### Context:\n- The conflict began in April 2024 when Musk defied court orders to restrict accounts implicated in spreading disinformation during Brazil’s 2022 elections and the Jan 8, 2023, riots (where Bolsonaro supporters stormed government buildings).\n- Justice Moraes argued X’s lack of moderation enabled \"Nazi, racist, fascist, and anti-democratic\" content, posing an \"imminent danger\" to Brazilian democracy.\n\n### Suspension Lifted:\nThe ban was lifted on **October 8, 2024**, after X:\n- Blocked the accounts specified by the court.\n- Appointed a legal representative in Brazil.\n- Paid all outstanding fines.\n\n### Significance:\nThe case highlighted tensions between global tech platforms and national sovereignty, with Brazil asserting its right to regulate online content harmful to democracy. Musk’s resistance was seen as aligning with Brazil’s far-right factions, while critics warned of the risks of unregulated disinformation.",
+  "response_no_search": "A suspensão do X (antigo Twitter) no Brasil entre agosto e outubro de 2024 foi determinada **pela Justiça brasileira, especificamente pelo Supremo Tribunal Federal (STF), a pedido do Ministro Alexandre de Moraes**, devido a **reiterados descumprimentos de decisões judiciais** pela plataforma. Os principais motivos foram:\n\n1. **Desacato Judicial**:  \n   O X (sob comando de Elon Musk) ignorou múltiplas ordens judiciais para:\n   - **Remover contas que disseminavam desinformação, discurso de ódio e ",
+  "error": null
+}

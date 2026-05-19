@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da CSP — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/02/19/flavio-bolsonaro-e-eleito-presidente-da-csp"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da Comissão de Segurança Pública do Senado",
+      "url": "https://www.correiobraziliense.com.br/politica/2025/02/7065041-flavio-bolsonaro-e-eleito-presidente-da-comissao-de-seguranca-publica-do-senado.html"
+    },
+    {
+      "title": "Flávio assume gabinete de Bolsonaro em Brasília e avança no PL",
+      "url": "https://www.poder360.com.br/poder-eleicoes/flavio-assume-gabinete-de-bolsonaro-em-brasilia-e-avanca-no-pl/"
+    }
+  ],
+  "response": "Flávio Bolsonaro é senador da República pelo estado do Rio de Janeiro e atualmente ocupa o cargo de Presidente da Comissão de Segurança Pública (CSP) do Senado Federal.",
+  "response_no_search": "Flávio Bolsonaro é um senador pelo estado do Rio de Janeiro.",
+  "error": null
+}

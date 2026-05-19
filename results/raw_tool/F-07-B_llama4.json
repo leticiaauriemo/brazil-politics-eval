@@ -1,0 +1,15 @@
+{
+  "question_id": "F-07-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sure, I'll check that for you. Let's see what information is available regarding the suspension of X in Brazil between August and October 2024.\n\nTo find the information, I will use the search tool to look up the details about the suspension of X in Brazil during that period.\n\nassistant\n\nsearch_tool(query=\"X suspenso no Brasil entre agosto e outubro de 2024\")",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

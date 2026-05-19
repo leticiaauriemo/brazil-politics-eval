@@ -1,0 +1,35 @@
+{
+  "question_id": "F-15-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde",
+      "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2023/prt0028_20_01_2023.html"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência na terra Yanomami",
+      "url": "https://www.dw.com/pt-br/minist%C3%A9rio-da-sa%C3%BAde-declara-emerg%C3%AAncia-no-territ%C3%B3rio-yanomami/a-64476917"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em ...",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Lula da Silva declara estado de emergência sanitária na reserva indígena Yanomami | Brasil | PÚBLICO",
+      "url": "https://www.publico.pt/2023/01/21/mundo/noticia/lula-silva-declara-estado-emergencia-sanitaria-reserva-indigena-yanomami-2035943"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami"
+    }
+  ],
+  "response": "O governo brasileiro declarou emergência de saúde pública na terra Yanomami em **2023** [dw.com](https://www.dw.com/pt-br/minist%C3%a9rio-da-sa%C3%bade-declara-emerg%C3%aancia-no-territ%C3%b3rio-yanomami/a-64476917), especificamente em 20 de janeiro de 2023 [bvsms.saude.br](https://bvsms.saude.br/bvs/saudelegis/gm/2023/prt0028_20_01_2023.html).\n\nA declaração foi feita pelo Ministério da Saúde, através de uma portaria publicada em edição extra do Diário Oficial da União, para combater a grave situação de desassistência sanitária, desnutrição extrema e malária que afetava a população Yanomami [dw.com](https://www.dw.com/pt-br/minist%C3%aancia-no-territ%C3%b3rio-yanomami/a-64476917), [gov.br](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami). Além da emergência, foi instituído o Centro de Operações de Emergências em Saúde Pública (COE - Yanomami) para coordenar as medidas de resposta [gov.br](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami), [publico.pt](https://www.publico.pt/2023/01/21/mundo/noticia/lula-silva-declara-estado-emergencia-sanitaria-reserva-indigena-yanomami-2035943). O presidente Luiz Inácio Lula da Silva também visitou a região para acompanhar a situação [publico.pt](https://www.publico.pt/2023/01/21/mundo/noticia/lula-silva-declara-estado-emergencia-sanitaria-reserva-indigena-yanomami-2035943).",
+  "response_no_search": "O governo brasileiro declarou emergência de saúde pública na Terra Indígena Yanomami em **20 de janeiro de 2023**.",
+  "error": null
+}

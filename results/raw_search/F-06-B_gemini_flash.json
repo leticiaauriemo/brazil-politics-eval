@@ -1,0 +1,35 @@
+{
+  "question_id": "F-06-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2020/07/moraes-bloqueio_240720204911.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2025/02/Mandado-inquerito-fake-news-alvos-26maio-2020.pdf"
+    },
+    {
+      "title": "Por decisão do STF, Twitter e Facebook apagam perfis de bolsonaristas",
+      "url": "https://www.conjur.com.br/2020-jul-24/decisao-alexandre-twitter-apaga-contas-aliados-bolsonaro"
+    },
+    {
+      "title": "Inquérito das Fake News ultrapassa cem perfis bloqueados em quatro anos e vira 'arma política' de governo e oposição",
+      "url": "https://oglobo.globo.com/politica/noticia/2023/04/inquerito-das-fake-news-ultrapassa-cem-perfis-bloqueados-em-quatro-anos-e-vira-arma-politica-de-governo-e-oposicao.ghtml"
+    },
+    {
+      "title": "Inquérito das fake news: Alexandre de Moraes dá 24h para redes bloquearem perfis do PCO | Exame",
+      "url": "https://exame.com/brasil/fake-news-alexandre-de-moraes-da-24h-para-redes-bloquearem-perfis-do-pco/"
+    }
+  ],
+  "response": "Sim, o Inquérito 4781, conhecido como \"inquérito das fake news\", resultou em diversas ordens de bloqueio de contas em plataformas digitais como Facebook, Twitter (atual X), Instagram, Telegram, YouTube e TikTok [conjur.com.br](https://www.conjur.com.br/2020-jul-24/decisao-alexandre-twitter-apaga-contas-aliados-bolsonaro), [exame.com](https://exame.com/brasil/fake-news-alexandre-de-moraes-da-24h-para-redes-bloquearem-perfis-do-pco).\n\nEssas ordens foram emitidas pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), relator do inquérito. O objetivo era interromper \"discursos com conteúdo de ódio, subversão da ordem e incentivo à quebra da normalidade institucional e democrática\" [poder360.com](https://static.poder360.com.br/2025/02/Mandado-inquerito-fake-news-alvos-26maio-2020.pdf), [conjur.com.br](https://www.conjur.com.br/2020-jul-24/decisao-alexandre-twitter-apaga-contas-aliados-bolsonaro).\n\nInicialmente, houve resistência por parte das plataformas em cumprir as ordens, alegando, por exemplo, a impossibilidade de cumprimento de ordens genéricas ou a falta de dados civis nos perfis [estadao.com.br](https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2020/07/moraes-bloqueio_240720204911.pdf). No entanto, o ministro Moraes reiterou as determinações, impondo multas diárias em caso de descumprimento [estadao.com.br](https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2020/07/moraes-bloqueio_240720204911.pdf).\n\nEntre os perfis bloqueados estavam os de indivíduos investigados no inquérito, incluindo políticos, empresários e blogueiros, muitos deles alinhados ao ex-presidente Jair Bolsonaro [conjur.com.br](https://www.conjur.com.br/2020-jul-24/decisao-alexandre-twitter-apaga-contas-aliados-bolsonaro), [oglobo.globo.com](https://oglobo.globo.com/politica/noticia/2023/04/inquerito-das-fake-news-ultrapassa-cem-perfis-bloqueados-em-quatro-anos-e-vira-arma-politica-de-governo-e-oposicao.ghtml). O número total de bloqueios ultrapassou cem perfis ao longo dos anos [oglobo.globo.com](https://oglobo.globo.com/politica/noticia/2023/04/inquerito-das-fake-news-ultrapassa-cem-perfis-bloqueados-em-quatro-anos-e-vira-arma-politica-de-governo-e-oposicao.ghtml).",
+  "response_no_search": "Sim, o Inquérito 4781, conhecido como o \"Inquérito das Fake News\", resultou em ordens de bloqueio de contas em plataformas digitais.\n\nAo longo de sua tramitação, o Supremo Tribunal Federal (STF), por meio do ministro Alexandre de Moraes, determinou o bloqueio de contas de diversos indivíduos e grupos em redes sociais como Twitter, Facebook, Instagram e YouTube. Essas decisões foram tomadas sob a justificativa de combater a disseminação de notícias falsas, discursos de ódio e ameaças contra as in",
+  "error": null
+}

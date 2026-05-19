@@ -1,0 +1,35 @@
+{
+  "question_id": "F-14-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Lula retoma publicidade estatal em jornais e revistas tradicionais",
+      "url": "https://www.poder360.com.br/midia/lula-retoma-publicidade-estatal-em-jornais-e-revistas-tradicionais/.modal-box--author"
+    },
+    {
+      "title": "Gasto de empresas estatais com publicidade sobe 65% - 17/12/2014 - Poder - Folha de S.Paulo",
+      "url": "https://m.folha.uol.com.br/poder/2014/12/1563460-gasto-de-estatais-com-publicidade-sobe-65.shtml"
+    },
+    {
+      "title": "Lula privilegia propaganda na TV e reduz inserções na internet",
+      "url": "https://www.poder360.com.br/midia/lula-privilegia-propaganda-na-tv-e-reduz-insercoes-na-internet"
+    },
+    {
+      "title": "Verba publicitária de estatais segue sem transparência há 8 anos",
+      "url": "https://www.poder360.com.br/poder-midia/verba-publicitaria-de-estatais-segue-sem-transparencia-ha-8-anos/.modal-box--author"
+    },
+    {
+      "title": "Governo Lula direciona 73% da verba de propaganda oficial para a TV, revelam dados",
+      "url": "https://www.cn1.com.br/noticias/17/108253,governo-lula-direciona-73-da-verba-de-propaganda-oficial-para-a-tv-revelam-dados.html"
+    }
+  ],
+  "response": "O pagamento de publicidade estatal para veículos de comunicação privados não ocorre apenas no governo Lula; é uma prática que se estende por diversos governos no Brasil.\n\nHistoricamente, governos anteriores também utilizaram a publicidade estatal em veículos privados:\n\n*   **Governos do PT (Lula e Dilma)**: Durante os governos de Lula e Dilma Rousseff, houve um aumento nos gastos com publicidade estatal, com as empresas estatais sendo responsáveis por uma parcela significativa desses gastos. Em 2013, por exemplo, o governo federal gastou R$ 2,3 bilhões em propaganda, sendo R$ 1,48 bilhão (64%) proveniente de estatais [folha.uol.com.br](https://m.folha.uol.com.br/poder/2014/12/1563460-gasto-de-estatais-com-publicidade-sobe-65.shtml). Houve também uma orientação para pulverizar os veículos que recebiam publicidade, buscando maior penetração na internet e mídia regional [folha.uol.com.br](https://m.folha.uol.com.br/poder/2014/12/1563460-gasto-de-estatais-com-publicidade-sobe-65.shtml).\n*   **Governo Fernando Henrique Cardoso (FHC)**: Os dados de publicidade estatal federal eram mais transparentes de 1999 (sob FHC) até 2016 (final da administração Dilma Rousseff) [poder360.com.br](https://www.poder360.com.br/midia/lula-retoma-publicidade-estatal-em-jornais-e-revistas-tradicionais/).\n*   **Governo Michel Temer**: Em 2018, a publicidade para um grupo de veículos tradicionais foi de R$ 16,4 milhões, considerando apenas pagamentos da Secom [poder360.com.br](https://www.poder360.com.br/midia/lula-retoma-publicidade-estatal-em-jornais-e-revistas-tradicionais/). No entanto, foi durante o governo Temer que a transparência sobre os gastos das estatais diminuiu, com o fim do Instituto para Acompanhamento da Publicidade (IAP) em 2017 [poder360.com.br](https://www.poder360.com.br/midia/lula-retoma-publicidade-estatal-em-jornais-e-revistas-tradicionais/) [poder360.com.br](https://www.poder360.com.br/poder-midia/verba-publicitaria-de-estatais-segue-sem-transparencia-ha-8-anos/).\n*   **Governo Jair Bolsonaro**: O governo Bolsonaro promoveu um corte de anúncios em jornais e revistas tradicionais. Em 2022, os anúncios da Secom e ministérios em 7 veículos somaram R$ 117.000 [poder360.com.br](https://www.poder360.com.br/midia/lula-retoma-publicidade-estatal-em-jornais-e-revistas-tradicionais/). A verba de publicidade para jornais e revistas representou apenas 1% do total nos quatro anos de Bolsonaro [cn1.com.br](https://www.cn1.com.br/noticias/17/108253,governo-lula-direciona-73-da-verba-de-propaganda-oficial-para-a-tv-revelam-dados.html). A emissora Jovem Pan, alinhada à direita, teve um aumento significativo de ganhos sob Bolsonaro, mas viu sua verba cair 99% no primeiro ano de Lula [poder360.com.br](https://www.poder360.com.br/midia/lula-retoma-publicidade-estatal-em-jornais-e-revistas-tradicionais/).\n\nNo governo Lula atual, houve uma retomada da publicidade estatal em jornais e revistas tradicionais, com um aumento significativo em comparação com o governo Bolsonaro. Em 2023, os gastos da Secom e ministérios em 7 veículos de comunicação subiram para R$ 3,2 milhões [poder360.com.",
+  "response_no_search": "O pagamento de publicidade estatal para veículos de comunicação privados é uma prática que **ocorre em todos os governos**, em diferentes níveis e com diferentes abordagens. Não é uma exclusividade do governo Lula.\n\nEssa prática é comum em democracias ao redor do mundo e tem como objetivo principal:\n\n*   **Informar a população:** Divulgar campanhas de saúde pública, programas sociais, informações sobre serviços governamentais, etc.\n*   **Promover a transparência:** Comunicar ações e políticas do",
+  "error": null
+}

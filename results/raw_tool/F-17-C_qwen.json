@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master/"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Master e preserva sistema financeiro nacional | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml"
+    },
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-banco-master.ghtml"
+    },
+    {
+      "title": "Folha do Estado | Banco Central entrega ao TCU detalhamento de ações que levaram à liquidação do Banco Master",
+      "url": "https://www.folhadoestado.com.br/brasil/banco-central-entrega-ao-tcu-detalhamento-de-acoes-que-levaram-a-liquidacao-do-banco-master/631652"
+    }
+  ],
+  "response": "Sim, o Banco Central do Brasil decretou a **liquidação extrajudicial do Banco Master** em 18 de novembro de 2025. A decisão foi motivada por:  \n\n1. **Crise de liquidez**: O banco enfrentava dificuldades para honrar compromissos, como saques de correntistas e investidores.  \n2. **Graves violações às normas regulatórias**: Foram identificadas infrações que colocaram em risco a estabilidade do sistema financeiro nacional.  \n3. **Modelo de negócios problemático**: O Master atraía investidores com rendimentos acima da média, emitindo papéis garantidos pelo Fundo Garantidor de Crédito (FGC), mas acumulava riscos elevados.  \n\n### Contexto adicional:  \n- A medida ocorreu menos de um dia após o Grupo Fictor manifestar interesse em comprar o banco, o que foi descartado com a liquidação.  \n- O presidente do Banco Central, Gabriel Galípolo, assinou o decreto, determinando a indisponibilidade de bens dos controladores e ex-administradores.  \n- A Polícia Federal prendeu Daniel Vorcaro, dono do Banco Master, em operação relacionada ao caso.  \n- O processo foi justificado como uma ação técnica e prolongada, conforme relatório entregue ao Tribunal de Contas da União (TCU).  \n\nA liquidação visa preservar o sistema financeiro nacional, com a venda de ativos para quitar credores na seguinte ordem: trabalhistas, tributários, fornecedores e clientes com investimentos acima de R$ 250 mil.  \n\nFontes:  \n- [CNN Brasil](https://www.cnnbrasil.com.br/economia/negocios/banco-central-decreta-liquidacao-extrajudicial-do-banco-master/)  \n- [G1](https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml)  \n- [Banco Central do Brasil](https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao)",
+  "response_no_search": "Até a data do meu conhecimento (abril de 2024), **não há informações oficiais** de que o Banco Central do Brasil tenha decretado a liquidação do **Banco Master**. A liquidação de uma instituição financeira é uma medida grave e costuma ser amplamente divulgada por autoridades reguladoras, como o Banco Central e o Fundo Garantidor de Créditos (FGC), além da mídia especializada.\n\n### Possíveis explicações para a dúvida:\n1. **Confusão com outra instituição**: Pode haver confusão com o nome de outro ",
+  "error": null
+}

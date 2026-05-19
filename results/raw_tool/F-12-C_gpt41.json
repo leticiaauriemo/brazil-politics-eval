@@ -1,0 +1,24 @@
+{
+  "question_id": "F-12-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro sobre 8 de Janeiro: “Golpe? Que golpe? Onde estava o comandante? Onde estavam as tropas, onde estavam as bombas?” - Gazeta Brasil- Notícias do Brasil e do Mundo",
+      "url": "https://gazetabrasil.com.br/especiais/2023/02/15/bolsonaro-golpe-que-golpe-onde-estava-o-comandante-onde-estavam-as-tropas-onde-estavam-as-bombas/?utm_source=openai"
+    },
+    {
+      "title": "EXPLAINER: Roots of the Brazilian capital's chaotic uprising",
+      "url": "https://apnews.com/article/29fad1e6c79a5737641932c939021e62?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se Jair Bolsonaro estava no Brasil no dia 8 de janeiro de 2023. A resposta é: não, ele não estava no país nessa data.\n\nFontes confiáveis indicam que, no dia 8 de janeiro de 2023, quando ocorreram os ataques às sedes dos Três Poderes em Brasília, Bolsonaro já estava nos Estados Unidos. Em entrevista ao jornal norte-americano The Wall Street Journal, ele afirmou: “No dia 8 de janeiro, Bolsonaro já estava fora do país” ([gazetabrasil.com.br](https://gazetabrasil.com.br/especiais/2023/02/15/bolsonaro-golpe-que-golpe-onde-estava-o-comandante-onde-estavam-as-tropas-onde-estavam-as-bombas/?utm_source=openai)). Essa informação é corroborada por reportagem da Associated Press, que relata que, enquanto os apoiadores invadiam os prédios, Bolsonaro estava “holed up in Florida” (refugiado na Flórida) ([apnews.com](https://apnews.com/article/29fad1e6c79a5737641932c939021e62?utm_source=openai)).\n\nPortanto, de forma clara e objetiva:\n\n- Data: 8 de janeiro de 2023.\n- Localização de Jair Bolsonaro: nos Estados Unidos, especificamente na Flórida, e não no Brasil.\n\nSe quiser, posso te ajudar com mais detalhes sobre a agenda dele naquele período ou sobre os acontecimentos daquele dia.",
+  "response_no_search": "Não, Jair Bolsonaro **não estava no Brasil no dia 8 de janeiro de 2023**.\n\nNaquela data, Bolsonaro estava nos Estados Unidos. Ele viajou para Orlando, na Flórida, no final de dezembro de 2022, pouco antes do término de seu mandato como presidente do Brasil, e permaneceu lá durante os primeiros dias de janeiro de 2023. Portanto, ele não estava presente no Brasil durante os eventos de 8 de janeiro de 2023, quando ocorreram os ataques às sedes dos Três Poderes em Brasília.",
+  "error": null
+}

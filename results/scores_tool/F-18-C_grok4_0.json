@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms Daniel Vorcaro's arrest in both instances and provides specific details about the operation, including the dates and the bank involved, aligning with the ground truth and resolution criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the arrests of Daniel Vorcaro during both instances and provides specific details about the operation, including the investigation into the influencer scheme."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

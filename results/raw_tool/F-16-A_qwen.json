@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Câmara aprova MP que recriou o programa Bolsa Família - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/967421-camara-aprova-mp-que-recriou-o-programa-bolsa-familia/"
+    },
+    {
+      "title": "Bolsonaro anuncia aumento do Auxílio Brasil para R$ 600 - Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/politica/2024/03/18/bolsonaro-anuncia-aumento-do-auxilio-brasil-para-r-600"
+    },
+    {
+      "title": "Lula confirma Bolsa Família com valor MAIOR em Março",
+      "url": "https://www.acheconcursos.com.br/beneficios-sociais/lula-confirma-bolsa-familia-com-valor-maior-em-marco-58980"
+    },
+    {
+      "title": "Aumento confirmado do Bolsa Família 2024: Saiba o novo valor atualizado  |  Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/aumento-confirmado-do-bolsa-familia-2024-saiba-o-novo-valor-atualizado/"
+    },
+    {
+      "title": "Desvende tudo sobre o Bolsa Família: Novos Valores e Condições! - Jornal Dia",
+      "url": "https://jornaldia.com.br/desvende-tudo-sobre-o-bolsa-familia-novos-valores-e-condicoes/"
+    }
+  ],
+  "response": "O aumento do valor do **Bolsa Família para R$ 600** foi estabelecido pela **Medida Provisória (MP) 1164/23**, aprovada pela Câmara dos Deputados em 2023. Essa medida foi parte do governo do presidente **Luiz Inácio Lula da Silva**, que recriou o programa após a extinção do Auxílio Brasil. O valor mínimo de R$ 600 foi garantido por meio de negociações entre o governo e o Congresso Nacional, com o objetivo de fortalecer o apoio a famílias em situação de vulnerabilidade. \n\nAlém disso, o presidente Lula confirmou durante discursos que o novo Bolsa Família começaria a ser pago a partir de março de 2024, incluindo um adicional de R$ 150 por criança de até 6 anos. Portanto, o responsável pelo aumento foi o **governo federal sob a presidência de Lula**, consolidando o valor por meio da aprovação da MP. \n\nJá o aumento do **Auxílio Brasil para R$ 600** foi anunciado anteriormente pelo presidente Jair Bolsonaro em 2022, mas trata-se de um programa diferente, vigente durante seu mandato.",
+  "response_no_search": "O aumento do valor mínimo do **Bolsa Família para R$ 600** foi implementado durante o governo de **Luiz Inácio Lula da Silva**, após sua posse em **2023**. Este valor faz parte de uma reestruturação do programa, que voltou a ser chamado de **Bolsa Família** (após ser renomeado para **Auxílio Brasil** no governo Bolsonaro) e incluiu um reajuste significativo, com um **aumento real de 50%** em relação ao valor médio pago anteriormente.\n\n### Contexto:\n- **Governo Bolsonaro (2021–2022):** O Auxílio ",
+  "error": null
+}

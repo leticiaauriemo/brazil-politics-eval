@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-A",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model did not answer the question, instead asking for clarification and offering to provide information, which is not a factual claim to be scored."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not correctly identify the main candidates or clarify that Tarcísio de Freitas is not running."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

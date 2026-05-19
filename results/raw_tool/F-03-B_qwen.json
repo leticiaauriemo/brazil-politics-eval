@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Bolsonaro barred from holding public office in Brazil until 2030 | Reuters",
+      "url": "https://jp.reuters.com/article/world/bolsonaro-barred-from-holding-public-office-in-brazil-until-2030-idUSKBN2YG0ZJ/"
+    },
+    {
+      "title": "TSE condena Bolsonaro, que fica inelegível até 2030 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2023/06/30/com-voto-de-carmen-lucia-tse-forma-maioria-para-condenar-bolsonaro.ghtml"
+    },
+    {
+      "title": "Bolsonaro inelegível: entenda o que acontece com o ex-presidente após a condenação no TSE | G1",
+      "url": "https://g1.globo.com/politica/noticia/2023/06/30/entenda-o-que-pode-acontecer-se-o-tse-considerar-bolsonaro-inelegivel-nesta-sexta.ghtml"
+    },
+    {
+      "title": "Bolsonaro inelegível pela segunda vez: veja os próximos passos dos processos contra o ex-presidente | G1",
+      "url": "https://g1.globo.com/politica/noticia/2023/11/01/bolsonaro-inelegivel-pela-segunda-vez-veja-os-proximos-passos-dos-processos-contra-o-ex-presidente.ghtml"
+    }
+  ],
+  "response": "O Tribunal Superior Eleitoral (TSE) declarou Jair Bolsonaro **inelegível por 8 anos**, com a proibição válida a partir das eleições de 2022 (especificamente a partir de 2 de outubro de 2022). Isso significa que ele **não poderá concorrer a cargos eletivos até 2030**, ficando impedido de participar das eleições de 2024, 2026 e 2028. \n\nA decisão foi aplicada imediatamente, sem necessidade de aguardar a publicação oficial do acórdão. A defesa de Bolsonaro pode recorrer ao próprio TSE e, posteriormente, ao Supremo Tribunal Federal (STF), mas a inelegibilidade já está em vigor. \n\nAlém disso, o TSE aplicou uma segunda inelegibilidade ao ex-presidente em novembro de 2023, por abuso de poder político durante eventos de 7 de setembro de 2021, mas o prazo de 8 anos também será contado a partir de outubro de 2022, não se somando à primeira punição. Assim, **a proibição total permanece até 2030**.",
+  "response_no_search": "A inelegibilidade do ex-presidente Jair Bolsonaro foi declarada pelo Tribunal Superior Eleitoral (TSE) em razão da Lei da Ficha Limpa (Lei Complementar nº 135/2010), que impede a candidatura de pessoas condenadas por certos crimes ou infrações eleitorais. No entanto, há dois contextos importantes a serem considerados:\n\n### 1. **Caso de 2010 (Já Superado):**\n   - Em 2010, Bolsonaro foi condenado pelo Tribunal de Justiça do Rio de Janeiro por **calúnia e difamação** durante um programa de TV, em 2",
+  "error": null
+}

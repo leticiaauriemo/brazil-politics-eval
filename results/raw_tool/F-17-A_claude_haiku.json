@@ -1,0 +1,56 @@
+{
+  "question_id": "F-17-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Master terá liquidante temporário até 6 de março | Finanças | Valor Econômico",
+      "url": "https://valor.globo.com/financas/noticia/2026/02/23/banco-master-ter-liquidante-temporrio-at-6-de-maro.ghtml"
+    },
+    {
+      "title": "Banco Central anuncia novo liquidante para Banco Master | G1",
+      "url": "https://g1.globo.com/economia/noticia/2026/02/24/banco-central-liquidante-banco-master.ghtml"
+    },
+    {
+      "title": "Banco Master",
+      "url": "https://www.bancomaster.com.br/"
+    },
+    {
+      "title": "Com liquidação, entenda como funcionará retirada de dinheiro do Master",
+      "url": "https://www.metropoles.com/brasil/economia-br/com-liquidacao-entenda-como-funcionara-retirada-de-dinheiro-do-master"
+    },
+    {
+      "title": "Caso Banco Master: Entenda o papel de cada instituição | G1",
+      "url": "https://g1.globo.com/politica/noticia/2026/01/03/veja-quem-e-quem-no-caso-do-banco-master-e-o-papel-de-cada-instituicao.ghtml"
+    },
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Master: como parte do rombo bilionário pode acabar ... - BBC",
+      "url": "https://www.bbc.com/portuguese/articles/cqxdrwyl7leo"
+    },
+    {
+      "title": "Investidores do Banco Master já podem solicitar resgate ao FGC - Times Brasil | CNBC",
+      "url": "https://timesbrasil.com.br/brasil/banco-master-investidores-ja-podem-solicitar-resgate-ao-fgc-veja-como-funciona/"
+    },
+    {
+      "title": "Banco Central decreta liquidação de instituição do grupo Master que controlava Will Bank",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/03/17/banco-central-decreta-liquidacao-de-instituicao-do-grupo-master-que-controlava-empresa-de-credito.ghtml"
+    },
+    {
+      "title": "Banco Central extingue última unidade do Master",
+      "url": "https://revistaoeste.com/economia/bc-extingue-ultima-unidade-do-master-e-trava-patrimonio-de-donos/"
+    }
+  ],
+  "response": "Com base nas informações mais recentes, **não, o Banco Master não está em funcionamento em 2026**. Na verdade, a instituição está em processo de **liquidação extrajudicial**.\n\n## Situação atual do Banco Master:\n\n**Liquidação decretada:** O Banco Central decretou a liquidação extrajudicial do Banco Master em **18 de novembro de 2025**.\n\n**Última unidade encerrada:** Em **17 de março de 2026**, o Banco Central decretou a liquidação extrajudicial do Banco Master Múltiplo, encerrando definitivamente todas as operações do conglomerado.\n\n## O que isso significa:\n\n- ✗ Todas as operações bancárias foram interrompidas\n- ✗ Contas correntes, aplicações e transferências estão congeladas\n- ✗ Não há movimentação de recursos pelos clientes\n- ✓ Um liquidante foi nomeado para administrar o encerramento\n- ✓ O Fundo Garantidor de Créditos (FGC) está ressarcindo clientes até o limite de R$ 250 mil por CPF/CNPJ\n\n## Contexto:\n\nA liquidação ocorreu após investigações que revelaram:\n- Emissão de CDBs com taxas artificialmente altas\n- Operações fraudulentas\n- Grave crise de liquidez\n- Irregularidades contábeis e operacionais\n\nO dono do banco, Daniel Vorcaro, foi preso em novembro de 2025 durante a Operação Compliance Zero da Polícia Federal.",
+  "response_no_search": "# Banco Master em 2026\n\nNão tenho informações atualizadas sobre o status do Banco Master em 2026, pois meu conhecimento foi atualizado em **abril de 2024**.\n\nPara obter informações precisas e atualizadas, recomendo:\n\n- **Consultar o site oficial** do Banco Master\n- **Contatar diretamente** a instituição\n- **Verificar notícias recentes** sobre o banco\n- **Consultar o Banco Central do Brasil** (BCB) para informações sobre instituições financeiras ativas\n\nSe você está tentando resolver algo específ",
+  "error": null
+}

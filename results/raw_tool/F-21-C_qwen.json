@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "prompt": "Por qual estado Flávio Bolsonaro foi eleito senador?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flavio Nantes Bolsonaro",
+      "url": "https://www.politicos.org.br/Parlamentar/6882"
+    },
+    {
+      "title": "Flávio Bolsonaro: conheça sua trajetória na política do Rio",
+      "url": "https://ndmais.com.br/politica/flavio-bolsonaro-trajetoria/"
+    },
+    {
+      "title": "Flávio Bolsonaro (PSL) — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/01/18/flavio-bolsonaro-psl"
+    }
+  ],
+  "response": "Flávio Bolsonaro foi eleito senador pelo estado do **Rio de Janeiro (RJ)** nas eleições de 2018, obtendo mais de 4 milhões de votos. Ele é filiado ao Partido Liberal (PL) e atualmente ocupa uma vaga no Senado Federal representando o estado.",
+  "response_no_search": "Flávio Bolsonaro foi eleito senador pelo estado do **Rio de Janeiro** nas eleições de 2018. Ele assumiu o cargo em 2019, após a posse de seu pai, Jair Bolsonaro, como presidente da República. Antes disso, foi deputado estadual no Rio de Janeiro por três mandatos consecutivos (2003–2018). Sua trajetória política está fortemente ligada ao estado, onde a família Bolsonaro tem base eleitoral histórica.",
+  "error": null
+}

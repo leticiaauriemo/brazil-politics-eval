@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "prompt": "A força-tarefa da Lava Jato foi dissolvida durante qual governo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lava Jato sai de cena sob um Brasil em silêncio | Atualidade | EL PAÍS Brasil",
+      "url": "https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html"
+    },
+    {
+      "title": "O fim melancólico da força-tarefa da Lava Jato no Paraná",
+      "url": "https://www.dw.com/pt-br/o-fim-melanc%C3%B3lico-da-for%C3%A7a-tarefa-da-lava-jato-no-paran%C3%A1/a-56446083"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná deixa de existir, informa MPF | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2021-02/forca-tarefa-da-lava-jato-no-parana-deixa-de-existir-informa-mpf"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná é extinta após quase 6 anos",
+      "url": "https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html"
+    },
+    {
+      "title": "Após sete anos, Lava Jato de Curitiba é dissolvida; apuração da força-tarefa segue até outubro - Folha PE",
+      "url": "https://www.folhape.com.br/noticias/apos-sete-anos-lava-jato-de-curitiba-e-dissolvida-apuracao-da/171301/"
+    }
+  ],
+  "response": "A força-tarefa da Lava Jato foi dissolvida durante o governo de Jair Bolsonaro.",
+  "response_no_search": "A força-tarefa da Lava Jato foi dissolvida durante o governo de Luiz Inácio Lula da Silva.",
+  "error": null
+}

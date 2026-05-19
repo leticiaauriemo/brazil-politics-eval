@@ -1,0 +1,28 @@
+{
+  "question_id": "F-09-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Representante da Pfizer confirma: governo não respondeu ofertas feitas em agosto de 2020 — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/13/representante-da-pfizer-confirma-governo-nao-respondeu-ofertas-feitas-em-agosto-de-2020"
+    },
+    {
+      "title": "Governo recusou seis propostas de vacinas da Pfizer; veja quais foram | Exame",
+      "url": "https://exame.com/brasil/governo-recusou-seis-propostas-de-vacinas-da-pfizer-veja-quais-foram/"
+    },
+    {
+      "title": "Governo Bolsonaro rejeitou 70 milhões de doses da Pfizer, diz jornal - ISTOÉ Independente",
+      "url": "https://istoe.com.br/governo-bolsonaro-rejeitou-70-milhoes-de-doses-da-pfizer-diz-jornal"
+    }
+  ],
+  "response": "# A oferta da Pfizer ao Brasil em 2020\n\n**Não, o governo federal brasileiro não aceitou as ofertas da Pfizer feitas em 2020.** As propostas foram, na prática, ignoradas ou recusadas pela gestão do então presidente Jair Bolsonaro e do Ministério da Saúde comandado por Eduardo Pazuello.\n\n## Cronologia das ofertas\n\nO presidente regional da Pfizer na América Latina, Carlos Murillo, afirmou em testemunho à CPI da Pandemia que os primeiros contatos da empresa com o governo brasileiro para apresentação de seu imunizante aconteceram entre maio e junho de 2020.\n\nA primeira oferta oficial, feita ao Ministério da Saúde, ocorreu em 14 de agosto de 2020, com duas possibilidades: 30 milhões de doses ou 70 milhões de doses, ambas com a entrega de 500 mil doses ainda em 2020.\n\nNas segunda e terceira propostas apresentadas ao Ministério da Saúde em agosto de 2020, a Pfizer chegou a oferecer 1,5 milhão de doses para serem entregues ainda em 2020, o que não ocorreu por não ter havido resposta governamental.\n\n## A recusa do governo\n\nO governo recusou seis ofertas feitas entre agosto de 2020 e fevereiro de 2021, e só resolveu adquirir os imunizantes em março de 2021 — sete meses depois da primeira proposta, que previa entrega de 500.000 doses ainda no ano anterior.\n\nEm 11 de novembro de 2020, a farmacêutica fez uma nova proposta, mas sem uma resposta do governo brasileiro, outros países acabaram sendo priorizados, e as primeiras doses para o Brasil ficariam para janeiro e fevereiro, numa quantidade de 2 milhões.\n\n## Justificativas do governo e contrapontos\n\nSegundo o representante da Pfizer, as dificuldades nas tratativas envolveram principalmente questões logísticas e contratuais. O representante da Pfizer relatou que os temas complexos da negociação estavam relacionados, primeiramente, com o tema logístico. O Ministério da Saúde tinha preocupação com as condições de armazenamento para a vacina, que requer armazenamento a 70 graus negativos.\n\nJá o governo alegava obstáculos jurídicos. Parlamentares aliados alegaram que em dezembro não havia dispositivo legal para aceitação contratual com a empresa no Brasil, o que só teria ocorrido",
+  "response_no_search": "Não. A Pfizer enviou ao governo brasileiro diversas ofertas de venda de vacinas contra a Covid-19 ao longo de 2020, e essas propostas não foram aceitas naquele período.\n\nAlguns pontos documentados sobre o caso:\n\n- A Pfizer afirmou ter enviado ao governo federal pelo menos **três ofertas formais** em 2020: em **agosto, setembro e novembro**.\n- A primeira proposta, de agosto de 2020, previa a entrega de cerca de 70 milhões de doses, com início ainda em dezembro daquele ano, caso fosse aceita rapid",
+  "error": null
+}

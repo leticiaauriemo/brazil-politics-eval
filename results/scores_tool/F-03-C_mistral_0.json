@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies the TSE ruling as a reason for ineligibility but only mentions a potential future STF conviction, not an existing one as per the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the TSE ruling on electoral abuse and mentions the potential for further inelegibility due to STF actions, but it does not explicitly state both grounds for ineligibility."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

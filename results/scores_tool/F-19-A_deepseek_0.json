@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly lists several individuals as main candidates, including some who are not running or are not considered main contenders, and fails to clarify Tarcísio de Freitas's status."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly includes Tarcísio de Freitas as a candidate and fails to clarify that he is not running for president."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

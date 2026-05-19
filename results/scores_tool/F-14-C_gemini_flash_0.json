@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that state advertising occurs in various governments but lacks specific details about the Bolsonaro administration's concentration of resources and the contrast with Lula 3's broader distribution."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the payment of state advertising to private vehicles is a practice that occurs in various governments, but lacks specific details about the Bolsonaro and Lula 3 patterns."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

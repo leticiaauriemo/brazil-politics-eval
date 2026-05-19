@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF confirma anulação das condenações de Lula na Lava Jato – DW – 15/04/2021",
+      "url": "https://www.dw.com/pt-br/stf-confirma-anula%C3%A7%C3%A3o-das-condena%C3%A7%C3%B5es-de-lula-na-lava-jato/a-57220475?utm_source=openai"
+    },
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - 22/08/2022 - UOL Notícias",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/bbc/2022/08/22/e-possivel-dizer-que-lula-foi-inocentado-na-lava-jato.htm?utm_source=openai"
+    },
+    {
+      "title": "Lula é inocente da acusação de obstrução à Lava Jato; Leia a sentença na íntegra | Jusbrasil",
+      "url": "https://www.jusbrasil.com.br/noticias/lula-e-inocente-da-acusacao-de-obstrucao-a-lava-jato-leia-a-sentenca-na-integra/600353207?utm_source=openai"
+    },
+    {
+      "title": "Apesar de condenação, Lula foi absolvido de acusações | Exame",
+      "url": "https://exame.com/brasil/apesar-de-condenacao-lula-foi-absolvido-de-acusacoes/?utm_source=openai"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva",
+      "url": "https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se o ex-presidente Luiz Inácio Lula da Silva foi inocentado das acusações da Operação Lava Jato. A resposta exige uma distinção importante entre “inocentado” (absolvido no mérito) e “anulação” dos processos (por vícios processuais). Abaixo, explico com clareza:\n\n1. **Anulação das condenações (triplex e sítio de Atibaia)**  \n   - Em março de 2021, o ministro Edson Fachin, do Supremo Tribunal Federal (STF), anulou todas as condenações de Lula relacionadas à Lava Jato em Curitiba, por entender que a 13ª Vara Federal de Curitiba não tinha competência para julgar os casos ([dw.com](https://www.dw.com/pt-br/stf-confirma-anula%C3%A7%C3%A3o-das-condena%C3%A7%C3%B5es-de-lula-na-lava-jato/a-57220475?utm_source=openai)).  \n   - Em abril de 2021, o plenário do STF confirmou essa decisão por 8 votos a 3 ([dw.com](https://www.dw.com/pt-br/stf-confirma-anula%C3%A7%C3%A3o-das-condena%C3%A7%C3%B5es-de-lula-na-lava-jato/a-57220475?utm_source=openai)).  \n   - Além disso, a Segunda Turma do STF declarou que o então juiz Sergio Moro agiu com parcialidade, o que reforçou a nulidade dos processos ([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/bbc/2022/08/22/e-possivel-dizer-que-lula-foi-inocentado-na-lava-jato.htm?utm_source=openai)).  \n   - Como consequência, os processos foram anulados e, em muitos casos, prescreveram, o que impede qualquer nova condenação ([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/bbc/2022/08/22/e-possivel-dizer-que-lula-foi-inocentado-na-lava-jato.htm?utm_source=openai)).\n\n2. **Absolvições em outros processos (inocentado no mérito)**  \n   - Em 12 de julho de 2018, Lula foi absolvido pelo juiz Ricardo Leite, da 10ª Vara Federal de Brasília, da acusação de obstrução de Justiça (tentativa de comprar o silêncio do ex-diretor da Petrobras Nestor Cerveró), por falta de provas ([jusbrasil.com.br](https://www.jusbrasil.com.br/noticias/lula-e-inocente-da-acusacao-de-obstrucao-a-lava-jato-leia-a-sentenca-na-integra/600353207?utm_source=openai)).  \n   - Em outro caso, relacionado ao armazenamento do acervo presidencial, o juiz Sergio Moro absolveu Lula por falta de provas suficientes da materialidade do crime ([exame.com](https://exame.com/brasil/apesar-de-condenacao-lula-foi-absolvido-de-acusacoes/?utm_source=openai)).\n\n3. **O que significa “inocentado”?**  \n   - No jargão jurídico, “inocentado” não é um termo técnico. O que existe é absolvição (quando o réu é julgado e considerado inocente) ou anulação (quando o processo é invalidado por vícios processuais).  \n   - Juristas como Gustavo Badaró (USP) explicam que, com a anulação, Lula “é tão inocente quanto quem nunca foi processado” ([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/bbc/2022/08/22/e-possivel-dizer-que-lula-foi-inocentado-na-lava-jato.htm?utm_source=openai)).  \n   - No entanto, críticos argumentam que a anulação não equivale a uma declaração de inocência no mérito, pois não houve julgamento sobre a veracidade das acusações ([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/bbc/2022/08/22/e-possivel-dizer-que-lula-foi-inocentado-na-lava-jato.htm?utm_source=openai)).\n\n4. **Resumo da situação atual**  \n   - **Condenações anuladas**: triplex do Guarujá e sítio de Atibaia — por incompetência da vara e parcialidade do juiz.  \n   - **Absolvições no mérito**: obstrução de Justiça (Brasília) e acervo presidencial — por falta de provas.  \n   - **Status jurídico**: Lula não possui condenações com trânsito em julgado; em muitos casos, os processos foram arquivados, prescritos ou anulados ([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva?utm_source=openai)).\n\nPortanto, **Lula não foi “inocentado” em todos os casos**, mas teve algumas absolvições no mérito e teve outras condenações anuladas por vícios processuais. Se quiser, posso detalhar cada processo individualmente.",
+  "response_no_search": "Sim, Luiz Inácio Lula da Silva (Lula) foi **inocentado** das acusações de corrupção relacionadas à Operação Lava Jato, mas é importante entender o contexto jurídico desse processo.\n\n### O que aconteceu?\n\n1. **Anulação das condenações**:  \nEm março de 2021, o Supremo Tribunal Federal (STF) **anulou as condenações** de Lula relacionadas à Lava Jato, entendendo que a 13ª Vara Federal de Curitiba, comandada pelo então juiz Sergio Moro, **não tinha competência** para julgar os casos específicos do ex",
+  "error": null
+}

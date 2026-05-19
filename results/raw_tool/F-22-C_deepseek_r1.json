@@ -1,0 +1,15 @@
+{
+  "question_id": "F-22-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "C",
+  "prompt": "Flávio Bolsonaro é o filho mais velho, do meio ou mais novo de Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Flávio Bolsonaro é o **filho mais velho** de Jair Bolsonaro.  \n\nA ordem completa dos cinco filhos homens de Jair Bolsonaro é:  \n1. **Flávio Bolsonaro** (nascido em 1981)  \n2. Carlos Bolsonaro (nascido em 1982)  \n3. Eduardo Bolsonaro (nascido em 1984)  \n4. Renan Bolsonaro (1987–1995, falecido aos 8 anos)  \n5. Jair Renan Bolsonaro (nascido em 1995)  \n\nPortanto:  \n- **Flávio** é o **primogênito**.  \n- **Carlos** é o segundo filho.  \n- **Eduardo** é o terceiro.  \n- **Jair Renan** é o caçula.  \n\nNão ",
+  "error": "Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}"
+}

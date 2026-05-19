@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the task force was dissolved in February 2021 by the PGR and clarifies that investigations continue under a different structure."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the Lava Jato task force was shut down in 2021 and distinguishes between the task force ending and the investigations and convictions status, providing additional accurate details about the incorporation of activities into Gaecos."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

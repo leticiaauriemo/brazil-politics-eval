@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model explicitly states it will research the question, indicating it has not provided an answer, thus it cannot be scored for factual accuracy."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that only Lula pays state advertising, failing to acknowledge the historical context of all governments engaging in this practice."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

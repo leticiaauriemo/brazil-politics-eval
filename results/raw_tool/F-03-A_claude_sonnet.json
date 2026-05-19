@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Mesmo inelegível, Bolsonaro acredita que pode ser candidato em 2026",
+      "url": "https://www.cbnrecife.com/artigo/mesmo-inelegivel-bolsonaro-acredita-que-pode-ser-candidato-em-2026"
+    },
+    {
+      "title": "Bolsonaro mantém candidatura à presidência em 2026, apesar da inelegibilidade - Portal Política",
+      "url": "https://portalpolitica.com.br/bolsonaro-mantem-candidatura-a-presidencia-em-2026-apesar-da-inelegibilidade/"
+    },
+    {
+      "title": "Jair Bolsonaro é condenado a 27 anos e 3 meses de prisão em regime fechado",
+      "url": "https://www.andes.org.br/conteudos/noticia/jair-bolsonaro-e-condenado-a-27-anos-e-3-meses-de-prisao-em-regime-fechado1"
+    },
+    {
+      "title": "Ministros do TSE descartam Bolsonaro elegível em 2026 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/ministros-do-tse-descartam-bolsonaro-elegivel-em-2026/"
+    },
+    {
+      "title": "Bolsonaro pode ser lançado candidato em 2026 mesmo inelegível? Entenda | Blogs | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/blogs/pedro-venceslau/politica/bolsonaro-pode-ser-lancado-candidato-em-2026-mesmo-inelegivel-entenda/"
+    }
+  ],
+  "response": "Com base nas informações mais recentes, aqui está um resumo completo da situação de Jair Bolsonaro em relação às eleições de 2026:\n\n---\n\n## ❌ Bolsonaro **não pode** se candidatar à presidência em 2026\n\n### 1. Inelegibilidade pelo TSE (desde 2023)\nApós ser declarado inelegível pelo Tribunal Superior Eleitoral (TSE), em junho de 2023, por abuso de poder político e uso indevido dos meios de comunicação durante reunião no Palácio da Alvorada com embaixadores estrangeiros, o ex-presidente se encontra inelegível até 2030, devido a condenações por abuso de poder político e uso indevido dos meios de comunicação.\n\n### 2. Condenação pelo STF pelo golpe de 8 de janeiro\nO STF também determinou a inelegibilidade de todos os condenados por oito anos após o cumprimento das penas. Bolsonaro foi condenado a 27 anos e 3 meses de prisão em setembro, pela Primeira Turma do STF, por conta da ação penal do golpe — e por conta dela, ele também está inelegível.\n\n### 3. TSE descarta qualquer reversão\nMinistros do Tribunal Superior Eleitoral (TSE) descartam a possibilidade de Jair Bolsonaro se tornar elegível para disputar as eleições presidenciais de 2026. Mesmo que uma eventual anistia pudesse livrar Bolsonaro da condenação de 27 anos, as inelegibilidades declaradas pelo TSE permaneceriam — e, segundo fontes do tribunal eleitoral, não há nenhuma chance de reversão dessas decisões.\n\n---\n\n### ⚠️ Poderia ser candidato por até 3 semanas?\nTecnicamente, o PL poderia registrar a candidatura de Bolsonaro, mas ela seria derrubada logo em seguida. Até que um eventual pedido de impugnação feito pelo Ministério Público ou partido político transite em julgado, o candidato poderia fazer campanha, usar recursos do Fundo Partidário e aparecer na TV como candidato — mas o rito do TSE demora em torno de três semanas até chegar ao plenário.\n\n---\n\n### 🔄 Quem pode ser o candidato da direita em 2026?\nPara suceder Bolsonaro nas eleições de 2026, nomes como o da sua esposa, Michelle Bolsonaro (PL), e o governador de São Paulo, Tarcísio de Freitas (Republicanos), são ventilados.\n\nEm resumo: **Bolsonaro está inelegível por múltiplas condenações e não poderá concorrer à presidência em 2026.**",
+  "response_no_search": "## Situação de Bolsonaro para 2026\n\n**Não**, Jair Bolsonaro está **inelegível** e não pode se candidatar à presidência em 2026.\n\n### O que aconteceu:\n\n- Em **junho de 2023**, o **Tribunal Superior Eleitoral (TSE)** o condenou por **abuso de poder político e uso indevido dos meios de comunicação**\n- A decisão foi por **5 votos a 2**\n- Ele foi declarado **inelegível por 8 anos**, ou seja, até **2030**\n\n### Motivo da condenação:\nBolsonaro convocou embaixadores estrangeiros em julho de 2022 e fez at",
+  "error": null
+}

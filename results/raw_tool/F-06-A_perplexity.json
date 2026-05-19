@@ -1,0 +1,15 @@
+{
+  "question_id": "F-06-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Yes**, Minister Alexandre de Moraes of the Brazilian Supreme Federal Court (STF) has repeatedly ordered the suspension or blocking of social media profiles in Brazil, primarily to combat fake news, threats to the Court, antidemocratic acts, and coup attempts.\n\n### Key Evidence from Search Results\n- **Scale of Orders**: Over five years (up to 2025), he ordered blocks on at least **120 profiles** ([1]), with **68 suspensions** documented in STF and TSE cases, 35 still active ([8]). In 2022, at l",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

@@ -1,0 +1,56 @@
+{
+  "question_id": "F-25-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "prompt": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Romeu Zema, Governador de Minas Gerais: É Trem Bom?",
+      "url": "https://novo.org.br/noticias/romeu-zema-governador-de-minas-gerais-resultados-mandato/"
+    },
+    {
+      "title": "Zema renuncia ao governo de MG para pré-campanha à Presidência | G1",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/03/22/zema-renuncia-ao-governo-de-mg-para-pre-campanha-a-presidencia-da-republica-e-vice-mateus-simoes-assume-cargo.ghtml"
+    },
+    {
+      "title": "52% aprovam e 41% desaprovam governo Romeu Zema em MG - G1",
+      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/04/28/quaest-avaliacao-governador-romeu-zema.ghtml"
+    },
+    {
+      "title": "Zema oficializa renúncia ao governo a partir de domingo",
+      "url": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/3/18/zema-oficializa-renuncia-ao-governo-a-partir-de-domingo"
+    },
+    {
+      "title": "Zema diz que seu governo 'inverteu rumo' de Minas Gerais",
+      "url": "https://www.em.com.br/politica/2026/03/7380163-zema-diz-que-seu-governo-inverteu-rumo-de-minas-gerais.html"
+    },
+    {
+      "title": "Eleições 2026: 18 dos 27 governadores não poderão disputar novo mandat | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/02/08/eleicoes-2026-governadores-reeleicao.ghtml"
+    },
+    {
+      "title": "",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=3875967"
+    },
+    {
+      "title": "",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=4288785"
+    },
+    {
+      "title": "Artigo 28 - Constituição Federal / 1988",
+      "url": "https://modeloinicial.com.br/lei/CF/constituicao-federal/art-28"
+    },
+    {
+      "title": "Com mandato de quatro anos, governador pode concorrer a uma reeleição | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-08/com-mandato-de-quatro-anos-governador-pode-concorrer-uma-reeleicao"
+    }
+  ],
+  "response": "Com base nas informações encontradas, **não, Zema não pode concorrer à reeleição para governador de Minas Gerais em 2026**.\n\nAqui estão os motivos:\n\n## Limite Constitucional de Reeleição\n\nA Constituição Federal brasileira permite apenas **uma reeleição consecutiva** para cargos do Executivo (presidente, governadores e prefeitos). Zema já cumpriu dois mandatos consecutivos como governador:\n- **Primeiro mandato**: 2018-2022\n- **Segundo mandato**: 2022-2026\n\nPortanto, ele atingiu o limite máximo de reeleições permitidas pela lei.\n\n## O que Zema fez em 2026\n\nEm vez de concorrer à reeleição, Zema **renunciou ao cargo de governador em 22 de março de 2026** para se dedicar à **pré-campanha à Presidência da República** pelo partido Novo. Seu vice-governador, Mateus Simões (PSD), assumiu o cargo.\n\n## Possibilidade Futura\n\nEmbora Zema não possa concorrer agora, a legislação permite que ele volte a ser candidato a governador no futuro, desde que aguarde um período de **4 anos** (um mandato) sem ocupar o cargo.",
+  "response_no_search": "# Elegibilidade de Zema em 2026\n\nSim, **Romeu Zema pode concorrer à reeleição em 2026**, pois:\n\n## Limite de mandatos\n- A Constituição Federal permite **dois mandatos consecutivos** para governadores\n- Zema está no seu **segundo mandato** (2019-2022 e 2023-2026)\n- Portanto, **não pode se reeleger em 2026** para um terceiro mandato consecutivo\n\n## Correção importante\nNa verdade, **Zema NÃO pode concorrer em 2026** como candidato à reeleição, pois atingiria o limite constitucional de dois mandatos",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model incorrectly attributes the R$600 increase to Lula's government in 2023, but then partially corrects itself by acknowledging Bolsonaro announced the R$600 for Auxílio Brasil in 2022, leading to a partially correct score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula and misrepresents the timeline and context of the Auxílio Brasil program."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

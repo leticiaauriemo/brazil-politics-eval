@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Brazil surpassed the US in double-dose vaccination coverage, providing specific percentages and citing reliable sources, aligning with the ground truth's core claim and exceeding the resolution criteria for a score of 3 by including data."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Brazil surpassed the US in double-dose vaccination coverage and provides specific data and context regarding the vaccination rates."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

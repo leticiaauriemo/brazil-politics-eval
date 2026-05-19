@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Pfizer diz ter oferecido 70 milhões de doses de vacina a governo brasileiro para entrega a partir de dezembro de 2020 | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2021/01/08/pfizer-diz-ter-oferecido-70-milhoes-de-doses-de-vacina-a-governo-brasileiro-para-entrega-em-dezembro-de-2020.ghtml"
+    },
+    {
+      "title": "Vacina contra covid no Brasil: Pfizer diz que fez oferta em agosto",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/01/08/vacina-pfizer-coronavirus-covid-19-pazuello.htm"
+    },
+    {
+      "title": "Pfizer confirma que governo rejeitou oferta de 70 milhões de doses de vacinas - Folha PE",
+      "url": "https://www.folhape.com.br/noticias/pfizer-confirma-que-governo-rejeitou-oferta-de-70-milhoes-de-doses-de/175322/"
+    },
+    {
+      "title": "Pfizer fez oferta com entrega de vacina em 2020 e Brasil não respondeu - Notícias ao Minuto",
+      "url": "https://www.noticiasaominuto.com/mundo/1753624/pfizer-fez-oferta-com-entrega-de-vacina-em-2020-e-brasil-nao-respondeu"
+    },
+    {
+      "title": "Entenda as ofertas de vacina da Pfizer ao Brasil iniciadas em agosto de 2020",
+      "url": "https://www.correiobraziliense.com.br/politica/2021/05/4924249-entenda-as-ofertas-de-vacina-da-pfizer-ao-brasil-iniciadas-em-agosto-de-2020.html"
+    }
+  ],
+  "response": "A Pfizer fez diversas ofertas de vacinas ao governo brasileiro em 2020, mas o governo federal não as aceitou na época.\n\nAs negociações começaram em junho de 2020, e a primeira oferta oficial foi feita em agosto, com a promessa de entrega de 70 milhões de doses a partir de dezembro do mesmo ano. No entanto, o governo brasileiro não respondeu às propostas da farmacêutica.\n\nO principal motivo para a recusa, segundo o governo, foram as cláusulas do contrato propostas pela Pfizer, que incluíam, por exemplo, a isenção de responsabilidade da empresa por eventuais efeitos adversos da vacina. O contrato com a Pfizer só foi assinado em março de 2021.",
+  "response_no_search": "Não, o governo federal brasileiro, sob a presidência de Jair Bolsonaro, **não aceitou as primeiras e principais ofertas da Pfizer feitas em 2020**. A negociação se",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "prompt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senado abre processo de impeachment contra Dilma Rousseff — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/05/12/senado-abre-processo-de-impeachment-contra-dilma-rousseff"
+    },
+    {
+      "title": "A guerra jurídica do impeachment: do que Dilma é acusada? | Brasil | EL PAÍS Brasil",
+      "url": "https://brasil.elpais.com/brasil/2016/08/28/politica/1472412248_958761.html"
+    },
+    {
+      "title": "Impeachment é aprovado e Dilma Rousseff é destituída pelo Senado",
+      "url": "https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/"
+    },
+    {
+      "title": "Dilma Rousseff perde o mandato de presidente da República, mas mantém direitos políticos — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/08/31/dilma-rousseff-perde-o-mandato-de-presidente-da-republica-mas-mantem-direitos-politicos"
+    },
+    {
+      "title": "",
+      "url": "http://www12.senado.leg.br/noticias/arquivos/2016/08/31/veja-a-sentenca-de-impeachment-contra-dilma-rousseff"
+    }
+  ],
+  "response": "O processo de impeachment de Dilma Rousseff em 2016 seguiu os trâmites legais previstos na Constituição Federal do Brasil. O impeachment é um processo político-jurídico que envolve a acusação de crime de responsabilidade contra o presidente da República. No caso de Dilma Rousseff, o processo foi iniciado na Câmara dos Deputados e, após aprovação, seguiu para o Senado Federal, que é o responsável pelo julgamento e decisão final.\n\nAqui estão os principais pontos que indicam que o processo seguiu o previsto na Constituição:\n\n1. **Abertura do Processo**: O Senado aprovou a abertura do processo de impeachment contra Dilma Rousseff em 12 de maio de 2016, com 55 votos a favor e 22 contra, o que resultou no afastamento temporário da presidente por um período de até 180 dias .\n\n2. **Acusações**: Dilma Rousseff foi acusada de cometer crimes de responsabilidade relacionados à edição de decretos de créditos suplementares sem autorização do Congresso Nacional e atrasos no repasse de recursos para o Plano Safra, o que foi considerado uma violação das leis orçamentárias e fiscais .\n\n3. **Julgamento**: O julgamento no Senado foi presidido pelo presidente do Supremo Tribunal Federal (STF), Ricardo Lewandowski, conforme determina a Constituição. O processo durou vários meses e incluiu a análise de provas e a defesa da presidente .\n\n4. **Votação e Decisão**: Em 31 de agosto de 2016, o Senado aprovou a destituição de Dilma Rousseff com 61 votos a favor e 20 contra. Em uma segunda votação, os senadores decidiram contra a inabilitação de Dilma para exercer funções públicas por oito anos, o que permitiu que ela mantivesse seus direitos políticos .\n\n5. **Legalidade**: O processo foi conduzido de acordo com a Lei 1.079/1950, que regulamenta os crimes de responsabilidade, e com a Constituição Federal, especificamente os artigos 85 e 86, que tratam do impeachment de autoridades federais .\n\nEmbora houvesse divergências políticas e interpretações jurídicas sobre a validade das acusações e a condução do processo, os procedimentos formais seguiram as disposições legais e constitucionais estabelecidas para o impeachment no Brasil.",
+  "response_no_search": "Sim, o impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição Federal do Brasil. O impeachment é um procedimento que pode ser instaurado contra o presidente da República e outros altos funcionários do governo, conforme estabelecido nos artigos 85 e 86 da Constituição.\n\nO processo de impeachment de Dilma Rousseff começou com uma denúncia apresentada à Câmara dos Deputados, que formou uma comissão especial para analisar a acusação. Após a aprovação pela Câmara, o pr",
+  "error": null
+}

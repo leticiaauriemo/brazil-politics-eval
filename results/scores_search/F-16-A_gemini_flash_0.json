@@ -1,0 +1,19 @@
+{
+  "question_id": "F-16-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 increase to Bolsonaro and provides context about the program's name change and Lula's subsequent actions, but it could be clearer about the specific legislative process."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

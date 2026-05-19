@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "X (Twitter) começa a ser bloqueado e brasileiros não estão conseguindo acessar a rede | Internet",
+      "url": "https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm"
+    },
+    {
+      "title": "Treze dias após decisão de Moraes, X é acessado em 'internet de bairro'",
+      "url": "https://www.em.com.br/politica/2024/09/6941123-treze-dias-apos-decisao-de-moraes-x-e-acessado-em-internet-de-bairro.html"
+    },
+    {
+      "title": "Rede social X é suspensa no Brasil após ordem de Moraes - G1",
+      "url": "https://g1.globo.com/tecnologia/noticia/2024/08/31/rede-social-x-suspensa-no-brasil.ghtml"
+    },
+    {
+      "title": "O Twitter voltou? Brasileiros relatam que estão conseguindo acessar o X sem VPN",
+      "url": "https://g1.globo.com/tecnologia/noticia/2024/09/18/brasileiros-relatam-que-estao-conseguindo-acessar-o-x-sem-vpn.ghtml"
+    },
+    {
+      "title": "X (Twitter) vai voltar quando quitar pagamento de multas, decide Moraes",
+      "url": "https://www.techtudo.com.br/noticias/2024/09/twitter-vai-voltar-quando-quitar-pagamento-de-multas-decide-moraes-edsoftwares.ghtml"
+    }
+  ],
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024 por ordem do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). A decisão foi tomada porque a empresa não cumpriu ordens judiciais, como a indicação de um representante legal no país e o bloqueio de perfis investigados por supostos ataques à democracia. Além disso, a plataforma acumulou multas por descumprimento de decisões judiciais.\n\nO bloqueio começou a ser implementado pelas operadoras de internet a partir de 31 de agosto de 2024. No entanto, devido à grande quantidade de operadoras no Brasil, o acesso ainda pode estar disponível para alguns usuários, especialmente aqueles que utilizam provedores de internet regionais.\n\nMoraes também estabeleceu uma multa diária de R$ 50 mil para pessoas e empresas que utilizarem \"subterfúgios tecnológicos\", como VPNs, para acessar a rede social após o bloqueio.\n\nPara que o X seja desbloqueado, a plataforma precisa cumprir algumas exigências, como o pagamento de multas e a comprovação de que os valores retidos da Starlink (outra empresa de Elon Musk) serão usados para quitar as dívidas do X.",
+  "response_no_search": "Não, o acesso ao X (antigo Twitter) **não foi bloqueado no Brasil em 2024**.\n\nA plataforma continua funcionando normalmente no país.\n\nÉ possível que você tenha se deparado com notícias ou discussões sobre possíveis bloqueios ou restrições, especialmente em relação a decisões judiciais que exigem a remoção de conteúdo ou o bloqueio de contas específicas. No entanto, essas medidas pontuais não configuram um bloqueio geral da plataforma para todos os usuários no Brasil.\n\nSe você está tendo dificuld",
+  "error": null
+}

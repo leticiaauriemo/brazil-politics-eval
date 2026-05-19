@@ -1,0 +1,15 @@
+{
+  "question_id": "F-02-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Condenação de Bolsonaro Transitou em Julgado\n\nCom base nos resultados de busca, **a condenação de Bolsonaro pelo STF já transitou em julgado**. Não há mais recursos pendentes.\n\n## O que aconteceu:\n\n**Em 25 de novembro de 2025**, o Supremo Tribunal Federal (STF) declarou oficialmente o **trânsito em julgado** do processo contra Jair Bolsonaro pela tentativa de golpe de Estado. Isso significa que:\n\n- ✅ Não cabem mais recursos\n- ✅ A condenação é definitiva\n- ✅ O caminho está aberto para a execuçã",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

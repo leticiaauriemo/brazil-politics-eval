@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df/"
+    },
+    {
+      "title": "STF confirma anulação de condenações da Lava Jato contra Lula — entenda - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56768338"
+    },
+    {
+      "title": "STF confirma anulação de condenações do ex-presidente Lula na ...",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    },
+    {
+      "title": "Lula é inocente?",
+      "url": "https://www.terra.com.br/noticias/brasil/lula-e-inocente,d778687a211272e167bf9c3e0efc42d5wrdh40dj.html"
+    },
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    }
+  ],
+  "response": "Não exatamente. É importante esclarecer essa questão, pois há uma distinção jurídica importante:\n\n## O que realmente aconteceu:\n\nAs condenações de Lula foram **anuladas por razões técnicas e processuais**, não porque o STF concluiu que ele era inocente. A anulação se baseou em dois pontos principais:\n\n### 1. **Incompetência da Vara de Curitiba**\nEm março de 2021, o ministro Edson Fachin decidiu que a 13ª Vara Federal de Curitiba não tinha competência para julgar os casos de Lula, pois os crimes não tinham relação comprovada com desvios da Petrobras (que era o escopo original da Operação Lava Jato).\n\n### 2. **Parcialidade do juiz Sergio Moro**\nEm junho de 2021, o STF declarou que o então juiz Sergio Moro foi **parcial** ao condenar Lula, comprometendo o direito a um julgamento justo.\n\n## Importante: Inocência vs. Anulação\n\n- **Não houve absolvição**: O STF não analisou o mérito dos casos (se Lula era culpado ou inocente)\n- **Houve anulação processual**: Os processos foram considerados nulos por vício processual\n- **Presunção de inocência**: Com a anulação, Lula recuperou seu status de inocente perante a lei, conforme a Constituição brasileira (presunção de inocência até prova em contrário)\n\nPor isso, alguns críticos preferem dizer que Lula foi \"descondenado\" em vez de \"inocentado\", já que não houve um julgamento válido que comprovasse sua inocência.",
+  "response_no_search": "# Não, não foi assim\n\nAs condenações de Lula foram anuladas em 2021 pelo STF, mas **não porque o tribunal concluiu que ele era inocente**. A razão foi diferente:\n\n## O motivo da anulação\n\nO STF decidiu que Lula **não teve um julgamento justo** porque:\n- O então juiz Sergio Moro era parcial (tinha comunicações com a acusação)\n- Havia violação do direito de defesa\n- Não havia imparcialidade garantida\n\n## Importante esclarecer\n\n- A anulação foi por **vício processual**, não por comprovação de inocê",
+  "error": null
+}

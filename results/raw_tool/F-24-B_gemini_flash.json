@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Dados ex-Presidente — Secretaria-Geral",
+      "url": "https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/luiz-inacio-lula-da-silva/"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva: vida, carreira, governos - Brasil Escola",
+      "url": "https://brasilescola.uol.com.br/biografia/luiz-inacio-lula-da-silva.htm"
+    },
+    {
+      "title": "Conheça a vida e trajetória política de Luiz Inácio Lula da Silva - Investidor10",
+      "url": "https://investidor10.com.br/conteudo/conheca-a-biografia-da-trajetoria-de-vida-e-governos-de-luiz-inacio-lula-da-silva-106815/"
+    },
+    {
+      "title": "Presidentes do Brasil: ordem de sucessão - História do Mundo",
+      "url": "https://www.historiadomundo.com.br/idade-moderna/presidentes-do-brasil.htm"
+    },
+    {
+      "title": "Biografia do ex-presidente Lula - Poder - Folha de S.Paulo",
+      "url": "https://arte.folha.uol.com.br/poder/2015/10/28/bio%20lula/index.html"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva está em seu terceiro mandato presidencial. Ele foi presidente de 2003 a 2011 (dois mandatos) e retornou à presidência em 2023.",
+  "response_no_search": "Lula está em seu **terceiro mandato presidencial**.\n\nEle foi presidente do Brasil nos seguintes períodos:\n\n*   **Primeiro mandato:** 2003-2006\n*   **Segundo mandato:** 2007-2010\n*   **Terceiro mandato:** 2023-presente",
+  "error": null
+}

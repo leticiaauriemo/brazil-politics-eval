@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly lists several individuals as candidates who are not, and fails to clarify Tarcísio de Freitas's status, which was a key part of the resolution criteria."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model misidentifies the main candidates by including several incorrect candidates and failing to clarify that Tarcísio de Freitas is not running, while also not mentioning that the main candidates are Lula and Flávio Bolsonaro as the primary contenders."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/"
+    },
+    {
+      "title": "STF publica acórdão de julgamento que mantém condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado"
+    },
+    {
+      "title": "STF publica ata de julgamento que manteve condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/17/stf-publica-ata-de-julgamento-que-manteve-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "STF mantém condenação de Bolsonaro pela tentativa de golpe de Estado",
+      "url": "https://viva.com.br/noticias/stf-mantem-condenacao-de-bolsonaro-pela-tentativa-de-golpe.html"
+    }
+  ],
+  "response": "Sim, o ex-presidente Jair Bolsonaro foi condenado pelo Supremo Tribunal Federal (STF) por tentativa de golpe de Estado. Em setembro de 2025, a Primeira Turma do STF concluiu o julgamento da Ação Penal 2668, condenando Bolsonaro e outros sete réus por crimes relacionados à tentativa de abolição violenta do Estado Democrático de Direito, golpe de Estado, participação em organização criminosa armada, dano qualificado e deterioração de patrimônio tombado. Bolsonaro foi condenado a 27 anos e três meses de prisão. A decisão também incluiu multas e a obrigação de pagar uma indenização por danos morais coletivos. A condenação foi mantida após a rejeição de recursos apresentados pelas defesas dos réus.",
+  "response_no_search": "Até a data do meu último treinamento em outubro de 2023, Jair Bolsonaro, ex-presidente do Brasil, não foi condenado pelo Supremo Tribunal Federal (STF) por tentativa de golpe de Estado. No entanto, a situação política pode evoluir, e é importante verificar as fontes de notícias mais recentes para obter informações atualizadas sobre esse assunto.",
+  "error": null
+}

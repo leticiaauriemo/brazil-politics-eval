@@ -1,0 +1,15 @@
+{
+  "question_id": "F-08-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "prompt": "Tarcísio de Freitas vai concorrer à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Não, Tarcísio de Freitas não vai concorrer à Presidência nas eleições de 2026.**\n\nEle tem reiterado publicamente e consistentemente que seu foco é a reeleição ao governo de São Paulo. Aqui vai a evidência principal dos resultados de busca (todos de 2026, alinhados à data atual):\n\n### Declarações Diretas de Tarcísio\n- **Confirmação de reeleição e apoio a Flávio Bolsonaro**: Em [1], Tarcísio confirma a Bolsonaro sua candidatura à reeleição em SP e \"apoio irrestrito\" à candidatura de Flávio Bolso",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

@@ -1,0 +1,19 @@
+{
+  "question_id": "F-06-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that a single minister can order social media suspensions and provides examples, but it omits the crucial context of these being monocratic orders and the legal controversy surrounding this practice."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

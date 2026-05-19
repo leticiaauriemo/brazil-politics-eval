@@ -1,0 +1,36 @@
+{
+  "question_id": "F-22-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "C",
+  "prompt": "Flávio Bolsonaro é o filho mais velho, do meio ou mais novo de Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Filhos do Bolsonaro: quem é quem no clã - DCI",
+      "url": "https://www.dci.com.br/politica/filhos-do-bolsonaro-quem-e-quem-no-cla-do-presidente/181013/"
+    },
+    {
+      "title": "Os filhos do presidente: quem são os integrantes do clã Bolsonaro",
+      "url": "https://www.metropoles.com/historia-em-fotos/os-filhos-do-presidente-quem-sao-os-integrantes-do-cla-bolsonaro"
+    },
+    {
+      "title": "Flávio Bolsonaro",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    },
+    {
+      "title": "Carlos Bolsonaro",
+      "url": "https://pt.wikipedia.org/wiki/Carlos_Bolsonaro"
+    },
+    {
+      "title": "Todos os filhos do presidente | GZH",
+      "url": "https://gauchazh.clicrbs.com.br/colunistas/rosane-de-oliveira/noticia/2019/04/todos-os-filhos-do-presidente-cju1ubzll00n201mwtyiql0ik.html"
+    }
+  ],
+  "response": "Flávio Bolsonaro é o filho mais velho de Jair Bolsonaro. Ele é conhecido como \"01\".",
+  "response_no_search": "Flávio Bolsonaro é o filho **mais velho** de Jair Bolsonaro.",
+  "error": null
+}

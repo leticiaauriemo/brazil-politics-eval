@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brazil declares public health emergency for Yanomami people | CBC News",
+      "url": "https://www.cbc.ca/news/world/brazil-yanomami-health-emergency-1.6722007"
+    },
+    {
+      "title": "Brazil Declares Public Health Emergency for Yanomami People",
+      "url": "https://www.voanews.com/a/brazil-declares-public-health-emergency-for-yanomami-people/6928419.html"
+    },
+    {
+      "title": "Brazil: Lula declares public health emergency for Yanomami people in the Amazon",
+      "url": "https://www.lemonde.fr/en/international/article/2023/01/22/brazil-lula-declares-public-health-emergency-for-yanomami-people_6012537_4.html"
+    },
+    {
+      "title": "Brazil: Health emergency declared in Yanomami territory — MercoPress",
+      "url": "https://en.mercopress.com/2023/01/23/brazil-health-emergency-declared-in-yanomami-territory"
+    },
+    {
+      "title": "Government declares emergency in Yanomami territory - SUMAÚMA",
+      "url": "https://sumauma.com/en/governo-declara-situacao-de-emergencia-e-envia-forca-nacional-do-sus-ao-territorio-yanomami/"
+    }
+  ],
+  "response": "I'll search for the year when the Brazilian government declared a public health emergency in Yanomami territory.\n\nO governo brasileiro declarou emergência de saúde pública na terra Yanomami em **janeiro de 2023**. A decisão foi formalizada por decreto assinado pela então ministra da Saúde, Nísia Trindade, em 20 de janeiro de 2023. \n\nA medida foi tomada em resposta à grave crise humanitária que afetava o povo Yanomami, incluindo altos índices de desnutrição, malária e outras doenças, agravadas pela mineração ilegal na região. O presidente Luiz Inácio Lula da Silva visitou a área em 21 de janeiro para acompanhar a situação pessoalmente.\n\n### Contexto adicional:\n- A emergência permitiu contratações emergenciais de pessoal de saúde e a criação de um Centro de Operações de Emergência em Saúde Pública específico para os Yanomami.\n- A crise resultou em mais de 570 mortes de crianças por causas evitáveis nos 4 anos anteriores, segundo dados divulgados na época.",
+  "response_no_search": "O governo brasileiro declarou emergência de saúde pública na Terra Yanomami em **janeiro de 2023**, durante o governo do presidente Luiz Inácio Lula da Silva. A medida foi tomada devido a uma grave crise humanitária e sanitária, marcada por desnutrição, surtos de doenças como malária e contaminação por mercúrio, agravadas pela invasão de garimpeiros ilegais na região. A declaração visou mobilizar recursos para ações emergenciais de saúde, segurança alimentar e proteção do território indígena.",
+  "error": null
+}

@@ -1,0 +1,32 @@
+{
+  "question_id": "F-02-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por 4 a 1, STF condena Bolsonaro e mais sete pela trama golpista | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/por-4-1-stf-condena-bolsonaro-e-mais-sete-pela-trama-golpista"
+    },
+    {
+      "title": "STF concluiu julgamento de ações contra réus que planejaram golpe de Estado",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-concluiu-julgamento-de-acoes-contra-reus-que-planejaram-golpe-de-estado/"
+    },
+    {
+      "title": "Jair Bolsonaro é condenado a 27 anos e 3 meses de prisão em regime fechado",
+      "url": "https://www.andes.org.br/conteudos/noticia/jair-bolsonaro-e-condenado-a-27-anos-e-3-meses-de-prisao-em-regime-fechado1"
+    },
+    {
+      "title": "STF rejeita recurso e mantém condenação de Bolsonaro na trama golpista | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/stf-rejeita-recurso-e-mantem-condenacao-de-bolsonaro-na-trama-golpista"
+    }
+  ],
+  "response": "Sim! Bolsonaro foi condenado pelo STF. Aqui está um resumo completo do caso:\n\n---\n\n## ✅ Bolsonaro condenado pelo STF por tentativa de golpe de Estado\n\n### A condenação\n\nPor 4 votos a 1, a Primeira Turma do Supremo Tribunal Federal (STF) condenou o ex-presidente Jair Bolsonaro por tentativa de golpe de Estado e outros quatro crimes, sob acusação de liderar uma trama para permanecer no poder após as eleições de 2022.\n\nÉ a primeira vez na história do país que um ex-presidente é punido por esse crime.\n\n### Os crimes\n\nSeguindo o voto do relator, ministro Alexandre de Moraes, o colegiado entendeu que ele deve ser condenado pelos crimes de **organização criminosa armada**, **tentativa de abolição violenta do Estado Democrático de Direito**, **golpe de Estado**, **dano qualificado pela violência e grave ameaça** e **deterioração de patrimônio tombado**.\n\n### A pena\n\nA pena mais alta foi imposta ao ex-presidente da República Jair Bolsonaro: **27 anos e três meses de prisão**. O regime inicial é o **fechado**.\n\n### Os demais condenados\n\nA partir das denúncias apresentadas pela Procuradoria-Geral da República (PGR), foram julgados 31 réus, resultando em **29 condenações e duas absolvições**. Entre os principais condenados estão:\n\n- **Walter Braga Netto** (ex-ministro da Casa Civil e candidato a vice na chapa de Bolsonaro) – 26 anos de prisão – regime inicial fechado.\n- **Almir Garnier** (ex-comandante da Marinha) – 24 anos de prisão – regime inicial fechado.\n- **Anderson Torres** (ex-ministro da Justiça e da Segurança Pública) – 24 anos de prisão – regime inicial fechado.\n- **Augusto Heleno** (ex-ministro do Gabinete de Segurança Institucional) – 21 anos de prisão – regime inicial fechado.\n\n### Indenização e inelegibilidade\n\nTodos foram condenados a pagar, juntos, uma indenização de **R$ 30 milhões** por danos morais coletivos, que será revertida por danos à sociedade pelo ataque às instituições democráticas. Também foi determinada a **inelegibilidade de todos os condenados por oito anos** após o cumprimento das penas.\n\n### Recursos rejeitados\n\nPor unanimidade, a Primeira Turma do STF rejeitou os recursos do ex-presidente Jair Bolsonaro e de outros seis réus na trama golpista, mantendo a condenação do ex-presidente e dos demais integrantes do núcleo 1 da tentativa de golpe de Estado.\n\n### Situação atual\n\nAtualmente, ele cumpre **prisão domiciliar**, com uso de tornozeleira eletrônica, e está inelegível. ",
+  "response_no_search": "## Situação até meu conhecimento (início de 2025)\n\n**Não exatamente nesse formato.** Veja o que ocorreu:\n\n### O que aconteceu:\n- Em **novembro de 2024**, o STF (Supremo Tribunal Federal) **não condenou** Bolsonaro diretamente por \"tentativa de golpe\"\n- A **Polícia Federal** concluiu inquérito em novembro de 2024 **indiciando** Bolsonaro e outros por tentativa de golpe de Estado e abolição violenta do Estado Democrático de Direito\n- O caso foi enviado à **PGR (Procuradoria-Geral da República)** p",
+  "error": null
+}

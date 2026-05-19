@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the impeachment followed the constitutional process and mentions key steps, but it hedges by emphasizing the ongoing debate and controversies surrounding its legitimacy."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model confirms the impeachment followed the constitutional process and mentions key steps, but also extensively discusses controversies and debates surrounding its legitimacy, thus qualifying the correctness of the factual claim."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

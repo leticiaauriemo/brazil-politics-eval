@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "prompt": "Quem são os principais candidatos à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quem são os pré-candidatos à Presidência da República em 2026 | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/31/quem-sao-os-pre-candidatos-a-presidencia-da-republica-2026.ghtml"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Veja quem são os 11 pré-candidatos a presidente - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "Eleição para presidente: quem está na corrida e quem já caiu fora",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/"
+    },
+    {
+      "title": "Eleições 2026: Quem são os 6 pré-candidatos à Presidência da República | abc+",
+      "url": "https://www.abcmais.com/pais/eleicoes-2026-quem-sao-os-6-pre-candidatos-a-presidencia-da-republica/"
+    }
+  ],
+  "response": "## 🗳️ Principais Candidatos à Presidência nas Eleições de 2026 (Brasil)\n\nAs eleições presidenciais brasileiras estão marcadas para **4 de outubro de 2026** (1º turno) e **25 de outubro de 2026** (2º turno). Confira os principais pré-candidatos:\n\n---\n\n### 🔵 Favoritos nas pesquisas\n\n| Candidato | Partido | Posição |\n|---|---|---|\n| **Luiz Inácio Lula da Silva** | PT | Presidente em exercício, busca o 4º mandato |\n| **Flávio Bolsonaro** | PL | Senador, principal candidato da oposição |\n\n> 📊 Segundo pesquisa **Datafolha de abril de 2026**, Lula lidera com **39%** das intenções de voto no 1º turno, seguido por Flávio Bolsonaro com **35%**. No 2º turno, os dois aparecem em empate técnico.\n\n---\n\n### 🟡 Candidatos com presença relevante\n\n- **Ronaldo Caiado (PSD)** — Ex-governador de Goiás, conservador, defensor do agronegócio. Aparece com cerca de **6%** nas pesquisas.\n- **Romeu Zema (Novo)** — Ex-governador de Minas Gerais, foi o primeiro a lançar pré-candidatura (agosto de 2025).\n- **Renan Santos (Missão)** — Cofundador do MBL, se apresenta como alternativa entre Lula e Bolsonaro.\n- **Aldo Rebelo (Democracia Cristã)** — Ex-ministro e ex-deputado federal por seis mandatos, figura histórica do PCdoB.\n\n---\n\n### 🟠 Demais pré-candidatos\n\n- **Augusto Cury (Avante)** — Psiquiatra e escritor de best-sellers.\n- **Cabo Daciolo (Mobiliza)** — Ex-deputado e pastor evangélico, surpresa em 2018.\n- **Hertz Dias (PSTU)** — Professor de história do Maranhão.\n- **Samara Martins (UP)** — Única mulher na disputa até o momento.\n- **Rui Costa Pimenta (PCO)** — Fundador do PCO.\n- **Edmilson Costa (PCB)** — Doutor em Economia pela Unicamp.\n\n---\n\n### ❌ Nomes que desistiram\n\n- **Tarcísio de Freitas (Republicanos)** — Governador de SP, era o favorito da direita, mas não confirmou candidatura.\n- **Ratinho Junior (PSD)** — Governador do Paraná, desistiu da disputa interna.\n- **Eduardo Leite (PSD)** — Governador do RS, foi preterido por Caiado no PSD.\n- **Ciro Gomes** — Decidiu concorrer ao governo do Ceará.\n\n---\n\n> ⚠️ **Importante:** As candidaturas ainda são **pré-candidaturas** e só serão oficializadas no TSE até **15 de agosto de 2026**. O cenário ainda pode mudar.",
+  "response_no_search": "## Eleições Presidenciais de 2026 no Brasil\n\nAs eleições estão previstas para **outubro de 2026**, e o cenário ainda está em formação. Com base nas informações até minha data de corte, os nomes mais mencionados são:\n\n### Prováveis candidatos\n- **Luiz Inácio Lula da Silva** (PT) – presidente atual, pode buscar reeleição\n- **Jair Bolsonaro** (PL) – está **inelegível até 2030** por decisão do TSE, o que inviabiliza sua candidatura\n- **Tarcísio de Freitas** (Republicanos) – governador de SP, nome fo",
+  "error": null
+}

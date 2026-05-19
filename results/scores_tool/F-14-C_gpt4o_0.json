@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that state advertising payments occur in all governments but lacks the specific details about Bolsonaro's concentration and Lula 3's diversification mentioned in the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that state advertising occurs in all governments but lacks specific details about the Bolsonaro and Lula 3 patterns."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

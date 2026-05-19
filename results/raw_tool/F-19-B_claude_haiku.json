@@ -1,0 +1,56 @@
+{
+  "question_id": "F-19-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "prompt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Eleições 2026: quem são os 6 pré-candidatos à Presidência da República",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/eleicoes-2026-quem-sao-os-6-pre-candidatos-a-presidencia-da-republica,d12970024b607989a9597ccda6a68587w89q3q19.html"
+    },
+    {
+      "title": "Análise: Flávio é o principal nome da direita em 2026 pela visibilidade",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/analise-flavio-e-o-principal-nome-da-direita-em-2026-pela-visibilidade/"
+    },
+    {
+      "title": "Corrida pela Presidência da República tem 6 pré-candidatos confirmados - GPS Brasília - Portal de Notícias do DF",
+      "url": "https://gpsbrasilia.com.br/corrida-presidencia-6-pre-candidatos/"
+    },
+    {
+      "title": "Veja quem são os 11 pré-candidatos a presidente - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "Como está a corrida na direita para enfrentar Lula em 2026",
+      "url": "https://development.gazetadopovo.com.br/eleicoes/2026/quem-esta-na-frente-na-corrida-da-direita-para-enfrentar-lula/"
+    },
+    {
+      "title": "Maioria dos eleitores ainda não decidiu o candidato para as eleições de 2026",
+      "url": "https://cbn.globo.com/politica/noticia/2026/04/08/maioria-dos-eleitores-ainda-nao-decidiu-o-candidato-para-as-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Pesquisa aponta Flávio Bolsonaro como principal nome da direita para a Presidência em 2026 - GP1",
+      "url": "https://www.gp1.com.br/eleicoes-2026/noticia/2026/2/10/pesquisa-aponta-flavio-bolsonaro-como-principal-nome-da-direita-para-a-presidencia-em-2026-615312.html"
+    },
+    {
+      "title": "PSD mira centro-direita, mas Flávio lidera em pesquisa",
+      "url": "https://imirante.com/noticias/brasil/2026/01/31/ipolitica-psd-mira-centro-direita-mas-pesquisa-mostra-flavio-bolsonaro-em-vantagem"
+    },
+    {
+      "title": "Quaest mostra Flávio Bolsonaro à frente da direita no 1º turno, mas atrás de Lula em 2026 - A Crítica de Campo Grande",
+      "url": "https://www.acritica.net/editorias/politica/flavio-bolsonaro-leva-vantagem-sobre-tarcisio-e-outros-nomes-de-direit/863649/"
+    }
+  ],
+  "response": "Com base nas informações mais recentes sobre as eleições presidenciais de 2026, posso oferecer uma análise sobre o candidato mais forte da direita brasileira:\n\n## **Flávio Bolsonaro (PL)** é o candidato mais forte da direita\n\n**Flávio Bolsonaro**, senador pelo Rio de Janeiro e filho do ex-presidente Jair Bolsonaro, é atualmente o principal nome da direita para as eleições de 2026. Aqui estão os principais pontos:\n\n### **Vantagens de Flávio:**\n\n1. **Liderança nas pesquisas**: Aparece consistentemente em segundo lugar nas intenções de voto gerais (cerca de 35-37%), atrás apenas de Lula\n\n2. **Domínio entre eleitores de direita**: Concentra 61% das intenções de voto entre eleitores que se declaram de direita, segundo pesquisa Realtime Big Data\n\n3. **Visibilidade e herança política**: Beneficia-se do sobrenome Bolsonaro e da lealdade da base bolsonarista\n\n4. **Indicação oficial**: Foi escolhido pelo ex-presidente Jair Bolsonaro como candidato do PL em dezembro de 2025\n\n### **Principais concorrentes na direita:**\n\n- **Ronaldo Caiado (PSD)**: Ex-governador de Goiás, com cerca de 6% nas pesquisas\n- **Romeu Zema (Novo)**: Ex-governador de Minas Gerais, com cerca de 3%\n- **Tarcísio de Freitas (Republicanos)**: Governador de São Paulo, considerado por alguns como alternativa forte\n\n### **Desafios de Flávio:**\n\n- Ainda enfrenta rejeição significativa no eleitorado\n- Não possui o carisma do pai ou a contundência do irmão Eduardo\n- Tem casos controversos em sua trajetória que podem ser explorados\n- Enfrenta resistências no meio político e empresarial\n\nA campanha oficial começa em agosto de 2026, e ainda há tempo para mudanças no cenário político.",
+  "response_no_search": "# Cenário da direita em 2026\n\nÉ difícil apontar um \"mais forte\" com certeza, pois o cenário ainda está em formação. Os principais nomes mencionados são:\n\n**Tarcísio de Freitas** (Governador de SP)\n- Maior capital político atual\n- Forte base eleitoral em São Paulo\n- Apoio de setores conservadores\n\n**Romário** (Senador)\n- Crescimento recente em visibilidade\n- Apoio de parte da direita liberal\n\n**Outros potenciais candidatos**\n- Nomes do Republicanos, União Brasil e PL ainda em movimento\n\n## Fatore",
+  "error": null
+}

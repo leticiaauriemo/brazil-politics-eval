@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model correctly states the ineligibility until 2030 and the reason, but then incorrectly claims a 27-year prison sentence and further ineligibility until 2060, which is a significant factual error."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the ineligibility duration until 2030 but does not mention the specific reason related to the ambassadors meeting."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Daniel Vorcaro's arrests, the 'Operação Compliance Zero', and lists several key crimes from the ground truth, including corruption, money laundering, and criminal organization."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms that Daniel Vorcaro was arrested and involved in the Operation Compliance Zero, but it does not list all the key crimes he is charged with."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

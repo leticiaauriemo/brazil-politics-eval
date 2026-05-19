@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "prompt": "O governo Bolsonaro recusou ofertas de vacinas contra COVID-19 da Pfizer em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Veja as 9 ofertas da Pfizer que foram ignoradas pelo governo Bolsonaro - Estadão",
+      "url": "https://www.estadao.com.br/politica/veja-as-ofertas-da-pfizer-que-foram-ignoradas-pelo-governo-bolsonaro/"
+    },
+    {
+      "title": "Representante da Pfizer confirma: governo não respondeu ofertas ...",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/13/representante-da-pfizer-confirma-governo-nao-respondeu-ofertas-feitas-em-agosto-de-2020"
+    },
+    {
+      "title": "CPI da Covid: executivo da Pfizer confirma que governo Bolsonaro ...",
+      "url": "https://www.bbc.com/portuguese/brasil-57104347"
+    },
+    {
+      "title": "Após recusar ofertas da Pfizer, governo agora anuncia 14 milhões de doses da empresa até junho | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2021/03/08/bolsonaro-faz-videoconferencia-com-representantes-da-pfizer-para-tratar-de-compra-da-vacina-diz-ministro.ghtml"
+    },
+    {
+      "title": "Governo Bolsonaro rejeitou 70 milhões de doses da Pfizer, diz jornal - ISTOÉ Independente",
+      "url": "https://istoe.com.br/governo-bolsonaro-rejeitou-70-milhoes-de-doses-da-pfizer-diz-jornal"
+    }
+  ],
+  "response": "Sim, o governo Bolsonaro recusou diversas ofertas de vacinas contra COVID-19 da Pfizer em 2020.\n\nDe acordo com o ex-presidente da Pfizer no Brasil, Carlos Murillo, a farmacêutica fez nove ofertas ao governo brasileiro em 2020, em cinco datas diferentes, mas não obteve resposta. As propostas incluíam a entrega de milhões de doses, com algumas delas prevendo o início da entrega ainda em 2020.\n\nPor exemplo, em 14 de agosto de 2020, a Pfizer ofereceu 30 milhões ou 70 milhões de doses, com 500 mil doses para serem entregues em 2020. Em 18 e 26 de agosto, novas ofertas foram feitas, incluindo a possibilidade de 1,5 milhão de doses para serem entregues em 2020.\n\nO governo brasileiro não aceitou nem rejeitou formalmente essas ofertas, e o prazo de validade de algumas delas expirou. Apenas em março de 2021, após a pandemia atingir um pico no Brasil, o governo Bolsonaro fechou um contrato com a Pfizer para a compra de 100 milhões de doses.\n\nA recusa das ofertas em 2020 resultou em um atraso na chegada das vacinas da Pfizer ao Brasil, que poderiam ter começado a ser entregues em dezembro de 2020.",
+  "response_no_search": "Sim, o governo Bolsonaro recusou ofertas de vacinas contra COVID-19 da Pfizer em 2020.\n\nHouve diversas reportagens e investigações que detalharam as recusas e a demora na negociação. A Pfizer fez várias ofertas ao governo brasileiro a partir de agosto de 2020, com condições e prazos que foram ignorados ou não respondidos de forma efetiva.\n\nAlguns pontos importantes sobre essa recusa:\n\n*   **Múltiplas ofertas:** A Pfizer enviou diversas propostas de venda de milhões de doses de sua vacina ao Bras",
+  "error": null
+}

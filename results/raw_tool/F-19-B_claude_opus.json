@@ -1,0 +1,24 @@
+{
+  "question_id": "F-19-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "prompt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Eleição presidencial no Brasil em 2026 – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026"
+    },
+    {
+      "title": "O que dizem as primeiras pesquisas de 2026 para presidente",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/o-que-dizem-as-primeiras-pesquisas-de-2026-para-presidente/"
+    }
+  ],
+  "response": "# O candidato mais forte da direita brasileira para 2026\n\nCom base nas pesquisas eleitorais mais recentes (de janeiro de 2026), o nome que se destaca como o **principal candidato da direita** é o **senador Flávio Bolsonaro (PL)**.\n\n## Por que Flávio Bolsonaro lidera\n\nCom a inelegibilidade do pai, Jair Bolsonaro foi condenado pelo Supremo Tribunal Federal, ficou inelegível para disputar eleições até 2030 e cumpre pena de prisão. Impossibilitado de concorrer à eleição, declarou apoio à candidatura de seu filho, o senador Flávio Bolsonaro.\n\nA entrada de Flávio Bolsonaro na corrida presidencial ganhou tração rapidamente. Pegando para si o espólio político do pai, conseguiu largar muito próximo de Lula, chegando a empatar tecnicamente no primeiro turno pelo levantamento do 100% Cidades/Futura.\n\nCinco institutos divulgaram, em janeiro, pesquisas para presidente nas eleições de 2026: Meio/Ideia, Quaest, AtlasIntel, 100% Cidades/Futura e Paraná Pesquisas. E os levantamentos apontam que Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) são, no momento, os favoritos na corrida.\n\n### Cenários de segundo turno (janeiro de 2026)\n\nSimulações de segundo turno entre Lula e Flávio Bolsonaro em janeiro: Meio/Idea: Lula tem 46,2% e Flávio Bolsonaro soma 36%; Quaest: Lula vai a 44%, enquanto Flávio chega a 38%; Paraná Pesquisas: Lula chega a 44,8%, contra 42,2% de Flávio — empate técnico na margem de erro de 2,2 pontos percentuais.\n\nEm um dos cenários da Quaest, na comparação entre dezembro de 2025 e janeiro de 2026, Flávio avançou de 5 pontos percentuais (23% para 28%), enquanto Lula oscilou para baixo, no limite da margem de erro (39% para 37%).\n\n## A força de Flávio depende da unificação da direita\n\nA pré-candidatura de Flávio Bolsonaro fica mais forte quando há um número menor de candidatos de direita nos cenários feitos pelos institutos de pesquisas. No geral, os votos que estariam diluídos com outros nomes, como Tarcísio de Freitas (Republicanos), Rat",
+  "response_no_search": "Não há uma resposta definitiva para essa pergunta, pois o cenário político brasileiro para 2026 ainda está em construção e depende de muitas variáveis. Posso apresentar os nomes mais comentados:\n\n**Principais nomes da direita/centro-direita cogitados:**\n\n- **Jair Bolsonaro (PL)**: Apesar de inelegível até 2030 pela decisão do TSE, segue como liderança influente do campo. Pode tentar reverter a inelegibilidade ou apoiar um nome.\n\n- **Tarcísio de Freitas (Republicanos)**: Governador de SP, frequen",
+  "error": null
+}

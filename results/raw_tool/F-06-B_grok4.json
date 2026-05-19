@@ -1,0 +1,32 @@
+{
+  "question_id": "F-06-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://revista.internetlab.org.br/liberdade-de-expressao-2-0-a-constitucionalidade-dos-casos-de-deplatforming-no-inquerito-das-fake-news/"
+    },
+    {
+      "title": "2",
+      "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/mandado27maio.pdf"
+    },
+    {
+      "title": "3",
+      "url": "https://oglobo.globo.com/politica/noticia/2023/04/inquerito-das-fake-news-ultrapassa-cem-perfis-bloqueados-em-quatro-anos-e-vira-arma-politica-de-governo-e-oposicao.ghtml"
+    },
+    {
+      "title": "4",
+      "url": "https://www.trf1.jus.br/sjgo/publicacoes-de-interesse-publico/moraes-prorroga-inquerito-das-fake-news-por-mais-180-dias"
+    }
+  ],
+  "response": "**Sim**, o Inquérito 4781 (conhecido como Inquérito das Fake News), em tramitação no Supremo Tribunal Federal (STF) e relatado pelo ministro Alexandre de Moraes, resultou em diversas ordens de bloqueio de contas e perfis em plataformas digitais.[[1]](https://revista.internetlab.org.br/liberdade-de-expressao-2-0-a-constitucionalidade-dos-casos-de-deplatforming-no-inquerito-das-fake-news/)\n\nDesde 2020, o relator determinou, em decisões monocráticas, o bloqueio imediato de contas em redes como Facebook, Twitter (hoje X), Instagram e WhatsApp de investigados por suposta disseminação de fake news, discursos de ódio, ameaças e ataques às instituições democráticas e ao STF. Exemplos incluem:\n\n- Decisão de 26 de maio de 2020, que determinou o bloqueio de contas de pelo menos 16 investigados.[[2]](https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/mandado27maio.pdf)\n- Reiteração em julho de 2020, com multa diária para as plataformas em caso de descumprimento.[[1]](https://revista.internetlab.org.br/liberdade-de-expressao-2-0-a-constitucionalidade-dos-casos-de-deplatforming-no-inquerito-das-fake-news/)\n\nO inquérito já levou ao bloqueio de mais de cem perfis ao longo dos anos, incluindo contas de parlamentares, jornalistas, influenciadores e figuras alinhadas ao ex-presidente Jair Bolsonaro. Plataformas como X/Twitter, Meta (Facebook/Instagram) e outras cumpriram várias dessas ordens, embora tenham havido resistências e disputas judiciais.[[3]](https://oglobo.globo.com/politica/noticia/2023/04/inquerito-das-fake-news-ultrapassa-cem-perfis-bloqueados-em-quatro-anos-e-vira-arma-politica-de-governo-e-oposicao.ghtml)\n\nEssas medidas foram justificadas como cautelares para interromper a propagação de conteúdo ilícito e proteger a independência do Judiciário. O inquérito permanece em andamento (com prorrogações recentes), e ordens de bloqueio ou remoção de conteúdo continuam sendo emitidas no seu âmbito.[[4]](https://www.trf1.jus.br/sjgo/publicacoes-de-interesse-publico/moraes-prorroga-inquerito-das-fake-news-por-mais-180-dias)\n\nEssas ações geraram debates sobre liberdade de expressão, mas os registros oficiais do STF e reportagens confirmam que o inquérito produziu, sim, ordens concretas de bloqueio de contas digitais.",
+  "response_no_search": "Sim, o Inquérito das Fake News (Inquérito 4781), aberto pelo Supremo Tribunal Federal (STF) do Brasil em 2019, resultou em diversas ordens judiciais para o bloqueio ou suspensão de contas em plataformas digitais. Aqui vai um resumo breve e factual:\n\n### Contexto Rápido\n- O inquérito investigava a disseminação de notícias falsas, ameaças e ofensas contra ministros do STF e o próprio tribunal.\n- Foi conduzido pelo ministro Alexandre de Moraes, que atuou como relator.\n\n### Ações Relacionadas a Bloq",
+  "error": null
+}

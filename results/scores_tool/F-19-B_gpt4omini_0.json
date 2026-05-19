@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio de Freitas is a strong candidate for president in 2026, despite acknowledging his intention to seek re-election in São Paulo, and then incorrectly claims that 'a legislação eleitoral impede sua candidatura ao Planalto neste momento' (electoral law prevents his candidacy for the Planalto at this moment), which is false as he could run if he chose to."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly presents Tarcísio de Freitas as a current candidate for the presidency, despite mentioning his intention to seek reeleção in São Paulo, and does not accurately convey that he chose not to run for president."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

@@ -1,0 +1,28 @@
+{
+  "question_id": "F-10-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "PF encerra força-tarefa da Operação Lava Jato - 06/07/2017 - UOL Notícias",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/ansa/2017/07/06/pf-encerra-forca-tarefa-da-operacao-lava-jato.htm?utm_source=openai"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato de Curitiba é encerrada e absorvida pelo Gaeco - 03/02/2021 - UOL Notícias",
+      "url": "https://noticias.uol.com.br/colunas/reinaldo-azevedo/2021/02/03/forca-tarefa-da-lava-jato-de-curitiba-e-encerrada-e-absorvida-pelo-gaeco.htm?utm_source=openai"
+    },
+    {
+      "title": "Lava Jato: Entenda o que ainda resta nos tribunais - 20/02/2023 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2023/02/collor-e-dirceu-ainda-podem-ser-presos-pela-lava-jato-veja-o-que-resta-da-operacao.shtml?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se a força‑tarefa da Operação Lava Jato ainda está ativa ou se foi encerrada. A resposta é que **a força‑tarefa foi oficialmente encerrada**, embora os desdobramentos da operação ainda tramitem no Judiciário.\n\n---\n\n##  Encerramento da força‑tarefa\n\n- A **Polícia Federal (PF)** encerrou o grupo de trabalho exclusivo da Lava Jato em **julho de 2017**, integrando seus membros à Delegacia de Combate à Corrupção e Desvio de Verbas Públicas (Delecor) ([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/ansa/2017/07/06/pf-encerra-forca-tarefa-da-operacao-lava-jato.htm?utm_source=openai)).\n\n- No âmbito do **Ministério Público Federal (MPF)**, a força‑tarefa de Curitiba foi oficialmente extinta em **fevereiro de 2021**, com parte de seus integrantes sendo absorvida pelo **Gaeco (Grupo de Atuação Especial de Combate ao Crime Organizado)** ([noticias.uol.com.br](https://noticias.uol.com.br/colunas/reinaldo-azevedo/2021/02/03/forca-tarefa-da-lava-jato-de-curitiba-e-encerrada-e-absorvida-pelo-gaeco.htm?utm_source=openai)).\n\n---\n\n##  Situação atual da Lava Jato\n\n- Embora a força‑tarefa tenha sido desfeita, **os processos e investigações continuam em andamento** no Judiciário. Muitos casos ainda tramitam em instâncias como o STF e tribunais estaduais ([www1.folha.uol.com.br](https://www1.folha.uol.com.br/poder/2023/02/collor-e-dirceu-ainda-podem-ser-presos-pela-lava-jato-veja-o-que-resta-da-operacao.shtml?utm_source=openai)).\n\n- A Folha de S.Paulo, em fevereiro de 2023, destacou que, apesar do fim da força‑tarefa, **a Lava Jato não foi encerrada judicialmente** e ainda há desdobramentos ativos, inclusive com ações sendo remetidas à Justiça Eleitoral ([www1.folha.uol.com.br](https://www1.folha.uol.com.br/poder/2023/02/collor-e-dirceu-ainda-podem-ser-presos-pela-lava-jato-veja-o-que-resta-da-operacao.shtml?utm_source=openai)).\n\n---\n\n##  Resumo\n\n- A força‑tarefa da Lava Jato foi **encerrada**:\n  - Pela PF em **julho de 2017**.\n  - Pelo MPF em **fevereiro de 2021**.\n\n- No entanto, **as investigações e processos continuam ativos** no sistema judicial, com desdobramentos ainda em curso.\n\nSe quiser, posso detalhar quais casos ainda estão em andamento ou em que instâncias eles se encontram.",
+  "response_no_search": "A força-tarefa da Operação Lava Jato **foi encerrada**. A atuação da força-tarefa em Curitiba, que era o principal núcleo da operação, foi oficialmente encerrada em **fevereiro de 2021** pelo Ministério Público Federal (MPF). Os processos e investigações remanescentes foram incorporados ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do MPF no Paraná.\n\nPortanto, **a força-tarefa como estrutura independente não está mais ativa**, embora investigações e processos relacionados à",
+  "error": null
+}

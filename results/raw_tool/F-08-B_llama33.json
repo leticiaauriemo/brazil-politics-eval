@@ -1,0 +1,36 @@
+{
+  "question_id": "F-08-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "prompt": "Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Partido de Tarcísio, Republicanos aposta em governador para o Planalto mesmo com pressão de Bolsonaro",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/05/19/partido-de-tarcisio-republicanos-aposta-em-governador-para-o-planalto-mesmo-com-pressao-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "O prazo que aumenta a pressão da direita contra Lula | VEJA",
+      "url": "https://veja.abril.com.br/politica/o-prazo-que-aumenta-a-pressao-da-direita-contra-lula/"
+    },
+    {
+      "title": "Tarcísio vai de favorito do Centrão a plano B para o Planalto",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto.ghtml"
+    },
+    {
+      "title": "Eleições 2026: Especialista alerta sobre prazos e regras cruciais para candidatos - oXarope",
+      "url": "https://www.oxarope.com/eleicoes-2026-especialista-alerta-sobre-prazos-e-regras-cruciais-para-candidatos/"
+    },
+    {
+      "title": "Candidatura à Presidência da República: Tarcísio de Freitas não aceitaria substituir Bolsonaro de última hora - TV Pampa",
+      "url": "https://www.tvpampa.com.br/candidatura-a-presidencia-da-republica-tarcisio-de-freitas-nao-aceitaria-substituir-bolsonaro-de-ultima-hora/"
+    }
+  ],
+  "response": "Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026. O prazo para desincompatibilização era até 4 de abril de 2026, e Tarcísio não deixou o cargo de governador de São Paulo, o que significa que ele não pode concorrer à presidência.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, Tarcísio de Freitas, que é um político brasileiro e foi ministro da Infraestrutura no governo de Jair Bolsonaro, não havia oficialmente anunciado sua candidatura à presidência para as eleições de 2026. No entanto, é importante entender que o prazo para registro de candidatura é definido pela legislação eleitoral brasileira e varia de eleição para eleição.\n\nNo Brasil, o registro de candidatura deve ser feito até 15 de agosto do ano eleitoral",
+  "error": null
+}

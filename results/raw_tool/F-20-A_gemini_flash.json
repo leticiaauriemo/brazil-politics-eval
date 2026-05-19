@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations"
+    },
+    {
+      "title": "COVID-19 Data Explorer - Our World in Data",
+      "url": "https://ourworldindata.org/explorers/coronavirus-data-explorer?tab=map&zoomToSelection=true&facet=none&pickerSort=asc&pickerMetric=location&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false&Metric=People+vaccinated"
+    },
+    {
+      "title": "COVID-19 vaccine doses administered by country worldwide 2023| Statista",
+      "url": "https://www.statista.com/statistics/1194934/number-of-covid-vaccine-doses-administered-by-county-worldwide/?__sso_cookie_checker=failed"
+    },
+    {
+      "title": "COVID Vaccines by Country 2026",
+      "url": "https://worldpopulationreview.com/country-rankings/covid-vaccines-by-country"
+    },
+    {
+      "title": "China supera EUA e se torna o país com mais vacinas contra Covid aplicadas | G1",
+      "url": "https://g1.globo.com/mundo/noticia/2021/04/29/china-supera-eua-e-se-torna-o-pais-com-mais-vacinas-contra-covid-aplicadas.ghtml"
+    }
+  ],
+  "response": "Sim, o Brasil esteve entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo.\n\nDe acordo com dados da Statista, o Brasil aplicou 485.279.135 doses, ficando atrás apenas da China (3.491.077.000), Índia (2.206.407.392) e Estados Unidos (672.076.105).\n\nOutra fonte, a World Population Review, também coloca o Brasil em 4º lugar, com 515,8 milhões de doses, atrás de China, Índia e Estados Unidos.\n\nEm abril de 2021, o Brasil ocupava a 5ª posição, com 40,5 milhões de doses aplicadas, segundo o G1, citando dados do Our World in Data.",
+  "response_no_search": "Sim, o Brasil esteve entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo.\n\nAo longo da campanha de vacinação, o Brasil se destacou por ter um dos maiores programas de imunização em massa, aplicando centenas de milhões de doses. Embora a posição exata no ranking pudesse variar diariamente ou semanalmente, o país consistentemente figurou entre os primeiros, geralmente atrás de nações como China, Índia e Estados Unidos, que possuem populações significativame",
+  "error": null
+}

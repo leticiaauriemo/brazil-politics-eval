@@ -1,0 +1,28 @@
+{
+  "question_id": "F-02-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ex-presidente-bolsonaro-apresenta-revisao-criminal-contra-condenacao-por-tentativa-de-golpe-de-estado/"
+    },
+    {
+      "title": "2",
+      "url": "https://www.bbc.com/portuguese/articles/cy859egpl6jo"
+    },
+    {
+      "title": "3",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/bolsonaro-entra-com-revisao-criminal-no-stf-para-anular-condenacao"
+    }
+  ],
+  "response": "**Sim, Jair Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado (entre outros crimes).**[[1]](https://noticias.stf.jus.br/postsnoticias/ex-presidente-bolsonaro-apresenta-revisao-criminal-contra-condenacao-por-tentativa-de-golpe-de-estado/)\n\nEm 11 de setembro de 2025, a Primeira Turma do Supremo Tribunal Federal condenou o ex-presidente a **27 anos e 3 meses de prisão** pelos seguintes crimes:\n\n- Organização criminosa armada\n- Tentativa de abolição violenta do Estado Democrático de Direito\n- **Golpe de Estado**\n- Dano qualificado ao patrimônio público\n- Deterioração de patrimônio tombado\n\nA condenação foi por maioria de votos (4 a 1) e transitou em julgado (tornou-se definitiva) em novembro de 2025, quando Bolsonaro começou a cumprir a pena em regime fechado.[[2]](https://www.bbc.com/portuguese/articles/cy859egpl6jo)\n\nEm maio de 2026, a defesa de Bolsonaro protocolou um pedido de **revisão criminal** no STF para tentar anular a condenação, mas até o momento ela permanece válida e em execução.[[3]](https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/bolsonaro-entra-com-revisao-criminal-no-stf-para-anular-condenacao)\n\nEssa é a primeira vez na história do Brasil que um ex-presidente é condenado por golpe de Estado.",
+  "response_no_search": "Não, Jair Bolsonaro não foi condenado pelo Supremo Tribunal Federal (STF) por tentativa de golpe de Estado. Vou explicar o contexto de forma clara e factual, com base em informações públicas disponíveis até o momento (meu conhecimento vai até 2023, e eventos posteriores podem ter ocorrido; recomendo verificar fontes atualizadas como o site do STF ou veículos de imprensa confiáveis).\n\n### Contexto Principal:\n- **Investigações em Andamento**: Bolsonaro é investigado pelo STF em inquéritos relacion",
+  "error": null
+}

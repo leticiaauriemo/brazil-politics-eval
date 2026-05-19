@@ -1,0 +1,25 @@
+{
+  "question_id": "F-12-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the invasion and vandalism of all three key locations (Congresso Nacional, Palácio do Planalto, and STF) and mentions 'danos significativos a esses edifícios e ao patrimônio público', aligning with the ground truth's details about damage."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the invasion and vandalism of all three locations, mentioning significant damage to public property."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

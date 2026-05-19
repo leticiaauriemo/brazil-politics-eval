@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that state advertising occurs in all governments but lacks details about the specific patterns of Bolsonaro and Lula 3."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the payment of state advertising to private vehicles is a common practice in all governments, but lacks details about the Bolsonaro and Lula 3 patterns."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

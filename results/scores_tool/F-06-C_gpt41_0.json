@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly explains that a single STF justice can issue monocratic orders for social media suspensions, citing Alexandre de Moraes as an example, and acknowledges the legal basis and the possibility of review by the full court."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that a minister of the STF can issue monocratic orders, cites legal foundations, and provides specific examples, including the controversial nature of such actions."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

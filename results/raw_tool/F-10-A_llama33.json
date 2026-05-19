@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lava Jato: como ficam as forças-tarefas do Rio e de São Paulo",
+      "url": "https://www.gazetadopovo.com.br/republica/lava-jato-do-rio-e-de-sao-paulo-como-ficam-apos-fim-da-forca-tarefa-do-parana/"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná é extinta após quase 6 anos",
+      "url": "https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html"
+    },
+    {
+      "title": "Lava Jato do Rio: força-tarefa é desmontada e chega ao fim",
+      "url": "https://www.gazetadopovo.com.br/republica/lava-jato-rio-de-janeiro-forca-tarefa-chega-ao-fim/"
+    },
+    {
+      "title": "Após cinco anos e 55 operações, Lava Jato do Rio também chega ao fim como força isolada - Estadão",
+      "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/apos-cinco-anos-e-55-operacoes-lava-jato-do-rio-tambem-chega-ao-fim-como-forca-isolada/"
+    },
+    {
+      "title": "Após sete anos e 79 operações, Lava Jato em Curitiba chega ao fim como força isolada e passa a integrar grupo anticrime organizado - Estadão",
+      "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/apos-sete-anos-e-79-operacoes-lava-jato-em-curitiba-chega-ao-fim-como-forca-isolada-e-passa-a-integrar-grupo-anticrime-organizado/"
+    }
+  ],
+  "response": "A força-tarefa da Operação Lava Jato no Paraná foi dissolvida pelo Ministério Público Federal (MPF) em fevereiro de 2021, após quase 6 anos de atividade. A força-tarefa da Lava Jato do Rio de Janeiro também foi desmontada e chegou ao fim em março de 2021, após quase 5 anos de trabalho. A força-tarefa da Lava Jato de São Paulo não tem mais uma equipe trabalhando desde 30 de setembro de 2020. As investigações no Rio passam a ser conduzidas pelo Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), com estrutura reduzida.",
+  "response_no_search": "A força-tarefa da operação Lava Jato foi encerrada em 2021.",
+  "error": null
+}

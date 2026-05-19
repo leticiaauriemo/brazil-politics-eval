@@ -1,0 +1,28 @@
+{
+  "question_id": "F-02-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Jair Bolsonaro é condenado a 27 anos e 3 meses de prisão em regime fechado",
+      "url": "https://www.andes.org.br/conteudos/noticia/jair-bolsonaro-e-condenado-a-27-anos-e-3-meses-de-prisao-em-regime-fechado1"
+    },
+    {
+      "title": "STF fixa penas de 16 a 27 anos para condenados por tentativa de golpe de Estado",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/"
+    },
+    {
+      "title": "Por unanimidade, STF mantém condenação de Bolsonaro e aliados | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/por-unanimidade-stf-mantem-condenacao-de-bolsonaro-e-aliados"
+    }
+  ],
+  "response": "# Condenação de Jair Bolsonaro pelo STF em 2025\n\nA Primeira Turma do Supremo Tribunal Federal (STF) condenou, em 11 de setembro de 2025, o ex-presidente Jair Bolsonaro por participação em uma tentativa de golpe de Estado, entre outros crimes, impondo pena de 27 anos e 3 meses de prisão em regime inicial fechado.\n\n## Detalhes da pena\n\nA sanção total foi fixada em 27 anos e três meses de pena privativa de liberdade em regime inicial fechado e 124 dias-multa (cada dia-multa no valor de dois salários mínimos à época dos fatos).\n\nBolsonaro foi considerado o líder da organização criminosa, recebendo a pena mais alta entre os oito réus do chamado \"Núcleo 1\" da trama golpista. Esta foi a primeira vez que um ex-presidente eleito foi colocado no banco dos réus por crimes contra o Estado Democrático de Direito estabelecidos pela Constituição Federal de 1988.\n\n## Crimes pelos quais foi condenado\n\nBolsonaro e sete aliados foram considerados integrantes do \"núcleo crucial\" da trama e também foram condenados por crimes como tentativa de abolição violenta do Estado Democrático de Direito, organização criminosa armada, dano qualificado e deterioração de patrimônio tombado.\n\n## Penas adicionais\n\n- Todos foram condenados a pagar, de forma solidária, uma indenização de R$ 30 milhões por danos morais coletivos. O valor foi imposto a todos os condenados por envolvimento nos atos de 8 de janeiro de 2023.\n- Também foi determinada a inelegibilidade de todos os condenados por oito anos após o cumprimento das penas.\n- O STF também decidiu que o Superior Tribunal Militar (STM) será oficiado para analisar a Declaração de Indignidade para o Oficialato de Bolsonaro, Augusto Heleno, Paulo Sérgio e Almir Garnier, o que pode resultar na perda de posto e patente militar.\n\n## Votação e recursos\n\nA condenação de Bolsonaro se formou por maioria na Primeira Turma, com voto contrário apenas do ministro Luiz Fux, com placar final de 4 a 1.\n\nPosteriormente, por unanimidade, os ministros da Primeira Turma do STF decidiram manter a condenação do ex-presidente e mais se",
+  "response_no_search": "Em 11 de setembro de 2025, o Supremo Tribunal Federal condenou o ex-presidente Jair Bolsonaro a **27 anos e 3 meses de prisão**, em regime inicialmente fechado.\n\nA condenação ocorreu no julgamento da Primeira Turma do STF, que considerou Bolsonaro culpado pelos seguintes crimes relacionados à trama golpista após as eleições de 2022:\n\n- Tentativa de abolição violenta do Estado Democrático de Direito\n- Golpe de Estado\n- Organização criminosa armada\n- Dano qualificado pela violência e grave ameaça ",
+  "error": null
+}

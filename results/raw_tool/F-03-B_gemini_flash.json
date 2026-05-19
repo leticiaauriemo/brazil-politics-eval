@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Decisão no TSE: Bolsonaro está inelegível por oito anos | DIARINHO",
+      "url": "https://diarinho.net/materia/644939/Decisao-no-TSE--Bolsonaro-esta-inelegivel-por-oito-anos--"
+    },
+    {
+      "title": "Clica e Confirma destaca decisão do TSE que declarou a inelegibilidade, por 8 anos, do ex-presidente Jair Bolsonaro — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/clica-e-confirma-destaca-decisao-do-tse-que-declarou-a-inelegibilidade-por-8-anos-do-ex-presidente-jair-bolsonaro"
+    },
+    {
+      "title": "TSE publica decisão que tornou Bolsonaro inelegível por oito anos | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-08/tse-publica-decisao-que-tornou-bolsonaro-inelegivel-por-oito-anos"
+    },
+    {
+      "title": "Sessão 30.06.2023 - Por maioria dos votos, TSE declara Bolsonaro inelegível por 8 anos — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/radio/2023/Junho/sessao-30-06-2023-por-maioria-dos-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    }
+  ],
+  "response": "O Tribunal Superior Eleitoral (TSE) declarou Jair Bolsonaro inelegível por oito anos, contados a partir das Eleições de 2022. Isso significa que a proibição de disputar eleições terminará em 2 de outubro de 2030, quatro dias antes do primeiro turno previsto para 6 de outubro daquele ano.",
+  "response_no_search": "O Tribunal Superior Eleitoral (TSE) declarou Jair Bolsonaro inelegível por **oito anos**, a contar da eleição de 2022.\n\nIsso significa que ele não poderá se candidatar a nenhum cargo eletivo até as eleições de **2030**.\n\nA decisão foi tomada em 30 de junho de 2023, no julgamento de uma Ação de Investigação Judicial Eleitoral (AIJE) que o acusava de abuso de poder político e uso indevido dos meios de comunicação. A ação se baseou em uma reunião que Bolsonaro realizou com embaixadores estrangeiros",
+  "error": null
+}

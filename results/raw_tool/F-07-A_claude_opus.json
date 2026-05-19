@@ -1,0 +1,32 @@
+{
+  "question_id": "F-07-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bloqueio do X no Brasil – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil"
+    },
+    {
+      "title": "Por que o X (Twitter) foi suspenso do Brasil? Tudo o que você precisa saber",
+      "url": "https://www.techtudo.com.br/guia/2024/09/por-que-o-x-twitter-foi-suspenso-do-brasil-tudo-o-que-voce-precisa-saber-edsoftwares.ghtml"
+    },
+    {
+      "title": "X é bloqueado no Brasil após Musk descumprir decisão de Moraes | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/x-e-bloqueado-no-brasil-apos-musk-descumprir-decisao-de-moraes"
+    },
+    {
+      "title": "X/Twitter é liberado no Brasil e acesso deve voltar em questão de horas • Tecnoblog",
+      "url": "https://tecnoblog.net/noticias/moraes-libera-volta-do-x-twitter-ao-brasil/"
+    }
+  ],
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024. Veja o resumo do que aconteceu:\n\n## A decisão de bloqueio\n\nO bloqueio do X (antigo Twitter) no Brasil refere-se à suspensão imediata, completa e integral do funcionamento da X Brasil Internet Ltda. e outras empresas relacionadas ao Elon Musk no país, determinada em 30 de agosto de 2024 pelo ministro do Supremo Tribunal Federal, Alexandre de Moraes, relator do mandado de intimação.\n\nA decisão judicial foi tomada após a empresa, pertencente a Elon Musk, ter descontinuado as suas operações no Brasil e ter desobedecido várias ordens judiciais, ao não ter nomeado um representante legal dentro do prazo estipulado pelo ministro, que havia intimado o empresário por meio de uma postagem na própria plataforma.\n\n## Contexto do conflito\n\nA batalha começou após Elon Musk se recusar a bloquear perfis a pedido da justiça e, posteriormente, deixar a rede sem representante legal no Brasil. No dia 17 de agosto, Musk anunciou o fechamento da sede da empresa no Brasil e acusou Moraes de ameaça. O anúncio foi feito após sucessivos descumprimentos de determinações do ministro. Entre elas, a que determinou o bloqueio do perfil do senador Marcos do Val (Podemos-ES) e de outros investigados.\n\n## Execução do bloqueio\n\nA Agência Nacional de Telecomunicações (Anatel) informou que foi intimada pelo STF sobre a decisão pela suspensão do funcionamento do X. A Associação Brasileira de Provedores de Internet e Telecomunicações (Abrint) também confirmou que suas associadas, empresas prestadoras de serviços de comunicação multimídia, receberam a notificação sobre o bloqueio.\n\nO ministro também estipulou uma multa diária de R$ 50 mil para quem usasse qualquer subterfúgio tecnológico para acessar a rede social. A princípio, a decisão exigia que lojas de aplicativos, como Google Play Store e App Store, criassem barreiras para dificultar o uso de VPNs, mas ele voltou atrás e removeu esse trecho.\n\n## Bloqueio da Starlink\n\nAs contas bancárias da Starlink, provedora de internet via satélite da SpaceX, também de Elon Musk, foram bloqueadas, como for",
+  "response_no_search": "Sim. O X (antigo Twitter) foi bloqueado no Brasil em 30 de agosto de 2024, por determinação do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).\n\n**Principais motivos do bloqueio:**\n\n- A plataforma descumpriu ordens judiciais para remover contas acusadas de disseminar desinformação e discurso de ódio.\n- O X fechou seu escritório no Brasil em agosto de 2024 e ficou sem representante legal no país, o que é exigido pela legislação brasileira.\n- Houve descumprimento de prazos para ind",
+  "error": null
+}

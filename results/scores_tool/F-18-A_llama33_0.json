@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Daniel Vorcaro's arrest in the Compliance Zero operation and some of the crimes, but only mentions one arrest and omits the second arrest date and some of the specific crimes from the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms one arrest but does not mention the second arrest or the specific crimes listed in the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

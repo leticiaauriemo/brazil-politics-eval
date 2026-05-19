@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Bolsonaro government and the 2019 EC 103 as establishing the first minimum age for retirement, providing specific and accurate details."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies the constitutional amendment, its approval year, the government under which it was enacted, and clearly states the minimum age requirements for retirement."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

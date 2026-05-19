@@ -1,0 +1,24 @@
+{
+  "question_id": "F-22-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "prompt": "Qual é a relação de parentesco entre Flávio e Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    },
+    {
+      "title": "2",
+      "url": "https://en.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    }
+  ],
+  "response": "**Flávio Bolsonaro é filho de Jair Bolsonaro.** \n\nEle é o filho mais velho do ex-presidente brasileiro Jair Bolsonaro, fruto do primeiro casamento de Jair com Rogéria Nantes Braga. Flávio tem dois irmãos do mesmo casamento (Carlos e Eduardo) e meio-irmãos de outros relacionamentos de Jair.[[1]](https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro)[[2]](https://en.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro)\n\nEssa relação de parentesco (pai e filho) é amplamente documentada em fontes biográficas e noticiosas sobre a família Bolsonaro.",
+  "response_no_search": "Flávio Bolsonaro é o filho mais velho de Jair Bolsonaro. Portanto, a relação de parentesco entre eles é de pai e filho. Flávio é um dos filhos de Jair com sua primeira esposa, Rogéria Braga.",
+  "error": null
+}

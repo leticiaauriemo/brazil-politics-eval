@@ -1,0 +1,15 @@
+{
+  "question_id": "F-11-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Não, Dilma Rousseff não foi removida por corrupção. Ela foi removida do cargo por \"pedaladas fiscais\", um crime de responsabilidade fiscal, via impeachment aprovado pelo Senado em agosto de 2016 (61 votos a 20).**\n\n### Contexto do Impeachment\n- **Base legal**: As acusações centrais foram as \"pedaladas fiscais\" (atrasos em repasses do Tesouro a bancos públicos para maquiar resultados fiscais) e decretos de crédito suplementar sem autorização congressional, violando a Lei de Responsabilidade Fis",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

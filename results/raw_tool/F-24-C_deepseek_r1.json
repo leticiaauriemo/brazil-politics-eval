@@ -1,0 +1,15 @@
+{
+  "question_id": "F-24-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "prompt": "Lula foi eleito presidente em quais anos?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Luiz Inácio Lula da Silva foi eleito Presidente do Brasil nos seguintes anos:\n\n1.  **2002:** Eleito para seu primeiro mandato (2003-2007).\n2.  **2006:** Reeleito para seu segundo mandato (2007-2011).\n3.  **2022:** Eleito para seu terceiro mandato (2023-2027).\n\n**Resumo dos mandatos:**\n*   **1º Mandato:** Eleito em **2002**, tomou posse em 1º de janeiro de 2003 e governou até 31 de dezembro de 2006.\n*   **2º Mandato:** Reeleito em **2006**, tomou posse em 1º de janeiro de 2007 e governou até 31 d",
+  "error": "Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}"
+}

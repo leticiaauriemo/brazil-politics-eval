@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df/"
+    },
+    {
+      "title": "Leia a nota de Fachin sobre a anulação das condenações do ex-presidente Lula e veja a íntegra da sentença | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/03/08/leia-a-integra-da-nota-de-fachin-sobre-a-anulacao-das-condenacoes-do-ex-presidente-lula.ghtml"
+    },
+    {
+      "title": "STF mantém anulação das condenações de Lula | Agência Brasil",
+      "url": "http://agenciabrasil.ebc.com.br/justica/noticia/2021-04/stf-mantem-anulacao-das-condenacoes-de-lula"
+    },
+    {
+      "title": "STF confirma anulação de condenações do ex-presidente Lula na ...",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    }
+  ],
+  "response": "O Supremo Tribunal Federal (STF) não declarou o ex-presidente Luiz Inácio Lula da Silva inocente dos crimes pelos quais foi condenado em Curitiba. Em vez disso, o STF anulou as condenações, decidindo que a 13ª Vara Federal de Curitiba não tinha competência para julgar os casos relacionados ao ex-presidente. A decisão foi baseada no entendimento de que as acusações não tinham relação direta com os desvios de recursos da Petrobras, que eram o foco da Operação Lava Jato. Como resultado, as ações penais foram transferidas para a Justiça Federal do Distrito Federal. Essa decisão não absolve Lula, mas anula as condenações anteriores, permitindo que os casos sejam reavaliados em outra jurisdição.",
+  "response_no_search": "O Supremo Tribunal Federal (STF) do Brasil não declarou o ex-presidente Luiz Inácio Lula da Silva \"inocente\" dos crimes pelos quais foi condenado em Curitiba. O que ocorreu foi que, em março de 2021, o ministro Edson Fachin anulou as condenações de Lula relacionadas à Operação Lava Jato, sob o argumento de que a 13ª Vara Federal de Curitiba, que era comandada pelo então juiz Sergio Moro, não tinha a competência para julgar os casos. Essa decisão foi posteriormente confirmada pelo plenário do STF",
+  "error": null
+}

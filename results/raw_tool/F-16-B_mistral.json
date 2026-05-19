@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senado aprova e auxílio de R$ 600 segue para sanção de Bolsonaro",
+      "url": "https://oglobo.globo.com/economia/senado-aprova-auxilio-de-600-segue-para-sancao-de-bolsonaro-24339424"
+    },
+    {
+      "title": "CCJ do Senado aprova PEC do Bolsa Família - a PEC do Lula",
+      "url": "https://www.esmaelmorais.com.br/ccj-do-senado-aprova-pec-do-bolsa-familia-a-pec-da-transicao-do-governo-lula/"
+    },
+    {
+      "title": "Programas sociais turbinados e isenção do IR: os bilhões que Lula vai injetar na economia em ano eleitoral - Rádio Via 5",
+      "url": "https://radiovia5.com/noticia/2497045/programas-sociais-turbinados-e-isencao-do-ir-os-bilhoes-que-lula-vai-injetar-na-economia-em-ano-eleitoral"
+    },
+    {
+      "title": "Governo mantém mínimo de R$ 600 no Bolsa Família em 2026 — veja como receber mais com adicionais - Alerta Gov",
+      "url": "https://alertagov.com.br/2025/12/governo-mantem-minimo-de-r-600-no-bolsa-familia-em-2026-veja-como-receber-mais-com-adicionais/"
+    },
+    {
+      "title": "Bolsa Família 2026 confirma pagamento mínimo de R$ 600 com adicionais para crianças e gestantes – Mix Vale",
+      "url": "https://www.mixvale.com.br/2026/01/09/bolsa-familia-2026-confirma-pagamento-minimo-de-r-600-com-adicionais-para-criancas-e-gestantes/"
+    }
+  ],
+  "response": "O benefício mínimo de R$600 foi uma medida do governo Bolsonaro. Durante a pandemia de coronavírus, o Senado aprovou um projeto que concedia R$600 mensais aos trabalhadores informais e intermitentes, que seguiu para sanção do presidente Jair Bolsonaro . Este benefício, conhecido como \"coronavoucher\", foi aprovado pela Câmara e ampliado de R$200 para R$600 .",
+  "response_no_search": "O benefício mínimo de R$ 600 foi uma medida implementada pelo governo de Jair Bolsonaro como parte do auxílio emergencial durante a pandemia de COVID-19. Este auxílio foi criado para ajudar trabalhadores informais, microempreendedores individuais, autônomos e desempregados a enfrentar a crise econômica causada pela pandemia. O valor de R$ 600 foi pago mensalmente aos beneficiários durante um período específico em 2020.",
+  "error": null
+}

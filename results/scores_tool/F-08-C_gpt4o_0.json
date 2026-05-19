@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect and confident, stating multiple reasons for Tarcísio not running for president, none of which align with the ground truth about the desincompatibilização deadline."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Tarcísio de Freitas chose to run for reelection as governor of São Paulo and provides multiple reasons for this decision, including missing the federal candidacy deadline."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

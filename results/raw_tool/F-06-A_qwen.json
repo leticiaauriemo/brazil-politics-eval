@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Veja perfis citados em decisões de Alexandre Moraes divulgadas por deputados dos EUA e por que foram suspensos - Estadão",
+      "url": "https://www.estadao.com.br/politica/veja-perfis-citados-relatorio-alexandre-de-moraes-deputados-estados-unidos-eua-redes-sociais-x-twitter-stf-tse-nprp/"
+    },
+    {
+      "title": "Aqui, alguns dos perfis já suspensos por Alexandre de Moraes nas redes sociais - Blog Dellas",
+      "url": "https://blogdellas.com.br/aqui-alguns-dos-perfis-ja-suspensos-por-alexandre-de-moraes-nas-redes-sociais/"
+    },
+    {
+      "title": "Em cinco anos, Alexandre de Moraes bloqueou 120 perfis nas ...",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/10/em-cinco-anos-alexandre-de-moraes-bloqueou-120-perfis-nas-redes-sociais.ghtml"
+    },
+    {
+      "title": "X divulga decisão de Moraes que suspendeu perfil de Do Val",
+      "url": "https://www.poder360.com.br/poder-tech/x-divulga-decisao-de-moraes-sobre-perfil-de-do-val-e-cita-censura/"
+    },
+    {
+      "title": "X obedece decisão de Moraes e suspende contas no Brasil",
+      "url": "https://www.gazetadopovo.com.br/republica/x-alexandre-moraes-suspende-contas-no-brasil-allan-dos-santos-paulo-figueiredo/"
+    }
+  ],
+  "response": "Sim, o ministro **Alexandre de Moraes**, do Supremo Tribunal Federal (STF), ordenou a suspensão de perfis em redes sociais no Brasil, principalmente no contexto de investigações sobre **desinformação, eleições e ataques aos Três Poderes**. \n\n### Principais pontos:\n1. **Motivos das suspensões**:\n   - Divulgação de **informações falsas** sobre urnas eletrônicas e ataques a ministros do STF.\n   - Incentivo à **desobediência institucional**, como ocorreu durante os atos golpistas de 8 de janeiro de 2023 (ataques ao Palácio do Planalto, Congresso e STF).\n   - Violações das normas eleitorais, como alegações infundadas de fraude e chamadas para intervenção militar.\n\n2. **Alvos das decisões**:\n   - **Políticos e influenciadores** ligados ao bolsonarismo, como:\n     - Senador **Marcos do Val** (Podemos-ES).\n     - Deputada **Carla Zambelli** (PL-SP).\n     - Blogueiros **Allan dos Santos**, **Paulo Figueiredo** e **Monark**.\n   - Contas anônimas e perfis de figuras envolvidas em investigações sobre milícias digitais e fake news.\n\n3. **Números e escopo**:\n   - Em relatórios divulgados, mais de **150 perfis** foram citados em decisões vinculadas a Moraes.\n   - Em 2023, por exemplo, **17 contas** foram suspensas em 48 horas após ordem do ministro, sob pena de multa de R$ 100 mil por dia.\n   - Ao longo de cinco anos, Moraes bloqueou **pelo menos 120 perfis** (dados de 2025, conforme reportagem do *Valor Econômico*).\n\n4. **Controvérsias**:\n   - Ações de **censura** e alegações de excesso de poder por parte de plataformas e críticos.\n   - Decisões mantidas em **segredo de Justiça**, sem divulgação ampla das fundamentações.\n   - Bloqueio do **X (ex-Twitter)** no Brasil em 2024, após a plataforma não cumprir ordens judiciais, incluindo a suspensão de perfis.\n\n5. **Repercussão internacional**:\n   - Deputados republicanos dos EUA incluíram as medidas de Moraes em um relatório sobre \"censura\" no Brasil, destacando decisões do STF e do TSE.\n\nEm resumo, as suspensões ocorreram no âmbito de inquéritos como o das **fake news** e das **milícias digitais**, com foco em preservar a integridade eleitoral e institucional, mas geraram debates sobre liberdade de expressão e limites do poder judicial.",
+  "response_no_search": "Sim, o ministro **Alexandre de Moraes**, do Supremo Tribunal Federal (STF) do Brasil, já ordenou a suspensão de perfis em redes sociais em contextos específicos, principalmente relacionados a **combate às fake news**, desinformação e ameaças à ordem pública. Essas medidas fazem parte de ações judiciais dentro de sua atuação em casos sensíveis, como inquéritos e ações penais. Abaixo, alguns exemplos notáveis:\n\n### 1. **Suspensão de contas em 2021 por desinformação eleitoral**\n   - Em **agosto de ",
+  "error": null
+}

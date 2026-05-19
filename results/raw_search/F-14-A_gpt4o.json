@@ -1,0 +1,35 @@
+{
+  "question_id": "F-14-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "prompt": "A Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Lula privilegia propaganda na TV e reduz inserções na internet",
+      "url": "https://www.poder360.com.br/midia/lula-privilegia-propaganda-na-tv-e-reduz-insercoes-na-internet/"
+    },
+    {
+      "title": "\"Globo\" recebeu 49% da verba de publicidade de Lula na TV",
+      "url": "https://www.poder360.com.br/poder-midia/globo-recebeu-49-da-verba-de-publicidade-de-lula-na-tv/"
+    },
+    {
+      "title": "Governo Lula destina R$ 177,2 mi em publicidade para Globo em 2023 e 2024",
+      "url": "https://guiadoinvestidor.com.br/noticias/governo-lula-destina-r-1772-mi-em-publicidade-para-globo-em-2023-e-2024/"
+    },
+    {
+      "title": "CdB | Esquema de publicidade do governo aumenta a verba da Globo",
+      "url": "https://correiodobrasil.com.br/a/esquema-publicidade-governo-aumenta-verba-globo"
+    },
+    {
+      "title": "Globo, Record ou SBT: o canal que mais conseguiu verba do Governo Lula em 2025",
+      "url": "https://rd1.com.br/globo-record-ou-sbt-o-canal-que-mais-conseguiu-verba-do-governo-lula-em-2025/"
+    }
+  ],
+  "response": "Sim, a Rede Globo recebe uma parte significativa da verba de publicidade paga pelo governo federal brasileiro. Durante o atual mandato do presidente Luiz Inácio Lula da Silva, a Globo tem sido a principal beneficiária das verbas publicitárias federais destinadas à televisão. Em 2023, a Globo recebeu R$ 175,5 milhões dos R$ 345,1 milhões gastos em publicidade via TV pelo governo. Em 2024, a emissora recebeu R$ 169,8 milhões dos R$ 351,9 milhões totais, e em 2025, até o momento, a Globo recebeu R$ 116,3 milhões dos R$ 236,9 milhões gastos em anúncios televisivos [poder360.com.br](https://www.poder360.com.br/poder-midia/globo-recebeu-49-da-verba-de-publicidade-de-lula-na-tv/).\n\nA Globo tem recebido mais da metade dos investimentos publicitários federais, superando outras emissoras como Record e SBT. Essa tendência representa uma mudança em relação ao governo anterior de Jair Bolsonaro, quando a distribuição das verbas era mais equilibrada entre as principais emissoras [guiadoinvestidor.com.br](https://guiadoinvestidor.com.br/noticias/governo-lula-destina-r-1772-mi-em-publicidade-para-globo-em-2023-e-2024/).",
+  "response_no_search": "Sim, a Rede Globo, assim como outras emissoras de televisão e veículos de comunicação no Brasil, pode receber verbas de publicidade do governo federal. O governo brasileiro, através de suas agências e ministérios, frequentemente destina recursos para campanhas publicitárias em diversos meios de comunicação, incluindo televisão, rádio, internet e impressos. A distribuição dessas verbas é geralmente baseada em critérios como audiência, alcance e relevância do veículo de comunicação. No entanto, a ",
+  "error": null
+}

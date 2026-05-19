@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado"
+    },
+    {
+      "title": "Leia as penas e multas impostas a Bolsonaro e aos outros réus",
+      "url": "https://www.poder360.com.br/poder-justica/leia-as-penas-e-multas-impostas-a-bolsonaro-e-aos-outros-reus/"
+    },
+    {
+      "title": "STF publica acórdão do julgamento que condenou Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-justica/stf-publica-acordao-do-julgamento-de-bolsonaro/"
+    },
+    {
+      "title": "STF impõe pena de 27 anos e 3 meses de prisão a Bolsonaro",
+      "url": "https://www.jb.com.br/brasil/justica/2025/09/1056869-stf-impoe-pena-de-27-anos-e-3-meses-de-prisao-a-bolsonaro.html"
+    },
+    {
+      "title": "Veja as penas impostas a Bolsonaro e aos demais condenados por golpe de Estado | GZH",
+      "url": "http://pioneiro.clicrbs.com.br/politica/noticia/2025/09/veja-as-penas-impostas-a-bolsonaro-e-aos-demais-condenados-por-golpe-de-estado-cmfg1389s01vd011rdt17hbwe.html"
+    }
+  ],
+  "response": "Vou pesquisar as informações mais recentes sobre esse assunto.## Condenação de Bolsonaro pelo STF em 2025\n\nEm **11 de setembro de 2025**, a **Primeira Turma do Supremo Tribunal Federal (STF)** concluiu o julgamento da Ação Penal (AP) 2668 e condenou o ex-presidente **Jair Bolsonaro** a **27 anos e 3 meses de prisão em regime inicial fechado**, além de multa de aproximadamente **R$ 376.464** (equivalente a 124 dias-multa, cada um no valor de dois salários mínimos).\n\n### 📋 Crimes pelos quais foi condenado:\n| Crime | Pena |\n|---|---|\n| Tentativa de golpe de Estado | 8 anos e 2 meses |\n| Abolição violenta do Estado Democrático de Direito | 6 anos e 6 meses |\n| Organização criminosa armada | 7 anos e 7 meses |\n| Dano qualificado ao patrimônio da União | 2 anos e 6 meses |\n| Deterioração de patrimônio tombado | 2 anos e 6 meses |\n\n> ⚠️ A pena poderia ter chegado a **43 anos**, mas foi reduzida pela aplicação de uma **atenuante**, pois Bolsonaro já completou **70 anos** de idade.\n\n### ⚖️ Placar da votação:\nA condenação foi decidida por **4 votos a 1**, com os ministros **Alexandre de Moraes** (relator), **Flávio Dino**, **Cármen Lúcia** e **Cristiano Zanin** votando pela condenação. O ministro **Luiz Fux** votou pela absolvição.\n\n### 💰 Indenização coletiva:\nTodos os oito condenados foram obrigados a pagar, de forma **solidária**, uma indenização de **R$ 30 milhões** por danos morais coletivos, relacionados aos atos do **8 de janeiro de 2023**.\n\n### 📌 Outras consequências:\n- **Inelegibilidade** declarada pelo STF;\n- Possível **perda de posto e patente militar**, a ser analisada pelo Superior Tribunal Militar (STM);\n- Em **22 de outubro de 2025**, o STF publicou o **acórdão** de 1.991 páginas, abrindo prazo para recursos das defesas.\n\nBolsonaro já se encontrava em **prisão domiciliar** desde **4 de agosto de 2025**, por descumprir medidas cautelares. Sua defesa anunciou que recorreria da decisão tanto no Brasil quanto no exterior.",
+  "response_no_search": "Até a minha data de corte de conhecimento (início de 2025), **não tenho informações confirmadas** sobre uma condenação com pena imposta ao ex-presidente Jair Bolsonaro pelo STF.\n\nO que eu sabia até então:\n\n- Bolsonaro era **réu** no STF em inquéritos relacionados à **tentativa de golpe de Estado** (investigação sobre os eventos de 8 de janeiro de 2022 e suposto plano golpista).\n- Ele também havia sido **declarado inelegível** pelo TSE em junho de 2023, por abuso de poder político e uso indevido ",
+  "error": null
+}

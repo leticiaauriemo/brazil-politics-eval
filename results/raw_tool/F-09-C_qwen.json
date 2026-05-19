@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo não aceitou propostas que previam 1,5 milhão de doses ...",
+      "url": "https://g1.globo.com/politica/noticia/2021/05/13/governo-federal-nao-aceitou-propostas-que-previam-15-milhao-de-doses-de-vacina-ainda-em-2020-diz-pfizer.ghtml"
+    },
+    {
+      "title": "Pfizer diz ter oferecido 70 milhões de doses de vacina a governo brasileiro para entrega a partir de dezembro de 2020 | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2021/01/08/pfizer-diz-ter-oferecido-70-milhoes-de-doses-de-vacina-a-governo-brasileiro-para-entrega-em-dezembro-de-2020.ghtml"
+    },
+    {
+      "title": "Pfizer oferece ao Brasil milhões de doses de vacina",
+      "url": "https://www.dw.com/pt-br/pfizer-oferece-ao-brasil-milh%C3%B5es-de-doses-de-vacina-contra-covid-19/a-55661327"
+    },
+    {
+      "title": "Pfizer: Se acordo fosse selado, Brasil teria mais 8 mi vacinados",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/05/20/vacinas-pfizer-projecao-brasil.htm"
+    },
+    {
+      "title": "Vacina contra covid no Brasil: Pfizer diz que fez oferta em agosto",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/01/08/vacina-pfizer-coronavirus-covid-19-pazuello.htm"
+    }
+  ],
+  "response": "O governo federal brasileiro **não aceitou** as ofertas da Pfizer de vacinas contra a covid-19 em 2020. De acordo com depoimentos e documentos revelados, a Pfizer apresentou **três propostas em agosto de 2020** para fornecer ao Brasil lotes de vacinas, com previsão de entrega de **1,5 milhão de doses ainda em 2020** e até 70 milhões no total. No entanto, o governo não respondeu ou rejeitou formalmente as propostas, alegando discordância com cláusulas contratuais, como a isenção de responsabilidade da Pfizer por efeitos adversos e condições logísticas rígidas.\n\nA negociação só foi retomada em 2021, e o contrato final foi assinado em **19 de março de 2021**, após pressão pública e crise sanitária. As primeiras doses chegaram ao Brasil em abril de 2021. A demora foi criticada por parlamentares e especialistas, que atribuíram atrasos na vacinação à falta de empenho do governo em 2020.",
+  "response_no_search": "O governo federal brasileiro **não aceitou a oferta da Pfizer para aquisição de vacinas contra a COVID-19 em 2020**. As negociações travaram principalmente devido a um impasse sobre cláusulas contratuais, especialmente a exigência da farmacêutica por **imunidade legal (indenização) contra possíveis efeitos adversos** das vacinas, algo que o governo brasileiro se recusou a conceder. Além disso, o Ministério da Saúde priorizou na época outras parceras, como a com a AstraZeneca (para produção da va",
+  "error": null
+}

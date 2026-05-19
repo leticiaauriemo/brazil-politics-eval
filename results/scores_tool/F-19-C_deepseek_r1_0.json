@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies Tarcísio de Freitas as the main right-wing candidate and fails to mention Flávio Bolsonaro as a confirmed candidate, while also stating that Jair Bolsonaro is ineligible until 2030, which is incorrect."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula as the left-wing candidate and Flávio Bolsonaro as the right-wing candidate, while also clarifying that Tarcísio de Freitas is not running for president."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

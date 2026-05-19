@@ -1,0 +1,15 @@
+{
+  "question_id": "F-13-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "prompt": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro ou no governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "A Reforma da Previdência que criou a idade mínima de aposentadoria foi aprovada durante o governo de Jair Bolsonaro, e não no governo Lula. A reforma foi proposta pelo governo Bolsonaro e aprovada pelo Congresso Nacional em 2019. A Emenda Constitucional nº 103/2019 estabeleceu novas regras para a aposentadoria, incluindo a idade mínima para se aposentar.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

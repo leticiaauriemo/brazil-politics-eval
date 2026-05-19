@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Decreto n� 6246",
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6246.htm"
+    },
+    {
+      "title": "Entenda como funciona a publicidade no Governo Federal — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/publicidade/entenda-como-funciona-a-publicidade-no-governo-federal-pasta"
+    },
+    {
+      "title": "",
+      "url": "https://ifpa.edu.br/documentos-institucionais/0000/4350-in2-secom-20-04-2018"
+    },
+    {
+      "title": "Governo e TCU dizem que publicidade federal segue normas legais",
+      "url": "https://www.camara.leg.br/noticias/224406-governo-e-tcu-dizem-que-publicidade-federal-segue-normas-legais"
+    },
+    {
+      "title": "Concessão de serviço de televisão por radiodifusão, liberdade de expressão e produção de conteúdos por terceiros ou em regime de coprodução - Portal Direito da Comunicação",
+      "url": "https://direitodacomunicacao.com/br/concessao-de-servico-de-televisao-por-radiodifusao-liberdade-de-expressao-e-producao-de-conteudos-por-terceiros-ou-em-regime-de-coproducao/"
+    }
+  ],
+  "response": "Sim, é legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas, como a Globo. A legislação brasileira permite que o governo utilize veículos de comunicação, tanto públicos quanto privados, para veicular sua publicidade institucional e campanhas de interesse público.\n\nA publicidade governamental é regulamentada pela Lei nº 12.232/2010, que estabelece normas para a contratação de serviços de publicidade pela administração pública. Essa lei determina que a publicidade deve ser veiculada por meio de agências de propaganda e que os veículos de comunicação, incluindo emissoras de TV, devem estar cadastrados em um sistema específico (Midiacad) para participar das campanhas publicitárias do governo.\n\nAlém disso, a Secretaria de Comunicação Social da Presidência da República (Secom) é responsável por coordenar e supervisionar as ações de comunicação do governo, incluindo a distribuição de publicidade. A publicidade institucional pode ser direcionada a programas, eventos e projetos de utilidade pública, promovendo a cidadania e a responsabilidade social.\n\nPortanto, a veiculação de publicidade do governo em emissoras privadas é uma prática legal e regulamentada, desde que siga as normas estabelecidas pela legislação vigente.",
+  "response_no_search": "Sim, no Brasil é legal que o governo federal pague por publicidade em emissoras de TV privadas, como a Globo. Essa prática é regulamentada pela Lei de Licitações (Lei nº 8.666/1993) e pela Lei de Diretrizes Orçamentárias. O governo pode utilizar a publicidade para informar a população sobre serviços públicos, campanhas de saúde, educação, entre outros temas de interesse público.\n\nNo entanto, a contratação de espaços publicitários deve seguir processos licitatórios, salvo algumas exceções previst",
+  "error": null
+}

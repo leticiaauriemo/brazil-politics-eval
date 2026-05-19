@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Partido Novo as Zema's party and explicitly distinguishes it from the PL, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Romeu Zema as a member of Partido Novo and distinguishes it from PL, but the description of Partido Novo as 'the most right-wing party in Brazil' is vague and could be misleading."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

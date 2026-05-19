@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the conviction is final (trânsito em julgado) in November 2025 and explicitly mentions that subsequent appeals do not suspend the execution of the sentence."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response correctly states that the conviction has become final, but it misleadingly suggests that the defense is still pursuing appeals that could affect the finality of the conviction."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": false
+}

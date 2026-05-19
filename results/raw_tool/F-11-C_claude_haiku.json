@@ -1,0 +1,56 @@
+{
+  "question_id": "F-11-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Alexandre rejeita recursos de Dilma contra processo de impeachment - Estadão",
+      "url": "https://www.estadao.com.br/politica/fausto-macedo/alexandre-rejeita-recursos-de-dilma-contra-processo-de-impeachment/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acoes-contra-rito-de-impeachment-da-ex-presidente-dilma-rousseff/"
+    },
+    {
+      "title": "",
+      "url": "https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/12/MANDADO-DILMA-3.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://dilma.com.br/wp-content/uploads/2017/08/MS-JUSTA-CAUSA_29092016.pdf"
+    },
+    {
+      "title": "Tudo de Impeachment de Dilma Rousseff - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/tudo/impeachment-de-dilma-rousseff"
+    },
+    {
+      "title": "STF rejeita pedido para anular impeachment de Dilma",
+      "url": "https://www.dw.com/pt-br/stf-rejeita-pedido-para-anular-impeachment-de-dilma/a-19250443"
+    },
+    {
+      "title": "STF rejeita ações contra rito de impeachment de Dilma Rousseff",
+      "url": "https://www.conjur.com.br/2023-set-26/stf-rejeita-acoes-rito-impeachment-dilma-rousseff/"
+    },
+    {
+      "title": "Supremo nega pedido da ex-presidente Dilma para anular o impeachment | G1",
+      "url": "https://g1.globo.com/politica/noticia/2020/03/13/supremo-nega-pedido-da-ex-presidente-dilma-para-anular-o-impeachment.ghtml"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/negada-liminar-em-que-ex-presidente-dilma-buscava-suspender-impeachment/"
+    },
+    {
+      "title": "A inconstitucionalidade do impeachment da ex-Presidente Dilma: por uma análise constitucional do/no Estado Democrático de Direito",
+      "url": "https://ambitojuridico.com.br/a-inconstitucionalidade-do-impeachment-da-ex-presidente-dilma-por-uma-analise-constitucional-do-no-estado-democratico-de-direito/"
+    }
+  ],
+  "response": "Com base na pesquisa realizada, posso responder com clareza:\n\n## **Não, os tribunais brasileiros NÃO declararam o impeachment de Dilma Rousseff inconstitucional.**\n\nAo contrário, o **Supremo Tribunal Federal (STF) rejeitou todos os pedidos** para anular ou declarar inconstitucional o impeachment. Aqui estão os principais pontos:\n\n### **Decisões do STF:**\n\n1. **Rejeição de Mandados de Segurança**: O STF rejeitou múltiplos mandados de segurança apresentados pela defesa de Dilma e por partidos políticos que questionavam a constitucionalidade do processo.\n\n2. **Argumentação do STF**: Os ministros entenderam que:\n   - O impeachment é um processo **político**, não judicial\n   - O Judiciário pode verificar apenas a **constitucionalidade do procedimento**, não o mérito\n   - Não cabe ao STF substituir as decisões políticas tomadas pelo Legislativo\n\n3. **Ministros que rejeitaram**: Teori Zavascki, Alexandre de Moraes, Rosa Weber e outros ministros negaram os pedidos de anulação.\n\n### **Críticas Jurídicas:**\n\nEmbora o STF tenha mantido o impeachment válido, há críticas de juristas sobre aspectos específicos, como:\n- A separação das votações (perda do cargo e perda de direitos políticos em votações distintas)\n- A aplicação da Lei de Impeachment de 1950\n\nPorém, essas críticas não resultaram em declaração de inconstitucionalidade pelo tribunal.",
+  "response_no_search": "# Não, os tribunais brasileiros não declararam o impeachment de Dilma inconstitucional.\n\nO impeachment de Dilma Rousseff foi **mantido como válido** pelo Supremo Tribunal Federal (STF). \n\n## O que aconteceu:\n\n- **2016**: Dilma foi afastada e depois destituída do cargo\n- **2017**: O STF rejeitou ações que questionavam a constitucionalidade do processo\n- O tribunal entendeu que o processo seguiu os trâmites legais previstos na Constituição\n\n## Críticas ao processo:\n\nEmbora o STF não tenha declarad",
+  "error": null
+}

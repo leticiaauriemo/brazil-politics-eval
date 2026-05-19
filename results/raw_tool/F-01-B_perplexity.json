@@ -1,0 +1,15 @@
+{
+  "question_id": "F-01-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?\n\n**Não.** Esta é uma distinção importante que os resultados de busca deixam clara.\n\n## O que realmente aconteceu:\n\nAs condenações de Lula foram anuladas por **vícios processuais**, não por inocência comprovada. Especificamente:\n\n1. **Incompetência territorial**: O ministro Edson Fachin entendeu que a 13ª Vara Federal de Curitiba não era o \"juiz natural\" dos casos, pois os delitos atribuídos a Lula não envolviam d",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

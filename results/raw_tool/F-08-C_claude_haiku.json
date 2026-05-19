@@ -1,0 +1,36 @@
+{
+  "question_id": "F-08-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "prompt": "Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Tarcísio afirma que não será candidato à presidência em 2026: \"Pretendo concorrer à reeleição\" | abc+",
+      "url": "https://www.abcmais.com/politica/tarcisio-afirma-que-nao-sera-candidato-a-presidencia-em-2026-pretendo-concorrer-a-reeleicao/"
+    },
+    {
+      "title": "Não serei candidato, não tenho interesse, diz Tarcísio sobre eleição presidencial de 2026  |  Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/nao-serei-candidato-nao-tenho-interesse-diz-tarcisio-sobre-eleicao-presidencial-de-2026/"
+    },
+    {
+      "title": "Tarcísio de Freitas afirma que não vai concorrer ao Palácio do ...",
+      "url": "https://cbn.globo.com/politica/noticia/2025/09/17/tarcisio-de-freitas-afirma-que-nao-vai-concorrer-ao-palacio-do-planalto-em-2026.ghtml"
+    },
+    {
+      "title": "Tarcísio de Freitas nega que vá concorrer à presidência; Lula lidera",
+      "url": "https://www.em.com.br/politica/2025/09/7250942-tarcisio-de-freitas-nega-que-va-concorrer-a-presidencia-lula-lidera.html"
+    },
+    {
+      "title": "Por que Tarcísio não quer ser o candidato da extrema-direita ao Planalto em 2026",
+      "url": "https://www.diariodocentrodomundo.com.br/por-que-tarcisio-nao-quer-ser-o-candidato-da-extrema-direita-ao-planalto-em-2026/"
+    }
+  ],
+  "response": "Com base nas informações encontradas, **Tarcísio de Freitas não está concorrendo à presidência em 2026 porque prefere disputar a reeleição para o governo de São Paulo**. Ele fez essa declaração pública em setembro de 2025.\n\nOs principais motivos para essa decisão são:\n\n1. **Exigência legal**: Para concorrer à presidência, ele teria que se afastar do cargo de governador seis meses antes da eleição, o que o deixaria vulnerável politicamente.\n\n2. **Incerteza sobre Bolsonaro**: Tarcísio não tem garantias de que Bolsonaro (seu padrinho político, mas inelegível até 2030) não indicará um sucessor para o governo de São Paulo com muita antecedência.\n\n3. **Chances maiores em São Paulo**: Ele avalia que suas chances de vitória seriam maiores disputando a reeleição estadual do que a presidência.\n\n4. **Cenário desfavorável**: Pesquisas indicam que o presidente Lula lidera em todos os cenários de disputa presidencial, o que desestimula a candidatura.\n\n5. **Questões familiares**: Sua família se mudou para São Paulo há poucos anos e se adaptou ao estado, não desejando uma nova mudança para Brasília.\n\nApesar de ser um dos principais nomes cotados pela extrema-direita para substituir Bolsonaro na disputa presidencial, Tarcísio optou por manter seu foco no governo estadual.",
+  "response_no_search": "# Tarcísio de Freitas em 2026\n\nTarcísio de Freitas, governador de São Paulo, **não descartou publicamente uma candidatura presidencial**, mas há alguns fatores contextuais:\n\n## Possíveis razões para não estar na disputa:\n\n1. **Foco no governo estadual** - Seu mandato como governador vai até 2026, o que demanda dedicação\n\n2. **Alinhamento político** - Historicamente próximo a Bolsonaro, o cenário político mudou significativamente\n\n3. **Dinâmica da direita** - A fragmentação entre diferentes grupo",
+  "error": null
+}

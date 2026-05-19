@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "prompt": "Lula pode se candidatar à reeleição nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula sugere que não decidiu sobre candidatura à reeleição - 08/04/2026 - Política - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2026/04/lula-diz-que-ainda-nao-decidiu-sobre-candidatura-a-reeleicao.shtml"
+    },
+    {
+      "title": "Lula espera cenário mais favorável para se lançar pré-candidato | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/05/12/lula-espera-cenario-mais-favoravel-para-se-lancar-pre-candidato.ghtml"
+    },
+    {
+      "title": "Lula reafirma candidatura e fala em 'compromisso cristão'",
+      "url": "https://www.otempo.com.br/politica/governo/2026/4/14/lula-reafirma-candidatura-fala-em-compromisso-cristao-e-que-mercado-sempre-vai-querer-outro"
+    },
+    {
+      "title": "\"Vou ser candidato”, diz Lula ao sinalizar disputa nas eleições 2026 - Ric.com.br",
+      "url": "https://ric.com.br/politica/eleicoes-2026-lula-reafirma-pre-candidatura-e-fala-em-barrar-volta-da-extrema-direita/"
+    },
+    {
+      "title": "Lula:'Vamos ganhar eleições outra vez; não porque sou bom, porque Brasil precisa de democracia'",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/02/05/lulavamos-ganhar-eleicoes-outra-vez-nao-porque-sou-bom-porque-brasil-precisa-de-democracia.htm"
+    }
+  ],
+  "response": "Sim, Luiz Inácio Lula da Silva pode se candidatar à reeleição nas eleições de 2026. Ele já manifestou a intenção de concorrer novamente e, em várias declarações recentes, reafirmou seu compromisso em barrar o retorno da extrema-direita ao poder. Lula, que completará 81 anos em outubro de 2026, destacou que sua candidatura dependerá de sua saúde e de um cenário político favorável.\n\nEm entrevistas, ele mencionou que ainda não tomou uma decisão final, mas que a convenção do seu partido, o PT, está prevista para junho, onde sua candidatura poderá ser formalizada. Lula também expressou a necessidade de apresentar um programa novo para o país, além de ter um compromisso moral e ético com a democracia brasileira.\n\nPara mais detalhes, você pode conferir as seguintes fontes:\n- [Folha de S.Paulo](https://www1.folha.uol.com.br/poder/2026/04/lula-diz-que-ainda-nao-decidiu-sobre-candidatura-a-reeleicao.shtml)\n- [Valor Econômico](https://valor.globo.com/politica/noticia/2026/05/12/lula-espera-cenario-mais-favoravel-para-se-lancar-pre-candidato.ghtml)\n- [O Tempo](https://www.otempo.com.br/politica/governo/2026/4/14/lula-reafirma-candidatura-fala-em-compromisso-cristao-e-que-mercado-sempre-vai-querer-outro)",
+  "response_no_search": "Sim, Luiz Inácio Lula da Silva pode se candidatar à reeleição nas eleições de 2026. No Brasil, a Constituição permite que um presidente reeleito permaneça no cargo por até dois mandatos consecutivos. Como Lula foi eleito em 2022 e assumiu a presidência, ele pode concorrer novamente em 2026, desde que decida se candidatar. No entanto, é importante acompanhar o cenário político e as decisões que podem influenciar sua candidatura até lá.",
+  "error": null
+}

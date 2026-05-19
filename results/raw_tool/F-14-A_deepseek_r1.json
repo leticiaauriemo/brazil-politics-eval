@@ -1,0 +1,15 @@
+{
+  "question_id": "F-14-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "prompt": "A Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sim, a **Rede Globo** (e outras emissoras de televisão no Brasil) historicamente recebe verbas públicas do governo federal para veiculação de campanhas publicitárias oficiais. Esse tipo de contrato é comum, pois o governo utiliza meios de comunicação de grande alcance para divulgar políticas públicas, campanhas de saúde (como vacinação ou combate à COVID-19), programas sociais, entre outros. No entanto, esse tema frequentemente gera debates sobre transparência e possível influência política na d",
+  "error": "Expecting value: line 279 column 1 (char 1529)"
+}

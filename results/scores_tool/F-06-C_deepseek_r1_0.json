@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that a single minister can issue such orders, explains they are individual decisions, highlights the legal controversy, and confirms their real-world effect."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Minister Moraes issued individual orders to suspend social media accounts, acknowledges the legal controversy surrounding this practice, and details its real effects."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

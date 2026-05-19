@@ -1,0 +1,35 @@
+{
+  "question_id": "F-03-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "prompt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Bolsonaro pode ser candidato em 2026? Entenda situação jurídica | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml"
+    },
+    {
+      "title": "Bolsonaro está inelegível. Saiba o porquê e até quando | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml"
+    },
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Bolsonaro inelegível: Veja como fica a situação eleitoral do ex-presidente, condenado pelo STF - Estadão",
+      "url": "https://www.estadao.com.br/politica/como-fica-a-inelegibilidade-jair-bolsonaro-com-decisao-do-stf-entenda-nprp/"
+    },
+    {
+      "title": "Bolsonaro está inelegível até quando? Saiba em que ano ele poderá participar de eleições",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/11/06/bolsonaro-esta-inelegivel-ate-quando-saiba-em-que-ano-ele-podera-participar-de-eleicoes.ghtml"
+    }
+  ],
+  "response": "Jair Bolsonaro está impedido de concorrer nas eleições de 2026 porque foi declarado inelegível pelo Tribunal Superior Eleitoral (TSE) em junho de 2023 [valor.globo.com](https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml), [g1.globo.com](https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml).\n\nA condenação se deu por abuso de poder político e uso indevido dos meios de comunicação [valor.globo.com](https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml), [tse.jus.br](https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos). A decisão o tornou inelegível por oito anos, contados a partir das Eleições de 2022, o que significa que ele só poderá se candidatar novamente a partir de 2030 [valor.globo.com](https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml), [g1.globo.com](https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml), [oglobo.globo.com](https://oglobo.globo.com/politica/noticia/2024/11/06/bolsonaro-esta-inelegivel-ate-quando-saiba-em-que-ano-ele-podera-participar-de-eleicoes.ghtml).\n\nO caso central que levou à condenação foi uma reunião realizada por Bolsonaro no Palácio da Alvorada em julho de 2022 com embaixadores estrangeiros, na qual ele atacou o sistema eleitoral brasileiro sem apresentar provas [valor.globo.com](https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml), [g1.globo.com](https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml). Essa reunião foi transmitida ao vivo pela TV Brasil e pelas redes sociais, caracterizando o uso indevido dos meios de comunicação [valor.globo.com](https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml), [tse.jus.br](https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos).\n\nAlém dessa condenação, Bolsonaro enfrenta outras questões jurídicas que poderiam agravar sua situação de inelegibilidade, como a denúncia da Procuradoria-Geral da República (PGR) por participação na trama golpista para impedir a posse de Luiz Inácio Lula da Silva [g1.globo.com](https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-",
+  "response_no_search": "Jair Bolsonaro está impedido de concorrer nas eleições de 2026 por decisão do Tribunal Superior Eleitoral (TSE). Em junho de 2023, o TSE o declarou inelegível por oito anos, contados a partir das eleições de 2022.\n\nO motivo da inelegibilidade foi a **conduta de Bolsonaro durante uma reunião com embaixadores estrangeiros no Palácio da Alvorada, em julho de 2022**. Nessa ocasião, ele fez uma série de ataques infundados ao sistema eleitoral brasileiro, às urnas eletrônicas e à lisura do processo el",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly lists Tarcísio de Freitas as a main right-wing candidate for president and includes several other speculative or incorrect candidates, while also misidentifying Ciro Gomes's party."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly includes Tarcísio de Freitas as a candidate for president, despite stating that he is aligned with the right."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

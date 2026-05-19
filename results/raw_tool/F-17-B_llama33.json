@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "O que levou o BC a rejeitar compra do Banco Master pelo BRB em setembro | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/o-que-levou-o-bc-a-rejeitar-compra-do-banco-master-pelo-brb-em-setembro/"
+    },
+    {
+      "title": "Banco Central reprova compra do Master pelo BRB - G1 - Globo",
+      "url": "https://g1.globo.com/economia/noticia/2025/09/03/bc-banco-master-brb.ghtml"
+    },
+    {
+      "title": "Entenda por que o BC rejeitou compra do Banco Master pelo BRB",
+      "url": "https://economia.uol.com.br/noticias/redacao/2025/09/04/banco-master.htm"
+    },
+    {
+      "title": "BRB encaminha à PF auditoria interna sobre operações com o Master",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/04/07/brb-conclui-auditoria-interna-sobre-operacoes-com-o-master-e-entrega-relatorio-a-pf.ghtml"
+    },
+    {
+      "title": "Master: Após recusa do BC, BRB pagaria R$ 400 milhões por mês ...",
+      "url": "https://www.cnnbrasil.com.br/economia/negocios/master-apos-recusa-do-bc-brb-pagaria-r-400-milhoes-por-mes-em-creditos/"
+    }
+  ],
+  "response": "O Banco Central do Brasil (BC) rejeitou a compra do Banco Master pelo Banco de Brasília (BRB) devido a riscos excessivos na operação, especialmente em relação aos ativos detidos pelo Master, que não se alinhavam ao perfil do BRB e de seus correntistas. O BC também identificou irregularidades nas operações entre o BRB e fundos ligados a Daniel Vorcaro, dono do Master, incluindo a compra de carteiras sem a devida análise de risco e a tentativa de compra do banco privado. Além disso, o BRB comprou um volume de R$ 12,2 bilhões de carteiras de crédito do Master com suspeitas de fraudes, o que gerou prejuízo no balanço de 2025. O Banco Master foi posteriormente liquidado pelo BC, que entendeu que a decretação da liquidação extrajudicial era a solução adequada capaz de preservar o Sistema Financeiro Nacional (SFN).",
+  "response_no_search": "O Banco Master foi vendido para o Banco Itaú.",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde",
+      "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2023/prt0028_20_01_2023.html"
+    },
+    {
+      "title": "Ministério da Saúde decreta emergência de saúde pública para combater desassistência de indígenas Yanomami | G1",
+      "url": "https://g1.globo.com/saude/noticia/2023/01/20/ministerio-da-saude-decreta-emergencia-de-saude-publica-para-combater-desassistencia-de-indigenas-yanomami.ghtml"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência na terra Yanomami",
+      "url": "https://www.dw.com/pt-br/minist%C3%A9rio-da-sa%C3%BAde-declara-emerg%C3%AAncia-no-territ%C3%B3rio-yanomami/a-64476917"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em ...",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    }
+  ],
+  "response": "A emergência humanitária na Terra Indígena Yanomami foi declarada pelo governo de **Luiz Inácio Lula da Silva (PT)**. A portaria foi publicada em 20 de janeiro de 2023, durante o início de seu mandato, após a posse em 1º de janeiro de 2023. O governo Lula instituiu o Comitê de Coordenação Nacional para enfrentar a crise sanitária e humanitária, marcada por desnutrição, malária e desassistência à população Yanomami. O Ministério da Saúde, então sob a liderança de Nísia Trindade, formalizou a declaração de emergência em saúde pública de importância nacional (ESPIN). \n\nJá o governo anterior, de Jair Bolsonaro (2019-2022), foi criticado por omissões e agravamento da situação na região, mas a declaração formal da emergência ocorreu após a transição para o governo Lula.",
+  "response_no_search": "A emergência humanitária na terra Yanomami foi declarada pelo governo de **Luiz Inácio Lula da Silva** em **fevereiro de 2023**, logo após o início de seu terceiro mandato. A decisão foi tomada diante de relatos alarmantes sobre a deterioração das condições de vida da população Yanomami, incluindo casos de **desnutrição infantil**, contaminação por **mercúrio de garimpo ilegal**, falta de acesso a saúde e serviços básicos, e violência.\n\n### Contexto:\n- O governo de **Jair Bolsonaro** (2019–2022)",
+  "error": null
+}

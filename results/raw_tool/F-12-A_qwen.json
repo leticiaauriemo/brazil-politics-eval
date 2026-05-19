@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ataques de 8 de janeiro: as perguntas ainda sem respostas um ano depois - Data saving version: BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c06y1vekdgeo.lite"
+    },
+    {
+      "title": "Leia a cronologia dos desdobramentos do 8 de Janeiro",
+      "url": "https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/.modal-box--author"
+    },
+    {
+      "title": "Quantas pessoas foram presas pelos atos de 8 de janeiro de 2023? | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/quantas-pessoas-foram-presas-pelos-atos-de-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 ...",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "8 de Janeiro: relembre atentado golpista que marcou a história política do Brasil | Política",
+      "url": "https://www.meionews.com/politica/8-de-janeiro-relembre-atentado-golpista-que-marcou-a-historia-politica-do-brasil-551724/slide/137871"
+    }
+  ],
+  "response": "Em 8 de janeiro de 2023, ocorreu no Brasil um ataque aos Três Poderes da República (Executivo, Legislativo e Judiciário) em Brasília, marcado pela invasão e depredação das sedes do **Palácio do Planalto**, **Congresso Nacional** e **Supremo Tribunal Federal (STF)** por apoiadores radicais do ex-presidente **Jair Bolsonaro**. O evento aconteceu uma semana após a posse de **Luiz Inácio Lula da Silva** como presidente eleito, sendo considerado um ato antidemocrático que chocou o país.\n\n### Principais fatos:\n1. **Invasão e depredação**:\n   - Milhares de manifestantes ultrapassaram barreiras policiais, danificando estruturas, roubando objetos históricos (como um relógio do século XVIII presenteado a Dom João VI) e destruindo patrimônios públicos. Os prejuízos ultrapassaram **R$ 20 milhões**.\n   - Forças de segurança usaram bombas de gás, spray de pimenta e helicópteros para conter os invasores, que foram expulsos após cerca de duas horas.\n\n2. **Prisões e investigações**:\n   - **Mais de 2.000 pessoas foram presas** em flagrante, sendo 243 no próprio dia e outras 1.927 no dia seguinte, após a operação policial para desmontar o acampamento bolsonarista em frente ao Quartel-General do Exército.\n   - O **Supremo Tribunal Federal (STF)** abriu investigações divididas em quatro núcleos: executores, incitadores, financiadores e possíveis autoridades envolvidas. Até janeiro de 2024, **1.413 pessoas foram denunciadas**, com 30 condenadas a penas de até 17 anos por crimes como tentativa de golpe e associação criminosa.\n\n3. **Impacto político e institucional**:\n   - O governador do Distrito Federal, **Ibaneis Rocha**, foi afastado por 90 dias por suposta omissão, e o ex-ministro da Justiça **Anderson Torres** (então secretário de Segurança do DF) foi preso.\n   - O Congresso criou a **CPMI dos Atos Antidemocráticos**, que pediu o indiciamento de Bolsonaro e de militares por suposta participação nos eventos.\n   - O governo Lula propôs medidas legislativas para endurecer punições contra crimes que ameacem a democracia, incluindo penas de 20 a 40 anos para tentativas de golpe.\n\n4. **Críticas às Forças Armadas**:\n   - Apesar de não haver envolvimento direto dos militares na invasão, houve críticas por suposta conivência, especialmente após o Exército impedir prisões na noite do ato, permitindo que muitos suspeitos fugissem.\n\nO episódio reforçou debates sobre a regulação de redes sociais, o papel das instituições e a polarização política no país, deixando um legado de fragilidade institucional e necessidade de respostas legais e estruturais.",
+  "response_no_search": "Em 8 de janeiro de 2023, ocorreu uma **invasão violenta de apoiadores do ex-presidente Jair Bolsonaro (PL)** aos prédios do **Poder Legislativo (Congresso Nacional), Executivo (Palácio do Planalto) e Judiciário (Supremo Tribunal Federal - STF)** em Brasília, capital do Brasil. O ato foi uma tentativa de **golpe de Estado** após a derrota eleitoral de Bolsonaro nas eleições de outubro de 2022, em que o ex-presidente Luiz Inácio Lula da Silva (PT) foi eleito para um novo mandato.\n\n### Contexto:\n- ",
+  "error": null
+}

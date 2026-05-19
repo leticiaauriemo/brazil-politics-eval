@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Desvende tudo sobre o Bolsa Família: Novos Valores e Condições! - Jornal Dia",
+      "url": "https://jornaldia.com.br/desvende-tudo-sobre-o-bolsa-familia-novos-valores-e-condicoes/"
+    },
+    {
+      "title": "Câmara aprova MP que recriou o programa Bolsa Família - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/967421-camara-aprova-mp-que-recriou-o-programa-bolsa-familia/"
+    },
+    {
+      "title": "Lula confirma Bolsa Família com valor MAIOR em Março",
+      "url": "https://www.acheconcursos.com.br/beneficios-sociais/lula-confirma-bolsa-familia-com-valor-maior-em-marco-58980"
+    },
+    {
+      "title": "Bolsa Família: veja novas regras, valor dos benefícios e como se cadastrar",
+      "url": "https://economia.uol.com.br/noticias/redacao/2023/07/13/bolsa-familia-veja-novas-regras-valor-dos-beneficios-e-como-entrar.htm"
+    },
+    {
+      "title": "Câmara aprova auxílio de R$ 600 para pessoas de baixa renda ...",
+      "url": "https://www.camara.leg.br/noticias/648863-camara-aprova-auxilio-de-r-600-para-pessoas-de-baixa-renda-durante-epidemia/"
+    }
+  ],
+  "response": "O valor do Bolsa Família foi aumentado para R$600 pelo presidente Lula. Além disso, foi adicionado um benefício de R$150 por criança de até 6 anos. O programa também inclui um benefício complementar para garantir que cada família receba pelo menos R$600.",
+  "response_no_search": "O valor do Bolsa Família foi aumentado para R$ 600 durante a gestão do presidente Luiz Inácio Lula da Silva, em 2023.",
+  "error": null
+}

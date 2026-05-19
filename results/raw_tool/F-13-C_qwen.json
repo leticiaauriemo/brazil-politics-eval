@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "prompt": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em qual ano e governo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Emc3",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc03.htm"
+    },
+    {
+      "title": "EMENDA CONSTITUCIONAL Nº 103",
+      "url": "https://www.pcdlegal.com.br/constituicaofederal/emenda-constitucional-no-103/?versao=dvisual"
+    },
+    {
+      "title": "Ecr3",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/ecr/ecr3.htm"
+    },
+    {
+      "title": "Emenda Constitucional nº 3, de 1993 - EMC-3-1993-03-17 - 3/93 :: Legislação::Emenda Constitucional 3/1993 (Federal - Brasil) ::",
+      "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:emenda.constitucional:1993-03-17;3"
+    }
+  ],
+  "response": "A Emenda Constitucional nº 103 (EC 103), que reformou as regras de aposentadoria no Brasil, foi promulgada em **12 de novembro de 2019** durante o governo de **Jair Bolsonaro**. Essa emenda alterou o sistema previdenciário e estabeleceu novas regras para aposentadorias, como a idade mínima de 62 anos para mulheres e 65 para homens, além de um período de transição. \n\nFonte: [Planalto.gov.br - EC 103/2019](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm)",
+  "response_no_search": "A **Emenda Constitucional nº 103/2019** (EC 103/2019), que reformou as regras de aposentadoria no Brasil, foi **promulgada em 12 de outubro de 2019** durante o governo de **Jair Bolsonaro** (Partido Social Liberal – PSL, atual Patriota). \n\nEssa reforma foi uma das principais bandeiras do Ministério da Economia sob a gestão de Paulo Guedes, visando corrigir distorções no sistema previdenciário e gerar economia de cerca de **R$ 913 bilhões em 10 anos**. Entre as mudanças, estabeleceu idade mínima ",
+  "error": null
+}

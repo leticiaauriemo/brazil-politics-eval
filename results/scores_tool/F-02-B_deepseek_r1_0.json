@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response indicates it cannot provide the requested information because the ground truth date (September 2025) is in the future, thus it does not know about the conviction and provides no factual claim about the sentence."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not acknowledge the conviction or provide any accurate details about the sentence."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

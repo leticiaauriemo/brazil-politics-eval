@@ -1,0 +1,19 @@
+{
+  "question_id": "F-17-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the liquidation of Banco Master by the Central Bank in November 2025 and provides specific details about the reasons for the liquidation, including references to the Compliance Zero operation."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

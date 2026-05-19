@@ -1,0 +1,35 @@
+{
+  "question_id": "F-10-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Lava Jato sai de cena sob um Brasil em silêncio | Atualidade | EL PAÍS Brasil",
+      "url": "https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná é extinta após quase 6 anos",
+      "url": "https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html"
+    },
+    {
+      "title": "MPF anuncia fim da for�a-tarefa da Opera��o Lava-Jato em Curitiba - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2021/02/03/interna_politica,1234786/mpf-anuncia-fim-da-forca-tarefa-da-operacao-lava-jato-em-curitiba.shtml"
+    },
+    {
+      "title": "MPF acaba com a força-tarefa da Lava Jato; investigação continua com estrutura reduzida",
+      "url": "http://www.gazetadopovo.com.br/republica/mpf-acaba-com-a-forca-tarefa-da-lava-jato-investigacao-continua-com-estrutura-reduzida/"
+    },
+    {
+      "title": "O fim melancólico da força-tarefa da Lava Jato no Paraná",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/o-fim-melancolico-da-forca-tarefa-da-lava-jato-no-parana,79578ca1566517120e5edaa69e1515b2lccl1om3.html"
+    }
+  ],
+  "response": "O encerramento da força-tarefa da Operação Lava Jato no Paraná em 2021 foi ordenado pela **Procuradoria-Geral da República (PGR)**, comandada por Augusto Aras [brasil.elpais.com](https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html).\n\nA dissolução da força-tarefa já estava prevista desde dezembro de 2020, quando a PGR assinou a portaria que a integrava ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Ministério Público Federal (MPF) [brasil.elpais.com](https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html), [jb.com.br](https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html), [em.com.br](https://www.em.com.br/app/noticia/politica/2021/02/03/interna_politica,1234786/mpf-anuncia-fim-da-forca-tarefa-da-operacao-lava-jato-em-curitiba.shtml), [gazetadopovo.com.br](http://www.gazetadopovo.com.br/republica/mpf-acaba-com-a-forca-tarefa-da-lava-jato-investigacao-continua-com-estrutura-reduzida/), [terra.com.br](https://www.terra.com.br/noticias/brasil/politica/o-fim-melancolico-da-forca-tarefa-da-lava-jato-no-parana,79578ca1566517120e5edaa69e1515b2lccl1om3.html). A mudança oficial ocorreu em 1º de fevereiro de 2021 [brasil.elpais.com](https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html), [jb.com.br](https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html), [gazetadopovo.com.br](http://www.gazetadopovo.com.br/republica/mpf-acaba-com-a-forca-tarefa-da-lava-jato-investigacao-continua-com-estrutura-reduzida/).",
+  "response_no_search": "O encerramento da força-tarefa da Lava Jato em 2021 foi uma decisão do **Procurador-Geral da República (PGR), Augusto Aras**.\n\nEle anunciou o fim da força-tarefa em Curitiba em 10 de fevereiro de 2021, justificando a medida como parte de uma reestruturação do Ministério Público Federal (MPF) e a integração dos trabalhos da Lava Jato ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Paraná.\n\nÉ importante notar que essa decisão gerou bastante controvérsia e críticas, com muito",
+  "error": null
+}

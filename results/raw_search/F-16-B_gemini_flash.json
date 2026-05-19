@@ -1,0 +1,35 @@
+{
+  "question_id": "F-16-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Novo Bolsa Família garante valor mínimo de R$ 600, renda mínima por pessoa e adicional para crianças, adolescentes e gestantes — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/novo-bolsa-familia-garante-valor-minimo-de-r-600-por-residencia-renda-minima-por-pessoa-e-adicional-para-criancas-adolescentes-e-gestantes"
+    },
+    {
+      "title": "Medida Provisória garante valor mínimo de R$ 600 ao Bolsa Família em 2023 — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/medida-provisoria-garante-valor-minimo-de-r-600-ao-bolsa-familia-em-2023"
+    },
+    {
+      "title": "Lula assina atos para auxílio de R$ 600, sigilos e combustíveis",
+      "url": "https://www.poder360.com.br/governo/lula-assina-atos-para-auxilio-de-r-600-sigilos-e-combustiveis/"
+    },
+    {
+      "title": "Bolsa Família é recriado com mínimo de R$ 600 por família e mais R$ 150 por criança de até seis anos",
+      "url": "https://www.gov.br/pt-br/noticias/bolsa-familia-e-recriado-com-minimo-de-r-600-por-familia-e-mais-r-150-por-crianca-de-ate-seis-anos"
+    },
+    {
+      "title": "Eleições 2026: Lula injetará bilhoes na economia com programas sociais turbinados e isenção do IR - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cy716x7kkzvo"
+    }
+  ],
+  "response": "O benefício mínimo de R$600 no Bolsa Família foi uma medida que teve sua origem no governo Bolsonaro, mas foi mantida e formalizada pelo governo Lula.\n\nInicialmente, o Auxílio Brasil (nome do programa durante o governo Bolsonaro) pagava R$400. Em junho de 2022, o ex-presidente Jair Bolsonaro aumentou o valor em R$200, totalizando R$600, com validade até dezembro de 2022 [poder360.com](https://www.poder360.com.br/governo/lula-assina-atos-para-auxilio-de-r-600-sigilos-e-combustiveis/).\n\nApós sua eleição, o presidente Luiz Inácio Lula da Silva resgatou o nome original do programa para Bolsa Família e manteve o valor mínimo de R$600 por família [bbc.com](https://www.bbc.com/portuguese/articles/cy716x7kkzvo). Para garantir a continuidade desse valor, o Governo de Transição negociou com o Congresso Nacional a aprovação da PEC 32/2022 (que se tornou a Emenda Constitucional 126), que liberou recursos orçamentários [gov.br](https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/medida-provisoria-garante-valor-minimo-de-r-600-ao-bolsa-familia-em-2023).\n\nEm 2 de janeiro de 2023, Lula assinou a Medida Provisória 1.155/2023, que estabeleceu o mínimo de R$600 mensais para cada beneficiário do Bolsa Família [gov.br](https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/novo-bolsa-familia-garante-valor-minimo-de-r-600-por-residencia-renda-minima-por-pessoa-e-adicional-para-criancas-adolescentes-e-gestantes). Além do valor mínimo de R$600, o novo Bolsa Família também incluiu adicionais de R$150 por criança de até seis anos e R$50 por criança ou adolescente (de sete a 18 anos) e por gestante [gov.br](https://www.gov.br/pt-br/noticias/bolsa-familia-e-recriado-com-minimo-de-r-600-por-familia-e-mais-r-150-por-crianca-de-ate-seis-anos).",
+  "response_no_search": "O benefício mínimo de R$600 foi uma medida implementada durante o governo **Bolsonaro**, mas que foi mantida e se tornou permanente no governo **Lula**.\n\nVamos detalhar:\n\n*   **Governo Bolsonaro:** Em 2022, o governo Bolsonaro, em ano eleitoral, elevou o valor do Auxílio Brasil (que havia substituído o Bolsa Família) para R$600. Essa medida foi inicialmente temporária, com previsão de durar até o final de 2022.\n\n*   **Governo Lula:** Durante a campanha eleitoral de 2022, o então candidato Lula p",
+  "error": null
+}

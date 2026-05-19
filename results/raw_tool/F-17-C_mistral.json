@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota"
+    },
+    {
+      "title": "Banco Central decreta liquidação do Banco Master; dono é preso em operação",
+      "url": "https://www.contabeis.com.br/noticias/73936/banco-central-decreta-liquidacao-do-banco-master-dono-e-preso-em-operacao/"
+    },
+    {
+      "title": "BC decreta liquidação do Banco Master e põe fim a acordo com Fictor",
+      "url": "https://mais.opovo.com.br/jornal/economia/2025/11/19/bc-decreta-liquidacao-do-banco-master-e-poe-fim-a-acordo-com-fictor.html"
+    },
+    {
+      "title": "Banco Central ordena liquidação extrajudicial do Banco Master e mexe com clientes correntistas - Estado de Minas - Em foco",
+      "url": "https://www.em.com.br/emfoco/2025/11/19/banco-central-ordena-liquidacao-extrajudicial-do-banco-master-e-mexe-com-clientes-correntistas/"
+    }
+  ],
+  "response": "Sim, o Banco Central do Brasil decretou a liquidação extrajudicial do Banco Master. A decisão foi tomada em 18 de novembro de 2025, determinando o encerramento das operações da instituição e sua retirada do Sistema Financeiro Nacional. A medida foi acompanhada pela prisão de Daniel Vorcaro, dono do banco, em uma operação da Polícia Federal que investigava supostas fraudes envolvendo títulos de crédito .\n\nCom a liquidação, o Fundo Garantidor de Créditos (FGC) será responsável por indenizar os clientes com aplicações cobertas pela garantia, até o limite de R$ 250 mil por CPF ou CNPJ, por instituição. Investidores com valores acima desse limite entrarão na fila de credores da massa liquidanda e dependerão da venda dos ativos do banco para eventual recuperação de parte dos recursos .",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, não há informações disponíveis sobre o Banco Central ter decretado a liquidação do Banco Master. No entanto, a situação pode ter mudado desde então. Para obter informações atualizadas, recomendo consultar fontes de notícias confiáveis ou o site oficial do Banco Central do Brasil.",
+  "error": null
+}

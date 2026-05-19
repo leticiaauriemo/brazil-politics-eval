@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "prompt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Portal da Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/legin/fed/ressen/2016/resolucao-35-31-agosto-2016-783556-publicacaooriginal-151006-pl.html"
+    },
+    {
+      "title": "Impeachment é aprovado e Dilma Rousseff é destituída pelo Senado",
+      "url": "https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/"
+    },
+    {
+      "title": "Como chegamos até aqui: os principais fatos que levaram à reta final o processo de impeachment de Dilma - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37161199"
+    },
+    {
+      "title": "",
+      "url": "http://www12.senado.leg.br/noticias/arquivos/2016/08/31/veja-a-sentenca-de-impeachment-contra-dilma-rousseff"
+    },
+    {
+      "title": "Entenda rito de impeachment de Dilma após julgamento do STF | Exame",
+      "url": "https://exame.com/brasil/entenda-rito-de-impeachment-de-dilma-apos-julgamento-do-stf/"
+    }
+  ],
+  "response": "O impeachment da presidente Dilma Rousseff em 2016 foi um processo complexo e polêmico que seguiu os trâmites legais previstos na Constituição Federal e na Lei nº 1.079/1950, que trata dos crimes de responsabilidade. O processo foi iniciado na Câmara dos Deputados, onde foi aprovado por 367 votos a 137, e posteriormente encaminhado ao Senado Federal. No Senado, após uma série de votações e análises, Dilma Rousseff foi destituída do cargo por 61 votos a 20, com base em acusações de crimes de responsabilidade relacionados a pedaladas fiscais e contratação ilegal de operações de crédito.\n\nO processo foi considerado constitucional pelos órgãos competentes, incluindo o Supremo Tribunal Federal (STF), que supervisionou o rito processual. No entanto, o impeachment gerou debates intensos sobre sua legitimidade e motivações políticas, sendo um dos eventos mais marcantes da história política recente do Brasil. Para mais detalhes, você pode consultar fontes como o [Portal da Câmara dos Deputados](https://www2.camara.leg.br) ou a [BBC News Brasil](https://www.bbc.com/portuguese/brasil).",
+  "response_no_search": "O impeachment da presidente Dilma Rousseff em 2016 foi conduzido dentro dos procedimentos estabelecidos pela Constituição Federal de 1988 e pelas normas regimentais do Congresso Nacional, tendo sido concluído com a aprovação pelo Senado Federal, que resultou na sua destituição do cargo.  \n\n### **Análise do Processo Legal:**  \n1. **Base Constitucional**: O processo seguiu os artigos **85** e **86** da Constituição, que tratam dos crimes de responsabilidade e do rito do impeachment, bem como a **L",
+  "error": null
+}

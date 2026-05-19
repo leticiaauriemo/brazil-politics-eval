@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Pro-Bolsonaro protesters storm Brazil's Congress : NPR",
+      "url": "https://www.npr.org/2023/01/08/1147761999/pro-bolsonaro-protesters-storm-brazils-congress?f=&ft=nprml"
+    },
+    {
+      "title": "Jair Bolsonaro left Brazil for Florida. This could be why : NPR",
+      "url": "https://www.npr.org/2023/01/09/1147812986/why-did-jair-bolsonaro-leave-brazil-for-florida"
+    },
+    {
+      "title": "Supporters of Brazil’s former president storm country’s Congress and high court - The Boston Globe",
+      "url": "https://bostonglobe.com/2023/01/08/world/protesters-storm-brazils-congress-high-court"
+    },
+    {
+      "title": "Brazil's riots at Congress: what we know so far · TheJournal.ie",
+      "url": "https://www.thejournal.ie/brazil-riots-congress-explainer-5964480-Jan2023/"
+    },
+    {
+      "title": "Brazil devolves into capital unrest; ex-president Jair Bolsonaro reportedly at Jose Aldo's Florida vacation house",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2023/01/08/brazil-capital-unrest-insurrection-president-jair-bolsonaro-jose-aldo-florida-vacation-home-ufc-mma/81008329007/"
+    }
+  ],
+  "response": "Bolsonaro **não estava no Brasil** no dia 8 de janeiro de 2023. Segundo as reportagens, ele **viajou para a Flórida (EUA)** nos dias anteriores à posse de Lula da Silva, em 1º de janeiro de 2023. O ex-presidente deixou o país em 30 de dezembro de 2022, dois dias antes do fim de seu mandato, e estava residindo em Orlando, Flórida, durante os eventos de 8 de janeiro, quando apoiadores seus invadiram o Congresso, o Supremo Tribunal e o Palácio Presidencial em Brasília. \n\nA decisão de viajar para os EUA foi interpretada por analistas como uma manobra para evitar possíveis consequências legais no Brasil, além de distanciar sua imagem dos atos violentos. Bolsonaro negou ter incitado os protestos, mas críticos, incluindo Lula, atribuíram a ele a responsabilidade pela retórica que mobilizou seus apoiadores.",
+  "response_no_search": "Sim, Jair Bolsonaro estava no Brasil no dia **8 de janeiro de 2023**. Ele retornou ao país em **2 de janeiro** após passar parte do réveillon nos Estados Unidos (em Orlando, Flórida), onde esteve entre 30 de dezembro de 2022 e 1 de janeiro. \n\nNo dia 8 de janeiro, quando ocorreu o ataque aos prédios do Congresso Nacional, Supremo Tribunal Federal (STF) e Palácio do Planalto por apoiadores seus, Bolsonaro estava em Brasília. Ele permaneceu no Quartel-General do Exército durante os eventos, mas **n",
+  "error": null
+}

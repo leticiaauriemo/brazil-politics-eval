@@ -1,0 +1,35 @@
+{
+  "question_id": "F-23-B",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "prompt": "Existe algum impedimento legal para Lula concorrer à presidência em 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Lula pode se reeleger em 2026? Veja o que a lei diz - DCI",
+      "url": "https://www.dci.com.br/politica/lula-podera-se-reeleger-em-2026/283405/"
+    },
+    {
+      "title": "Fim da reeleição: Lula pode ser candidato em 2026? | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml"
+    },
+    {
+      "title": "Lula pode disputar 2026? Veja o que diz a Constituição",
+      "url": "https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/"
+    },
+    {
+      "title": "Lula pode ser impedido de concorrer em 2026? Adeus à reeleição - Saiba quem ganha e quem perde com a PEC 12/2022 - uLme",
+      "url": "https://www.ulme.com.br/portal/conteudo/politica/lula-pode-ser-impedido-de-concorrer-em-2026-adeus-a-reeleicao-saiba-quem-ganha-e-quem-perde-com-a-pec-12-2022"
+    },
+    {
+      "title": "Candidato ficha suja pode disputar as eleições 2026? | Exame",
+      "url": "https://exame.com/eleicoes/guia-do-eleitor/candidato-ficha-suja-pode-disputar-as-eleicoes-2026/"
+    }
+  ],
+  "response": "Não há impedimento legal para que Luiz Inácio Lula da Silva concorra à presidência em 2026. De acordo com a Constituição Federal do Brasil, um presidente pode exercer dois mandatos consecutivos, e após um intervalo, pode voltar a concorrer. Lula, que foi eleito novamente em 2022 após um intervalo de mais de dez anos desde seu último mandato, está em seu primeiro mandato deste novo ciclo e, portanto, pode disputar uma única reeleição consecutiva em 2026 [ndmais.com.br](https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/).\n\nAlém disso, mesmo que uma Proposta de Emenda Constitucional (PEC) que visa acabar com a reeleição para chefes do Executivo seja aprovada, ela não afetará Lula imediatamente. A PEC, se aprovada, só traria mudanças a partir das eleições de 2034, permitindo que Lula concorra em 2026 [valor.globo.com](https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml).\n\nPara ser candidato, Lula também deve cumprir os critérios de elegibilidade, como ser brasileiro nato, ter pelo menos 35 anos de idade, estar no pleno exercício dos direitos políticos, possuir domicílio eleitoral no país, estar filiado a um partido político e estar devidamente alistado como eleitor [ndmais.com.br](https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/).\n\nAtualmente, não há decisão judicial que torne Lula inelegível. O Supremo Tribunal Federal já anulou condenações anteriores relacionadas à Operação Lava Jato, restabelecendo seus direitos políticos [exame.com](https://exame.com/eleicoes/guia-do-eleitor/candidato-ficha-suja-pode-disputar-as-eleicoes-2026/). Portanto, do ponto de vista jurídico, Lula pode ser candidato à reeleição em 2026.",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, não há impedimentos legais conhecidos que impeçam Luiz Inácio Lula da Silva de concorrer à presidência do Brasil em 2026. Após ter sido eleito presidente em 2022, Lula está atualmente em seu terceiro mandato. A legislação brasileira permite que um indivíduo exerça a presidência por, no máximo, dois mandatos consecutivos, mas não há restrições quanto a mandatos não consecutivos. Portanto, a menos que surjam novas questões legais ou mudanças na le",
+  "error": null
+}

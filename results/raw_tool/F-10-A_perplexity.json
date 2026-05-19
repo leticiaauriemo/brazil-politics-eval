@@ -1,0 +1,15 @@
+{
+  "question_id": "F-10-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**A força-tarefa dedicada da Operação Lava Jato foi encerrada.**\n\n### Contexto e Evidências Principais\n- **Encerramento oficial em 2021**: A força-tarefa original em Curitiba (iniciada em 2014) foi dissolvida em 1º-3 de fevereiro de 2021, conforme anunciado pelo Ministério Público Federal (MPF) do Paraná. As investigações remanescentes foram transferidas para o Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco), com procuradores como Alessandro José de Oliveira coordenando, mas sem",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

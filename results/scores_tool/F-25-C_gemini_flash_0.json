@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Zema cannot run for re-election but does not explain that he has already served two consecutive terms, which is crucial for understanding his situation."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Romeu Zema was reelected in 2022 and implies he resigned to run for president, which does not accurately reflect the ground truth about his consecutive terms and ineligibility for governor."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.5,
+  "agreement": true
+}

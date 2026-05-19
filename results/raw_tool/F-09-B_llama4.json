@@ -1,0 +1,15 @@
+{
+  "question_id": "F-09-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Não, o Ministério da Saúde recusou a oferta das vacinas da Pfizer em 2020. A primeira oferta foi feita em junho de 2020, quando a farmacêutica pretendia fornecer 30 milhões de doses ainda naquele ano, mas o Ministério da Saúde não aceitou. Na época, o Ministério justificou que não havia \"quantidade suficiente\" de doses para fechar um acordo e que era necessário aguardar a conclusão dos estudos da vacina. A Pfizer voltou a oferecer a vacina ao Brasil em setembro de 2020, mas o Ministério da Saúde",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

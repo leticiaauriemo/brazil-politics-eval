@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-A",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Minas Gerais as the state Romeu Zema governs, but provides no additional context about his terms or party affiliation."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Minas Gerais but lacks context about Zema's terms and party affiliation."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

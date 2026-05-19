@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Reforma da Previdência: o que mudou na aposentadoria nos últimos anos",
+      "url": "https://www.em.com.br/politica/2026/05/7415516-reforma-da-previdencia-o-que-mudou-na-aposentadoria-nos-ultimos-anos.html"
+    },
+    {
+      "title": "Bolsonaro propõe para Previdência idades mínimas de 62 e 65 anos - Instituto Humanitas Unisinos - IHU",
+      "url": "https://ihu.unisinos.br/categorias/586695-bolsonaro-propoe-para-previdencia-idades-minimas-de-62-e-65-anos"
+    },
+    {
+      "title": "Reforma da Previdência do governo Jair Bolsonaro - Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Reforma_da_Previd%C3%AAncia_do_governo_Jair_Bolsonaro"
+    },
+    {
+      "title": "Emenda Constitucional nº 103/2019 – Divisão de Aposentadoria e Pensão",
+      "url": "https://sites.unipampa.edu.br/dap/tag/emenda-constitucional-no-103-2019/"
+    }
+  ],
+  "response": "Vou pesquisar sobre essa emenda constitucional referente à idade mínima para aposentadoria no Brasil.A emenda constitucional que estabeleceu a **idade mínima para aposentadoria** no Brasil foi a **Emenda Constitucional nº 103**, aprovada durante o **governo de Jair Bolsonaro**, publicada no Diário Oficial da União em **13 de novembro de 2019**.\n\nConhecida como a **Reforma da Previdência** (ou \"Nova Previdência\"), ela trouxe as seguintes mudanças principais:\n\n- **Fim da aposentadoria por tempo de contribuição** — passou a ser obrigatória a aposentadoria por **idade mínima**.\n- **Idades mínimas estabelecidas:**\n  - 🔵 **Homens:** 65 anos de idade + 20 anos de contribuição\n  - 🔴 **Mulheres:** 62 anos de idade + 15 anos de contribuição\n- As novas regras valem tanto para trabalhadores do setor privado (RGPS) quanto para servidores públicos federais (RPPS).\n- Foram criadas **regras de transição** para quem já estava no mercado de trabalho antes da reforma.\n\nVale destacar que antes dessa emenda, era possível se aposentar **sem idade mínima**, bastando cumprir o tempo de contribuição (35 anos para homens e 30 anos para mulheres).",
+  "response_no_search": "A **Emenda Constitucional nº 103/2019** (Reforma da Previdência), que estabeleceu idade mínima para aposentadoria no Brasil (65 anos para homens e 62 anos para mulheres), foi aprovada durante o governo de **Jair Bolsonaro**, sendo promulgada em **12 de novembro de 2019**.",
+  "error": null
+}

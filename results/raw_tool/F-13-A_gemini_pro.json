@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "prompt": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro ou no governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Nova Previdência: confira as principais mudanças — Instituto Nacional do Seguro Social - INSS",
+      "url": "https://www.gov.br/inss/pt-br/noticias/noticias/nova-previdencia-confira-as-principais-mudancas"
+    },
+    {
+      "title": "Plenário do Senado aprova reforma da Previdência e cria idade mínima de aposentadoria - Jornal O Globo",
+      "url": "https://oglobo.globo.com/economia/plenario-do-senado-aprova-reforma-da-previdencia-cria-idade-minima-de-aposentadoria-24035375"
+    },
+    {
+      "title": "Texto-base da Previdência cria idade mínima para pedir aposentadoria | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2019/07/11/texto-base-da-previdencia-cria-idade-minima-para-pedir-aposentadoria.ghtml"
+    },
+    {
+      "title": "Aposentadoria muda com a reforma da Previdência; veja como as novas regras afetam sua vida",
+      "url": "https://economia.uol.com.br/reportagens-especiais/reforma-da-previdencia-o-que-muda-na-aposentadoria/"
+    },
+    {
+      "title": "Reforma da Previdência do governo Jair Bolsonaro - Wikipédia",
+      "url": "https://pt.wikipedia.org/wiki/Reforma_da_Previd%C3%AAncia_do_governo_Jair_Bolsonaro"
+    }
+  ],
+  "response": "A Reforma da Previdência que estabeleceu uma idade mínima para aposentadoria foi aprovada durante o governo de Jair Bolsonaro, em 2019, e ficou conhecida como Emenda Constitucional nº 103/2019.",
+  "response_no_search": "A Reforma da Previdência que criou a idade mínima de aposentadoria para a maioria dos trabalhadores foi aprovada durante o governo **Bolsonaro**.\n\nA medida foi oficializada pela **Emenda Constitucional nº 103**, promulgada em 12 de novembro de 2019.\n\nAs principais regras estabelecidas por essa reforma foram:\n\n*   **Idade mínima para mulheres:** 62 anos.\n*   **Idade mínima para",
+  "error": null
+}

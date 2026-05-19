@@ -1,0 +1,35 @@
+{
+  "question_id": "F-25-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "prompt": "Romeu Zema é governador de qual estado?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Romeu Zema Neto | Portal MG",
+      "url": "https://www.mg.gov.br/governador/romeu-zema-neto"
+    },
+    {
+      "title": "Secretaria Geral - Sobre",
+      "url": "https://www.secretariageral.mg.gov.br/Institucional/Sobre"
+    },
+    {
+      "title": "Quem é Romeu Zema? Conheça mais o governador reeleito de MG que toma posse neste domingo | G1",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2023/01/01/quem-e-romeu-zema-conheca-mais-o-governador-reeleito-de-mg-que-toma-posse-neste-domingo.ghtml"
+    },
+    {
+      "title": "Agência Minas Gerais",
+      "url": "https://www.agenciaminas.mg.gov.br/governador/biografia"
+    },
+    {
+      "title": "Nossos Eleitos - Partido Novo",
+      "url": "https://novo.org.br/eleitos/romeu-zema"
+    }
+  ],
+  "response": "Romeu Zema é o governador do estado de Minas Gerais, no Brasil [g1.globo.com](https://g1.globo.com/mg/minas-gerais/noticia/2023/01/01/quem-e-romeu-zema-conheca-mais-o-governador-reeleito-de-mg-que-toma-posse-neste-domingo.ghtml), [secretariageral.mg.gov.br](https://www.secretariageral.mg.gov.br/Institucional/Sobre), [novo.org.br](https://novo.org.br/eleitos/romeu-zema).\n\nEle é natural de Araxá, no Triângulo Mineiro, e é formado em Administração de Empresas pela Fundação Getúlio Vargas (SP) [secretariageral.mg.gov.br](https://www.secretariageral.mg.gov.br/Institucional/Sobre), [g1.globo.com](https://g1.globo.com/mg/minas-gerais/noticia/2023/01/01/quem-e-romeu-zema-conheca-mais-o-governador-reeleito-de-mg-que-toma-posse-neste-domingo.ghtml), [agenciaminas.mg.gov.br](https://www.agenciaminas.mg.gov.br/governador/biografia). Zema foi eleito governador pela primeira vez em 2018, com 72% dos votos, e reeleito em 2022, no primeiro turno, com 56% dos votos [secretariageral.mg.gov.br](https://www.secretariageral.mg.gov.br/Institucional/Sobre). Antes de entrar para a política, ele teve uma longa carreira na iniciativa privada, começando aos 11 anos e chegando a assumir o controle das Lojas Zema, expandindo a rede para diversos estados [agenciaminas.mg.gov.br](https://www.agenciaminas.mg.gov.br/governador/biografia).",
+  "response_no_search": "Romeu Zema é governador de **Minas Gerais**.",
+  "error": null
+}

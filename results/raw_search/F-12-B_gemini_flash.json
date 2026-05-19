@@ -1,0 +1,35 @@
+{
+  "question_id": "F-12-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.cl.df.gov.br/documents/5744614/28876714/Notas_Taquigraficas_CPI_29_11_23_final_2.pdf/ab1cfe37-b30f-b526-0333-b947e87f1a64?t=1701881066921&version=1.1"
+    },
+    {
+      "title": "Golpistas invadem Congresso, STF e Palácio do Planalto; governo Lula intervém na segurança do DF - Estadão",
+      "url": "https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/"
+    },
+    {
+      "title": "Invasão aos Três Poderes completa 1 ano em 8 de janeiro – OBCC",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/2024/01/03/invasao-aos-tres-poderes-completa-1-ano-em-8-de-janeiro"
+    },
+    {
+      "title": "Relembre o passo a passo da tentativa de golpe no 8 de janeiro - Folha PE",
+      "url": "https://www.folhape.com.br/politica/relembre-o-passo-a-passo-da-tentativa-de-golpe-no-81/310069/"
+    },
+    {
+      "title": "Ataques de 8 de janeiro: as perguntas ainda sem respostas um ano depois - Data saving version: BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c06y1vekdgeo.lite"
+    }
+  ],
+  "response": "Sim, os atos de 8 de janeiro de 2023 incluíram a invasão e depredação de prédios públicos federais. Manifestantes invadiram e vandalizaram as sedes dos Três Poderes da República em Brasília: o Congresso Nacional, o Palácio do Planalto e o Supremo Tribunal Federal (STF) [estadao.com.br](https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/), [ufsm.br](https://www.ufsm.br/projetos/institucional/observatorio-crise/2024/01/03/invasao-aos-tres-poderes-completa-1-ano-em-8-de-janeiro), [bbc.com](https://www.bbc.com/portuguese/articles/c06y1vekdgeo.lite).\n\nOs eventos ocorreram da seguinte forma:\n*   **Invasão e Vandalismo** Por volta das 14h, bolsonaristas radicais marcharam pela Esplanada dos Ministérios. Perto das 15h, o grupo furou o bloqueio da Polícia Militar e ocupou o Congresso Nacional, invadindo o Senado e a Câmara. Em seguida, tomaram o Palácio do Planalto e o STF, quebrando vidraças, entrando em gabinetes e depredando obras de arte e acervo histórico [estadao.com.br](https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/), [ufsm.br](https://www.ufsm.br/projetos/institucional/observatorio-crise/2024/01/03/invasao-aos-tres-poderes-completa-1-ano-em-8-de-janeiro).\n*   **Leniência Policial** Houve relatos de leniência por parte de alguns policiais militares, que teriam tirado fotos com manifestantes e não ofereceram resistência efetiva à invasão [estadao.com.br](https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/), [ufsm.br](https://www.ufsm.br/projetos/institucional/observatorio-crise/2024/01/03/invasao-aos-tres-poderes-completa-1-ano-em-8-de-janeiro), [folhape.com.br](https://www.folhape.com.br/politica/relembre-o-passo-a-passo-da-tentativa-de-golpe-no-81/310069/).\n*   **Controle da Situação** Cerca de três horas e meia depois do início dos ataques, as forças de segurança (PM, Polícia Civil, Força Nacional de Segurança, Polícia Federal e Polícia do Exército) conseguiram controlar a situação. Os prédios foram liberados progressivamente, começando pelo STF, depois o Planalto e o Congresso [estadao.com.br](https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/), [folhape.com.br](https://www.folhape.com.br/politica/relembre-o-passo-a-passo-da-tentativa-de-golpe-no-81/310069/).\n*   **Consequências** Os atos resultaram na detenção de mais de duas mil pessoas e na abertura de investigações pela Procuradoria-Geral da República (PGR) e pelo STF, com acusações que incluem crimes como dano qualificado, atentado contra o estado democrático de direito e terrorismo [estadao.com.br](https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/), [ufsm.br](https://www.ufsm.br/projetos/institucional/observatorio-crise/2024/01/03/invasao-aos-tres-poderes-completa-1-ano-em-8-de-janeiro), [bbc.com",
+  "response_no_search": "Sim, os atos de 8 de janeiro de 2023 incluíram a invasão e depredação de prédios públicos federais em Brasília. Os edifícios invadidos foram:\n\n*   **Palácio do Planalto:** Sede do Poder Executivo Federal.\n*   **Congresso Nacional:** Sede do Poder Legislativo Federal (Câmara dos Deputados e Senado Federal).\n*   **Supremo Tribunal Federal (STF):** Sede do Poder Judiciário Federal.\n\nOs invasores causaram extensos danos materiais aos prédios, incluindo quebra de vidros, móveis, obras de arte, equipa",
+  "error": null
+}

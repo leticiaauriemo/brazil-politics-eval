@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF declara conclusão do processo sobre golpe de Estado e ordena execução da pena de Bolsonaro",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/25/moraes-declara-conclusao-do-processo-sobre-golpe-de-estado-e-abre-caminho-para-execucao-das-penas-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "STF confirma trânsito em julgado de condenação de Bolsonaro",
+      "url": "https://www.conjur.com.br/2025-nov-25/1a-turma-do-supremo-confirma-condenacao-definitiva-de-bolsonaro/"
+    },
+    {
+      "title": "Bolsonaro e aliados têm condenações definitivas no STF por trama golpista",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/moraes-declara-transito-em-julgado-para-bolsonaro-ramagem-e-torres-no-processo-da-trama-golpista,5ef8e7fa3a4befc25ebf6d32f333b743x3bqipd4.html"
+    },
+    {
+      "title": "STF rejeita recurso e mantém condenação de Bolsonaro na trama golpista | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/stf-rejeita-recurso-e-mantem-condenacao-de-bolsonaro-na-trama-golpista"
+    },
+    {
+      "title": "STF publica acórdão e abre contagem para último recurso de Bolsonaro | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/stf-publica-acordao-e-abre-contagem-para-ultimo-recurso-de-bolsonaro/"
+    }
+  ],
+  "response": "A condenação de Jair Bolsonaro pelo Supremo Tribunal Federal (STF) por liderar uma organização criminosa que tentou impedir a posse do presidente Lula e subverter o Estado democrático de Direito **transitou em julgado**. Isso significa que não cabem mais recursos, e a execução das penas está autorizada. Bolsonaro foi condenado a 27 anos e 3 meses de prisão, em regime inicial fechado, e já está preso preventivamente na Superintendência da Polícia Federal em Brasília. \n\nEmbora as defesas ainda possam tentar apresentar embargos infringentes, o STF já considerou que esse recurso não é cabível, pois não houve divergência de pelo menos dois votos pela absolvição durante o julgamento. Portanto, o processo está encerrado, e a pena deve ser cumprida.",
+  "response_no_search": "A condenação do ex-presidente Jair Bolsonaro pelo STF (Supremo Tribunal Federal) ainda não transitou em julgado, ou seja, há possibilidades de recursos pendentes.  \n\nO caso específico em que Bolsonaro foi condenado (como no processo sobre uso político das Forças Armadas ou outros investigados pelo ministro Alexandre de Moraes) pode ser alvo de recursos, como embargos declaratórios ou outros meios de defesa.  \n\nNo sistema jurídico brasileiro, o trânsito em julgado só ocorre quando não cabe mais n",
+  "error": null
+}

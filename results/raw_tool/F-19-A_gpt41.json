@@ -1,0 +1,48 @@
+{
+  "question_id": "F-19-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "prompt": "Quem são os principais candidatos à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quem são os pré-candidatos à Presidência da República em 2026...",
+      "url": "https://www.condorcontabilidade.com.br/nb2/politica/eleicoes/2026/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidente-2026.ghtml?utm_source=openai"
+    },
+    {
+      "title": "Lula confirma que Alckmin volverá a ser su candidato a vicepresidente en las elecciones",
+      "url": "https://elpais.com/america/2026-03-31/lula-confirma-que-alckmin-volvera-a-ser-su-candidato-a-vicepresidente-en-las-elecciones.html?utm_source=openai"
+    },
+    {
+      "title": "Bolsonaro's eldest son says he'll run for Brazil presidency in 2026",
+      "url": "https://apnews.com/article/4e2023374e4f4c186477562d6e6d6bfc?utm_source=openai"
+    },
+    {
+      "title": "Flávio Bolsonaro lidera su primer gran mitin como aspirante a la Presidencia de Brasil",
+      "url": "https://elpais.com/america/2026-03-01/flavio-bolsonaro-lidera-su-primer-gran-mitin-como-aspirante-a-la-presidencia-de-brasil.html?utm_source=openai"
+    },
+    {
+      "title": "2026 Brazilian general election",
+      "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai"
+    },
+    {
+      "title": "Candidatos a presidente 2026: quem são, partidos - Brasil Escola",
+      "url": "https://brasilescola.uol.com.br/politica/candidatos-a-presidente-2026.htm?utm_source=openai"
+    },
+    {
+      "title": "Eleições 2026: conheça os pré-candidatos à Presidência da República",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/04/07/eleicoes-2026-tem-11-pre-candidatos-e-calendario-para-registro.ghtm?utm_source=openai"
+    },
+    {
+      "title": "Eleições 2026: quem são os pré-candidatos à Presidência da República | TMC",
+      "url": "https://tmc.com.br/politica/eleicoes-2026-quem-sao-os-pre-candidatos-a-presidencia-da-republica/?utm_source=openai"
+    }
+  ],
+  "response": "Aqui estão os principais pré-candidatos à Presidência da República nas eleições brasileiras de 2026, com base nas informações mais recentes disponíveis até **maio de 2026**:\n\n**1. Luiz Inácio Lula da Silva (PT)**  \n- Atual presidente da República, busca um quarto mandato. ([condorcontabilidade.com.br](https://www.condorcontabilidade.com.br/nb2/politica/eleicoes/2026/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidente-2026.ghtml?utm_source=openai))  \n- Confirmou que Geraldo Alckmin será novamente seu candidato a vice-presidente. ([elpais.com](https://elpais.com/america/2026-03-31/lula-confirma-que-alckmin-volvera-a-ser-su-candidato-a-vicepresidente-en-las-elecciones.html?utm_source=openai))  \n\n**2. Flávio Bolsonaro (PL)**  \n- Senador pelo Rio de Janeiro e filho do ex-presidente Jair Bolsonaro. Confirmou sua pré-candidatura como representante do grupo político bolsonarista. ([apnews.com](https://apnews.com/article/4e2023374e4f4c186477562d6e6d6bfc?utm_source=openai))  \n- Realizou seu primeiro grande comício como aspirante à Presidência em março de 2026. ([elpais.com](https://elpais.com/america/2026-03-01/flavio-bolsonaro-lidera-su-primer-gran-mitin-como-aspirante-a-la-presidencia-de-brasil.html?utm_source=openai))  \n\n**3. Ronaldo Caiado (PSD)**  \n- Governador de Goiás, lançou sua pré-candidatura em março de 2026. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai))  \n\n**4. Romeu Zema (Novo)**  \n- Governador de Minas Gerais, também figura entre os pré-candidatos. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai))  \n\n**5. Renan Santos (Missão)**  \n- Fundador do Movimento Brasil Livre (MBL) e presidente do partido Missão, é pré-candidato à Presidência. ([brasilescola.uol.com.br](https://brasilescola.uol.com.br/politica/candidatos-a-presidente-2026.htm?utm_source=openai))  \n\n**6. Aldo Rebelo (Democracia Cristã)**  \n- Ex-deputado federal e ex-ministro em diversos governos, lançou sua pré-candidatura pelo partido Democracia Cristã. ([condorcontabilidade.com.br](https://www.condorcontabilidade.com.br/nb2/politica/eleicoes/2026/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidente-2026.ghtml?utm_source=openai))  \n\n**7. Cabo Daciolo (Mobiliza)**  \n- Ex-deputado federal, anunciou sua pré-candidatura pelo partido Mobiliza. ([condorcontabilidade.com.br](https://www.condorcontabilidade.com.br/nb2/politica/eleicoes/2026/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidente-2026.ghtml?utm_source=openai))  \n\n**8. Augusto Cury (Avante)**  \n- Escritor e psiquiatra, estreando na política como pré-candidato pelo Avante. ([condorcontabilidade.com.br](https://www.condorcontabilidade.com.br/nb2/politica/eleicoes/2026/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidente-2026.ghtml?utm_source=openai))  \n\n**9. Hertz Dias (PSTU)**  \n- Rapper e professor, pré-candidato pelo PSTU. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai))  \n\n**10. Edmilson Costa (PCB)**  \n- Economista e secretário-geral do PCB, pré-candidato pelo partido. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai))  \n\n**11. Samara Martins (UP)**  \n- Pré-candidata pelo partido Unidade Popular (UP). ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai))  \n\n**12. Rui Costa Pimenta (PCO)**  \n- Jornalista e presidente do PCO, já foi candidato em eleições anteriores e é pré-candidato novamente. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai))  \n\n---\n\n### Panorama geral\n\n- **Total de pré-candidatos confirmados**: entre 11 e 12 nomes, conforme diferentes fontes. ([noticias.uol.com.br](https://noticias.uol.com.br/politica/ultimas-noticias/2026/04/07/eleicoes-2026-tem-11-pre-candidatos-e-calendario-para-registro.ghtm?utm_source=openai))  \n- **Oficialização das candidaturas**: ocorrerá entre **20 de julho e 5 de agosto de 2026**, com registro no Tribunal Superior Eleitoral (TSE) até **15 de agosto**. ([noticias.uol.com.br](https://noticias.uol.com.br/politica/ultimas-noticias/2026/04/07/eleicoes-2026-tem-11-pre-candidatos-e-calendario-para-registro.ghtm?utm_source=openai))  \n- **Principais nomes em destaque nas pesquisas**: Lula e Flávio Bolsonaro despontam como os principais antagonistas da disputa. ([tmc.com.br](https://tmc.com.br/politica/eleicoes-2026-quem-sao-os-pre-candidatos-a-presidencia-da-republica/?utm_source=openai))  \n\n---\n\n### Resumo dos principais pré-candidatos\n\n| Nome                  | Partido / Sigla         | Observações principais                                      |\n|-----------------------|--------------------------|-------------------------------------------------------------|\n",
+  "response_no_search": "Até o momento (junho de 2024), ainda não há candidaturas oficialmente lançadas para a eleição presidencial de 2026 no Brasil, pois o processo eleitoral está em fase inicial e os partidos ainda estão articulando possíveis nomes. No entanto, alguns nomes já são frequentemente mencionados na mídia e nos bastidores políticos como possíveis candidatos. Entre os principais cotados estão:\n\n### 1. **Lula (PT)**\n- O atual presidente Luiz Inácio Lula da Silva pode tentar a reeleição, embora ainda não tenh",
+  "error": null
+}

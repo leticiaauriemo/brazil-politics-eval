@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "prompt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fim da reeleição: Lula pode ser candidato em 2026? | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml"
+    },
+    {
+      "title": "Fim da reeleição pode atingir Lula? Entenda quando regra passa a valer se aprovada pelo Congresso",
+      "url": "https://www.estadao.com.br/politica/fim-reeleicao-pode-atingir-lula-entenda-quando-regra-passa-valer-aprovada-congresso-nprp/"
+    },
+    {
+      "title": "PEC do fim da reeleição: Lula não pode ser candidato em 2026? Entenda",
+      "url": "https://gcmais.com.br/noticias/2025/05/21/pec-do-fim-da-reeleicao-lula-nao-pode-ser-candidato-em-2026-entenda/"
+    },
+    {
+      "title": "Lula pode se reeleger em 2026? Veja o que a lei diz - DCI",
+      "url": "https://www.dci.com.br/politica/lula-podera-se-reeleger-em-2026/283405/"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2026/03/PEC-4_2026-veda-a-reeleicao-ao-cargo-de-PR-1.pdf"
+    }
+  ],
+  "response": "Não, a Constituição brasileira não impede o presidente Luiz Inácio Lula da Silva de disputar a reeleição em 2026.\n\nA Constituição Federal permite a reeleição para um único mandato consecutivo para os chefes do Poder Executivo (presidente, governadores e prefeitos). Como Lula está em seu primeiro mandato consecutivo, ele tem o direito de se candidatar novamente em 2026.\n\nRecentemente, a Comissão de Constituição e Justiça (CCJ) do Senado aprovou uma Proposta de Emenda à Constituição (PEC) que visa acabar com a reeleição. No entanto, o texto da proposta prevê um período de transição, e as novas regras não afetariam a eleição de 2026. Portanto, mesmo que essa PEC seja aprovada e promulgada, ela não impediria uma eventual candidatura de Lula no próximo pleito presidencial.",
+  "response_no_search": "Não, a Constituição brasileira **não impede** que o presidente Luiz Inácio Lula da Silva dispute as eleições de 2026. Pelo contrário, a regra atual permite sua candidatura.\n\nA",
+  "error": null
+}

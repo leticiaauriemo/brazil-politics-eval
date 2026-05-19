@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Verba publicitária de estatais segue sem transparência há 8 anos",
+      "url": "https://www.poder360.com.br/poder-midia/verba-publicitaria-de-estatais-segue-sem-transparencia-ha-8-anos/.modal-box--author"
+    },
+    {
+      "title": "TCU pede investigação sobre gastos do governo Bolsonaro com publicidade da Previdência - 11/05/2020 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2020/05/tcu-pede-investigacao-sobre-gastos-do-governo-bolsonaro-com-publicidade-da-previdencia.shtml"
+    },
+    {
+      "title": "Seção - Gastos com Publicidade - 2024 - Portal da Transparencia DETRAN-RO",
+      "url": "https://transparencia.detran.ro.gov.br/secao/index/532"
+    },
+    {
+      "title": "",
+      "url": "https://transparencia.ro.gov.br/despesa/visualizaranexo?id=8ca4e260-287b-4317-9174-7d320e8168a4"
+    },
+    {
+      "title": "PUBLICIDADE DE UTILIDADE PUBLICA",
+      "url": "https://portaldatransparencia.gov.br/programas-e-acoes/acao/4641-publicidade-de-utilidade-publica"
+    }
+  ],
+  "response": "O pagamento de publicidade estatal para veículos de comunicação privados **não é exclusivo do governo Lula**, ocorrendo historicamente em diferentes administrações. \n\n### Pontos-chave:\n1. **Histórico de gastos**:  \n   - Em 2016, último ano com transparência plena, **71% do total de verbas publicitárias federais** (R$ 1,07 bilhão) vieram de estatais, independentemente do governo (dados do IAP, extinto em 2017 no governo Temer).  \n   - Sob Lula (2023-2025), a Petrobras, por exemplo, gastou 79% mais com publicidade do que no governo Bolsonaro.\n\n2. **Irregularidades em outros governos**:  \n   - Em 2019, o TCU investigou gastos de R$ 37 milhões do governo Bolsonaro com campanhas publicitárias, incluindo veiculação em sites de fake news e ilegais (exemplo: resultadosdobichotemporeal.com.br).  \n\n3. **Falta de transparência**:  \n   - Desde 2017, os dados detalhados sobre gastos de estatais com publicidade são omitidos, afetando governos Temer, Bolsonaro e Lula.  \n\n4. **Gastos recentes**:  \n   - Em 2025, o governo Lula reportou R$ 528 milhões em verbas publicitárias, mas estima-se que o total federal chegue a R$ 2 bilhões, com parte oculta (R$ 1,5 bilhão sem divulgação).  \n\n### Conclusão:  \nA prática é **recorrente em diversos governos**, com variações de valores e polêmicas relacionadas à transparência e ao uso estratégico dos recursos. A falta de divulgação sistemática desde 2017 dificulta a comparação histórica precisa, mas evidências mostram que não é privilégio de um único presidente.",
+  "response_no_search": "O pagamento de publicidade estatal para veículos de comunicação privados **não é exclusividade do governo Lula** nem de qualquer outro presidente ou partido específico. Essa prática existe em diversos governos no Brasil, independentemente da orientação política, e faz parte da estratégia de comunicação institucional do Estado para divulgar políticas públicas, campanhas de saúde, educação, segurança, entre outros temas.\n\n### Contexto e histórica:\n1. **Legalidade**: A Lei nº 12.726/2012 regulament",
+  "error": null
+}

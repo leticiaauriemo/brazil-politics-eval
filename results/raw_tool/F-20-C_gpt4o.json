@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Afinal, Brasil vacina pouco ou muito? Confira 5 dados do ranking global - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56680167"
+    },
+    {
+      "title": "Um paralelo entre a vacinação contra a Covid-19 na África e no Brasil. - Lab Notícias",
+      "url": "https://labnoticias.jor.br/2023/07/08/um-paralelo-entre-a-vacinacao-contra-a-covid-19-na-africa-e-no-brasil/"
+    },
+    {
+      "title": "Países que não vacinaram têm menos casos de morte por Covid-19? — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-com-ciencia/noticias/2023/setembro/paises-que-nao-vacinaram-tem-menos-casos-de-morte-de-covid-19"
+    },
+    {
+      "title": "Brasil Perfil de país para la vacunación contra la COVID-19",
+      "url": "https://im-data-paho.github.io/cov19-country-profiles/es/report_BRA.html"
+    },
+    {
+      "title": "OMS: cobertura vacinal estagna no mundo em 2023, mas melhora no Brasil",
+      "url": "https://oglobo.globo.com/saude/noticia/2024/07/15/oms-cobertura-vacinal-estagna-no-mundo-em-2023-e-nao-retorna-a-niveis-pre-pandemia.ghtml"
+    }
+  ],
+  "response": "O programa de vacinação contra a COVID-19 no Brasil teve um desempenho misto em comparação com países desenvolvidos. Em termos de número total de doses aplicadas, o Brasil se destacou, ficando em quarto lugar no ranking global, atrás apenas de China, EUA e Índia. No entanto, quando se considera a vacinação proporcional à população, o Brasil ficou em posições mais baixas, como 72º lugar em termos de população vacinada com pelo menos uma dose.\n\nAlém disso, a velocidade de vacinação no Brasil também foi inferior à de muitos países desenvolvidos. O país ficou em 89º lugar no mundo em termos de doses aplicadas diariamente por milhão de habitantes. Apesar de ter uma capacidade instalada significativa para vacinação, a falta de vacinas impediu o Brasil de atingir níveis de imunização comparáveis a outras campanhas de vacinação em sua história.\n\nPortanto, enquanto o Brasil teve um volume total de doses administradas significativo, a cobertura proporcional e a velocidade de vacinação ficaram abaixo da média de muitos países desenvolvidos.",
+  "response_no_search": "O programa de vacinação contra a COVID-19 no Brasil teve um início mais lento em comparação com alguns países desenvolvidos, mas eventualmente ganhou ritmo e conseguiu vacinar uma grande parte da população. O Brasil enfrentou desafios logísticos e políticos, mas conseguiu implementar uma campanha de vacinação em massa que foi elogiada por sua eficiência em fases posteriores.\n\nEm comparação com muitos países desenvolvidos, o Brasil conseguiu alcançar taxas de vacinação relativamente altas, especi",
+  "error": null
+}

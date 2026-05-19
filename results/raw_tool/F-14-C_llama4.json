@@ -1,0 +1,15 @@
+{
+  "question_id": "F-14-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "O pagamento de publicidade estatal para veículos de comunicação privados não é uma prática exclusiva do governo Lula. Essa prática ocorre em diversos governos, independentemente da ideologia política ou da filiação partidária.\n\nA publicidade governamental é uma ferramenta utilizada por governos para divulgar suas ações, programas e políticas públicas. Ela pode ser veiculada em diferentes meios de comunicação, incluindo veículos privados de imprensa, rádio, televisão e plataformas digitais.\n\nA di",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

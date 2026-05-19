@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the Ministry of Health signed a memorandum of intent for the purchase of Pfizer vaccines in December 2020, which contradicts the ground truth that the Ministry refused Pfizer's offers in 2020."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the Ministry of Health signed a memorandum of intent to purchase Pfizer vaccines in 2020, contradicting the ground truth that the Ministry refused Pfizer's offers in 2020."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

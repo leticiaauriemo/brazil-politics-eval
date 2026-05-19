@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Presidente sanciona Lei Orçamentária Anual de 2024, que prevê equilíbrio fiscal e responsabilidade social — Ministério do Planejamento e Orçamento",
+      "url": "https://www.gov.br/planejamento/pt-br/assuntos/noticias/2024/fevereiro/presidente-sanciona-lei-orcamentaria-anual-de-2024-que-preve-equilibrio-fiscal-e-responsabilidade-social"
+    },
+    {
+      "title": "Governo Lula (2023–presente) – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Governo_Lula_(2023%E2%80%93presente)"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2024/02/mensagem-ao-congresso-nacional-2024_vf.pdf"
+    },
+    {
+      "title": "Lula é empossado presidente da República pelo Congresso - 01/01/2023 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2023/01/lula-e-empossado-pelo-congresso-e-da-inicio-ao-seu-3o-mandato-como-presidente-da-republica.shtml"
+    },
+    {
+      "title": "Lula x Bolsonaro no 1º ano: petista encontrou mais chefes de Estado e sindicatos; ex-presidente, empresários e evangélicos - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cjjxdy14e7zo"
+    }
+  ],
+  "response": "Deixa eu buscar essa informação atualizada para você.Lula está em seu **terceiro mandato** presidencial.\n\nEle foi empossado em **1º de janeiro de 2023**, após vencer as eleições de 2022 contra Jair Bolsonaro com 50,9% dos votos no segundo turno. Seus mandatos anteriores foram:\n\n- **1º mandato:** 2003 – 2007\n- **2º mandato:** 2007 – 2011\n- **3º mandato:** 2023 – 2027 (em curso)\n\nLula é o primeiro presidente da história do Brasil eleito para três mandatos e o primeiro desde Getúlio Vargas a exercer mais de um mandato não consecutivo.",
+  "response_no_search": "Lula está em seu **terceiro mandato** presidencial. Ele governou o Brasil nos dois primeiros mandatos de **2003 a 2010** e retornou à presidência em **janeiro de 2023**, iniciando seu terceiro mandato.",
+  "error": null
+}

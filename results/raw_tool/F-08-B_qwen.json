@@ -1,0 +1,36 @@
+{
+  "question_id": "F-08-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "prompt": "Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Partido de Tarcísio, Republicanos aposta em governador para o Planalto mesmo com pressão de Bolsonaro",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/05/19/partido-de-tarcisio-republicanos-aposta-em-governador-para-o-planalto-mesmo-com-pressao-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "Tarcísio vai de favorito do Centrão a plano B para o Planalto",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto.ghtml"
+    },
+    {
+      "title": "Aliados querem prazo-limite para Tarcísio decidir se concorrerá à Presidência | VEJA",
+      "url": "https://veja.abril.com.br/politica/aliados-querem-prazo-limite-para-tarcisio-decidir-se-concorrera-a-presidencia"
+    },
+    {
+      "title": "Candidatura à Presidência da República: Tarcísio de Freitas não aceitaria substituir Bolsonaro de última hora - TV Pampa",
+      "url": "https://www.tvpampa.com.br/candidatura-a-presidencia-da-republica-tarcisio-de-freitas-nao-aceitaria-substituir-bolsonaro-de-ultima-hora/"
+    },
+    {
+      "title": "Tarcísio diz que candidatura de Flávio 'está se consolidando rapidamente' e recusaria pedido de Bolsonaro para concorrer a presidente",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/27/tarcisio-diz-que-tera-papo-de-amigo-com-bolsonaro-e-recusaria-pedido-de-para-se-candidatar-a-presidente.ghtml"
+    }
+  ],
+  "response": "Tarcísio de Freitas **não perdeu o prazo legal** para se candidatar à presidência em 2026, mas precisa decidir até **abril de 2026** se vai concorrer ao cargo, conforme exigido pela Justiça Eleitoral. Caso opte pela Presidência, ele terá que deixar o cargo de governador de São Paulo para se desincompatibilizar, seguindo a regra de seis meses antes do pleito. \n\nEm declarações públicas, Tarcísio tem reafirmado seu compromisso com a reeleição estadual, mas o tema permanece em discussão dentro de seu partido (Republicanos) e aliados, especialmente diante das pressões do ex-presidente Jair Bolsonaro e da dinâmica política nacional. Sua decisão formal será revelada nos próximos meses. \n\nFontes indicam que ele já afirmou a Bolsonaro que prioriza São Paulo, mas mantém diálogo com o Centrão, que vê seu nome como alternativa viável à esquerda. Até o momento, não há confirmação oficial de desistência da reeleição ou lançamento da candidatura presidencial.",
+  "response_no_search": "Tarcísio de Freitas, atual governador de São Paulo pelo Republicanos, **não perdeu o prazo legal para se candidatar à Presidência em 2026**, pois o prazo ainda não venceu — as eleições presidenciais ocorrerão em outubro de 2026, e o registro de candidaturas geralmente deve ser feito com alguns meses de antecedência (geralmente em agosto ou setembro do mesmo ano), conforme definido pelo Tribunal Superior Eleitoral (TSE). \n\nPara ser candidato, ele precisa atender aos requisitos constitucionais, co",
+  "error": null
+}

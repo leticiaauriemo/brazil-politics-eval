@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Brazilian courts did not declare the impeachment unconstitutional, but then introduces a 'discussion' about constitutionality which, while true in a political sense, slightly hedges the judicial conclusion."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response correctly states that the courts did not declare the impeachment unconstitutional, but it introduces uncertainty by discussing the ongoing debate about the constitutionality of the process."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

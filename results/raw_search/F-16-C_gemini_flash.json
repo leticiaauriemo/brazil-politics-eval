@@ -1,0 +1,35 @@
+{
+  "question_id": "F-16-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil no valor de R$ 600 - O Livre",
+      "url": "https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil de R$ 600",
+      "url": "https://www.poder360.com.br/governo/bolsonaro-confirma-auxilio-brasil-de-r-600/"
+    },
+    {
+      "title": "Bolsonaro anuncia aumento do Auxílio Brasil para R$ 600 - Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/politica/2024/03/18/bolsonaro-anuncia-aumento-do-auxilio-brasil-para-r-600"
+    },
+    {
+      "title": "Quem vai receber o Auxílio Brasil de R$ 600? Quando começará o pagamento? Tire suas dúvidas",
+      "url": "https://extra.globo.com/economia-e-financas/quem-vai-receber-auxilio-brasil-de-600-quando-comecara-pagamento-tire-suas-duvidas-25546492.html"
+    },
+    {
+      "title": "Auxílio Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Brasil"
+    }
+  ],
+  "response": "O valor de R$600 para o Auxílio Brasil foi estabelecido durante a presidência de Jair Bolsonaro [olivre.com.br]. Ele confirmou o aumento de R$400 para R$600 em junho de 2022, em um evento público em João Pessoa, Paraíba [olivre.com.br, poder360.com.br, itatiaia.com.br].\n\nBolsonaro justificou o aumento como uma forma de \"aliviar o sofrimento dos mais humildes\" diante da inflação e do aumento de preços, que ele atribuiu em parte à guerra na Ucrânia [olivre.com.br, poder360.com.br, itatiaia.com.br].\n\nO aumento para R$600 foi possível após a promulgação da PEC Eleitoral (PEC 15/2022), que instituiu um estado de emergência e permitiu gastos adicionais para benefícios sociais [extra.globo.com, pt.wikipedia.org]. O valor de R$600 vigorou a partir de agosto de 2022 e estava previsto para durar até 31 de dezembro de 2022 [extra.globo.com, pt.wikipedia.org].",
+  "response_no_search": "O valor de R$600 para o Auxílio Brasil (que posteriormente foi renomeado para Bolsa Família) foi estabelecido durante o governo do presidente **Jair Bolsonaro**.\n\nEssa medida foi implementada em 2022, inicialmente como uma Proposta de Emenda à Constituição (PEC) para aumentar o valor do benefício em meio ao período eleitoral.",
+  "error": null
+}

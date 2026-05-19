@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms Daniel Vorcaro's arrests in November 2025 and March 2026, and details the scheme involving credit portfolios without financial backing, aligning with the ground truth's core claims."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the arrests of Daniel Vorcaro during both phases of the Compliance Zero operation and provides specific details about the investigation."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

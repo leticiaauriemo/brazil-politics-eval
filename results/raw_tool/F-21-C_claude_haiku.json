@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "prompt": "Por qual estado Flávio Bolsonaro foi eleito senador?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Flávio Bolsonaro e Arolde de Oliveira são eleitos pelo Rio de Janeiro",
+      "url": "https://www12.senado.leg.br/noticias/materias/2018/10/07/flavio-bolsonaro-e-arolde-de-oliveira-sao-eleitos-pelo-rio-de-janeiro"
+    },
+    {
+      "title": "Rio de Janeiro elege Flávio Bolsonaro e Arolde de Oliveira ao Senado - Notícias - UOL Eleições 2018",
+      "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/07/rio-de-janeiro-elege-flavio-bolsonaro-e-arolde-de-oliveira-ao-senado.htm"
+    },
+    {
+      "title": "Flávio Bolsonaro (PSL) é eleito para o Senado pelo Rio de Janeiro",
+      "url": "https://www.metropoles.com/brasil/eleicoes-2018/flavio-bolsonaro-psl-e-eleito-para-o-senado-pelo-rio-de-janeiro"
+    },
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "Senador eleito, Flávio Bolsonaro rejeita Rodrigo Maia e Renan Calheiros",
+      "url": "https://www.poder360.com.br/governo/senador-eleito-pelo-rio-flavio-bolsonaro-rejeita-rodrigo-maia-e-renan-calheiros/"
+    }
+  ],
+  "response": "Flávio Bolsonaro foi eleito senador pelo **Rio de Janeiro** nas eleições de 2018. Ele foi o mais votado na disputa por uma vaga ao Senado pelo estado, obtendo 31,3% dos votos válidos (4,37 milhões de votos).",
+  "response_no_search": "Flávio Bolsonaro foi eleito senador pelo estado do **Rio de Janeiro**. Ele foi eleito em 2018 e reeleito em 2022.",
+  "error": null
+}

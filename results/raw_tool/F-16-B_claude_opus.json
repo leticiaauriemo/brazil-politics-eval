@@ -1,0 +1,28 @@
+{
+  "question_id": "F-16-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsa Família ampliado reduz oferta de trabalho, mas pode ser aperfeiçoado",
+      "url": "https://ibre.fgv.br/blog-da-conjuntura-economica/temas/bolsa-familia-ampliado-reduz-oferta-de-trabalho-mas-pode-ser"
+    },
+    {
+      "title": "Auxílio Brasil – Wikipédia, a enciclopédia livre",
+      "url": "https://en.wikipedia.org/wiki/Aux%C3%ADlio_Brasil"
+    },
+    {
+      "title": "Bolsa Família retorna com piso de R$ 600 e valor extra por filhos de até 18 anos | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/bolsa-familia-retorna-com-piso-de-r-600-e-valor-extra-por-filhos-de-ate-18-anos/"
+    }
+  ],
+  "response": "O benefício mínimo de R$ 600 foi implementado em ambos os governos, em momentos e contextos diferentes. Deixa eu fazer uma busca para trazer informações precisas sobre isso.# O benefício mínimo de R$ 600: uma medida dos dois governos\n\nA resposta exige um contexto histórico, pois **ambos os governos adotaram o valor de R$ 600**, mas em momentos e formatos diferentes.\n\n## Governo Bolsonaro (origem do valor de R$ 600)\n\nO valor de R$ 600 apareceu pela primeira vez durante a pandemia. Em 2020, foi instituído o Auxílio Emergencial de R$ 600, que acabou servindo de inspiração para o Auxílio Brasil, ainda no governo Bolsonaro. Este programa começou com um benefício básico de R$ 400, que foi ampliado para R$ 600 em 2022, ano eleitoral.\n\nO Auxílio Brasil foi o programa de assistência social do Governo do Brasil criado durante a presidência de Jair Bolsonaro. Anunciado em outubro de 2021, a medida provisória foi sancionada por Bolsonaro depois de passar pelas duas casas legislativas em 30 de dezembro de 2021, substituindo o Bolsa Família.\n\nImportante destacar que o valor mínimo do benefício foi elevado para R$ 600 após a promulgação da PEC 15/2022, válida até o final de 2022 — ou seja, era uma medida **temporária**, com validade somente até o fim daquele ano eleitoral.\n\n## Governo Lula (tornou permanente o valor de R$ 600)\n\nO aumento do benefício para pelo menos R$ 600, permanentemente, foi uma promessa de campanha tanto de Lula quanto de Bolsonaro nas eleições de 2022.\n\nApós vencer a eleição, Lula efetivou o valor de forma permanente: transformado em Auxílio Brasil e elevado para valores de R$ 400 a R$ 600, o Bolsa Família foi retomado pelo governo Lula com o valor mínimo de R$ 600 e também com benefícios extras em relação à sua configuração original. O presidente Lula anunciou oficialmente a volta do programa em cerimônia no Palácio do Planalto, assinando a medida provisória com as novas regras. O valor mínimo, conforme prometido por Lula durante a campanha, é de R$ 600.\n\nAlém disso, o governo Lula incluiu adicionais: um valor adicional para famílias com gestantes, crianças e adolescentes — o pagamento extra é de R$ 150 por cada criança da casa com até seis anos e de R$ 50 para os dependentes de sete a 18 anos incompletos. Gestantes também recebem um valor adicional de R$ 50.",
+  "response_no_search": "O benefício mínimo de R$ 600 do Auxílio Brasil/Bolsa Família tem uma história que envolve **ambos os governos**, e a resposta depende de qual aspecto se considera:\n\n**Governo Bolsonaro (2022):**\n- Em agosto de 2022, foi aprovada a PEC Kamikaze (PEC 1/2022), que elevou o Auxílio Brasil de R$ 400 para R$ 600.\n- Essa medida, no entanto, era **temporária**, válida apenas até dezembro de 2022, em pleno ano eleitoral.\n\n**Governo Lula (2023):**\n- Lula tornou o benefício de R$ 600 **permanente** já em j",
+  "error": null
+}

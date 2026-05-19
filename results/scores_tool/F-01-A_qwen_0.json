@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately and specifically states that Lula's convictions were annulled on procedural grounds (jurisdictional incompetence and judicial bias), explicitly clarifying that this is not an acquittal or declaration of innocence."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that Lula is considered innocent due to the annulment, conflating annulment with acquittal."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

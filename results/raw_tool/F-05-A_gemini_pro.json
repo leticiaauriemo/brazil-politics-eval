@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "prompt": "Quem criou o programa Bolsa Família no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsa Família nasceu da unificação de programas de Fernando Henrique Cardoso – Noticias R7",
+      "url": "https://noticias.r7.com/brasil/bolsa-familia-nasceu-da-unificacao-de-programas-denbspfernando-henrique-cardoso-29062022/"
+    },
+    {
+      "title": "Uma controvérsia de anos: Quem criou o Bolsa Família? - Aventuras na História",
+      "url": "https://aventurasnahistoria.com.br/noticias/almanaque/uma-controversia-de-anos-quem-criou-o-bolsa-familia.phtml"
+    },
+    {
+      "title": "Entenda a trajetória dos programas de transferência de renda desde a criação do Bolsa Família, no início dos anos 2000",
+      "url": "https://www.infomoney.com.br/politica/entenda-a-trajetoria-dos-programas-de-transferencia-de-renda-desde-a-criacao-do-bolsa-familia-no-inicio-dos-anos-2000/"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    },
+    {
+      "title": "Renato Bromochenkel: Mas, afinal de contas, quem criou o Bolsa Família? - Reinaldo Azevedo Comenta",
+      "url": "https://www.renatobromochenkel.com.br/2014/10/mas-afinal-de-contas-quem-criou-o-bolsa.html"
+    }
+  ],
+  "response": "O programa Bolsa Família foi criado oficialmente no governo do ex-presidente Luiz Inácio Lula da Silva, em 2003, e formalizado por lei em 2004. \n\nNo entanto, o programa foi o resultado da unificação de vários outros programas de transferência de renda que já existiam no governo anterior, de Fernando Henrique Cardoso. Entre eles estavam o Bolsa Escola, o Bolsa Alimentação e o Auxílio-Gás.\n\nA ideia de unificar esses programas foi do então governador de Goiás, Marconi Perillo.\n\nA origem dos programas de transferência de renda no Brasil é ainda anterior. Em 1995, Cristovam Buarque, então governador do Distrito Federal, implementou o Bolsa-Educação. No mesmo ano, o prefeito de Campinas, José Roberto Magalhães Teixeira, criou um programa semelhante.\n\nRecentemente, o Bolsa Família foi substituído pelo Auxílio Brasil durante o governo de Jair Bolsonaro, mas o nome e o programa Bolsa Família foram retomados no governo seguinte.",
+  "response_no_search": "Ótima pergunta! A resposta tem uma camada principal e um contexto importante.\n\nA resposta direta é: O programa **Bolsa Família** foi criado em **2003**,",
+  "error": null
+}

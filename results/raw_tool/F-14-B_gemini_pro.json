@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo e TCU dizem que publicidade federal segue normas legais",
+      "url": "https://www.camara.leg.br/noticias/224406-governo-e-tcu-dizem-que-publicidade-federal-segue-normas-legais"
+    },
+    {
+      "title": "",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2821676&filename=RIC+4168%2F2024"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/adi-questiona-destinacao-de-r-99-milhoes-para-comunicacao-institucional-do-governo/"
+    },
+    {
+      "title": "L15080",
+      "url": "https://www.planalto.gov.br/CCiViL_03/_Ato2023-2026/2024/Lei/L15080.htm"
+    },
+    {
+      "title": "A publicidade federal concentra recursos na Globo e reacende o debate sobre critérios de distribuição. - Luciana",
+      "url": "https://portalnoticiasbahia.com.br/2026/01/12/a-publicidade-federal-concentra-recursos-na-globo-e-reacende-o-debate-sobre-criterios-de-distribuicao/"
+    }
+  ],
+  "response": "Sim, é legal. A publicidade institucional por parte do governo federal é uma prática prevista em lei e na Constituição, desde que siga algumas regras.\n\nA Constituição Federal (Art. ",
+  "response_no_search": "Ótima pergunta. A resposta curta e direta é: **Sim, é perfeitamente legal** que o governo federal pague por publicidade em emissoras de TV privadas como a Globo, Record",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the Ministry did not buy Pfizer vaccines in 2020, providing specific details, but it misses the context about SUS/PNI and state pressure driving the eventual vaccination success."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the Ministry of Health did not purchase Pfizer vaccines in 2020 and provides specific details about the offers and the government's response."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

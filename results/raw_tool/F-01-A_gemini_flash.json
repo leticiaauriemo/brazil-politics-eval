@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "Após STF anular processos da Lava Jato, Lula foi inocentado ou não? Entenda",
+      "url": "https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "Fachin anula condenações de Lula na Lava Jato | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2021-03/fachin-anula-condenacoes-de-lula-na-lava-jato"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/"
+    }
+  ],
+  "response": "As condenações de Lula na Operação Lava Jato foram anuladas pelo Supremo Tribunal Federal (STF) em 2021. Essa anulação ocorreu por duas razões principais:\n\n1.  **Incompetência da Vara de Curitiba:** O STF entendeu que a 13ª Vara Federal de Curitiba não tinha competência para julgar os casos de Lula, pois as acusações não estavam diretamente relacionadas aos desvios da Petrobras, que eram o foco da Lava Jato em Curitiba. Os processos foram então remetidos para a Justiça Federal em Brasília.\n2.  **Parcialidade do juiz Sergio Moro:** Em junho de 2021, o STF também decidiu que o então juiz Sergio Moro não agiu com imparcialidade ao julgar Lula no caso do triplex.\n\n**O que significa \"inocentado\"?**\n\nA questão se Lula foi \"inocentado\" é complexa e gera diferentes interpretações:\n\n*   **Do ponto de vista jurídico:** Com a anulação das condenações, Lula recuperou seu status de inocente perante a Justiça, pois não há mais um juízo de culpa válido e definitivo contra ele. A Constituição brasileira prevê o princípio da presunção de inocência, que estabelece que ninguém será considerado culpado até o trânsito em julgado de uma sentença penal condenatória. Como os processos foram anulados, é como se nunca tivessem existido, e ele é considerado inocente.\n*   **Interpretações divergentes:**\n    *   **Críticos de Lula** argumentam que a anulação se deu por questões técnicas (incompetência e parcialidade), e não por uma análise do mérito das acusações, ou seja, não foi provada sua inocência em relação aos fatos. Eles o chamam de \"descondenado\".\n    *   **Defensores de Lula** e alguns juristas afirmam que, uma vez que os processos foram anulados por falhas processuais graves, a discussão sobre \"inocentado\" ou \"condenado\" perde o sentido, e o que prevalece é a presunção de inocência.\n\nEm resumo, juridicamente, Lula é considerado inocente devido à anulação das condenações. No entanto, a interpretação sobre se ele foi \"inocentado\" no sentido de ter sua inocência dos fatos comprovada é um ponto de debate político e social.",
+  "response_no_search": "Não, Lula não foi inocentado das acusações de corrupção da Lava Jato. O que aconteceu foi que as condenações contra ele foram anuladas pelo Supremo Tribunal Federal (STF) em 2021.\n\n**Entenda o que aconteceu:**\n\n*   **Anulação das condenações:** O STF decidiu que o ex-juiz Sergio Moro não tinha competência para julgar os processos de Lula, pois os crimes não estavam diretamente relacionados à Petrobras e, portanto, não deveriam ter tramitado na Justiça Federal de Curitiba. A decisão foi baseada n",
+  "error": null
+}

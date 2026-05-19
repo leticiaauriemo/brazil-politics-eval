@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Da suspensão à autorização para voltar ao ar: veja a cronologia do ...",
+      "url": "https://g1.globo.com/politica/noticia/2024/10/08/da-suspensao-a-volta-ao-ar-veja-a-cronologia-do-periodo-do-x-sem-operar-no-brasil.ghtml"
+    },
+    {
+      "title": "Moraes determina suspensão da rede social X no Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/moraes-determina-suspensao-da-rede-social-x-no-brasil"
+    },
+    {
+      "title": "Multas e bloqueios: como foram os 39 dias sem X no Brasil",
+      "url": "https://www.metropoles.com/brasil/multas-e-bloqueios-como-foram-os-mais-de-30-dias-sem-x-no-brasil"
+    },
+    {
+      "title": "Moraes autoriza o retorno do X, bloqueado há 39 dias no Brasil. Saiba quando a rede deve voltar",
+      "url": "https://www.otempo.com.br/politica/judiciario/2024/10/8/moraes-autoriza-o-retorno-do-x--bloqueado-ha-39-dias-no-brasil--"
+    },
+    {
+      "title": "X volta a funcionar no Brasil após 40 dias de suspensão",
+      "url": "https://www.em.com.br/internacional/2024/10/6961119-x-volta-a-funcionar-no-brasil-apos-40-dias-de-suspensao.html"
+    }
+  ],
+  "response": "O X (antigo Twitter) ficou suspenso no Brasil entre **30 de agosto e 8 de outubro de 2024** (39-40 dias) por decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). Os principais motivos foram:\n\n## Razões da Suspensão:\n\n1. **Falta de representante legal**: Elon Musk fechou a sede do X no Brasil em 17 de agosto, violando o Marco Civil da Internet, que exige que empresas estrangeiras mantenham representação legal no país.\n\n2. **Descumprimento de ordens judiciais**: A plataforma não bloqueava contas específicas conforme determinado pelo STF, particularmente contas ligadas a \"milícias digitais\" e desinformação.\n\n3. **Não pagamento de multas**: O X não pagava as multas impostas pelo descumprimento das decisões judiciais.\n\n4. **Confronto com Moraes**: Elon Musk criticou publicamente o ministro e acusou-o de ameaça, o que foi interpretado como desafio à autoridade judicial.\n\n## Condições para o Retorno:\n\nPara voltar ao ar, o X precisou:\n- Pagar **R$ 28,6 milhões** em multas\n- Nomear um **representante legal** no Brasil\n- **Bloquear contas** acusadas de desinformação\n- Comprovar regularidade junto à Receita Federal\n\nO X retornou ao funcionamento em **9 de outubro de 2024**, após cumprir todas essas exigências.",
+  "response_no_search": "# Suspensão do X no Brasil (agosto-setembro de 2024)\n\nO X (antigo Twitter) foi suspenso no Brasil principalmente por **desobediência às ordens judiciais** do Supremo Tribunal Federal (STF). Os principais motivos foram:\n\n## Causas principais\n\n1. **Não bloqueio de contas**: A plataforma não cumpriu ordens para bloquear contas de investigados em inquéritos sobre fake news e atos antidemocráticos\n\n2. **Falta de representante legal**: O X não mantinha um representante legal no Brasil, conforme exigid",
+  "error": null
+}

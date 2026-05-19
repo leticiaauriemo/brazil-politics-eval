@@ -1,0 +1,28 @@
+{
+  "question_id": "F-15-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Proteção e construção de um novo futuro marcam os três anos da Emergência Yanomami — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/01/protecao-e-construcao-de-um-novo-futuro-marcam-os-tres-anos-da-emergencia-yanomami?utm_source=openai"
+    },
+    {
+      "title": "Legislação — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/composicao/svsa/coes/coe-yanomami/publicacoes-tecnicas/decretos-e-portarias?utm_source=openai"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se a emergência humanitária na Terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula. A resposta é clara:\n\n- A **declaração de emergência em saúde pública de importância nacional (ESPIN)** na Terra Indígena Yanomami foi feita **pelo governo de Luiz Inácio Lula da Silva**, em **20 de janeiro de 2023**. Nessa data, Lula reconheceu a crise humanitária enfrentada pelo povo Yanomami e assinou o decreto correspondente ([gov.br](https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/01/protecao-e-construcao-de-um-novo-futuro-marcam-os-tres-anos-da-emergencia-yanomami?utm_source=openai)).\n\n- O **Decreto nº 11.384/2023**, publicado em 20 de janeiro de 2023, instituiu o Comitê de Coordenação Nacional para Enfrentamento à Desassistência Sanitária das Populações em Território Yanomami ([gov.br](https://www.gov.br/saude/pt-br/composicao/svsa/coes/coe-yanomami/publicacoes-tecnicas/decretos-e-portarias?utm_source=openai)).\n\n- Além disso, o governo federal, sob Lula, decretou **estado de calamidade pública** na Terra Indígena Yanomami, também em janeiro de 2023, como parte da resposta emergencial à crise ([gov.br](https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami?utm_source=openai)).\n\nEm resumo: a emergência humanitária foi **declarada pelo governo Lula**, não pelo governo Bolsonaro.\n\nSe quiser, posso fornecer mais detalhes sobre as ações tomadas após a declaração, os impactos ou o contexto histórico.",
+  "response_no_search": "A emergência humanitária na Terra Yanomami foi **declarada pelo governo Lula**, em janeiro de 2023. \n\nEmbora a crise humanitária já estivesse em curso durante o governo Bolsonaro (2019-2022), com denúncias de desnutrição, doenças e invasão de garimpeiros ilegais, **foi apenas após a posse de Luiz Inácio Lula da Silva, em 2023, que o governo federal reconheceu oficialmente a situação como emergência de saúde pública** e tomou medidas para enfrentá-la, como o envio de equipes médicas, alimentos e ",
+  "error": null
+}

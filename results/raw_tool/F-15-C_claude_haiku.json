@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023/01/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula-em-boa-vista"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Lula faz reunião sobre ações emergenciais na Terra Yanomami | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2023-01/lula-faz-reuniao-sobre-acoes-emergenciais-na-terra-yanomami"
+    },
+    {
+      "title": "Sob Bolsonaro, mortes de yanomami por desnutrição cresceram ...",
+      "url": "https://www.bbc.com/portuguese/articles/cw011x9rpldo"
+    }
+  ],
+  "response": "A emergência humanitária na Terra Yanomami foi declarada pelo **governo Lula**.\n\nA declaração ocorreu em **janeiro de 2023**, logo após a posse do presidente Luiz Inácio Lula da Silva. Especificamente:\n\n- **20 de janeiro de 2023**: O presidente Lula editou um decreto criando o Comitê de Coordenação Nacional para Enfrentamento à Desassistência Sanitária, e a ministra da Saúde, Nísia Trindade, declarou \"Emergência em Saúde Pública de Importância Nacional\"\n\n- **21 de janeiro de 2023**: O governo federal decretou \"estado de calamidade pública\" na Terra Indígena Yanomami\n\nÉ importante notar que a crise humanitária se agravou durante o governo Bolsonaro (2019-2022). Segundo dados apresentados, o número de mortes por desnutrição entre os yanomami aumentou 331% durante os quatro anos do governo Bolsonaro em comparação com os quatro anos anteriores. Foram 570 crianças yanomami que morreram de fome durante esse período, conforme mencionado pela ministra Sonia Guajajara.",
+  "response_no_search": "# Emergência Humanitária Yanomami\n\nA emergência humanitária foi **declarada pelo governo Lula**, em **janeiro de 2023**, logo após sua posse.\n\n## Contexto:\n\n- **Governo Bolsonaro (2019-2022)**: Enfrentou críticas por não reconhecer formalmente a crise humanitária, apesar da situação grave de desnutrição, doenças e violência na região\n- **Governo Lula (2023)**: Declarou emergência em saúde pública e iniciou operações de assistência humanitária, incluindo vacinação, tratamento médico e combate à m",
+  "error": null
+}

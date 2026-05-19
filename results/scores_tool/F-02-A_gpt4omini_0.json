@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately confirms Bolsonaro's conviction, mentions the approximate sentence (27 years and three months), and notes the conviction became final (implicitly through the rejection of appeals and publication of the acórdão) in November 2025, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly confirms Bolsonaro's conviction and mentions the approximate sentence, but does not explicitly note that the conviction became final in November 2025."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

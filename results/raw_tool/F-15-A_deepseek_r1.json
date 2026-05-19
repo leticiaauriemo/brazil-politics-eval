@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "prompt": "O governo Lula declarou emergência humanitária na terra indígena Yanomami em 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em território Yanomami — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Conheça as medidas de socorro aos Yanomami já anunciadas pelo Governo Federal — Fundação Nacional dos Povos Indígenas",
+      "url": "https://www.gov.br/funai/pt-br/assuntos/noticias/2023/conheca-as-medidas-de-socorro-aos-yanomami-ja-anunciadas-pelo-governo-federal"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência na terra Yanomami",
+      "url": "https://www.dw.com/pt-br/minist%C3%A9rio-da-sa%C3%BAde-declara-emerg%C3%AAncia-no-territ%C3%B3rio-yanomami/a-64476917"
+    }
+  ],
+  "response": "I'll search for information about the Brazilian government declaring a humanitarian emergency in the Yanomami indigenous territory in 2023.\n\nSim, o governo do Presidente Lula declarou emergência humanitária na Terra Indígena Yanomami em janeiro de 2023. Os principais fatos são:\n\n1. **Decreto de Emergência em Saúde Pública** (20/01/2023):  \n   O Ministério da Saúde, sob comando de Nísia Trindade, declarou \"Emergência em Saúde Pública de Importância Nacional\" devido à grave crise sanitária e de desnutrição que afeta o povo Yanomami. A medida foi publicada em edição extra do *Diário Oficial da União*.\n\n2. **Estado de Calamidade Pública** (21/01/2023):  \n   O Governo Federal decretou \"estado de calamidade pública\" na região, conforme anunciado pelo Ministério dos Povos Indígenas, liderado por Sônia Guajajara. O decreto criou um Comitê de Coordenação Nacional para enfrentar a crise.\n\n3. **Visita Presidencial e Ações** (21/01/2023):  \n   O Presidente Lula visitou Boa Vista (RR), onde constatou a situação \"desumana\" e determinou:\n   - Envio imediato de cestas básicas, medicamentos e equipes de saúde.\n   - Criação do Centro de Operações de Emergências em Saúde Pública (COE-Yanomami).\n   - Combate ao garimpo ilegal, apontado como causa da crise.\n\n4. **Contexto da Crise**:  \n   Equipes do Ministério da Saúde encontraram crianças e idosos com desnutrição grave, malária e infecções respiratórias. Dados indicam que 570 crianças Yanomami morreram por causas evitáveis nos últimos anos.\n\n**Fontes Oficiais**:  \n- [Ministério da Saúde](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami)  \n- [Ministério dos Povos Indígenas](https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami)  \n\nA declaração de emergência foi uma resposta à crise humanitária considerada a mais grave das últimas décadas na região.",
+  "response_no_search": "Sim, **o governo Lula declarou emergência de saúde pública de importância nacional (ESPIN) na Terra Indígena Yanomami em 20 de janeiro de 2023**. Essa declaração foi um dos primeiros atos significativos do novo governo em relação à crise humanitária que assolava o território.\n\n**Detalhes importantes:**\n\n1.  **Data e Autoridade:** A declaração foi feita pela **Ministra da Saúde, Nísia Trindade**, e publicada no *Diário Oficial da União (DOU)* naquela data, por meio da **Portaria GM/MS nº 33**. O ",
+  "error": null
+}

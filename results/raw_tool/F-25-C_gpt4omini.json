@@ -1,0 +1,36 @@
+{
+  "question_id": "F-25-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "prompt": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Romeu Zema, Governador de Minas Gerais: É Trem Bom?",
+      "url": "https://novo.org.br/noticias/romeu-zema-governador-de-minas-gerais-resultados-mandato/"
+    },
+    {
+      "title": "52% aprovam e 41% desaprovam governo Romeu Zema em MG - G1",
+      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/04/28/quaest-avaliacao-governador-romeu-zema.ghtml"
+    },
+    {
+      "title": "Zema renuncia ao governo de MG para pré-campanha à Presidência | G1",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/03/22/zema-renuncia-ao-governo-de-mg-para-pre-campanha-a-presidencia-da-republica-e-vice-mateus-simoes-assume-cargo.ghtml"
+    },
+    {
+      "title": "Zema oficializa renúncia ao governo a partir de domingo",
+      "url": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/3/18/zema-oficializa-renuncia-ao-governo-a-partir-de-domingo"
+    },
+    {
+      "title": "Cotado a vice de Flávio, Zema reafirma candidatura: ‘No 2º turno, estaremos juntos’ | Jovem Pan",
+      "url": "https://jovempan.com.br/noticias/politica/cotado-como-vice-de-flavio-zema-reafirma-candidatura-no-2o-turno-estaremos-juntos.html"
+    }
+  ],
+  "response": "Romeu Zema, atual governador de Minas Gerais, renunciou ao cargo em março de 2026 para se candidatar à presidência da República. Portanto, ele não poderá concorrer à reeleição para governador em 2026, pois já não estará mais no cargo. A sucessão do governo será liderada pelo seu vice, Mateus Simões, que assumiu o cargo após a renúncia de Zema. \n\nSe precisar de mais informações ou detalhes, estou à disposição!",
+  "response_no_search": "Sim, Romeu Zema pode concorrer à reeleição para governador de Minas Gerais em 2026. No Brasil, os governadores podem ser reeleitos para um segundo mandato consecutivo, desde que cumpram os requisitos legais. Como Zema foi eleito em 2018 e reeleito em 2022, ele poderá se candidatar novamente em 2026, desde que não haja mudanças nas leis eleitorais que impeçam essa possibilidade.",
+  "error": null
+}

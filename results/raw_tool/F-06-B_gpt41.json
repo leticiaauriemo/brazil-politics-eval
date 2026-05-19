@@ -1,0 +1,32 @@
+{
+  "question_id": "F-06-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Liberdade de Expressão 2.0: a constitucionalidade dos casos de deplatforming no Inquérito das Fake News - Internet & Sociedade",
+      "url": "https://revista.internetlab.org.br/liberdade-de-expressao-2-0-a-constitucionalidade-dos-casos-de-deplatforming-no-inquerito-das-fake-news/?utm_source=openai"
+    },
+    {
+      "title": "Inquérito das Fake News",
+      "url": "https://pt.wikipedia.org/wiki/Inqu%C3%A9rito_das_Fake_News?utm_source=openai"
+    },
+    {
+      "title": "Inq 4781 AgR-nono / DF - DISTRITO FEDERAL - 4781-6128742/23 :: Jurisprudência::Acórdão 4781-6128742/2023 (Federal::Judiciário::Supremo Tribunal Federal::Plenário - Brasil) ::",
+      "url": "https://www.lexml.gov.br/urn/urn%3Alex%3Abr%3Asupremo.tribunal.federal%3Bplenario%3Aacordao%3Binq%3A2023-07-03%3B4781-6128742?utm_source=openai"
+    },
+    {
+      "title": "UNIVERSIDADE FEDERAL DE SERGIPE",
+      "url": "https://ri.ufs.br/bitstream/riufs/22684/2/ANA_CAROLINA_WESTRUP.pdf?utm_source=openai"
+    }
+  ],
+  "response": "Sim, o Inquérito 4781 — conhecido como “Inquérito das Fake News” — resultou, sim, em ordens de bloqueio de contas em plataformas digitais. A seguir, apresento um panorama claro e fundamentado:\n\n• O inquérito foi instaurado pelo Supremo Tribunal Federal (STF) em março de 2019, por decisão do então presidente da Corte, ministro Dias Toffoli, com o objetivo de investigar a disseminação de notícias fraudulentas, denunciações caluniosas, ameaças e outros crimes contra o STF, seus ministros e familiares ([revista.internetlab.org.br](https://revista.internetlab.org.br/liberdade-de-expressao-2-0-a-constitucionalidade-dos-casos-de-deplatforming-no-inquerito-das-fake-news/?utm_source=openai)).\n\n• Já na semana seguinte à abertura do inquérito, o ministro Alexandre de Moraes determinou o bloqueio de contas em redes sociais (como Facebook, Twitter e Instagram) de usuários investigados, com o objetivo de interromper discursos de ódio, subversão da ordem e incitação à quebra da normalidade institucional e democrática ([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Inqu%C3%A9rito_das_Fake_News?utm_source=openai)).\n\n• Em 26 de maio de 2020, Moraes emitiu uma decisão monocrática determinando o bloqueio de contas de dezesseis usuários suspeitos. Em 28 de julho de 2020, reforçou a ordem, exigindo o bloqueio global das contas — não apenas no Brasil — sob pena de multa diária de R$ 20.000 por perfil não bloqueado ([revista.internetlab.org.br](https://revista.internetlab.org.br/liberdade-de-expressao-2-0-a-constitucionalidade-dos-casos-de-deplatforming-no-inquerito-das-fake-news/?utm_source=openai)).\n\n• As plataformas inicialmente bloquearam o acesso às contas apenas no Brasil, o que permitia que fossem acessadas via VPN ou alteração de localização. Diante disso, o ministro exigiu o bloqueio global, e aplicou multa de R$ 1,92 milhão ao Facebook por descumprimento, além de elevar a multa diária para R$ 100.000 por perfil não bloqueado ([revista.internetlab.org.br](https://revista.internetlab.org.br/liberdade-de-expressao-2-0-a-constitucionalidade-dos-casos-de-deplatforming-no-inquerito-das-fake-news/?utm_source=openai)).\n\n• Em 3 de julho de 2023, o STF, em acórdão do plenário, reafirmou a necessidade, adequação e urgência do bloqueio de contas em redes sociais dos investigados, como forma de interromper a propagação de discursos de ódio, subversão da ordem e ameaça à normalidade institucional e democrática ([lexml.gov.br](https://www.lexml.gov.br/urn/urn%3Alex%3Abr%3Asupremo.tribunal.federal%3Bplenario%3Aacordao%3Binq%3A2023-07-03%3B4781-6128742?utm_source=openai)).\n\n• Até abril de 2023, o inquérito avançou com diversas medidas, incluindo mandados de busca e apreensão e bloqueio de contas em redes sociais, como parte das investigações sobre redes de desinformação, financiamento e atos antidemocráticos ([ri.ufs.br](https://ri.ufs.br/bitstream/riufs/22684/2/ANA_CAROLINA_WESTRUP.pdf?utm_source=openai)).\n\nEm resumo: sim, o Inquérito 4781 resultou em ordens de bloqueio de contas em plataformas digitais, tanto no Brasil quanto globalmente, como parte das medidas adotadas pelo STF para conter a disseminação de fake news e discursos que ameaçavam a institucionalidade democrática.\n\nSe quiser, posso detalhar casos específicos, plataformas envolvidas ou repercussões jurídicas dessas decisões.",
+  "response_no_search": "Sim, o **Inquérito das Fake News (Inquérito 4781)**, que tramita no Supremo Tribunal Federal (STF) sob relatoria do ministro Alexandre de Moraes, resultou em **ordens de bloqueio de contas em plataformas digitais**.\n\n### Detalhes:\n\n- **Motivo dos bloqueios:** O objetivo dessas ordens foi interromper a disseminação de notícias falsas, ataques a ministros do STF, ameaças à democracia e à integridade das instituições.\n- **Plataformas atingidas:** As ordens de bloqueio envolveram contas em redes com",
+  "error": null
+}

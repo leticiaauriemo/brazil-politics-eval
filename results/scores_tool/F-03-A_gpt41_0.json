@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Bolsonaro cannot run and mentions the TSE ineligibility, but it fabricates a criminal conviction by the STF in 2025."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Bolsonaro is ineligible to run for president in 2026, clearly explaining the reasons related to the TSE's decision and the criminal conviction."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

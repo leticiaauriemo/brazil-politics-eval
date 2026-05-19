@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df/"
+    },
+    {
+      "title": "Por que Fachin anulou condenações de Lula na Lava Jato? Entenda",
+      "url": "https://www.gazetadopovo.com.br/republica/entenda-anulacao-condenacoes-de-lula-na-lava-jato-fachin/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/"
+    },
+    {
+      "title": "Por que as sentenças contra Lula foram anuladas? - Me Explica",
+      "url": "https://meexplica.com/por-que-as-sentencas-contra-lula-foram-anuladas/"
+    },
+    {
+      "title": "STF anula condenações contra Lula: o que acontece agora - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56327483"
+    }
+  ],
+  "response": "**Não.** As condenações de Lula **não** foram anuladas porque o STF concluiu que ele era inocente. Essa é uma confusão comum, mas a realidade jurídica é bem diferente. Veja o que realmente aconteceu:\n\n---\n\n## ⚖️ Por que as condenações de Lula foram anuladas?\n\nA anulação foi decidida pelo ministro **Edson Fachin**, em março de 2021, e confirmada pelo Plenário do STF por **8 votos a 3**, com base em um argumento estritamente **técnico-processual**: a **incompetência do juízo**.\n\n### O argumento central:\nFachin entendeu que a **13ª Vara Federal de Curitiba** (presidida pelo então juiz Sérgio Moro) **não era o foro competente** para julgar os casos de Lula. Isso porque os processos (Triplex do Guarujá, Sítio de Atibaia, Instituto Lula) **não tinham relação direta e exclusiva com desvios na Petrobras**, que era o critério que justificava a competência daquela vara no âmbito da Operação Lava Jato.\n\nComo os crimes imputados a Lula envolviam outros órgãos públicos além da Petrobras, Fachin concluiu que os processos deveriam ter tramitado na **Justiça Federal do Distrito Federal**.\n\n---\n\n## ❌ O que a decisão NÃO significa:\n\n- **Não declarou Lula inocente** — o STF não analisou o mérito (se ele era culpado ou não);\n- **Não arquivou definitivamente os casos** — os processos foram enviados para recomeçar na Justiça Federal do DF;\n- **Não invalidou necessariamente as provas** — as provas produzidas poderiam, em tese, ser reaproveitadas pelo novo juízo competente.\n\n---\n\n## 🔎 Em resumo:\n\n> A anulação foi uma decisão **procedimental**, não uma absolvição. O STF disse, essencialmente, que Lula foi julgado pelo **juiz errado, no lugar errado** — e não que ele não teria cometido os crimes pelos quais foi acusado. A questão da **suspeição de Sérgio Moro** (parcialidade do juiz), que poderia ter implicações ainda mais profundas sobre as provas, foi um julgamento separado, no qual o STF também reconheceu a parcialidade de Moro.",
+  "response_no_search": "## Não exatamente\n\nEssa é uma distinção importante:\n\n### O que o STF decidiu\n- Em **2021**, o STF (por maioria) concluiu que o **juiz Sergio Moro era **parcial/suspeito**** ao conduzir os processos contra Lula\n- Isso **anulou as condenações** por vício processual (falta de imparcialidade do juiz)\n\n### O que isso **não significa**\n- O STF **não declarou Lula inocente**\n- Não houve análise do mérito das acusações\n- As provas e fatos não foram reexaminados para absolvição\n\n### Consequência prática\n",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA"
+    },
+    {
+      "title": "Afinal, Brasil vacina pouco ou muito? Confira 5 dados do ranking global - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56680167"
+    },
+    {
+      "title": "Vacinometro COVID-19 - Ministério da Saúde",
+      "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_Vacina_C19/SEIDIGI_DEMAS_Vacina_C19.html"
+    },
+    {
+      "title": "Covid: Brasil supera EUA na taxa de pessoas com vacinação completa",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/geral/covid-brasil-supera-eua-na-taxa-de-pessoas-com-vacina%C3%A7%C3%A3o-completa-1.724241"
+    },
+    {
+      "title": "Compare a evolução do número de vacinados no Brasil com a de outros países",
+      "url": "https://www.poder360.com.br/coronavirus/compare-a-evolucao-do-numero-de-vacinados-no-brasil-com-a-de-outros-paises/.modal-box--author"
+    }
+  ],
+  "response": "A comparação do programa de vacinação contra a COVID-19 no Brasil com os países desenvolvidos apresenta nuances, com o Brasil se destacando em alguns aspectos e ficando atrás em outros.\n\n**Em números absolutos de doses aplicadas, o Brasil esteve entre os líderes mundiais.** O país ficou em 4º lugar no ranking global de doses totais administradas, atrás apenas de China, Estados Unidos e Índia, o que é esperado para um país com uma população tão grande.\n\nNo entanto, **quando se considera a vacinação proporcional à população, o desempenho brasileiro foi mediano.** Em uma análise que levou em conta o tamanho da população de cada país, o Brasil ocupou",
+  "response_no_search": "Ótima pergunta. A resposta é complexa e varia dependendo do período e da métrica que analisamos.\n\nDe forma geral, o Brasil teve um **início mais lento e conturb",
+  "error": null
+}

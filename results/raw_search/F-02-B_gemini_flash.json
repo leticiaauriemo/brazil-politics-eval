@@ -1,0 +1,35 @@
+{
+  "question_id": "F-02-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Primeira Turma do STF condena Bolsonaro a 27 anos e 3 meses | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/09/11/primeira-turma-do-stf-condena-bolsonaro-a-27-anos-e-3-meses.ghtml"
+    },
+    {
+      "title": "Leia as penas e multas impostas a Bolsonaro e aos outros réus",
+      "url": "https://www.poder360.com.br/poder-justica/leia-as-penas-e-multas-impostas-a-bolsonaro-e-aos-outros-reus/"
+    },
+    {
+      "title": "STF determina penas de dois a 27 anos para Bolsonaro e outros 7 condenados; veja lista | Exame",
+      "url": "https://exame.com/brasil/stf-condenados-8-de-janeiro-penas/"
+    },
+    {
+      "title": "STF condena Bolsonaro a 27 anos de prisão por tentativa de golpe de Estado",
+      "url": "http://www.terra.com.br/noticias/brasil/politica/stf-condena-bolsonaro-a-27-anos-de-prisao-por-tentativa-de-golpe-de-estado,6684977ab24d90620abb006dfd46e2aap5ph2vdh.html"
+    },
+    {
+      "title": "STF impõe pena de 27 anos e 3 meses de prisão a Bolsonaro",
+      "url": "https://www.jb.com.br/brasil/justica/2025/09/1056869-stf-impoe-pena-de-27-anos-e-3-meses-de-prisao-a-bolsonaro.html"
+    }
+  ],
+  "response": "Em 11 de setembro de 2025, a Primeira Turma do Supremo Tribunal Federal (STF) condenou o ex-presidente Jair Bolsonaro a 27 anos e 3 meses de prisão em regime fechado [valor.globo.com, poder360.com.br, exame.com, terra.com.br].\n\nA condenação foi resultado de um julgamento que durou cinco dias e se deu por 4 votos a 1 [poder360.com.br]. Bolsonaro foi considerado culpado por cinco crimes relacionados a uma tentativa de golpe de Estado e para subverter o resultado das eleições de 2022 [jb.com.br]:\n*   Organização criminosa [terra.com.br]\n*   Abolição violenta do Estado Democrático de Direito [exame.com, terra.com.br]\n*   Golpe de Estado [exame.com, terra.com.br]\n*   Dano qualificado pela violência e grave ameaça [exame.com, terra.com.br]\n*   Deterioração de patrimônio tombado [exame.com, terra.com.br]\n\nA pena total de 27 anos e 3 meses é composta por 24 anos e 9 meses de reclusão (regime fechado) e 2 anos e 6 meses de detenção (regime semiaberto ou aberto) [exame.com, terra.com.br]. Além da pena de prisão, Bolsonaro foi condenado a pagar 124 ou 127 dias-multa, com o valor de cada dia fixado em dois salários mínimos da época dos fatos, corrigidos [valor.globo.com, poder360.com.br]. O valor total da multa imposta a Bolsonaro chega a R$ 365,3 mil ou R$ 376.464 [poder360.com.br, jb.com.br].\n\nEsta foi a primeira vez na história do Brasil que um ex-chefe de Estado foi condenado por crimes de tentativa de golpe [terra.com.br]. Outros sete réus também foram condenados no mesmo julgamento, com penas que variam de dois a 26 anos [exame.com].",
+  "response_no_search": "Não há nenhuma pena imposta ao ex-presidente Bolsonaro pelo STF em 2025.\n\nÉ importante ressaltar que, até o momento, não há nenhuma condenação definitiva contra Jair Bolsonaro que implique em pena de prisão ou outras sanções criminais. Ele é alvo de diversas investigações e processos, mas ainda não houve um julgamento final em nenhum deles que resultasse em uma pena imposta pelo Supremo Tribunal Federal.\n\nPortanto, a informação de que ele teria recebido uma pena em 2025 é **falsa**.",
+  "error": null
+}

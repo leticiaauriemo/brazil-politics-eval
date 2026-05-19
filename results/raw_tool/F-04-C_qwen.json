@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Amazon and Brazilian Foreign Policy: Analysis of Deforestation Index in the Lula and Bolsonaro Governments\n\t\t\t\t\t\t\t| Global Journal of Human-Social Science",
+      "url": "https://socialscienceresearch.org/index.php/GJHSS/article/view/103746"
+    },
+    {
+      "title": "What Jair Bolsonaro did to the Amazon rainforest, in 2 charts | Vox",
+      "url": "https://www.vox.com/down-to-earth/2022/9/29/23373427/amazon-rainforest-brazil-jair-bolsonaro-lula-deforestation."
+    },
+    {
+      "title": "Bolsonaro ends government with 60% increase in Amazon deforestation - Observatório do Clima",
+      "url": "https://oc.eco.br/en/bolsonaro-ends-government-with-60-increase-in-amazon-deforestation/"
+    },
+    {
+      "title": "",
+      "url": "https://edoc.hu-berlin.de/bitstreams/fabcbfaf-532c-4014-8e2e-117d6416b851/download"
+    },
+    {
+      "title": "How has the Amazon rainforest changed under Jair Bolsonaro? - Frontline",
+      "url": "https://frontline.thehindu.com/news/how-has-the-amazon-rainforest-changed-under-jair-bolsonaro/article65937406.ece"
+    }
+  ],
+  "response": "O desmatamento médio anual da Amazônia foi **significativamente maior** no governo Bolsonaro (2019–2022) em comparação com os primeiros e segundos mandatos de Lula (2003–2010). \n\n### Dados principais:\n1. **Bolsonaro (2019–2022)**:\n   - A média anual de desmatamento foi de **11.396 km²**, um aumento de **59,5%** em relação ao período anterior (governos Dilma/Temer, 2015–2018), que registrou **7.145 km²** por ano.\n   - Em 2022, o desmatamento atingiu **11.568 km²**, o nível mais alto em 13 anos.\n   - Entre 2019 e 2021, mais de **34.000 km²** foram desmatados, um aumento de **52%** em relação aos três anos anteriores.\n\n2. **Lula (2003–2010)**:\n   - Durante o primeiro mandato de Lula, o desmatamento caiu drasticamente de **27.772 km² em 2004** para **4.571 km² em 2012** (redução de 83%).\n   - A média anual no período 2003–2010 foi **significativamente mais baixa**, com mínimas históricas registradas entre 2005 e 2011.\n   - Políticas como o **Plano de Ação para Prevenção e Controle do Desmatamento** e a ampliação de unidades de conservação foram cruciais para essa redução.\n\n### Conclusão:\nEmbora o início do governo Lula (2003–2004) tenha enfrentado altas taxas de desmatamento, a média geral do período **2003–2010** foi muito inferior à registrada sob Bolsonaro. O governo Bolsonaro foi marcado pelo enfraquecimento de políticas ambientais, redução de fiscalização e avanço do agronegócio, resultando em recorde de destruição da Amazônia.",
+  "response_no_search": "O desmatamento médio anual da Amazônia Legal foi **maior durante os governos de Luiz Inácio Lula da Silva (2003–2010)** em comparação com o período de Jair Bolsonaro (2019–2022), quando analisamos os dados brutos de média anual. \n\n### Dados comparativos:\n1. **Governos Lula (2003–2010):**  \n   - Desmatamento total: **123.617 km²** em 8 anos.  \n   - **Média anual:** **~15.452 km²/ano**.  \n   - Inclui os anos de pico de 2003 (25.303 km²) e 2004 (27.423 km²), seguidos de queda acentuada graças a pol",
+  "error": null
+}

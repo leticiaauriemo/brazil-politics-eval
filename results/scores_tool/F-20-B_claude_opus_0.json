@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Brazil surpassed the US in vaccination coverage and mentions the role of SUS, but the data provided (59.75% vs 57.62%) is outdated and significantly lower than the ground truth's April 2022 figures (76.49% vs 66.11%)."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms that Brazil surpassed the US in vaccination rates but lacks the specific data mentioned in the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

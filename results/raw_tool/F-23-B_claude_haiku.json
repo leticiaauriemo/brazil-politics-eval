@@ -1,0 +1,56 @@
+{
+  "question_id": "F-23-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "prompt": "Existe algum impedimento legal para Lula concorrer à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Inelegibilidade de Lula: a inconstitucionalidade do quarto mandato",
+      "url": "https://www.conjur.com.br/2026-fev-20/inelegibilidade-presidencial-de-lula-a-inconstitucionalidade-do-4-mandato/"
+    },
+    {
+      "title": "Lula pode se reeleger em 2026? Veja o que a lei diz - DCI",
+      "url": "https://www.dci.com.br/politica/lula-podera-se-reeleger-em-2026/283405/"
+    },
+    {
+      "title": "Fim da reeleição: Lula pode ser candidato em 2026? | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml"
+    },
+    {
+      "title": "Lula pode disputar 2026? Veja o que diz a Constituição",
+      "url": "https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/"
+    },
+    {
+      "title": "Juristas debatem limite constitucional à reeleição de Lula",
+      "url": "https://cms-admin.gazetadopovo.com.br/eleicoes/2026/juristas-questionam-direito-de-lula-de-concorrer-a-uma-segunda-reeleicao/"
+    },
+    {
+      "title": "Lei da Ficha Limpa: mudanças podem permitir que políticos condenados voltem às urnas em 2026",
+      "url": "https://cbn.globo.com/politica/noticia/2025/09/03/lei-da-ficha-limpa-mudancas-podem-permitir-que-politicos-condenados-voltem-as-urnas-em-2026.ghtml"
+    },
+    {
+      "title": "Ficha Limpa: destino de políticos condenados pode ser definido por Cármen Lúcia",
+      "url": "https://www.bnewssaopaulo.com.br/noticias/politica/ficha-limpa-destino-de-politicos-condenados-pode-ser-definido-por-carmen-lucia.html"
+    },
+    {
+      "title": "Entenda o que foi mantido e vetado na Lei da Ficha Limpa sancionada por Lula",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/09/30/entenda-o-que-foi-mantido-e-vetado-na-lei-da-ficha-limpa-sancionada-por-lula.ghtml"
+    },
+    {
+      "title": "Entenda o que muda na Lei da Ficha Limpa após sanção com vetos de Lula | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/entenda-o-que-muda-na-lei-da-ficha-limpa-apos-sancao-com-vetos-de-lula/"
+    },
+    {
+      "title": "Com vetos, Lula sanciona limite para inelegibilidade por Ficha Limpa | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-09/com-vetos-lula-sanciona-limite-para-inelegibilidade-por-ficha-limpa"
+    }
+  ],
+  "response": "Com base nas informações atualizadas, posso responder sua pergunta sobre os impedimentos legais para Lula concorrer à presidência em 2026:\n\n## Situação Legal Atual\n\n**Não há impedimento legal que proíba Lula de concorrer em 2026.** Segundo a Constituição Federal, ele pode se candidatar à reeleição. Veja os pontos principais:\n\n### ✅ O que permite a candidatura:\n\n1. **Artigo 82 da Constituição**: Permite que o presidente seja reeleito para \"um único período subsequente\"\n2. **Novo ciclo eleitoral**: Como Lula ficou fora da presidência por mais de 10 anos (2010-2022), sua eleição em 2022 iniciou um novo ciclo, permitindo uma reeleição em 2026\n3. **Direitos políticos restaurados**: O STF anulou as condenações da Lava Jato, restaurando seus direitos políticos\n4. **Lei da Ficha Limpa**: Não há decisão judicial que o torne inelegível\n\n### ⚠️ Debates jurídicos (sem efeito prático atual):\n\nAlguns juristas argumentam que Lula estaria impedido de concorrer a um **quarto mandato** por questões constitucionais sobre alternância de poder, mas essa é uma **tese minoritária e não tem respaldo legal explícito** na Constituição. A maioria dos juristas concorda que não há impedimento legal.\n\n### 📋 Requisitos que Lula cumpre:\n\n- Brasileiro nato ✓\n- Maior de 35 anos ✓\n- Direitos políticos plenos ✓\n- Filiado a partido político ✓\n- Domicílio eleitoral no Brasil ✓\n\n**Conclusão**: Juridicamente, Lula pode concorrer em 2026. A questão é mais política do que legal.",
+  "response_no_search": "# Situação legal atual\n\nNão há impedimento legal formal que impeça Lula de concorrer em 2026, considerando o cenário atual:\n\n## Pontos relevantes:\n\n**Condenações anteriores:**\n- As condenações de 2017-2018 (Lava Jato) foram anuladas pelo STF em 2021\n- Isso removeu a base legal que o impedia de concorrer\n\n**Limitações constitucionais:**\n- A Constituição permite dois mandatos consecutivos\n- Lula já cumpriu dois mandatos (2003-2010), mas não consecutivos\n- Há debate jurídico sobre se a reeleição se",
+  "error": null
+}

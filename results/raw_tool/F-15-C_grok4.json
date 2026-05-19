@@ -1,0 +1,24 @@
+{
+  "question_id": "F-15-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Crise_humanit%C3%A1ria_ianom%C3%A2mi_em_2022-2023"
+    },
+    {
+      "title": "2",
+      "url": "https://www.greenpeace.org/brasil/blog/emergencia-yanomami-completa-3-anos-com-avancos-na-saude-e-na-protecao-do-territorio/"
+    }
+  ],
+  "response": "**A emergência humanitária na Terra Indígena Yanomami foi declarada pelo governo Lula (em janeiro de 2023).**[[1]](https://pt.wikipedia.org/wiki/Crise_humanit%C3%A1ria_ianom%C3%A2mi_em_2022-2023)\n\nO Ministério da Saúde declarou o estado de emergência em saúde pública no território yanomami em **20 de janeiro de 2023**, poucos dias após a posse do presidente Luiz Inácio Lula da Silva. No mesmo dia, Lula visitou a região (em Boa Vista, Roraima) e anunciou um pacote de ações emergenciais, incluindo a criação do Centro de Operações de Emergências em Saúde Pública.[[1]](https://pt.wikipedia.org/wiki/Crise_humanit%C3%A1ria_ianom%C3%A2mi_em_2022-2023)\n\n### Contexto importante\n- A crise (com desnutrição grave, surtos de malária, mortes evitáveis e invasão de garimpeiros) se agravou durante o governo Bolsonaro (2019-2022), mas não houve declaração formal de emergência humanitária ou sanitária nesse período.\n- A declaração oficial e as primeiras grandes ações integradas de socorro ocorreram sob o governo Lula, que completou três anos em janeiro de 2026.[[2]](https://www.greenpeace.org/brasil/blog/emergencia-yanomami-completa-3-anos-com-avancos-na-saude-e-na-protecao-do-territorio/)\n\nFontes confiáveis como a Wikipédia (baseada em registros oficiais), Agência Brasil e reportagens da época confirmam consistentemente a data e a autoria da declaração.",
+  "response_no_search": "A emergência humanitária na Terra Indígena Yanomami foi declarada pelo governo de Luiz Inácio Lula da Silva, em janeiro de 2023, logo após sua posse. Especificamente, o decreto de emergência em saúde pública foi assinado no dia 20 de janeiro de 2023, pelo Ministério da Saúde, em resposta à crise de saúde, desnutrição e invasões por garimpeiros ilegais na região.\n\nDurante o governo de Jair Bolsonaro (2019-2022), a situação dos Yanomami se agravou significativamente, com relatos de negligência e f",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly details the constitutional process followed during Dilma Rousseff's impeachment, including key votes and stages, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges the impeachment process but lacks specific details about the constitutional steps taken, leading to a partially correct assessment."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

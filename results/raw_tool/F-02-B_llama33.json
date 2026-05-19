@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Primeira Turma do STF condena Bolsonaro a 27 anos e 3 meses | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/09/11/primeira-turma-do-stf-condena-bolsonaro-a-27-anos-e-3-meses.ghtml"
+    },
+    {
+      "title": "Leia as penas e multas impostas a Bolsonaro e aos outros réus",
+      "url": "https://www.poder360.com.br/poder-justica/leia-as-penas-e-multas-impostas-a-bolsonaro-e-aos-outros-reus/"
+    },
+    {
+      "title": "STF impõe pena de 27 anos e 3 meses de prisão a Bolsonaro",
+      "url": "https://www.jb.com.br/brasil/justica/2025/09/1056869-stf-impoe-pena-de-27-anos-e-3-meses-de-prisao-a-bolsonaro.html"
+    },
+    {
+      "title": "STF publica o tão esperado acórdão da condenação de Bolsonaro, com 1991 páginas; leia a íntegra",
+      "url": "https://www.jb.com.br/brasil/justica/2025/11/1057661-stf-publica-o-tao-esperado-acordao-da-condenacao-de-bolsonaro-com-1991-paginas-leia-a-integra.html"
+    },
+    {
+      "title": "STF publica acórdão do julgamento que condenou Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-justica/stf-publica-acordao-do-julgamento-de-bolsonaro/"
+    }
+  ],
+  "response": "O ex-presidente Bolsonaro foi condenado a 27 anos e 3 meses de prisão em regime fechado, além de pagar 124 dias-multa, que equivale a R$ 365,3 mil.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, não havia informações sobre o ex-presidente Bolsonaro ter sido condenado pelo STF (Supremo Tribunal Federal) em 2025. É importante notar que as informações sobre processos judiciais e decisões do STF podem mudar rapidamente, e é sempre recomendável consultar fontes atualizadas e oficiais para obter as informações mais recentes sobre casos específicos. Além disso, considerando que 2025 é um ano futuro em relação à minha última atualização, n",
+  "error": null
+}

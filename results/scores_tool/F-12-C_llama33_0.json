@@ -1,0 +1,25 @@
+{
+  "question_id": "F-12-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states it could not determine Bolsonaro's location, which is incorrect as his location on that date is a well-known fact."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states uncertainty about Bolsonaro's location on January 8, 2023, despite the established fact that he was in the US."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

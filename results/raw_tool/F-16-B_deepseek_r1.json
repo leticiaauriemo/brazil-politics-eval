@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Medida Provisória garante valor mínimo de R$ 600 ao Bolsa Família em 2023 — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/medida-provisoria-garante-valor-minimo-de-r-600-ao-bolsa-familia-em-2023"
+    },
+    {
+      "title": "Novo Bolsa Família garante valor mínimo de R$ 600, renda mínima por pessoa e adicional para crianças, adolescentes e gestantes — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/novo-bolsa-familia-garante-valor-minimo-de-r-600-por-residencia-renda-minima-por-pessoa-e-adicional-para-criancas-adolescentes-e-gestantes"
+    },
+    {
+      "title": "Bolsa Família é recriado com mínimo de R$ 600 por família e mais R$ 150 por criança de até seis anos",
+      "url": "https://www.gov.br/pt-br/noticias/bolsa-familia-e-recriado-com-minimo-de-r-600-por-familia-e-mais-r-150-por-crianca-de-ate-seis-anos"
+    },
+    {
+      "title": "Bolsonaro promete manter auxílio de R$ 600 em programa de governo | Exame",
+      "url": "https://exame.com/brasil/bolsonaro-promete-manter-auxilio-de-r-600-em-programa-de-governo/"
+    },
+    {
+      "title": "Novo Bolsa Família: veja tudo o que muda no programa - 02/03/2023 - Mercado - Folha",
+      "url": "https://www1.folha.uol.com.br/mercado/2023/03/novo-bolsa-familia-deve-elevar-beneficio-medio-para-r-715-e-atender-a-208-milhoes-de-lares.shtml"
+    }
+  ],
+  "response": "I'll check the origin of the R$600 minimum benefit using a web search tool to provide accurate information.\n\nBased on the web search results:\n\n1. The R$600 minimum benefit was established under President Jair Bolsonaro's administration in 2022 as part of the \"Auxílio Brasil\" program. This value represented an increase from previous benefit amounts.\n\n2. When President Lula returned to office in 2023, he maintained the R$600 value but changed the program name back to \"Bolsa Família\" (the original name from his previous administrations).\n\n**Conclusion**: O benefício mínimo de R$600 foi uma medida implementada pelo **governo Bolsonaro** em 2022, durante o programa Auxílio Brasil. O governo Lula manteve esse valor em 2023 ao relançar o programa como Bolsa Família.O benefício mínimo de **R$600** foi implementado pelo **governo Bolsonaro** em 2022, durante o programa **Auxílio Brasil**. Essa medida foi estabelecida após a aprovação da PEC Kamikaze (PEC 32/2022) em julho de 2022, elevando o valor do auxílio de R$400 para R$600. O programa foi inicialmente temporário, mas tornou-se permanente ainda em 2022.\n\nO **governo Lula**, ao assumir em 2023:\n1. Manteve o valor mínimo de R$600, mas renomeou o programa de volta para **Bolsa Família**.\n2. Garantiu a continuidade do valor através da **Medida Provisória 1155/2023**, publicada em janeiro de 2023.\n3. Adicionou novos critérios, como complementos por criança/adolescente (R$150 para crianças até 6 anos e R$50 para maiores de 7 anos).\n\n**Resumo**:\n- **Criação do valor R$600**: Governo Bolsonaro (2022), no Auxílio Brasil.\n- **Manutenção e reformulação**: Governo Lula (2023), no novo Bolsa Família.",
+  "response_no_search": "O benefício mínimo de **R$ 600** está associado a **dois momentos distintos**, cada um vinculado a um governo:  \n\n1. **Governo Bolsonaro (2020-2022):**  \n   - Em **abril de 2020**, durante a pandemia de COVID-19, foi criado o **Auxílio Emergencial** (Lei nº 13.982/2020), com parcelas de **R$ 600** (e R$ 1.200 para mães solo).  \n   - Esse valor foi reduzido gradualmente em 2021 (para R$ 150–R$ 375) e mantido baixo até o fim de 2022.  \n\n2. **Governo Lula (2023):**  \n   - Em **janeiro de 2023**, o ",
+  "error": null
+}

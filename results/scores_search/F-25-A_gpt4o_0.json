@@ -1,0 +1,19 @@
+{
+  "question_id": "F-25-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Romeu Zema as the governor of Minas Gerais, and accurately states his two terms of election (2018 and 2022), aligning with the ground truth's specific requirements for a score of 5."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

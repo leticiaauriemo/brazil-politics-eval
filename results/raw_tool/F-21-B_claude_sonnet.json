@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Divulgação da atividade parlamentar em 09/2024 por Flávio Bolsonaro - Transparência e Prestação de Contas",
+      "url": "https://www6g.senado.leg.br/transparencia/sen/5894/ceaps/5/detalhe/?mesAno=09%2F2024"
+    },
+    {
+      "title": "De início aos 21 anos ao Senado: a trajetória política de Flávio Bolsonaro | Exame",
+      "url": "https://exame.com/brasil/de-inicio-aos-21-anos-ao-senado-a-trajetoria-politica-de-flavio-bolsonaro-ate-o-anuncio-de-2026/"
+    },
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "Flávio Bolsonaro",
+      "url": "https://oglobo.globo.com/tudo-sobre/politico/flavio-bolsonaro/"
+    },
+    {
+      "title": "Flávio Bolsonaro: conheça sua trajetória na política do Rio",
+      "url": "https://ndmais.com.br/politica/flavio-bolsonaro-trajetoria/"
+    }
+  ],
+  "response": "Vou pesquisar essa informação para você!**Flávio Bolsonaro é Senador Federal** pelo estado do **Rio de Janeiro**, filiado ao **PL (Partido Liberal)**. Ele exerce o mandato desde **2019**, após ser eleito nas eleições de **2018** como o senador mais votado do Rio de Janeiro, com mais de **4,3 milhões de votos**. Seu mandato vai até **2027**.\n\nAntes de se tornar senador, Flávio Bolsonaro foi **deputado estadual** na Assembleia Legislativa do Rio de Janeiro (ALERJ) por **quatro mandatos consecutivos**, entre 2003 e 2018.",
+  "response_no_search": "Flávio Bolsonaro é **senador federal**, representando o estado do **Rio de Janeiro**. Ele é filho do ex-presidente Jair Bolsonaro e foi eleito senador em 2018.",
+  "error": null
+}

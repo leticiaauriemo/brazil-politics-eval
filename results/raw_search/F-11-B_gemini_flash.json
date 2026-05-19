@@ -1,0 +1,35 @@
+{
+  "question_id": "F-11-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Impeachment de Dilma não foi golpe; entenda as ‘pedaladas’ e o processo de destituição da petista - Estadão",
+      "url": "https://www.estadao.com.br/politica/impeachment-de-dilma-nao-foi-golpe-entenda-as-pedaladas-e-o-processo-de-destituicao-da-petista/"
+    },
+    {
+      "title": "Quais são as acusações contra Dilma?",
+      "url": "https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899"
+    },
+    {
+      "title": "5 perguntas para entender as acusações que podem tirar Dilma definitivamente da Presidência - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37190184"
+    },
+    {
+      "title": "Pedaladas: um dos pilares do pedido de impeachment - Jornal O Globo",
+      "url": "https://oglobo.globo.com/politica/pedaladas-um-dos-pilares-do-pedido-de-impeachment-19008407"
+    },
+    {
+      "title": "O que são as tais pedaladas fiscais que levaram Dilma ao afastamento? – Noticias R7",
+      "url": "https://noticias.r7.com/brasil/o-que-sao-as-tais-pedaladas-fiscais-que-levaram-dilma-ao-afastamento-13052016"
+    }
+  ],
+  "response": "Dilma Rousseff foi removida do cargo de presidente do Brasil por **pedaladas fiscais** e pela edição de decretos de suplementação orçamentária sem autorização do Congresso, que foram considerados crimes de responsabilidade fiscal [estadao.com.br](https://www.estadao.com.br/politica/impeachment-de-dilma-nao-foi-golpe-entenda-as-pedaladas-e-o-processo-de-destituicao-da-petista/), [dw.com](https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899), [noticias.r7.com](https://noticias.r7.com/brasil/o-que-sao-as-tais-pedaladas-fiscais-que-levaram-dilma-ao-afastamento-13052016).\n\nAs acusações de corrupção, muitas vezes associadas à Operação Lava Jato, foram inicialmente incluídas na denúncia original, mas foram descartadas pelo então presidente da Câmara, Eduardo Cunha, quando ele aceitou o pedido de impeachment [dw.com](https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899), [noticias.r7.com](https://noticias.r7.com/brasil/o-que-sao-as-tais-pedaladas-fiscais-que-levaram-dilma-ao-afastamento-13052016). Portanto, o processo de impeachment se concentrou exclusivamente nas infrações fiscais.\n\nAs \"pedaladas fiscais\" consistiam no atraso proposital do repasse de dinheiro do Tesouro Nacional para bancos públicos (como Banco do Brasil, Caixa Econômica Federal e BNDES) e autarquias (como o INSS) [estadao.com.br](https://www.estadao.com.br/politica/impeachment-de-dilma-nao-foi-golpe-entenda-as-pedaladas-e-o-processo-de-destituicao-da-petista/), [dw.com](https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899), [bbc.com](https://www.bbc.com/portuguese/brasil-37190184). O objetivo era maquiar as contas federais, apresentando despesas menores do que realmente eram e, assim, ludibriar o mercado financeiro e especialistas [estadao.com.br](https://www.estadao.com.br/politica/impeachment-de-dilma-nao-foi-golpe-entenda-as-pedaladas-e-o-processo-de-destituicao-da-petista/).\n\nO Tribunal de Contas da União (TCU) considerou que essas \"pedaladas\" configuravam operações de crédito, o que é proibido pela Lei de Responsabilidade Fiscal (LRF) entre o governo federal e os bancos que ele controla [oglobo.globo.com](https://oglobo.globo.com/politica/pedaladas-um-dos-pilares-do-pedido-de-impeachment-19008407), [bbc.com](https://www.bbc.com/portuguese/brasil-37190184). Além disso, a edição de decretos de suplementação orçamentária sem a aprovação do Congresso também foi considerada uma violação da Lei Orçamentária Anual (LOA) e da LRF [dw.com](https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899), [noticias.r7.com](https://noticias.r7.com/brasil/o-que-sao-as-tais",
+  "response_no_search": "Dilma Rousseff foi removida do cargo de Presidente da República por **pedaladas fiscais**.\n\nEmbora o processo de impeachment tenha sido politicamente carregado e houvesse acusações de corrupção contra seu governo e seu partido, a base legal para o impeachment foi a acusação de **crimes de responsabilidade** relacionados às pedaladas fiscais e à edição de decretos de crédito suplementar sem autorização do Congresso Nacional.\n\nAs \"pedaladas fiscais\" referem-se a atrasos intencionais no repasse de ",
+  "error": null
+}

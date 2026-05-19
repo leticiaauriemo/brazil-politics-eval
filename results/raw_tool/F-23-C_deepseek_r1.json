@@ -1,0 +1,15 @@
+{
+  "question_id": "F-23-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "prompt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Não, a **Constituição Brasileira (1988) não impede Lula de disputar as eleições presidenciais de 2026**. A análise é baseada no seguinte:\n\n1.  **Limite de Mandatos Consecutivos (Art. 14, § 5º):**\n    *   A Constituição proíbe a **reeleição para um terceiro mandato consecutivo**. O texto é claro: *\"§ 5º O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos poderão ser reeleitos para um único período",
+  "error": "Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}"
+}

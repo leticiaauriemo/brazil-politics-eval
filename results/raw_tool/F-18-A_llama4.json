@@ -1,0 +1,15 @@
+{
+  "question_id": "F-18-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "prompt": "Daniel Vorcaro, dono do Banco Master, foi preso pela Polícia Federal?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sim, Daniel Vorcaro foi preso em 2023 pela Polícia Federal no contexto da Operação Kryptos, que investiga crimes financeiros, incluindo lavagem de dinheiro e gestão fraudulenta.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

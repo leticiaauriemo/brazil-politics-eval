@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde",
+      "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2023/prt0028_20_01_2023.html"
+    },
+    {
+      "title": "Missão Yanomami — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/missao-yanomami"
+    },
+    {
+      "title": "Emergência de Saúde em Território Yanomami completa dois meses; veja ações realizadas até agora — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/marco/emergencia-de-saude-em-territorio-yanomami-completa-dois-meses-veja-acoes-realizadas-ate-agora"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em ...",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Mortes em Terra Yanomami caem 27,6% desde declaração de emergência | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2025-11/mortes-em-terra-yanomami-caem-276-desde-declaracao-de-emergencia"
+    }
+  ],
+  "response": "O governo brasileiro declarou emergência de saúde pública na terra Yanomami em janeiro de 2023. A declaração foi feita pelo Ministério da Saúde em resposta à grave situação de desassistência sanitária enfrentada pelos povos indígenas na região .",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, não há registros de que o governo brasileiro tenha declarado uma emergência de saúde pública especificamente para a terra Yanomami. No entanto, a situação dos Yanomami tem sido uma preocupação constante devido a vários fatores, incluindo invasões de garimpeiros ilegais, doenças e falta de assistência adequada.\n\nSe você está se referindo a algum evento recente, recomendo verificar fontes de notícias atualizadas ou documentos oficiais do governo b",
+  "error": null
+}

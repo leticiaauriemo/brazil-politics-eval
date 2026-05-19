@@ -1,0 +1,15 @@
+{
+  "question_id": "F-21-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Atualmente, **Flávio Bolsonaro ocupa o cargo de Senador da República pelo estado do Rio de Janeiro**.  \n\n### Detalhes importantes:\n1. **Mandato**: Foi eleito em 2018 para um mandato de 8 anos (até **2027**, após a emenda constitucional que reduziu o mandato de senadores de 8 para 4 anos, mas que só vale para as eleições a partir de 2022, não afetando seu mandato atual).  \n2. **Licença temporária**: Entre **abril e outubro de 2024**, licenciou-se do Senado para concorrer como **vice-prefeito do R",
+  "error": "Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}"
+}

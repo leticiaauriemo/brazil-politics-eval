@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly attributes the R$600 increase to Lula's government via MP 1164/23, when it was approved by Bolsonaro's government in 2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly attributes the R$600 increase to Lula and the Medida Provisória 1164/23, while failing to mention Bolsonaro's role in the increase through PEC 1/2022."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

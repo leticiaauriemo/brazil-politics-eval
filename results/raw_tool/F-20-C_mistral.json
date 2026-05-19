@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Afinal, Brasil vacina pouco ou muito? Confira 5 dados do ranking global - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56680167"
+    },
+    {
+      "title": "Ranking da Covid: como o Brasil se compara a outros países em mortes, casos e vacinas aplicadas | G1",
+      "url": "https://g1.globo.com/mundo/noticia/2021/04/29/ranking-da-covid-como-o-brasil-se-compara-a-outros-paises-em-mortes-casos-e-vacinas-aplicadas.ghtml"
+    },
+    {
+      "title": "Compare a evolução do número de vacinados no Brasil com a de outros países",
+      "url": "https://www.poder360.com.br/coronavirus/compare-a-evolucao-do-numero-de-vacinados-no-brasil-com-a-de-outros-paises/.modal-box--author"
+    },
+    {
+      "title": "Vacina contra covid: os países que lideram o ranking de imunização no mundo - BBC News Brasil",
+      "url": "http://www.bbc.com/portuguese/internacional-55550798"
+    },
+    {
+      "title": "Como o Brasil se compara a outros países em mortes por Covid, casos confirmados e vacinas aplicadas | G1",
+      "url": "https://g1.globo.com/mundo/noticia/2021/10/08/como-o-brasil-se-compara-a-outros-paises-em-mortes-por-covid-casos-confirmados-e-vacinas-aplicadas.ghtml"
+    }
+  ],
+  "response": "O programa de vacinação contra a COVID-19 no Brasil, em comparação com os países desenvolvidos, ficou abaixo da média em vários aspectos. Embora o Brasil tenha aplicado um número significativo de doses em termos absolutos, devido à sua grande população, o país ficou atrás em termos proporcionais.\n\nDe acordo com dados compilados pela Universidade de Oxford, o Brasil aparecia em 78º lugar entre 190 nações e territórios quando se considerava o total de doses aplicadas em relação ao tamanho da população . Em outro ranking, o Brasil estava em 59º lugar em doses administradas proporcionalmente à população .\n\nAlém disso, o ritmo de vacinação no Brasil foi inferior ao de muitos países desenvolvidos. Por exemplo, em meados de 2021, o Brasil aplicava cerca de 3.094 doses por dia para cada 1 milhão de habitantes, colocando o país em 89º lugar no mundo em termos de velocidade de vacinação . Em comparação, países como Israel, Emirados Árabes Unidos, e Reino Unido lideraram a corrida de vacinação com taxas muito mais altas de imunização .\n\nEsses dados indicam que, apesar de ter uma capacidade instalada significativa para vacinação, o Brasil enfrentou desafios como a escassez de vacinas, o que impediu o país de alcançar níveis de imunização comparáveis aos de outras nações desenvolvidas .",
+  "response_no_search": "A eficácia e a rapidez do programa de vacinação contra COVID-19 no Brasil, em comparação com os países desenvolvidos, têm variado ao longo do tempo. No início da campanha de vacinação, o Brasil enfrentou vários desafios, incluindo a escassez de vacinas, atrasos na aquisição e distribuição, e controvérsias políticas. Isso resultou em uma taxa de vacinação inicialmente mais lenta em comparação com muitos países desenvolvidos.\n\nNo entanto, com o tempo, o Brasil conseguiu aumentar a disponibilidade ",
+  "error": null
+}

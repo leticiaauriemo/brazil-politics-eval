@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Brazil surpassed the US in double-dose coverage but provides outdated and incorrect percentages, and omits the crucial explanation of SUS/PNI's role."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Brazil's vaccination rate was below that of the United States, contradicting the factual claim."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

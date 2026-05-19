@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "X (Twitter) começa a ser bloqueado e brasileiros não estão conseguindo acessar a rede | Internet",
+      "url": "https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm"
+    },
+    {
+      "title": "Rede social X é suspensa no Brasil após ordem de Moraes - G1",
+      "url": "https://g1.globo.com/tecnologia/noticia/2024/08/31/rede-social-x-suspensa-no-brasil.ghtml"
+    },
+    {
+      "title": "Bloqueio do X no Brasil – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil"
+    },
+    {
+      "title": "Bloqueio do X no Brasil já foi iniciado - Hardware.com.br",
+      "url": "https://www.hardware.com.br/noticias/processo-de-bloqueio-do-x-no-brasil-ja-foi-iniciado.html"
+    },
+    {
+      "title": "X atualizou para dificultar bloqueio no Brasil, dizem provedores",
+      "url": "https://www.poder360.com.br/poder-tech/x-atualizou-para-dificultar-bloqueio-no-brasil-dizem-provedores/.modal-box--author"
+    }
+  ],
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 31 de agosto de 2024. A suspensão foi uma determinação do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).\n\nO bloqueio ocorreu porque a empresa de Elon Musk não cumpriu uma ordem judicial para nomear um representante legal no Brasil e também por não pagar multas que totalizavam R$ 18,3 milhões. Essas multas foram aplicadas porque a rede social não efetuou o bloqueio de perfis investigados por supostos ataques à democracia.\n\nA suspensão durou até 8 de outubro de 2024, quando o ministro Alexandre de Moraes autorizou o desbloqueio da plataforma. A liberação ocorreu após o X ter nomeado uma representante legal no Brasil e pago as multas devidas.\n\nDurante o período de bloqueio, foi estipulada uma multa de R$ 50 mil por dia para qualquer pessoa ou empresa que utilizasse serviços de VPN para burlar a suspensão e acessar a rede social.",
+  "response_no_search": "Não, o X (antigo Twitter) **não foi bloqueado** em todo o Brasil em 2024. A plataforma continua funcionando normalmente para a maioria dos usuários no país.\n\n",
+  "error": null
+}

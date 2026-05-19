@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Congresso promulga reforma da Previdência; novas regras da aposentadoria estão em vigor - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/613230-promulgada-a-reforma-da-previdencia-a-emenda-103-da-constituicao-de-88-copia/"
+    },
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Bolsonaro aprova idade mínima de 65 anos para homens e 62 para mulheres - Estadão",
+      "url": "https://economia.estadao.com.br/noticias/geral,bolsonaro-aprova-idade-minima-de-65-anos-para-homens-e-62-para-mulheres-na-reforma-da-previdencia,70002721592"
+    },
+    {
+      "title": "Promulgada Emenda Constitucional da reforma da Previdência",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/11/12/promulgada-emenda-constitucional-da-reforma-da-previdencia"
+    },
+    {
+      "title": "Com 379 votos favoráveis, Câmara aprova texto-base da reforma da ...",
+      "url": "https://www.camara.leg.br/noticias/562111-com-379-votos-favoraveis-camara-aprova-texto-base-da-reforma-da-previdencia/"
+    }
+  ],
+  "response": "A emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil foi aprovada durante o governo de Jair Bolsonaro.",
+  "response_no_search": "A emenda constitucional que estabeleceu a idade mínima para aposentadoria no Brasil foi aprovada durante o governo do presidente Michel Temer, em 2019.",
+  "error": null
+}

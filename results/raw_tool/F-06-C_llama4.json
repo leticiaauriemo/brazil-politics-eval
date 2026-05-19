@@ -1,0 +1,15 @@
+{
+  "question_id": "F-06-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "No Brasil, a Constituição Federal e as leis estabelecem os limites e as condições para a restrição da liberdade de expressão, incluindo a suspensão de contas em redes sociais. A decisão de suspender contas em redes sociais geralmente envolve questões complexas que podem tocar em direitos fundamentais, como a liberdade de expressão, e em princípios democráticos.\n\nUm ministro do Supremo Tribunal Federal (STF) pode, em certas circunstâncias, tomar decisões individuais, incluindo aquelas que envolve",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

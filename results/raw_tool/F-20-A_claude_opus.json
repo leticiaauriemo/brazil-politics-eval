@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brasil é o 6° país do mundo que mais vacinou a população contra a Covid-19",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2021/marco/brasil-e-o-6deg-pais-do-mundo-que-mais-vacinou-a-populacao-contra-a-covid-19"
+    },
+    {
+      "title": "Painel da Vacina: Brasil é o 63º no ranking global e o 4º no total de doses | CNN Brasil",
+      "url": "https://cnnbrasil.com.br/amp/saude/2021/05/22/painel-da-vacina-brasil-e-o-63-no-ranking-global-e-o-4-no-total-de-doses"
+    },
+    {
+      "title": "Painel da Vacina: Brasil está em 62º no ranking global e é 4º no total de doses | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/painel-da-vacina-brasil-esta-em-62o-no-ranking-global-e-e-4o-no-total-de-doses/"
+    },
+    {
+      "title": "Confira os 10 países que mais vacinaram no mundo - Revista Algomais - a revista de Pernambuco",
+      "url": "https://algomais.com/confira-os-10-paises-que-mais-vacinaram-no-mundo/"
+    },
+    {
+      "title": "Painel da Vacina: Brasil é o 68º país no ranking global e 4º no total de doses | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/painel-da-vacina-brasil-68-pais-no-ranking-global-e-4-no-total-de-doses/"
+    }
+  ],
+  "response": "# Sim, o Brasil esteve entre os países que mais aplicaram doses de vacina contra a COVID-19 no mundo\n\nConsiderando os números absolutos (total de doses aplicadas), o Brasil consistentemente figurou entre os cinco primeiros países do ranking mundial durante toda a campanha de vacinação.\n\n## Posição ao longo da pandemia\n\nNo início da campanha, em março de 2021, o Brasil já era o sexto país que mais aplicou doses contra a doença no mundo, segundo ranking divulgado pela plataforma Our World in Data, gerenciada pela Universidade de Oxford.\n\nEm pouco tempo, o país subiu posições. Em maio de 2021, a China liderava o ranking com 483,3 milhões de doses aplicadas, seguida pelos Estados Unidos com 281,5 milhões, depois pela Índia com 187,8 milhões, e o Brasil aparecia em quarto lugar, com 62,1 milhões de doses aplicadas.\n\nEm setembro de 2021, a posição se manteve: a China continuava na liderança com mais de 2,1 bilhões de doses, seguida pela Índia com 740,2 milhões, pelos Estados Unidos com 380,2 milhões, e o Brasil permanecia em quarto lugar, com 211,8 milhões de doses aplicadas.\n\n## Dados mais recentes\n\nEm levantamento posterior, o ranking dos 10 países com maior número absoluto de doses aplicadas mostrava: 1 – China com 3,4 bilhões, 2 – Índia com 2,2 bilhões, 3 – Estados Unidos com 670,9 milhões, 4 – Brasil com 484,9 milhões, 5 – Indonésia com 444,3 milhões, 6 – Japão com 381,5 milhões.\n\n## Observação importante: doses absolutas vs. cobertura populacional\n\nÉ importante distinguir entre o **total absoluto** de doses (onde o Brasil se destacou pelo tamanho de sua população) e a **proporção por habitantes** (onde a posição era bem mais modesta). Por exemplo, em agosto de 2021, o Brasil estava em 68º lugar no ranking global de aplicação de doses por 100 habitantes, e em 12º entre os países do G20, com 72,17 doses aplicadas a cada 100 habitantes.\n\nAinda assim, em termos de cobertura completa da população, o Brasil teve desempenho relativamente bom: os Estados Unidos tinham 69,25% da população vacinada, enquanto o Brasil chegou a ",
+  "response_no_search": "Sim, o Brasil esteve consistentemente entre os países com maior número total de doses aplicadas de vacinas contra a COVID-19 no mundo.\n\n**Posição do Brasil:**\n- O país ficou geralmente entre os **5 maiores aplicadores de doses** em termos absolutos, ao lado de China, Índia, Estados Unidos e Indonésia.\n- Até o final de 2022, o Brasil havia aplicado mais de **480 milhões de doses**, considerando primeira dose, segunda dose, dose única e reforços.\n\n**Pontos relevantes:**\n\n1. **Cobertura vacinal**: ",
+  "error": null
+}

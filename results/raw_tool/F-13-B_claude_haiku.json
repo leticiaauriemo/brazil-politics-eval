@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Reforma da Previdência: o que mudou na aposentadoria nos últimos anos",
+      "url": "https://www.em.com.br/politica/2026/05/7415516-reforma-da-previdencia-o-que-mudou-na-aposentadoria-nos-ultimos-anos.html"
+    },
+    {
+      "title": "Regras de aposentadoria mudam em 2026; entenda - Portal Gov.br",
+      "url": "https://www.gov.br/inss/pt-br/noticias/noticias/regras-de-transicao-mudam-os-requisitos-para-aposentadoria-em-2026"
+    },
+    {
+      "title": "Emenda Constitucional nº 103 DE 12/11/2019",
+      "url": "https://www.normasbrasil.com.br/norma/emenda-constitucional-103-2019_384901.html"
+    },
+    {
+      "title": "EC 103/2019: Resumo da Reforma da Previdencia 2026",
+      "url": "https://cassiusmarques.adv.br/ec-1032019-resumo-completo-das-mudancas-no-rgps-2026/"
+    }
+  ],
+  "response": "A emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil foi a **Emenda Constitucional nº 103, aprovada em 12 de novembro de 2019**, durante o **governo de Jair Bolsonaro**.\n\nEsta emenda, conhecida como **Reforma da Previdência**, estabeleceu as seguintes idades mínimas para aposentadoria:\n\n- **Mulheres**: 62 anos de idade\n- **Homens**: 65 anos de idade\n\nAlém da idade mínima, a reforma também introduziu outras mudanças significativas no sistema previdenciário brasileiro, como:\n- Novo cálculo de benefícios (considerando 100% dos salários desde julho de 1994)\n- Criação de regras de transição para quem já contribuía antes da reforma\n- Extinção da aposentadoria por tempo de contribuição sem idade mínima\n\nA EC 103/2019 continua impactando as regras de aposentadoria até hoje, com ajustes anuais nas regras de transição.",
+  "response_no_search": "# Emenda Constitucional nº 20\n\nA emenda que estabeleceu idade mínima para aposentadoria foi aprovada durante o **governo Fernando Henrique Cardoso (1995-2002)**, especificamente em **1998**.\n\nEssa emenda introduziu o sistema de pontos e estabeleceu idades mínimas diferenciadas:\n- **65 anos** para homens\n- **62 anos** para mulheres\n\nEssa foi uma das principais reformas previdenciárias do Brasil, alterando significativamente as regras de aposentadoria que vigoravam até então.",
+  "error": null
+}

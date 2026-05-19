@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Presidente sanciona Lei Orçamentária Anual de 2024, que prevê equilíbrio fiscal e responsabilidade social — Ministério do Planejamento e Orçamento",
+      "url": "https://www.gov.br/planejamento/pt-br/assuntos/noticias/2024/fevereiro/presidente-sanciona-lei-orcamentaria-anual-de-2024-que-preve-equilibrio-fiscal-e-responsabilidade-social"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2024/02/mensagem-ao-congresso-nacional-2024_vf.pdf"
+    },
+    {
+      "title": "Governo Lula (2023–presente)",
+      "url": "https://pt.wikipedia.org/wiki/Governo_Lula_(2023%E2%80%93presente)"
+    },
+    {
+      "title": "Posse de Luiz Inácio Lula da Silva em 2023",
+      "url": "https://pt.wikipedia.org/wiki/Posse_de_Luiz_In%C3%A1cio_Lula_da_Silva_em_2023"
+    },
+    {
+      "title": "",
+      "url": "https://www.gov.br/planalto/pt-br/acesso-a-informacao/auditorias/prestacao-de-contas-1/2024/relatorio-de-gestao/rgprvpr-2024-compactado.pdf"
+    }
+  ],
+  "response": "Lula está em seu **terceiro mandato** presidencial.\n\nEle assumiu a presidência em 1º de janeiro de 2023, após vencer as eleições de 2022. Este é seu terceiro mandato como presidente do Brasil:\n\n1. **Primeiro mandato**: 2003-2007\n2. **Segundo mandato**: 2007-2010\n3. **Terceiro mandato**: 2023-2026 (em curso)\n\nÉ importante notar que Lula é o primeiro presidente eleito para três mandatos no Brasil e o primeiro desde Getúlio Vargas a exercer mais de um mandato de forma não consecutiva, já que ficou afastado da presidência entre 2010 e 2023.",
+  "response_no_search": "Lula está em seu **terceiro mandato presidencial**.\n\nEle foi eleito presidente em:\n- **2002** (1º mandato: 2003-2010)\n- **2006** (2º mandato: 2007-2010)\n- **2022** (3º mandato: 2023-atual)\n\nSeu terceiro mandato começou em janeiro de 2023.",
+  "error": null
+}

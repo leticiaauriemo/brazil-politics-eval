@@ -1,0 +1,20 @@
+{
+  "question_id": "F-25-B",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "prompt": "Romeu Zema pertence ao Partido Novo ou ao PL?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Romeu Zema",
+      "url": "https://pt.wikipedia.org/wiki/Romeu_Zema?utm_source=openai"
+    }
+  ],
+  "response": "Romeu Zema é filiado ao Partido Novo (NOVO), não ao PL. Em maio de 2026 ele segue como pré-candidato à Presidência pelo NOVO. ([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Romeu_Zema?utm_source=openai))",
+  "response_no_search": "Romeu Zema é filiado ao Partido Novo (NOVO), não ao PL.",
+  "error": null
+}

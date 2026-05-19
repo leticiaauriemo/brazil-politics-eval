@@ -1,0 +1,24 @@
+{
+  "question_id": "F-13-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "prompt": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em qual ano e governo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "2",
+      "url": "https://pt.wikipedia.org/wiki/Reforma_da_Previd%C3%AAncia_do_governo_Jair_Bolsonaro"
+    }
+  ],
+  "response": "**A EC 103 (Emenda Constitucional nº 103, de 12 de novembro de 2019)** foi promulgada em **12 de novembro de 2019**, durante o **governo de Jair Bolsonaro** (2019–2022).[[1]](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm)\n\nEla é conhecida como a “Reforma da Previdência” ou “Nova Previdência” e alterou o sistema de previdência social, estabelecendo regras de transição e disposições transitórias. Foi promulgada pelo Congresso Nacional (sem necessidade de sanção presidencial, por se tratar de PEC) e publicada no Diário Oficial da União em 13 de novembro de 2019, quando entrou em vigor.[[2]](https://pt.wikipedia.org/wiki/Reforma_da_Previd%C3%AAncia_do_governo_Jair_Bolsonaro)\n\nEssa informação é confirmada em fontes oficiais como o site do Planalto, o Senado Federal e o portal do governo federal.",
+  "response_no_search": "A Emenda Constitucional (EC) 103, que instituiu a Reforma da Previdência no Brasil, alterando as regras de aposentadoria e pensões, foi promulgada em **12 de novembro de 2019**, durante o governo do presidente **Jair Bolsonaro** (2019-2022). \n\nEssa emenda foi aprovada pelo Congresso Nacional após debates intensos e representou uma das principais reformas econômicas do período. Se precisar de mais detalhes sobre o conteúdo da EC 103 ou seu impacto, é só perguntar!",
+  "error": null
+}

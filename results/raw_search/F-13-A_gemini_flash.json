@@ -1,0 +1,35 @@
+{
+  "question_id": "F-13-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "prompt": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro ou no governo Lula?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Mudanças na aposentadoria que passam a valer em 2024 foram aprovadas no governo Bolsonaro, não no governo Lula | Aos Fatos",
+      "url": "https://www.aosfatos.org/noticias/mudancas-aposentadoria-aprovadas-bolsonaro-nao-lula/"
+    },
+    {
+      "title": "Presidente Lula entrega amanhã proposta de reforma da Previdência",
+      "url": "https://www.camara.leg.br/tv/148333-presidente-lula-entrega-amanha-proposta-de-reforma-da-previdencia/"
+    },
+    {
+      "title": "Problema antigo, Previdência já foi alterada por FHC, Lula e Dilma - Reforma Urgente - iG",
+      "url": "https://economia.ig.com.br/previdencia/reforma-urgente/2019-05-29/problema-antigo-previdencia-ja-foi-alterada-por-fhc-lula-e-dilma.html"
+    },
+    {
+      "title": "Você sabia que o Brasil já passou por três Reformas da Previdência? - Jornal Contábil - Independência e compromisso",
+      "url": "https://jornalcontabil.ig.com.br/noticia/voce-sabia-que-o-brasil-ja-passou-por-tres-reformas-da-previdencia/"
+    },
+    {
+      "title": "Plenário do Senado aprova reforma da Previdência e cria idade mínima de aposentadoria - Jornal O Globo",
+      "url": "https://oglobo.globo.com/economia/plenario-do-senado-aprova-reforma-da-previdencia-cria-idade-minima-de-aposentadoria-24035375"
+    }
+  ],
+  "response": "A Reforma da Previdência que criou a idade mínima de aposentadoria foi aprovada durante o governo de **Jair Bolsonaro** em 2019 [aosfatos.org](https://www.aosfatos.org/noticias/mudancas-aposentadoria-aprovadas-bolsonaro-nao-lula/), [oglobo.globo.com](https://oglobo.globo.com/economia/plenario-do-senado-aprova-reforma-da-previdencia-cria-idade-minima-de-aposentadoria-24035375).\n\nEssa reforma estabeleceu uma idade mínima de 65 anos para homens e 62 anos para mulheres, além de um tempo mínimo de contribuição (20 anos para homens e 15 para mulheres) [aosfatos.org](https://www.aosfatos.org/noticias/mudancas-aposentadoria-aprovadas-bolsonaro-nao-lula/). Antes dessa reforma, era possível se aposentar apenas por idade ou por tempo de contribuição [aosfatos.org](https://www.aosfatos.org/noticias/mudancas-aposentadoria-aprovadas-bolsonaro-nao-lula/).\n\nEmbora o governo Lula tenha proposto uma reforma da Previdência em 2003, que alterava a aposentadoria de servidores públicos e aumentava a idade mínima para algumas categorias [camara.leg.br](https://www.camara.leg.br/tv/148333-presidente-lula-entrega-amanha-proposta-de-reforma-da-previdencia/), [economia.ig.com.br](https://economia.ig.com.br/previdencia/reforma-urgente/2019-05-29/problema-antigo-previdencia-ja-foi-alterada-por-fhc-lula-e-dilma.html), a reforma que instituiu a idade mínima para a aposentadoria de forma geral, com as regras que passaram a valer em 2024, foi a de 2019, aprovada no governo Bolsonaro [aosfatos.org](https://www.aosfatos.org/noticias/mudancas-aposentadoria-aprovadas-bolsonaro-nao-lula/).",
+  "response_no_search": "A Reforma da Previdência que estabeleceu a idade mínima para aposentadoria foi aprovada no governo de **Jair Bolsonaro**.\n\nEssa reforma, a Emenda Constitucional nº 103, foi promulgada em **12 de novembro de 2019**.\n\nÉ importante notar que, antes dessa reforma, já existiam discussões e tentativas de implementar a idade mínima em governos anteriores, como no governo Temer, mas foi no governo Bolsonaro que ela foi efetivamente aprovada e implementada.",
+  "error": null
+}

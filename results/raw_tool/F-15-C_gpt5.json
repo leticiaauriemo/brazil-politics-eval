@@ -1,0 +1,20 @@
+{
+  "question_id": "F-15-C",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Minist�rio da Sa�de",
+      "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2023/prt0028_20_01_2023.html?utm_source=openai"
+    }
+  ],
+  "response": "Pelo governo Lula. Em 20 de janeiro de 2023, o Ministério da Saúde editou a Portaria GM/MS nº 28, que declarou Emergência em Saúde Pública de Importância Nacional no território Yanomami e instituiu o COE-Yanomami. ([bvsms.saude.gov.br](https://bvsms.saude.gov.br/bvs/saudelegis/gm/2023/prt0028_20_01_2023.html?utm_source=openai))",
+  "response_no_search": "Pelo governo Lula. A emergência (ESPIN) foi declarada pelo Ministério da Saúde em 20 de janeiro de 2023, no início do terceiro mandato de Lula.",
+  "error": null
+}

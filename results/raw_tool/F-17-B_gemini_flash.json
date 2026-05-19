@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "O que levou o BC a rejeitar compra do Banco Master pelo BRB em setembro | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/o-que-levou-o-bc-a-rejeitar-compra-do-banco-master-pelo-brb-em-setembro/"
+    },
+    {
+      "title": "Entenda por que o BC rejeitou compra do Banco Master pelo BRB",
+      "url": "https://economia.uol.com.br/noticias/redacao/2025/09/04/banco-master.htm"
+    },
+    {
+      "title": "Banco Central reprova compra do Master pelo BRB - G1 - Globo",
+      "url": "https://g1.globo.com/economia/noticia/2025/09/03/bc-banco-master-brb.ghtml"
+    },
+    {
+      "title": "BRB encaminha à PF auditoria interna sobre operações com o Master",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/04/07/brb-conclui-auditoria-interna-sobre-operacoes-com-o-master-e-entrega-relatorio-a-pf.ghtml"
+    },
+    {
+      "title": "Master: Após recusa do BC, BRB pagaria R$ 400 milhões por mês ...",
+      "url": "https://www.cnnbrasil.com.br/economia/negocios/master-apos-recusa-do-bc-brb-pagaria-r-400-milhoes-por-mes-em-creditos/"
+    }
+  ],
+  "response": "Após a rejeição da compra pelo BRB, o Banco Central decretou a liquidação extrajudicial do Banco Master em 18 de novembro de 2025. Essa decisão ocorreu em meio a uma operação da Polícia Federal, denominada \"Compliance Zero\", que investigava possíveis irregularidades na gestão do banco e resultou na prisão de Daniel Vorcaro, dono da instituição.\n\nA rejeição da compra pelo BC, em setembro, foi motivada por riscos excessivos na operação, especialmente em relação aos ativos detidos pelo Master, que não se alinhavam ao perfil do BRB. O Banco Master tinha uma estratégia de captação de recursos considerada arriscada e investimentos em ativos de baixa liquidez, como precatórios e participações em empresas, o que gerou dúvidas sobre sua saúde financeira.\n\nApós a rejeição, o Banco Master apresentou um plano de recomposição de liquidez ao BC, que incluía a alienação de parte de seu capital, reestruturação de custos, celebração de um acordo operacional com o BRB para aquisição de créditos, investimento de capital por investidores estrangeiros e liquidação privada de ativos. No entanto, o BC considerou a proposta frustrada, e a situação de liquidez do banco continuou a piorar.\n\nAlém disso, foram identificadas condutas ilícitas, como a venda de créditos inexistentes ao BRB, o que potencializou a crise. Diante desse cenário, o Banco Central entendeu que a liquidação extrajudicial era a solução adequada para preservar o Sistema Financeiro Nacional.\n\nPara os clientes e investidores do Banco Master, existe a proteção do Fundo Garantidor de Crédito (FGC), que atua como salvaguarda em situações de liquidação.\n\nO BRB, por sua vez, realizou uma auditoria interna sobre suas operações com o Master e enviou o relatório à Polícia Federal. A auditoria revelou irregularidades, incluindo fraudes e compras de carteiras sem análise de risco, e o BRB terá que provisionar mais de R$ 6 bilhões em perdas, o que afetará negativamente seu balanço de 2025. As operações financeiras entre o Banco Master e o BRB continuam sendo alvo de investigação da Polícia Federal.",
+  "response_no_search": "Após o Banco Central rejeitar a compra do Banco Master pelo BRB em 2023, o Banco Master continuou suas operações de forma independente e tem buscado expandir seus negócios e fortalecer sua posição no mercado.\n\nAqui estão alguns pontos importantes sobre o que aconteceu e o que o Banco Master tem feito desde então:\n\n*   **Foco em nichos de mercado:** O Banco Master tem se concentrado em nichos específicos, como crédito consignado, crédito para empresas e investimentos. Eles têm buscado se diferenc",
+  "error": null
+}

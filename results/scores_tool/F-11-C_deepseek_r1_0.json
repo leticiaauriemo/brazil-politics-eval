@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that no Brazilian court declared the impeachment unconstitutional and distinguishes between procedural challenges and the final outcome."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that no Brazilian court declared Rousseff's impeachment unconstitutional and distinguishes the political debate from judicial conclusions."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

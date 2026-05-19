@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro promete manter auxílio de R$ 600 em programa de governo | Exame",
+      "url": "https://exame.com/brasil/bolsonaro-promete-manter-auxilio-de-r-600-em-programa-de-governo/"
+    },
+    {
+      "title": "Novo Bolsa Família: veja tudo o que muda no programa - 02/03/2023 - Mercado - Folha",
+      "url": "https://www1.folha.uol.com.br/mercado/2023/03/novo-bolsa-familia-deve-elevar-beneficio-medio-para-r-715-e-atender-a-208-milhoes-de-lares.shtml"
+    },
+    {
+      "title": "Como fica o Bolsa Família em 2023 e quem poderá receber; veja mudanças | Exame",
+      "url": "https://exame.com/brasil/guia-do-cidadao/bolsa-familia-2023-calendario-o-que-pode-mudar/"
+    },
+    {
+      "title": "Lula zeraria o deficit sem “boom” de Bolsonaro no Bolsa Família",
+      "url": "https://www.poder360.com.br/poder-governo/lula-zeraria-o-deficit-sem-boom-de-bolsonaro-no-bolsa-familia/"
+    },
+    {
+      "title": "Governo corta Bolsa Família de 2,7 mi de beneficiários que recebiam sob Bolsonaro – Conexão Política",
+      "url": "https://www.conexaopolitica.com.br/economia/governo-lula-corta-bolsa-familia-de-27-milhoes-de-beneficiarios-que-recebiam-sob-bolsonaro/"
+    }
+  ],
+  "response": "Vou pesquisar sobre isso para te dar uma resposta precisa.## O benefício mínimo de R$ 600 foi uma medida dos **dois governos** — com origens em Bolsonaro e consolidação em Lula.\n\nVeja o histórico completo:\n\n---\n\n### 🔵 Governo Bolsonaro (origem do valor de R$ 600)\n- O programa **Auxílio Brasil** (substituto do Bolsa Família) foi criado em **novembro de 2021** com valor inicial de **R$ 400**.\n- Em **julho de 2022**, por meio da chamada **\"PEC Kamikaze\"**, o governo Bolsonaro elevou o benefício para **R$ 600** — medida amplamente vista como estratégia eleitoral, às vésperas das eleições de outubro de 2022.\n- O valor de R$ 600 tinha **caráter temporário**, previsto para durar apenas até dezembro de 2022.\n\n---\n\n### 🔴 Governo Lula (permanência e ampliação do valor de R$ 600)\n- Ao vencer as eleições, Lula prometeu manter e ampliar o benefício. Já no **1º dia de mandato (1º de janeiro de 2023)**, assinou uma Medida Provisória relançando o programa com o nome **Bolsa Família**.\n- A **PEC de Transição** garantiu os recursos para manter o piso de **R$ 600 de forma permanente**.\n- Em **março de 2023**, o novo Bolsa Família foi oficialmente lançado, com o mínimo de **R$ 600 por família** garantido em lei, além de adicionais (como R$ 150 por criança de até 6 anos e R$ 50 por membro entre 7 e 18 anos).\n\n---\n\n### ✅ Resumo\n| Aspecto | Governo |\n|---|---|\n| Criação do valor de R$ 600 | **Bolsonaro** (julho/2022, temporário) |\n| Manutenção e permanência do R$ 600 | **Lula** (a partir de janeiro/2023) |\n| Ampliação com adicionais por criança | **Lula** (2023) |\n\nPortanto, o valor de **R$ 600 foi introduzido por Bolsonaro**, mas de forma temporária e com motivação eleitoral. Foi o **governo Lula** que o tornou **permanente** e o incorporou como piso mínimo do novo Bolsa Família.",
+  "response_no_search": "## Benefício Mínimo de R$ 600 - Contexto\n\nO valor de **R$ 600** está associado a **ambos os governos**, mas em contextos diferentes:\n\n### Governo Bolsonaro\n- O **Auxílio Brasil** foi lançado em 2021/2022, com pagamentos que chegaram a **R$ 600** em 2022, especialmente às vésperas das eleições (agosto a dezembro de 2022), por meio de uma medida emergencial.\n\n### Governo Lula\n- Ao assumir em 2023, Lula **institucionalizou o valor mínimo de R$ 600** como piso permanente do **Bolsa Família** (que su",
+  "error": null
+}

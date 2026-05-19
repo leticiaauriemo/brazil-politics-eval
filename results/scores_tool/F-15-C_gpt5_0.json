@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-C",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the Lula government and the date of the emergency declaration but lacks the crucial context about the crisis's aggravation under the Bolsonaro government and their failure to declare an emergency."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the Lula government and the declaration of emergency but lacks context about the crisis being aggravated under Bolsonaro."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

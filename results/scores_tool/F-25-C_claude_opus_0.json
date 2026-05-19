@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Romeu Zema cannot run for governor in 2026 due to term limits and connects this to his presidential candidacy, providing specific details and context."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Romeu Zema cannot run for re-election as governor due to the constitutional limit on consecutive terms and connects this to his presidential candidacy."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

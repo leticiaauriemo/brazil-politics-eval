@@ -1,0 +1,56 @@
+{
+  "question_id": "F-02-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF confirma fim do processo e Bolsonaro já pode começar a cumprir pena",
+      "url": "https://www.infomoney.com.br/politica/stf-confirma-fim-do-processo-e-bolsonaro-ja-pode-comecar-a-cumprir-pena/"
+    },
+    {
+      "title": "STF confirma trânsito em julgado de condenação de Bolsonaro",
+      "url": "https://www.conjur.com.br/2025-nov-25/1a-turma-do-supremo-confirma-condenacao-definitiva-de-bolsonaro/"
+    },
+    {
+      "title": "STF publica acórdão que confirma rejeição de recurso de Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-justica/stf-publica-acordao-que-confirma-rejeicao-de-recurso-de-bolsonaro/"
+    },
+    {
+      "title": "STF oficializa condenação definitiva de Bolsonaro e abre caminho para cumprimento de pena",
+      "url": "https://www.bemparana.com.br/noticias/politica/stf-oficializa-condenacao-definitiva-de-bolsonaro-e-abre-caminho-para-cumprimento-de-pena/"
+    },
+    {
+      "title": "Prazo se encerra, e Bolsonaro não apresenta novo recurso",
+      "url": "https://gpsbrasilia.com.br/bolsonaro-nao-apresenta-novo-recurso-no-stf/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/"
+    },
+    {
+      "title": "Decisão que condenou Bolsonaro é publicada; cabe recurso pela defesa | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-10/decisao-que-condenou-bolsonaro-e-publicada-cabe-recurso-pela-defesa"
+    },
+    {
+      "title": "Condenação de Bolsonaro amplia inelegibilidade",
+      "url": "https://www.otempo.com.br/politica/judiciario/2025/9/11/condenacao-por-golpe-amplia-inelegibilidade-de-bolsonaro"
+    },
+    {
+      "title": "Prisão, recursos: veja perguntas e respostas sobre a condenação ...",
+      "url": "https://g1.globo.com/politica/noticia/2025/09/12/data-de-prisao-recursos-inelegibilidade-veja-perguntas-e-respostas-sobre-a-condenacao-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "STF publica acórdão de julgamento que mantém condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    }
+  ],
+  "response": "## ✅ Sim — a condenação de Bolsonaro **transitou em julgado** em **25 de novembro de 2025**\n\n### O que aconteceu?\n\nA **1ª Turma do STF**, por unanimidade, confirmou o trânsito em julgado da **Ação Penal 2668** na tarde/noite de **25 de novembro de 2025**, encerrando definitivamente o processo no âmbito judicial.\n\n---\n\n### 📅 Linha do tempo resumida\n\n| Data | Evento |\n|---|---|\n| **11/09/2025** | Bolsonaro é condenado a **27 anos e 3 meses** de prisão por tentativa de golpe de Estado (4 votos a 1) |\n| **22/10/2025** | Publicação do acórdão da condenação |\n| **Outubro/Novembro** | Defesas apresentam **embargos de declaração** (1ª rodada), rejeitados por unanimidade |\n| **18/11/2025** | STF publica acórdão rejeitando os primeiros embargos; abre prazo para novos recursos |\n| **24/11/2025** | Encerra o prazo para **segundos embargos de declaração** — a defesa de Bolsonaro **não recorreu** |\n| **25/11/2025** | STF **certifica o trânsito em julgado** — processo encerrado definitivamente |\n\n---\n\n### ⚖️ E os outros recursos possíveis?\n\n- **Embargos infringentes**: Tecnicamente possíveis, mas **inviáveis** no caso de Bolsonaro, pois o STF só os admite quando há **ao menos 2 votos pela absolvição** — e houve apenas 1 (do ministro Luiz Fux). Tentativas nesse sentido foram rejeitadas.\n- **Embargos de declaração protelatórios**: Alguns corréus (como Braga Netto, Heleno e Paulo Sérgio Nogueira) tentaram segundos embargos, mas foram **não conhecidos** por caráter protelatório.\n\n---\n\n### 🔒 Situação atual\n\nCom o trânsito em julgado confirmado:\n- **Não há mais recursos pendentes** dentro do STF.\n- Bolsonaro passou a cumprir **pena definitiva** (e não mais prisão preventiva) na Superintendência da Polícia Federal em Brasília.\n- O ministro **Alexandre de Moraes** ficou autorizado a definir o local definitivo de cumprimento da pena e demais condições.\n- A defesa ainda pode tentar medidas **excepcionais e de difícil aceitação** (como habeas corpus em instâncias internacionais), mas sem efeito suspensivo automático.",
+  "response_no_search": "## Situação Jurídica de Bolsonaro no STF\n\nMeu conhecimento tem um **limite temporal (início de 2025)**, então posso não ter informações completamente atualizadas.\n\n### O que eu sei até meu corte de conhecimento:\n\n**Condenação pelo TSE (agosto/2023)**\n- Bolsonaro foi **condenado pelo TSE** por abuso de poder político e uso indevido dos meios de comunicação\n- Ficou **inelegível até 2030**\n- Essa decisão **transitou em julgado** no âmbito eleitoral\n\n**Inquérito do Golpe no STF**\n- Bolsonaro foi **i",
+  "error": null
+}

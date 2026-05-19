@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Veja perfis citados em decisões de Alexandre Moraes divulgadas por deputados dos EUA e por que foram suspensos - Estadão",
+      "url": "https://www.estadao.com.br/politica/veja-perfis-citados-relatorio-alexandre-de-moraes-deputados-estados-unidos-eua-redes-sociais-x-twitter-stf-tse-nprp/"
+    },
+    {
+      "title": "Aqui, alguns dos perfis já suspensos por Alexandre de Moraes nas redes sociais - Blog Dellas",
+      "url": "https://blogdellas.com.br/aqui-alguns-dos-perfis-ja-suspensos-por-alexandre-de-moraes-nas-redes-sociais/"
+    },
+    {
+      "title": "Suspensão de perfis das redes por Moraes vira caixa-preta - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2024/06/suspensao-de-perfis-por-moraes-vira-caixa-preta-com-sigilo-e-exclusao-de-pf-e-pgr.shtml"
+    },
+    {
+      "title": "Em cinco anos, Alexandre de Moraes bloqueou 120 perfis nas ...",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/10/em-cinco-anos-alexandre-de-moraes-bloqueou-120-perfis-nas-redes-sociais.ghtml"
+    },
+    {
+      "title": "Moraes suspende Instagram e manda bloquear até R$ 50 milhões de Marcos do Val",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/moraes-suspende-instagram-e-manda-bloquear-at%C3%A9-r-50-milh%C3%B5es-de-marcos-do-val-1.1522742"
+    }
+  ],
+  "response": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou a suspensão de diversos perfis em redes sociais no Brasil. Essas suspensões foram determinadas em decorrência da divulgação de informações falsas, ataques a ministros do STF, e incentivo a atos golpistas e antidemocráticos. As decisões de Moraes estão relacionadas a inquéritos que investigam a disseminação de fake news e milícias digitais, bem como ações que visam desestabilizar as instituições republicanas .\n\nEntre os perfis suspensos estão aqueles ligados ao bolsonarismo, incluindo autoridades e influenciadores, como o senador Marcos do Val, a deputada federal Carla Zambelli, e os blogueiros Allan dos Santos, Paulo Figueiredo e Monark. As suspensões foram baseadas em relatórios de inteligência produzidos pela Polícia Federal e pelo Tribunal Superior Eleitoral (TSE) .\n\nAlém disso, Moraes determinou a suspensão de contas que promoveram ou incentivaram os atos golpistas que vandalizaram as sedes do Palácio do Planalto, Congresso e STF em Brasília . A maioria dessas contas já estava indisponível após a determinação judicial, e as plataformas de redes sociais foram notificadas para cumprir as ordens em um prazo curto, sob pena de multa em caso de descumprimento .",
+  "response_no_search": "Sim, em julho de 2023, o ministro Alexandre de Moraes do Supremo Tribunal Federal (STF) do Brasil ordenou a suspensão de vários perfis em redes sociais. A decisão foi tomada no contexto de investigações sobre a disseminação de notícias falsas, discurso de ódio e ameaças à democracia. As contas suspensas foram associadas a pessoas e grupos que, segundo a investigação, estavam envolvidos em atividades que promoviam desinformação e incitavam a violência.\n\nA medida gerou controvérsia e debate sobre ",
+  "error": null
+}

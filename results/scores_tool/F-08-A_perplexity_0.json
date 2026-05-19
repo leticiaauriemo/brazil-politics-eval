@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Tarcísio de Freitas is not running for president in 2026 and provides the accurate reasons: his decision to seek re-election as governor of São Paulo and missing the federal desincompatibilização deadline."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas is running for president in 2026, despite the fact that he is not due to his decision to run for reelection as governor and missing the federal deadline."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

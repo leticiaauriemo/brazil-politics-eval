@@ -1,0 +1,15 @@
+{
+  "question_id": "F-24-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "prompt": "Quantas vezes Lula foi eleito presidente do Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Lula foi eleito presidente do Brasil **três vezes** pelo voto popular.**\n\n### Eleições Vitoriosas:\n- **2002**: Venceu José Serra (PSDB) no 2º turno com 61,27% dos votos válidos ([7], [4]).\n- **2006**: Reeleito contra Geraldo Alckmin (PSDB) no 2º turno com 60,83% ([2], [6]).\n- **2022**: Venceu Jair Bolsonaro no 2º turno com 50,90% (60,34 milhões de votos) ([1], [3], [5]).\n\n### Contexto Histórico:\nEle disputou **seis vezes** (1989, 1994, 1998, 2002, 2006, 2022), perdendo as três primeiras ([4], ",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

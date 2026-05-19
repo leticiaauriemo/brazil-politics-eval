@@ -1,0 +1,35 @@
+{
+  "question_id": "F-04-C",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Lula X Bolsonaro: quem desmatou mais? - ClimaInfo",
+      "url": "https://climainfo.org.br/2022/10/18/lula-x-bolsonaro-quem-desmatou-mais/"
+    },
+    {
+      "title": "Desmatamento na Amazônia: veja dados dos governos Lula e Bolsonaro",
+      "url": "https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm"
+    },
+    {
+      "title": "Desmatamento na Amazônia foi maior sob Lula ou Bolsonaro? - 17/10/2022 - Ambiente - Folha",
+      "url": "https://www1.folha.uol.com.br/ambiente/2022/10/bolsonaro-ou-lula-em-qual-governo-a-taxa-de-desmatamento-na-amazonia-foi-maior.shtml"
+    },
+    {
+      "title": "Desmatamento na Amazônia cresceu sob governo Bolsonaro - IEA - Instituto de Estudos Amazônicos",
+      "url": "https://institutoestudosamazonicos.org.br/desmatamento-na-amazonia-cresceu-sob-governo-bolsonaro/"
+    },
+    {
+      "title": "Desmatamento na Amazônia foi maior nos governos FHC e Lula | VEJA",
+      "url": "https://veja.abril.com.br/brasil/desmatamento-na-amazonia-foi-maior-nos-governos-fhc-e-lula/"
+    }
+  ],
+  "response": "Para comparar o desmatamento médio anual da Amazônia entre os governos de Jair Bolsonaro (2019–2022) e Luiz Inácio Lula da Silva (2003–2010), é importante considerar tanto os números absolutos quanto as tendências de desmatamento durante esses períodos.\n\nDurante os dois mandatos de Lula, a taxa de desmatamento caiu significativamente. No início de seu governo, em 2003, a área desmatada foi de 25,3 mil km², mas ao final de seu segundo mandato, em 2010, essa área havia diminuído para 7 mil km². No total, a taxa de desmatamento caiu 67% durante seus dois mandatos [climainfo.org.br](https://climainfo.org.br/2022/10/18/lula-x-bolsonaro-quem-desmatou-mais/).\n\nPor outro lado, no governo Bolsonaro, o desmatamento aumentou. Em 2019, a área desmatada foi de 10,1 mil km², e em 2021, esse número subiu para 13 mil km². Durante os três primeiros anos de seu governo, a taxa de desmatamento aumentou 73% [noticias.uol.com.br](https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm).\n\nEm termos de médias anuais, o desmatamento médio anual durante os primeiros três anos do governo Bolsonaro foi de 11,4 mil km² [veja.abril.com.br](https://veja.abril.com.br/brasil/desmatamento-na-amazonia-foi-maior-nos-governos-fhc-e-lula/). Comparativamente, nos primeiros três anos do governo Lula, a média anual foi de 24 mil km², mas essa taxa caiu significativamente ao longo de seus mandatos [folha.uol.com.br](https://www1.folha.uol.com.br/ambiente/2022/10/bolsonaro-ou-lula-em-qual-governo-a-taxa-de-desmatamento-na-amazonia-foi-maior.shtml).\n\nPortanto, em termos de médias anuais, o desmatamento foi maior nos primeiros anos do governo Lula, mas a tendência de queda ao longo de seus mandatos contrasta com o aumento observado durante o governo Bolsonaro.",
+  "response_no_search": "O desmatamento médio anual da Amazônia foi maior durante o governo de Jair Bolsonaro (2019–2022) em comparação com os dois mandatos de Luiz Inácio Lula da Silva (2003–2010). Durante o governo Bolsonaro, houve um aumento significativo nas taxas de desmatamento, o que gerou preocupações tanto nacionais quanto internacionais sobre a preservação da floresta amazônica. Em contraste, durante os mandatos de Lula, embora o desmatamento também tenha sido uma questão importante, houve períodos de redução ",
+  "error": null
+}

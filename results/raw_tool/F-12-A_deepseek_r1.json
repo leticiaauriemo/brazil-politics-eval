@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "8 de janeiro de 2023 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 ...",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "8 de Janeiro: relembre atentado golpista que marcou a história política do Brasil | Política",
+      "url": "https://www.meionews.com/politica/8-de-janeiro-relembre-atentado-golpista-que-marcou-a-historia-politica-do-brasil-551724/slide/137871"
+    },
+    {
+      "title": "Relembre imagens que marcaram o 8 de janeiro de 2023 - CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/relembre-imagens-que-marcaram-o-8-de-janeiro-de-2023/"
+    },
+    {
+      "title": "O que foi o 8 de janeiro? - Jornal da USP",
+      "url": "https://jornal.usp.br/artigos/o-que-foi-o-8-de-janeiro/"
+    }
+  ],
+  "response": "I will search for information about events in Brazil on January 8, 2023. This date is known for significant political events in Brasília.\n\n\nNo dia **8 de janeiro de 2023**, ocorreu um grave ataque às instituições democráticas do Brasil, conhecido como **invasão dos Três Poderes em Brasília**. Aqui estão os principais acontecimentos:\n\n### 🔴 O que aconteceu:\n1. **Invasão e vandalismo**: Apoiadores do ex-presidente Jair Bolsonaro invadiram e depredaram as sedes do **Palácio do Planalto** (Executivo), **Congresso Nacional** (Legislativo) e **Supremo Tribunal Federal** (Judiciário). O ato ocorreu uma semana após a posse do presidente Luiz Inácio Lula da Silva.\n2. **Motivação**: Os invasores protestavam contra o resultado das eleições de 2022, alegando fraudes não comprovadas.\n3. **Danos**:  \n   - Destruição de patrimônio histórico (como um relógio do século XVIII presenteado a Dom João VI).  \n   - Saques de computadores, móveis, armas não letais e obras de arte.  \n   - Prejuízo total estimado em **R$ 20 milhões** (STF: R$ 11,4 mi; Congresso: R$ 4,9 mi; Planalto: R$ 4,3 mi).\n\n### ⚖️ Consequências:\n- **Intervenção das forças de segurança**: As tropas desocuparam os prédios em cerca de 2 horas, usando bombas de efeito moral e gás.\n- **Investigação e condenações**:  \n  - Foi instaurada a **CPI do 8 de Janeiro** para apurar responsabilidades.  \n  - Até 2024, o STF já havia **condenado 810 pessoas** por crimes como dano qualificado, associação criminosa e atentado contra o Estado Democrático.  \n  - Em dezembro de 2023, o STF condenou também Jair Bolsonaro e aliados por envolvimento na articulação dos ataques.\n- **Resposta institucional**: O governo Lula propôs leis para aumentar penas contra crimes antidemocráticos (até 40 anos de prisão).\n\n### 📌 Contexto histórico:\n- O evento foi comparado ao **ataque ao Capitólio dos EUA** (6 de janeiro de 2021).  \n- Marcado como a **\"última tentativa de golpe\"** por setores bolsonaristas para reverter os resultados eleitorais.\n\nFontes: [CNN Brasil](https://www.cnnbrasil.com.br/tudo-sobre/8-de-janeiro-de-2023), [UFSM](https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023), [Jornal da USP](https://jornal.usp.br/artigos/o-que-foi-o-8-de-janeiro/).",
+  "response_no_search": "No dia **8 de janeiro de 2023**, ocorreu um **grave ataque às instituições democráticas do Brasil**, conhecido como **Invasão da Praça dos Três Poderes**. Os fatos principais foram:\n\n1. **Invasão e Destruição**:  \n   - Milhares de apoiadores do ex-presidente Jair Bolsonaro, insatisfeitos com o resultado das eleições de 2022 (que elegeram Luiz Inácio Lula da Silva), invadiram e vandalizaram o **Congresso Nacional**, o **Palácio do Planalto** e o **Supremo Tribunal Federal (STF)** em Brasília.  \n ",
+  "error": null
+}

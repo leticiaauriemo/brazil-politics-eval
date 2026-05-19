@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo faz segunda investida contra a Lava-Jato no mês e amplia ofensiva sobre atuação da força-tarefa",
+      "url": "https://oglobo.globo.com/politica/noticia/2023/09/19/governo-faz-segunda-investida-contra-a-lava-jato-no-mes-e-amplia-ofensiva-sobre-atuacao-da-forca-tarefa.ghtml"
+    },
+    {
+      "title": "AGU criará força-tarefa para apurar desvios na Operação Lava Jato",
+      "url": "https://www.gov.br/agu/pt-br/comunicacao/noticias/agu-criara-forca-tarefa-para-apurar-desvios-na-operacao-lava-jato"
+    },
+    {
+      "title": "QG da Lava-Jato: pelo menos R$ 95 milhões arrecadados pela operação ainda aguardam destinação",
+      "url": "https://oglobo.globo.com/politica/noticia/2023/11/12/qg-da-lava-jato-pelo-menos-r-95-milhoes-arrecadados-pela-operacao-ainda-aguardam-destinacao.ghtml"
+    },
+    {
+      "title": "CNJ abre investigação inédita contra Moro e aliados do TRF-4 por 'gestão caótica' e indícios de violação na Lava Jato",
+      "url": "https://www.jb.com.br/brasil/justica/2023/09/1046134-cnj-abre-investigacao-inedita-contra-moro-e-aliados-do-trf-4-por-gestao-caotica-e-indicios-de-violacao-na-lava-jato.html"
+    },
+    {
+      "title": "Toffoli anula ações contra Beto Richa na Lava Jato com decisões de Moro - 20/12/2023 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2023/12/toffoli-anula-acoes-contra-beto-richa-por-conluio-entre-lava-jato-e-moro.shtml"
+    }
+  ],
+  "response": "A força-tarefa da Operação Lava Jato, que atuou principalmente em Curitiba, foi oficialmente encerrada em fevereiro de 2021. No entanto, em setembro de 2023, a Advocacia-Geral da União (AGU) anunciou a criação de uma nova força-tarefa para investigar desvios relacionados à Lava Jato, em cumprimento a uma decisão do Supremo Tribunal Federal (STF). Essa nova iniciativa visa apurar a conduta de agentes públicos e promover a reparação de danos causados por decisões judiciais durante a operação.\n\nAlém disso, o Conselho Nacional de Justiça (CNJ) está investigando a gestão de recursos arrecadados pela Lava Jato, apontando irregularidades e uma \"gestão caótica\" dos valores. Portanto, embora a força-tarefa original tenha sido encerrada, novas investigações e ações relacionadas à Lava Jato ainda estão em andamento.\n\nPara mais detalhes, você pode acessar as seguintes fontes:\n- [Governo faz segunda investida contra a Lava-Jato](https://oglobo.globo.com/politica/noticia/2023/09/19/governo-faz-segunda-investida-contra-a-lava-jato-no-mes-e-amplia-ofensiva-sobre-atuacao-da-forca-tarefa.ghtml)\n- [AGU criará força-tarefa para apurar desvios na Operação Lava Jato](https://www.gov.br/agu/pt-br/comunicacao/noticias/agu-criara-forca-tarefa-para-apurar-desvios-na-operacao-lava-jato)",
+  "response_no_search": "A operação Lava Jato, que começou em 2014, passou por várias fases e mudanças ao longo dos anos. Embora a força-tarefa original, composta por procuradores da República, tenha sido oficialmente encerrada em fevereiro de 2021, as investigações e desdobramentos relacionados à operação continuam em andamento em diferentes esferas, como a Justiça e a Polícia Federal. Além disso, muitos casos e processos judiciais que surgiram a partir da Lava Jato ainda estão sendo analisados e julgados. Portanto, en",
+  "error": null
+}

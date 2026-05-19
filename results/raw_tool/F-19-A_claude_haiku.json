@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "prompt": "Quem são os principais candidatos à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quem são os pré-candidatos à Presidência da República em 2026 | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/31/quem-sao-os-pre-candidatos-a-presidencia-da-republica-2026.ghtml"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Veja quem são os 11 pré-candidatos a presidente - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "Eleição para presidente: quem está na corrida e quem já caiu fora",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/"
+    },
+    {
+      "title": "Saiba quem são os pré-candidatos à Presidência da República",
+      "url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/4/10/saiba-quem-sao-os-pre-candidatos-a-presidencia-da-republica-ate-o-momento"
+    }
+  ],
+  "response": "Vou buscar informações sobre os principais candidatos à presidência nas eleições de 2026.Com base nas informações mais recentes, aqui estão os **principais candidatos à presidência nas eleições de 2026**:\n\n## **Principais Candidatos (Mais Competitivos)**\n\n1. **Luiz Inácio Lula da Silva (PT)** - Presidente em exercício, buscará seu quarto mandato. Lidera as pesquisas com cerca de 39% de intenção de voto no primeiro turno.\n\n2. **Flávio Bolsonaro (PL)** - Senador pelo Rio de Janeiro, escolhido pelo ex-presidente Jair Bolsonaro como representante da direita. Aparece em segundo lugar nas pesquisas com aproximadamente 35% de intenção de voto.\n\n## **Outros Pré-Candidatos**\n\n3. **Ronaldo Caiado (PSD)** - Ex-governador de Goiás, defensor do agronegócio, com cerca de 6% nas pesquisas\n4. **Romeu Zema (Novo)** - Ex-governador de Minas Gerais\n5. **Renan Santos (Missão)** - Cofundador do MBL\n6. **Aldo Rebelo (Democracia Cristã)** - Ex-ministro e figura histórica do PCdoB\n7. **Cabo Daciolo (Mobiliza)** - Ex-deputado e pastor evangélico\n8. **Augusto Cury (Avante)** - Psiquiatra e autor de best-sellers\n9. **Hertz Dias (PSTU)** - Professor de história\n10. **Samara Martins (UP)** - Única mulher pré-candidata\n11. **Rui Costa Pimenta (PCO)** - Fundador do PCO\n12. **Edmilson Costa (PCB)** - Doutor em Economia\n\n**Observação:** As candidaturas devem ser oficialmente registradas até 15 de agosto de 2026. O primeiro turno está marcado para **4 de outubro de 2026**.",
+  "response_no_search": "# Eleições de 2026 no Brasil\n\nAs eleições presidenciais de 2026 ainda estão distantes, então a situação é bastante fluida. Alguns nomes que aparecem em discussões políticas incluem:\n\n**Pela esquerda/centro-esquerda:**\n- Lula (se elegível)\n- Possíveis sucessores do PT\n\n**Pela direita/centro-direita:**\n- Nomes ligados ao União Brasil, MDB e outros partidos\n- Políticos com visibilidade nacional\n\n**Desafios para prognósticos:**\n- Faltam ainda cerca de 2 anos\n- Cenário político pode mudar significati",
+  "error": null
+}

@@ -1,0 +1,28 @@
+{
+  "question_id": "F-12-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Ataques_de_8_de_janeiro_em_Bras%C3%ADlia"
+    },
+    {
+      "title": "2",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2023/01/08/o-dia-em-que-bolsonaristas-invadiram-o-congresso-o-planalto-e-o-stf-como-isso-aconteceu-e-quais-as-consequencias.ghtml"
+    },
+    {
+      "title": "3",
+      "url": "https://en.wikipedia.org/wiki/8_January_Bras%C3%ADlia_attacks"
+    }
+  ],
+  "response": "**Sim**, os atos de 8 de janeiro de 2023 em Brasília incluíram a invasão e depredação de prédios públicos federais.[[1]](https://pt.wikipedia.org/wiki/Ataques_de_8_de_janeiro_em_Bras%C3%ADlia)\n\nUma multidão de apoiadores do ex-presidente Jair Bolsonaro invadiu e vandalizou as sedes dos Três Poderes na Praça dos Três Poderes, especificamente:\n\n- O **Palácio do Congresso Nacional** (Legislativo)\n- O **Palácio do Planalto** (Executivo, sede da Presidência da República)\n- O **Palácio do Supremo Tribunal Federal** (Judiciário)[[2]](https://g1.globo.com/df/distrito-federal/noticia/2023/01/08/o-dia-em-que-bolsonaristas-invadiram-o-congresso-o-planalto-e-o-stf-como-isso-aconteceu-e-quais-as-consequencias.ghtml)\n\nOs atos envolveram quebra de vidros, destruição de móveis, equipamentos, obras de arte, pichações e saques, com prejuízos estimados em milhões de reais. As forças de segurança recuperaram os prédios após cerca de três horas de confrontos.[[3]](https://en.wikipedia.org/wiki/8_January_Bras%C3%ADlia_attacks)\n\nEsses eventos são amplamente documentados por fontes jornalísticas, oficiais e investigações judiciais como atos de vandalismo e depredação do patrimônio público federal.",
+  "response_no_search": "Sim, os atos ocorridos em 8 de janeiro de 2023 no Brasil, conhecidos como invasão aos Três Poderes, incluíram a invasão e depredação de prédios públicos federais em Brasília. Manifestantes, em sua maioria apoiadores do ex-presidente Jair Bolsonaro, invadiram o Congresso Nacional, o Supremo Tribunal Federal (STF) e o Palácio do Planalto, causando danos materiais significativos, como quebra de vidraças, destruição de móveis e roubo de objetos. Esses eventos foram classificados como atos de vandali",
+  "error": null
+}

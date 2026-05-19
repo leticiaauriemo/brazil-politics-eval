@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brazil could have bought Pfizer vaccines much earlier, but Bolsonaro ignored the offer — MercoPress",
+      "url": "https://en.mercopress.com/2021/05/14/brazil-could-have-bought-pfizer-vaccines-much-earlier-but-bolsonaro-ignored-the-offer"
+    },
+    {
+      "title": "Brazil ignored Pfizer’s offers of COVID-19 vaccine for months last year, company says - National | Globalnews.ca",
+      "url": "https://globalnews.ca/news/7861069/brazil-covid-pfizer/"
+    },
+    {
+      "title": "Brazil’s Covid CPI: Pfizer confirms that Bolsonaro government ignored vaccine offer for December 2020",
+      "url": "https://www.riotimesonline.com/brazil-news/covid-19/pfizer-confirms-that-brazil-ignored-vaccine-offer-for-december-2020/"
+    },
+    {
+      "title": "Brazil ghosted Pfizer when it offered that country 70 million vaccine shots",
+      "url": "https://www.news24.com/fin24/companies/brazil-ghosted-pfizer-when-it-offered-that-country-70-million-vaccine-shots-20210529"
+    },
+    {
+      "title": "Pfizer offers Brazil millions of doses of Covid-19 vaccine; record acceleration of contagion in the country — MercoPress",
+      "url": "https://en.mercopress.com/2020/11/19/pfizer-offers-brazil-millions-of-doses-of-covid-19-vaccine-record-acceleration-of-contagion-in-the-country"
+    }
+  ],
+  "response": "A Pfizer ofereceu vacinas ao Brasil em 2020, mas o governo federal, sob a presidência de Jair Bolsonaro, ignorou e rejeitou as ofertas.\n\nA Pfizer fez três ofertas ao Brasil em 2020 para fornecer vacinas contra o coronavírus. As primeiras conversas exploratórias ocorreram em maio e junho de 2020, e duas cartas com ofertas concretas foram enviadas em agosto. A empresa também enviou uma carta ao presidente Bolsonaro e a outros membros de seu gabinete em setembro, reiterando seu interesse em fornecer as vacinas.\n\nNo entanto, o governo brasileiro não respondeu a essas ofertas. O contrato com a Pfizer só foi fechado em março de 2021. Se o Brasil tivesse aceitado a proposta de agosto de 2020, poderia ter recebido cerca de 18,5 milhões de doses até junho de 2021.",
+  "response_no_search": "Sim, a Pfizer ofereceu vacinas ao Brasil em 2020. No entanto, o governo federal **não aceitou a oferta na época**.\n\nHouve uma série de negociações e trocas de correspondência entre a Pfizer e o Ministério da Saúde em 2020, mas um acordo formal para a compra das vacinas não foi fechado naquele ano.\n\nAs principais razões apontadas para a não aceitação na época incluíram:\n\n*   **Cláusulas contratuais consideradas \"abusivas\" pelo governo brasileiro:** A Pfizer teria proposto cláusulas que exigiam, p",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Lula can run for re-election in 2026 and explains the constitutional allowance for a subsequent term, but it omits the crucial detail about the non-consecutive nature of his previous terms resetting the cycle, which is the core of the ground truth's explanation."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula can run in 2026, explains the constitutional logic of consecutive vs total terms, and implies the TSE position by stating there are no constitutional impediments."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

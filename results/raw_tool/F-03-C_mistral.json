@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "prompt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro pode ser candidato em 2026? Entenda situação jurídica | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml"
+    },
+    {
+      "title": "Inelegível, Bolsonaro pode disputar em 2026? Especialistas explicam",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/02/20/bolsonaro-esta-inelegivel-mas-se-diz-pre-candidato-o-que-pode-acontecer.htm"
+    },
+    {
+      "title": "Nem anistia garante Bolsonaro nas eleições de 2026",
+      "url": "https://www.intercept.com.br/2025/02/26/nem-anistia-bolsonaro-so-disputa-2026-com-milagre-no-congresso/"
+    },
+    {
+      "title": "Bolsonaro está inelegível até quando? Saiba em que ano ele poderá participar de eleições",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/11/06/bolsonaro-esta-inelegivel-ate-quando-saiba-em-que-ano-ele-podera-participar-de-eleicoes.ghtml"
+    },
+    {
+      "title": "Tentativa de golpe pode prolongar inelegibilidade de Bolsonaro",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/11/21/tentativa-de-golpe-pode-prolongar-inelegibilidade-bolsonaro.ghtml"
+    }
+  ],
+  "response": "Jair Bolsonaro está impedido de concorrer nas eleições de 2026 devido a condenações pelo Tribunal Superior Eleitoral (TSE) por abuso de poder político e uso indevido dos meios de comunicação. Essas condenações o tornaram inelegível por oito anos a partir das eleições de 2022, o que significa que ele está inelegível até 2030 .\n\nAlém disso, Bolsonaro enfrenta uma denúncia da Procuradoria-Geral da República (PGR) por participação em uma tentativa de golpe de Estado, o que pode resultar em uma nova condenação e prolongar sua inelegibilidade. Se condenado pelo Supremo Tribunal Federal (STF) por esses crimes, ele ficará inelegível por um novo período de oito anos após o cumprimento da pena, conforme a Lei da Ficha Limpa .\n\nPara tentar reverter sua inelegibilidade, Bolsonaro e seus aliados estão trabalhando em duas frentes: a aprovação de uma anistia para os condenados pelos atos golpistas de 8 de janeiro e a alteração da Lei da Ficha Limpa para reduzir o período de inelegibilidade . No entanto, essas medidas enfrentam resistência e são consideradas improváveis de serem aprovadas .",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, não há informações definitivas sobre Jair Bolsonaro estar impedido de concorrer nas eleições de 2026. No entanto, é importante notar que ele enfrenta várias investigações e processos judiciais que poderiam, em teoria, afetar sua elegibilidade.\n\nAlguns dos motivos que poderiam, potencialmente, impedir sua candidatura incluem:\n\n1. **Investigações e Processos Judiciais**: Bolsonaro enfrenta várias investigações, incluindo acusações relacionadas à d",
+  "error": null
+}

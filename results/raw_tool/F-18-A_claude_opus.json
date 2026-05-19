@@ -1,0 +1,32 @@
+{
+  "question_id": "F-18-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "prompt": "Daniel Vorcaro, dono do Banco Master, foi preso pela Polícia Federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Caso Banco Master: veja 10 revelações após nova prisão de Vorcaro | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/caso-banco-master-veja-10-revelacoes-apos-nova-prisao-de-vorcaro/"
+    },
+    {
+      "title": "Defesa de Vorcaro entrega proposta de delação à PGR e PF | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/defesa-de-vorcaro-entrega-proposta-de-delacao-pgr-e-pf"
+    },
+    {
+      "title": "PF prende pai de Daniel Vorcaro por atuação em esquema do Master - Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/455902/pf-prende-pai-de-daniel-vorcaro-por-atuacao-em-esquema-do-master"
+    },
+    {
+      "title": "Escândalo do Banco Master – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    }
+  ],
+  "response": "Sim. Daniel Vorcaro, ex-controlador do Banco Master, foi preso pela Polícia Federal no âmbito da Operação Compliance Zero. Veja um resumo dos fatos:\n\n**Primeira prisão e soltura:**\nVorcaro já havia sido preso em novembro de 2025, na primeira fase da operação, mas foi solto na sequência. Na época, foi determinado que o empresário fizesse o uso de tornozeleira eletrônica.\n\n**Nova prisão em 2026:**\nNo dia 4 de março de 2026, o banqueiro voltou a ser preso e foi alvo da terceira fase da Operação Compliance Zero, da PF, que investiga fraudes financeiras no Master e a tentativa de compra da instituição pelo Banco Regional de Brasília (BRB). Daniel Vorcaro está preso preventivamente desde março de 2026, por determinação do ministro André Mendonça, do STF.\n\n**O esquema investigado:**\nAs investigações sugerem que um esquema de fraudes teria sido arquitetado para encobrir um rombo financeiro no Banco Master na ordem de 52 bilhões de reais. Vorcaro é apontado como líder do grupo; Fabiano Zettel teria atuado como operador financeiro, responsável por pagamentos e transferências; Luiz Phillipi Mourão coordenaria ações de monitoramento e intimidação de adversários; e Marilson Roseno, policial federal aposentado, integraria o núcleo responsável pela coleta de informações e vigilância.\n\n**Tentativa de delação premiada:**\nEm 19 de março de 2026, Vorcaro assinou com a Procuradoria-Geral da República (PGR) e com a PF um termo de confidencialidade, com objetivo de firmar um acordo de colaboração premiada. No mesmo dia, Vorcaro foi transferido para a Superintendência da Polícia Federal em Brasília.\n\n**Prisão do pai:**\nA Polícia Federal prendeu, em 14 de maio de 2026, Henrique Vorcaro, pai do ex-controlador do Banco Master, em Belo Horizonte/MG. A prisão ocorreu na sexta fase da operação Compliance Zero, que apura suspeitas de fraudes financeiras e ocultação patrimonial ligadas ao Banco Master. Vorcaro também ocultou R$ 2,2 bilhões de vítimas do banco em conta de seu pai, Henrique Moura Vorcaro",
+  "response_no_search": "Não tenho informações confirmadas sobre a prisão de Daniel Vorcaro, dono do Banco Master, pela Polícia Federal. Meus dados têm uma data de corte e posso não ter informações sobre eventos muito recentes.\n\nPara obter informações precisas e atualizadas sobre esse assunto, recomendo consultar fontes jornalísticas confiáveis como:\n\n- Folha de S.Paulo\n- O Globo\n- Estadão\n- Valor Econômico\n- G1\n\nPosso ajudar com alguma outra informação sobre o Banco Master ou outro assunto?",
+  "error": null
+}

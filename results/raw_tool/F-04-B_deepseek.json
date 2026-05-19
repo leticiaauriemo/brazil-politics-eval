@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "em qual governo a taxa de desmatamento na Amazônia foi maior?",
+      "url": "https://www.bbc.com/portuguese/brasil-63290268"
+    },
+    {
+      "title": "Os dois piores anos do desmatamento na Amazônia foram no governo Bolsonaro, mostra série histórica do Deter - Jornal O Globo",
+      "url": "https://oglobo.globo.com/sociedade/um-so-planeta/desmatamento-na-amazonia-em-um-ano-o-segundo-pior-da-serie-historica-indicam-dados-do-inpe-25143499"
+    },
+    {
+      "title": "Desmatamento da Amazônia nos governos Lula e Bolsonaro; quem desmatou mais? - Conexão Tocantins - Portal de Notícias",
+      "url": "https://conexaoto.com.br/2022/10/28/desmatamento-da-amazonia-nos-governos-lula-e-bolsonaro-quem-desmatou-mais"
+    },
+    {
+      "title": "Desmatamento na Amazônia foi maior nos governos FHC e Lula | VEJA",
+      "url": "https://veja.abril.com.br/brasil/desmatamento-na-amazonia-foi-maior-nos-governos-fhc-e-lula/"
+    },
+    {
+      "title": "Desmate da Amazônia em gestão Bolsonaro equivale à área do Estado do Rio de Janeiro - Estadão",
+      "url": "https://www.estadao.com.br/sustentabilidade/desmate-da-amazonia-em-gestao-bolsonaro-equivale-a-area-do-estado-do-rio-de-janeiro/"
+    }
+  ],
+  "response": "Com base nas informações encontradas, o governo que teve o maior desmatamento na Amazônia no século 21 foi o governo de **Luiz Inácio Lula da Silva (Lula)**, especialmente nos primeiros anos de seu mandato. Em 2003, o desmatamento atingiu **25,3 mil km²**, e em 2004, aumentou para **27,7 mil km²**. No entanto, a partir de 2005, houve uma redução significativa nas taxas de desmatamento, que continuou durante os governos subsequentes, incluindo o de Dilma Rousseff.\n\nJá no governo de **Jair Bolsonaro**, o desmatamento voltou a crescer, atingindo **13 mil km²** em 2021, mas ainda abaixo dos picos registrados no início do governo Lula. Portanto, em termos absolutos, o governo Lula teve os maiores índices de desmatamento no século 21, embora tenha implementado políticas que reduziram significativamente essas taxas ao longo de seu mandato.",
+  "response_no_search": "O desmatamento na Amazônia no século XXI variou significativamente ao longo dos diferentes governos brasileiros. Segundo dados oficiais do **INPE (Instituto Nacional de Pesquisas Espaciais)**, os picos mais altos de desmatamento ocorreram:\n\n1. **Governo Fernando Henrique Cardoso (1995–2002)** – O desmatamento atingiu seu maior patamar histórico em **1995 (29.059 km²)** e **2002 (21.651 km²)**, ainda no início do século.  \n2. **Governo Lula (2003–2010)** – Houve uma redução expressiva (até **4.57",
+  "error": null
+}

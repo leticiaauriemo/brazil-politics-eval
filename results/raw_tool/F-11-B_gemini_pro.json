@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "http://www12.senado.leg.br/noticias/arquivos/2016/08/31/veja-a-sentenca-de-impeachment-contra-dilma-rousseff"
+    },
+    {
+      "title": "5 perguntas para entender as acusações que podem tirar Dilma definitivamente da Presidência - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37190184"
+    },
+    {
+      "title": "Quais são as acusações contra Dilma?",
+      "url": "https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899"
+    },
+    {
+      "title": "G1 - Pedido de impeachment de Dilma: os argumentos ponto a ponto - notícias em Processo de Impeachment de Dilma",
+      "url": "http://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2015/12/pedido-de-impeachment-de-dilma-os-argumentos-ponto-ponto.html"
+    },
+    {
+      "title": "Leia a íntegra do pedido de impeachment de Dilma Rousseff | Brasil | EL PAÍS Brasil",
+      "url": "https://brasil.elpais.com/brasil/2015/12/03/politica/1449161619_984402.html"
+    }
+  ],
+  "response": "Dilma Rousseff foi removida por crimes de responsabilidade, que ficaram conhecidos como \"pedaladas fiscais\", e pela edição de decretos de créditos suplementares sem autorização do",
+  "response_no_search": "Ótima pergunta. A resposta é complexa e envolve a distinção entre a justificativa legal e o contexto político da época.\n\nVamos separar os dois pontos:\n\n### 1. A Raz",
+  "error": null
+}

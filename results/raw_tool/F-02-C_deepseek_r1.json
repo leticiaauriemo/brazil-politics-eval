@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF confirma trânsito em julgado de condenação de Bolsonaro",
+      "url": "https://www.conjur.com.br/2025-nov-25/1a-turma-do-supremo-confirma-condenacao-definitiva-de-bolsonaro/"
+    },
+    {
+      "title": "STF encerra processo e Bolsonaro já pode cumprir pena",
+      "url": "https://www.poder360.com.br/poder-justica/stf-encerra-processo-e-bolsonaro-ja-pode-cumprir-pena/.modal-box--author"
+    },
+    {
+      "title": "Bolsonaro e aliados têm condenações definitivas no STF por trama golpista",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/moraes-declara-transito-em-julgado-para-bolsonaro-ramagem-e-torres-no-processo-da-trama-golpista,5ef8e7fa3a4befc25ebf6d32f333b743x3bqipd4.html"
+    },
+    {
+      "title": "STF declara fim de processo, e Bolsonaro já pode cumprir pena",
+      "url": "https://www.metropoles.com/brasil/moraes-declara-transito-em-julgado-para-bolsonaro-por-trama-golpista"
+    },
+    {
+      "title": "Trânsito em julgado: entenda o conceito jurídico que selou o destino de Bolsonaro e aliados | Jovem Pan",
+      "url": "https://jovempan.com.br/noticias/politica/transito-em-julgado-entenda-o-conceito-juridico-que-selou-o-destino-de-bolsonaro-e-aliados.html"
+    }
+  ],
+  "response": "Let me check the latest information on this for you.A condenação do ex-presidente Jair Bolsonaro pelo STF **transitou em julgado**, conforme decisão da 1ª Turma do Supremo em 25 de novembro de 2025. Isso significa que **não há mais recursos pendentes** e a pena tornou-se definitiva. \n\n### Principais pontos:\n1. **Decisão unânime**: Ministros Flávio Dino, Cristiano Zanin e Cármen Lúcia acompanharam o relator Alexandre de Moraes, negando recursos protelatórios (como segundos embargos declaratórios) e confirmando o fim do processo.\n2. **Recursos esgotados**: \n   - A defesa de Bolsonaro não apresentou novos recursos após a rejeição de embargos declaratórios.\n   - Embargos infringentes foram considerados **incabíveis**, pois a condenação teve 4 votos a favor e apenas 1 divergente (ministro Luiz Fux), não atendendo ao requisito de pelo menos dois votos divergentes.\n3. **Cumprimento da pena**: \n   - Bolsonaro cumpre prisão na Superintendência da PF em Brasília.\n   - A pena é de **27 anos e 3 meses** por liderar organização criminosa na tentativa de golpe de Estado.\n\n### Contexto adicional:\n- Outros réus também tiveram condenações transitadas em julgado, como Alexandre Ramagem e Anderson Torres.\n- O STF destacou que as defesas tentaram recursos protelatórios, mas foram rejeitados por não alterarem o mérito da decisão.\n\n**Resumo**: O processo está encerrado, sem possibilidade de novos recursos, e as penas estão sendo cumpridas.",
+  "response_no_search": "A **condenação do ex-presidente Jair Bolsonaro pelo STF (em 30/06/2023) por abuso de poder político e econômico nas eleições de 2022** **ainda NÃO transitou em julgado**. Existem recursos pendentes de julgamento no próprio STF.  \n\n### Detalhes importantes:\n1. **Recurso Pendente:**  \n   - Após a condenação pelo plenário do STF (8 votos a 3), a defesa interpôs um **recurso ordinário** (art. 102, II, \"a\" da Constituição).  \n   - Esse recurso foi **negado pelo ministro relator, Alexandre de Moraes**",
+  "error": null
+}

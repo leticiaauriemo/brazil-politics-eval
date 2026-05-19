@@ -1,0 +1,56 @@
+{
+  "question_id": "F-24-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "prompt": "Lula foi eleito presidente em quais anos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Eleição presidencial no Brasil em 2002",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2002"
+    },
+    {
+      "title": "Dados ex-Presidente — Secretaria-Geral",
+      "url": "https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/luiz-inacio-lula-da-silva"
+    },
+    {
+      "title": "Histórico eleitoral de Luiz Inácio Lula da Silva",
+      "url": "https://pt.wikipedia.org/wiki/Hist%C3%B3rico_eleitoral_de_Luiz_In%C3%A1cio_Lula_da_Silva"
+    },
+    {
+      "title": "Folha de S.Paulo - ELEIÇÕES 2002 - PRESIDENTELula é presidente: Petista é primeiro governante de esquerda eleito do país",
+      "url": "https://www1.folha.uol.com.br/fsp/brasil/fc2810200209.htm"
+    },
+    {
+      "title": "UOL Eleições 2006",
+      "url": "http://eleicoes.uol.com.br/2006/especial/lula/biografia.jhtm"
+    },
+    {
+      "title": "Lula é eleito novamente presidente da República do Brasil",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/lula-e-eleito-novamente-presidente-da-republica-do-brasil"
+    },
+    {
+      "title": "Lula é eleito presidente do Brasil pela 3ª vez; veja propostas e desafios | Eleições 2022 | Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/30/lula-e-eleito-presidente-do-brasil.ghtml"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva é eleito presidente da República | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/luiz-inacio-lula-da-silva-e-eleito-presidente-da-republica/"
+    },
+    {
+      "title": "Lula é eleito presidente do Brasil; veja porcentagem dos votos | DCI",
+      "url": "https://www.dci.com.br/politica/eleicoes-2022/lula-e-eleito-presidente/273077/"
+    },
+    {
+      "title": "Lula é eleito presidente do Brasil pela terceira vez",
+      "url": "https://www.bloomberglinea.com.br/2022/10/30/lula-e-eleito-presidente-do-brasil-pela-terceira-vez/"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil nos anos de 2002, 2006 e 2022.",
+  "response_no_search": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil em três ocasiões:\n\n*   **2002:** Para seu primeiro mandato (2003-2006",
+  "error": null
+}

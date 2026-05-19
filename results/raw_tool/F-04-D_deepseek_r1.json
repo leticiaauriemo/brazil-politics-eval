@@ -1,0 +1,56 @@
+{
+  "question_id": "F-04-D",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro ends government with 60% increase in Amazon deforestation - Observatório do Clima",
+      "url": "https://oc.eco.br/en/bolsonaro-ends-government-with-60-increase-in-amazon-deforestation/"
+    },
+    {
+      "title": "Brazilian Amazon deforestation falls, but up 60% under Bolsonaro",
+      "url": "https://www.france24.com/en/live-news/20221130-brazilian-amazon-deforestation-falls-but-up-60-under-bolsonaro"
+    },
+    {
+      "title": "Four years of Bolsonaro's Amazon destruction, in satellite imagery",
+      "url": "https://infoamazonia.org/en/2022/10/28/four-years-of-bolsonaros-amazon-destruction-in-pictures"
+    },
+    {
+      "title": "How has the rainforest fared under Bolsonaro?",
+      "url": "https://www.dw.com/en/how-has-the-amazon-rainforest-changed-under-jair-bolsonaro/a-63211783"
+    },
+    {
+      "title": "Deforestation and forest degradation in the Amazon  -  Status and trends up to year 2020",
+      "url": "https://knowledge4policy.ec.europa.eu/publication/deforestation-forest-degradation-amazon-status-trends-year-2020_en"
+    },
+    {
+      "title": "Amazon rainforest: Deforestation rate halved in 2023",
+      "url": "https://www.bbc.com/news/world-latin-america-67962297"
+    },
+    {
+      "title": "In 2025, deforestation fell by 11.08 percent in the Amazon and by 11.49 percent in the Cerrado — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/en/latest-news/2025/10/in-2025-deforestation-fell-by-11-08-percent-in-the-amazon-and-by-11-49-percent-in-the-cerrado"
+    },
+    {
+      "title": "Deforestation falls 11% in Amazon and Cerrado | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/en/meio-ambiente/noticia/2025-10/deforestation-falls-11-amazon-and-cerrado"
+    },
+    {
+      "title": "Deforestation in the Brazilian Amazon has fallen again in 2025",
+      "url": "https://www.sustainabilitybynumbers.com/p/amazon-deforestation-2025"
+    },
+    {
+      "title": "Deforestation in the Amazon has halved in the last few years",
+      "url": "https://hannahritchie.substack.com/p/amazon-2024"
+    }
+  ],
+  "response": "I'll search for the average annual deforestation rates in the Amazon during the specified government periods to make an accurate comparison.\n\n\nBased on the search results, the average annual deforestation was significantly higher during the Bolsonaro government (2019-2022) compared to Lula's third term (2023-2025):\n\n### Bolsonaro Government (2019-2022)\n- Average annual deforestation: **11,396 km²**  \n- This represents a **59.5% increase** from the previous four years (2015-2018)  \n- Deforestation peaked at 13,038 km² in 2021 (15-year high)  \n- Key drivers: Deregulation, dismantled environmental governance, reduced enforcement  \n\n### Lula Government (2023-2025)\n- **2023**: 5,153 km² (50% reduction from 2022)  \n- **2024**: ~6,516 km² (calculated from 2025 data showing an 11.08% decrease from 2024)  \n- **2025**: 5,796 km²  \n- **Average annual deforestation (2023-2025)**: **~5,822 km²**  \n- **Total reduction**: Deforestation rates **halved** compared to 2022  \n\n### Summary\n- **Bolsonaro average (2019-2022)**: 11,396 km²/year  \n- **Lula average (2023-2025)**: ~5,822 km²/year  \n- **Difference**: Deforestation under Bolsonaro was **nearly double** the rate under Lula's current term.  \n\nLula's administration reversed the trend through restored environmental policies, increased enforcement, and recommitment to deforestation prevention programs.",
+  "response_no_search": "Com base nos dados oficiais do **PRODES/INPE** (Programa de Monitoramento da Floresta Amazônica Brasileira por Satélite), a comparação entre os períodos é a seguinte:\n\n1. **Governo Bolsonaro (2019–2022)**:  \n   - Média anual de desmatamento: **11.396 km²/ano**  \n   - Dados por ano (agosto a julho):  \n     - 2019: 10.851 km²  \n     - 2020: 13.038 km²  \n     - 2021: 13.038 km²  \n     - 2022: 11.568 km²  \n\n2. **Terceiro Governo Lula (2023–2025)**:  \n   - **2023 (agosto/2022 a julho/2023)**: 9.001 k",
+  "error": null
+}

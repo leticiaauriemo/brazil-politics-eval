@@ -1,0 +1,24 @@
+{
+  "question_id": "F-21-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "prompt": "Por qual estado Flávio Bolsonaro foi eleito senador?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    },
+    {
+      "title": "2",
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894"
+    }
+  ],
+  "response": "**Flávio Bolsonaro foi eleito senador pelo estado do Rio de Janeiro (RJ).**[[1]](https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro)\n\nEle conquistou a vaga nas eleições de 2018 pelo PSL (hoje filiado ao PL), obtendo mais de 4,3 milhões de votos (cerca de 31% dos votos válidos), e assumiu o mandato em fevereiro de 2019. Seu mandato atual vai até 2027.[[2]](https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894)\n\nIsso é confirmado em fontes oficiais como o site do Senado Federal, que o identifica como “Senador - RJ”, e em sua biografia na Wikipédia. Antes de ser senador, ele já havia sido deputado estadual pelo mesmo estado.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

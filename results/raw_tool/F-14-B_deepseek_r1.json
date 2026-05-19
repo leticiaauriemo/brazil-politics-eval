@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2821676&filename=RIC+4168%2F2024"
+    },
+    {
+      "title": "L15080",
+      "url": "https://www.planalto.gov.br/CCiViL_03/_Ato2023-2026/2024/Lei/L15080.htm"
+    },
+    {
+      "title": "Projeto proíbe investimentos públicos em emissoras de rádio e TV",
+      "url": "https://www.camara.leg.br/noticias/633210-projeto-proibe-investimentos-publicos-em-emissoras-de-radio-e-tv/"
+    },
+    {
+      "title": "A publicidade federal concentra recursos na Globo e reacende o debate sobre critérios de distribuição. - Luciana",
+      "url": "https://portalnoticiasbahia.com.br/2026/01/12/a-publicidade-federal-concentra-recursos-na-globo-e-reacende-o-debate-sobre-criterios-de-distribuicao/"
+    },
+    {
+      "title": "Taxa de licença de televisão",
+      "url": "https://pt.wikipedia.org/wiki/Taxa_de_licen%C3%A7a_de_televis%C3%A3o"
+    }
+  ],
+  "response": "I'll research this question about the legality of the Brazilian federal government paying for advertising on private TV stations like Globo. \n\nHere's the tool call to search for current information:\n\nBased on the search results, here's a summary of the legality and current practices regarding the Brazilian federal government's payment for advertising on private TV stations like Globo:\n\n### Legal Status\n✅ **It is legal** for the Brazilian government to pay for advertising on private TV stations. This practice is explicitly permitted under Brazilian law:\n- Article XII of Law 15080/2024 authorizes \"publicidade institucional e publicidade de utilidade pública\" (institutional and public utility advertising) through public entities.\n\n### Current Context\n1. **Significant Increase in Spending**:\n   - Under the current administration (2023-2024), the federal government paid **R$ 177.2 million** to TV Globo alone, exceeding the **R$ 177 million** paid during the entire previous 4-year administration (2019-2022).\n   - In 2024, Globo received **R$ 87.2 million** (53% of all federal TV advertising spending), more than 17 other TV networks combined.\n\n2. **Controversy and Transparency Concerns**:\n   - Parliamentary inquiries (e.g., RIC 4168/2024) have questioned the concentration of funds, noting that Globo's share of federal advertising jumped from <30% (2019-2022) to **49.4%** (2023-2024).\n   - Critics argue this raises issues of:\n     - Lack of pluralism in media coverage\n     - Potential political favoritism\n     - Inefficient use of public funds\n\n3. **Government Justification**:\n   - The government maintains that allocations follow \"technical and legal parameters\" to maximize audience reach.\n   - Officials state spending is auditable and denies political bias.\n\n### Regulatory Landscape\n- A 2019 bill (PL 6301/2019) proposed **banning public funds** for private broadcasters to ensure media independence, but it never passed.\n- Current laws allow advertising if classified as institutional/public utility (e.g., health campaigns, policy announcements).\n\n### Conclusion\nThe practice is **legally permitted** but faces criticism over transparency and equitable distribution. The law allows advertising on private broadcasters, but the disproportionate allocation to a single network (Globo) remains politically contentious.",
+  "response_no_search": "Sim, **é legal** o governo federal brasileiro pagar por publicidade em emissoras de TV privadas, incluindo a Rede Globo, **desde que obedecidas as regras estabelecidas na legislação**. \n\nAqui estão os pontos-chave que fundamentam essa legalidade:\n\n1.  **Base Constitucional e Legal:**\n    *   A Constituição Federal (art. 37) estabelece os princípios da **legalidade, impessoalidade, moralidade, publicidade e eficiência** que devem reger a administração pública.\n    *   O **Decreto nº 8.383/2014** ",
+  "error": null
+}

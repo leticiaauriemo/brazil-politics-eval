@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "prompt": "Quantas vezes Lula foi eleito presidente do Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula é o 1º a ganhar 3 vezes eleição para presidente do Brasil",
+      "url": "https://www.portaldoholanda.com.br/politica/lula-e-o-1-ganhar-3-vezes-eleicao-para-presidente-do-brasil"
+    },
+    {
+      "title": "Veja o perfil de Lula, o presidente reeleito do Brasil - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/91015-veja-o-perfil-de-lula-o-presidente-reeleito-do-brasil"
+    },
+    {
+      "title": "Lula e Getúlio Vargas: semelhanças e diferenças entre os dois únicos presidentes que foram e voltaram ao poder na história do Brasil - BBC News Brasil",
+      "url": "http://www.bbc.com/portuguese/brasil-63087984"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva - ÉPOCA | Tudo sobre",
+      "url": "https://epoca.globo.com/tudo-sobre/noticia/2017/02/luiz-inacio-lula-da-silva.html"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva: vida, carreira, governos - Brasil Escola",
+      "url": "https://m.brasilescola.uol.com.br/biografia/luiz-inacio-lula-da-silva.htm"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil **três vezes**: em **2002**, **2006** (reeleito) e **2022** (terceiro mandato). Ele é o primeiro presidente da história do país a ser eleito três vezes pelo voto popular. \n\nFontes:  \n- [Portal do Holanda](https://www.portaldoholanda.com.br/politica/lula-e-o-1-ganhar-3-vezes-eleicao-para-presidente-do-brasil)  \n- [BBC News Brasil](http://www.bbc.com/portuguese/brasil-63087984)  \n- [Brasil Escola](https://m.brasilescola.uol.com.br/biografia/luiz-inacio-lula-da-silva.htm)",
+  "response_no_search": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil **três vezes**:\n\n1. **2002** (mandato de 2003 a 2006)  \n2. **2006** (reeleito para o mandato de 2007 a 2010)  \n3. **2022** (eleito novamente para o mandato de 2023 a 2026)  \n\nEle também concorreu em outras eleições (1989, 1994, 1998 e 2018), mas não foi eleito nessas ocasiões. Em 2018, foi impedido de disputar devido a uma condenação judicial (anulada posteriormente). Atualmente, cumpre seu terceiro mandato.",
+  "error": null
+}

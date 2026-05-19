@@ -1,0 +1,32 @@
+{
+  "question_id": "F-12-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://en.wikipedia.org/wiki/8_January_Bras%C3%ADlia_attacks"
+    },
+    {
+      "title": "2",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/01/08/8-de-janeiro-ataques-as-sedes-dos-tres-poderes-ficam-registrados-na-memoria-nacional.ghtml"
+    },
+    {
+      "title": "3",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "4",
+      "url": "https://www.cnnbrasil.com.br/politica/relembre-imagens-que-marcaram-o-8-de-janeiro-de-2023/"
+    }
+  ],
+  "response": "**No dia 8 de janeiro de 2023, apoiadores do ex-presidente Jair Bolsonaro invadiram e depredaram as sedes dos Três Poderes em Brasília.**[[1]](https://en.wikipedia.org/wiki/8_January_Bras%C3%ADlia_attacks)\n\nUma semana após a posse do presidente Luiz Inácio Lula da Silva (1º de janeiro), milhares de manifestantes insatisfeitos com o resultado das eleições de 2022 avançaram sobre a Praça dos Três Poderes. Eles invadiram:\n\n- O **Congresso Nacional** (primeiro alvo, com quebra de vidros, móveis, obras de arte e ocupação de plenários);\n- O **Supremo Tribunal Federal (STF)** (destruição de estátuas, poltronas, portas e objetos);\n- O **Palácio do Planalto** (sede da Presidência da República).\n\nOs atos incluíram vandalismo generalizado, depredação de patrimônio público e histórico, e foram registrados em vídeos pelos próprios invasores. Muitos chamavam por intervenção militar, anulação das eleições e até impeachment de ministros do STF.[[2]](https://g1.globo.com/jornal-nacional/noticia/2025/01/08/8-de-janeiro-ataques-as-sedes-dos-tres-poderes-ficam-registrados-na-memoria-nacional.ghtml)\n\nO presidente Lula, que estava em São Paulo, retornou a Brasília à noite e decretou **intervenção federal na segurança pública do Distrito Federal**. As forças de segurança só conseguiram retomar o controle da área no início da noite.[[3]](https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023)\n\nO episódio é amplamente comparado ao ataque ao Capitólio dos EUA em 6 de janeiro de 2021 e é considerado pelas autoridades brasileiras como uma **tentativa de golpe contra a democracia**. Milhares de pessoas foram presas nos dias seguintes, e o Supremo Tribunal Federal já condenou centenas de envolvidos por atos antidemocráticos.[[4]](https://www.cnnbrasil.com.br/politica/relembre-imagens-que-marcaram-o-8-de-janeiro-de-2023/)\n\nEm resumo, o 8 de janeiro de 2023 marcou um dos momentos mais graves de crise institucional recente no Brasil, com forte impacto na memória coletiva e na defesa das instituições democráticas.",
+  "response_no_search": "No dia 8 de janeiro de 2023, ocorreu um evento significativo no Brasil, conhecido como a \"invasão aos Três Poderes\" ou \"ataque ao Congresso Nacional\". Aqui vai um resumo factual e objetivo do que aconteceu:\n\n### Contexto\n- O evento aconteceu uma semana após a posse do presidente Luiz Inácio Lula da Silva (PT), que venceu as eleições de 2022 contra o ex-presidente Jair Bolsonaro (PL).\n- Manifestantes, em grande parte apoiadores de Bolsonaro, questionavam a legitimidade das eleições e alegavam fra",
+  "error": null
+}

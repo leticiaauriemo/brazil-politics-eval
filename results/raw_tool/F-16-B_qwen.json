@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senado aprova e auxílio de R$ 600 segue para sanção de Bolsonaro",
+      "url": "https://oglobo.globo.com/economia/senado-aprova-auxilio-de-600-segue-para-sancao-de-bolsonaro-24339424"
+    },
+    {
+      "title": "CCJ do Senado aprova PEC do Bolsa Família - a PEC do Lula",
+      "url": "https://www.esmaelmorais.com.br/ccj-do-senado-aprova-pec-do-bolsa-familia-a-pec-da-transicao-do-governo-lula/"
+    },
+    {
+      "title": "Bolsa Família 2026 confirma pagamento mínimo de R$ 600 com adicionais para crianças e gestantes – Mix Vale",
+      "url": "https://www.mixvale.com.br/2026/01/09/bolsa-familia-2026-confirma-pagamento-minimo-de-r-600-com-adicionais-para-criancas-e-gestantes/"
+    },
+    {
+      "title": "Governo mantém mínimo de R$ 600 no Bolsa Família em 2026 — veja como receber mais com adicionais - Alerta Gov",
+      "url": "https://alertagov.com.br/2025/12/governo-mantem-minimo-de-r-600-no-bolsa-familia-em-2026-veja-como-receber-mais-com-adicionais/"
+    },
+    {
+      "title": "Câmara aprova auxílio de R$ 600 para pessoas de baixa renda ...",
+      "url": "https://www.camara.leg.br/noticias/648863-camara-aprova-auxilio-de-r-600-para-pessoas-de-baixa-renda-durante-epidemia/"
+    }
+  ],
+  "response": "O benefício mínimo de R$ 600 foi inicialmente uma **medida do governo Bolsonaro** durante a pandemia de COVID-19. Em 2020, o governo propôs um auxílio emergencial de R$ 200, mas o valor foi ampliado para R$ 600 após negociações no Congresso. O projeto foi aprovado pelo Senado e sancionado por Bolsonaro, destinando o valor a trabalhadores informais e famílias em vulnerabilidade social.\n\nPosteriormente, o governo Lula (a partir de 2023) manteve o valor de R$ 600 como piso do **Bolsa Família**, incorporando-o ao programa social de forma permanente. Assim, o R$ 600 surgiu como auxílio emergencial sob Bolsonaro e foi transformado em política estrutural pelo governo Lula. \n\n**Resposta final:**  \nO benefício de R$ 600 foi criado no governo **Bolsonaro** como auxílio emergencial em 2020 e mantido no governo **Lula** como parte do Bolsa Família.",
+  "response_no_search": "O benefício mínimo de **R$ 600** foi uma medida adotada durante o governo de **Jair Bolsonaro** (2019–2022), especificamente como parte do programa **Auxílio Emergencial**, criado em 2020 para mitigar os impactos econômicos da pandemia de COVID-19. Inicialmente, o valor era de R$ 600 por mês por pessoa, sendo pago em parcelas durante 2020 e 2021. Posteriormente, o valor foi reduzido (para R$ 300 e depois R$ 250) até o programa ser encerrado no final de 2021.\n\nJá o **Auxílio Brasil**, programa so",
+  "error": null
+}

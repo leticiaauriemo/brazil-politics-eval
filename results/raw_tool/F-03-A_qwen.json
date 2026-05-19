@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro pode ser candidato em 2026? Entenda situação jurídica | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml"
+    },
+    {
+      "title": "Bolsonaro pode se candidatar em 2026 contra Lula? - DCI",
+      "url": "https://www.dci.com.br/politica/bolsonaro-pode-se-candidatar-em-2026-contra-lula/323334/"
+    },
+    {
+      "title": "Reforma da ficha limpa pode tornar Bolsonaro elegível",
+      "url": "https://www.gazetadopovo.com.br/republica/bolsonaro-elegivel-em-2026-domina-o-debate-da-reforma-da-ficha-limpa/"
+    },
+    {
+      "title": "Bolsonaro diz que vai manter candidatura para 2026 'até o último segundo' | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/14/bolsonaro-diz-que-vai-manter-candidatura-para-2026-ate-o-ultimo-segundo.ghtml"
+    },
+    {
+      "title": "\"Vou até o último segundo\", diz Bolsonaro sobre candidatura em 2026 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/vou-ate-o-ultimo-segundo-diz-bolsonaro-sobre-candidatura-em-2026/"
+    }
+  ],
+  "response": "De acordo com as informações disponíveis, **Jair Bolsonaro não pode se candidatar à presidência nas eleições de 2026** devido a sua **situação de inelegibilidade** confirmada pelo Tribunal Superior Eleitoral (TSE). Ele foi condenado por **abuso de poder político e uso indevido dos meios de comunicação** durante a campanha de 2022, o que o tornou inelegível por **oito anos**, até **2030**. \n\nAlém disso, Bolsonaro enfrenta uma **condenação criminal no Supremo Tribunal Federal (STF)** por envolvimento nos atos golpistas de 8 de janeiro de 2023, resultando em uma pena de 27 anos e três meses de prisão em regime fechado. Essa condenação amplia o período de inelegibilidade, potencialmente até 2062, caso seja mantida.\n\n### Estratégias para reverter a inelegibilidade:\nBolsonaro e seus aliados articulam esforços para tentar viabilizar sua candidatura, como:\n1. **Mudança na Lei da Ficha Limpa**: Um projeto de lei propõe reduzir de oito para dois anos o período de inelegibilidade para casos de abuso de poder. Se aprovado, poderia beneficiá-lo retroativamente.\n2. **Anistia aos envolvidos nos atos de 8 de janeiro**: Uma proposta de anistia aos condenados pelos atos golpistas também é cogitada, mas enfrenta resistência jurídica e política.\n\nNo entanto, ministros do STF já sinalizaram que consideram **inconstitucional** a alteração da Ficha Limpa para beneficiar condenados, e a anistia enfrentaria barreiras semelhantes. Além disso, mesmo que houvesse mudanças legais, a reversão da inelegibilidade exigiria um novo processo no TSE.\n\n### Atual posicionamento de Bolsonaro:\nApesar da inelegibilidade, Bolsonaro se autodeclara **pré-candidato** e afirma que seguirá com a estratégia até o \"último segundo\" de 2026, na tentativa de pressionar políticos e influenciar a disputa. Ele busca apoio de governadores da direita para questionar sua inelegibilidade e manter sua relevância política.\n\n**Conclusão**: Sob a legislação atual e as condenações vigentes, **Bolsonaro não pode ser candidato em 2026**. Sua participação depende de mudanças legais ou reversões jurídicas que, até o momento, enfrentam obstáculos significativos.",
+  "response_no_search": "Sim, Jair Bolsonaro **pode se candidatar à presidência nas eleições de 2026**, desde que cumpra os requisitos legais e não esteja inelegível por fatores como condenações judiciais ou outras restrições.\n\n### Explicação detalhada:\n1. **Limites de mandatos presidenciais no Brasil**:  \n   A Constituição Federal de 1988 (Artigo 88) permite que o presidente da República seja reeleito **uma única vez consecutivamente**. Assim, um político pode ocupar o cargo por **dois mandatos seguidos** e, após um in",
+  "error": null
+}

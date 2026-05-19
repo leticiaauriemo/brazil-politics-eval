@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "prompt": "Quantas vezes Lula foi eleito presidente do Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Primeiro mandato de Lula (2003 a 2006) - Brasil Escola",
+      "url": "https://brasilescola.uol.com.br/historiab/governo-luis-inacio-lula-da-silva.htm"
+    },
+    {
+      "title": "Lula é o 1º a ganhar 3 vezes eleição para presidente do Brasil",
+      "url": "https://www.portaldoholanda.com.br/politica/lula-e-o-1-ganhar-3-vezes-eleicao-para-presidente-do-brasil"
+    },
+    {
+      "title": "Veja o perfil de Lula, o presidente reeleito do Brasil - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/91015-veja-o-perfil-de-lula-o-presidente-reeleito-do-brasil"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva: vida, carreira, governos - Brasil Escola",
+      "url": "https://m.brasilescola.uol.com.br/biografia/luiz-inacio-lula-da-silva.htm"
+    },
+    {
+      "title": "Lula é eleito presidente da República pela terceira vez",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/10/30/lula-e-eleito-presidente-da-republica-pela-terceira-vez"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil três vezes. Suas vitórias nas eleições presidenciais ocorreram nos anos de 2002, 2006 e 2022.",
+  "response_no_search": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil **três vezes**.\n\nAs eleições foram nos seguintes anos:\n\n1.  **2002**: Para o seu primeiro mandato (2003-2006).\n2.  **2006**: Reeleito para o seu segundo mandato consecutivo (2007-2010).\n3.  **2022**: Para o seu terceiro mandato (iniciado em 2023).",
+  "error": null
+}

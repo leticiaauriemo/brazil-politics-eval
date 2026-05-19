@@ -1,0 +1,15 @@
+{
+  "question_id": "F-07-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024, mas de forma temporária.**\n\n### Cronologia do Bloqueio\n- **30 de agosto de 2024**: O ministro Alexandre de Moraes, do STF, ordenou a suspensão imediata do X no Brasil por descumprimento de ordens judiciais (falta de representante legal e não pagamento de multas). Ele deu 24 horas para a Anatel notificar operadoras e provedores para bloquear o acesso, com multa de R$ 50 mil para quem usasse VPNs ou subterfúgios ([1], [2], [5])",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

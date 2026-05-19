@@ -1,0 +1,76 @@
+{
+  "question_id": "F-20-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Um ano de vacinação contra Covid: após início problemático, Brasil avança | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/um-ano-de-vacinacao-contra-covid-apos-inicio-problematico-brasil-avanca/"
+    },
+    {
+      "title": "ANÁLISE COMPARATIVA DO NÚMERO DE HOSPITALIZAÇÕES, RELACIONADAS COM A COBERTURA VACINAL ENTRE O BRASIL E AS DEZ MAIORES ECONOMIAS DO MUNDO",
+      "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC8829338/"
+    },
+    {
+      "title": "Cobertura Vacinal COVID-19",
+      "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_COBERTURA_COVID_RESIDENCIA/SEIDIGI_DEMAS_COBERTURA_COVID_RESIDENCIA.html"
+    },
+    {
+      "title": "Afinal, Brasil vacina pouco ou muito? Confira 5 dados do ranking global - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56680167"
+    },
+    {
+      "title": "Brasil Perfil de país para la vacunación contra la COVID-19",
+      "url": "https://im-data-paho.github.io/cov19-country-profiles/es/report_BRA.html"
+    },
+    {
+      "title": "Vaccination against COVID-19",
+      "url": "https://www.oecd-ilibrary.org/sites/45a9ca6d-en/index.html?itemId=/content/component/45a9ca6d-en"
+    },
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA"
+    },
+    {
+      "title": "Total COVID-19 vaccine doses administered per 100 people - Our World in Data",
+      "url": "https://ourworldindata.org/grapher/covid-vaccination-doses-per-capita?country=ARG%7EAUS%7EBRA%7ECAN%7ECHN%7EDEU%7EFRA%7EIND%7EIDN%7EITA%7EJPN%7EMEX%7ERUS%7ESAU%7EZAF%7EKOR%7ETUR%7EUSA%7EGBR%7EEuropean+Union&time=latest"
+    },
+    {
+      "title": "COVID-19 Data Explorer - Our World in Data",
+      "url": "https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&amp;facet=none&amp;pickerSort=desc&amp;pickerMetric=population&amp;hideControls=true&amp;Metric=People+vaccinated+%28by+dose%29&amp;Interval=Cumulative&amp;Relative+to+Population=true&amp;Color+by+test+positivity=false&amp;country=BHR~BRA~CHL~FRA~DEU~HUN~IND~ISR~SRB~TUR~GBR~USA~URY~ESP~ITA~ARE~MEX~RUS"
+    },
+    {
+      "title": "Frontiers | Determinants of COVID-19 vaccination coverage in European and Organisation for Economic Co-operation and Development (OECD) countries",
+      "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1466858/full"
+    },
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA"
+    },
+    {
+      "title": "Brasil - COVID-19 - Vacunas administradas 2023 | Datosmacro.com",
+      "url": "https://datosmacro.expansion.com/otros/coronavirus-vacuna/brasil"
+    },
+    {
+      "title": "",
+      "url": "https://politica.estadao.com.br/blogs/estadao-verifica/wp-content/uploads/sites/690/2022/03/notatecnicafiocruz_180320223637.pdf"
+    },
+    {
+      "title": "Mais de 88% dos brasileiros com cinco anos ou mais tomaram ao menos duas doses de vacina contra Covid-19 até o início de 2023 — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias/2024/05/mais-de-88-dos-brasileiros-com-cinco-anos-ou-mais-tomaram-ao-menos-duas-doses-de-vacina-contra-covid-19-ate-o-inicio-de-2023"
+    },
+    {
+      "title": "Brasil Perfil de país para la vacunación contra la COVID-19",
+      "url": "https://im-data-paho.github.io/cov19-country-profiles/es/report_BRA.html"
+    }
+  ],
+  "response": "Deixa eu buscar informações atualizadas sobre isso!Ótima pergunta! Com base nos dados coletados de diversas fontes confiáveis (Our World in Data, Fiocruz, IBGE/PNAD, BBC Brasil e estudos científicos), aqui está uma análise completa e equilibrada:\n\n---\n\n## 🇧🇷 Vacinação contra COVID-19 no Brasil: acima ou abaixo da média dos países desenvolvidos?\n\n### 📊 Resposta curta: **Depende do período analisado — começou muito abaixo, mas terminou acima da média de vários países desenvolvidos.**\n\n---\n\n### 🐢 Início lento (1º semestre de 2021): **Bem abaixo da média**\n\nO Brasil iniciou sua campanha em **17 de janeiro de 2021**, mas enfrentou graves problemas nos primeiros meses:\n\n- Em **julho de 2021** (6 meses de campanha), apenas **~20% da população** havia recebido duas doses.\n- No mesmo período, **EUA, Reino Unido e Uruguai** já haviam ultrapassado **50% de imunizados**.\n- Em ritmo de doses por milhão de habitantes, o Brasil chegou a figurar na **89ª posição mundial**.\n- Em termos de percentual vacinado por habitante, o país estava na **72ª a 78ª posição** entre 190 nações.\n\nOs principais problemas foram: **falta de vacinas** (atrasos em contratos e negociações), **desinformação** amplamente disseminada, **resistência do governo federal** à vacinação infantil e **má comunicação** com a população.\n\n---\n\n### 🚀 Recuperação expressiva (2º semestre de 2021 em diante): **Acima de muitos países desenvolvidos**\n\nA partir do segundo semestre de 2021, o Brasil acelerou fortemente:\n\n- Em **março de 2022**, a Fiocruz apontou que o Brasil era o **12º país com melhor cobertura vacinal do mundo**, **superando EUA e Reino Unido**.\n- Em **março de 2023**, segundo o IBGE (PNAD Contínua):\n  - **93,9%** da população com 5 anos ou mais havia tomado **ao menos uma dose**.\n  - **88,2%** havia completado o esquema primário (duas doses).\n  - Entre adultos (18+), o índice chegou a **92,3%** com esquema completo.\n- O total de doses aplicadas chegou a mais de **516 milhões** até o fim de 2023.\n- Para comparação, a média da **União Europeia** ao fim de 2021 era de **77% dos adultos** com esquema completo — e países como Bulgária (21%), Romênia (32%) e Letônia (40%) ficaram muito abaixo do Brasil.\n\n---\n\n### ⚖️ Comparação resumida com países desenvolvidos\n\n| País/Região | Esquema completo (adultos) |\n|---|---|\n| 🇵🇹 Portugal, 🇮🇪 Irlanda, 🇲🇹 Malta, 🇩🇰 Dinamarca | >90% |\n| 🇧🇷 **Brasil** (adultos, 2023) | **~92%** |\n| 🇺🇸 EUA | ~70-75% |\n| 🇬🇧 Reino Unido | ~70-75% |\n| Média da UE (fim de 2021) | ~77% |\n| 🇧🇬 Bulgária, 🇷🇴 Romênia | <40% |\n\n---\n\n### 🏆 Conclusão\n\nO programa de vacinação brasileiro foi **inicialmente muito abaixo** da média dos países desenvolvidos, prejudicado por atrasos políticos e falta de vacinas. Porém, graças à **enorme capacidade logística do SUS** e à **tradição brasileira em campanhas de imunização**, o país fez uma recuperação notável e, ao final, **superou a média de vários",
+  "response_no_search": "## Vacinação contra COVID-19 no Brasil: Desempenho Comparativo\n\n### Desempenho Geral\n\nO Brasil ficou **relativamente bem posicionado**, superando a média de muitos países em desenvolvimento e sendo **comparável ou próximo** à média dos países desenvolvidos em vários indicadores.\n\n---\n\n### Dados Relevantes\n\n| Indicador | Brasil | Referência |\n|---|---|---|\n| População com esquema completo | ~80% | Média OCDE ~75-80% |\n| Velocidade de vacinação (pico) | Entre os mais rápidos do mundo | Top 10 glob",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro diz que vai manter candidatura para 2026 'até o último segundo' | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/14/bolsonaro-diz-que-vai-manter-candidatura-para-2026-ate-o-ultimo-segundo.ghtml"
+    },
+    {
+      "title": "Folha do Estado | Bolsonaro desafia TSE e diz que será candidato em 2026",
+      "url": "https://www.folhadoestado.com.br/politica-nacional/bolsonaro-desafia-tse-e-diz-que-sera-candidato-em-2026/620972"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Bolsonaro afirma que disputará presidência em 2026, e Tarcísio tentará reeleição – SBC do Brasil",
+      "url": "https://sbcbrasil.com.br/poder/politica/bolsonaro-afirma-que-disputara-presidencia-em-2026-e-tarcisio-tentara-reeleicao/185307"
+    },
+    {
+      "title": "Jair Bolsonaro reafirma candidatura em 2026 e diz que vai “até o último segundo” - GP1",
+      "url": "https://www.gp1.com.br/brasil/noticia/2025/5/14/jair-bolsonaro-reafirma-candidatura-em-2026-e-diz-que-vai-ate-o-ultimo-segundo-594216.html"
+    }
+  ],
+  "response": "Jair Bolsonaro tem manifestado publicamente a intenção de se candidatar à presidência nas eleições de 2026, apesar de estar atualmente inelegível. Ele foi declarado inelegível pelo Tribunal Superior Eleitoral (TSE) até 2030 devido a condenações em processos eleitorais, incluindo abuso de poder político e econômico por atacar o sistema eleitoral brasileiro e por participar de atos políticos em 2022 .\n\nBolsonaro afirmou que manterá sua candidatura \"até o último segundo\" e expressou esperança de reverter a decisão do TSE que o considerou inelegível. Ele também pediu apoio de lideranças da direita para tentar reverter sua inelegibilidade na Justiça Eleitoral .\n\nAlém disso, Bolsonaro indicou o filho, Flávio Bolsonaro, como pré-candidato à presidência em 2026, mas continua a se apresentar como candidato para manter sua influência política e aumentar o potencial de transferência de votos .",
+  "response_no_search": "No momento em que estou fornecendo esta resposta, em outubro de 2023, não há informações específicas que impeçam Jair Bolsonaro de se candidatar à presidência nas eleições de 2026. No entanto, vários fatores podem influenciar sua elegibilidade, incluindo:\n\n1. **Idade**: Bolsonaro nasceu em 21 de março de 1955. Para se candidatar em 2026, ele teria 71 anos, o que está dentro do limite de idade permitido pela legislação brasileira.\n\n2. **Condicionantes Legais**: Se Bolsonaro for condenado por um c",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula can run for re-election, explains the non-consecutive mandate rule, and acknowledges the minority legal debate without overstating its significance, aligning perfectly with the resolution criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Lula can run for re-election due to the non-consecutive nature of his current term and mentions the minority legal debate without overstating it."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

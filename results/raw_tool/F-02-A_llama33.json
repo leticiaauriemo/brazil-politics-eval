@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado"
+    },
+    {
+      "title": "STF condena Bolsonaro a 27 anos e 3 meses de prisão por tentativa de golpe de Estado e o deixa inelegível por décadas",
+      "url": "https://www.bol.uol.com.br/noticias/2025/09/11/stf-condena-bolsonaro-a-27-anos-e-3-meses-de-prisao-por-tentativa-de-golpe-de-estado-e-o-deixa-inelegivel-por-decadas.htm"
+    },
+    {
+      "title": "STF publica acórdão de julgamento que mantém condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "STF mantém condenação de Bolsonaro pela tentativa de golpe de Estado",
+      "url": "https://viva.com.br/noticias/stf-mantem-condenacao-de-bolsonaro-pela-tentativa-de-golpe.html"
+    }
+  ],
+  "response": "Sim, o ex-presidente Jair Bolsonaro foi condenado pelo Supremo Tribunal Federal (STF) por tentativa de golpe de Estado. A condenação foi anunciada em setembro de 2025 e Bolsonaro foi sentenciado a 27 anos e três meses de prisão em regime inicialmente fechado. Além disso, ele foi condenado a pagar uma multa de R$ 30 milhões por danos morais coletivos. A condenação também torna Bolsonaro inelegível por oito anos a partir da publicação da decisão do colegiado.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, não havia uma condenação direta do ex-presidente Jair Bolsonaro pelo Supremo Tribunal Federal (STF) por tentativa de golpe de Estado. No entanto, é importante notar que o cenário político e jurídico no Brasil é dinâmico, e novos desenvolvimentos podem ocorrer após a data do meu último conhecimento.\n\nBolsonaro e seus apoiadores têm sido alvo de várias investigações e processos judiciais relacionados a diversas acusações, incluindo ações que ",
+  "error": null
+}

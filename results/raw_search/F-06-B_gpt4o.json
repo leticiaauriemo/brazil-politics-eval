@@ -1,0 +1,35 @@
+{
+  "question_id": "F-06-B",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2020/07/moraes-bloqueio_240720204911.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2025/02/Mandado-inquerito-fake-news-alvos-26maio-2020.pdf"
+    },
+    {
+      "title": "Por decisão do STF, Twitter e Facebook apagam perfis de bolsonaristas",
+      "url": "https://www.conjur.com.br/2020-jul-24/decisao-alexandre-twitter-apaga-contas-aliados-bolsonaro"
+    },
+    {
+      "title": "Inquérito das Fake News ultrapassa cem perfis bloqueados em quatro anos e vira 'arma política' de governo e oposição",
+      "url": "https://oglobo.globo.com/politica/noticia/2023/04/inquerito-das-fake-news-ultrapassa-cem-perfis-bloqueados-em-quatro-anos-e-vira-arma-politica-de-governo-e-oposicao.ghtml"
+    },
+    {
+      "title": "Inquérito das fake news: Alexandre de Moraes dá 24h para redes bloquearem perfis do PCO | Exame",
+      "url": "https://exame.com/brasil/fake-news-alexandre-de-moraes-da-24h-para-redes-bloquearem-perfis-do-pco/"
+    }
+  ],
+  "response": "Sim, o Inquérito das Fake News (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais. O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou o bloqueio de contas em redes sociais como Twitter, Facebook e Instagram de diversos investigados. Essa medida foi tomada para interromper discursos com conteúdo de ódio, subversão da ordem e incentivo à quebra da normalidade institucional e democrática. Entre os alvos estavam aliados do ex-presidente Jair Bolsonaro, como empresários, blogueiros e políticos [conjur.com.br](https://www.conjur.com.br/2020-jul-24/decisao-alexandre-twitter-apaga-contas-aliados-bolsonaro).\n\nApesar das ordens judiciais, houve dificuldades no cumprimento imediato dessas determinações, com algumas contas permanecendo ativas por um período após a decisão inicial. As plataformas, como o Twitter, alegaram dificuldades técnicas para cumprir ordens genéricas devido à falta de dados civis associados aos perfis [estadao.com.br](https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2020/07/moraes-bloqueio_240720204911.pdf).\n\nO inquérito, que já resultou no bloqueio de mais de cem perfis, tem sido visto como uma \"arma política\" tanto pelo governo quanto pela oposição, com pedidos de inclusão de novos alvos na investigação [oglobo.globo.com](https://oglobo.globo.com/politica/noticia/2023/04/inquerito-das-fake-news-ultrapassa-cem-perfis-bloqueados-em-quatro-anos-e-vira-arma-politica-de-governo-e-oposicao.ghtml).",
+  "response_no_search": "Sim, o Inquérito das Fake News (Inquérito 4781), conduzido pelo Supremo Tribunal Federal (STF) no Brasil, resultou em ordens de bloqueio de contas em plataformas digitais. Esse inquérito foi instaurado para investigar a disseminação de notícias falsas, ameaças e ataques contra o STF e seus membros. Durante o curso das investigações, foram emitidas ordens judiciais para bloquear contas em redes sociais de indivíduos suspeitos de envolvimento na disseminação de desinformação e ataques contra insti",
+  "error": null
+}

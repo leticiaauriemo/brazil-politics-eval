@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2020/07/moraes-bloqueio_240720204911.pdf"
+    },
+    {
+      "title": "[PDF] O objeto do Inq. 4.781/DF é a investigação de notícias fraudulentas ...",
+      "url": "https://static.poder360.com.br/2023/05/Telegram-Moraes-10mai2023.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.cartacapital.com.br/wp-content/uploads/2024/04/Moraes-Musk.pdf"
+    },
+    {
+      "title": "Twitter cumpre nova ordem de Moraes em inquérito das fake news ...",
+      "url": "https://www.jota.info/stf/do-supremo/twitter-cumpre-nova-ordem-de-moraes-em-inquerito-das-fake-news-para-bloquear-perfis"
+    },
+    {
+      "title": "[PDF] inquérito 4.781 distrito federal - Global Freedom of Expression |",
+      "url": "https://globalfreedomofexpression.columbia.edu/wp-content/uploads/2021/06/Brazilian-Supreme-Court-26-May-2020.pdf"
+    }
+  ],
+  "response": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais. A decisão do Supremo Tribunal Federal (STF) determinou o bloqueio de perfis em redes sociais, como Facebook, Twitter e Instagram, dos investigados apontados no inquérito. Além disso, a decisão também determinou a remoção de mensagens fraudulentas e a suspensão temporária das atividades de mensageria privada da empresa Telegram.",
+  "response_no_search": "Sim, o inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais. O inquérito foi aberto pelo Supremo Tribunal Federal (STF) em 2019 para investigar a disseminação de notícias falsas e a manipulação de informações nas redes sociais.\n\nDurante o curso do inquérito, o STF emitiu várias ordens de bloqueio de contas em plataformas digitais, incluindo Twitter, Facebook, Instagram e YouTube, entre outras. Essas ordens foram emitidas com o objetivo de impe",
+  "error": null
+}

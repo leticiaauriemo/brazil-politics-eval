@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "prompt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Eleições 2026: quem são os 6 pré-candidatos à Presidência da República",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/eleicoes-2026-quem-sao-os-6-pre-candidatos-a-presidencia-da-republica,d12970024b607989a9597ccda6a68587w89q3q19.html"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Flávio Bolsonaro enfrenta resistência na direita como candidato ao Planalto 2026",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/direita-tenta-se-organizar-para-disputa-pelo-planalto-em-meio-a-pressao-da-familia-bolsonaro,15e8366246bf1ebee6656f179a59bae9uug4z0b4.html"
+    },
+    {
+      "title": "Veja quem são os 11 pré-candidatos a presidente - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "Eleição 2026: saiba nome da direita que ganha tração para o pleito",
+      "url": "http://www.gazetadopovo.com.br/republica/as-eleicoes-2026-candidato-preparado-direita/"
+    }
+  ],
+  "response": "O candidato mais forte da direita brasileira para as eleições presidenciais de 2026 é **Flávio Bolsonaro** (PL), senador e filho do ex-presidente Jair Bolsonaro. Ele foi oficialmente indicado pelo pai como o representante do bolsonarismo na disputa, consolidando-se como o principal adversário de Luiz Inácio Lula da Silva (PT) nas pesquisas de intenção de voto. \n\nEmbora enfrente resistência de setores do Centrão e da própria direita (que avaliam alternativas como Tarcísio de Freitas, governador de São Paulo), Flávio lidera as simulações para o segundo turno contra Lula, mesmo com uma margem de diferença que ainda favorece o presidente. Outros nomes da direita, como Ronaldo Caiado (PSD) e Romeu Zema (Novo), também estão na disputa, mas têm menor projeção nacional ou apoio partidário comparado a Flávio. \n\nSua candidatura é sustentada pela base eleitoral herdeira do bolsonarismo e por uma estrutura partidária consolidada no PL, partido com maior bancada na Câmara dos Deputados.",
+  "response_no_search": "Para as eleições presidenciais de 2026 no Brasil, ainda é cedo para definir um candidato da direita com ampla consolidação, mas alguns nomes já surgem como possibilidades com base no cenário político atual (até 2023). A direita brasileira é fragmentada, mas alguns personagens destacam-se:\n\n### 1. **Tarcísio de Freitas**  \n   - **Cargo atual**: Governador de São Paulo (desde 2023).  \n   - **Partido**: Republicanos (partido de centro-direita, mas com flexibilidade ideológica).  \n   - **Vantagens**",
+  "error": null
+}

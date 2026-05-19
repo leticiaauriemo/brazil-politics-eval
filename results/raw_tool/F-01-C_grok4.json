@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    },
+    {
+      "title": "2",
+      "url": "https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml"
+    },
+    {
+      "title": "3",
+      "url": "https://www.migalhas.com.br/quentes/343754/stf-derruba-condenacoes-de-lula-na-lava-jato"
+    },
+    {
+      "title": "4",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "5",
+      "url": "https://www.jusbrasil.com.br/artigos/afinal-lula-foi-mesmo-considerado-inocente/2190748855"
+    }
+  ],
+  "response": "**Não, o STF não declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba.** \n\nO Supremo Tribunal Federal (STF) anulou as condenações do ex-presidente Luiz Inácio Lula da Silva nos processos da Operação Lava Jato julgados pela 13ª Vara Federal de Curitiba (casos do tríplex do Guarujá, sítio de Atibaia e ações envolvendo o Instituto Lula), mas por razões **processuais**, e não por análise do mérito (ou seja, não avaliou se os fatos criminosos ocorreram ou não).[[1]](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1)\n\n### Principais razões da anulação\n- **Incompetência territorial/jurisdicional**: Em março de 2021, o ministro Edson Fachin decidiu que a 13ª Vara de Curitiba não era o “juiz natural” dos casos, pois não havia conexão direta e exclusiva com os desvios na Petrobras (foco original da Lava Jato). Os processos foram remetidos à Justiça Federal do Distrito Federal.[[2]](https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml)\n- **Confirmação pelo Plenário**: Em abril de 2021, o STF referendou essa decisão por 8 votos a 3, mantendo a anulação dos atos decisórios (incluindo as condenações).[[3]](https://www.migalhas.com.br/quentes/343754/stf-derruba-condenacoes-de-lula-na-lava-jato)\n- **Suspeição de Moro**: Posteriormente, a 2ª Turma do STF também reconheceu a parcialidade do então juiz Sergio Moro em alguns aspectos, reforçando a nulidade dos processos.[[4]](https://www.bbc.com/portuguese/brasil-62612955)\n\n### O que isso significa na prática?\n- As condenações foram **anuladas** (e não “absolvidas”), o que restaurou os direitos políticos de Lula na época.\n- Alguns processos foram arquivados posteriormente por falta de provas em outras varas, mas isso não equivale a uma declaração formal de inocência pelo STF.\n- O STF **não julgou** se Lula cometeu ou não os crimes de corrupção passiva e lavagem de dinheiro — limitou-se a corrigir vícios processuais.[[5]](https://www.jusbrasil.com.br/artigos/afinal-lula-foi-mesmo-considerado-inocente/2190748855)\n\nEm resumo, trata-se de uma anulação por questões de competência e garantias processuais, e não de uma absolvição de mérito que atestasse a inocência de Lula.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

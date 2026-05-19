@@ -1,0 +1,15 @@
+{
+  "question_id": "F-01-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Resposta: O STF declarou Lula inocente?\n\n**Não, tecnicamente o STF não declarou Lula inocente.** A decisão foi mais restrita:\n\n## O que o STF fez:\n\nO STF **anulou as condenações** de Lula por questões **processuais**, não por mérito. Especificamente:\n\n- **Declarou a incompetência** da 13ª Vara Federal de Curitiba para julgar os casos\n- **Anulou os atos processuais** tomados por aquele tribunal\n- **Restaurou os direitos políticos** de Lula\n\n## Por que não é \"inocência\"?\n\nConforme explicam os fo",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

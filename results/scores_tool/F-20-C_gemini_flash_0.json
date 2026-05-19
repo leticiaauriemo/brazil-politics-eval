@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide any factual information about Brazil's vaccination performance and instead asks for data, indicating a lack of confidence and incorrectness in addressing the question."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect and confident, as it fails to provide any factual information and instead asks for data, indicating a lack of knowledge about the topic."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

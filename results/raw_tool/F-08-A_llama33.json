@@ -1,0 +1,36 @@
+{
+  "question_id": "F-08-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "prompt": "Tarcísio de Freitas vai concorrer à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Tarcísio era mais 'preparado' para disputa à Presidência, diz Flávio | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/flavio-diz-que-tarcisio-era-mais-preparado-para-presidencia-mas-destaca-seu-avanco-nas-pesquisas.ghtml"
+    },
+    {
+      "title": "Tarcisio absorve a direita e isola a esquerda em SP - 19/02/2026 - Política - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2026/02/com-favoritismo-e-maquina-tarcisio-absorve-a-direita-e-isola-a-esquerda-em-sp.shtml"
+    },
+    {
+      "title": "Tarcísio de Freitas diz não ter favorito para vice na reeleição | G1",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/02/12/tarcisio-diz-que-nao-tem-favoritos-para-candidato-a-vice-em-meio-a-disputas-entre-partidos-da-base.ghtml"
+    },
+    {
+      "title": "Tarcísio vai de favorito do Centrão a plano B para o Planalto",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto.ghtml"
+    },
+    {
+      "title": "Tarcísio reafirma que irá disputar reeleição em São Paulo",
+      "url": "https://gpsbrasilia.com.br/tarcisio-reafirma-que-ira-disputar-reeleicao/"
+    }
+  ],
+  "response": "Tarcísio de Freitas vai concorrer à reeleição como governador de São Paulo em 2026, e não vai concorrer à presidência.",
+  "response_no_search": "Até a data do meu conhecimento (dezembro de 2023), não há informações confirmadas sobre a intenção de Tarcísio de Freitas em concorrer à presidência nas eleições de 2026. No entanto, é importante notar que Tarcísio de Freitas é um político brasileiro que já ocupou cargos importantes, como o de Ministro da Infraestrutura no governo de Jair Bolsonaro.\n\nÉ possível que ele possa ser considerado como um potencial candidato para as eleições de 2026, mas até o momento, não há declarações oficiais ou co",
+  "error": null
+}

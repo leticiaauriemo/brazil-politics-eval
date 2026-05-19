@@ -1,0 +1,32 @@
+{
+  "question_id": "F-06-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bloqueio do X por Moraes viola leis e cria novo ato jurídico",
+      "url": "https://www.gazetadopovo.com.br/republica/bloqueio-do-x-moraes-viola-leis-cria-nova-especie-de-ato-juridico/"
+    },
+    {
+      "title": "Supremo Tribunal Federal mantém suspensão do X no Brasil",
+      "url": "https://www.rtp.pt/noticias/mundo/supremo-tribunal-federal-mantem-suspensao-do-x-no-brasil_n1597203"
+    },
+    {
+      "title": "Moraes rejeita recursos de Discord e X sobre suspensão de perfis de Monark — TradingView News",
+      "url": "https://br.tradingview.com/news/spacemoney:ee6c7f70cbc81:0/"
+    },
+    {
+      "title": "Ministros do STF defendem que Moraes leve decisão de bloqueio do “X” ao plenário | Blogs | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/blogs/luisa-martins/politica/ministros-do-stf-defendem-que-moraes-leve-decisao-de-bloqueio-do-x-ao-plenario/"
+    }
+  ],
+  "response": "Tenho informações suficientes para responder de forma completa e equilibrada.\n\n# Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais?\n\n**Sim, na prática, ministros do STF têm proferido decisões individuais (monocráticas) determinando a suspensão de contas em redes sociais no Brasil**, embora essa prática seja juridicamente controversa. Vou explicar o cenário em detalhes:\n\n## A prática atual\n\nDecisões monocráticas (de um único ministro) para suspender perfis em redes sociais tornaram-se relativamente comuns, especialmente no contexto dos inquéritos das \"fake news\" e das \"milícias digitais\", conduzidos pelo ministro Alexandre de Moraes. Moraes impunha prazos curtos para a suspensão de perfis e publicações em suas decisões, muitas vezes duas horas, sob sanções como multas.\n\nO caso mais emblemático foi o bloqueio integral da rede social X (antigo Twitter) em 2024. O veto ao X ocorreu após o desrespeito do magnata Elon Musk a várias decisões do tribunal, que já havia ordenado a suspensão de dezenas de perfis na plataforma, como parte de um processo sobre a disseminação massiva de notícias falsas e ataques à democracia e instituições.\n\nHouve também casos individuais como o do influenciador Monark: o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou pela rejeição dos recursos apresentados pelas redes sociais Discord e X, antigo Twitter. As plataformas tentavam reverter a decisão que determinou a suspensão dos perfis do influenciador digital Bruno Monteiro Aiub, mais conhecido como Monark. Em 2023, Moraes já havia determinado a aplicação de uma multa de R$ 300 mil e a suspensão das contas do influenciador.\n\n## A base regimental para decisões monocráticas\n\nO ministro autor da decisão individual tem autonomia para definir se leva ou não o caso à apreciação do colegiado. O regimento interno do Supremo só obriga o referendo em caso de concessão de medida cautelar. No caso do bloqueio do X, por exemplo, a decisão de Moraes foi uma determinação proferida monocraticamente em uma petição, e não uma liminar concedida a pedido de alguma das partes. Na decisão, não há qualquer menção sobre a possibilidade de referendo.\n\n## Críticas jurídicas a essa prática\n\nA possibilidade de um único ministro tomar decisões dessa magnitude é alvo de fortes críticas:\n\n- ",
+  "response_no_search": "Sim, e isso tem ocorrido com frequência no Brasil, embora seja juridicamente controverso.\n\n**Base usada para essas decisões:**\n\n- **Inquérito das Fake News (INQ 4781)**, aberto em 2019 pelo então presidente do STF, Dias Toffoli, com base no art. 43 do Regimento Interno do STF, que permite ao tribunal abrir inquérito sobre fatos ocorridos em sua sede ou contra seus ministros.\n- **Inquéritos derivados** (Milícias Digitais, Atos Antidemocráticos), relatados pelo ministro Alexandre de Moraes.\n- Deci",
+  "error": null
+}

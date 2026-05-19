@@ -1,0 +1,28 @@
+{
+  "question_id": "F-19-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "prompt": "Quem são os principais candidatos de esquerda e de direita nas eleições presidenciais brasileiras de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Eleição presidencial no Brasil em 2026 – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026"
+    },
+    {
+      "title": "Eleição para presidente: quem está na corrida e quem já caiu fora",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/"
+    },
+    {
+      "title": "Veja quem são os pré-candidatos confirmados para eleição de 2026 | Brasil | Pleno.News",
+      "url": "https://pleno.news/brasil/eleicoes-2026/veja-quem-sao-os-pre-candidatos-confirmados-para-eleicao-de-2026.html"
+    }
+  ],
+  "response": "# Principais candidatos nas eleições presidenciais brasileiras de 2026\n\nA eleição presidencial no Brasil em 2026 será realizada em 4 de outubro para eleger o presidente e o vice-presidente da República. Caso nenhum candidato obtenha maioria dos votos válidos no primeiro turno, será realizado um segundo turno no domingo dia 25 de outubro.\n\nA eleição está polarizada, no momento, entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). Mas há, além deles, uma lista de pré-candidatos que buscam algum espaço de destaque e a predileção do eleitorado.\n\n## Principais candidatos de esquerda\n\n**Luiz Inácio Lula da Silva (PT)** — O presidente em exercício, do Partido dos Trabalhadores, é elegível para um quarto mandato. Declarou em 2022 que não buscaria a reeleição, mas em 2024 afirmou que não poderia descartar a possibilidade de concorrer novamente para impedir que \"trogloditas\" voltassem ao poder no Brasil. Em 2025, anunciou sua intenção de disputar a reeleição.\n\nOutros pré-candidatos da esquerda, com menor expressão eleitoral:\n- Edmilson Costa (PCB), Hertz Dias (PSTU), Rui Costa Pimenta (PCO) e Samara Martins (UP) lançaram pré-candidaturas. Exceto o PCO, os outros três partidos tiveram cabeça de chapa em 2022.\n- O partido de esquerda Unidade Popular decidiu lançar a pré-candidatura da dentista Samara Martins à Presidência da República nas eleições de 2026.\n\n## Principais candidatos de direita\n\n**Flávio Bolsonaro (PL)** — Após ser condenado pelo Supremo Tribunal Federal, Jair Bolsonaro ficou inelegível para disputar eleições até 2030 e cumpre pena de prisão. Impossibilitado de concorrer à eleição, declarou apoio à candidatura de seu filho, o senador Flávio Bolsonaro. No dia 5 de dezembro do ano passado, o senador Flávio Bolsonaro (PL-RJ) confirmou que foi escolhido pelo ex-presidente Jair Bolsonaro como pré-candidato à Presidência da República. O parlamentar afirmou que Bolsonaro deu a ele a missão de \"dar continuidade ao nosso proj",
+  "response_no_search": "Até minha última atualização de conhecimento, o cenário eleitoral para 2026 no Brasil ainda estava em formação, com muitas indefinições. Posso compartilhar o que era discutido, mas é importante ressaltar que **muita coisa pode ter mudado** e recomendo consultar fontes atualizadas.\n\n## Campo da esquerda / centro-esquerda\n\n- **Luiz Inácio Lula da Silva (PT)** — presidente em exercício, é o nome mais provável para tentar a reeleição, embora sua candidatura dependa de fatores como saúde e cenário po",
+  "error": null
+}

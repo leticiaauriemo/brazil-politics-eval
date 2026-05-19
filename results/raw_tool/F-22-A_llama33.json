@@ -1,0 +1,36 @@
+{
+  "question_id": "F-22-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro é filho, irmão ou sobrinho de Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Jair Bolsonaro escolhe o filho Flávio para disputar a Presidência - a quem decisão agrada e desagrada? - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cvgj4jeerqlo"
+    },
+    {
+      "title": "Flávio Bolsonaro assume papel de interlocutor de Jair Bolsonaro nas articulações para 2026 - O Poder",
+      "url": "https://opoder.ncnews.com.br/2025/11/25/flavio-bolsonaro-assume-papel-de-interlocutor-de-jair-bolsonaro-nas-articulacoes-para-2026/"
+    },
+    {
+      "title": "Flávio Bolsonaro diz que seu pai o escolheu como seu sucessor político",
+      "url": "https://www.em.com.br/internacional/2025/12/7307785-flavio-bolsonaro-diz-que-seu-pai-o-escolheu-como-seu-sucessor-politico.html"
+    },
+    {
+      "title": "Flávio Bolsonaro ainda enfrenta desconfiança em seu grupo político | VEJA",
+      "url": "https://veja.abril.com.br/politica/flavio-bolsonaro-ainda-enfrenta-desconfianca-em-seu-grupo-politico/"
+    },
+    {
+      "title": "Jair e Flávio Bolsonaro. Descubra as diferenças entre os candidatos",
+      "url": "https://www.dn.pt/internacional/jair-e-flvio-bolsonaro-descubra-as-diferenas-entre-os-candidatos"
+    }
+  ],
+  "response": "Flávio Bolsonaro é o filho de Jair Bolsonaro.",
+  "response_no_search": "Flávio Bolsonaro é o filho mais velho do presidente Jair Bolsonaro.",
+  "error": null
+}

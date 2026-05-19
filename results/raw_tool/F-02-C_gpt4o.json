@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por unanimidade, turma do STF torna Bolsonaro e mais 7 réus por golpe",
+      "url": "https://www.adufmat.org.br/portal/index.php/comunicacao/2023-11-11-14-06-07/jornal-adufmat/item/7263-por-unanimidade-turma-do-stf-torna-bolsonaro-e-mais-7-reus-por-golpe"
+    },
+    {
+      "title": "STF encerra processo e determina in�cio do cumprimento da pena de Jair Bolsonaro por tentativa de golpe - Not�cias | Giro Portal",
+      "url": "https://www.giroportal.com.br/noticias/17584-stf-encerra-processo-e-determina-inicio-do-cumprimento-da-pena-de-jair-bolsonaro-por-tentativa-de-golpe"
+    },
+    {
+      "title": "Publicada decisão que condenou Bolsonaro; cabe recurso pela defesa - O Progresso",
+      "url": "https://www.progresso.com.br/brasil/publicada-decisao-que-condenou-bolsonaro-cabe-recurso-pela-defesa/450387/"
+    },
+    {
+      "title": "STF declara fim de processo, e Bolsonaro já pode cumprir pena",
+      "url": "https://www.metropoles.com/brasil/moraes-declara-transito-em-julgado-para-bolsonaro-por-trama-golpista"
+    },
+    {
+      "title": "STF declara conclusão do processo sobre golpe de Estado e ordena execução da pena de Bolsonaro",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/25/moraes-declara-conclusao-do-processo-sobre-golpe-de-estado-e-abre-caminho-para-execucao-das-penas-de-bolsonaro.ghtml"
+    }
+  ],
+  "response": "A condenação de Jair Bolsonaro pelo Supremo Tribunal Federal (STF) já transitou em julgado, o que significa que não cabem mais recursos. O STF declarou o caso encerrado e determinou o início do cumprimento da pena de Bolsonaro, que foi condenado a 27 anos e 3 meses de prisão em regime inicial fechado por liderar uma organização criminosa que tentou impedir a posse do presidente Lula e subverter o Estado democrático de Direito. Além de Bolsonaro, outros réus também tiveram suas condenações transitadas em julgado. Bolsonaro já está preso na Superintendência da Polícia Federal em Brasília.",
+  "response_no_search": "Até a data do meu último treinamento em outubro de 2023, não há informações disponíveis sobre uma condenação específica de Jair Bolsonaro pelo Supremo Tribunal Federal (STF) que tenha transitado em julgado. É importante verificar as fontes de notícias mais recentes ou consultar registros oficiais para obter informações atualizadas sobre qualquer processo judicial envolvendo Jair Bolsonaro.",
+  "error": null
+}

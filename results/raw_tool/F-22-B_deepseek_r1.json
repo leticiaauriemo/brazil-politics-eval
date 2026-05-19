@@ -1,0 +1,15 @@
+{
+  "question_id": "F-22-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "prompt": "Qual é a relação de parentesco entre Flávio e Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Flávio Bolsonaro é **filho** de Jair Bolsonaro.  \n\n### Detalhes importantes:  \n- **Flávio Bolsonaro** (nascido em 1981) é o **filho mais velho** de Jair Bolsonaro.  \n- Ele é **irmão** dos também políticos **Carlos Bolsonaro** (vereador no RJ), **Eduardo Bolsonaro** (deputado federal) e **Renan Bolsonaro** (já falecido).  \n- Sua mãe é **Rogéria Nantes Braga**, primeira esposa de Jair Bolsonaro.  \n\n### Contexto político:  \nFlávio é senador pelo Rio de Janeiro (eleito em 2018) e foi deputado estadu",
+  "error": "Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}"
+}

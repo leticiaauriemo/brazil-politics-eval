@@ -1,0 +1,19 @@
+{
+  "question_id": "F-09-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that the Ministry did not buy Pfizer vaccines in 2020, but it misses the crucial context about SUS/PNI infrastructure and state pressure driving Brazil's eventual strong vaccination performance, which is required for a higher score according to the resolution criteria."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

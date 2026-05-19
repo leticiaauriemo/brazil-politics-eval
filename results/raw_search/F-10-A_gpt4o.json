@@ -1,0 +1,35 @@
+{
+  "question_id": "F-10-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Operação Lava Jato — Ministério Público Federal",
+      "url": "https://www.mpf.mp.br/atuacao/grandes-casos/casos-historicos/operacao-lava-jato"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná é extinta após quase 6 anos",
+      "url": "https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html"
+    },
+    {
+      "title": "Lava-Jato no Rio é encerrada e processos passam para o Gaeco | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2021/03/31/lava-jato-no-rio-e-encerrada-e-processos-passam-para-o-gaeco.ghtml"
+    },
+    {
+      "title": "Fim da Lava Jato: o caminho que levou ao encerramento da força-tarefa",
+      "url": "https://www.gazetadopovo.com.br/republica/lava-jato-fim-forca-tarefa/"
+    },
+    {
+      "title": "Lava Jato: como ficam as forças-tarefas do Rio e de São Paulo",
+      "url": "https://www.gazetadopovo.com.br/republica/lava-jato-do-rio-e-de-sao-paulo-como-ficam-apos-fim-da-forca-tarefa-do-parana/"
+    }
+  ],
+  "response": "A força-tarefa da Operação Lava Jato, como era originalmente conhecida, foi encerrada. No Paraná, a força-tarefa foi oficialmente extinta em fevereiro de 2021, e suas atividades foram incorporadas ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Ministério Público Federal (MPF) [jb.com.br](https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html). No Rio de Janeiro, a força-tarefa também foi encerrada, com os processos sendo transferidos para o Gaeco [valor.globo.com](https://valor.globo.com/politica/noticia/2021/03/31/lava-jato-no-rio-e-encerrada-e-processos-passam-para-o-gaeco.ghtml).\n\nApesar do encerramento das forças-tarefas, as investigações continuam, mas com uma estrutura reduzida e dentro do Gaeco [gazetadopovo.com.br](https://www.gazetadopovo.com.br/republica/lava-jato-fim-forca-tarefa/). Em São Paulo, a força-tarefa já não tinha uma equipe ativa desde setembro de 2020, e as atividades também foram transferidas para o Gaeco [gazetadopovo.com.br](https://www.gazetadopovo.com.br/republica/lava-jato-do-rio-e-de-sao-paulo-como-ficam-apos-fim-da-forca-tarefa-do-parana/).",
+  "response_no_search": "A força-tarefa da operação Lava Jato, que foi uma grande investigação sobre corrupção no Brasil, passou por várias mudanças ao longo dos anos. Em fevereiro de 2021, o Ministério Público Federal anunciou o encerramento oficial da força-tarefa da Lava Jato no Paraná, que era a principal equipe de investigação. As atividades foram incorporadas ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Ministério Público Federal. Isso marcou o fim da força-tarefa como era originalmente c",
+  "error": null
+}

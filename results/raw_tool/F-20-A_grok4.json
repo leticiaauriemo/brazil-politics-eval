@@ -1,0 +1,24 @@
+{
+  "question_id": "F-20-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://worldpopulationreview.com/country-rankings/covid-vaccines-by-country"
+    },
+    {
+      "title": "2",
+      "url": "https://www.statista.com/statistics/1194802/latin-america-covid-19-vaccination-doses-country/?srsltid=AfmBOoojQuAx0B6Eum8uEaU7Ik6ebpbjp1MdkB_FkzTXIgUafl372kaE"
+    }
+  ],
+  "response": "**Sim**, o Brasil estava entre os países com o maior número total de doses de vacina contra COVID-19 aplicadas no mundo, ocupando geralmente a 4ª posição global em dados cumulativos.[[1]](https://worldpopulationreview.com/country-rankings/covid-vaccines-by-country)\n\nDe acordo com dados compilados por fontes como o World Population Review (baseados em relatórios oficiais e trackers como Our World in Data e WHO):\n\n- **China**: cerca de 3,5 bilhões de doses\n- **Índia**: cerca de 2,2 bilhões de doses\n- **Estados Unidos**: cerca de 712 milhões de doses\n- **Brasil**: cerca de 516 milhões de doses (ou ~486 milhões em dados de 2023)[[1]](https://worldpopulationreview.com/country-rankings/covid-vaccines-by-country)\n\nEsses números refletem o total acumulado de doses administradas (incluindo reforços), e o Brasil se destaca devido ao seu grande tamanho populacional e ao avanço da campanha de vacinação, especialmente a partir de 2021. Fontes como Statista e Trading Economics confirmam valores próximos para o Brasil (em torno de 486–516 milhões).[[2]](https://www.statista.com/statistics/1194802/latin-america-covid-19-vaccination-doses-country/?srsltid=AfmBOoojQuAx0B6Eum8uEaU7Ik6ebpbjp1MdkB_FkzTXIgUafl372kaE)\n\nNote que rankings exatos podem variar ligeiramente conforme a data de atualização dos dados (a maioria dos trackers parou de atualizar após 2023–2024), mas o Brasil consistentemente figurou entre os 5 primeiros em volume absoluto total. Para comparação per capita, o Brasil também teve uma cobertura alta na América Latina.",
+  "response_no_search": "Sim, o Brasil esteve entre os países com o maior número total de doses de vacina contra COVID-19 aplicadas no mundo, especialmente durante o auge da campanha de vacinação global entre 2021 e 2023. Vou explicar brevemente com base em dados históricos disponíveis até meu último treinamento (por volta de 2023), mas lembre-se de que esses números podem variar com atualizações mais recentes de fontes como a Organização Mundial da Saúde (OMS) ou o site Our World in Data.\n\n### Contexto e Dados Principa",
+  "error": null
+}

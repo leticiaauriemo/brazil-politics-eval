@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Reforma da Previdência: o que mudou na aposentadoria nos últimos anos",
+      "url": "https://www.em.com.br/politica/2026/05/7415516-reforma-da-previdencia-o-que-mudou-na-aposentadoria-nos-ultimos-anos.html"
+    },
+    {
+      "title": "Governo anuncia proposta de reforma da Previdência com idade mínima de 65 anos | G1",
+      "url": "https://g1.globo.com/economia/noticia/governo-anuncia-proposta-de-reforma-da-previdencia-com-idade-minima-de-65-anos.ghtml"
+    },
+    {
+      "title": "Ajustes na idade mínima e nas regras de transição para pedir ...",
+      "url": "https://www.gov.br/inss/pt-br/noticias/ajustes-na-idade-minima-e-nas-regras-de-transicao-para-pedir-aposentadoria-ja-estao-em-vigor-confira"
+    },
+    {
+      "title": "Governo Jair Bolsonaro quer aposentadoria aos 65 anos",
+      "url": "https://extra.globo.com/economia-e-financas/governo-jair-bolsonaro-quer-aposentadoria-aos-65-anos-23342158.html"
+    }
+  ],
+  "response": "A emenda constitucional que estabeleceu a idade mínima para aposentadoria no Brasil foi aprovada durante o governo de Jair Bolsonaro. A Emenda Constitucional nº 103, que instituiu a Reforma da Previdência, foi promulgada em novembro de 2019. Esta emenda estabeleceu que a idade mínima para aposentadoria seria de 62 anos para mulheres e 65 anos para homens .",
+  "response_no_search": "A emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil foi aprovada durante o governo de Jair Bolsonaro. A Emenda Constitucional nº 103, conhecida como Reforma da Previdência, foi promulgada em 12 de novembro de 2019. Esta emenda alterou o artigo 201 da Constituição Federal, estabelecendo uma idade mínima de 62 anos para mulheres e 65 anos para homens para se aposentar, além de outras mudanças nas regras de aposentadoria.",
+  "error": null
+}

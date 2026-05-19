@@ -1,0 +1,28 @@
+{
+  "question_id": "F-06-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.jota.info/stf/supra/o-stf-pode-determinar-o-bloqueio-de-perfis-em-redes-sociais"
+    },
+    {
+      "title": "2",
+      "url": "https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/"
+    },
+    {
+      "title": "3",
+      "url": "https://www.cnnbrasil.com.br/politica/stf-mantem-suspensao-da-rede-social-rumble-no-brasil/"
+    }
+  ],
+  "response": "**Sim, um ministro do STF pode, de forma individual (monocrática), ordenar a suspensão de contas em redes sociais no Brasil**, especialmente quando atua como relator em inquéritos ou ações cautelares relacionadas a investigações criminais, como o Inquérito das Fake News (Inq. 4.781).[[1]](https://www.jota.info/stf/supra/o-stf-pode-determinar-o-bloqueio-de-perfis-em-redes-sociais)\n\n### Base legal e prática\n- Os ministros do STF possuem **poderes monocráticos** em matérias como medidas cautelares, buscas e apreensões, bloqueios e determinações a plataformas digitais, quando atuam como relatores de inquéritos ou processos em curso. Essas decisões visam interromper a disseminação de conteúdo considerado ilícito (ex.: fake news, incitação ao crime ou ataques à Corte).\n- Exemplos concretos incluem ordens do ministro **Alexandre de Moraes** para bloquear perfis no Twitter/X, Facebook e outras redes, com multas diárias às plataformas em caso de descumprimento. Essas medidas foram tomadas em 2020 e anos seguintes, e a 1ª Turma do STF tem confirmado várias delas ao rejeitar recursos.[[2]](https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/)\n- Decisões semelhantes envolveram a suspensão temporária de plataformas inteiras (como X e Rumble), inicialmente monocráticas e depois mantidas por unanimidade pela Turma.[[3]](https://www.cnnbrasil.com.br/politica/stf-mantem-suspensao-da-rede-social-rumble-no-brasil/)\n\n### Limites e revisão\nEssas ordens não são absolutas: podem ser questionadas via recursos (agravos regimentais) à Turma ou ao Plenário do STF, que pode confirmar, modificar ou revogar a decisão monocrática. Plataformas e usuários afetados já recorreram, mas o STF tem mantido a maioria das determinações quando há indícios de uso para fins ilícitos.[[2]](https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/)\n\nEm resumo, sim, é possível e tem ocorrido na prática, com base nos poderes regimentais e processuais do STF. Essas medidas geram debate sobre liberdade de expressão, mas são juridicamente amparadas quando fundamentadas em investigações em andamento.",
+  "response_no_search": "Sim, um ministro do Supremo Tribunal Federal (STF) pode, individualmente, ordenar a suspensão de contas em redes sociais no Brasil, mas isso ocorre em contextos específicos e dentro dos limites da lei. Vou explicar de forma clara e baseada no ordenamento jurídico brasileiro:\n\n### Contexto Legal\n- **Poderes Monocráticos**: Os ministros do STF têm autoridade para tomar decisões individuais (chamadas de \"decisões monocráticas\") em casos urgentes, como medidas cautelares, liminares ou durante o plan",
+  "error": null
+}

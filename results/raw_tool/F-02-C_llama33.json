@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF mantém condenação de Bolsonaro e seis réus na tentativa de golpe; veja perguntas e respostas | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/08/stf-mantem-condenacao-de-bolsonaro-e-seis-reus-na-tentativa-de-golpe-veja-perguntas-e-respostas.ghtml"
+    },
+    {
+      "title": "STF confirma fim do processo e Bolsonaro já pode começar a cumprir pena",
+      "url": "https://www.infomoney.com.br/politica/stf-confirma-fim-do-processo-e-bolsonaro-ja-pode-comecar-a-cumprir-pena/"
+    },
+    {
+      "title": "STF publica acórdão e abre prazo para último recurso de Bolsonaro",
+      "url": "https://www.otempo.com.br/politica/judiciario/2025/11/18/stf-publica-acordao-e-abre-prazo-para-ultimo-recurso-de-bolsonaro-veja-proximos-passos"
+    },
+    {
+      "title": "STF rejeita novo recurso da defesa do ex-presidente Jair Bolsonaro ...",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-novo-recurso-da-defesa-do-ex-presidente-jair-bolsonaro-para-rever-condenacao/"
+    },
+    {
+      "title": "Prazo se encerra, e Bolsonaro não apresenta novo recurso",
+      "url": "https://gpsbrasilia.com.br/bolsonaro-nao-apresenta-novo-recurso-no-stf/"
+    }
+  ],
+  "response": "A condenação de Bolsonaro pelo STF transitou em julgado, e não há mais recursos pendentes. O ex-presidente foi condenado a 27 anos e três meses de prisão por liderar a trama golpista que tentou impedir a posse do presidente Lula. A defesa de Bolsonaro optou por não apresentar novos recursos de embargos de declaração ao Supremo Tribunal Federal (STF), e o prazo para o envio deste recurso foi encerrado na última segunda-feira (24). Sem o novo embargo, o caminho fica livre para o ministro Alexandre de Moraes declarar o trânsito em julgado do processo, para que o ex-presidente possa iniciar o cumprimento de sua pena.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, não havia informações sobre uma condenação específica de Jair Bolsonaro pelo Supremo Tribunal Federal (STF) que tivesse transitado em julgado ou sobre recursos pendentes relacionados a uma condenação específica.\n\nO STF é o órgão máximo do Poder Judiciário brasileiro e tem competência para julgar various tipos de processos, incluindo aqueles que envolvem autoridades como o Presidente da República. No entanto, a situação jurídica de Jair Bols",
+  "error": null
+}

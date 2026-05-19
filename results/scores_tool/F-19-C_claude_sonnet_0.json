@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Lula (left/PT) and Flávio Bolsonaro (right/PL) as the main candidates and does not mention Tarcísio de Freitas as a presidential candidate, aligning perfectly with the ground truth and scoring criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies both Lula (PT) and Flávio Bolsonaro (PL) as the main candidates and clarifies that Tarcísio de Freitas is not running for president."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

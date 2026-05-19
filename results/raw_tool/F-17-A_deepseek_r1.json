@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Caso Master: BC já decretou liquidação de oito instituições financeiras ligadas ao banco",
+      "url": "https://extra.globo.com/economia/noticia/2026/02/caso-master-bc-ja-decretou-liquidacao-de-oito-instituicoes-financeiras-ligadas-ao-banco.ghtml"
+    },
+    {
+      "title": "Central Bank flagged R$20bn capital shortfall at Master",
+      "url": "https://valorinternational.globo.com/markets/news/2026/01/13/central-bank-flagged-r20bn-capital-shortfall-at-master.ghtml"
+    },
+    {
+      "title": "Banco Master",
+      "url": "https://pt.wikipedia.org/wiki/Banco_Master"
+    },
+    {
+      "title": "Banco Master",
+      "url": "https://en.wikipedia.org/wiki/Banco_Master"
+    },
+    {
+      "title": "Banco Master",
+      "url": "https://www.bancomaster.com.br/"
+    }
+  ],
+  "response": "I'll check the current status of Banco Master for 2026 using a web search.\n\nCom base nas informações obtidas:\n\n1. **Liquidação decretada**: O Banco Central do Brasil decretou a liquidação extrajudicial do Banco Master em **18 de novembro de 2025**, devido a insolvência financeira, suspeitas de fraudes contábeis e risco sistêmico.\n\n2. **Situação atual (2026)**:\n   - O Banco Master **não está mais em funcionamento** e encontra-se em processo de liquidação.\n   - Seu site oficial (bancomaster.com.br) exibe um banner destacando \"**Em Liquidação Extrajudicial**\" e fornece orientações para credores.\n   - O Fundo Garantidor de Créditos (FGC) está processando ressarcimentos a investidores, no maior acionamento da história do fundo (cerca de R$ 41 bilhões).\n\n3. **Expansão da liquidação**:\n   - O BC também liquidou outras instituições do grupo, incluindo o Will Bank (braço digital) em janeiro de 2026.\n   - Até fevereiro de 2026, oito instituições financeiras ligadas ao grupo Master já haviam sido liquidadas.\n\n4. **Contexto do colapso**:\n   - Problemas incluíam déficit patrimonial de R$ 20 bilhões, gestão inadequada de risco e fraude contábil.\n   - A tentativa de venda para o BRB e posteriormente para o Grupo Fictor fracassou, agravando a crise.\n\n**Conclusão**: Em 2026, o Banco Master **não está em funcionamento** e seu processo de liquidação extrajudicial continua em andamento, conforme determinação do Banco Central.",
+  "response_no_search": "Não posso afirmar com certeza se o **Banco Master** estará em funcionamento em **2026**, pois isso depende de fatores econômicos, regulatórios e mercadológicos futuros. No entanto, até o momento atual (2023), o Banco Master segue operando normalmente no Brasil, oferecendo produtos como cartões de crédito, empréstimos e serviços digitais.\n\nPara verificar a situação do banco em 2026, recomendo:\n\n1. **Consultar fontes oficiais**: Acesse o site do [Banco Central do Brasil](https://www.bcb.gov.br/) o",
+  "error": null
+}

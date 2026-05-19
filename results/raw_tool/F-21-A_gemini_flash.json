@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da Comissão de Segurança Pública do Senado",
+      "url": "https://www.correiobraziliense.com.br/politica/2025/02/7065041-flavio-bolsonaro-e-eleito-presidente-da-comissao-de-seguranca-publica-do-senado.html"
+    },
+    {
+      "title": "Flávio assume gabinete de Bolsonaro em Brasília e avança no PL",
+      "url": "https://www.poder360.com.br/poder-eleicoes/flavio-assume-gabinete-de-bolsonaro-em-brasilia-e-avanca-no-pl/"
+    },
+    {
+      "title": "Flávio Bolsonaro - Rio de Janeiro - Alerj",
+      "url": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/275"
+    }
+  ],
+  "response": "Flávio Bolsonaro atualmente ocupa o cargo de **Senador da República** pelo estado do Rio de Janeiro. Ele foi eleito para o mandato de 2019-2027.\n\nAlém disso, ele é o **Presidente da Comissão de Segurança Pública (CSP)** no Senado Federal e é titular das Comissões de Desenvolvimento Regional (CDR) e de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor (CTFC). Ele também é suplente nas comissões de Constituição, Justiça e Cidadania (CCJ) e de Direitos Humanos (CDH).",
+  "response_no_search": "Atualmente, Flávio Bolsonaro ocupa o cargo de **Senador da República** pelo estado do Rio de Janeiro.",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "prompt": "Quem são os principais candidatos de esquerda e de direita nas eleições presidenciais brasileiras de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Eleições 2026: Conheça os candidatos da direita e esquerda",
+      "url": "https://vtvnews.com.br/noticias/politica/eleicoes-2026-candidatos-direita-e-esquerda-is/"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência da República em 2026 | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/31/quem-sao-os-pre-candidatos-a-presidencia-da-republica-2026.ghtml"
+    },
+    {
+      "title": "Veja quem são os 11 pré-candidatos a presidente - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "Saiba quem são e o que defendem os potenciais candidatos à Presidência em 2026",
+      "url": "https://www.poder360.com.br/poder-eleicoes/saiba-o-que-defendem-os-potenciais-candidatos-a-presidencia-em-2026/"
+    }
+  ],
+  "response": "Com base nas informações obtidas, os principais candidatos de **esquerda** e **direita** nas eleições presidenciais brasileiras de 2026 são:\n\n### **Candidatos de Esquerda:**\n1. **Luiz Inácio Lula da Silva (PT):** Presidente atual, busca a reeleição para um quarto mandato. Líder histórico da esquerda brasileira, com foco em políticas sociais e crescimento econômico.\n2. **Ciro Gomes (PSDB):** Ex-ministro e líder trabalhista, retorna ao PSDB após disputas anteriores pelo PDT. Ainda não confirmou sua candidatura, mas é visto como uma forte liderança.\n\n### **Candidatos de Direita:**\n1. **Flávio Bolsonaro (PL):** Senador pelo Rio de Janeiro e filho do ex-presidente Jair Bolsonaro. Foi escolhido pelo pai para representar o bolsonarismo nas eleições.\n2. **Tarcísio de Freitas (Republicanos):** Governador de São Paulo e ex-ministro da Infraestrutura, alinhado com o bolsonarismo e visto como um nome forte da direita.\n3. **Romeu Zema (Novo):** Governador de Minas Gerais, com um discurso liberal e foco na segurança pública.\n4. **Ronaldo Caiado (PSD):** Governador de Goiás, representante do agronegócio e crítico do PT.\n5. **Eduardo Leite (PSD):** Governador do Rio Grande do Sul, com potencial para disputar a Presidência.\n6. **Renan Santos (Missão):** Fundador do Movimento Brasil Livre (MBL), lançou sua pré-candidatura pelo Partido Missão, com um discurso disruptivo e jovem.\n7. **Michelle Bolsonaro (PL):** Ex-primeira-dama e líder do PL Mulher, com forte apelo entre o eleitorado bolsonarista.\n\nEsses são os nomes mais destacados até o momento, mas o cenário pode mudar conforme a data das eleições se aproxima.",
+  "response_no_search": "Em outubro de 2023, ainda é muito cedo para definir com precisão quem serão os principais candidatos de esquerda e de direita nas eleições presidenciais brasileiras de 2026, pois o cenário político pode mudar significativamente nos próximos anos. No entanto, com base no contexto político atual, podemos especular sobre possíveis nomes que podem emergir como candidatos.\n\n### **Candidatos de Esquerda:**\n1. **Luiz Inácio Lula da Silva (PT):**\n   - O atual presidente, eleito em 2022, poderá ser um ca",
+  "error": null
+}

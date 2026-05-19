@@ -1,0 +1,25 @@
+{
+  "question_id": "F-15-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly confirms Lula declared the emergency in January 2023 but does not provide the crucial context of the crisis being aggravated during the Bolsonaro government, which is essential for a higher score according to the resolution criteria."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms Lula declared the emergency in January 2023 and provides context about the crisis, including the government's response and the creation of a committee to address the humanitarian and health crisis."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

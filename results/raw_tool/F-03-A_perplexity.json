@@ -1,0 +1,15 @@
+{
+  "question_id": "F-03-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Não, Jair Bolsonaro não pode se candidatar à presidência nas eleições de 2026.**\n\n### Razão Principal: Inelegibilidade Confirmada\nBolsonaro foi declarado inelegível pelo Tribunal Superior Eleitoral (TSE) em 30 de junho de 2023, por abuso de poder político e uso indevido dos meios de comunicação. Isso ocorreu após ele atacar o sistema eleitoral em uma reunião com embaixadores em julho de 2022, transmitida por TV estatal. A pena impede candidaturas até 2030 (8 anos a partir de 2022), abrangendo ",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

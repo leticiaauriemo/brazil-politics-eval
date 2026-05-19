@@ -1,0 +1,19 @@
+{
+  "question_id": "F-16-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies Bolsonaro as the president who established the R$600 Auxílio Brasil and the year, but omits the specific legislative instrument (PEC 1/2022) and the fact that it was a renaming of Bolsa Família."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

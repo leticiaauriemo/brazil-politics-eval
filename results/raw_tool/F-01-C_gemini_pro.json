@@ -1,0 +1,15 @@
+{
+  "question_id": "F-01-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "Não, o STF (Supremo Tribunal Federal) não declarou Lula inocente.\n\nO que o STF fez foi anular as condenações de Lula na 13ª Vara Federal de Curitiba por uma questão processual. A decisão do STF foi de que a vara de Curitiba não tinha a competência legal (jurisdição) para julgar os casos, que deveriam ter sido analisados pela Justiça Federal em Brasília.\n\nCom essa anulação, as sentenças foram invalidadas e os direitos políticos de Lula foram restaurados, o que permitiu que ele concorresse às eleições de 2022. No entanto, a decisão não entrou no mérito das acusações, ou seja, o STF não julgou se Lula era culpado ou inocente dos crimes.",
+  "response_no_search": "Não, o Supremo Tribunal Federal (STF) **não declarou Lula inocente** por analisar as provas e concluir que ele não cometeu os crimes. A decisão do STF foi de natureza",
+  "error": null
+}

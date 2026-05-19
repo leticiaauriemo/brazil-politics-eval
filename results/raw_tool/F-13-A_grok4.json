@@ -1,0 +1,28 @@
+{
+  "question_id": "F-13-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "prompt": "A Reforma da Previdência que criou idade mínima de aposentadoria foi aprovada no governo Bolsonaro ou no governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Reforma_da_Previd%C3%AAncia_do_governo_Jair_Bolsonaro"
+    },
+    {
+      "title": "2",
+      "url": "https://www.gov.br/secom/pt-br/fatos/brasil-contra-fake/noticias/2023/07/aposentadoria-por-tempo-de-contribuicao-foi-extinta-na-reforma-da-previdencia-de-2019"
+    },
+    {
+      "title": "3",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2019/02/20/bolsonaro-entrega-reforma-da-previdencia-com-aumento-da-idade-minima-e-contribuicao"
+    }
+  ],
+  "response": "**A Reforma da Previdência que criou a idade mínima de aposentadoria foi aprovada no governo Bolsonaro.**[[1]](https://pt.wikipedia.org/wiki/Reforma_da_Previd%C3%AAncia_do_governo_Jair_Bolsonaro)\n\nEssa reforma corresponde à **Emenda Constitucional nº 103/2019** (conhecida como “Nova Previdência”), promulgada em 12 de novembro de 2019 e publicada no Diário Oficial da União em 13 de novembro de 2019. Ela foi proposta pelo presidente Jair Bolsonaro, entregue ao Congresso em fevereiro de 2019 e aprovada pela Câmara e pelo Senado ainda naquele ano.[[1]](https://pt.wikipedia.org/wiki/Reforma_da_Previd%C3%AAncia_do_governo_Jair_Bolsonaro)\n\n### Principais mudanças introduzidas\n- Estabeleceu **idade mínima obrigatória** para aposentadoria: 65 anos para homens e 62 anos para mulheres (com tempo mínimo de contribuição de 20 e 15 anos, respectivamente).\n- Extinguiu a aposentadoria por tempo de contribuição sem exigência de idade mínima (regra que existia antes).\n- Criou regras de transição para quem já estava no mercado de trabalho.\n\nEssa foi a primeira reforma que tornou a idade mínima um requisito geral e obrigatório para a maioria dos trabalhadores do Regime Geral de Previdência Social (RGPS) e do Regime Próprio dos servidores federais.[[2]](https://www.gov.br/secom/pt-br/fatos/brasil-contra-fake/noticias/2023/07/aposentadoria-por-tempo-de-contribuicao-foi-extinta-na-reforma-da-previdencia-de-2019)\n\n### Tentativas anteriores\nHouve propostas e discussões sobre reforma da Previdência em governos anteriores (incluindo o de Lula e o de Michel Temer), mas nenhuma delas foi aprovada com a introdução da idade mínima obrigatória da forma como ocorreu em 2019. A reforma de 2019 é a que efetivamente implementou essa mudança estrutural.[[3]](https://www12.senado.leg.br/radio/1/noticia/2019/02/20/bolsonaro-entrega-reforma-da-previdencia-com-aumento-da-idade-minima-e-contribuicao)\n\nResumo: a reforma que criou a idade mínima de aposentadoria foi aprovada e sancionada durante o governo de Jair Bolsonaro.",
+  "response_no_search": "ERROR: Error code: 404 - {'error': {'message': 'Provider returned error', 'code': 404, 'metadata': {'raw': '<html>\\r\\n<head><title>404 Not Found</title></head>\\r\\n<body>\\r\\n<center><h1>404 Not Found</h1></center>\\r\\n<hr><center>nginx</center>\\r\\n<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement(\\'script\\');d.innerHTML=\"window.__CF$cv$params={r:\\'9fb2026f2150eb2d\\',t:\\'MTc3ODY3ODk0MC4wMDAwMDA=\\'};var a=document.createElement(\\'script\\')",
+  "error": null
+}

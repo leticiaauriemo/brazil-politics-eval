@@ -1,0 +1,32 @@
+{
+  "question_id": "F-05-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "prompt": "O Bolsa Família foi criado no governo Lula ou no governo Fernando Henrique Cardoso?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Reconstrução e dignidade ao povo brasileiro: Governo Federal celebra os 20 anos do Programa Bolsa Família — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/reconstrucao-e-dignidade-ao-povo-brasileiro-governo-federal-celebra-os-20-anos-do-programa-bolsa-familia"
+    },
+    {
+      "title": "MUDANDO VIDAS, FAZENDO HISTÓRIA.",
+      "url": "https://www.mds.gov.br/webarquivos/MDS/2_Acoes_e_Programas/Bolsa_Familia/Eventos/Revista_Comemoracao_20_anos_BF.pdf"
+    },
+    {
+      "title": "Quem criou o Bolsa Família? FHC ou Lula?",
+      "url": "https://www.acheconcursos.com.br/beneficios-sociais/quem-criou-o-bolsa-familia-fhc-ou-lula-60402"
+    },
+    {
+      "title": "De FHC e Lula a Bolsonaro: a história do Bolsa Família no Brasil | Exame",
+      "url": "https://exame.com/brasil/de-fhc-e-lula-a-bolsonaro-a-historia-do-bolsa-familia-no-brasil/"
+    }
+  ],
+  "response": "O Bolsa Família foi criado no **governo Lula**, mas com importantes raízes nos programas sociais do governo Fernando Henrique Cardoso. Veja o contexto completo:\n\n---\n\n### 🔵 Criação oficial — Governo Lula\n\nEm 20 de outubro de 2003, na primeira gestão do presidente Luiz Inácio Lula da Silva, a Medida Provisória nº 132 criava o Programa Bolsa Família. Essa medida provisória foi posteriormente convertida em lei em janeiro de 2004 (Lei nº 10.836).\n\nO programa unificou diversos benefícios sociais existentes na época, como o Bolsa Escola, o Bolsa Alimentação, o Vale Gás e o Cartão Alimentação.\n\n---\n\n### 🟡 A contribuição do governo FHC\n\nÉ provável que o Bolsa Família não pudesse ser viabilizado sem dois passos importantes dados pelo governo FHC. Um deles é o Bolsa Escola, que, em 2001, passou a ser o primeiro programa de transferência de renda com abrangência nacional a condicionar o recebimento de benefícios à educação de crianças de famílias de baixa renda.\n\nOutro passo determinante foi o Cadastro Único, que também nasceu em 2001, para mapear as famílias de baixa renda aptas a participar do Bolsa Escola.\n\n---\n\n### 📌 Resumo\n\nEm síntese, o **Bolsa Família foi criado no governo Lula** (2003), mas foi construído sobre a base de programas sociais criados durante o governo Fernando Henrique Cardoso, como o Bolsa Escola e o Cadastro Único. Trata-se, portanto, de uma política pública que teve contribuições dos dois governos.",
+  "response_no_search": "## Bolsa Família\n\nO **Bolsa Família** foi criado no **governo Lula**, sendo instituído pela **Lei nº 10.836, de 9 de janeiro de 2004**.\n\n### Contexto\nO programa surgiu da **unificação de programas sociais** já existentes no governo Fernando Henrique Cardoso, como:\n- Bolsa Escola\n- Bolsa Alimentação\n- Auxílio Gás\n- Cartão Alimentação (este já do início do governo Lula)\n\nPortanto, embora FHC tenha criado programas predecessores importantes, o **Bolsa Família como tal foi criado por Lula** em seu p",
+  "error": null
+}

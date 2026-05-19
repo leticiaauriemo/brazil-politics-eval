@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms Bolsonaro's conviction, specifies the sentence duration (27 years and 3 months), and mentions the conviction became final in September 2025, aligning with the ground truth's details."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the conviction of Jair Bolsonaro, specifies the sentence of 27 years and 3 months, and notes the finalization of the decision."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

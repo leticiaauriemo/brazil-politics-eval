@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF confirma fim do processo e Bolsonaro já pode começar a cumprir pena",
+      "url": "https://www.infomoney.com.br/politica/stf-confirma-fim-do-processo-e-bolsonaro-ja-pode-comecar-a-cumprir-pena/"
+    },
+    {
+      "title": "Bolsonaro: Entenda o que significa 'decretou o trânsito em julgado'",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/25/o-que-significa-fim-do-transito-em-julgado.ghtml"
+    },
+    {
+      "title": "STF declara fim de processo, e Bolsonaro já pode cumprir pena",
+      "url": "https://www.metropoles.com/brasil/moraes-declara-transito-em-julgado-para-bolsonaro-por-trama-golpista"
+    },
+    {
+      "title": "STF publica o tão esperado acórdão da condenação de Bolsonaro, com 1991 páginas; leia a íntegra",
+      "url": "https://www.jb.com.br/brasil/justica/2025/11/1057661-stf-publica-o-tao-esperado-acordao-da-condenacao-de-bolsonaro-com-1991-paginas-leia-a-integra.html"
+    },
+    {
+      "title": "Prazo se encerra, e Bolsonaro não apresenta novo recurso",
+      "url": "https://gpsbrasilia.com.br/bolsonaro-nao-apresenta-novo-recurso-no-stf/"
+    }
+  ],
+  "response": "A condenação de Jair Bolsonaro pelo Supremo Tribunal Federal (STF) transitou em julgado, o que significa que não há mais recursos pendentes que possam alterar a decisão. O STF confirmou o fim do processo em 25 de novembro de 2025, abrindo caminho para o início do cumprimento das penas .\n\nO ministro Alexandre de Moraes, relator do caso, está agora responsável por decretar o início da pena e definir o local onde cada condenado ficará preso. Bolsonaro foi sentenciado a 27 anos e 3 meses em regime inicial fechado .",
+  "response_no_search": "Até a data do meu último treinamento em outubro de 2023, não há informações disponíveis que indiquem que o ex-presidente Jair Bolsonaro tenha sido condenado pelo Supremo Tribunal Federal (STF) do Brasil. Portanto, não posso confirmar se há uma condenação que transitou em julgado ou se há recursos pendentes.\n\nPara obter informações atualizadas sobre qualquer procedimento judicial envolvendo o ex-presidente Bolsonaro, recomendo consultar fontes de notícias confiáveis ou o próprio site do STF.",
+  "error": null
+}

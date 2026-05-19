@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro is already imprisoned and that the conviction is final without mentioning the specific date or the criminal review, which contradicts the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the conviction is final and that no further appeals are possible, but it lacks specific details about the date and the nature of the revision criminal."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.5,
+  "agreement": false
+}

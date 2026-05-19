@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2020/07/moraes-bloqueio_240720204911.pdf"
+    },
+    {
+      "title": "Liberdade de Expressão 2.0: a constitucionalidade dos casos de deplatforming no Inquérito das Fake News - Internet & Sociedade",
+      "url": "https://revista.internetlab.org.br/liberdade-de-expressao-2-0-a-constitucionalidade-dos-casos-de-deplatforming-no-inquerito-das-fake-news/"
+    },
+    {
+      "title": "Twitter e Facebook bloqueiam contas de alvos do inquérito das fake ...",
+      "url": "https://www.gazetadopovo.com.br/republica/stf-manda-bloquear-contas-investigados-inquerito-das-fake-news-twitter/"
+    },
+    {
+      "title": "X afirma ter derrubado 223 contas por ordem de STF e TSE desde 2020",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2024/10/09/x-suspendeu-223-contas-por-ordem-do-stf-e-tse-desde-2020.htm"
+    },
+    {
+      "title": "Twitter cumpre nova ordem de Moraes em inquérito das fake news ...",
+      "url": "https://www.jota.info/stf/do-supremo/twitter-cumpre-nova-ordem-de-moraes-em-inquerito-das-fake-news-para-bloquear-perfis"
+    }
+  ],
+  "response": "Sim, o Inquérito 4781, conhecido como Inquérito das Fake News, resultou em ordens de bloqueio de contas em plataformas digitais. O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou o bloqueio de contas em redes sociais como Facebook, Twitter e Instagram de investigados suspeitos de disseminar notícias falsas, discursos de ódio e ataques contra instituições democráticas. Essas medidas foram tomadas para interromper a divulgação de conteúdos considerados lesivos à ordem institucional e democrática. Algumas plataformas, como o Twitter e o Facebook, cumpriram as ordens após novas intimações e sob ameaça de multas diárias.",
+  "response_no_search": "Sim, o Inquérito das Fake News (Inquérito 4781), conduzido pelo Supremo Tribunal Federal (STF), resultou em ordens de bloqueio e suspensão de contas em plataformas digitais. O ministro Alexandre de Moraes, responsável pelo caso, determinou em várias ocasiões a remoção de conteúdos e a suspensão de perfis considerados envolvidos na disseminação de desinformação, especialmente durante períodos eleitorais e em casos de ataques às instituições democráticas.  \n\nAlgumas das medidas incluíram:  \n- **Bl",
+  "error": null
+}

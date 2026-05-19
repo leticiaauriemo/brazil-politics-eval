@@ -1,0 +1,36 @@
+{
+  "question_id": "F-08-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "prompt": "Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Tarcísio Freitas rules out 2026 presidential bid - Valor International",
+      "url": "https://valorinternational.globo.com/politics/news/2025/05/15/tarcisio-freitas-rules-out-2026-presidential-bid.ghtml"
+    },
+    {
+      "title": "Tarcísio says he will not be a presidential candidate in 2026: \"I have no interest\" | Brasil 247",
+      "url": "https://en.brasil247.com/regionais/sudeste/tarcisio-diz-que-nao-sera-candidato-a-presidencia-em-2026-nao-tenho-interesse"
+    },
+    {
+      "title": "Tarcísio volta negar candidatura à presidência em 2026: ‘Vou ficar em São Paulo’",
+      "url": "https://www.infomoney.com.br/politica/tarcisio-volta-negar-candidatura-a-presidencia-em-2026-vou-ficar-em-sao-paulo/"
+    },
+    {
+      "title": "Tarcísio de Freitas nega candidatura à presidência em 2026: \"vou ficar em São Paulo\"",
+      "url": "https://www.jornaldocomercio.com/politica/2025/05/1202309-tarcisio-de-freitas-nega-candidatura-a-presidencia-em-2026-vou-ficar-em-sao-paulo.html"
+    },
+    {
+      "title": "Tarcísio backtracks and denies running for president in 2026: \"I will not be, I have no interest\" | Brasil 247",
+      "url": "https://en.brasil247.com/brasil/tarcisio-recua-e-nega-candidatura-presidencial-em-2026-nao-serei-nao-tenho-interesse"
+    }
+  ],
+  "response": "Tarcísio de Freitas não está concorrendo à presidência em 2026 porque ele mesmo afirmou que não tem interesse em ser candidato e que vai ficar em São Paulo. Ele também negou qualquer movimento em direção ao Palácio do Planalto e rejeitou especulações sobre sua possível candidatura. Além disso, ele tem preferido concorrer à reeleição em São Paulo, onde acredita ter mais chances de vencer.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, Tarcísio de Freitas, um político brasileiro, foi ministro da Infraestrutura no governo de Jair Bolsonaro de 2019 a 2022. Ele é um nome que tem sido mencionado em especulações políticas, especialmente após sua atuação no governo federal.\n\nNo entanto, sem informações atualizadas ou declarações oficiais de Tarcísio de Freitas sobre suas intenções para as eleições de 2026, é difícil determinar com certeza por que ele não estaria concorrendo à p",
+  "error": null
+}

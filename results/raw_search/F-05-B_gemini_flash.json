@@ -1,0 +1,35 @@
+{
+  "question_id": "F-05-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "prompt": "O Bolsa Família foi criado no governo Lula ou no governo Fernando Henrique Cardoso?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Bolsa Família nasceu da unificação de programas de Fernando Henrique Cardoso – Noticias R7",
+      "url": "https://noticias.r7.com/brasil/bolsa-familia-nasceu-da-unificacao-de-programas-denbspfernando-henrique-cardoso-29062022/"
+    },
+    {
+      "title": "Bolsa Família é herança de programas sociais do governo FHC | PSDB – Partido da Social Democracia Brasileira",
+      "url": "https://www.psdb.org.br/acompanhe/bolsa-familia-e-heranca-de-programas-sociais-do-governo-fhc/"
+    },
+    {
+      "title": "De FHC e Lula a Bolsonaro: a história do Bolsa Família no Brasil | Exame",
+      "url": "https://exame.com/brasil/de-fhc-e-lula-a-bolsonaro-a-historia-do-bolsa-familia-no-brasil/"
+    },
+    {
+      "title": "Uma controvérsia de anos: Quem criou o Bolsa Família? - Aventuras na História",
+      "url": "https://aventurasnahistoria.com.br/noticias/almanaque/uma-controversia-de-anos-quem-criou-o-bolsa-familia.phtml"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    }
+  ],
+  "response": "O Bolsa Família, como programa unificado, foi instituído durante o governo do ex-presidente Luiz Inácio Lula da Silva em 2003, e oficializado pela lei nº 10.836 em janeiro de 2004 [revistadopovo.com.br]. No entanto, ele nasceu da unificação de diversos programas sociais criados no governo do ex-presidente Fernando Henrique Cardoso (FHC) [noticias.r7.com, psdb.org.br, exame.com, aventurasnahistoria.com.br].\n\nOs programas de FHC que foram incorporados ao Bolsa Família incluem:\n*   **Bolsa Escola** (criado em 2001) [psdb.org.br, aventurasnahistoria.com.br]\n*   **Bolsa Alimentação** (criado em 2001) [psdb.org.br, exame.com]\n*   **Auxílio-Gás** (criado em 2002) [psdb.org.br, exame.com]\n*   **Cadastramento Único do Governo Federal** (criado em 2001) [psdb.org.br, aventurasnahistoria.com.br]\n\nAlém desses, o Programa Nacional de Acesso à Alimentação (PNAA), criado no governo Lula, também foi unificado [noticias.r7.com, revistadopovo.com.br].\n\nPortanto, enquanto a criação do Bolsa Família como um programa único e com esse nome é atribuída ao governo Lula, a sua base e a ideia de transferência de renda com condicionalidades são uma herança dos programas sociais implementados durante o governo FHC [psdb.org.br, aventurasnahistoria.com.br].",
+  "response_no_search": "O Bolsa Família foi criado no governo **Lula**, em 2003.\n\nNo entanto, é importante notar que o programa foi uma unificação e ampliação de diversos programas sociais que já existiam em governos anteriores, incluindo o governo de Fernando Henrique Cardoso. Alguns desses programas eram:\n\n*   **Bolsa Escola:** Criado em 1995, no governo FHC.\n*   **Bolsa Alimentação:** Criado em 2001, no governo FHC.\n*   **Auxílio Gás:** Criado em 2001, no governo FHC.\n*   **Cartão Alimentação:** Criado em 2002, no g",
+  "error": null
+}

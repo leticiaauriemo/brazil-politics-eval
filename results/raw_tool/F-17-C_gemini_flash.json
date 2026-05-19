@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Master e preserva sistema financeiro nacional | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml"
+    },
+    {
+      "title": "BC anuncia liquidação do Banco Master Múltiplo, antes sob regime ...",
+      "url": "https://g1.globo.com/economia/noticia/2026/03/17/bc-anuncia-liquidacao-do-banco-master-multiplo-antes-sob-regime-especial-de-administracao.ghtml"
+    },
+    {
+      "title": "Folha do Estado | Banco Central entrega ao TCU detalhamento de ações que levaram à liquidação do Banco Master",
+      "url": "https://www.folhadoestado.com.br/brasil/banco-central-entrega-ao-tcu-detalhamento-de-acoes-que-levaram-a-liquidacao-do-banco-master/631652"
+    }
+  ],
+  "response": "Sim, o Banco Central decretou a liquidação extrajudicial do Banco Master. Isso ocorreu em novembro de 2025, devido a uma grave crise de liquidez (falta de dinheiro em caixa para honrar compromissos) e graves violações às normas do sistema financeiro.\n\nÉ importante notar que a liquidação não incluiu o banco digital Will Bank, que também faz parte do grupo Master e continua funcionando.\n\nO Banco Central também liquidou o Banco Master Múltiplo em março de 2026, que estava sob regime especial de administração e não possuía captação de depósitos do público. Essa liquidação ocorreu após a liquidação da Will Financeira, controlada do Banco Master Múltiplo, em janeiro do mesmo ano.\n\nO Banco Central entregou ao Tribunal de Contas da União (TCU) um relatório detalhado com as ações que levaram à liquidação, buscando afastar a acusação de precipitação na intervenção.",
+  "response_no_search": "Não, o Banco Central **não decretou a liquidação do Banco Master**.\n\nO que aconteceu foi que o Banco Master **adquiriu o Banco Woori Bank do Brasil S.A.** em 2023. Essa aquisição foi aprovada pelo Banco Central.\n\nÉ importante não confundir aquisição com liquidação. A liquidação é o encerramento das atividades de uma instituição financeira, geralmente por problemas financeiros graves. A aquisição, por outro lado, é quando uma empresa compra outra.\n\nPortanto, o Banco Master continua operando norma",
+  "error": null
+}

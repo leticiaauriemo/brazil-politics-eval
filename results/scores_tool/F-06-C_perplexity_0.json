@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states that Moraes issued monocratic orders, highlights the controversy surrounding this practice, and confirms its real-world impact on social media platforms."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly states that a single justice cannot order social media suspensions, despite the existence of monocratic orders issued by Moraes."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": false
+}

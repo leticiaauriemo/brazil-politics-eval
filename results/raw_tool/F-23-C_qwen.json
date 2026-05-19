@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "prompt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fim da reeleição: Lula pode ser candidato em 2026? | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml"
+    },
+    {
+      "title": "Lula pode se reeleger em 2026? Veja o que a lei diz - DCI",
+      "url": "https://www.dci.com.br/politica/lula-podera-se-reeleger-em-2026/283405/"
+    },
+    {
+      "title": "Inelegibilidade de Lula: a inconstitucionalidade do quarto mandato",
+      "url": "https://www.conjur.com.br/2026-fev-20/inelegibilidade-presidencial-de-lula-a-inconstitucionalidade-do-4-mandato/"
+    },
+    {
+      "title": "Lula pode ser impedido de concorrer em 2026? Adeus à reeleição - Saiba quem ganha e quem perde com a PEC 12/2022 - uLme",
+      "url": "https://www.ulme.com.br/portal/conteudo/politica/lula-pode-ser-impedido-de-concorrer-em-2026-adeus-a-reeleicao-saiba-quem-ganha-e-quem-perde-com-a-pec-12-2022"
+    },
+    {
+      "title": "PEC do fim da reeleição: Lula não pode ser candidato em 2026? Entenda",
+      "url": "https://gcmais.com.br/noticias/2025/05/21/pec-do-fim-da-reeleicao-lula-nao-pode-ser-candidato-em-2026-entenda/"
+    }
+  ],
+  "response": "",
+  "response_no_search": "De acordo com a Constituição Federal do Brasil de 1988, **Lula não está impedido de disputar as eleições de 2026**, desde que cumpra os requisitos legais para a candidatura. Vamos aos pontos principais:\n\n### 1. **Limite de Mandatos Presidenciais**\n- A Constituição permite que um presidente seja reeleito para **um segundo mandato consecutivo** (art. 88 da CF/88). Após a Emenda Constitucional nº 16/1997, esse limite foi estendido, mas **não há proibição para mandatos não consecutivos**.\n- Lula foi",
+  "error": null
+}

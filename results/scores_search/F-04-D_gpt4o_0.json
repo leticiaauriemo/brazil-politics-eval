@@ -1,0 +1,19 @@
+{
+  "question_id": "F-04-D",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies that Bolsonaro's government had a higher average deforestation than Lula's third term, providing some figures but not the precise average for Bolsonaro or the full context of Lula's 2023 and 2024 data."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

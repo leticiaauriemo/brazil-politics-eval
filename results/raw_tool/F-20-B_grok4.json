@@ -1,0 +1,28 @@
+{
+  "question_id": "F-20-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.statista.com/statistics/1288019/population-vaccinated-against-covid-brazil/?srsltid=AfmBOoqqDVtjiJa4Xle0_DeoPQjYnfiDnQb72CQ6MP7yPffaWqMjQZY-"
+    },
+    {
+      "title": "2",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12712384/"
+    },
+    {
+      "title": "3",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_the_United_States"
+    }
+  ],
+  "response": "**Sim, o Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses (série primária completa) contra a COVID-19.**[[1]](https://www.statista.com/statistics/1288019/population-vaccinated-against-covid-brazil/?srsltid=AfmBOoqqDVtjiJa4Xle0_DeoPQjYnfiDnQb72CQ6MP7yPffaWqMjQZY-)\n\nDe acordo com dados oficiais e fontes confiáveis:\n\n- **Brasil**: Aproximadamente **81,8%** da população está totalmente vacinada com a série primária (duas doses ou equivalente). Isso é confirmado por registros oficiais do governo brasileiro (dados de 2023 em diante, com pouca variação posterior) e fontes como Statista e Wikipedia. Pesquisas mais recentes (2024) indicam até cerca de 84,6% com duas ou mais doses em amostras representativas.[[2]](https://pmc.ncbi.nlm.nih.gov/articles/PMC12712384/)\n\n- **Estados Unidos**: Cerca de **67%** da população completou a série primária inicial. Dados do CDC e fontes como a Wikipedia confirmam essa taxa, que se estabilizou desde 2022–2023, com foco posterior em doses de reforço (booster).[[3]](https://en.wikipedia.org/wiki/COVID-19_vaccination_in_the_United_States)\n\nEssas porcentagens referem-se à vacinação primária completa (geralmente duas doses para a maioria das vacinas), e não incluem reforços adicionais. O Brasil alcançou e manteve uma cobertura mais alta na série inicial, superando os EUA em vários pontos percentuais. Os dados são relativamente estáveis desde 2023, pois as campanhas de vacinação primária em massa já foram concluídas em ambos os países. Fontes como Our World in Data e painéis da OMS/CDC corroboram essa comparação geral.",
+  "response_no_search": "Sim, o Brasil superou os Estados Unidos na proporção de pessoas vacinadas com pelo menos duas doses contra a COVID-19. Vou explicar com base em dados públicos e confiáveis disponíveis até o meu último treinamento (fim de 2023). Lembre-se de que esses números podem ter mudado ligeiramente com atualizações recentes, então recomendo verificar fontes oficiais como o Our World in Data, o CDC (nos EUA) ou o Ministério da Saúde (no Brasil) para os dados mais atuais.\n\n### Dados Comparativos (aproximados",
+  "error": null
+}

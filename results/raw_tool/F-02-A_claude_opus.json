@@ -1,0 +1,28 @@
+{
+  "question_id": "F-02-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro foi condenado pelo STF por tentativa de golpe de Estado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Linha do tempo: entenda o que levou à condenação de Bolsonaro | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/linha-do-tempo-entenda-o-que-levou-a-condenacao-de-bolsonaro/"
+    },
+    {
+      "title": "Saiba os crimes que sustentaram a condenação e a prisão de Bolsonaro | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/saiba-os-crimes-que-sustentaram-a-condenacao-e-a-prisao-de-bolsonaro/"
+    },
+    {
+      "title": "Ex-presidente Bolsonaro apresenta revisão criminal contra condenação por tentativa de golpe de Estado",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ex-presidente-bolsonaro-apresenta-revisao-criminal-contra-condenacao-por-tentativa-de-golpe-de-estado/"
+    }
+  ],
+  "response": "Sim. A Primeira Turma do STF (Supremo Tribunal Federal) condenou o ex-presidente Jair Bolsonaro (PL) a 27 anos e 3 meses de prisão por participação na elaboração de um plano de golpe após as eleições de 2022. Por maioria, Bolsonaro se tornou o primeiro ex-presidente do Brasil a ser condenado por golpe de Estado.\n\n## Detalhes do julgamento\n\nO relator, ministro Alexandre de Moraes, foi acompanhado por Flávio Dino, Cármen Lúcia e Cristiano Zanin. Luiz Fux votou pela absolvição. O placar final foi de 4 a 1.\n\n## Crimes pelos quais foi condenado\n\nForam cinco crimes, todos relacionados à tentativa de impedir a posse do presidente Luiz Inácio Lula da Silva (PT) em 2023:\n\nOrganização criminosa armada; tentativa de abolição violenta do Estado Democrático de Direito; golpe de Estado; dano qualificado pela violência e ameaça grave; e deterioração de patrimônio tombado.\n\nHouve agravante na condenação do ex-presidente por causa do emprego de armas, já que o plano de golpe incluía planos para matar Lula, Geraldo Alckmin (PSB) e Moraes.\n\n## Relação com o 8 de janeiro\n\nA condenação também relaciona Bolsonaro aos atos de 8 de janeiro de 2023, quando as sedes dos Três Poderes foram invadidas e depredadas por milhares de pessoas em Brasília. De acordo com o entendimento do STF, a organização foi incitada pelo ex-presidente, que fomentou e facilitou os ataques com objetivo de romper a ordem constitucional e impedir o funcionamento das instituições.\n\n## Situação atual\n\nO ministro Alexandre de Moraes, do STF, concluiu a ação penal contra Jair Bolsonaro e ordenou o cumprimento da pena de 27 anos e três meses em regime inicial fechado.\n\nRecentemente, a defesa do ex-presidente protocolou no STF um pedido de revisão criminal com o objetivo de anular sua condenação definitiva (transitada em julgado) por tentativa de golpe de Estado. A ação foi distribuída ao ministro Nunes Marques, pois o Regimento Interno do STF determina que, quando a revisão criminal decorrer de dec",
+  "response_no_search": "Sim. Em 11 de setembro de 2025, a Primeira Turma do Supremo Tribunal Federal (STF) condenou o ex-presidente Jair Bolsonaro por crimes relacionados à tentativa de golpe de Estado após sua derrota nas eleições de 2022.\n\nPrincipais pontos da condenação:\n\n- **Crimes**: Bolsonaro foi considerado culpado por crimes como tentativa de abolição violenta do Estado Democrático de Direito, golpe de Estado, organização criminosa armada, dano qualificado e deterioração de patrimônio tombado.\n\n- **Pena**: Foi ",
+  "error": null
+}

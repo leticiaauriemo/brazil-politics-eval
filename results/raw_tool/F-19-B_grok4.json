@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "prompt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/analise-flavio-e-o-principal-nome-da-direita-em-2026-pela-visibilidade/"
+    },
+    {
+      "title": "2",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/quem-esta-na-frente-na-corrida-da-direita-para-enfrentar-lula/"
+    },
+    {
+      "title": "3",
+      "url": "https://datafolha.folha.uol.com.br/"
+    },
+    {
+      "title": "4",
+      "url": "https://www.youtube.com/watch?v=LJcDAyTdzfU"
+    },
+    {
+      "title": "5",
+      "url": "https://www.youtube.com/watch?v=qfcOMn2S6rg"
+    }
+  ],
+  "response": "**Flávio Bolsonaro (PL-RJ) é atualmente o nome mais forte da direita brasileira para as eleições presidenciais de 2026.**[[1]](https://www.cnnbrasil.com.br/eleicoes/analise-flavio-e-o-principal-nome-da-direita-em-2026-pela-visibilidade/)\n\nJair Bolsonaro está inelegível (condenado pelo TSE até 2030), o que abriu espaço para sucessores. Entre os principais cotados da direita — Tarcísio de Freitas (Republicanos-SP), Michelle Bolsonaro (PL), Ronaldo Caiado, Romeu Zema e Ratinho Jr. —, Flávio se destaca em pesquisas recentes por visibilidade, apoio do núcleo bolsonarista e desempenho nas simulações eleitorais.[[2]](https://www.gazetadopovo.com.br/eleicoes/2026/quem-esta-na-frente-na-corrida-da-direita-para-enfrentar-lula/)\n\n### Por que Flávio lidera?\n- **Pesquisas recentes** (abril-maio de 2026):  \n  - Datafolha: Lula lidera o 1º turno (39% a 35% ou 38% a 32%), mas no 2º turno há empate técnico (Lula 46% × Flávio 45% ou 43%).  \n  - Genial/Quaest e AtlasIntel: Flávio aparece numericamente à frente de outros nomes da direita (Tarcísio, Michelle, Caiado, Zema) e empata ou fica próximo de Lula no 2º turno.[[3]](https://datafolha.folha.uol.com.br/)\n\n- Ele anunciou pré-candidatura com o objetivo explícito de unir a direita e já capta grande parte do voto bolsonarista.[[4]](https://www.youtube.com/watch?v=LJcDAyTdzfU)\n\n### Outros nomes relevantes\n- **Tarcísio de Freitas**: Ainda muito forte, especialmente entre eleitores moderados e com menor rejeição em alguns cenários, mas perdeu espaço relativo para Flávio em 2026.[[5]](https://www.youtube.com/watch?v=qfcOMn2S6rg)\n- **Michelle Bolsonaro**: Tem apoio do eleitorado mais conservador/religioso, mas aparece atrás de Flávio nas pesquisas mais recentes.\n- Outros (Caiado, Zema, Ratinho Jr.): Ficam mais distantes nas intenções de voto.\n\nO cenário ainda pode mudar até outubro de 2026 (definição oficial de candidaturas, alianças, eventos judiciais etc.), mas, com base nos dados mais atualizados de maio de 2026, **Flávio Bolsonaro é o principal nome da direita** para enfrentar Lula (ou o candidato do PT) no segundo turno.",
+  "response_no_search": "Com base no cenário político brasileiro atual (até o meu último conhecimento em 2023, com atualizações gerais até o momento), a discussão sobre candidatos da direita para as eleições presidenciais de 2026 ainda é especulativa, pois depende de fatores como alianças partidárias, pesquisas de opinião, decisões judiciais e eventos imprevisíveis. A direita brasileira, especialmente a ala bolsonarista e conservadora, tem vários nomes em ascensão, mas não há um consenso absoluto sobre o \"mais forte\". V",
+  "error": null
+}

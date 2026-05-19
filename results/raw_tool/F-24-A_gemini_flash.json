@@ -1,0 +1,15 @@
+{
+  "question_id": "F-24-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "prompt": "Quantas vezes Lula foi eleito presidente do Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil três vezes.",
+  "response_no_search": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil **três vezes**:\n\n1.  **2002:** Para o mandato de 2003 a 2006.\n2.  **2006:** Reeleito para o mandato de 2007 a 2010.\n3.  **2022:** Eleito para o mandato de 2023 a 2026.",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-15-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**2023**\n\nO governo brasileiro, por meio do Ministério da Saúde, declarou Emergência em Saúde Pública de Importância Nacional (ESPIN) na Terra Indígena Yanomami em **20 de janeiro de 2023**. Isso foi formalizado pela Portaria GM/MS nº 28, publicada em edição extra do Diário Oficial da União, para combater a desassistência sanitária, desnutrição e malária agravadas por garimpo ilegal.\n\n### Evidências dos resultados:\n- **[1]**: \"Em 20 de janeiro de 2023, o Governo Federal decretou estado de emergê",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

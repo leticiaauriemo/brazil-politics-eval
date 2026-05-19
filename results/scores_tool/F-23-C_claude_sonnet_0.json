@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula can run in 2026, explains the constitutional logic regarding consecutive terms, and addresses the minor legal debate and the PEC, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Lula can run in 2026 based on the constitutional interpretation of consecutive mandates and accurately reflects the prevailing legal opinion and the TSE's position."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

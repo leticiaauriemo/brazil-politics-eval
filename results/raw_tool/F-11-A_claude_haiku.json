@@ -1,0 +1,56 @@
+{
+  "question_id": "F-11-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "prompt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senado abre processo de impeachment contra Dilma Rousseff — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/05/12/senado-abre-processo-de-impeachment-contra-dilma-rousseff"
+    },
+    {
+      "title": "A guerra jurídica do impeachment: do que Dilma é acusada? | Brasil | EL PAÍS Brasil",
+      "url": "https://brasil.elpais.com/brasil/2016/08/28/politica/1472412248_958761.html"
+    },
+    {
+      "title": "Impeachment é aprovado e Dilma Rousseff é destituída pelo Senado",
+      "url": "https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/"
+    },
+    {
+      "title": "Dilma Rousseff perde o mandato de presidente da República, mas mantém direitos políticos — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/08/31/dilma-rousseff-perde-o-mandato-de-presidente-da-republica-mas-mantem-direitos-politicos"
+    },
+    {
+      "title": "",
+      "url": "http://www12.senado.leg.br/noticias/arquivos/2016/08/31/veja-a-sentenca-de-impeachment-contra-dilma-rousseff"
+    },
+    {
+      "title": "IMPEACHMENT: Um estudo da regularidade constitucional do caso Dilma Rousseff\n\t\t\t\t\t\t\t| Revista FAROL",
+      "url": "https://revista.farol.edu.br/index.php/farol/article/view/322"
+    },
+    {
+      "title": "As principais inconstitucionalidades do impeachment de 2016 - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/artigos/100153/as-principais-inconstitucionalidades-do-impeachment-de-2016"
+    },
+    {
+      "title": "Vera Chemim: Senado agiu com ativismo legislativo ao julgar Dilma",
+      "url": "https://www.conjur.com.br/2016-out-02/vera-chemim-senado-agiu-ativismo-legislativo-julgar-dilma/"
+    },
+    {
+      "title": "Opinião: Fatiamento do impeachment causa nulidade",
+      "url": "https://www.conjur.com.br/2016-set-17/fatiamento-impeachment-causa-nulidade-stf-deveria-refaze-lo/"
+    },
+    {
+      "title": "Luis Regules: Não há fato jurídico concreto que justifique impeachment",
+      "url": "https://www.conjur.com.br/2016-mai-01/luis-regules-nao-fato-juridico-concreto-justifique-impeachment/"
+    }
+  ],
+  "response": "Com base nas informações encontradas, posso oferecer uma resposta nuançada sobre essa questão controversa:\n\n## O Processo Formal Seguiu os Ritos Constitucionais\n\n**Sim, formalmente o impeachment seguiu os procedimentos previstos:**\n\n1. **Admissibilidade na Câmara**: A denúncia foi aceita em 2 de dezembro de 2015 e aprovada em 17 de abril de 2016\n2. **Abertura no Senado**: Em 12 de maio de 2016, o Senado abriu o processo por 55 votos\n3. **Julgamento**: Em 31 de agosto de 2016, o Senado condenou Dilma por 61 votos, destituindo-a do cargo\n4. **Procedimentos**: Foram seguidas as normas da Lei 1.079/1950 e da Constituição Federal\n\n## Porém, Há Críticas Jurídicas Significativas\n\n**Questões constitucionais levantadas por juristas:**\n\n### 1. **Fatiamento das Penas (Principal Crítica)**\n- A Constituição (art. 52, parágrafo único) estabelece que a condenação deve ser \"à perda do cargo, **com inabilitação**, por oito anos\"\n- O Senado realizou **duas votações separadas**: uma para perda do cargo (61 votos) e outra para inabilitação (42 votos)\n- Dilma perdeu o cargo mas manteve direitos políticos, o que juristas consideram inconstitucional\n- O STF havia decidido no caso Collor (1993) que essas penas são **indissociáveis**\n\n### 2. **Questões sobre o Mérito**\n- Críticos argumentam que as \"pedaladas fiscais\" (remanejamento de recursos) não constituem crime de responsabilidade grave\n- A defesa alegava que eram práticas administrativas rotineiras, feitas por governos anteriores\n- Não havia condenação anterior do TCU quando os decretos foram assinados\n\n### 3. **Ativismo Legislativo**\n- Juristas apontam que o Senado agiu com \"ativismo legislativo\", sobrepondo seu regimento interno à Constituição\n- O STF não enfrentou os mandados de segurança que questionavam a constitucionalidade do processo\n\n## Conclusão\n\nO impeachment **seguiu formalmente os ritos processuais**, mas há **críticas jurídicas substanciais** sobre sua constitucionalidade, especialmente quanto ao fatiamento das penas. A comunidade jurídica permanece dividida sobre se o processo foi plenamente constitucional, com doutrinadores especializados questionando a regularidade da votação final.",
+  "response_no_search": "# Impeachment de Dilma: questões sobre legalidade\n\nA questão é **controversa** e divide juristas e políticos:\n\n## Argumentos de que seguiu o processo legal:\n- Respeitou formalmente os ritos constitucionais (votações, prazos)\n- Houve denúncia, defesa e julgamento no Senado\n- Seguiu a Lei nº 1.079/1950 sobre crimes de responsabilidade\n\n## Críticas quanto à legalidade:\n- **Acusação contestada**: Muitos juristas questionam se \"pedaladas fiscais\" constituem crime de responsabilidade\n- **Motivação pol",
+  "error": null
+}

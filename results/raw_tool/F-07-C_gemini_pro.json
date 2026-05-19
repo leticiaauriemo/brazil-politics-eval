@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bloqueio do X no Brasil: 5 perguntas para entender embate entre Elon Musk e Alexandre de Moraes - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c4gdqq88214o"
+    },
+    {
+      "title": "Bloqueio do X no Brasil: a manobra que fez rede de Musk ... - BBC",
+      "url": "https://www.bbc.com/portuguese/articles/c5y3xy47jxzo"
+    },
+    {
+      "title": "Após retorno 'relâmpago', X acata ordem judicial e deixa de operar novamente no Brasil",
+      "url": "https://oglobo.globo.com/brasil/noticia/2024/09/19/apos-retorno-relampago-x-acata-ordem-judicial-e-deixa-de-operar-novamente-no-brasil.ghtml"
+    },
+    {
+      "title": "X (Twitter) começa a ser bloqueado e brasileiros não estão conseguindo acessar a rede | Internet",
+      "url": "https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm"
+    },
+    {
+      "title": "Rede social X é suspensa no Brasil após ordem de Moraes - G1",
+      "url": "https://g1.globo.com/tecnologia/noticia/2024/08/31/rede-social-x-suspensa-no-brasil.ghtml"
+    }
+  ],
+  "response": "O bloqueio do X (antigo Twitter) no Brasil em 2024 foi resultado de uma ordem judicial do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). A decisão foi motivada pelo descumprimento de ordens judiciais por parte da empresa, incluindo a falta de indicação de um representante legal no país e o não pagamento de multas.\n\nA situação se desenrolou da seguinte forma:\n\n* **Descumprimento de ordens:** O X se recusou a bloquear perfis investigados por supostos ataques à democracia, o que levou à aplicação de multas.\n* **Falta de representante legal:** A empresa não indicou um representante legal no Brasil, o que é exigido pela legislação.\n* **Ameaças e fechamento de escritório:** O X alegou que seus funcionários no Brasil sofreram ameaças, o que levou ao fechamento do escritório da empresa no país.\n* **Intimação e bloqueio:** Após o X não cumprir a intimação para nomear um representante, o ministro Alexandre de Moraes determinou o bloqueio da plataforma em todo o território nacional.\n\nElon Musk, proprietário do X, se manifestou contra as decisões de Moraes, classificando-as como \"ilegais\" e \"censura\". A empresa chegou a afirmar que esperava o bloqueio da plataforma por não cumprir as ordens judiciais.\n\nPortanto, o bloqueio do X no Brasil foi uma consequência de um embate entre a empresa de Elon Musk e o Poder Judiciário brasileiro, e não uma decisão unilateral de Musk.",
+  "response_no_search": "Ótima pergunta. A situação é um pouco mais complexa do que uma simples escolha entre um ou outro, mas a resposta direta é:\n\nA **ameaça de bloqueio** do X",
+  "error": null
+}

@@ -1,0 +1,32 @@
+{
+  "question_id": "F-17-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota"
+    },
+    {
+      "title": "2",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "3",
+      "url": "https://g1.globo.com/economia/noticia/2026/03/17/bc-anuncia-liquidacao-do-banco-master-multiplo-antes-sob-regime-especial-de-administracao.ghtml"
+    },
+    {
+      "title": "4",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/05/15/seis-meses-apos-liquidacao-do-banco-master-r-22-bilhoes-ainda-estao-esquecidos-no-fgc.ghtml"
+    }
+  ],
+  "response": "**Sim**, o Banco Central do Brasil (BCB) decretou a liquidação extrajudicial do Banco Master (e de outras instituições do conglomerado) em **18 de novembro de 2025**.[[1]](https://www.bcb.gov.br/detalhenoticia/20936/nota)\n\nA decisão foi motivada por uma **grave crise de liquidez**, comprometimento significativo da situação econômico-financeira do grupo e graves violações às normas do Sistema Financeiro Nacional (SFN). O conglomerado representava cerca de 0,57% dos ativos totais do SFN.[[2]](https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao)\n\n### Principais pontos:\n- A liquidação extrajudicial foi anunciada oficialmente pelo BCB em nota e está detalhada na página dedicada do site do Banco Central.[[2]](https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao)\n- Posteriormente, em março de 2026, o BCB converteu o regime de outras entidades do grupo (como o Banco Master Múltiplo) também para liquidação extrajudicial.[[3]](https://g1.globo.com/economia/noticia/2026/03/17/bc-anuncia-liquidacao-do-banco-master-multiplo-antes-sob-regime-especial-de-administracao.ghtml)\n- O processo envolve o Fundo Garantidor de Créditos (FGC) para ressarcimento de credores (com limite de cobertura), e o pagamento de valores ainda estava em andamento em 2026.[[4]](https://oglobo.globo.com/economia/financas/noticia/2026/05/15/seis-meses-apos-liquidacao-do-banco-master-r-22-bilhoes-ainda-estao-esquecidos-no-fgc.ghtml)\n\nFontes oficiais e veículos como G1, CNN Brasil e IstoÉ Dinheiro confirmam o fato. Para mais detalhes, consulte a página oficial do BCB sobre o tema.",
+  "response_no_search": "Sim, o Banco Central do Brasil (BCB) decretou a liquidação extrajudicial do Banco Master S.A. em 29 de setembro de 2023. Essa medida foi tomada devido a irregularidades financeiras e operacionais identificadas pela autoridade reguladora.\n\nPara mais detalhes oficiais, recomendo consultar o site do Banco Central (bcb.gov.br) ou comunicados recentes do BCB. Se você tiver mais contexto ou perguntas relacionadas, posso ajudar!",
+  "error": null
+}

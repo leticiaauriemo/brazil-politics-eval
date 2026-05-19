@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly and specifically confirms both arrests of Daniel Vorcaro by Operation Compliance Zero and details the investigations, including the influencer scheme, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the arrest of Daniel Vorcaro but lacks details about the influencer scheme and does not mention the payment of R$8 milhões."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

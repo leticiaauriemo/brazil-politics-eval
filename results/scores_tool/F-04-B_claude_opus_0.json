@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Lula's first government as having the highest annual peak, but incorrectly states the year as 2003 and the area as 'almost 5 million hectares' (which is not in km² and is an overestimation), and then provides the correct 2003 PRODES figure but not the 2004 peak."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that the peak deforestation occurred in 2003 instead of 2004 and misattributes the highest deforestation rates to Bolsonaro, which is misleading."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.5,
+  "agreement": true
+}

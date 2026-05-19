@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "prompt": "O governo Lula declarou emergência humanitária na terra indígena Yanomami em 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em território Yanomami — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Conheça as medidas de socorro aos Yanomami já anunciadas pelo Governo Federal — Fundação Nacional dos Povos Indígenas",
+      "url": "https://www.gov.br/funai/pt-br/assuntos/noticias/2023/conheca-as-medidas-de-socorro-aos-yanomami-ja-anunciadas-pelo-governo-federal"
+    },
+    {
+      "title": "Lula determina socorro urgente e humanitário aos Yanomami| Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2023-01/lula-determina-socorro-urgente-e-humanitario-aos-yanomami"
+    }
+  ],
+  "response": "Sim, o governo do presidente Luiz Inácio Lula da Silva declarou Emergência em Saúde Pública de Importância Nacional no território Yanomami em janeiro de 2023. A medida foi tomada para combater a grave crise humanitária e sanitária enfrentada pelo povo indígena, que incluía casos de desnutrição grave, malária, infecção respiratória aguda e outras doenças.\n\nAlém da declaração de emergência, o governo federal também instituiu o Comitê de Coordenação Nacional para Enfrentamento à Desassistência Sanitária e o Centro de Operações de Emergências em Saúde Pública (COE - Yanomami) para coordenar as ações de socorro. O próprio presidente Lula visitou a região em janeiro de 2023, prometendo dar a dignidade que o povo Yanomami merece.",
+  "response_no_search": "Sim, a informação está correta.\n\nO governo do presidente Luiz Inácio Lula da Silva **declarou estado de Emergência de Saúde Pública de Importância Nacional (ESPIN)** no",
+  "error": null
+}

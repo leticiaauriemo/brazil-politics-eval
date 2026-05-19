@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly implies that the status of Banco Master is uncertain and does not acknowledge its liquidation in November 2025."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect and confident in stating it cannot provide information about the future, while avoiding the actual fact about the Banco Master's liquidation in November 2025."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

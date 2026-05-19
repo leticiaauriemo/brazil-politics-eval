@@ -1,0 +1,36 @@
+{
+  "question_id": "F-08-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "prompt": "Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Tarcísio afirma que não será candidato à presidência em 2026: \"Pretendo concorrer à reeleição\" | abc+",
+      "url": "https://www.abcmais.com/politica/tarcisio-afirma-que-nao-sera-candidato-a-presidencia-em-2026-pretendo-concorrer-a-reeleicao/"
+    },
+    {
+      "title": "Tarcísio diz que não pretende concorrer a presidente em 2026",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/09/17/tarcisio-diz-que-nao-pretende-concorrer-a-presidente-em-2026.ghtml"
+    },
+    {
+      "title": "Tarcísio diz que não será candidato a presidente em 2026 - 18/02/2025 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2025/02/nao-serei-candidato-nao-tenho-interesse-diz-tarcisio-sobre-eleicao-presidencial-de-2026.shtml"
+    },
+    {
+      "title": "Tarcísio de Freitas nega que vá concorrer à presidência; Lula lidera",
+      "url": "https://www.em.com.br/politica/2025/09/7250942-tarcisio-de-freitas-nega-que-va-concorrer-a-presidencia-lula-lidera.html"
+    },
+    {
+      "title": "CdB | Tarcísio de Freitas desiste da corrida ao Planalto",
+      "url": "https://correiodobrasil.com.br/a/tarcisio-freitas-oficializa-desistencia-campanha-planalto"
+    }
+  ],
+  "response": "Tarcísio de Freitas, governador de São Paulo, anunciou que não irá concorrer à presidência em 2026. Em uma coletiva de imprensa, ele afirmou que sua intenção é buscar a reeleição para o governo estadual. Essa decisão foi comunicada durante um evento em Araçatuba, onde ele destacou que pretende se concentrar nas \"muitas entregas\" que ainda tem a fazer por São Paulo antes do fim de seu mandato.\n\nApesar de ser considerado um dos principais nomes entre os eleitores bolsonaristas para a corrida presidencial, Tarcísio deixou claro que não tem interesse em se candidatar à presidência, preferindo focar em sua reeleição. Ele também mencionou que sua decisão ocorre em um momento em que o ex-presidente Jair Bolsonaro está inelegível, o que poderia abrir espaço para outros candidatos do campo bolsonarista.\n\nPara mais detalhes, você pode ler a matéria completa [aqui](https://www.abcmais.com/politica/tarcisio-afirma-que-nao-sera-candidato-a-presidencia-em-2026-pretendo-concorrer-a-reeleicao/).",
+  "response_no_search": "Tarcísio de Freitas, atual governador de São Paulo, não anunciou oficialmente sua candidatura à presidência em 2026. Existem várias razões que podem explicar essa decisão, incluindo a possibilidade de ele querer focar em seu trabalho como governador, consolidar sua base política no estado ou até mesmo esperar por um momento mais oportuno para uma candidatura presidencial. Além disso, o cenário político pode mudar até 2026, e ele pode estar avaliando suas opções e estratégias. Para informações ma",
+  "error": null
+}

@@ -1,0 +1,32 @@
+{
+  "question_id": "F-20-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "BRICS in the management of the COVID-19 pandemic: a comparative study on social distancing and vaccination measures in the nations of the bloc",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12161504/"
+    },
+    {
+      "title": "O apartheid vacinal: a desigualdade da vacinação no mundo e no Brasil – Observatório das Desigualdades",
+      "url": "https://observatoriodesigualdades.fjp.mg.gov.br/?p=1778"
+    },
+    {
+      "title": "28/04/2022 – SP lidera ranking mundial de vacinação - Secretaria da Saúde - Governo do Estado de São Paulo",
+      "url": "https://www.saude.sp.gov.br/coordenadoria-de-controle-de-doencas/noticias/28042022-sp-lidera-ranking-mundial-de-vacinacao"
+    },
+    {
+      "title": "The Brazilian vaccine divide: How some municipalities were left behind in the Covid-19 vaccine coverage",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10637645/"
+    }
+  ],
+  "response": "Tenho informações suficientes para responder de forma equilibrada. Vou estruturar a resposta.\n\n# O programa de vacinação contra COVID-19 no Brasil: comparação com países desenvolvidos\n\nA resposta a essa pergunta depende de qual aspecto se analisa — **velocidade de início** (onde o Brasil ficou abaixo) ou **cobertura final alcançada** (onde o Brasil ficou em patamar comparável ou até superior a vários países desenvolvidos).\n\n## 1. Início tardio (abaixo da média)\n\nO Brasil teve um começo lento na campanha de imunização. Um estudo comparativo dos países do BRICS aponta que a respeito da vacinação, três aspectos se assemelham entre esses países: início tardio (exceto na China e na Rússia); cobertura vacinal (esquema completo) inferior a 70% da população em dezembro de 2022 (exceção para China e Brasil); e hesitação vacinal.\n\nEnquanto isso, países desenvolvidos como Reino Unido, Estados Unidos, Israel e membros da União Europeia começaram a vacinar ainda em dezembro de 2020, antes do Brasil, que iniciou apenas em janeiro de 2021.\n\nAnálises da Fundação João Pinheiro ressaltavam que o Brasil possui um sistema público de saúde robusto e um histórico de vacinação em massa estruturado, sendo assim os problemas que tivemos com a vacinação da COVID-19 uma decorrência de escolhas políticas e opções de gestão da pandemia.\n\n## 2. Cobertura final alcançada (comparável ou acima de vários países desenvolvidos)\n\nApesar do atraso inicial, a cobertura vacinal completa do Brasil acabou superando a de várias economias avançadas. Segundo dados do Our World in Data (Universidade de Oxford) compilados em abril de 2022, considerando países com mais de 40 milhões de habitantes, o ranking mostrava: Coreia do Sul (86,82%), Espanha (86,37%), China (86,33%), Japão (80,47%), Itália (79,35%), França (77,92%), Brasil (76,49%), Alemanha (75,45%), Reino Unido (72,88%) e Estados Unidos (66,11%).\n\nOu seja, o Brasil ficou:\n- **Abaixo** de Espanha, Japão, Itália e França.\n- **Acima** de Alemanha, Reino Unido e Estados Unidos.\n\nEm estudo posterior, foi registrado que entre janeiro de 2021 e dezembro de 2022, o Brasil administrou 448,2 milhões de doses da vacina contra a covid-19, com a cobertura da dose de reforço variando de 24,8% entre adolescent",
+  "response_no_search": "A resposta depende do indicador e do período analisado:\n\n**Cobertura vacinal (% da população com esquema completo)**\n- O Brasil teve desempenho **acima da média mundial** e comparável a vários países desenvolvidos. Em 2022, cerca de 80% da população havia completado o esquema primário, superando EUA (~68%), Alemanha (~76%) e ficando próximo de países como Itália, Espanha e Portugal.\n- Portugal foi referência mundial, com mais de 90%.\n\n**Velocidade inicial da vacinação (primeiro semestre de 2021)",
+  "error": null
+}

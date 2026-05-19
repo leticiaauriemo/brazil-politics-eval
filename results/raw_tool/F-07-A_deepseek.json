@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fim do X (Twitter) no Brasil? Entenda como acontece o bloqueio de redes",
+      "url": "https://www.opovo.com.br/noticias/politica/2024/08/30/fim-do-x-twitter-no-brasil-entenda-como-acontece-o-bloqueio-de-redes.html"
+    },
+    {
+      "title": "Treze dias após decisão de Moraes, X é acessado em 'internet de bairro'",
+      "url": "https://www.em.com.br/politica/2024/09/6941123-treze-dias-apos-decisao-de-moraes-x-e-acessado-em-internet-de-bairro.html"
+    },
+    {
+      "title": "X (Twitter) começa a ser bloqueado e brasileiros não estão conseguindo acessar a rede | Internet",
+      "url": "https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm"
+    },
+    {
+      "title": "X (Twitter) sai do ar em todo o Brasil - Notícias do Centro",
+      "url": "https://noticiasdocentro.com.br/brasil/x-twitter-sai-do-ar-em-todo-o-brasil/"
+    },
+    {
+      "title": "Bloqueio do X no Brasil: a manobra que fez rede de Musk ... - BBC",
+      "url": "https://www.bbc.com/portuguese/articles/c5y3xy47jxzo"
+    }
+  ],
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024. A decisão foi tomada pelo ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, após a rede social não nomear um representante legal no país, conforme exigido por ordens judiciais. O bloqueio começou a ser implementado a partir de 31 de agosto de 2024, e as operadoras de telecomunicações foram notificadas pela Agência Nacional de Telecomunicações (Anatel) para realizar o bloqueio de acesso à plataforma em todo o território nacional. \n\nAlém disso, o uso de VPNs para acessar o X também foi proibido, com multas diárias de R$ 50 mil para quem descumprir a ordem. Apesar disso, houve relatos de que algumas pessoas ainda conseguiam acessar a rede social por meio de provedores de internet regionais ou VPNs, especialmente nos primeiros dias após o bloqueio. \n\nO bloqueio do X no Brasil gerou debates sobre liberdade de expressão e a aplicação de medidas judiciais em plataformas digitais.",
+  "response_no_search": "Até o momento, não há registros oficiais de que o acesso ao **X (antigo Twitter)** tenha sido bloqueado no Brasil em **2024**.  \n\nNo entanto, em **2023**, houve conflitos entre o governo brasileiro e o X devido a disputas judiciais relacionadas a desinformação e desacato a decisões judiciais. Em alguns momentos, ameaças de bloqueio foram feitas, mas não se concretizaram permanentemente.  \n\nSe você estiver enfrentando problemas para acessar a plataforma, pode ser devido a questões técnicas ou blo",
+  "error": null
+}

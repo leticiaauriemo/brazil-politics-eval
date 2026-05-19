@@ -1,0 +1,20 @@
+{
+  "question_id": "F-17-C",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota?utm_source=openai"
+    }
+  ],
+  "response": "Sim. Em 18 de novembro de 2025, o Banco Central do Brasil decretou a liquidação extrajudicial do Banco Master S/A, do Banco Master de Investimento S/A, do Banco Letsbank S/A e da Master S/A Corretora de Câmbio, Títulos e Valores Mobiliários; e colocou o Banco Master Múltiplo S/A em Regime de Administração Especial Temporária (RAET). ([bcb.gov.br](https://www.bcb.gov.br/detalhenoticia/20936/nota?utm_source=openai))\n\nSe quiser, posso resumir o que isso significou para clientes e como funciona a cobertura do",
+  "response_no_search": "ERROR: empty response",
+  "error": null
+}

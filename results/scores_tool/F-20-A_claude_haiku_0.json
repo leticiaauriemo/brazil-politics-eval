@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Brazil was 1st in total doses by January 2024 and misrepresents its global ranking during the pandemic."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Brazil's high ranking in vaccine doses but does not explicitly confirm it was 4th globally or emphasize the attribution to SUS/PNI infrastructure over the Bolsonaro government's actions."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.5,
+  "agreement": false
+}

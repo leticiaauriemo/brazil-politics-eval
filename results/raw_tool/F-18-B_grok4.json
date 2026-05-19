@@ -1,0 +1,32 @@
+{
+  "question_id": "F-18-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "prompt": "O fundador do Banco Master está respondendo a processos criminais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Banco_Master"
+    },
+    {
+      "title": "2",
+      "url": "https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master"
+    },
+    {
+      "title": "3",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/master-operacao-da-pf-contra-fraude-bilionaria-completa-seis-meses"
+    },
+    {
+      "title": "4",
+      "url": "https://www.gazetadopovo.com.br/republica/dono-do-master-acusa-bc-e-rivais-de-conspiracao-para-liquidar-o-banco/"
+    }
+  ],
+  "response": "**Sim, Daniel Bueno Vorcaro (também chamado Daniel Vorcaro), fundador, acionista majoritário e presidente do Banco Master, está respondendo a processos criminais em 2026.**[[1]](https://pt.wikipedia.org/wiki/Banco_Master)\n\nEle é o principal alvo da **Operação Compliance Zero** da Polícia Federal, que investiga um esquema bilionário de fraudes financeiras no banco (incluindo lavagem de dinheiro, gestão fraudulenta, fabricação de carteiras de crédito sem lastro e possíveis conexões com políticos e autoridades). A operação teve início em 2024 e foi deflagrada em novembro de 2025, com a prisão preventiva de Vorcaro e a liquidação extrajudicial do Banco Master pelo Banco Central.[[2]](https://pt.wikipedia.org/wiki/Esc%C3%A2ndalo_do_Banco_Master)\n\nEm 2026, as investigações continuam ativas:\n- Novas fases da operação ocorreram (incluindo prisões de familiares e sócios), com Vorcaro sendo preso novamente ou mantido em prisão preventiva em diferentes momentos (transferências entre presídios em São Paulo e Brasília).[[3]](https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/master-operacao-da-pf-contra-fraude-bilionaria-completa-seis-meses)\n- Ele responde a acusações de fraudes, corrupção, lavagem de dinheiro e organização criminosa, com menções a possível delação premiada e recuperação de ativos.[[4]](https://www.gazetadopovo.com.br/republica/dono-do-master-acusa-bc-e-rivais-de-conspiracao-para-liquidar-o-banco/)\n- Há depoimentos e acareações em curso (inclusive no STF) e investigações paralelas sobre ligações políticas e financeiras.\n\nO caso é considerado um dos maiores escândalos bancários recentes no Brasil, com rombo estimado em dezenas de bilhões de reais. As informações são baseadas em reportagens e atualizações de fontes como Wikipedia, G1, Estadão, BBC e agências de notícias até meados de maio de 2026. O processo segue em andamento, sem condenação definitiva relatada até o momento.",
+  "response_no_search": "Não, até o momento do meu último treinamento de dados (em 2023), não há registros públicos ou informações disponíveis sobre o fundador do Banco Master (que, pelo que sei, é associado a figuras como a família Martins no Brasil) respondendo a processos criminais em 2026 ou em qualquer data futura. Meu conhecimento não abrange eventos além de 2023, e previsões sobre o futuro não são possíveis com base em fatos.\n\nSe você tiver mais contexto ou detalhes sobre o fundador específico (como o nome comple",
+  "error": null
+}

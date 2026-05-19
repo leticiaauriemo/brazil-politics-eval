@@ -1,0 +1,15 @@
+{
+  "question_id": "F-20-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Yes, Brazil surpassed the United States in the proportion of the population fully vaccinated (with two doses or single-dose equivalent) against COVID-19, but this was a temporary milestone in late 2021.**\n\n### Key Evidence from Search Results\n- **November 14, 2021**: Brazil reached 59.8% of its population fully vaccinated, exceeding the US's 57.6% (Sources [1], [2]). This is corroborated by Our World in Data (Oxford University platform), cited in multiple Brazilian outlets like CUT and Butanta",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

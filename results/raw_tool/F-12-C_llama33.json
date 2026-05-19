@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Veja como PGR liga Bolsonaro aos atos antidemocráticos de 8 de janeiro | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/veja-como-pgr-liga-bolsonaro-trama-golpista-de-8-de-janeiro"
+    },
+    {
+      "title": "Entrevistas à CNN: as visões de Lula, Bolsonaro, Moraes e outras autoridades sobre o 8/1 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/entrevistas-a-cnn-as-visoes-de-lula-bolsonaro-moraes-e-outras-autoridades-sobre-o-8-1/"
+    },
+    {
+      "title": "Bolsonaro depõe à PF sobre atos antidemocráticos de 8 de janeiro | Exame",
+      "url": "https://exame.com/brasil/bolsonaro-depoe-a-pf-sobre-atos-antidemocraticos-de-8-de-janeiro/"
+    },
+    {
+      "title": "SciELO  Brazil - Geografia do ressentimento e violência populista: a invasão da Praça dos Três Poderes em 8 de janeiro de 2023  Geografia do ressentimento e violência populista: a invasão da Praça dos Três Poderes em 8 de janeiro de 2023",
+      "url": "https://www.scielo.br/j/op/a/vxNtmzmDjrdnzLvHFDYyzmz/"
+    },
+    {
+      "title": "Bolsonaro volta a lamentar atos de 8 de janeiro e diz que seu governo teve alguns “furos” - ISTOÉ Independente",
+      "url": "https://istoe.com.br/bolsonaro-volta-a-lamentar-atos-de-8-de-janeiro-e-diz-que-seu-governo-teve-alguns-furos"
+    }
+  ],
+  "response": "Não foi possível determinar se Bolsonaro estava no Brasil no dia 8 de janeiro de 2023 com base nas informações fornecidas.",
+  "response_no_search": "Sim, Jair Bolsonaro, o ex-presidente do Brasil, estava nos Estados Unidos no dia 8 de janeiro de 2023, e não no Brasil. Ele havia viajado para os EUA antes da posse do presidente Luiz Inácio Lula da Silva, em 1º de janeiro de 2023, e permaneceu lá por algum tempo.\n\nNo dia 8 de janeiro de 2023, ocorreu um ataque ao Congresso Nacional, ao Supremo Tribunal Federal (STF) e ao Palácio do Planalto, em Brasília, por apoiadores de Bolsonaro que se recusavam a aceitar a derrota nas eleições presidenciais",
+  "error": null
+}

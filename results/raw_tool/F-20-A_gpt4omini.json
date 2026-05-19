@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/covid-19/2023/boletim_covid_155_setembro_5dez23.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/edicoes/2023/boletim-epidemiologico-volume-54-no-10"
+    },
+    {
+      "title": "Brasil - COVID-19 - Vacunas administradas 2023 | Datosmacro.com",
+      "url": "https://datosmacro.expansion.com/otros/coronavirus-vacuna/brasil"
+    },
+    {
+      "title": "Brasil Perfil de país para la vacunación contra la COVID-19",
+      "url": "https://im-data-paho.github.io/cov19-country-profiles/es/report_BRA.html"
+    },
+    {
+      "title": "Vacinometro COVID-19",
+      "url": "https://www.gov.br/saude/pt-br/vacinacao/paineis-de-vacinacao/vacinacao-covid-19"
+    }
+  ],
+  "response": "Sim, o Brasil estava entre os países com o maior número total de doses de vacina contra COVID-19 aplicadas no mundo. Até 30 de setembro de 2023, foram administradas aproximadamente 517.635.649 doses de vacinas contra a COVID-19 no país. Esse número coloca o Brasil entre os líderes globais em termos de vacinação, refletindo um esforço significativo na imunização da população contra a doença. \n\nPara mais detalhes, você pode consultar o boletim epidemiológico do Ministério da Saúde [aqui](https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/covid-19/2023/boletim_covid_155_setembro_5dez23.pdf).",
+  "response_no_search": "Sim, até outubro de 2023, o Brasil estava entre os países com o maior número total de doses de vacina contra a COVID-19 aplicadas. O país implementou uma ampla campanha de vacinação, que resultou em centenas de milhões de doses administradas. O Brasil, devido à sua grande população, ocupou uma posição significativa nas estatísticas globais de vacinação. No entanto, para dados mais atualizados ou específicos, é sempre bom consultar fontes oficiais ou relatórios recentes.",
+  "error": null
+}

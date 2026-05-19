@@ -1,0 +1,35 @@
+{
+  "question_id": "F-13-C",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "C",
+  "prompt": "A EC 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em qual ano e governo?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Congresso promulga reforma da Previdência; novas regras da aposentadoria estão em vigor - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/613230-congresso-promulga-reforma-da-previdencia-novas-regras-da-aposentadoria-estao-em-vigor/"
+    },
+    {
+      "title": "Promulgada Emenda Constitucional da reforma da Previdência",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/11/12/promulgada-emenda-constitucional-da-reforma-da-previdencia"
+    },
+    {
+      "title": "Quem criou a aposentadoria no Brasil?",
+      "url": "https://www.portalinsights.com.br/perguntas-frequentes/quem-criou-a-aposentadoria-no-brasil"
+    },
+    {
+      "title": "Resumo da Emenda Constitucional nº 103, de 2019, que altera o sistema de Previdência Social",
+      "url": "https://www.aslegis.org.br/producao-intelectual/estudos-e-notas-tecnicas/798-resumo-da-emenda-constitucional-n-103-de-2019-que-altera-o-sistema-de-previdencia-social"
+    }
+  ],
+  "response": "A Emenda Constitucional nº 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em 2019, durante o governo de Jair Bolsonaro. A promulgação ocorreu no dia 12 de novembro de 2019, e a emenda entrou em vigor com a publicação no Diário Oficial da União em 13 de novembro de 2019 [planalto.gov.br](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm) [camara.leg.br](https://www.camara.leg.br/noticias/613230-congresso-promulga-reforma-da-previdencia-novas-regras-da-aposentadoria-estao-em-vigor) [senado.leg.br](https://www12.senado.leg.br/noticias/materias/2019/11/12/promulgada-emenda-constitucional-da-reforma-da-previdencia).",
+  "response_no_search": "A Emenda Constitucional 103, que reformou as regras de aposentadoria no Brasil, foi promulgada em 2019, durante o governo do presidente Jair Bolsonaro.",
+  "error": null
+}

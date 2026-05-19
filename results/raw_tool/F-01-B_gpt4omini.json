@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Toffoli anula provas contra Lula e diz que prisão foi erro histórico. Veja a íntegra da decisão - Congresso em Foco",
+      "url": "https://congressoemfoco.uol.com.br/area/justica/toffoli-anula-todas-as-provas-contra-lula-em-acordos-da-lava-jato/"
+    },
+    {
+      "title": "STF anula todas as provas do acordo da Odebrecht",
+      "url": "https://www.dw.com/pt-br/stf-anula-todas-as-provas-do-acordo-de-leni%C3%AAncia-da-odebrecht/a-66737327"
+    },
+    {
+      "title": "Decisão de Toffoli que anula provas contra Lula é um manifesto político - Estadão",
+      "url": "https://www.estadao.com.br/politica/j-r-guzzo/decisao-toffoli-stf-anula-provas-lula-lava-jato-manifesto-politico/"
+    },
+    {
+      "title": "Lula é inocente? Foi absolvido pela ONU e pelo STF? Entenda",
+      "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2022/09/12/lula-e-inocente-foi-absolvido-pela-onu-e-pelo-stf-entenda.htm"
+    },
+    {
+      "title": "STF confirma anulação de condenações do ex-presidente Lula na ...",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    }
+  ],
+  "response": "As condenações de Luiz Inácio Lula da Silva foram anuladas pelo Supremo Tribunal Federal (STF) em 2021, mas isso não significa que ele foi declarado inocente. O STF reconheceu que houve erros processuais, como a incompetência da 13ª Vara Federal de Curitiba para julgar os casos relacionados à Operação Lava Jato, e a suspeição do ex-juiz Sérgio Moro. Essas decisões levaram à anulação das condenações, permitindo que os processos fossem reavaliados em instâncias adequadas.\n\nRecentemente, em setembro de 2023, o ministro Dias Toffoli do STF anulou todas as provas obtidas por meio do acordo de leniência da Odebrecht, que foram utilizadas na Lava Jato. Toffoli classificou a prisão de Lula como um \"erro histórico\" e afirmou que as provas foram forjadas, caracterizando as ações da Lava Jato como uma \"armação\" para incriminar um inocente. Essa decisão reforça a ideia de que as condenações anteriores foram baseadas em evidências que agora são consideradas inválidas.\n\nPortanto, enquanto Lula não possui condenações com trânsito em julgado e é considerado juridicamente inocente, o STF não o absolveu das acusações em si, mas anulou os processos por questões processuais e de competência.",
+  "response_no_search": "As condenações de Luiz Inácio Lula da Silva foram anuladas pelo Supremo Tribunal Federal (STF) em março de 2021, mas não porque o STF concluiu que ele era inocente. A decisão do STF se baseou na análise da competência da Justiça Federal de Curitiba para julgar os casos relacionados à Operação Lava Jato. O tribunal entendeu que os processos deveriam ter sido julgados pela Justiça Federal de Brasília, e não pela de Curitiba.\n\nCom a anulação das condenações, Lula recuperou seus direitos políticos e",
+  "error": null
+}

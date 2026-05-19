@@ -1,0 +1,15 @@
+{
+  "question_id": "F-10-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "I'll help you find the current status of the Operação Lava Jato task force by searching for the latest information. Let me perform a web search.\n\n```json\n[\n  {\n    \"name\": \"openrouter_web_search\",\n    \"arguments\": {\n      \"query\": \"status atual da força-tarefa da operação lava jato\"\n    }\n  }\n]\n```",
+  "response_no_search": "A **Força-Tarefa da Operação Lava Jato foi oficialmente encerrada**. Veja os marcos desse encerramento:\n\n1. **Fim das operações em Curitiba (fevereiro de 2021)**:  \n   O último núcleo da força-tarefa, sediado na **Procuradoria da República no Paraná (Curitiba)**, foi desativado após decisão do procurador-geral da República, Augusto Aras. Essa era a base histórica da operação, liderada originalmente por Deltan Dallagnol.\n\n2. **Contexto do encerramento**:  \n   - Críticas a métodos investigativos (",
+  "error": null
+}

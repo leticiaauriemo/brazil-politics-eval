@@ -1,0 +1,32 @@
+{
+  "question_id": "F-04-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2022/noticia/2022/10/overno-lula-teve-media-de-desmatamento-da-amazonia-legal-maior-que-a-de-bolsonaro-mas-reduziu-indicador-em-61percent.ghtml"
+    },
+    {
+      "title": "2",
+      "url": "https://www.bbc.com/portuguese/brasil-63290268"
+    },
+    {
+      "title": "3",
+      "url": "https://apublica.org/nota/desmatamento-da-amazonia-cai-22-sob-lula-menor-valor-desde-2018/"
+    },
+    {
+      "title": "4",
+      "url": "https://checamos.afp.com/doc.afp.com.32M79GM"
+    }
+  ],
+  "response": "**Maior no governo Lula (2003–2010).**[[1]](https://oglobo.globo.com/politica/eleicoes-2022/noticia/2022/10/overno-lula-teve-media-de-desmatamento-da-amazonia-legal-maior-que-a-de-bolsonaro-mas-reduziu-indicador-em-61percent.ghtml)\n\nOs dados oficiais do PRODES/INPE (monitoramento por satélite do desmatamento por corte raso na Amazônia Legal, com período anual de agosto a julho) mostram que a média anual foi significativamente maior nos dois mandatos de Lula do que nos quatro anos de Bolsonaro.\n\n### Médias anuais aproximadas (km²/ano):\n- **Lula (2003–2010, 8 anos)**: cerca de **15.700 km²/ano**.  \n  Os valores anuais variaram de picos acima de 27 mil km² (2004) até quedas para cerca de 7 mil km² (2009–2010), com forte redução ao longo do período (queda de ~70% de 2004 a 2010).[[2]](https://www.bbc.com/portuguese/brasil-63290268)\n\n- **Bolsonaro (2019–2022, 4 anos)**: cerca de **11.400 km²/ano** (média nos anos do mandato, com valores como ~10.129 km² em 2019, 10.851 km² em 2020, ~13.000 km² em 2021 e 11.594 km² em 2022).[[3]](https://apublica.org/nota/desmatamento-da-amazonia-cai-22-sob-lula-menor-valor-desde-2018/)\n\n### Comparação e contexto\n- A média de Lula foi cerca de 37–40% superior à de Bolsonaro.  \n- Lula herdou taxas muito altas (acima de 25 mil km² no início) e promoveu uma redução expressiva via políticas como o PPCDAm. Bolsonaro recebeu taxas mais baixas (~7.500 km² em 2018) e viu alta inicial (pico em 2021), seguida de leve queda em 2022.[[4]](https://checamos.afp.com/doc.afp.com.32M79GM)\n\nEsses números vêm de fontes oficiais do INPE (via TerraBrasilis e comunicados do governo) e são confirmados em análises independentes e fact-checks. Note que o PRODES mede desmatamento consolidado anual; alertas em tempo real (DETER) mostram tendências semelhantes, mas com valores preliminares menores. Dados mais recentes (pós-2022) indicam quedas sob o terceiro mandato de Lula, mas não alteram a comparação solicitada.",
+  "response_no_search": "Para responder à sua pergunta de forma precisa e baseada em dados oficiais, vou comparar o desmatamento médio anual na Amazônia Legal brasileira durante os períodos mencionados: os dois mandatos de Lula (2003–2010) e o mandato de Bolsonaro (2019–2022). Utilizarei dados do Programa de Monitoramento do Desmatamento na Amazônia Legal por Satélite (PRODES), do Instituto Nacional de Pesquisas Espaciais (INPE), que é a fonte oficial e mais confiável para essas medições. Os valores referem-se ao desmat",
+  "error": null
+}

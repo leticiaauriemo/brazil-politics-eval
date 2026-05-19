@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Após novos ataques ao STF, Moraes suspende rede social e bloqueia até R$ 50 milhões de Marcos do Val",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/08/13/apos-novos-ataques-ao-stf-moraes-suspende-rede-social-e-bloqueia-ate-r-50-milhoes-de-marcos-do-val.ghtml"
+    },
+    {
+      "title": "Moraes determina suspensão das contas de Daniel Silveira nas redes sociais | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/internacional/2021/02/19/moraes-determina-suspensao-das-contas-de-daniel-silveira-nas-redes-sociais"
+    },
+    {
+      "title": "X divulga decisão de Moraes que suspendeu perfil de Do Val",
+      "url": "https://www.poder360.com.br/poder-justica/x-divulga-decisao-de-moraes-sobre-perfil-de-do-val-e-cita-censura/"
+    },
+    {
+      "title": "Moraes manda bloquear rede social e R$ 50 milhões do senador Marcos Do Val - Metro 1",
+      "url": "https://www.metro1.com.br/noticias/justica/154008,moraes-manda-bloquear-rede-social-e-rdollar-50-milhoes-do-senador-marcos-do-val"
+    },
+    {
+      "title": "Ministro Alexandre de Moraes desativa conta no X após multa de R$ 8,1 milhões",
+      "url": "https://spdiario.com.br/noticias/politica/ministro-alexandre-de-moraes-desativa-conta-no-x-apos-multa-de-r-81-milhoes.html"
+    }
+  ],
+  "response": "Sim, um ministro do Supremo Tribunal Federal (STF) pode, individualmente, ordenar a suspensão de contas em redes sociais no Brasil. Há diversos exemplos recentes de decisões do Ministro Alexandre de Moraes nesse sentido.\n\nEle já determinou a suspensão de contas de figuras públicas, como o senador Marcos do Val e o ex-deputado Daniel Silveira, em diferentes redes sociais (Instagram, Facebook, Twitter/X). As justificativas para essas decisões geralmente envolvem a continuidade de ataques à Corte e aos próprios ministros, ou a suspeita de obstrução de investigações.\n\nÉ importante notar que essas decisões geram debates sobre liberdade de expressão e abuso de autoridade, como evidenciado pela crítica do X (antigo Twitter) a uma decisão de Moraes, classificando-a como \"censura\". No entanto, a prerrogativa de um ministro do STF para tomar tais medidas, em casos específicos e sob determinadas justificativas, tem sido exercida.",
+  "response_no_search": "Sim, um ministro do STF pode, individualmente, ordenar a suspensão de contas em redes sociais no Brasil.\n\nEssa possibilidade decorre de alguns fatores:\n\n*   **Poderes do Relator:** Em processos que tramitam no STF, o ministro relator tem amplos poderes para tomar decisões monocráticas (individuais), especialmente em caráter de urgência ou para garantir a efetividade da decisão final. Isso inclui a concessão de liminares (decisões provisórias) que podem determinar a suspensão de contas.\n*   **Nat",
+  "error": null
+}

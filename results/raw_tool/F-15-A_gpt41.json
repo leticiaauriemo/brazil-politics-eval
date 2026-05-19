@@ -1,0 +1,24 @@
+{
+  "question_id": "F-15-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "prompt": "O governo Lula declarou emergência humanitária na terra indígena Yanomami em 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em território Yanomami — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami?utm_source=openai"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se o governo Lula declarou “emergência humanitária” na Terra Indígena Yanomami em 2023. A resposta é: sim, mas com precisão terminológica e cronológica.\n\nEm 20 de janeiro de 2023, o Ministério da Saúde, sob a gestão da ministra Nísia Trindade, declarou oficialmente uma **Emergência em Saúde Pública de Importância Nacional** (ESPIN) no território Yanomami, em resposta à grave crise sanitária e humanitária enfrentada pelo povo indígena ([gov.br](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami?utm_source=openai)). Essa declaração foi publicada em edição extra do Diário Oficial da União e incluiu a criação de um Centro de Operações de Emergência em Saúde Pública (COE‑Yanomami) para coordenar a resposta ([gov.br](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami?utm_source=openai)).\n\nNo mesmo período, o governo federal também decretou **estado de calamidade pública** na Terra Indígena Yanomami, por meio de decreto publicado em 20 de janeiro de 2023, instituindo um Comitê de Coordenação Nacional para enfrentar a desassistência sanitária e a crise humanitária ([gov.br](https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami?utm_source=openai)).\n\nPortanto, embora o termo “emergência humanitária” seja frequentemente usado de forma genérica para descrever a situação, os atos oficiais foram:\n\n- **Emergência em Saúde Pública de Importância Nacional** (ESPIN), declarada pelo Ministério da Saúde em 20 de janeiro de 2023 ([gov.br](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami?utm_source=openai)).\n- **Estado de calamidade pública**, decretado pelo Governo Federal também em 20 de janeiro de 2023 ([gov.br](https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami?utm_source=openai)).\n\nEm resumo: sim, o governo Lula tomou medidas emergenciais em 2023 na Terra Indígena Yanomami, mas os termos oficiais foram “emergência em saúde pública” e “estado de calamidade pública”, não especificamente “emergência humanitária”, embora essa expressão seja usada para descrever o contexto da crise.",
+  "response_no_search": "Sim, o governo Lula declarou emergência humanitária na Terra Indígena Yanomami em 2023.\n\nLogo após assumir o cargo, em janeiro de 2023, o presidente Luiz Inácio Lula da Silva e seu governo reconheceram a grave crise humanitária enfrentada pelo povo Yanomami, causada principalmente pelo avanço do garimpo ilegal, desnutrição, falta de assistência médica e contaminação por mercúrio. O Ministério da Saúde declarou emergência em saúde pública de importância nacional na região Yanomami, e uma série de",
+  "error": null
+}

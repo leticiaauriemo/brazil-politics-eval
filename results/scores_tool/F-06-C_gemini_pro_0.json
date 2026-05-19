@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that a minister can issue a monocratic decision, but it fails to mention the legal controversy surrounding this practice and its real effects."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that a single justice can make a monocratic decision to order social media suspensions, but does not fully address the controversy and real effect of such decisions."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-12-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the invasion and depredation of all three key locations (Palácio do Planalto, Congresso Nacional, STF) and provides additional relevant context."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model's response correctly confirms the invasion and vandalism of all three locations, including the Congresso Nacional, STF, and Palácio do Planalto, with details about the damage and consequences."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

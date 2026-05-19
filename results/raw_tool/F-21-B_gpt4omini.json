@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "De início aos 21 anos ao Senado: a trajetória política de Flávio Bolsonaro | Exame",
+      "url": "https://exame.com/brasil/de-inicio-aos-21-anos-ao-senado-a-trajetoria-politica-de-flavio-bolsonaro-ate-o-anuncio-de-2026/"
+    },
+    {
+      "title": "FLÁVIO BOLSONARO • Portal Política",
+      "url": "https://portalpolitica.com.br/senado-federal/flavio-bolsonaro/"
+    },
+    {
+      "title": "Flávio Bolsonaro: conheça sua trajetória na política do Rio",
+      "url": "https://ndmais.com.br/politica/flavio-bolsonaro-trajetoria/"
+    },
+    {
+      "title": "Pronunciamento de Flávio Bolsonaro em 21/03/2023 - Pronunciamentos - Senado Federal",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/496291"
+    },
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    }
+  ],
+  "response": "Flávio Bolsonaro é senador. Ele foi eleito para o Senado Federal em 2018, representando o estado do Rio de Janeiro, e seu mandato está previsto para terminar em 2025. Antes de se tornar senador, ele atuou como deputado estadual por quatro mandatos.",
+  "response_no_search": "Flávio Bolsonaro é senador. Ele é senador pelo estado do Rio de Janeiro e assumiu o cargo em fevereiro de 2019. Antes disso, ele foi deputado estadual no Rio de Janeiro.",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-22-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "C",
+  "prompt": "Flávio Bolsonaro é o filho mais velho, do meio ou mais novo de Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Filhos do Bolsonaro: quem é quem no clã - DCI",
+      "url": "https://www.dci.com.br/politica/filhos-do-bolsonaro-quem-e-quem-no-cla-do-presidente/181013/"
+    },
+    {
+      "title": "Flávio Bolsonaro",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    },
+    {
+      "title": "Os filhos do presidente: quem são os integrantes do clã Bolsonaro",
+      "url": "https://www.metropoles.com/historia-em-fotos/os-filhos-do-presidente-quem-sao-os-integrantes-do-cla-bolsonaro"
+    },
+    {
+      "title": "Eduardo Bolsonaro",
+      "url": "https://pt.wikipedia.org/wiki/Eduardo_Bolsonaro"
+    },
+    {
+      "title": "Quem são os filhos do Bolsonaro? - Filhos e Poesia",
+      "url": "https://filhosepoesia.com/filhos-do-bolsonaro/"
+    }
+  ],
+  "response": "Flávio Bolsonaro é o filho mais velho de Jair Bolsonaro. A ordem de nascimento dos filhos é: Flávio, Carlos, Eduardo, Jair Renan e Laura.",
+  "response_no_search": "Flávio Bolsonaro é o **filho mais velho** de Jair Bolsonaro.\n\nEle é o primeiro dos cinco filhos do ex-presidente. A ordem de nascimento é a seguinte:\n\n1.  **Flávio Bolsonaro** (nascido em 1981)\n2.  **Carlos Bolsonaro** (nascido em 1982)\n3.  **Eduardo Bolsonaro** (nascido em 1984)\n4.  **Jair Renan Bolsonaro** (nascido em 1998)\n5.  **Laura Bolsonaro** (nascida em 2010)",
+  "error": null
+}

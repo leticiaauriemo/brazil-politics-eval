@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is entirely fabricated, presenting a detailed but fictional account of Bolsonaro's conviction in 2025, including specific dates, sentences, and voting details, which has not occurred."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states the sentence of 27 years and 3 months in closed regime, along with specific details about the crimes and the voting outcome."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

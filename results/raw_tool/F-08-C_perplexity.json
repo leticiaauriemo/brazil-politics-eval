@@ -1,0 +1,15 @@
+{
+  "question_id": "F-08-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "prompt": "Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Por que Tarcísio de Freitas não está concorrendo à presidência em 2026\n\nCom base nos resultados de busca, Tarcísio de Freitas não está concorrendo à presidência em 2026 pelos seguintes motivos:\n\n## 1. **Compromisso com a reeleição em São Paulo**\nTarcísio reiterou diversas vezes que seu foco principal é a reeleição ao governo do estado de São Paulo. Ele afirmou que seu projeto é de longo prazo no estado paulista e que não quer abandonar essa gestão no meio do caminho.\n\n## 2. **Posição estratégi",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

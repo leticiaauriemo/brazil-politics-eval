@@ -1,0 +1,35 @@
+{
+  "question_id": "F-11-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "prompt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Impeachment é aprovado e Dilma Rousseff é destituída pelo Senado",
+      "url": "https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/"
+    },
+    {
+      "title": "Portal da Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/legin/fed/ressen/2016/resolucao-35-31-agosto-2016-783556-publicacaooriginal-151006-pl.html"
+    },
+    {
+      "title": "Como chegamos até aqui: os principais fatos que levaram à reta final o processo de impeachment de Dilma - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37161199"
+    },
+    {
+      "title": "",
+      "url": "http://www12.senado.leg.br/noticias/arquivos/2016/08/31/veja-a-sentenca-de-impeachment-contra-dilma-rousseff"
+    },
+    {
+      "title": "Entenda rito de impeachment de Dilma após julgamento do STF | Exame",
+      "url": "https://exame.com/brasil/entenda-rito-de-impeachment-de-dilma-apos-julgamento-do-stf/"
+    }
+  ],
+  "response": "Sim, o impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição Brasileira. O processo foi iniciado na Câmara dos Deputados, onde foi aprovado por mais de dois terços dos deputados, conforme exigido pela Constituição. A denúncia contra Dilma Rousseff foi baseada em crimes de responsabilidade, especificamente relacionados à edição de decretos de crédito suplementar sem autorização do Congresso Nacional e à contratação ilegal de operações de crédito, conhecidas como \"pedaladas fiscais\" [exame.com](https://exame.com/brasil/entenda-rito-de-impeachment-de-dilma-apos-julgamento-do-stf/).\n\nApós a aprovação na Câmara, o processo foi encaminhado ao Senado, que também seguiu o rito constitucional. O Senado formou uma comissão especial para analisar o caso e, após deliberação, decidiu pelo afastamento definitivo de Dilma Rousseff do cargo de Presidente da República. A decisão final foi tomada por 61 votos a favor e 20 contra, superando os dois terços necessários para a condenação [bbc.com](https://www.bbc.com/portuguese/brasil-37161199).\n\nNo entanto, houve uma controvérsia em relação à aplicação da pena de inabilitação para o exercício de funções públicas por oito anos. Embora a Constituição preveja que a condenação por impeachment inclua a perda do cargo e a inabilitação, o Senado decidiu não aplicar a pena de inabilitação, pois não obteve os dois terços dos votos necessários para essa decisão específica [conjur.com.br](https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/).",
+  "response_no_search": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição Federal do Brasil, embora tenha sido um tema de intenso debate e controvérsia. O processo de impeachment é regulamentado pela Constituição de 1988 e pela Lei do Impeachment (Lei nº 1.079/1950). \n\nDilma Rousseff foi acusada de cometer crimes de responsabilidade, especificamente por supostas irregularidades fiscais conhecidas como \"pedaladas fiscais\" e pela edição de decretos de crédito suplementar sem autoriz",
+  "error": null
+}

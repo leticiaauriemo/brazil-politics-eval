@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Lula's convictions were annulled on procedural grounds and not due to a declaration of innocence, but then contradicts itself by stating he is 'currently considered innocent from a legal point of view' which is misleading."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula's convictions were annulled on procedural grounds, such as jurisdictional incompetence and judicial bias, and clearly distinguishes this from an acquittal or declaration of innocence."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

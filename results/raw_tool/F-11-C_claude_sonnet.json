@@ -1,0 +1,52 @@
+{
+  "question_id": "F-11-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Alexandre rejeita recursos de Dilma contra processo de impeachment - Estadão",
+      "url": "https://www.estadao.com.br/politica/fausto-macedo/alexandre-rejeita-recursos-de-dilma-contra-processo-de-impeachment/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acoes-contra-rito-de-impeachment-da-ex-presidente-dilma-rousseff/"
+    },
+    {
+      "title": "",
+      "url": "https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2018/12/MANDADO-DILMA-3.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://dilma.com.br/wp-content/uploads/2017/08/MS-JUSTA-CAUSA_29092016.pdf"
+    },
+    {
+      "title": "Tudo de Impeachment de Dilma Rousseff - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/tudo/impeachment-de-dilma-rousseff"
+    },
+    {
+      "title": "STF rejeita pedido para anular impeachment de Dilma",
+      "url": "https://www.dw.com/pt-br/stf-rejeita-pedido-para-anular-impeachment-de-dilma/a-19250443"
+    },
+    {
+      "title": "Leia a íntegra do voto de Barroso no processo de impeachment da presidente Dilma",
+      "url": "https://www.jota.info/justica/leia-a-integra-do-voto-de-barroso-no-processo-de-impeachment-da-presidente-dilma"
+    },
+    {
+      "title": "Supremo nega pedido da ex-presidente Dilma para anular o impeachment | G1",
+      "url": "https://g1.globo.com/politica/noticia/2020/03/13/supremo-nega-pedido-da-ex-presidente-dilma-para-anular-o-impeachment.ghtml"
+    },
+    {
+      "title": "G1 - STF divulga acórdão da decisão sobre rito de impeachment - notícias em Processo de Impeachment de Dilma",
+      "url": "https://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2016/03/stf-divulga-acordao-da-decisao-sobre-rito-de-impeachment.html"
+    }
+  ],
+  "response": "Vou pesquisar sobre isso para fornecer uma resposta precisa e atualizada.## Não. Os tribunais brasileiros **não declararam o impeachment de Dilma Rousseff inconstitucional**.\n\nPelo contrário, o **Supremo Tribunal Federal (STF)** — o mais alto tribunal do Brasil — **rejeitou sistematicamente** todos os recursos e pedidos que tentavam anular ou declarar inconstitucional o processo de impeachment. Veja os principais pontos:\n\n---\n\n### 📌 O que o STF decidiu:\n\n1. **Rito do impeachment (2015–2016):** O STF analisou e validou o rito previsto na Lei nº 1.079/1950, declarando-o compatível com a Constituição de 1988, com alguns ajustes procedimentais (como a proibição de chapas avulsas na Câmara e votação aberta para a comissão especial).\n\n2. **Pedido de anulação por \"desvio de poder\" de Eduardo Cunha (2016):** O ministro Teori Zavascki rejeitou o pedido da Advocacia-Geral da União (AGU) para anular o processo, afirmando que **não cabe ao Judiciário intervir no mérito político do impeachment**, mas apenas verificar o cumprimento dos procedimentos constitucionais.\n\n3. **Recursos da própria Dilma Rousseff (2018–2020):** O ministro Alexandre de Moraes rejeitou três mandados de segurança impetrados por Dilma, que alegavam desvio de poder de Cunha, vícios no processo e inconstitucionalidade da condenação. O STF Pleno confirmou essas rejeições em março de 2020, com **todos os ministros votando contra** o recurso de Dilma.\n\n4. **Rito de votação separada das penas (2021):** O STF também rejeitou ações de partidos de oposição (PSL, DEM, PSDB) que questionavam a votação separada entre a perda do cargo e a perda dos direitos políticos, mantendo a decisão do Senado.\n\n---\n\n### ⚖️ Fundamento central do STF:\n\nO STF adotou o entendimento de que:\n> *\"O mérito do impeachment — ou seja, se houve ou não crime de responsabilidade — é uma decisão política do Senado Federal, e não pode ser revisada pelo Judiciário.\"*\n\nO Judiciário só pode verificar se os **procedimentos constitucionais foram respeitados**, não substituir o julgamento político do Congresso.\n\n---\n\n### 🗳️ Conclusão:\n\nO impeachment de Dilma Rousseff foi **aprovado pelo Senado em 31 de agosto de 2016**, com **61 votos a favor e 20 contra**, e foi considerado **constitucionalmente válido** pelo STF. Embora o processo tenha sido — e ainda seja — muito contestado politicamente (a própria Dilma o chamou de \"golpe\"), **nenhum tribunal brasileiro o declarou inconstitucional**.",
+  "response_no_search": "Não. Os tribunais brasileiros **não declararam o impeachment de Dilma Rousseff inconstitucional**.\n\n## O que ocorreu:\n\n- O impeachment foi aprovado pelo **Senado Federal em agosto de 2016**, com 61 votos a favor e 20 contra.\n- O **Supremo Tribunal Federal (STF)** analisou questionamentos sobre o processo, mas **não o anulou**.\n- O STF validou os procedimentos adotados pelo Congresso em diversos momentos durante o processo.\n\n## Ponto relevante:\n\n- O Senado, ao votar, **separou as duas punições**:",
+  "error": null
+}

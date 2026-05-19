@@ -1,0 +1,35 @@
+{
+  "question_id": "F-06-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Veja perfis citados em decisões de Alexandre Moraes divulgadas por deputados dos EUA e por que foram suspensos - Estadão",
+      "url": "https://www.estadao.com.br/politica/veja-perfis-citados-relatorio-alexandre-de-moraes-deputados-estados-unidos-eua-redes-sociais-x-twitter-stf-tse-nprp/"
+    },
+    {
+      "title": "X divulga decisão de Moraes que suspendeu perfil de Do Val",
+      "url": "https://www.poder360.com.br/poder-tech/x-divulga-decisao-de-moraes-sobre-perfil-de-do-val-e-cita-censura/.modal-box--author"
+    },
+    {
+      "title": "Moraes determina que redes sociais bloqueiem perfis do PCO em 24 horas",
+      "url": "https://www.correiobraziliense.com.br/politica/2022/06/5016599-moraes-determina-que-redes-sociais-bloqueiem-perfis-do-pco-em-24-horas.html"
+    },
+    {
+      "title": "Moraes suspende Instagram e manda bloquear até R$ 50 milhões de Marcos do Val",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/moraes-suspende-instagram-e-manda-bloquear-ate-r-50-milhoes-de-marcos-do-val,3feb7cc6b304915e7e063e02b44730e40nvd4n6m.html"
+    },
+    {
+      "title": "Suspensão de perfis das redes por Moraes vira caixa-preta - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2024/06/suspensao-de-perfis-por-moraes-vira-caixa-preta-com-sigilo-e-exclusao-de-pf-e-pgr.shtml"
+    }
+  ],
+  "response": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou a suspensão de vários perfis em redes sociais no Brasil. Essas suspensões estão relacionadas a investigações sobre a disseminação de informações falsas, ataques a instituições democráticas e incitação à violência. Por exemplo, perfis de figuras públicas como o senador Marcos do Val e a deputada Carla Zambelli foram suspensos por divulgarem informações falsas e incitarem a desconfiança nos resultados eleitorais e nas instituições democráticas do país [estadao.com.br](https://www.estadao.com.br/politica/veja-perfis-citados-relatorio-alexandre-de-moraes-deputados-estados-unidos-eua-redes-sociais-x-twitter-stf-tse-nprp/).\n\nAlém disso, Moraes também determinou a suspensão de perfis do Partido da Causa Operária (PCO) por disseminarem ataques e notícias falsas sobre magistrados da Corte [correiobraziliense.com.br](https://www.correiobraziliense.com.br/politica/2022/06/5016599-moraes-determina-que-redes-sociais-bloqueiem-perfis-do-pco-em-24-horas.html).\n\nEssas decisões são frequentemente mantidas sob sigilo, o que dificulta o acompanhamento completo das ações e dos motivos específicos para cada suspensão [folha.uol.com.br](https://www1.folha.uol.com.br/poder/2024/06/suspensao-de-perfis-por-moraes-vira-caixa-preta-com-sigilo-e-exclusao-de-pf-e-pgr.shtml).",
+  "response_no_search": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) do Brasil, tem sido ativo em ordenar a suspensão de perfis em redes sociais em várias ocasiões. Essas ações geralmente estão relacionadas a investigações sobre a disseminação de desinformação, discursos de ódio ou ataques às instituições democráticas. As decisões de Moraes têm gerado debates sobre a liberdade de expressão e o papel do judiciário na regulação do conteúdo online. É importante verificar as notícias mais recentes",
+  "error": null
+}

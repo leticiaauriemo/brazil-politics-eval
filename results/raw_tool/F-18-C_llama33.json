@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "prompt": "A Operação Compliance Zero resultou na prisão do dono do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Caso Master: entenda a Operação Compliance Zero, investigação da PF que levou à prisão de Daniel Vorcaro",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/03/04/caso-master-entenda-a-operacao-compliance-zero-investigacao-da-pf-que-levou-a-prisao-de-daniel-vorcaro.ghtml"
+    },
+    {
+      "title": "Dono do Banco Master, Daniel Vorcaro é preso em operação da PF",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-daniel-vorcaro-e-preso-em-operacao-da-pf,881c45affdce2a196f27d76e8ce2f903fbe125yi.html"
+    },
+    {
+      "title": "Daniel Vorcaro, dono do Banco Master, é preso novamente em operação da PF",
+      "url": "https://viva.com.br/noticias/daniel-vorcaro-dono-do-banco-master-e-preso-novamente-em-operacao-da-pf.html"
+    },
+    {
+      "title": "CdB | Operação Compliance Zero: Daniel Vorcaro Preso",
+      "url": "https://correiodobrasil.com.br/a/operacao-compliance-zero-avanca-prende-daniel-vorcaro"
+    },
+    {
+      "title": "Justiça solta Daniel Vorcaro, dono do Banco Master | Exame",
+      "url": "https://exame.com/brasil/justica-manda-soltar-daniel-vorcaro-dono-do-banco-master/"
+    }
+  ],
+  "response": "A Operação Compliance Zero resultou na prisão do dono do Banco Master, Daniel Vorcaro. Ele foi preso pela primeira vez em 18 de novembro de 2024, durante uma operação da Polícia Federal, e posteriormente solto após decisão do Tribunal Regional Federal da 1ª Região. No entanto, ele foi preso novamente em 4 de março de 2026, durante a terceira fase da Operação Compliance Zero, que investiga suspeitas de fraudes no sistema financeiro. A operação também resultou na prisão de outros investigados e no bloqueio de bens que podem chegar a R$ 22 bilhões.",
+  "response_no_search": "Sim, a Operação Compliance Zero, deflagrada em 2018, resultou na prisão de Lúcio Bolonha Funaro, dono do Banco Master, além de outros envolvidos. A operação investigou um esquema de lavagem de dinheiro e corrupção envolvendo o banco e políticos.",
+  "error": null
+}

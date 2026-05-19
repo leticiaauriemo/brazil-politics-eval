@@ -1,0 +1,32 @@
+{
+  "question_id": "F-09-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/13/representante-da-pfizer-confirma-governo-nao-respondeu-ofertas-feitas-em-agosto-de-2020"
+    },
+    {
+      "title": "2",
+      "url": "https://www.bbc.com/portuguese/brasil-57104347"
+    },
+    {
+      "title": "3",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-got-no-response-offers-supply-vaccine-brazil-last-year-exec-says-2021-05-13/"
+    },
+    {
+      "title": "4",
+      "url": "https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Brazil"
+    }
+  ],
+  "response": "**Não, o Ministério da Saúde não comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020.**[[1]](https://www12.senado.leg.br/noticias/materias/2021/05/13/representante-da-pfizer-confirma-governo-nao-respondeu-ofertas-feitas-em-agosto-de-2020)\n\nA Pfizer fez pelo menos três propostas formais ao Ministério da Saúde em agosto de 2020 (nos dias 14, 18 e 26), oferecendo 30 ou 70 milhões de doses no total, com possibilidade de entrega de até 1,5 milhão de doses ainda em 2020 (além de volumes maiores em 2021). Essas ofertas não receberam resposta do governo federal.[[2]](https://www.bbc.com/portuguese/brasil-57104347)\n\nIsso foi confirmado em depoimento à CPI da Covid-19 pelo então presidente da Pfizer na América Latina, Carlos Murillo, que relatou a ausência de resposta às propostas enviadas ao Ministério da Saúde (e até ao presidente da República). As negociações efetivas só avançaram depois, com o primeiro contrato de 100 milhões de doses assinado apenas em março de 2021.[[3]](https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-got-no-response-offers-supply-vaccine-brazil-last-year-exec-says-2021-05-13/)\n\nFontes como Reuters, BBC, CNN Brasil e o próprio site do Senado corroboram que o governo ignorou ou não respondeu às ofertas iniciais de 2020, priorizando outras vacinas (como as de Oxford/AstraZeneca e Sinovac/Butantan, produzidas no Brasil). A Anvisa só aprovou a vacina da Pfizer em fevereiro de 2021, e as primeiras doses chegaram ao país em abril daquele ano.[[4]](https://en.wikipedia.org/wiki/COVID-19_vaccination_in_Brazil)\n\nResumindo: as vacinas da Pfizer foram oferecidas em 2020, mas não foram adquiridas na época devido à falta de resposta governamental.",
+  "response_no_search": "Não, o Ministério da Saúde do Brasil não comprou as vacinas da Pfizer quando elas foram oferecidas pela primeira vez em 2020. Vamos contextualizar isso com base em fatos históricos conhecidos:\n\n### Contexto:\n- Em julho e agosto de 2020, a Pfizer fez propostas ao governo brasileiro para fornecer milhões de doses da vacina contra a COVID-19 (desenvolvida em parceria com a BioNTech). Essas ofertas incluíam entregas ainda em 2020 e no início de 2021.\n- No entanto, o governo federal, sob a presidênci",
+  "error": null
+}

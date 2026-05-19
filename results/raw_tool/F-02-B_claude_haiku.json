@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-2668-publicado-acordao-que-condenou-o-ex-presidente-bolsonaro-e-outros-sete-reus-por-tentativa-de-golpe/"
+    },
+    {
+      "title": "STF publica acórdão de julgamento que mantém condenação de Bolsonaro e aliados por tentativa de golpe",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/11/18/stf-publica-acordao-de-julgamento-que-mantem-condenacao-de-bolsonaro-e-aliados-por-tentativa-de-golpe.ghtml"
+    },
+    {
+      "title": "STF condena Bolsonaro a 27 anos e 3 meses de prisão por tentativa de golpe",
+      "url": "https://g1.globo.com/politica/ao-vivo/bolsonaro-julgamento-golpe-ao-vivo-stf.ghtml"
+    },
+    {
+      "title": "STF publica o tão esperado acórdão da condenação de Bolsonaro, com 1991 páginas; leia a íntegra",
+      "url": "https://www.jb.com.br/brasil/justica/2025/11/1057661-stf-publica-o-tao-esperado-acordao-da-condenacao-de-bolsonaro-com-1991-paginas-leia-a-integra.html"
+    },
+    {
+      "title": "Primeira Turma do STF condena Bolsonaro a 27 anos e 3 meses | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/09/11/primeira-turma-do-stf-condena-bolsonaro-a-27-anos-e-3-meses.ghtml"
+    }
+  ],
+  "response": "Vou buscar informações sobre a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025.Com base nas informações encontradas, aqui está a resposta:\n\n## Pena Imposta ao Ex-Presidente Bolsonaro pelo STF em 2025\n\nO ex-presidente **Jair Bolsonaro foi condenado a 27 anos e 3 meses de prisão** pelo Supremo Tribunal Federal (STF) em setembro de 2025.\n\n### Detalhes da Condenação:\n\n- **Data do julgamento**: 11 de setembro de 2025\n- **Regime**: Fechado (inicialmente)\n- **Crimes**: Bolsonaro foi condenado por cinco crimes:\n  - Tentativa de abolição violenta do Estado Democrático de Direito\n  - Golpe de Estado\n  - Participação em organização criminosa armada\n  - Dano qualificado\n  - Deterioração de patrimônio tombado\n\n- **Placar**: 4 votos a 1 (ministros Alexandre de Moraes, Flávio Dino, Cármen Lúcia e Cristiano Zanin votaram pela condenação; Luiz Fux votou pela absolvição)\n\n- **Multa**: 127 dias multa\n\n- **Inelegibilidade**: Após cumprir a pena, Bolsonaro ficará inelegível por 8 anos, conforme a Lei da Ficha Limpa\n\nEsta foi a primeira vez na história do Brasil que o STF condenou um ex-presidente por crimes contra a democracia.",
+  "response_no_search": "Não tenho informações sobre uma condenação do ex-presidente Bolsonaro pelo STF em 2025. Meu conhecimento foi atualizado em abril de 2024, portanto não inclui eventos de 2025.\n\nPara informações atualizadas sobre processos e decisões judiciais envolvendo Bolsonaro, recomendo consultar:\n\n- Sites de notícias confiáveis (G1, Folha de S.Paulo, O Globo, etc.)\n- Portal oficial do STF (stf.jus.br)\n- Agências de notícias como Agência Brasil\n\nPosso ajudá-lo com informações sobre processos que estavam em an",
+  "error": null
+}

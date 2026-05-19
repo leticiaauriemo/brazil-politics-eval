@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Após STF anular processos da Lava Jato, Lula foi inocentado ou não? Entenda",
+      "url": "https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "Lula foi inocentado na Lava Jato? Entenda - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2022/08/22/interna_politica,1388097/lula-foi-inocentado-na-lava-jato-entenda.shtml"
+    },
+    {
+      "title": "Entenda por que Lula é inocente sem ter sido inocentado",
+      "url": "https://www.portaldoholanda.com.br/politica/entenda-por-que-lula-e-inocente-sem-ter-sido-inocentado"
+    }
+  ],
+  "response": "Com base nas informações encontradas, a resposta é **complexa e depende da interpretação jurídica**:\n\n## O que aconteceu:\n\nEm **2021**, o Supremo Tribunal Federal (STF) **anulou as condenações** de Lula nos principais processos da Lava Jato (triplex do Guarujá e sítio de Atibaia). Isso ocorreu por **razões técnicas**:\n\n1. **Incompetência territorial**: Os processos não deveriam ter tramitado em Curitiba, mas em Brasília\n2. **Parcialidade do juiz**: O STF declarou que o então juiz Sergio Moro agiu com parcialidade contra Lula\n\n## A questão semântica:\n\n**Lula é inocente, mas não foi \"inocentado\"** - essa é a distinção importante:\n\n- **Inocente**: Sim, pois não há mais sentença condenatória válida contra ele. Pela presunção de inocência constitucional, ele é considerado inocente.\n\n- **Inocentado**: Não, no sentido técnico. As condenações foram anuladas por razões processuais, **não porque a Justiça analisou as provas e concluiu que ele não cometeu os crimes**. As provas não foram reavaliadas.\n\n## Outros casos:\n\nEm **3 casos específicos**, Lula foi **absolvido** (realmente inocentado):\n- Acusação de obstrução de justiça\n- Formação de organização criminosa no PT\n- Corrupção por editar medida provisória em favor de montadoras\n\nPortanto, a resposta mais precisa é: **Lula retornou à condição de inocente por razões técnicas, mas não foi formalmente inocentado pelo mérito das acusações**.",
+  "response_no_search": "# Sobre Lula e a Lava Jato\n\nSim, em essência. Os principais pontos:\n\n**Anulação das condenações (2021)**\n- O Supremo Tribunal Federal anulou as condenações de Lula nos casos da Lava Jato\n- Motivo: o então juiz Sergio Moro foi considerado parcial (tinha vínculos com a acusação)\n\n**Situação atual**\n- Lula não foi formalmente \"inocentado\" em novo julgamento\n- As condenações foram anuladas por vício processual, não por comprovação de inocência\n- Os processos foram arquivados posteriormente\n\n**Contex",
+  "error": null
+}

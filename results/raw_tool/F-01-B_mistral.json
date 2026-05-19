@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df/"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "STF confirma anulação de condenações da Lava Jato contra Lula — entenda - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56768338"
+    },
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "Lula é inocente? O que significa ter as condenações anuladas pelo ...",
+      "url": "https://noticias.uol.com.br/eleicoes/2022/10/28/lula-e-inocente-o-que-significa-ter-as-condenacoes-anuladas-pelo-stf.htm"
+    }
+  ],
+  "response": "As condenações do ex-presidente Luiz Inácio Lula da Silva foram anuladas pelo Supremo Tribunal Federal (STF) não porque ele foi considerado inocente, mas devido a questões processuais e de competência.\n\nO ministro Edson Fachin, do STF, determinou a anulação das condenações de Lula porque considerou que os casos não tinham relação direta com a Petrobras e, portanto, não deveriam ter tramitado na 13ª Vara Federal de Curitiba. Além disso, o STF considerou que o ex-juiz Sergio Moro atuou de forma parcial, comprometendo o direito de Lula a um julgamento justo .\n\nCom a anulação das condenações, Lula recuperou seu status de inocente perante a Justiça, conforme o princípio constitucional da presunção de inocência, que estabelece que ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória. Isso significa que, sem uma condenação definitiva, ele é considerado inocente .\n\nPortanto, a anulação das condenações não se deu por uma conclusão de inocência, mas por questões técnicas e processuais, o que levou à reintegração do status de inocência de Lula conforme previsto na Constituição.",
+  "response_no_search": "Não, as condenações de Luiz Inácio Lula da Silva, conhecido como Lula, não foram anuladas porque o Supremo Tribunal Federal (STF) concluiu que ele era inocente. A anulação das condenações de Lula ocorreu em março de 2021, quando o ministro Edson Fachin, do STF, decidiu anular todos os processos e condenações relacionados às ações penais que corriam na 13ª Vara Federal de Curitiba, sob a responsabilidade do ex-juiz Sérgio Moro.\n\nA decisão de Fachin foi baseada na suspeição de Moro, que mais tarde",
+  "error": null
+}

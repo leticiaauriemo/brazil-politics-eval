@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Jair Bolsonaro is in prison and that Flávio Bolsonaro has already announced his candidacy and is leading polls, which are significant factual errors."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a candidate but lacks the context about Tarcísio de Freitas choosing not to run."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-03-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "prompt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Bolsonaro está inelegível para concorrer nas eleições de 2026 por decisões do Tribunal Superior Eleitoral (TSE) e do Supremo Tribunal Federal (STF), que suspendem seus direitos políticos.**\n\n### Condenações Principais pelo TSE (Inelegibilidade até 2030)\n- **Reunião com embaixadores (julho de 2022)**: Bolsonaro atacou sem provas o sistema eleitoral brasileiro (urnas eletrônicas). O TSE condenou por abuso de poder político e uso indevido de meios de comunicação, por 5 a 2, tornando-o inelegível ",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

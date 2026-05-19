@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Master e preserva sistema financeiro nacional | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml"
+    },
+    {
+      "title": "Entenda por que o BC decretou a liquidação do Banco Master | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/entenda-por-que-o-bc-decretou-a-liquidacao-do-banco-master/"
+    },
+    {
+      "title": "BC decreta liquidação do Banco Master e põe fim a acordo com Fictor",
+      "url": "https://mais.opovo.com.br/jornal/economia/2025/11/19/bc-decreta-liquidacao-do-banco-master-e-poe-fim-a-acordo-com-fictor.html"
+    }
+  ],
+  "response": "Sim, o Banco Central do Brasil decretou a liquidação extrajudicial do Banco Master.\n\n**Motivos da liquidação:**\nA decisão foi tomada devido a uma grave crise de liquidez, ao comprometimento da situação econômico-financeira do banco e a graves violações das normas do sistema financeiro. As investigações apontam para uma fraude de R$ 12 bilhões, na qual a instituição teria criado carteiras de crédito e fundos falsos para manter sua liquidez.\n\n**O que acontece agora?**\nCom a liquidação, o Banco Master deixa de operar e será retirado do Sistema Financeiro Nacional. Um liquidante foi nomeado pelo Banco Central para administrar a massa falida, apurar os ativos e pagar os credores.\n\n**E os clientes e investidores?**\nOs clientes e investidores que possuem depósitos ou investimentos cobertos pelo Fundo Garantidor de Créditos (FGC) terão seus valores ressarcidos até o limite de R$ 250.000 por CPF. O liquidante será responsável por organizar a lista de credores para o pagamento.",
+  "response_no_search": "Não, o Banco Central **não decretou a liquidação do Banco Master**. O Banco Master está em plena operação e é uma instituição financeira ativa e regulada pelo Banco Central do Brasil.",
+  "error": null
+}

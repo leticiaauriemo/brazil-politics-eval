@@ -1,0 +1,20 @@
+{
+  "question_id": "F-07-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bloqueio do X no Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil?utm_source=openai"
+    }
+  ],
+  "response": "O bloqueio da rede social X (antigo Twitter) no Brasil em 2024 foi **decisão judicial**, e não uma iniciativa de Elon Musk. A seguir, explico os principais pontos com base em fontes confiáveis:\n\n- Em **30 de agosto de 2024**, o ministro do Supremo Tribunal Federal (STF), **Alexandre de Moraes**, determinou a **suspensão imediata, completa e integral** do funcionamento da X Brasil Internet Ltda. e demais empresas relacionadas a Elon Musk no país. A medida foi motivada pelo descumprimento de ordens judiciais, especialmente a recusa da empresa em nomear um representante legal no Brasil dentro do prazo estipulado ([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil?utm_source=openai)).\n\n- A decisão judicial foi tomada após a empresa, pertencente a Elon Musk, ter descontinuado suas operações no Brasil e ignorado diversas determinações judiciais, incluindo a nomeação de um representante legal ([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil?utm_source=openai)).\n\n- A suspensão vigorou até **8 de outubro de 2024**, quando o X finalmente cumpriu todas as exigências: nomeou representante legal no país, pagou multas (cerca de R$ 28,6 milhões) e atendeu às ordens judiciais pendentes. Com isso, o ministro Alexandre de Moraes autorizou o retorno das operações da plataforma no Brasil ([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil?utm_source=openai)).\n\nPortanto, o bloqueio não foi uma decisão de Elon Musk, mas sim uma **medida judicial imposta pelo STF**, em resposta ao descumprimento de ordens legais por parte da empresa.",
+  "response_no_search": "O bloqueio do X (antigo Twitter) no Brasil em 2024 **não foi uma decisão de Elon Musk**, mas sim resultado de **ordens judiciais brasileiras**.\n\n**Contexto:**\n- O Supremo Tribunal Federal (STF), especialmente o ministro Alexandre de Moraes, determinou que o X bloqueasse contas específicas por suspeita de disseminação de desinformação, ataques à democracia e outros crimes.\n- O X, sob comando de Elon Musk, inicialmente cumpriu as ordens, mas Musk passou a criticar publicamente as decisões judiciai",
+  "error": null
+}

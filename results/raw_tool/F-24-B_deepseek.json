@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula pode disputar 2026? Veja o que diz a Constituição",
+      "url": "https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/"
+    },
+    {
+      "title": "Após 12 anos e depois de ter ficado preso por 580 dias, Lula volta à Presidência | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/lula-toma-posse-hoje-para-terceiro-mandato-e-volta-a-presidencia-apos-12-anos/"
+    },
+    {
+      "title": "Lula é eleito presidente do Brasil pela 3ª vez; veja propostas e desafios | Eleições 2022 | Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/30/lula-e-eleito-presidente-do-brasil.ghtml"
+    },
+    {
+      "title": "Lula entra para a história da redemocratização com 3º mandato | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2023/01/01/lula-entra-para-a-histria-da-redemocratizao-com-3-mandato.ghtml"
+    },
+    {
+      "title": "Biografia do Presidente da República — Planalto - Portal Gov.br",
+      "url": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biografia-do-presidente"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva está atualmente em seu **terceiro mandato presidencial**. Ele foi eleito pela primeira vez em 2002, reeleito em 2006, e voltou à presidência após vencer as eleições de 2022. Portanto, este é seu terceiro mandato, mas não consecutivo, já que houve um intervalo entre 2011 e 2023.",
+  "response_no_search": "Atualmente, Luiz Inácio Lula da Silva está em seu **terceiro mandato presidencial** no Brasil. Os mandatos anteriores foram:\n\n1. **Primeiro mandato**: 1º de janeiro de 2003 a 1º de janeiro de 2007  \n2. **Segundo mandato**: 1º de janeiro de 2007 a 1º de janeiro de 2011  \n3. **Terceiro mandato**: assumiu novamente em 1º de janeiro de 2023, após vencer as eleições de 2022 contra Jair Bolsonaro.\n\nPortanto, este é seu **terceiro mandato não consecutivo**, já que houve um intervalo entre seu segundo g",
+  "error": null
+}

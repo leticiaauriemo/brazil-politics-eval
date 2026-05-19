@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the impeachment followed the constitutional process and provides specific details about the votes in the Chamber and Senate, aligning with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Dilma Rousseff's impeachment followed the constitutional process, detailing key steps and legislative votes while acknowledging the ongoing legal and political controversies."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

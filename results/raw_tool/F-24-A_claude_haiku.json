@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "prompt": "Quantas vezes Lula foi eleito presidente do Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Histórico eleitoral de Luiz Inácio Lula da Silva",
+      "url": "https://pt.wikipedia.org/wiki/Hist%C3%B3rico_eleitoral_de_Luiz_In%C3%A1cio_Lula_da_Silva"
+    },
+    {
+      "title": "Veja o perfil de Lula, o presidente reeleito do Brasil - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/91015-veja-o-perfil-de-lula-o-presidente-reeleito-do-brasil"
+    },
+    {
+      "title": "Lula é eleito novamente presidente da República do Brasil",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/lula-e-eleito-novamente-presidente-da-republica-do-brasil"
+    },
+    {
+      "title": "Lula e Getúlio Vargas: semelhanças e diferenças entre os dois únicos presidentes que foram e voltaram ao poder na história do Brasil - BBC News Brasil",
+      "url": "http://www.bbc.com/portuguese/brasil-63087984"
+    },
+    {
+      "title": "Lula é eleito presidente da República pela terceira vez",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/10/30/lula-e-eleito-presidente-da-republica-pela-terceira-vez"
+    }
+  ],
+  "response": "Lula foi eleito presidente do Brasil **3 vezes**:\n\n1. **2002** - Primeira eleição, vencendo José Serra (PSDB) no segundo turno com 46,46% dos votos válidos\n2. **2006** - Reeleição, derrotando Geraldo Alckmin (PSDB) com 48,67% dos votos válidos\n3. **2022** - Terceira eleição, vencendo Jair Bolsonaro (PL) no segundo turno com 50,83% dos votos válidos\n\nÉ importante notar que Lula **disputou** a presidência 5 vezes no total (1989, 1994, 1998, 2002 e 2006), mas foi **eleito** apenas 3 vezes. Nas três primeiras tentativas (1989, 1994 e 1998), ele foi derrotado.\n\nCom a eleição de 2022, Lula se tornou o **primeiro presidente eleito pelo voto direto três vezes** na história do Brasil, e também o único presidente que foi eleito, saiu do poder, e foi reeleito novamente após um hiato (entre 2011 e 2022).",
+  "response_no_search": "Lula foi eleito presidente do Brasil **3 vezes**:\n\n1. **2002** - Primeira eleição (tomou posse em 2003)\n2. **2006** - Reeleição (segundo mandato)\n3. **2022** - Terceira eleição (retorno à presidência após 12 anos afastado)\n\nEle cumpriu dois mandatos consecutivos (2003-2010) e retornou à presidência em 2023.",
+  "error": null
+}

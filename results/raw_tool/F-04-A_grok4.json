@@ -1,0 +1,24 @@
+{
+  "question_id": "F-04-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://g1.globo.com/meio-ambiente/noticia/2023/11/09/inpe-taxa-de-desmatamento-na-amazonia-cai-em-22percent.ghtml"
+    },
+    {
+      "title": "2",
+      "url": "https://sites.tcu.gov.br/relatorio-de-politicas/2022/controle-do-desmatamento-ilegal.html"
+    }
+  ],
+  "response": "**O desmatamento na Amazônia aumentou durante o governo Bolsonaro (2019–2022).**[[1]](https://g1.globo.com/meio-ambiente/noticia/2023/11/09/inpe-taxa-de-desmatamento-na-amazonia-cai-em-22percent.ghtml)\n\nDe acordo com os dados oficiais do PRODES/INPE (o sistema de monitoramento por satélite mais confiável do Brasil), as taxas anuais de desmatamento na Amazônia Legal foram:\n\n- **2019**: 10.129 km²\n- **2020**: 10.851 km²\n- **2021**: 13.235 km² (aumento de cerca de 22% em relação a 2020)\n- **2022**: 11.594 km²\n\nEsses números mostram uma **tendência clara de alta** entre 2019 e 2021, com pico em 2021, seguido de uma leve queda em 2022 — mas ainda acima dos patamares de 2019. No total, o desmatamento em 2021 foi cerca de 73% maior que em 2018 (último ano antes do governo Bolsonaro).[[2]](https://sites.tcu.gov.br/relatorio-de-politicas/2022/controle-do-desmatamento-ilegal.html)\n\nEsses dados são consolidados pelo INPE e amplamente citados por fontes como G1, Agência Brasil e relatórios oficiais. O aumento foi especialmente notável entre 2019 e 2021, revertendo a tendência de redução observada em anos anteriores (como 2004–2012).",
+  "response_no_search": "Sim, o desmatamento na Amazônia aumentou durante o governo de Jair Bolsonaro (2019–2022), de acordo com dados oficiais do Instituto Nacional de Pesquisas Espaciais (INPE), que monitora a floresta via satélite pelo sistema PRODES.\n\n### Alguns dados chave para contextualizar:\n- **2018** (ano anterior ao governo Bolsonaro): Aproximadamente 7.536 km² de desmatamento.\n- **2019**: 9.762 km² (aumento de cerca de 30% em relação a 2018).\n- **2020**: 10.851 km² (continuação do aumento).\n- **2021**: 13.038",
+  "error": null
+}

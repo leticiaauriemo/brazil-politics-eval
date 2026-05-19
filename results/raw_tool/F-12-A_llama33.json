@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "8 de janeiro de 2023 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 ...",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "8 de Janeiro: relembre atentado golpista que marcou a história política do Brasil | Política",
+      "url": "https://www.meionews.com/politica/8-de-janeiro-relembre-atentado-golpista-que-marcou-a-historia-politica-do-brasil-551724/slide/137871"
+    },
+    {
+      "title": "Relembre imagens que marcaram o 8 de janeiro de 2023 - CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/relembre-imagens-que-marcaram-o-8-de-janeiro-de-2023/"
+    },
+    {
+      "title": "atos de 8 de janeiro de 2023 | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/tags/atos-de-8-de-janeiro-de-2023"
+    }
+  ],
+  "response": "No dia 8 de janeiro de 2023, apoiadores do ex-presidente Jair Bolsonaro invadiram as sedes dos Três Poderes, em Brasília, sendo elas: o Congresso Nacional, o Supremo Tribunal Federal (STF) e o Palácio do Planalto. O ato aconteceu uma semana após a posse do novo presidente eleito, Luiz Inácio Lula da Silva, e foi justificado como um protesto. Durante a invasão, obras de arte, vidros, computadores, móveis, documentos, armas de choque e outros objetos foram depredados ou roubados.",
+  "response_no_search": "No dia 8 de janeiro de 2023, o Brasil enfrentou um evento significativo e preocupante. Nesse dia, um grupo de apoiadores do ex-presidente Jair Bolsonaro, que não aceitavam a derrota eleitoral dele para Luiz Inácio Lula da Silva nas eleições presidenciais de 2022, invadiram e vandalizaram prédios públicos na capital federal, Brasília, incluindo o Palácio do Planalto, o Supremo Tribunal Federal (STF) e o Congresso Nacional.\n\nEsses apoiadores, muitos dos quais estavam armados e vestidos com roupas ",
+  "error": null
+}

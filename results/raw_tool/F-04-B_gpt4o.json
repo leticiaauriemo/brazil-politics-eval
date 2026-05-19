@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro ou Lula: em qual governo a taxa de desmatamento na Amazônia foi maior? - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-63290268"
+    },
+    {
+      "title": "Os dois piores anos do desmatamento na Amazônia foram no governo Bolsonaro, mostra série histórica do Deter - Jornal O Globo",
+      "url": "https://oglobo.globo.com/sociedade/um-so-planeta/desmatamento-na-amazonia-em-um-ano-o-segundo-pior-da-serie-historica-indicam-dados-do-inpe-25143499"
+    },
+    {
+      "title": "Desmatamento na Amazônia tem a pior marca desde 2016 - 09/12/2022 - Ambiente - Folha",
+      "url": "https://www1.folha.uol.com.br/ambiente/2022/12/desmatamento-no-ultimo-ano-de-bolsonaro-ja-atinge-a-pior-marca-desde-2016.shtml"
+    },
+    {
+      "title": "Desmate na Amazônia cai 11% em um ano, mas alta na gestão Bolsonaro é de 59,5% - Estadão",
+      "url": "https://www.estadao.com.br/sustentabilidade/desmate-na-amazonia-cai-11-em-um-ano-mas-tem-alta-na-gestao-bolsonaro-e-de-595/"
+    },
+    {
+      "title": "Desmatamento na Amazônia cresceu 56,6% sob governo Bolsonaro - IPAM Amazônia",
+      "url": "https://ipam.org.br/desmatamento-na-amazonia-cresceu-566-sob-governo-bolsonaro/"
+    }
+  ],
+  "response": "O governo de Jair Bolsonaro (2019-2022) registrou os maiores índices de desmatamento na Amazônia no século 21. Durante sua gestão, o desmatamento aumentou significativamente, com uma alta de 59,5% em comparação com os quatro anos anteriores, nas gestões de Dilma Rousseff e Michel Temer. Em números absolutos, o desmatamento anual médio sob Bolsonaro foi de 11.396 km², enquanto no período anterior (2015-2018) foi de 7.145 km². Os anos de 2019 e 2020 foram particularmente críticos, com recordes de desmatamento na série histórica recente.",
+  "response_no_search": "Até a data do meu último treinamento em outubro de 2023, o governo que registrou os maiores índices de desmatamento na Amazônia no século 21 foi o de Jair Bolsonaro, que presidiu o Brasil de 2019 a 2022. Durante esse período, houve um aumento significativo nas taxas de desmatamento, conforme relatado por várias organizações de monitoramento ambiental, como o Instituto Nacional de Pesquisas Espaciais (INPE) do Brasil. As políticas ambientais do governo Bolsonaro foram amplamente criticadas por af",
+  "error": null
+}

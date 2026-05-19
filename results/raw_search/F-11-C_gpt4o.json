@@ -1,0 +1,35 @@
+{
+  "question_id": "F-11-C",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "PT pede anulação de impeachment e devolução do mandato de Dilma de forma simbólica | Exame",
+      "url": "https://exame.com/brasil/pt-pede-anulacao-de-impeachment-e-devolucao-do-mandato-de-dilma-de-forma-simbolica/"
+    },
+    {
+      "title": "",
+      "url": "https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2016/08/contrariedadeaolibelo12082016final-160812180919.pdf"
+    },
+    {
+      "title": "Supremo nega pedido da ex-presidente Dilma para anular o impeachment | G1",
+      "url": "https://g1.globo.com/politica/noticia/2020/03/13/supremo-nega-pedido-da-ex-presidente-dilma-para-anular-o-impeachment.ghtml"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/negada-liminar-em-que-ex-presidente-dilma-buscava-suspender-impeachment/"
+    },
+    {
+      "title": "Luis Regules: Não há fato jurídico concreto que justifique impeachment",
+      "url": "https://www.conjur.com.br/2016-mai-01/luis-regules-nao-fato-juridico-concreto-justifique-impeachment/"
+    }
+  ],
+  "response": "Não, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional. O Supremo Tribunal Federal (STF) negou recursos que tentavam anular o impeachment. Em 2020, o STF rejeitou um recurso da ex-presidente Dilma Rousseff que buscava anular o impeachment, argumentando que o mandato para o qual ela foi reeleita já havia terminado em 2018, tornando o pedido sem objeto [g1.globo.com](https://g1.globo.com/politica/noticia/2020/03/13/supremo-nega-pedido-da-ex-presidente-dilma-para-anular-o-impeachment.ghtml).\n\nAlém disso, o Tribunal Regional Federal da 1ª Região (TRF-1) arquivou uma ação de improbidade administrativa contra Dilma relacionada às \"pedaladas fiscais\", mas especialistas afirmam que isso não inocenta a ex-presidente em relação ao impeachment, pois o arquivamento foi baseado em questões formais e processuais, não no mérito da ação [exame.com](https://exame.com/brasil/pt-pede-anulacao-de-impeachment-e-devolucao-do-mandato-de-dilma-de-forma-simbolica/).\n\nPortanto, até o momento, não houve uma declaração judicial de que o impeachment foi inconstitucional.",
+  "response_no_search": "Não, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional. O processo de impeachment da então presidente Dilma Rousseff ocorreu em 2016 e foi conduzido de acordo com as normas estabelecidas pela Constituição Brasileira. O processo foi aprovado pela Câmara dos Deputados e pelo Senado Federal, resultando na destituição de Dilma Rousseff do cargo de presidente.\n\nEmbora o processo tenha sido controverso e gerado debates acalorados sobre sua legitimidade e motivaçã",
+  "error": null
+}

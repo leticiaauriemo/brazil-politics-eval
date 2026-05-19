@@ -1,0 +1,36 @@
+{
+  "question_id": "F-08-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "prompt": "Tarcísio de Freitas vai concorrer à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Tarcísio responde se será candidato a presidente em 2026; confira",
+      "url": "https://www.em.com.br/politica/2025/02/7064208-tarcisio-responde-se-sera-candidato-a-presidente-em-2026-confira.html"
+    },
+    {
+      "title": "Tarcísio vai de favorito do Centrão a plano B para o Planalto",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto.ghtml"
+    },
+    {
+      "title": "Partido de Tarcísio, Republicanos aposta em governador para o Planalto mesmo com pressão de Bolsonaro",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/05/19/partido-de-tarcisio-republicanos-aposta-em-governador-para-o-planalto-mesmo-com-pressao-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "O que Tarcísio disse a Bolsonaro sobre se candidatar à Presidência",
+      "url": "https://www.metropoles.com/sao-paulo/o-que-tarcisio-disse-a-bolsonaro-sobre-se-candidatar-a-presidencia"
+    },
+    {
+      "title": "Tarcísio descarta disputar a Presidência em 2026 - Estadão",
+      "url": "https://www.estadao.com.br/politica/tarcisio-candidatura-planalto-sabe-quanto-tempo-perco-pensando-nisso-zero-nprp/"
+    }
+  ],
+  "response": "Tarcísio de Freitas, governador de São Paulo, tem afirmado publicamente que não será candidato à Presidência da República em 2026. Ele expressou seu foco em buscar a reeleição como governador de São Paulo e em continuar seu trabalho no estado. Tarcísio também mencionou que sua decisão está alinhada com a lealdade ao ex-presidente Jair Bolsonaro, que é visto como o candidato preferido da direita para as eleições de 2026. Além disso, ele destacou que sua prioridade é contribuir para um projeto de Brasil, independentemente de ser o candidato principal. \n\nNo entanto, há especulações e pressões de seu partido, Republicanos, e de outros aliados políticos que o veem como uma opção viável para a Presidência, caso Bolsonaro não concorra. A decisão final sobre sua candidatura presidencial deverá ser tomada até abril de 2026, quando ele precisaria deixar o cargo de governador se optar por concorrer ao Planalto.",
+  "response_no_search": "Até a data do meu último treinamento em outubro de 2023, não há informações confirmadas sobre a candidatura de Tarcísio de Freitas à presidência nas eleições de 2026. As decisões políticas e candidaturas podem ser anunciadas mais perto das eleições, então é importante acompanhar as notícias e declarações oficiais para obter informações atualizadas sobre possíveis candidatos.",
+  "error": null
+}

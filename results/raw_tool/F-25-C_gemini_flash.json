@@ -1,0 +1,36 @@
+{
+  "question_id": "F-25-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "prompt": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Romeu Zema, Governador de Minas Gerais: É Trem Bom?",
+      "url": "https://novo.org.br/noticias/romeu-zema-governador-de-minas-gerais-resultados-mandato/"
+    },
+    {
+      "title": "52% aprovam e 41% desaprovam governo Romeu Zema em MG - G1",
+      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/04/28/quaest-avaliacao-governador-romeu-zema.ghtml"
+    },
+    {
+      "title": "Zema renuncia ao governo de MG para pré-campanha à Presidência | G1",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/03/22/zema-renuncia-ao-governo-de-mg-para-pre-campanha-a-presidencia-da-republica-e-vice-mateus-simoes-assume-cargo.ghtml"
+    },
+    {
+      "title": "Zema oficializa renúncia ao governo a partir de domingo",
+      "url": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/3/18/zema-oficializa-renuncia-ao-governo-a-partir-de-domingo"
+    },
+    {
+      "title": "Cotado a vice de Flávio, Zema reafirma candidatura: ‘No 2º turno, estaremos juntos’ | Jovem Pan",
+      "url": "https://jovempan.com.br/noticias/politica/cotado-como-vice-de-flavio-zema-reafirma-candidatura-no-2o-turno-estaremos-juntos.html"
+    }
+  ],
+  "response": "Romeu Zema não poderá concorrer à reeleição para governador de Minas Gerais em 2026. Ele já foi reeleito em 2022, e a Constituição Federal permite apenas uma reeleição para cargos executivos.\n\nEm março de 2026, Zema renunciou ao cargo de governador para se dedicar à pré-campanha para a Presidência da República. Com sua renúncia, o vice-governador Mateus Simões (PSD) assumiu o governo de Minas Gerais.",
+  "response_no_search": "Sim, Zema **pode concorrer à reeleição para governador de Minas Gerais em 2026**.\n\nA Constituição Federal e a Constituição Estadual de Minas Gerais permitem que um governador seja reeleito para um único mandato subsequente. Como Romeu Zema está atualmente em seu segundo mandato (o primeiro foi de 2019 a 2022, e o segundo de 2023 a 2026), ele já utilizou a prerrogativa da reeleição.\n\nNo entanto, a legislação eleitoral brasileira permite que um político que já cumpriu dois mandatos consecutivos pa",
+  "error": null
+}

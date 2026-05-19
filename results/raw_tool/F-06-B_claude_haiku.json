@@ -1,0 +1,56 @@
+{
+  "question_id": "F-06-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2020/07/moraes-bloqueio_240720204911.pdf"
+    },
+    {
+      "title": "Liberdade de Expressão 2.0: a constitucionalidade dos casos de deplatforming no Inquérito das Fake News - Internet & Sociedade",
+      "url": "https://revista.internetlab.org.br/liberdade-de-expressao-2-0-a-constitucionalidade-dos-casos-de-deplatforming-no-inquerito-das-fake-news/"
+    },
+    {
+      "title": "28.07.2020 -InternetLab InternetLab",
+      "url": "https://internetlab.org.br/pt/itens-semanario/desinformacao-twitter-bloqueia-contas-apos-determinacao-do-stf-no-ambito-do-inquerito-das-fake-news/"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2023/05/INQ-4781-GOOGLE.pdf"
+    },
+    {
+      "title": "X afirma ter derrubado 223 contas por ordem de STF e TSE desde 2020",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2024/10/09/x-suspendeu-223-contas-por-ordem-do-stf-e-tse-desde-2020.htm"
+    },
+    {
+      "title": "",
+      "url": "https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2021/02/inq4781pet_030220213402.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.estadao.com.br/blogs/blog/wp-content/uploads/sites/41/2020/07/moraes-bloqueio_240720204911.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://conjur.com.br/dl/de/decisao-alexandre-moraes-twitter.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://multimidia.gazetadopovo.com.br/media/docs/1683737941_telegram-moraes-decisao-10mai2023.pdf"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-megaoperacao-da-pf-contra-atos-antidemocraticos-em-oito-estados-e-distrito-federal/"
+    }
+  ],
+  "response": "Vou buscar informações sobre o Inquérito 4781 e suas consequências.Sim, o Inquérito 4781 (conhecido como \"Inquérito das Fake News\") resultou em **ordens de bloqueio de contas em plataformas digitais**. Aqui estão os principais detalhes:\n\n## Ordens de Bloqueio\n\n**Decisão inicial (26 de maio de 2020):**\n- O ministro Alexandre de Moraes determinou o bloqueio de contas em **Facebook, Twitter e Instagram** de investigados\n- A justificativa foi interromper \"discursos com conteúdo de ódio, subversão da ordem e incentivo à quebra da normalidade institucional e democrática\"\n\n**Reiteração com multa (22 de julho de 2020):**\n- Como as plataformas não cumpriram totalmente a ordem inicial, Moraes reiterou a determinação\n- Impôs multa diária de **R$ 20 mil por perfil não bloqueado**\n\n## Perfis Bloqueados\n\nEntre os investigados cujas contas foram bloqueadas estavam:\n- Alan Lopes dos Santos (@allantercalivre)\n- Bernardo Pires Kuster (@bernardopkuster)\n- Edgard Gomes Corona (@edgardcorona)\n- Luciano Hang\n- Roberto Jefferson (presidente do PTB)\n- Sara Giromini\n- Otávio Fakhoury\n- Edson Pires Salomão\n\n## Cumprimento das Ordens\n\n- O **Twitter** inicialmente alegou impossibilidade técnica, mas depois cumpriu parcialmente\n- Segundo informações de 2024, o X (antigo Twitter) informou ter bloqueado **158 contas** por ordens do STF, sendo a maioria no âmbito do Inquérito 4781\n- Houve discussões sobre a proporcionalidade das medidas, com críticos argumentando que o bloqueio de contas inteiras era desproporcional\n\nAs ordens geraram controvérsias sobre liberdade de expressão e proporcionalidade das medidas judiciais.",
+  "response_no_search": "# Inquérito 4781 - Fake News\n\nSim, o Inquérito 4781, conduzido pela Polícia Federal sob supervisão do Supremo Tribunal Federal (STF), resultou em **ordens de bloqueio de contas** em plataformas digitais.\n\n## Principais ações:\n\n- **Bloqueios de contas**: Foram determinados bloqueios de perfis em redes sociais de investigados\n- **Apreensão de dados**: Ordens para coleta de informações em plataformas digitais\n- **Operações**: Incluiu buscas e apreensões em endereços de investigados\n\n## Contexto:\n\nO",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states that Lula's convictions were annulled on procedural grounds (judicial bias and jurisdictional incompetence) and explicitly clarifies that he was not 'inocentado' in the sense of an acquittal on the merits, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Lula's convictions were annulled on procedural grounds and clarifies that he was not declared innocent, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

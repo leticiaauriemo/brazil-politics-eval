@@ -1,0 +1,28 @@
+{
+  "question_id": "F-17-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Como o Banco Master entra em 2026: da corrida por CDBs turbinados à liquidação, investigações e pressão sobre o BC - Seu Dinheiro",
+      "url": "https://www.seudinheiro.com/2026/empresas/como-o-banco-master-entra-em-2026-da-corrida-por-cdbs-turbinados-a-liquidacao-investigacoes-e-pressao-sobre-o-bc-miql/"
+    },
+    {
+      "title": "Número 291 31 de março de 2026 Caso Banco Master: impactos",
+      "url": "https://www.dieese.org.br/notatecnica/2026/notaTec291BancoMaster.pdf"
+    },
+    {
+      "title": "Caso Banco Master: desregulação favorecida por Campos Neto fragiliza o SFN e ameaça empregos e sociedade | Sindicato dos Bancários",
+      "url": "https://spbancarios.com.br/01/2026/caso-banco-master-desregulacao-atinge-o-proprio-banco-central-e-ameaca-empregos-bancarios"
+    }
+  ],
+  "response": "Vou pesquisar informações atualizadas sobre o Banco Master.Não, o Banco Master não está mais em funcionamento em 2026. Veja o que aconteceu:\n\n## Liquidação do Banco Master\n\nO Banco Central decretou a liquidação extrajudicial da instituição, alegando risco ao sistema financeiro, em novembro de 2025. Com a liquidação do Master, as atividades do banco foram interrompidas, a diretoria afastada e o FGC acionado para ressarcir investidores dentro do limite legal.\n\n## Motivos da liquidação\n\nSegundo o BC, a decisão \"foi motivada pela grave crise de liquidez do Conglomerado Master e pelo comprometimento significativo da sua situação econômico-financeira, bem como por graves violações às normas que regem a atividade das instituições integrantes do Sistema Financeiro Nacional\".\n\n## Prisões e investigações\n\nNa mesma data, a Polícia Federal prendeu Daniel Vorcaro e outros executivos, após apurar um esquema de criação e negociação de títulos de crédito inexistentes que somariam cerca de R$ 12,2 bilhões.\n\nA investigação no Banco Master se concentra em suspeitas de fraudes financeiras, possíveis prejuízos a um banco público e questionamentos sobre falhas na supervisão do sistema financeiro.\n\n## Contexto da crise\n\nEm março de 2025, foi anunciada a proposta de aquisição parcial (58%) do Banco Master pelo Banco de Brasília (BRB), operação estimada em R$ 3,5 bilhões e apresentada como alternativa para mitigar riscos imediatos. A operação, contudo, foi vetada pelo Banco Central em setembro do mesmo ano.\n\n## Impactos em 2026\n\n- **FGC pressionado**: O episódio se tornou o maior acionamento da história do fundo: em março de 2025, o Master mantinha cerca de R$ 60 bilhões em depósitos cobertos. As liquidações do Banco Master e do Will Bank devem gerar resgates da ordem de R$ 47 bilhões.\n\n- **Mudanças no BC**: Paulo Souza, então diretor de Fiscalização e figura central da gestão Campos Neto, foi afastado uma semana após a liquidação do Master. Belline Santana, que chefiava o Departamento de Supervisão Bancária, também deixou o cargo.\n\n- **Investigação a Campos Neto**: De acordo com reportagem",
+  "response_no_search": "Não tenho informações sobre o status do Banco Master em 2026. Meu conhecimento tem uma data de corte e não tenho acesso a informações em tempo real.\n\nO que posso comentar é que o Banco Master (do empresário Daniel Vorcaro) vinha sendo objeto de bastante atenção no mercado financeiro brasileiro, especialmente em torno de:\n\n- Negociações para venda/aquisição (houve tratativas conhecidas com o BRB - Banco de Brasília em 2025)\n- Questionamentos sobre sua estratégia de captação via CDBs com taxas ele",
+  "error": null
+}

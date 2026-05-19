@@ -1,0 +1,36 @@
+{
+  "question_id": "F-25-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "prompt": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Zema confirma data para deixar governo de Minas",
+      "url": "https://www.em.com.br/politica/2026/02/7354056-zema-confirma-data-para-deixar-governo-de-minas.html"
+    },
+    {
+      "title": "Zema: 'Sou um candidato, de certa maneira, outsider'",
+      "url": "https://www.em.com.br/politica/2026/03/7380751-zema-sou-um-candidato-de-certa-maneira-outsider.html"
+    },
+    {
+      "title": "Zema deixa o governo em março para se dedicar à campanha presidencial",
+      "url": "https://www.em.com.br/politica/2026/01/7332616-zema-deixa-o-governo-em-marco-para-se-dedicar-a-campanha-presidencial.html"
+    },
+    {
+      "title": "Quais governadores podem concorrer à reeleição em 2026",
+      "url": "https://www.nexojornal.com.br/grafico/2026/02/06/eleicoes-2026-brasil-governadores-por-partido-quem-pode-se-reeleger"
+    },
+    {
+      "title": "Zema renuncia ao governo de Minas para disputar eleições",
+      "url": "https://gpsbrasilia.com.br/zema-renuncia-ao-governo-para-eleicoes/"
+    }
+  ],
+  "response": "Romeu Zema, governador de Minas Gerais, não concorrerá à reeleição para o governo do estado em 2026. Ele renunciou ao cargo de governador em 22 de março de 2026 para se dedicar à pré-campanha à Presidência da República. Com sua saída, o então vice-governador Mateus Simões (PSD) assumiu o comando do Executivo estadual e deve concorrer à reeleição no pleito de outubro de 2026 .\n\nPortanto, Zema não será candidato à reeleição para o governo de Minas Gerais em 2026, pois está focado em sua candidatura à Presidência da República.",
+  "response_no_search": "Sim, Romeu Zema, que é o atual governador de Minas Gerais, pode concorrer à reeleição em 2026. De acordo com a legislação eleitoral brasileira, um governador pode ser reeleito para um segundo mandato consecutivo. Portanto, desde que ele cumpra os requisitos legais e partidários, Zema poderá buscar a reeleição nas eleições estaduais de 2026.\n\nNo entanto, é importante lembrar que a situação política pode mudar e que a decisão de concorrer à reeleição depende de vários fatores, incluindo apoio polí",
+  "error": null
+}

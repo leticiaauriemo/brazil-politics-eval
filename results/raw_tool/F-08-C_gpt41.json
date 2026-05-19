@@ -1,0 +1,52 @@
+{
+  "question_id": "F-08-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "prompt": "Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Tarcísio de Freitas nega candidatura à presidência em 2026: \"vou ficar em São Paulo\"",
+      "url": "https://www.jornaldocomercio.com/politica/2025/05/1202309-tarcisio-de-freitas-nega-candidatura-a-presidencia-em-2026-vou-ficar-em-sao-paulo.html?utm_source=openai"
+    },
+    {
+      "title": "Tarcísio volta a dizer que não será candidato à Presidência em 2026",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2025/02/03/tarcisio-volta-a-negar-candidatura-a-presidencia-em-2026-apos-resultado-de-pesquisa.htm?utm_source=openai"
+    },
+    {
+      "title": "Tarcísio diz que não será candidato à presidência em 2026: \"não tenho interesse\" | Brasil 247",
+      "url": "https://www.brasil247.com/regionais/sudeste/tarcisio-diz-que-nao-sera-candidato-a-presidencia-em-2026-nao-tenho-interesse?utm_source=openai"
+    },
+    {
+      "title": "Tarcísio diz que não é candidato à presidência em 2026 | FOLHAMAX | Últimas Notícias de Cuiabá e Mato Grosso",
+      "url": "https://www.folhamax.com/mundo/tarcisio-diz-que-nao-e-candidato-a-presidencia-em-2026/512833?utm_source=openai"
+    },
+    {
+      "title": "Nunes descarta Tarcísio como candidato à presidência em 2026 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/nunes-descarta-tarcisio-como-candidato-a-presidencia-em-2026/?utm_source=openai"
+    },
+    {
+      "title": "Kassab sobre Tarcísio para a Presidência em 2026: \"Ele não será candidato\" | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/kassab-sobre-tarcisio-para-a-presidencia-em-2026-ele-nao-sera-candidato/?utm_source=openai"
+    },
+    {
+      "title": "Em queda nas pesquisas, Tarcísio recua e diz que não pretende concorrer à presidência",
+      "url": "https://natelinha.uol.com.br/politica/2025/09/17/em-queda-nas-pesquisas-tarcisio-recua-e-diz-que-nao-pretende-concorrer-a-presidencia-231449.php?utm_source=openai"
+    },
+    {
+      "title": "2026 Social Democratic Party presidential selection",
+      "url": "https://en.wikipedia.org/wiki/2026_Social_Democratic_Party_presidential_selection?utm_source=openai"
+    },
+    {
+      "title": "2026 Brazilian general election",
+      "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou: **Por que Tarcísio de Freitas não está concorrendo à presidência em 2026?** A resposta é clara: ele mesmo descartou publicamente essa possibilidade, e há diversos fatores que explicam essa decisão.\n\n1. **Declarações públicas de recusa à candidatura presidencial**  \n   - Em **14 de maio de 2025**, durante agenda em Nova York, Tarcísio afirmou: “Não tem candidatura nenhuma (à presidência em 2026). Vou ficar em São Paulo” ([jornaldocomercio.com](https://www.jornaldocomercio.com/politica/2025/05/1202309-tarcisio-de-freitas-nega-candidatura-a-presidencia-em-2026-vou-ficar-em-sao-paulo.html?utm_source=openai)).  \n   - Em **3 de fevereiro de 2025**, reafirmou à CNN Brasil: “Não sou candidato ano que vem a cargo federal”, destacando que está “focado nas questões de São Paulo” ([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2025/02/03/tarcisio-volta-a-negar-candidatura-a-presidencia-em-2026-apos-resultado-de-pesquisa.htm?utm_source=openai)).  \n   - Em **18 de fevereiro de 2025**, em entrevista à Folha de S.Paulo, foi enfático: “Não serei candidato. Ninguém fala por mim” e disse que “não tenho interesse” na disputa presidencial ([brasil247.com](https://www.brasil247.com/regionais/sudeste/tarcisio-diz-que-nao-sera-candidato-a-presidencia-em-2026-nao-tenho-interesse?utm_source=openai)).\n\n2. **Foco na reeleição ao governo de São Paulo**  \n   - Tarcísio tem deixado claro que seu objetivo é disputar a reeleição como governador de São Paulo, não a Presidência ([folhamax.com](https://www.folhamax.com/mundo/tarcisio-diz-que-nao-e-candidato-a-presidencia-em-2026/512833?utm_source=openai)).  \n   - O prefeito de São Paulo, Ricardo Nunes, também afirmou que Tarcísio “não tem essa pretensão” e que seu foco é a reeleição estadual ([cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/nunes-descarta-tarcisio-como-candidato-a-presidencia-em-2026/?utm_source=openai)).  \n   - Gilberto Kassab, presidente do PSD, reforçou que “ele não será candidato” e que deve permanecer no governo paulista, enquanto o partido pode lançar outro nome para a Presidência, como Ratinho Júnior ([cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/kassab-sobre-tarcisio-para-a-presidencia-em-2026-ele-nao-sera-candidato/?utm_source=openai)).\n\n3. **Contexto político e estratégico**  \n   - Tarcísio é visto como um nome forte da direita, mas sua candidatura enfrentaria resistência dentro do próprio campo bolsonarista, especialmente de alas mais radicais ([folhamax.com](https://www.folhamax.com/mundo/tarcisio-diz-que-nao-e-candidato-a-presidencia-em-2026/512833?utm_source=openai)).  \n   - Além disso, pesquisas indicavam que ele estava em queda nas intenções de voto, o que pode ter influenciado sua decisão de recuar ([natelinha.uol.com.br](https://natelinha.uol.com.br/politica/2025/09/17/em-queda-nas-pesquisas-tarcisio-recua-e-diz-que-nao-pretende-concorrer-a-presidencia-231449.php?utm_source=openai)).  \n   - O PSD, partido ao qual está alinhado, já tinha planos alternativos caso sua candidatura não se concretizasse, como lançar Ratinho Júnior ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Social_Democratic_Party_presidential_selection?utm_source=openai)).\n\n4. **Registro formal de recusa**  \n   - A página da eleição presidencial de 2026 no Wikipedia lista Tarcísio de Freitas entre os que **declinaram ou retiraram-se da disputa** ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai)).\n\n---\n\n**Resumo**  \nTarcísio de Freitas não está concorrendo à presidência em 2026 porque:\n\n- Ele próprio descartou publicamente a candidatura, afirmando que seu foco é a reeleição como governador de São Paulo.  \n- Líderes políticos próximos, como Ricardo Nunes e Gilberto Kassab, confirmaram que ele não tem pretensão de disputar o Planalto.  \n- Há fatores estratégicos, como resistência interna e queda nas pesquisas, que reforçam sua decisão.  \n- Ele está formalmente registrado como um dos que declinaram da disputa presidencial.\n\nSe quiser, posso também trazer detalhes sobre quem são os candidatos confirmados ou em destaque para 2026, ou como isso impacta o cenário político nacional.",
+  "response_no_search": "Até o momento (junho de 2024), **Tarcísio de Freitas** não anunciou oficialmente sua candidatura à presidência da República para as eleições de 2026. Ele é o atual governador de São Paulo, eleito em 2022, e seu mandato vai até o final de 2026. Existem alguns motivos principais que explicam por que ele ainda não está concorrendo à presidência:\n\n### 1. **Mandato de Governador**\nTarcísio foi eleito governador de São Paulo em 2022 e, por lei, seu mandato vai até dezembro de 2026. Para concorrer à pr",
+  "error": null
+}

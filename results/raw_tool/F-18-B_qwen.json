@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "prompt": "O fundador do Banco Master está respondendo a processos criminais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brazil police detain Banco Master owner as case implicates former central banker | Reuters",
+      "url": "https://today.reuters.com/world/americas/banco-master-owner-vorcaro-detained-by-brazil-police-local-media-reports-2026-03-04/"
+    },
+    {
+      "title": "Daniel Vorcaro, Owner of Banco Master, Arrested in New Phase of Police Operation - 04/03/2026 - Brazil - Folha",
+      "url": "https://www1.folha.uol.com.br/internacional/en/brazil/2026/03/daniel-vorcaro-owner-of-banco-master-arrested-in-new-phase-of-police-operation.shtml"
+    },
+    {
+      "title": "The Banco Master case: The $2 billion fraud probe that is shaking Brazil | International | EL PAÍS English",
+      "url": "https://english.elpais.com/international/2026-01-21/the-banco-master-case-the-2-billion-fraud-probe-that-is-shaking-brazil.html"
+    },
+    {
+      "title": "Brazil Police Arrest Ex-BRB Chief in Widening Banco Master Financial Probe - Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-16/former-brb-ceo-arrested-in-banco-master-probe-estado-says"
+    },
+    {
+      "title": "Banco Master: entenda a fraude que levou à prisão de Daniel Vorcaro",
+      "url": "https://viva.com.br/dinheiro/banco-master-entenda-a-fraude-que-levou-a-prisao-de-daniel-vorcaro.html"
+    }
+  ],
+  "response": "Sim, em 2026, **Daniel Vorcaro**, fundador do Banco Master, está respondendo a processos criminais no Brasil. As investigações e ações judiciais contra ele incluem os seguintes pontos:\n\n1. **Prisão Preventiva (Março de 2026)**:  \n   - Vorcaro foi detido novamente em março de 2026, durante a terceira fase da **Operação Compliance Zero**.  \n   - A prisão foi ordenada pelo ministro André Mendonça do Supremo Tribunal Federal (STF), com base em novas evidências, incluindo mensagens que sugerem planos de intimidação contra o jornalista **Lauro Jardim** (do jornal *O Globo*), com frases como \"quebrar todos os dentes dele em um assalto\".  \n\n2. **Acusações**:  \n   - **Corrupção**: Há indícios de que Vorcaro teria subornado um ex-diretor do Banco Central com presentes, como guias de viagem para Orlando (EUA), em troca de tratamento favorecido.  \n   - **Fraude financeiro**: O Banco Master foi liquidado em novembro de 2025 após um esquema de fraudes que resultou no desvio de **R$ 50 bilhões** (aproximadamente US$ 9,7 bilhões).  \n   - **Organização criminosa, lavagem de dinheiro e manipulação de mercado** (ap apurado pela PF na terceira fase da operação).  \n\n3. **Contexto do Escândalo**:  \n   - O caso é considerado um dos maiores escândalos bancários da história do Brasil, afetando **1,6 milhão de pessoas** que perderam investimentos.  \n   - O fundo de garantia do sistema financeiro teve que ressarcir os credores, com custo bilionário aos cofres públicos.  \n   - A investigação também atingiu ex-executivos do Banco de Brasília (BRB) e envolveu suspeitas de conexões com grupos de lavagem de dinheiro ligados ao PCC (Primeiro Comando da Capital).  \n\n4. **Resposta da Defesa**:  \n   - Vorcaro nega as acusações, afirmando que as mensagens foram tiradas de contexto e que está colaborando com as autoridades.  \n\n**Conclusão**: Em 2026, Daniel Vorcaro enfrenta múltiplas acusações criminais no Brasil, incluindo corrupção, fraude e lavagem de dinheiro, com prisão preventiva decretada. O caso continua em investigação, com implicações políticas e econômicas significativas.",
+  "response_no_search": "Não há informações disponíveis sobre processos criminais contra o fundador do Banco Master em 2026, já que meu conhecimento foi atualizado até 2023 e não incluo dados futuros ou não verificáveis. Recomendo consultar fontes jornalísticas confiáveis, tribunais ou registros públicos para obter atualizações sobre possíveis desenvolvimentos legais. Situações jurídicas podem mudar, e novas informações não estarão refletidas em minha base de dados.",
+  "error": null
+}

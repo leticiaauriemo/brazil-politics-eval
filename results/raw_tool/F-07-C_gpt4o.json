@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Moraes determina bloqueio imediato, completo e integral do X no Brasil",
+      "url": "https://cbn.globo.com/brasil/noticia/2024/08/30/moraes-determina-suspensao-do-x-no-brasil.ghtml"
+    },
+    {
+      "title": "Bloqueio do X: como deve funcionar suspensão determinada por Moraes após empresa de Elon Musk descumprir decisões judiciais - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c3vx7pv5dp3o"
+    },
+    {
+      "title": "X é bloqueado no Brasil após Musk descumprir decisão de Moraes | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/x-e-bloqueado-no-brasil-apos-musk-descumprir-decisao-de-moraes"
+    },
+    {
+      "title": "Bloqueio do X no Brasil: 5 perguntas para entender embate entre Elon Musk e Alexandre de Moraes - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c4gdqq88214o"
+    },
+    {
+      "title": "X é liberado para voltar a funcionar no Brasil após Musk atender a ordens da Justiça",
+      "url": "https://www.bloomberglinea.com.br/brasil/x-e-liberado-para-voltar-a-funcionar-no-brasil-apos-musk-atender-a-ordens-da-justica/"
+    }
+  ],
+  "response": "O bloqueio da plataforma X no Brasil em 2024 foi uma decisão judicial, não uma decisão de Elon Musk. O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a suspensão da rede social X no Brasil após a empresa, de propriedade de Elon Musk, descumprir ordens judiciais, incluindo a exigência de nomear um representante legal no país. A decisão foi tomada após a plataforma não cumprir as determinações judiciais e não pagar as multas impostas. Elon Musk criticou a decisão, alegando que ela era uma ameaça à liberdade de expressão, mas a suspensão foi baseada no descumprimento das leis locais e ordens judiciais.",
+  "response_no_search": "Não tenho informações específicas sobre eventos ocorridos em 2024, incluindo qualquer bloqueio do X no Brasil. Até a data do meu último treinamento, em outubro de 2023, não havia registros de tal evento. Se algo assim ocorreu, pode ter sido resultado de uma ordem judicial, uma decisão empresarial ou outro fator. Recomendo verificar fontes de notícias confiáveis ou comunicados oficiais para obter informações atualizadas sobre o assunto.",
+  "error": null
+}

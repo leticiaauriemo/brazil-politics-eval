@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/fachin-anula-condenacoes-de-lula-e-manda-acoes-penais-para-justica-federal-do-df/"
+    },
+    {
+      "title": "STF confirma anulação de condenações do ex-presidente Lula na ...",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    },
+    {
+      "title": "Entenda o julgamento da anulação das sentenças de Lula",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/lava-jato/entenda-o-julgamento-da-anulacao-das-sentencas-de-lula,83a53f8d9c28b0412ce037507590e809pxienock.html"
+    },
+    {
+      "title": "Entenda a decisão de Fachin que anulou as condenações de Lula e ...",
+      "url": "https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml"
+    },
+    {
+      "title": "Entenda a decisão de Fachin que anulou as condenações de Lula e o que acontece agora - AG-Agência da Gestão® | Finanças",
+      "url": "https://agenciadagestao.org/Publicacao.aspx?id=201175"
+    }
+  ],
+  "response": "As condenações do ex-presidente Luiz Inácio Lula da Silva foram anuladas pelo Supremo Tribunal Federal (STF) não porque ele foi considerado inocente, mas devido a questões processuais. O ministro Edson Fachin, do STF, determinou a anulação das condenações porque concluiu que a 13ª Vara Federal de Curitiba, onde os casos foram julgados, não era o foro competente para esses processos. Fachin argumentou que as acusações contra Lula não estavam diretamente relacionadas aos desvios na Petrobras, que eram o foco da Operação Lava Jato, e, portanto, deveriam ser julgadas pela Justiça Federal do Distrito Federal.\n\nA decisão de Fachin foi confirmada pelo plenário do STF, que rejeitou um recurso da Procuradoria-Geral da República (PGR) e manteve a anulação das condenações. Essa decisão não tratou do mérito das acusações, ou seja, não declarou Lula inocente ou culpado, mas apenas que o julgamento não deveria ter ocorrido em Curitiba. Como resultado, os processos foram transferidos para a Justiça Federal do Distrito Federal para serem reiniciados.",
+  "response_no_search": "Não, as condenações do ex-presidente Luiz Inácio Lula da Silva não foram anuladas porque o Supremo Tribunal Federal (STF) concluiu que ele era inocente. As anulações ocorreram por questões processuais. Em março de 2021, o ministro Edson Fachin, do STF, decidiu anular as condenações de Lula relacionadas à Operação Lava Jato, argumentando que a 13ª Vara Federal de Curitiba, que havia julgado os casos, não tinha a competência legal para fazê-lo. Essa decisão foi posteriormente confirmada pelo plená",
+  "error": null
+}

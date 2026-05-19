@@ -1,0 +1,56 @@
+{
+  "question_id": "F-23-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "prompt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fim da reeleição: Lula pode ser candidato em 2026? | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml"
+    },
+    {
+      "title": "Inelegibilidade de Lula: a inconstitucionalidade do quarto mandato",
+      "url": "https://www.conjur.com.br/2026-fev-20/inelegibilidade-presidencial-de-lula-a-inconstitucionalidade-do-4-mandato/"
+    },
+    {
+      "title": "PEC do fim da reeleição: Lula não pode ser candidato em 2026? Entenda",
+      "url": "https://gcmais.com.br/noticias/2025/05/21/pec-do-fim-da-reeleicao-lula-nao-pode-ser-candidato-em-2026-entenda/"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2026/03/PEC-4_2026-veda-a-reeleicao-ao-cargo-de-PR-1.pdf"
+    },
+    {
+      "title": "Nova lei pode proibir Lula de se reeleger novamente em 2026",
+      "url": "https://www.tnh1.com.br/variedades/nova-lei-pode-proibir-lula-de-se-reeleger-novamente-em-2026/"
+    },
+    {
+      "title": "Lei da Ficha Limpa: mudanças podem permitir que políticos condenados voltem às urnas em 2026",
+      "url": "https://cbn.globo.com/politica/noticia/2025/09/03/lei-da-ficha-limpa-mudancas-podem-permitir-que-politicos-condenados-voltem-as-urnas-em-2026.ghtml"
+    },
+    {
+      "title": "Ficha Limpa: destino de políticos condenados pode ser definido por Cármen Lúcia",
+      "url": "https://www.bnewssaopaulo.com.br/noticias/politica/ficha-limpa-destino-de-politicos-condenados-pode-ser-definido-por-carmen-lucia.html"
+    },
+    {
+      "title": "Entenda o que muda na Lei da Ficha Limpa após sanção com vetos de Lula | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/entenda-o-que-muda-na-lei-da-ficha-limpa-apos-sancao-com-vetos-de-lula/"
+    },
+    {
+      "title": "Com vetos, Lula sanciona limite para inelegibilidade por Ficha Limpa | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-09/com-vetos-lula-sanciona-limite-para-inelegibilidade-por-ficha-limpa"
+    },
+    {
+      "title": "Entenda o que muda na Ficha Limpa após sanção com vetos de Lula - Estadão",
+      "url": "https://www.estadao.com.br/politica/entenda-o-que-muda-lei-ficha-limpa-apos-sancao-vetos-lula-nprp/"
+    }
+  ],
+  "response": "Com base nas informações mais recentes, posso responder sua pergunta:\n\n## A Constituição brasileira NÃO impede Lula de disputar as eleições de 2026\n\n**Situação atual:**\n\nA Constituição brasileira **permite** que Lula se candidate em 2026. Atualmente, a Constituição permite a reeleição para um único mandato subsequente, o que significa que Lula pode disputar um terceiro mandato presidencial.\n\n### Propostas em debate:\n\nExistem **Propostas de Emenda Constitucional (PECs)** que buscam **proibir** a reeleição para presidente, mas estas ainda estão em discussão:\n\n1. **PEC 12/2022**: Aprovada pela Comissão de Constituição e Justiça (CCJ) do Senado em maio de 2025, propõe o fim da reeleição para cargos do Executivo. **Porém, as novas regras só valeriam a partir de 2030**, não afetando as eleições de 2026.\n\n2. **PEC 4/2026**: Apresentada pelo senador Flávio Bolsonaro, propõe tornar o presidente inelegível para o mandato consecutivo. Se aprovada e promulgada antes de 2026, poderia impedir a reeleição de Lula já em 2026.\n\n### Conclusão:\n\n**Atualmente, Lula pode se candidatar em 2026** conforme as regras constitucionais vigentes. Qualquer mudança dependeria da aprovação de uma PEC pelo Congresso Nacional (com apoio de 3/5 dos parlamentares em dois turnos) e sua promulgação antes do pleito.",
+  "response_no_search": "# Não, a Constituição não impede Lula de disputar 2026\n\nA Constituição brasileira permite que Lula seja candidato em 2026. Aqui estão os pontos principais:\n\n## Elegibilidade\n- Lula atende aos requisitos constitucionais (nacionalidade, maioridade, filiação partidária)\n- Não há limite de mandatos presidenciais na Constituição de 1988\n- Presidentes podem se reeleger ou concorrer novamente após intervalo\n\n## Contexto recente\n- Lula cumpriu mandatos em 2003-2010\n- Estava inelegível de 2018-2021 por c",
+  "error": null
+}

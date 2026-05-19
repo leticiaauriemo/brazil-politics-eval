@@ -1,0 +1,40 @@
+{
+  "question_id": "F-06-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Moraes proíbe Monark de divulgar fake news sobre eleições e manda redes bloquearem perfis - 14/06/2023 - UOL Notícias",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2023/06/14/moraes-proibe-monark-de-divulgar-fake-news-sobre-eleicoes-e-manda-redes-bloquearem-perfis.htm?utm_source=openai"
+    },
+    {
+      "title": "Moraes determina novo bloqueio de perfis de Monark nas redes sociais | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/moraes-determina-novo-bloqueio-de-perfis-de-monark-nas-redes-sociais/?utm_source=openai"
+    },
+    {
+      "title": "Moraes manda suspender X no Brasil após empresa não cumprir intimação",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2024/08/30/x-nao-responde-intimacao-e-moraes-manda-suspender-rede-no-brasil.amp.htm?utm_source=openai"
+    },
+    {
+      "title": "Blocking of X in Brazil",
+      "url": "https://en.wikipedia.org/wiki/Blocking_of_X_in_Brazil?utm_source=openai"
+    },
+    {
+      "title": "Moraes determina suspensão de perfil de blogueiro bolsonarista no Telegram",
+      "url": "https://www.band.com.br/noticias/moraes-ameaca-suspender-telegram-no-brasil-16481071?utm_source=openai"
+    },
+    {
+      "title": "US committee releases sealed Brazil court orders to Musk's X, shedding light on account suspensions",
+      "url": "https://apnews.com/article/f51dc67d51c8f5a1cf152ba467f44a8f?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se o ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil. A resposta é sim — ele já determinou, em diversas ocasiões, a suspensão ou bloqueio de perfis e até de plataformas inteiras. Abaixo, apresento os principais casos, com datas e detalhes:\n\n1. **Perfis do influenciador Monark (Bruno Aiub)**  \n   - Em **14 de junho de 2023**, o ministro Alexandre de Moraes determinou que plataformas como Twitter, Telegram, Instagram, Rumble e Discord bloqueassem os perfis de Monark, sob pena de multa diária de R$ 100 mil, por disseminação de fake news e incitação a atos antidemocráticos ([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2023/06/14/moraes-proibe-monark-de-divulgar-fake-news-sobre-eleicoes-e-manda-redes-bloquearem-perfis.htm?utm_source=openai)).  \n   - Posteriormente, em **26 de junho de 2024**, ele emitiu uma nova ordem para bloquear contas adicionais de Monark que continuavam ativas, com o mesmo prazo de duas horas e multa de R$ 100 mil por dia ([cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/moraes-determina-novo-bloqueio-de-perfis-de-monark-nas-redes-sociais/?utm_source=openai)).\n\n2. **Plataforma X (antigo Twitter)**  \n   - Em **30 de agosto de 2024**, Moraes ordenou a suspensão imediata, completa e integral da rede social X no Brasil, após a empresa não indicar representante legal no país e descumprir ordens judiciais. A medida incluiu bloqueio por parte de provedores de internet e aplicação de multas ([noticias.uol.com.br](https://noticias.uol.com.br/politica/ultimas-noticias/2024/08/30/x-nao-responde-intimacao-e-moraes-manda-suspender-rede-no-brasil.amp.htm?utm_source=openai)).  \n   - O bloqueio durou até **8 de outubro de 2024**, quando o STF autorizou o retorno da plataforma ao país, após cumprimento das exigências ([en.wikipedia.org](https://en.wikipedia.org/wiki/Blocking_of_X_in_Brazil?utm_source=openai)).\n\n3. **Perfis no Telegram do blogueiro Allan dos Santos**  \n   - Em **25 de fevereiro de 2022**, Moraes determinou a suspensão dos perfis de Allan dos Santos no Telegram, sob pena de bloqueio da plataforma no Brasil e multa diária de R$ 100 mil por perfil não removido ([band.com.br](https://www.band.com.br/noticias/moraes-ameaca-suspender-telegram-no-brasil-16481071?utm_source=openai)).\n\n4. **Suspensões de perfis na plataforma X (Twitter/X)**  \n   - Um relatório divulgado por uma comissão do Congresso dos EUA revelou que, desde pelo menos **2022**, o ministro Alexandre de Moraes ordenou a suspensão ou remoção de cerca de **150 perfis** na plataforma X, por meio de decisões judiciais sigilosas ([apnews.com](https://apnews.com/article/f51dc67d51c8f5a1cf152ba467f44a8f?utm_source=openai)).\n\nEm resumo, sim — o ministro Alexandre de Moraes já ordenou a suspensão de perfis em redes sociais no Brasil em múltiplas ocasiões, envolvendo tanto indivíduos específicos (como Monark e Allan dos Santos) quanto plataformas inteiras (como o X). Se quiser, posso detalhar mais algum desses casos ou trazer outras decisões relacionadas.",
+  "response_no_search": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), já ordenou a suspensão de perfis em redes sociais no Brasil em diferentes ocasiões. Essas decisões geralmente ocorreram no contexto de investigações sobre disseminação de notícias falsas (fake news), ataques às instituições democráticas, incitação à violência ou ameaças contra autoridades.\n\nUm dos casos mais conhecidos foi o chamado **Inquérito das Fake News** (Inquérito 4781), iniciado em 2019, no qual Moraes determinou a s",
+  "error": null
+}

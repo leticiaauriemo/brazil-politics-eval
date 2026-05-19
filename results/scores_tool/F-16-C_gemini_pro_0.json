@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly attributes the establishment of the R$600 Auxílio Brasil to President Jair Bolsonaro and specifies the relevant legislative context."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly attributes the establishment of the R$600 Auxílio Brasil to President Jair Bolsonaro."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

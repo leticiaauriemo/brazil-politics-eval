@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states the liquidation of Banco Master by the Central Bank in November 2025, but it does not mention the 'Operação Compliance Zero' or the rejected acquisition by BRB, which are key details in the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the liquidation of Banco Master by the Central Bank in November 2025 and provides specific details about the circumstances surrounding the decision."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

@@ -1,0 +1,28 @@
+{
+  "question_id": "F-18-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "prompt": "A Operação Compliance Zero resultou na prisão do dono do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Operação Compliance Zero",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Compliance_Zero?utm_source=openai"
+    },
+    {
+      "title": "Banco Master: Polícia Federal deflagra segunda fase da Operação Compliance Zero — Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202601/policia-federal-deflagra-segunda-fase-da-operacao-compliance-zero?utm_source=openai"
+    },
+    {
+      "title": "PF prende Daniel Vorcaro em 3ª fase da Operação Compliance Zero | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pf-deflagra-terceira-fase-da-operacao-compliance-zero?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se a Operação Compliance Zero resultou na prisão do dono do Banco Master. A resposta é sim — o proprietário, Daniel Vorcaro, foi preso em diferentes fases da operação. Abaixo, um resumo claro e com datas específicas:\n\n- **Primeira fase – 18 de novembro de 2025**: Daniel Vorcaro foi preso preventivamente pela Polícia Federal enquanto tentava embarcar para Dubai no Aeroporto de Guarulhos. Essa fase investigava a emissão de títulos de crédito falsos, gestão fraudulenta e organização criminosa. ([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Compliance_Zero?utm_source=openai))\n\n- **Liberação e prisão domiciliar**: Após essa prisão inicial, o Tribunal Regional Federal da 1ª Região (TRF-1) relaxou a detenção, e Vorcaro passou a cumprir prisão domiciliar com tornozeleira eletrônica. ([agenciagov.ebc.com.br](https://agenciagov.ebc.com.br/noticias/202601/policia-federal-deflagra-segunda-fase-da-operacao-compliance-zero?utm_source=openai))\n\n- **Terceira fase – 4 de março de 2026**: Vorcaro foi novamente preso preventivamente por ordem do ministro André Mendonça, do Supremo Tribunal Federal (STF). Essa fase investigava crimes como ameaça, corrupção, lavagem de dinheiro e invasão de sistemas informáticos, além de organização criminosa. ([agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/pf-deflagra-terceira-fase-da-operacao-compliance-zero?utm_source=openai))\n\nPortanto, sim — a Operação Compliance Zero resultou na prisão de Daniel Vorcaro, dono do Banco Master, em pelo menos duas ocasiões: em novembro de 2025 e novamente em março de 2026.\n\nSe quiser, posso detalhar também as fases subsequentes da operação ou os demais envolvidos.",
+  "response_no_search": "Até o momento do meu conhecimento (junho de 2024), **não há informações públicas ou notícias confiáveis que indiquem que o dono do Banco Master foi preso em decorrência da Operação Compliance Zero**.\n\nA **Operação Compliance Zero** é uma ação da Polícia Federal que investiga crimes financeiros, como lavagem de dinheiro e corrupção, envolvendo instituições financeiras e empresas. No entanto, até agora, os nomes dos principais alvos divulgados pela imprensa não incluem o dono do Banco Master.\n\nSe ",
+  "error": null
+}

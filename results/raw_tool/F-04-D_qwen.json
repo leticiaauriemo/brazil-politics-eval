@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-D",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Taxa consolidada de desmatamento na Amazônia em 2022/2023 é de 9.064 km² — Ministério do Meio Ambiente e Mudança do Clima",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/noticias/taxa-consolidada-de-desmatamento-na-amazonia-em-2022-2023-e-de-9-064-km2"
+    },
+    {
+      "title": "",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/noticias/taxa-de-desmatamento-na-amazonia-cai-30-6-e-25-7-no-cerrado/apresentacao-prodes-23-24"
+    },
+    {
+      "title": "Desmatamento da Amazônia nos governos Lula e Bolsonaro; quem desmatou mais? - Conexão Tocantins - Portal de Notícias",
+      "url": "https://conexaoto.com.br/2022/10/28/desmatamento-da-amazonia-nos-governos-lula-e-bolsonaro-quem-desmatou-mais"
+    },
+    {
+      "title": "Taxa de desmatamento na Amazônia cai 22,3% em um ano — Ibama",
+      "url": "https://www.gov.br/ibama/pt-br/assuntos/noticias/2023/taxa-de-desmatamento-na-amazonia-cai-22-3-em-2023-em-um-ano"
+    },
+    {
+      "title": "Inpe: taxa de desmatamento cai 21,8% na Amazônia e 9,2% no Pantanal | G1",
+      "url": "https://g1.globo.com/meio-ambiente/noticia/2024/05/08/inpe-taxa-de-desmatamento-consolidada.ghtml"
+    }
+  ],
+  "response": "O desmatamento médio anual da Amazônia foi **maior no governo Bolsonaro (2019–2022)** em comparação com o terceiro mandato de Lula (2023–2025). \n\n### Dados principais:\n- **Bolsonaro (2019–2022):**  \n  - A taxa média anual foi de aproximadamente **11.394 km²** (com base nos dados de 2019 a 2022, incluindo picos como 13.000 km² em 2021).  \n  - Houve um aumento de 73% no desmatamento entre 2018 (7.500 km²) e 2021 (13.000 km²).  \n\n- **Lula (2023–2025):**  \n  - Em 2023 (período de agosto de 2022 a julho de 2023), a taxa caiu para **9.064 km²** (queda de 21,8% em relação a 2022).  \n  - Projeções para 2024 indicam **6.288 km²**, a menor em 9 anos.  \n  - A média parcial de 2023–2024 é de **7.644 km²**, significativamente menor que a de Bolsonaro.  \n\n### Conclusão:\nA política ambiental do governo Lula, com retomada de fiscalização e governança, resultou em uma redução acentuada do desmatamento, enquanto o período de Bolsonaro foi marcado por altas históricas e desmonte de órgãos de controle.",
+  "response_no_search": "O desmatamento médio anual da Amazônia foi **significativamente maior durante o governo de Jair Bolsonaro (2019–2022)** em comparação com o início do terceiro mandato de Luiz Inácio Lula da Silva (2023–2024). Abaixo, os dados detalhados:\n\n### **Governo Bolsonaro (2019–2022)**  \nOs dados do **PRODES** (sistema de monitoramento por satélite do INPE) indicam os seguintes índices anuais de desmatamento na Amazônia Legal:  \n- **2019**: 9.795 km²  \n- **2020**: 11.088 km²  \n- **2021**: 13.235 km² (maio",
+  "error": null
+}

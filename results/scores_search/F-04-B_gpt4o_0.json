@@ -1,0 +1,19 @@
+{
+  "question_id": "F-04-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the peak deforestation in the 21st century as occurring during Lula's first government (specifically 2004) and provides accurate figures, while also adding the important nuance about subsequent reductions and comparisons to other governments."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

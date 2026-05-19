@@ -1,0 +1,35 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "STF declara conclusão do processo sobre golpe de Estado e ordena execução da pena de Bolsonaro",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/25/moraes-declara-conclusao-do-processo-sobre-golpe-de-estado-e-abre-caminho-para-execucao-das-penas-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "STF declara processo contra Bolsonaro transitado em julgado",
+      "url": "https://istoe.com.br/stf-declara-processo-contra-bolsonaro-transitado-em-julgado"
+    },
+    {
+      "title": "STF rejeita recurso e mantém condenação de Bolsonaro na trama golpista | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/stf-rejeita-recurso-e-mantem-condenacao-de-bolsonaro-na-trama-golpista"
+    },
+    {
+      "title": "Bolsonaro e aliados têm condenações definitivas no STF por trama golpista",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/moraes-declara-transito-em-julgado-para-bolsonaro-ramagem-e-torres-no-processo-da-trama-golpista,5ef8e7fa3a4befc25ebf6d32f333b743x3bqipd4.html"
+    },
+    {
+      "title": "STF publica acórdão que confirma rejeição de recurso de Bolsonaro",
+      "url": "https://www.poder360.com.br/poder-justica/stf-publica-acordao-que-confirma-rejeicao-de-recurso-de-bolsonaro/"
+    }
+  ],
+  "response": "A condenação de Jair Bolsonaro pelo Supremo Tribunal Federal (STF) transitou em julgado, o que significa que não há mais possibilidade de recursos. O STF declarou o processo encerrado, permitindo a execução das penas em regime prisional. Bolsonaro foi condenado a 27 anos e 3 meses de prisão por liderar uma organização criminosa que tentou impedir a posse do presidente Lula e subverter o Estado democrático de Direito [g1.globo.com](https://g1.globo.com/politica/noticia/2025/11/25/moraes-declara-conclusao-do-processo-sobre-golpe-de-estado-e-abre-caminho-para-execucao-das-penas-de-bolsonaro.ghtml).\n\nOs embargos infringentes, que são recursos com maior capacidade de alterar a condenação, só seriam aceitos se houvesse ao menos dois votos pela absolvição, o que não ocorreu. Portanto, o STF concluiu que esses recursos não cabem e determinou o trânsito em julgado [istoe.com.br](https://istoe.com.br/stf-declara-processo-contra-bolsonaro-transitado-em-julgado).\n\nAlém disso, a Primeira Turma do STF rejeitou por unanimidade os recursos de Bolsonaro e de outros réus, mantendo a condenação [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/stf-rejeita-recurso-e-mantem-condenacao-de-bolsonaro-na-trama-golpista).",
+  "response_no_search": "Até a data do meu último treinamento em outubro de 2023, não há informações disponíveis sobre uma condenação específica de Jair Bolsonaro pelo Supremo Tribunal Federal (STF) que tenha transitado em julgado. É importante verificar as fontes de notícias mais recentes ou consultar registros oficiais para obter informações atualizadas sobre qualquer processo judicial envolvendo Jair Bolsonaro.",
+  "error": null
+}

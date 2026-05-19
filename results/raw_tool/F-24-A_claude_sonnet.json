@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "prompt": "Quantas vezes Lula foi eleito presidente do Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Primeiro mandato de Lula (2003 a 2006) - Brasil Escola",
+      "url": "https://brasilescola.uol.com.br/historiab/governo-luis-inacio-lula-da-silva.htm"
+    },
+    {
+      "title": "Dados ex-Presidente — Secretaria-Geral",
+      "url": "https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/luiz-inacio-lula-da-silva/"
+    },
+    {
+      "title": "Lula é o 1º a ganhar 3 vezes eleição para presidente do Brasil",
+      "url": "https://www.portaldoholanda.com.br/politica/lula-e-o-1-ganhar-3-vezes-eleicao-para-presidente-do-brasil"
+    },
+    {
+      "title": "Veja o perfil de Lula, o presidente reeleito do Brasil - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/91015-veja-o-perfil-de-lula-o-presidente-reeleito-do-brasil"
+    },
+    {
+      "title": "Lula é 1º presidente com 3 vitórias no voto direto - CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/lula-e-1o-presidente-com-3-vitorias-no-voto-direto-so-getulio-governou-por-mais-tempo/"
+    }
+  ],
+  "response": "## Lula foi eleito presidente do Brasil **3 vezes**! 🇧🇷\n\nLuiz Inácio Lula da Silva (PT) é o **primeiro presidente da história do Brasil a ser eleito três vezes pelo voto popular direto**. Veja o resumo:\n\n| Eleição | Resultado | Mandato |\n|--------|-----------|---------|\n| **2002** | ✅ Eleito (derrotou José Serra/PSDB no 2º turno com 61,3% dos votos) | 2003 – 2006 |\n| **2006** | ✅ Reeleito (derrotou Geraldo Alckmin/PSDB com mais de 58 milhões de votos) | 2007 – 2010 |\n| **2022** | ✅ Eleito novamente (derrotou Jair Bolsonaro/PL no 2º turno) | 2023 – atual |\n\n### Curiosidades:\n- Antes de vencer, Lula **perdeu 3 eleições presidenciais**: em **1989** (para Fernando Collor), em **1994** e **1998** (para Fernando Henrique Cardoso).\n- Ao todo, ele concorreu à presidência **6 vezes**.\n- Ao final do terceiro mandato, terá governado o Brasil por **12 anos**, sendo o segundo presidente que mais tempo governou o país, atrás apenas de Getúlio Vargas (19 anos).",
+  "response_no_search": "Lula (Luiz Inácio Lula da Silva) foi eleito presidente do Brasil **3 vezes**:\n\n1. **2002** – eleito para o mandato de 2003 a 2006\n2. **2006** – reeleito para o mandato de 2007 a 2010\n3. **2022** – eleito novamente para o mandato de 2023 a 2026",
+  "error": null
+}

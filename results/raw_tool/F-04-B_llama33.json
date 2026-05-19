@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Desmatamento na Amazônia é o maior dos últimos dez anos | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2021/01/18/desmatamento-na-amazonia-e-o-maior-dos-ultimos-dez-anos.ghtml"
+    },
+    {
+      "title": "Desmatamento na Amazônia é o maior em 15 anos",
+      "url": "https://www.dw.com/pt-br/desmatamento-na-amaz%C3%B4nia-%C3%A9-o-maior-em-15-anos/a-59875980"
+    },
+    {
+      "title": "[PDF] O desmatamentro da Amazônia brasileira entre 1980 a 2021",
+      "url": "https://www.repositorio.ufal.br/bitstream/123456789/11297/1/O%20desmatamentro%20da%20Amaz%C3%B4nia%20brasileira%20entre%201980%20a%202021%20-%20%20uma%20releitura.pdf"
+    },
+    {
+      "title": "Desmatamento da Amazônia em 2021",
+      "url": "https://amazonia.exame.com/desmatamento/desmatamento-da-amazonia-em-2021/"
+    },
+    {
+      "title": "Desmatamento na Amazônia atinge pior primeiro semestre em 15 anos · Imazon",
+      "url": "https://imazon.org.br/imprensa/desmatamento-na-amazonia-atinge-pior-primeiro-semestre-em-15-anos/?locale=pt_BR"
+    }
+  ],
+  "response": "O governo que teve o maior desmatamento da Amazônia no século 21 foi o governo de Jair Bolsonaro. De acordo com os dados do Instituto Nacional de Pesquisas Espaciais (INPE), o desmatamento na Amazônia aumentou 22% em relação ao ano anterior, atingindo 13.235 km² entre agosto de 2020 e julho de 2021. Esse valor representa o maior desmatamento na Amazônia desde 2006. Além disso, o desmatamento na Amazônia tem aumentado significativamente desde a década de 1970, com um grande pico em 1995, quando foram registrados 29.059 km² desmatados. A partir de 2002, a Amazônia voltou a experimentar valores crescentes de áreas desmatadas, até que em 2004 atingiu o segundo maior pico da história, com 27.772 km² desmatados.",
+  "response_no_search": "O governo de Jair Bolsonaro teve o maior desmatamento da Amazônia no século 21.",
+  "error": null
+}

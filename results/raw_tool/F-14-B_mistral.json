@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Decreto n� 6246",
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6246.htm"
+    },
+    {
+      "title": "PORTARIA DE CONSOLIDAÇÃO GM/MCOM Nº 1, DE 1º DE JUNHO DE 2023 (*) - PORTARIA DE CONSOLIDAÇÃO GM/MCOM Nº 1, DE 1º DE JUNHO DE 2023 (*) - DOU - Imprensa Nacional",
+      "url": "https://www.in.gov.br/web/dou/-/portaria-de-consolidacao-gm/mcom-n-1-de-1-de-junho-de-2023-*-487937728"
+    },
+    {
+      "title": "Governo e TCU dizem que publicidade federal segue normas legais",
+      "url": "https://www.camara.leg.br/noticias/224406-governo-e-tcu-dizem-que-publicidade-federal-segue-normas-legais"
+    },
+    {
+      "title": "Lei 12.232/2010: Regras e Limites da Publicidade Governamental - Legale Educacional",
+      "url": "https://legale.com.br/blog/lei-12-232-2010-regras-e-limites-da-publicidade-governamental/"
+    },
+    {
+      "title": "Concessão de serviço de televisão por radiodifusão, liberdade de expressão e produção de conteúdos por terceiros ou em regime de coprodução - Portal Direito da Comunicação",
+      "url": "https://direitodacomunicacao.com/br/concessao-de-servico-de-televisao-por-radiodifusao-liberdade-de-expressao-e-producao-de-conteudos-por-terceiros-ou-em-regime-de-coproducao/"
+    }
+  ],
+  "response": "Sim, é legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas, como a Globo, desde que sejam seguidas as normas e regulamentos aplicáveis. A Lei nº 12.232/2010 estabelece regras específicas para a contratação de serviços de publicidade pela administração pública, exigindo que tais contratações sejam precedidas de licitação do tipo \"técnica e preço\" para garantir transparência, impessoalidade e economicidade .\n\nAlém disso, a publicidade governamental deve ter caráter educativo, informativo ou de orientação social, não podendo conter nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, conforme o art. 37, § 1º, da Constituição Federal .\n\nA publicidade institucional do governo também pode ser veiculada em emissoras privadas, desde que observe os limites legais e regulamentares aplicáveis à radiodifusão, conforme a Lei nº 4.117/1962 e o Decreto nº 52.795/1963 .",
+  "response_no_search": "Sim, é legal no Brasil o governo federal pagar por publicidade em emissoras de TV privadas, como a Globo. A publicidade governamental é uma prática comum e regulamentada por leis e normas específicas. O objetivo dessa publicidade é informar a população sobre políticas públicas, campanhas de interesse social, serviços oferecidos pelo governo, entre outros assuntos.\n\nA contratação de publicidade pelo governo federal é regulada pela Lei nº 12.232/2010, que estabelece diretrizes para a comunicação p",
+  "error": null
+}

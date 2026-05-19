@@ -1,0 +1,15 @@
+{
+  "question_id": "F-21-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Flávio Bolsonaro é senador da República pelo Rio de Janeiro (PL-RJ), não deputado federal.**\n\n### Evidências dos resultados da busca:\n- **Fontes oficiais e enciclopédicas confirmam mandato atual como senador (2019–2027)**:\n  | Fonte | Detalhes |\n  |-------|----------|\n  | [4] Site oficial do Senado Federal | Período: 2019-2027; Titular em exercício na 56ª e 57ª Legislaturas (até 2027). |\n  | [2] Wikipédia (PT) | Senador desde 2019 (eleito em 2018 com 4.380.418 votos); 4 mandatos anteriores com",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

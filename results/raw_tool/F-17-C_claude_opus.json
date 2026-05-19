@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Sigilo de oito anos para liquidação do Master é regra, diz Galípolo | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/sigilo-de-oito-anos-para-liquidacao-do-master-e-regra-diz-galipolo"
+    },
+    {
+      "title": "BC impôs sigilo de oito anos sob documentos da liquidação do Banco Master | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/bc-impos-sigilo-de-oito-anos-sob-documentos-da-liquidacao-do-banco-master/"
+    },
+    {
+      "title": "Banco Central impõe sigilo de 8 anos em documentos da liquidação do Master",
+      "url": "https://www.gazetadopovo.com.br/economia/banco-central-sigilo-8-anos-documentos-liquidacao-master/"
+    },
+    {
+      "title": "Banco Central já decretou liquidação de 8 instituições financeiras ligadas ao Master",
+      "url": "https://www.infomoney.com.br/mercados/banco-central-ja-decretou-liquidacao-de-8-instituicoes-financeiras-ligadas-ao-master/"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial de braço do Master | Radioagência Nacional",
+      "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-03/banco-central-decreta-liquidacao-extrajudicial-de-braco-do-master"
+    }
+  ],
+  "response": "Vou verificar essa informação para você.Sim. O Banco Central decretou a liquidação extrajudicial do Banco Master em novembro de 2025.\n\n## Motivos da liquidação\n\nA decisão foi motivada por \"grave crise de liquidez\" e \"graves violações\" às normas do SFN (Sistema Financeiro Nacional).\n\nControlado pelo banqueiro Daniel Vorcaro, o Master cresceu rapidamente ao oferecer Certificados de Depósitos Bancários (CDB) com rentabilidade muito acima da média do mercado. Para sustentar o modelo, segundo investigadores, o banco passou a assumir riscos excessivos e a estruturar operações que inflavam artificialmente o balanço, enquanto a liquidez real (dinheiro imediatamente disponível para ressarcir os investidores) se deteriorava.\n\nDe acordo com Galípolo, no dia em que o BC decretou a liquidação, o Master tinha em caixa apenas 10% do valor de que precisava para pagar os CDBs que estavam vencendo na mesma data.\n\n## Desdobramentos\n\nA liquidação afetou todo o conglomerado. Além do Banco Master S/A, a liquidação atingiu todo o conglomerado incluindo o Banco Master de Investimento, o Letsbank, o Will Bank e a Master Corretora de Câmbio, Títulos e Valores Mobiliários.\n\nDesde novembro de 2025, o Banco Central vem desmontando, em etapas, o conglomerado liderado por Daniel Vorcaro, após identificar insolvência financeira, suspeitas de fraudes contábeis e risco de contágio para outras instituições.\n\nOutras etapas incluíram:\n- Em janeiro de 2026, o BC ampliou a intervenção para a CBSF DTVM (ex-Reag Investimentos), apontada como parte do mecanismo usado para ocultar prejuízos.\n- No dia 21 de janeiro, foi decretada também a liquidação do Will Bank, braço digital do grupo, após o fracasso da tentativa de venda e o bloqueio das operações com cartões da Mastercard.\n- O Banco Central (BC) decretou, em 17 de março, a liquidação extrajudicial do Banco Master Múltiplo. A instituição é controlada pela Will Financeira e faz parte do Conglomerado Master.\n\n## Impactos\n\nA liquidação levou a um prejuízo recorde no Fundo Garant",
+  "response_no_search": "Não tenho informação confirmada sobre uma liquidação do Banco Master pelo Banco Central. Meu conhecimento tem data de corte e pode não incluir eventos muito recentes.\n\nAlgumas observações:\n\n1. **Verifique fontes atualizadas**: Para uma informação tão específica e sensível como a liquidação de uma instituição financeira, recomendo consultar:\n   - O site oficial do Banco Central do Brasil (bcb.gov.br)\n   - Veículos de imprensa econômica confiáveis (Valor Econômico, Folha, Estadão, Reuters, etc.)\n\n",
+  "error": null
+}

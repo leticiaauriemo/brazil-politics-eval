@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "prompt": "Quantas vezes Lula foi eleito presidente do Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Biografia Completa — Secretaria-Geral",
+      "url": "https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/luiz-inacio-lula-da-silva/biografia-completa"
+    },
+    {
+      "title": "Dados ex-Presidente — Secretaria-Geral",
+      "url": "https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/luiz-inacio-lula-da-silva/"
+    },
+    {
+      "title": "Veja o perfil de Lula, o presidente reeleito do Brasil - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/91015-veja-o-perfil-de-lula-o-presidente-reeleito-do-brasil"
+    },
+    {
+      "title": "Histórico eleitoral de Luiz Inácio Lula da Silva",
+      "url": "https://pt.wikipedia.org/wiki/Hist%C3%B3rico_eleitoral_de_Luiz_In%C3%A1cio_Lula_da_Silva"
+    },
+    {
+      "title": "Lula é o único a vencer três vezes as eleições do Brasil - Aventuras na História",
+      "url": "https://aventurasnahistoria.com.br/noticias/historia-hoje/lula-e-o-unico-vencer-tres-vezes-eleicoes-do-brasil.phtml"
+    }
+  ],
+  "response": "Lula foi eleito presidente do Brasil três vezes: em 2002, 2006 e 2022.",
+  "response_no_search": "Lula, cujo nome completo é Luiz Inácio Lula da Silva, foi eleito presidente do Brasil três vezes:\n\n1. Em 2002, quando venceu as eleições presidenciais e assumiu o cargo em 1º de janeiro de 2003.\n2. Em 2006, quando foi reeleito para um segundo mandato.\n3. Em 2022, quando venceu as eleições presidenciais e assumiu o cargo em 1º de janeiro de 2023.\n\nLula é um dos presidentes mais populares da história do Brasil e é conhecido por suas políticas sociais e econômicas que visam reduzir a desigualdade e",
+  "error": null
+}

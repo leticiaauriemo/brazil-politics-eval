@@ -1,0 +1,32 @@
+{
+  "question_id": "F-19-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "prompt": "Quem são os principais candidatos à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Eleição para presidente: quem está na corrida e quem já caiu fora",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/"
+    },
+    {
+      "title": "Veja quem são os pré-candidatos confirmados para eleição de 2026 | Brasil | Pleno.News",
+      "url": "https://pleno.news/brasil/eleicoes-2026/veja-quem-sao-os-pre-candidatos-confirmados-para-eleicao-de-2026.html"
+    },
+    {
+      "title": "Conheça todos os 12 pré-candidatos à presidência em 2026 | Brasil Paralelo",
+      "url": "https://www.brasilparalelo.com.br/noticias/conheca-todos-os-12-pre-candidatos-a-presidencia-em-2026"
+    },
+    {
+      "title": "Eleição presidencial no Brasil em 2026 – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026"
+    }
+  ],
+  "response": "Vou pesquisar sobre os principais candidatos às eleições presidenciais de 2026 no Brasil.# Principais candidatos à presidência nas eleições de 2026\n\nA eleição presidencial brasileira de 2026 está se afunilando, com 12 pré-candidatos atualmente na corrida. O primeiro turno está marcado para 4 de outubro, com segundo turno em 25 de outubro.\n\n## Principais nomes da disputa\n\nA corrida está polarizada principalmente entre os seguintes candidatos:\n\n**Luiz Inácio Lula da Silva (PT)** — O presidente Lula disputa a reeleição, sendo o principal embate previsto contra o senador Flávio Bolsonaro (PL). Caso seja reeleito, Lula estará em seu quarto mandato, governando o Brasil por cerca de 16 anos.\n\n**Flávio Bolsonaro (PL)** — Atual senador pelo Rio de Janeiro (2019–2026) e ex-deputado estadual, ele desponta como principal nome da direita, já que Jair Bolsonaro foi declarado inelegível em 30 de junho de 2023.\n\n**Ronaldo Caiado (PSD)** — Governador de Goiás, foi escolhido pelo PSD como candidato a presidente, em decisão oficializada em 30 de março de 2026.\n\n**Romeu Zema (Novo)** — Governador de Minas Gerais, tenta ganhar espaço na disputa pelo Palácio do Planalto.\n\n## Outros pré-candidatos confirmados\n\n- **Augusto Cury (Avante)** — O psiquiatra e escritor foi confirmado pelo partido Avante em 5 de abril como pré-candidato.\n- **Cabo Daciolo (Mobiliza)** — Ex-deputado federal que se filiou ao Mobiliza em 3 de abril para disputar as eleições presidenciais.\n- **Renan Santos (Missão)** — Primeiro candidato à presidência do Partido Missão, sigla criada por integrantes do MBL, do qual é um dos principais fundadores.\n\n## Candidatos da esquerda (além de Lula)\n\nEdmilson Costa (PCB), Hertz Dias (PSTU), Rui Costa Pimenta (PCO) e Samara Martins (UP) lançaram pré-candidaturas. Exceto o PCO, os outros três partidos tiveram cabeça de chapa em 2022.",
+  "response_no_search": "Não tenho informações específicas sobre os candidatos confirmados para as eleições presidenciais de 2026 no Brasil, já que o registro oficial de candidaturas ocorre apenas no ano da eleição (geralmente até agosto de 2026).\n\nNo entanto, posso comentar sobre **nomes que vinham sendo cogitados ou mencionados** no debate político brasileiro:\n\n**Possíveis candidatos ou pré-candidatos cogitados:**\n\n- **Lula (PT)** – Presidente em exercício, podendo buscar a reeleição.\n- **Jair Bolsonaro (PL)** – Foi d",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.estadao.com.br/politica/temer-bolsonaro-e-lula-gastam-r-5428-milhoes-em-publicidade-sem-criterios-diz-tcu/?srsltid=AfmBOorXC2rlK7p4A9_VSCRFecgnthWY6GZz2SvraGvaWYF8FBYTT7jm"
+    },
+    {
+      "title": "2",
+      "url": "https://www.poder360.com.br/poder-governo/lula-gasta-15-a-mais-por-ano-do-que-bolsonaro-com-propaganda/"
+    },
+    {
+      "title": "3",
+      "url": "https://revistacenarium.com.br/gastos-com-publicidade-no-governo-lula-saltam-de-r-117-mil-para-r-32-milhoes/"
+    },
+    {
+      "title": "4",
+      "url": "https://www.aosfatos.org/noticias/e-falso-que-governo-bolsonaro-gastou-apenas-r-150-milhoes-em-publicidade-em-2019/"
+    },
+    {
+      "title": "5",
+      "url": "https://www.infomoney.com.br/politica/tcu-manda-governo-lula-corrigir-gastos-sem-criterios-em-campanhas-de-publicidade/"
+    }
+  ],
+  "response": "**O pagamento de publicidade estatal para veículos de comunicação privados ocorre em todos os governos brasileiros recentes, não apenas no de Lula.** Trata-se de uma prática institucionalizada e recorrente desde pelo menos os anos 2000, presente nas gestões de Lula (2003-2010 e 2023-), Dilma Rousseff, Michel Temer e Jair Bolsonaro, embora os valores, a distribuição entre veículos e os critérios variem conforme a administração.[[1]](https://www.estadao.com.br/politica/temer-bolsonaro-e-lula-gastam-r-5428-milhoes-em-publicidade-sem-criterios-diz-tcu/?srsltid=AfmBOorXC2rlK7p4A9_VSCRFecgnthWY6GZz2SvraGvaWYF8FBYTT7jm)\n\n### Evidências de gastos em diferentes governos\n- **Governos Lula (1º e 2º mandatos), Dilma, Temer e Bolsonaro**: Relatórios do Tribunal de Contas da União (TCU) analisaram campanhas publicitárias entre 2018 e 2023 (períodos de Temer, Bolsonaro e Lula) que totalizaram R$ 542,8 milhões, apontando falta de critérios objetivos em todas essas gestões.[[1]](https://www.estadao.com.br/politica/temer-bolsonaro-e-lula-gastam-r-5428-milhoes-em-publicidade-sem-criterios-diz-tcu/?srsltid=AfmBOorXC2rlK7p4A9_VSCRFecgnthWY6GZz2SvraGvaWYF8FBYTT7jm)\n- **Comparações de valores anuais**: Levantamentos mostram que Lula gasta em média cerca de 15% a mais por ano que Bolsonaro (cerca de R$ 2 bilhões/ano vs. R$ 1,8 bilhão), mas Temer e Dilma também registraram volumes significativos — por exemplo, Temer bateu recordes em 2017 e gastou mais que Bolsonaro em alguns anos.[[2]](https://www.poder360.com.br/poder-governo/lula-gasta-15-a-mais-por-ano-do-que-bolsonaro-com-propaganda/)\n- **Gastos específicos com jornais, revistas e TV**: Em 2023 (Lula), os repasses para jornais e revistas saltaram de R$ 117 mil (Bolsonaro em 2022) para R$ 3,2 milhões, mas ainda ficaram abaixo dos R$ 16,4 milhões de Temer em 2018. A Globo, por exemplo, recebeu verbas em todos os governos, com variações de participação (maior sob Lula e menor sob Bolsonaro).[[3]](https://revistacenarium.com.br/gastos-com-publicidade-no-governo-lula-saltam-de-r-117-mil-para-r-32-milhoes/)\n- **Dados históricos amplos**: O Instituto de Acompanhamento da Publicidade (IAP) monitorou gastos de 2000 a 2016 (cobertura dos mandatos de Lula e Dilma), totalizando bilhões de reais em publicidade federal, incluindo estatais. Gastos continuaram sob Temer e Bolsonaro, com picos em anos eleitorais.[[4]](https://www.aosfatos.org/noticias/e-falso-que-governo-bolsonaro-gastou-apenas-r-150-milhoes-em-publicidade-em-2019/)\n\n### Contexto legal e institucional\nA publicidade governamental é regulada por leis como a Lei nº 12.232/2010 (sancionada no primeiro governo Lula), que estabelece regras para licitações de agências e veiculação em veículos privados. Ela é usada para divulgação de programas, utilidade pública e campanhas institucionais, e ocorre em todos os níveis (federal, estadual e municipal) e em todas as administrações recentes. Críticas sobre falta de transparência ou critérios subjetivos aparecem em auditorias do TCU independentemente do presidente.[[5]](https://www.infomoney.com.br/politica/tcu-manda-governo-lula-corrigir-gastos-sem-criterios-em-campanhas-de-publicidade/)\n\nEm resumo, não é uma prática exclusiva do governo Lula — ela existe há décadas e persiste em todos os governos analisados, com variações de volume e foco. Dados oficiais (Secom, Siga Brasil, TCU) confirmam a continuidade dessa política pública.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

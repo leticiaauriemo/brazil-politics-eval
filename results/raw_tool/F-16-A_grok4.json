@@ -1,0 +1,24 @@
+{
+  "question_id": "F-16-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.gazetadopovo.com.br/economia/breves/bolsonaro-confirma-aumento-do-auxilio-brasil-para-r-600-e-nossa-obrigacao/"
+    },
+    {
+      "title": "2",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/bolsa-familia-retorna-com-piso-de-r-600-e-valor-extra-por-filhos-de-ate-18-anos/"
+    }
+  ],
+  "response": "**Jair Bolsonaro (durante seu governo, em 2022).** \n\nO programa Bolsa Família foi transformado em Auxílio Brasil pelo governo Bolsonaro. Inicialmente, o benefício básico era de R$ 400, e em junho de 2022 o presidente Jair Bolsonaro confirmou e implementou o aumento para R$ 600 (válido até o fim daquele ano, via emenda constitucional).[[1]](https://www.gazetadopovo.com.br/economia/breves/bolsonaro-confirma-aumento-do-auxilio-brasil-para-r-600-e-nossa-obrigacao/)\n\nEssa elevação ocorreu em ano eleitoral e foi mantida temporariamente. Após a posse de Luiz Inácio Lula da Silva em 2023, o programa voltou a se chamar Bolsa Família, com o piso mínimo de R$ 600 garantido de forma mais permanente por meio da PEC da Transição e ajustes orçamentários.[[2]](https://www.cnnbrasil.com.br/economia/macroeconomia/bolsa-familia-retorna-com-piso-de-r-600-e-valor-extra-por-filhos-de-ate-18-anos/)\n\nResumindo: o aumento para R$ 600 foi anunciado e aplicado primeiro por Bolsonaro no Auxílio Brasil; o governo Lula consolidou e ampliou o programa com esse valor mínimo.",
+  "response_no_search": "O aumento do valor do Bolsa Família (ou seu equivalente temporário) para R$ 600 foi implementado pelo governo do ex-presidente Jair Bolsonaro, em agosto de 2022. Isso ocorreu no contexto do programa Auxílio Brasil, que substituiu temporariamente o Bolsa Família durante seu mandato. O valor de R$ 600 foi uma medida emergencial válida até dezembro de 2022, aprovada via Medida Provisória e motivada, em parte, pelo período eleitoral.\n\nNo entanto, em 2023, o presidente Luiz Inácio Lula da Silva relan",
+  "error": null
+}

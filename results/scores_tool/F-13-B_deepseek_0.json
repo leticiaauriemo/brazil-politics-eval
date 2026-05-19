@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Bolsonaro government, the EC 103, the year 2019, and the specific minimum ages, aligning perfectly with the ground truth and resolution criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately identifies the Bolsonaro government, the year 2019, and specifies that it was the first reform to establish minimum retirement ages."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

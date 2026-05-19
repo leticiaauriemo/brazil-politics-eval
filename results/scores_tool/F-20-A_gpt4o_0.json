@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Brazil was among the top countries for total doses but incorrectly attributes the success to the government's efforts rather than the SUS/PNI infrastructure, and omits the specific 4th place ranking."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil's high vaccination numbers but does not specifically state that it was 4th globally or attribute the performance to the SUS/PNI infrastructure."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-25-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "prompt": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sim, Zema pode concorrer à reeleição para governador de Minas Gerais em 2026, desde que seja eleito no primeiro turno das eleições de 2026, pois a Constituição Estadual estabelece um limite de dois mandatos consecutivos, mas não proíbe a volta de um ex-governador após um intervalo.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

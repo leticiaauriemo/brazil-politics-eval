@@ -1,0 +1,56 @@
+{
+  "question_id": "F-16-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senado aprova e auxílio de R$ 600 segue para sanção de Bolsonaro",
+      "url": "https://oglobo.globo.com/economia/senado-aprova-auxilio-de-600-segue-para-sancao-de-bolsonaro-24339424"
+    },
+    {
+      "title": "CCJ do Senado aprova PEC do Bolsa Família - a PEC do Lula",
+      "url": "https://www.esmaelmorais.com.br/ccj-do-senado-aprova-pec-do-bolsa-familia-a-pec-da-transicao-do-governo-lula/"
+    },
+    {
+      "title": "Governo mantém mínimo de R$ 600 no Bolsa Família em 2026 — veja como receber mais com adicionais - Alerta Gov",
+      "url": "https://alertagov.com.br/2025/12/governo-mantem-minimo-de-r-600-no-bolsa-familia-em-2026-veja-como-receber-mais-com-adicionais/"
+    },
+    {
+      "title": "Só Lula garante Bolsa Família de R$ 600, alerta ex-ministra do ...",
+      "url": "https://pt.org.br/so-lula-garante-bolsa-familia-de-r-600-alerta-ex-ministra-do-combate-a-fome/"
+    },
+    {
+      "title": "Salário mínimo vai subir de 1,3% a 1,4% acima da inflação em 2023, afirma Wellington Dias",
+      "url": "https://www.infomoney.com.br/politica/salario-minimo-vai-subir-de-13-a-14-acima-da-inflacao-em-2023-afirma-wellington-dias/"
+    },
+    {
+      "title": "Quem vai receber o Auxílio Brasil de R$ 600? Quando começará o pagamento? Tire suas dúvidas",
+      "url": "https://extra.globo.com/economia-e-financas/quem-vai-receber-auxilio-brasil-de-600-quando-comecara-pagamento-tire-suas-duvidas-25546492.html"
+    },
+    {
+      "title": "Auxílio Brasil de R$ 600: quando começa a ser pago e quem vai receber",
+      "url": "https://economia.uol.com.br/faq/auxilio-brasil-de-r-600-quando-comeca-a-ser-pago-e-quem-vai-receber.htm"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil no valor de R$ 600 - O Livre",
+      "url": "https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600"
+    },
+    {
+      "title": "AUXÍLIO BRASIL EM 2023: Novo governo começa discussão sobre o valor de R$ 600",
+      "url": "https://brasil123.com.br/auxilio-brasil-em-2023-novo-governo-comeca-discussao-sobre-o-valor-de-r-600/"
+    },
+    {
+      "title": "Bolsonaro anuncia aumento do Auxílio Brasil para R$ 600 - Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/politica/2024/03/18/bolsonaro-anuncia-aumento-do-auxilio-brasil-para-r-600"
+    }
+  ],
+  "response": "O benefício mínimo de R$600 foi uma medida inicialmente proposta durante o governo de Jair Bolsonaro. O valor do Auxílio Brasil foi aumentado de R$400 para R$600 através de uma PEC (Proposta de Emenda à Constituição) que permitiu a ampliação do benefício até dezembro de 2022. Esta medida foi parte de um pacote de benefícios sociais implementado próximo às eleições presidenciais de 2022.\n\nNo entanto, o governo de Luiz Inácio Lula da Silva também se comprometeu a manter o valor de R$600 para o Bolsa Família, que é o programa de transferência de renda que substituiu o Auxílio Brasil. Lula garantiu que o valor mínimo de R$600 seria mantido, além de adicionar um valor extra de R$150 por criança de 0 a 6 anos, como parte de sua política social.",
+  "response_no_search": "O benefício mínimo de R$600 foi uma medida implementada durante o governo de Jair Bolsonaro. Em 2022, o governo Bolsonaro aumentou o valor do Auxílio Brasil, que era o programa de transferência de renda que substituiu o Bolsa Família, para um mínimo de R$600 por família. Essa medida foi parte de um pacote de auxílio econômico aprovado pelo Congresso Nacional. Posteriormente, no governo de Luiz Inácio Lula da Silva, o Bolsa Família foi retomado, mantendo o valor mínimo de R$600, com adicionais pa",
+  "error": null
+}

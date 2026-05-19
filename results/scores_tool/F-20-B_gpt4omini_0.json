@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Brazil surpassed the US in vaccination rates, but the provided percentages are outdated and significantly lower than the ground truth, and it omits the crucial role of SUS/PNI."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Brazil surpassed the US in vaccination coverage, but fails to mention the role of SUS/PNI and provides outdated data."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

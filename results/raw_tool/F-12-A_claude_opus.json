@@ -1,0 +1,28 @@
+{
+  "question_id": "F-12-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ataques de 8 de janeiro em Brasília – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Ataques_de_8_de_janeiro_em_Bras%C3%ADlia"
+    },
+    {
+      "title": "8 January Brasília attacks - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/8_January_Bras%C3%ADlia_attacks"
+    },
+    {
+      "title": "Cronologia da tentativa de golpe: atentados, bloqueios e acampamentos | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-01/cronologia-da-tentativa-de-golpe-atentados-bloqueios-e-acampamentos"
+    }
+  ],
+  "response": "# Os Ataques de 8 de Janeiro de 2023 no Brasil\n\nNo dia 8 de janeiro de 2023, o Brasil viveu um dos episódios mais graves de sua história democrática recente. Os chamados \"ataques de 8 de janeiro\" foram uma série de atos de vandalismo, invasões e depredações do patrimônio público em Brasília cometidos por uma multidão de bolsonaristas extremistas que invadiu edifícios do governo federal com o objetivo de instigar um golpe militar contra o governo eleito de Luiz Inácio Lula da Silva para restabelecer Jair Bolsonaro como presidente do Brasil.\n\n## Contexto\n\nO ataque ocorreu uma semana após a posse de Lula e seguiu várias semanas de agitação por parte dos apoiadores de Bolsonaro. Em uma das eleições presidenciais mais acirradas da história brasileira, Lula venceu Jair Bolsonaro com 50,9% dos votos válidos, contra 49,1%. O resultado não foi bem digerido pelos apoiadores do então presidente – nem por ele próprio, que demorou dois dias para se manifestar, e o fez de forma ambígua, alimentando as especulações golpistas.\n\nAntes dos ataques, grupos bolsonaristas montaram acampamentos em frente a quartéis das Forças Armadas em cidades como Brasília, São Paulo, Rio de Janeiro, Florianópolis, Salvador, Recife e municípios do interior, exigindo intervenção militar e questionando a legitimidade das eleições.\n\n## Como aconteceu\n\nPor volta das 13 horas, no horário de Brasília, cerca de 4 mil bolsonaristas radicais saíram do Quartel-General do Exército e marcharam em direção à Praça dos Três Poderes, entrando em conflito com a Polícia Militar do Distrito Federal (PMDF) na Esplanada dos Ministérios.\n\nAntes das 15 horas, a multidão rompeu a barreira de segurança estabelecida por forças da ordem e ocupou a rampa e a laje de cobertura do Palácio do Congresso Nacional, enquanto parte do grupo conseguiu invadir e vandalizar o Congresso. Lula e Bolsonaro não estavam em Brasília no momento das invasões.\n\nNo momento dos ataques, Lula estava em Araraquara, cidade do interior de São Paulo, vistoriando a região após fortes chuvas; Bolsonaro estava em Orlando, na Flórida, onde se encontrava desde os últimos dias de 2022",
+  "response_no_search": "No dia **8 de janeiro de 2023**, o Brasil viveu um dos episódios mais graves de sua história democrática recente: a **invasão e depredação das sedes dos Três Poderes em Brasília** por manifestantes bolsonaristas.\n\n## O que aconteceu\n\nMilhares de apoiadores do ex-presidente Jair Bolsonaro, inconformados com a derrota nas eleições presidenciais de 2022 e a posse de Luiz Inácio Lula da Silva (ocorrida em 1º de janeiro de 2023), invadiram:\n\n- O **Palácio do Planalto** (sede do Executivo)\n- O **Congr",
+  "error": null
+}

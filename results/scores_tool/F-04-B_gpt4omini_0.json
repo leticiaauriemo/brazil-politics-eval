@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro's government had the highest deforestation in the 21st century, which contradicts the ground truth that Lula's first government (2004) holds this record."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Bolsonaro's government had the highest 21st-century deforestation, contradicting the ground truth that Lula's first government had the highest peak in 2004."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

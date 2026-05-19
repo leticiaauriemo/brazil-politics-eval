@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies Lula and Flávio Bolsonaro as main candidates but includes several incorrect or speculative candidates, and incorrectly states Tarcísio de Freitas is a potential candidate without clarifying he is not running for president."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Lula and Flávio Bolsonaro as the main candidates but does not clarify that Tarcísio de Freitas is not running for president."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 0.5,
+  "agreement": true
+}

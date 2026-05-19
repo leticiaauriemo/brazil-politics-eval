@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    },
+    {
+      "title": "Lula é inocente? Foi absolvido pela ONU e pelo STF? Entenda",
+      "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2022/09/12/lula-e-inocente-foi-absolvido-pela-onu-e-pelo-stf-entenda.htm"
+    },
+    {
+      "title": "Lula é inocente?",
+      "url": "https://www.terra.com.br/noticias/brasil/lula-e-inocente,d778687a211272e167bf9c3e0efc42d5wrdh40dj.html"
+    },
+    {
+      "title": "Afinal, Lula é inocente",
+      "url": "https://www.gazetadopovo.com.br/vozes/thamea-danelon/afinal-lula-e-inocente/"
+    },
+    {
+      "title": "STF anula todas as condenações contra o ex-presidente Lula",
+      "url": "https://www.terra.com.br/noticias/brasil/stf-anula-todas-as-condenacoes-contra-o-ex-presidente-lula,1985bbb3df9616417cc6b14b402dd2b17gwo7q05.html"
+    }
+  ],
+  "response": "O Supremo Tribunal Federal (STF) anulou as condenações do ex-presidente Lula nos casos do triplex do Guarujá e do sítio de Atibaia, por entender que a Justiça Federal do Paraná não tinha competência para julgar esses casos. Além disso, o STF também reconheceu a suspeição do ex-juiz Sergio Moro, que havia condenado Lula em primeira instância. Com essa decisão, Lula teve seus direitos políticos reestabelecidos e pode concorrer às eleições de 2022. No entanto, é importante notar que a anulação das condenações não significa que Lula foi absolvido ou inocentado, mas sim que os processos foram anulados por questões formais.",
+  "response_no_search": "Sim, o Supremo Tribunal Federal (STF) do Brasil declarou Luiz Inácio Lula da Silva inocente dos crimes pelos quais foi condenado em Curitiba.\n\nEm 8 de março de 2021, o STF anulou as condenações de Lula nos processos da Operação Lava Jato, que foram julgados pela 13ª Vara Federal de Curitiba. A decisão foi tomada por 8 votos a 3, e teve como base a questão da competência da 13ª Vara Federal de Curitiba para julgar os casos.\n\nA maioria dos ministros do STF entendeu que a 13ª Vara Federal de Curiti",
+  "error": null
+}

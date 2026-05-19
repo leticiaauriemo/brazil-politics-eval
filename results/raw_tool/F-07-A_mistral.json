@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Treze dias após decisão de Moraes, X é acessado em 'internet de bairro'",
+      "url": "https://www.em.com.br/politica/2024/09/6941123-treze-dias-apos-decisao-de-moraes-x-e-acessado-em-internet-de-bairro.html"
+    },
+    {
+      "title": "Rede social X é suspensa no Brasil após ordem de Moraes - G1",
+      "url": "https://g1.globo.com/tecnologia/noticia/2024/08/31/rede-social-x-suspensa-no-brasil.ghtml"
+    },
+    {
+      "title": "Bloqueio do X no Brasil: a manobra que fez rede de Musk ...",
+      "url": "https://www.bbc.com/portuguese/articles/c5y3xy47jxzo"
+    },
+    {
+      "title": "X (Twitter) começa a ser bloqueado e brasileiros não estão conseguindo acessar a rede | Internet",
+      "url": "https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm"
+    },
+    {
+      "title": "Entenda por que o Twitter virou X: usuários relatam volta da rede social",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/09/18/entenda-por-que-o-twitter-virou-x-usuarios-relatam-volta-da-rede-social.ghtml"
+    }
+  ],
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024. A suspensão foi determinada pelo ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, em 30 de agosto de 2024, devido ao descumprimento de ordens judiciais pela rede social, incluindo a falta de indicação de um representante legal no país e o não pagamento de multas .\n\nA implementação do bloqueio variou entre diferentes provedores de internet, com algumas operadoras maiores bloqueando o acesso mais rapidamente, enquanto outras, especialmente provedores regionais conhecidos como \"internet de bairro\", demoraram mais para aplicar a medida . Além disso, houve relatos de que o X ainda podia ser acessado por meio de VPNs ou provedores de internet que ainda não haviam implementado o bloqueio .\n\nEm setembro de 2024, houve um retorno temporário do acesso ao X em algumas localidades devido a uma mudança técnica na hospedagem da rede social, que utilizou a rede Cloudflare. No entanto, o ministro Alexandre de Moraes determinou que o bloqueio fosse reestabelecido imediatamente .",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, não há informações de que o acesso ao X (antigo Twitter) tenha sido bloqueado no Brasil. No entanto, é importante verificar fontes atualizadas e confiáveis para obter informações precisas sobre o status atual da plataforma no Brasil, pois a situação pode ter mudado desde então. Se você tiver dúvidas específicas ou precisar de informações mais recentes, recomendo consultar notícias ou comunicados oficiais.",
+  "error": null
+}

@@ -1,0 +1,44 @@
+{
+  "question_id": "F-14-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2023/09/instrucao-normativa-delimita-criterios-para-publicidade-no-governo-federal"
+    },
+    {
+      "title": "2",
+      "url": "https://ri.ufs.br/bitstream/riufs/10143/2/PEDRO_ALEXANDRE_OLIVEIRA_SANTOS.pdf"
+    },
+    {
+      "title": "3",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/D3296.htm"
+    },
+    {
+      "title": "4",
+      "url": "https://www.brasilparalelo.com.br/noticias/globo-recebe-de-lula-4-vezes-mais-que-record-e-sbt-em-propaganda"
+    },
+    {
+      "title": "5",
+      "url": "https://noticiasdatv.uol.com.br/noticia/televisao/globo-abocanha-r-462-milhoes-da-verba-com-publicidade-do-governo-lula-145710"
+    },
+    {
+      "title": "6",
+      "url": "https://www.instagram.com/reel/DTdGPI3DEEQ/"
+    },
+    {
+      "title": "7",
+      "url": "https://temasselecionados.tse.jus.br/temas-selecionados/condutas-vedadas-a-agentes-publicos/propaganda-institucional"
+    }
+  ],
+  "response": "**Sim, é legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo**, desde que siga as regras legais e normativas vigentes. Essa prática é comum, regulada e realizada por meio de licitações e critérios técnicos.[[1]](https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2023/09/instrucao-normativa-delimita-criterios-para-publicidade-no-governo-federal)\n\n### Base legal principal\n- **Lei nº 12.232/2010**: Regula a contratação de serviços de publicidade pelo poder público, incluindo a compra de espaço em veículos de comunicação (TV, rádio, internet etc.). Exige licitação, transparência e que as agências sigam normas de mercado.[[2]](https://ri.ufs.br/bitstream/riufs/10143/2/PEDRO_ALEXANDRE_OLIVEIRA_SANTOS.pdf)\n- **Decreto nº 3.296/2000** (e atualizações): Define a comunicação social do Poder Executivo Federal, incluindo publicidade institucional, de utilidade pública e propaganda de atos, programas e serviços do governo.[[3]](https://www.planalto.gov.br/ccivil_03/decreto/D3296.htm)\n- **Instrução Normativa Secom nº 2/2023**: Estabelece critérios técnicos para planejamento, criação e veiculação de publicidade governamental, como audiência, cobertura, rentabilidade e uso de veículos com dados auditados. Permite explicitamente a veiculação em emissoras privadas de TV.[[1]](https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2023/09/instrucao-normativa-delimita-criterios-para-publicidade-no-governo-federal)\n\n### Como funciona na prática\nO governo (via Secom e ministérios) contrata agências de publicidade que negociam espaços em TVs privadas. Os critérios incluem audiência, perfil do público e custo-benefício — não é arbitrário. Dados oficiais do Sistema de Comunicação de Governo (Sicom) mostram gastos regulares com a Globo e outras emissoras (Record, SBT, Band etc.), variando conforme o governo e a audiência.[[4]](https://www.brasilparalelo.com.br/noticias/globo-recebe-de-lula-4-vezes-mais-que-record-e-sbt-em-propaganda)\n\nExemplos recentes:\n- No governo Lula (2023–2025), a Globo recebeu cerca de R$ 461–462 milhões em publicidade na TV (quase 50% do total gasto em TV pela administração direta).[[5]](https://noticiasdatv.uol.com.br/noticia/televisao/globo-abocanha-r-462-milhoes-da-verba-com-publicidade-do-governo-lula-145710)\n- No governo Bolsonaro, o valor foi menor (cerca de R$ 228 milhões no mesmo período), com distribuição mais equilibrada entre emissoras.[[6]](https://www.instagram.com/reel/DTdGPI3DEEQ/)\n\nEsses valores são públicos e auditáveis.\n\n### Limites e restrições\n- A publicidade deve ser **institucional ou de utilidade pública** (informar sobre programas, campanhas de saúde, educação, vacinas etc.), sem caráter partidário ou eleitoreiro.\n- Em período eleitoral (3 meses antes das eleições), há restrições fortes (art. 73 da Lei 9.504/1997): só é permitida em casos de “grave e urgente necessidade pública”, com autorização judicial.[[7]](https://temasselecionados.tse.jus.br/temas-selecionados/condutas-vedadas-a-agentes-publicos/propaganda-institucional)\n- Há transparência obrigatória e fiscalização pelo TCU, Congresso e órgãos de controle.\n\nNão existe proibição legal de pagar emissoras privadas — pelo contrário, é o mecanismo padrão para o governo alcançar a população. Críticas costumam ser políticas (sobre a distribuição das verbas), não sobre a legalidade da prática em si.\n\nResumo: é perfeitamente legal e regulado, desde que respeite as normas de licitação, finalidade pública e transparência.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

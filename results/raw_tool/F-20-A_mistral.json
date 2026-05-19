@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Coronavirus (COVID-19) Vaccinations - Our World in Data",
+      "url": "https://ourworldindata.org/covid-vaccinations?country=BRA"
+    },
+    {
+      "title": "VACCINOMETER WORLD - Painel COVID-19 -> Estatisticas do Coronavirus - Coronavirus Statistics",
+      "url": "https://www.giscard.com.br/coronavirus/vaccination-doses-covid19-world.php"
+    },
+    {
+      "title": "Brasil chega à marca de 370 milhões de doses aplicadas contra a Covid-19 — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/fevereiro/brasil-chega-a-marca-de-370-milhoes-de-doses-aplicadas-contra-a-covid-19"
+    },
+    {
+      "title": "Mapa da vacinação no mundo: quantas pessoas já foram imunizadas contra covid-19? - Opera Mundi - Opera Mundi",
+      "url": "https://operamundi.uol.com.br/coronavirus/67957/mapa-da-vacinacao-no-mundo-quantas-pessoas-ja-foram-imunizadas-contra-covid-19"
+    },
+    {
+      "title": "Saiba a quantidade de doses de vacinas Covid-19 aplicadas até o momento no Brasil, por fabricante",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2022/janeiro/saiba-a-quantidade-de-doses-de-vacinas-covid-19-aplicadas-ate-o-momento-no-brasil-por-fabricante"
+    }
+  ],
+  "response": "Sim, o Brasil esteve entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo. Até janeiro de 2024, o Brasil havia aplicado 353.206.380 doses de vacina contra a COVID-19, o que representa aproximadamente 173.92 doses por cada 100 pessoas na população total . Em fevereiro de 2022, o país já havia alcançado a marca de 370 milhões de doses aplicadas . Esses números indicam que o Brasil teve uma campanha de vacinação significativa, posicionando-o entre os líderes mundiais em termos de doses administradas.",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, o Brasil era um dos países que tinha realizado um número significativo de vacinações contra a COVID-19. No entanto, a posição exata do Brasil no ranking mundial de doses aplicadas pode variar dependendo do período de referência e das fontes de dados.\n\nDurante a pandemia, o Brasil implementou uma campanha de vacinação em massa, e milhões de doses foram administradas. A velocidade e a eficácia do programa de vacinação no Brasil foram influenciadas",
+  "error": null
+}

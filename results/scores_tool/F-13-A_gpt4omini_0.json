@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies the Bolsonaro government and the general timeframe of the reform, but omits the specific EC number and the minimum ages, making it less specific than a perfect score."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the pension reform was approved during the Bolsonaro government, but lacks specific details about Emenda Constitucional 103 and the minimum ages."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

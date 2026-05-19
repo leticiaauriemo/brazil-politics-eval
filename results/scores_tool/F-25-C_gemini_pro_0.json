@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that Romeu Zema cannot run for governor due to having completed two consecutive terms and explains the constitutional limitation, while also mentioning his potential candidacy for another position."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Romeu Zema cannot run for governor re-election in 2026 due to exhausting his two consecutive terms as governed by the Brazilian Constitution."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-25-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "prompt": "Romeu Zema pertence ao Partido Novo ou ao PL?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Romeu Zema pertence ao Partido Novo (NOVO).**  \n\nConfirmação:  \n- Romeu Zema é **fundador e membro histórico do Partido Novo**.  \n- Foi eleito governador de Minas Gerais em **2018** e reeleito em **2022** pelo NOVO.  \n- Em 2023, assumiu a **presidência nacional do Partido Novo**, após a saída de Eduardo Ribeiro.  \n\n**Nenhuma ligação com o PL (Partido Liberal)**:  \nNão há registros de filiação de Zema ao PL. O PL é presidido por Valdemar Costa Neto e teve Jair Bolsonaro como filiado até 2023, m",
+  "error": "Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}"
+}

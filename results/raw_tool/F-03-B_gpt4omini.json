@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Bolsonaro inelegível: entenda o que acontece com o ex-presidente após a condenação no TSE | G1",
+      "url": "https://g1.globo.com/politica/noticia/2023/06/30/entenda-o-que-pode-acontecer-se-o-tse-considerar-bolsonaro-inelegivel-nesta-sexta.ghtml"
+    },
+    {
+      "title": "TSE torna Bolsonaro inelegível até 2030 por abuso de poder político",
+      "url": "https://www.metropoles.com/brasil/tse-torna-bolsonaro-inelegivel-ate-2030-por-abuso-de-poder-politico"
+    },
+    {
+      "title": "Inelegibilidade deixa Bolsonaro fora de três eleições - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2023/06/19/interna_politica,1509378/inelegibilidade-deixa-bolsonaro-fora-de-tres-eleicoes.shtml"
+    },
+    {
+      "title": "TSE publica decisão que tornou Bolsonaro inelegível por oito anos | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-08/tse-publica-decisao-que-tornou-bolsonaro-inelegivel-por-oito-anos"
+    }
+  ],
+  "response": "O Tribunal Superior Eleitoral (TSE) declarou Jair Bolsonaro inelegível por um período de oito anos, a partir das eleições de 2022. Isso significa que ele está impedido de concorrer a qualquer cargo eletivo até 2030. A inelegibilidade foi determinada devido a abuso de poder político e uso indevido dos meios de comunicação durante uma reunião com embaixadores em julho de 2022.\n\nA decisão foi tomada em 30 de junho de 2023, e a inelegibilidade se aplica às eleições de 2024, 2026 e 2028. Bolsonaro poderá se candidatar novamente a partir de 2 de outubro de 2030, que é a data em que a inelegibilidade se encerra. \n\nPara mais detalhes, você pode consultar a [notícia do TSE](https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos) ou a [reportagem do G1](https://g1.globo.com/politica/noticia/2023/06/30/entenda-o-que-pode-acontecer-se-o-tse-considerar-bolsonaro-inelegivel-nesta-sexta.ghtml).",
+  "response_no_search": "A inelegibilidade de Jair Bolsonaro, declarada pelo Tribunal Superior Eleitoral (TSE), pode durar até oito anos, contados a partir da data da decisão. Isso significa que ele não poderá se candidatar a cargos eletivos durante esse período. A duração exata da inelegibilidade pode depender do tipo de infração que foi considerada pelo TSE e das especificidades do caso. Para informações mais detalhadas e atualizadas, é sempre bom consultar fontes oficiais ou notícias recentes.",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Entenda como funciona a publicidade no Governo Federal",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/publicidade"
+    },
+    {
+      "title": "Publicidade - Governo vai dar R$ 206 mi à Globo - Ricardo Feltrin",
+      "url": "https://ooops.com.br/publicidade-governo-vai-dar-r-206-mi-a-globo/"
+    },
+    {
+      "title": "TCU vê falta de critério do governo Bolsonaro no rateio de verbas para TVs - 11/08/2020 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2020/08/tcu-ve-falta-de-criterio-do-governo-bolsonaro-no-rateio-de-verbas-para-tvs.shtml"
+    },
+    {
+      "title": "A publicidade federal concentra recursos na Globo e reacende o debate sobre critérios de distribuição. - Luciana",
+      "url": "https://portalnoticiasbahia.com.br/2026/01/12/a-publicidade-federal-concentra-recursos-na-globo-e-reacende-o-debate-sobre-criterios-de-distribuicao/"
+    },
+    {
+      "title": "",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2821676&filename=RIC+4168%2F2024"
+    }
+  ],
+  "response": "Sim, é legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo. Essa prática é regulamentada pela **Lei nº 12.232/2010**, que estabelece critérios para a contratação de serviços de publicidade pela administração pública. Segundo a lei, os recursos devem ser distribuídos com base em parâmetros técnicos, como **audiência**, **alcance populacional** e **efetividade da comunicação**, entre outros.\n\nNo entanto, a distribuição desses recursos tem sido alvo de debates e questionamentos, especialmente em relação à **transparência** e à **equidade** na alocação de verbas públicas. Em 2020, o **Tribunal de Contas da União (TCU)** identificou falhas na distribuição de recursos durante o governo Bolsonaro, destacando a falta de critérios técnicos claros. Já no governo Lula, houve um aumento significativo nos gastos com publicidade na Globo, o que reacendeu discussões sobre a **concentração de recursos** em uma única emissora.\n\nEm resumo, a prática é legal, mas deve seguir critérios técnicos e objetivos, garantindo transparência e pluralidade na comunicação pública.",
+  "response_no_search": "Sim, é legal no Brasil o governo federal pagar por publicidade em emissoras de TV privadas, como a Rede Globo, desde que esse gasto seja feito dentro das regras estabelecidas pela legislação brasileira. Aqui estão os pontos principais que regulamentam essa prática:\n\n### **1. Base Legal**\n- A **Constituição Federal** (Art. 37) estabelece que a administração pública deve seguir os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.\n- A **Lei nº 12.232/2010** regulamenta",
+  "error": null
+}

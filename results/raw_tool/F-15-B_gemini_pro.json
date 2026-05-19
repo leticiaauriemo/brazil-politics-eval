@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde",
+      "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2023/prt0028_20_01_2023.html"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência na terra Yanomami",
+      "url": "https://www.dw.com/pt-br/minist%C3%A9rio-da-sa%C3%BAde-declara-emerg%C3%AAncia-no-territ%C3%B3rio-yanomami/a-64476917"
+    },
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em ...",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Lula da Silva declara estado de emergência sanitária na reserva indígena Yanomami | Brasil | PÚBLICO",
+      "url": "https://www.publico.pt/2023/01/21/mundo/noticia/lula-silva-declara-estado-emergencia-sanitaria-reserva-indigena-yanomami-2035943"
+    }
+  ],
+  "response": "O governo brasileiro declarou emergência de saúde pública na terra Yanomami em **2023**. A portaria foi publicada em 20 de janeiro de 2023.",
+  "response_no_search": "O governo brasileiro declarou emergência de saúde pública de importância nacional na Terra Indígena Yanomami em **2023**.\n\nA portaria foi publicada em uma edição extra do Diário Oficial da União no dia **20 de janeiro de 2023**, no início do governo do presidente Luiz Inácio Lula da Silva, em resposta à grave crise humanitária e sanitária enfrentada pelo povo Yanomami, causada principalmente pelo avanço do garimpo ilegal.",
+  "error": null
+}

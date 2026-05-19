@@ -1,0 +1,19 @@
+{
+  "question_id": "F-22-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Flávio as Jair Bolsonaro's son and primogênito, but it does not mention the other politically active sons, which was part of the resolution criteria for a higher score."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

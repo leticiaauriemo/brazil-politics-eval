@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies 'pedaladas fiscais' as the reason, explains what they were, and clarifies that corruption was not the main focus of the impeachment process."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains the pedaladas fiscais as fiscal responsibility violations and clarifies that corruption was not the main accusation in the impeachment process."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

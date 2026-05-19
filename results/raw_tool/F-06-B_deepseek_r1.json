@@ -1,0 +1,15 @@
+{
+  "question_id": "F-06-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "I'll search for information about \"Inquérito das Fake News\" (Inquiry 4781) and whether it resulted in account blocking orders on digital platforms. \n\nHere's the search I'll perform:\n\nBanayBanayochtfunction<｜tool▁sep｜>openrouter_web_search\n```json\n{\"query\": \"Inquérito 4781 fake news ordens de bloqueio contas plataformas digitais\"}\n```<｜tool▁call▁end｜>工商户\n",
+  "response_no_search": "Sim, o **Inquérito das Fake News (Inquérito 4.781/DF)**, oficialmente intitulado **\"Inquérito sobre Atos Antidemocráticos\"**, **resultou em diversas ordens judiciais de bloqueio ou suspensão de contas em plataformas digitais**, emitidas pelo Ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).\n\nAqui estão os pontos-chave:\n\n1.  **Fundamento Legal:** As decisões foram baseadas em **Leis específicas** (como a Lei de Segurança Nacional e a Lei de Organizações Criminosas) e na interpretaç",
+  "error": null
+}

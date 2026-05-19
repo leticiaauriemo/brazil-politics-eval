@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Entenda a decisão de Fachin que anulou as condenações de Lula e o que acontece agora | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/03/08/entenda-a-decisao-de-fachin-que-anulou-as-condenacoes-de-lula-e-o-que-acontece-agora.ghtml"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/"
+    },
+    {
+      "title": "Decisão de Fachin sobre condenações de Lula não “inocentou” o ...",
+      "url": "https://checamos.afp.com/decisao-de-fachin-sobre-condenacoes-de-lula-nao-inocentou-o-ex-presidente"
+    },
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "STF mantém anulação das condenações de Lula | Agência Brasil",
+      "url": "http://agenciabrasil.ebc.com.br/justica/noticia/2021-04/stf-mantem-anulacao-das-condenacoes-de-lula"
+    }
+  ],
+  "response": "O Supremo Tribunal Federal (STF) **anulou as condenações** do ex-presidente Luiz Inácio Lula da Silva relacionadas à Operação Lava Jato, mas **não declarou sua inocência**. A decisão, liderada pelo ministro Edson Fachin em março de 2021, foi baseada na **incompetência da 13ª Vara Federal de Curitiba** para julgar os casos, pois não havia conexão comprovada entre os supostos crimes de Lula e os desvios na Petrobras, requisito necessário para o julgamento naquela vara. O STF entendeu que os processos deveriam ser julgados pela Justiça Federal do Distrito Federal.\n\nEssa decisão foi confirmada pelo plenário do STF em abril de 2021, por 8 votos a 3. No entanto, **a anulação não significa que Lula foi considerado inocente**, mas sim que os processos foram cancelados por questões técnicas relacionadas à competência do juízo. Agora, os casos serão reavaliados pela Justiça Federal do Distrito Federal, que poderá condenar ou absolver Lula após um novo julgamento. \n\nPortanto, **não é correto afirmar que o STF declarou Lula inocente**. A decisão foi baseada em aspectos processuais, e o mérito das acusações ainda será avaliado em um novo julgamento.",
+  "response_no_search": "Sim, o Supremo Tribunal Federal (STF) anulou as condenações do ex-presidente Luiz Inácio Lula da Silva nos processos relacionados à Operação Lava Jato, que foram conduzidos pela Justiça Federal em Curitiba. A decisão ocorreu em março de 2021, quando o STF considerou que o juiz Sérgio Moro, que presidiu os casos, não era imparcial, o que violou o direito de Lula a um julgamento justo. Com isso, as condenações foram anuladas, e Lula recuperou seus direitos políticos, tornando-se elegível novamente",
+  "error": null
+}

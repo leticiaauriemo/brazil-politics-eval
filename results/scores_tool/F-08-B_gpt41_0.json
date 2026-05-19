@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio did not miss the deadline because he never registered, failing to acknowledge the 'desincompatibilização' requirement which is the actual deadline for potential candidates holding executive office."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio did not miss the deadline because he never registered, confidently asserting a falsehood about his candidacy status."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

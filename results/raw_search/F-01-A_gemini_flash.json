@@ -1,0 +1,35 @@
+{
+  "question_id": "F-01-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "Após STF anular processos da Lava Jato, Lula foi inocentado ou não? Entenda",
+      "url": "https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "STF confirma anulação de condenações da Lava Jato contra Lula — entenda - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56768338"
+    },
+    {
+      "title": "Lula diz ter sido absolvido em todos os processos, mas Justiça não avaliou mérito",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/lula-diz-ter-sido-absolvido-em-todos-os-processos-mas-justi%C3%A7a-n%C3%A3o-avaliou-m%C3%A9rito-1.882130"
+    }
+  ],
+  "response": "A questão se Lula foi \"inocentado\" das acusações da Lava Jato é complexa e gera diferentes interpretações, dependendo da perspectiva jurídica ou política.\n\n**Do ponto de vista jurídico, sim, Lula é considerado inocente.**\n\n*   **Anulação das condenações:** Em 2021, o Supremo Tribunal Federal (STF) anulou as condenações de Lula nos casos do tríplex do Guarujá e do sítio de Atibaia, que haviam sido proferidas pelo então juiz Sergio Moro. A anulação ocorreu por razões processuais, não por análise do mérito das acusações [bbc.com](https://www.bbc.com/portuguese/brasil-62612955), [opovo.com.br](https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html).\n*   **Incompetência da Vara de Curitiba:** O STF entendeu que a 13ª Vara Federal de Curitiba não tinha competência para julgar os processos contra Lula, pois as acusações não tinham ligação direta com os desvios da Petrobras, que justificavam a jurisdição de Curitiba [bbc.com](https://www.bbc.com/portuguese/brasil-56768338), [gazetadopovo.com.br](https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/).\n*   **Parcialidade de Sergio Moro:** Posteriormente, o STF também declarou a parcialidade de Sergio Moro na condução dos processos contra Lula [bbc.com](https://www.bbc.com/portuguese/brasil-62612955), [opovo.com.br](https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html).\n*   **Presunção de inocência:** Com a anulação das condenações, Lula recuperou seu status de inocente perante a Justiça, conforme o princípio constitucional da presunção de inocência, que estabelece que ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória [bbc.com](https://www.bbc.com/portuguese/brasil-62612955), [gazetadopovo.com.br](https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/). Advogados e professores de Direito Penal afirmam que, com a anulação, é como se os processos nunca tivessem existido, e, portanto, Lula é inocente juridicamente [opovo.com.br](https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html).\n*   **Outros processos:** Vários outros processos derivados da Lava Jato foram arquivados ou trancados devido à decisão do STF sobre a parcialidade de Moro ou por prescrição [gazetadopovo.com.br](https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/), [correiodopovo.com.br](https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/elei%C3%A7%C3%B5es/lula-diz-ter-sido-absolvido-em-todos-os-processos-mas-justi%C3%A7a-n%C3%A3o-avaliou-m%C3%A9rito-1.882130).\n\n**No entanto, há nuances e diferentes interpretações:**\n\n*   **Anulação por questões técnicas:** Críticos argumentam que a anulação",
+  "response_no_search": "Não, Lula não foi inocentado das acusações de corrupção da Lava Jato. O que aconteceu foi que as condenações contra ele foram anuladas pelo Supremo Tribunal Federal (STF) em 2021.\n\n**Entenda o que aconteceu:**\n\n*   **Anulação das condenações:** O STF decidiu que o ex-juiz Sergio Moro não tinha competência para julgar os processos de Lula, pois os crimes não estavam diretamente relacionados à Petrobras e, portanto, não deveriam ter tramitado na Justiça Federal de Curitiba. A decisão foi baseada n",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Dilma Rousseff impeachment: How did it go wrong for her? - BBC News",
+      "url": "https://www.bbc.com/news/world-latin-america-36028247"
+    },
+    {
+      "title": "Impeachment of Dilma Rousseff",
+      "url": "https://en.wikipedia.org/wiki/Impeachment_process_against_Dilma_Rousseff"
+    },
+    {
+      "title": "Dilma Rousseff’s impeachment, explained | Vox",
+      "url": "http://www.vox.com/cards/dilma-rousseff-impeachment-suspension/protests"
+    },
+    {
+      "title": "A Timeline Leading to the Impeachment Trial of Brazil’s President Dilma Rousseff",
+      "url": "https://barbosalegal.com/chronicles/a-timeline-leading-to-the-impeachment-trial-of-brazils-president-dilma-rousseff"
+    },
+    {
+      "title": "Brazil Impeachment: Why Dilma Rousseff Is in Trouble",
+      "url": "https://time.com/4135814/brazil-dilma-rousseff-impeachment/"
+    }
+  ],
+  "response": "Dilma Rousseff foi formalmente removida do cargo por **pedaladas fiscais**, não por corrupção direta. As acusações durante seu impeachment, concluído em 2016, giraram em torno de manipulações contábeis conhecidas como \"pedaladas\", que envolviam operações de crédito entre bancos públicos e o Tesouro Nacional para mascarar déficits orçamentários e criar uma falsa impressão de superávit. Esse mecanismo foi considerado ilegal pelo Tribunal de Contas da União (TCU) e usado como base jurídica para o processo de impeachment.\n\n### Contexto importante:\n1. **Corrupção e o escândalo da Petrobras**:  \n   Embora o país estivesse mergulhado no maior esquema de corrupção da história (o \"Petrolão\"), com envolvimento de políticos e empresas, **Rousseff pessoalmente não foi acusada de desvios ilícitos**. Ela era presidente da Petrobras antes de assumir o Planalto, mas não há provas de que tenha se beneficiado financeiramente.\n\n2. **Motivações políticas**:  \n   Muitos analistas e apoiadores de Rousseff argumentam que as pedaladas foram usadas como pretexto para um golpe político, dado o contexto de crise econômica e desgaste de seu governo. A oposição aproveitou as falhas fiscais para destituí-la, mesmo reconhecendo que o mecanismo era uma prática comum na política brasileira.\n\n3. **Impacto econômico**:  \n   As pedaladas foram implementadas para sustentar políticas sociais e estímulos econômicos durante a recessão, mas resultaram em contas públicas desequilibradas, agravando a crise e gerando descontentamento.\n\nEm resumo, tecnicamente, Rousseff foi removida por irregularidades fiscais, mas o processo ocorreu em um ambiente marcado por escândalos de corrupção generalizados e disputas políticas. Sua defesa sempre negou intenção criminosa, alegando que as pedaladas eram uma prática sistêmica e não exclusiva de seu governo.",
+  "response_no_search": "Dilma Rousseff, ex-presidente do Brasil, foi **formalmente removida do cargo por acusações relacionadas a \"pedaladas fiscais\"**, não por corrupção pessoal. Em 2016, ela foi alvo de um processo de impeachment no Congresso Nacional, cujo fundamento legal foi a acusação de ter cometido crimes de responsabilidade ao manipular contas públicas por meio de operações conhecidas como \"pedaladas fiscais\". Essas manobras consistiam em atrasar repasses de recursos de bancos públicos para cobrir déficits orç",
+  "error": null
+}

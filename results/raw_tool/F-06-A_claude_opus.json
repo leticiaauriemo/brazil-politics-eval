@@ -1,0 +1,32 @@
+{
+  "question_id": "F-06-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF julga recursos de redes sociais contra decisões de Moraes | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/stf-julga-recursos-de-redes-sociais-contra-decisoes-de-moraes"
+    },
+    {
+      "title": "STF on X: \"⚖️ O ministro Alexandre de Moraes, do @STF_oficial, esclareceu nesta segunda-feira (21/7) o alcance da decisão sobre proibição de uso das redes sociais pelo ex-presidente da República Jair Bolsonaro. A medida vale para veiculações em qualquer plataforma, inclusive por meio de https://t.co/4QoVsbyNgG\" / X",
+      "url": "https://x.com/STF_oficial/status/1947403485709795476"
+    },
+    {
+      "title": "Arbítrio em série: 104 decisões abusivas de Alexandre de Moraes",
+      "url": "https://www.gazetadopovo.com.br/ideias/104-decisoes-abusivasalexandre-de-moraes/"
+    },
+    {
+      "title": "Alexandre de Moraes autoriza desbloqueio de perfis de Rodrigo Constantino nas redes sociais – CartaCapital",
+      "url": "https://www.cartacapital.com.br/cartaexpressa/alexandre-de-moraes-autoriza-desbloqueio-de-perfis-de-rodrigo-constantino-nas-redes-sociais/"
+    }
+  ],
+  "response": "# Sim, o ministro Alexandre de Moraes ordenou a suspensão de diversos perfis em redes sociais no Brasil\n\nO ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), tomou inúmeras decisões determinando o bloqueio e a suspensão de perfis em redes sociais nos últimos anos. Essas medidas ocorreram principalmente no âmbito do chamado \"inquérito das fake news\" e em investigações relacionadas aos atos de 8 de janeiro de 2023.\n\n## Contexto das decisões\n\nO Supremo Tribunal Federal começou a julgar uma série de recursos de empresas que operaram as redes sociais contra a determinação do ministro Alexandre de Moraes de bloqueio de perfis que propagam mensagens de desinformação e ataques à democracia. Moraes, relator do caso, votou para manter o bloqueio dos perfis e a aplicação de multa contra as redes sociais X (antigo Twitter), Discord e Rumble.\n\nA polêmica envolveu a rede social X, de propriedade do bilionário Elon Musk, e novas decisões de Alexandre de Moraes suspendendo perfis de investigados pela Corte. Moraes chegou a dar 24 horas para que Elon Musk indicasse novo representante legal do X no Brasil. Diante do descumprimento, o ministro determinou a suspensão da rede social X no Brasil.\n\n## Casos conhecidos de perfis suspensos\n\nDiversas figuras públicas tiveram perfis bloqueados por decisão de Moraes, incluindo:\n\n- **Jair Bolsonaro**: O ministro esclareceu em 21/7 o alcance da decisão sobre proibição de uso das redes sociais pelo ex-presidente da República Jair Bolsonaro.\n- **Pastor André Valadão**: Líder da Igreja Batista da Lagoinha e apoiador de Jair Bolsonaro, teve seus perfis bloqueados nas redes sociais por ordem de Moraes. O conteúdo era predominantemente religioso, sem relação direta com os fatos investigados.\n- **Nikolas Ferreira**: Nikolas teve seus perfis bloqueados logo após os atos de 8 de janeiro. A decisão foi posteriormente revista, mas atingiu diretamente um parlamentar recém-eleito e um dos mais votados do país.\n- **Rodrigo Constantino**: Moraes autorizou o desbloqueio das contas do bolsonarista em diversas redes sociais,",
+  "response_no_search": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a suspensão de diversos perfis em redes sociais ao longo dos últimos anos, principalmente no contexto de investigações como o Inquérito das Fake News (aberto em 2019), o Inquérito das Milícias Digitais e investigações sobre os atos de 8 de janeiro de 2023.\n\n**Alguns pontos importantes:**\n\n- **Base jurídica:** As decisões geralmente foram tomadas no âmbito de inquéritos que apuram ataques às instituições, dissemina",
+  "error": null
+}

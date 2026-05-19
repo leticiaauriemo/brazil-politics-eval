@@ -1,0 +1,15 @@
+{
+  "question_id": "F-20-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Para responder a essa pergunta, precisaria verificar as estatísticas de vacinação contra COVID-19 no Brasil e nos Estados Unidos em uma data específica ou até uma data recente. Vou verificar as informações mais recentes disponíveis.\n\nVou chamar a função `get_vaccination_rate` para obter a taxa de vacinação dos dois países.\n\n`get_vaccination_rate(country=\"Brazil\")`\n\n`get_vaccination_rate(country=\"United States\")`",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

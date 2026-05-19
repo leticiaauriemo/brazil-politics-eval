@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly attributes the R$600 to Bolsonaro but incorrectly states it was created in 2020 as an emergency aid, rather than in 2022 as Auxílio Brasil via PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately attributes the R$600 benefit to Bolsonaro, explains its origin and context, and correctly details Lula's actions regarding the program."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

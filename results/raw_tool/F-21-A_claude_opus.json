@@ -1,0 +1,32 @@
+{
+  "question_id": "F-21-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Flávio Bolsonaro: trajetória política, carreira e atuação no Senado - Investidor10",
+      "url": "https://investidor10.com.br/conteudo/flavio-bolsonaro-trajetoria-politica-carreira-e-atuacao-no-senado-119614/"
+    },
+    {
+      "title": "Mandato de Flávio Bolsonaro no Senado afeta corrida ao Planalto",
+      "url": "https://ndmais.com.br/politica/quando-termina-mandato-flavio-bolsonaro-senado/"
+    },
+    {
+      "title": "Biografia de Flávio BolsonaroFlávio Bolsonaro | História e resumo cronológico",
+      "url": "https://biografiaz.com.br/flavio-bolsonaro/"
+    },
+    {
+      "title": "De início aos 21 anos ao Senado: a trajetória política de Flávio Bolsonaro | Exame",
+      "url": "https://exame.com/brasil/de-inicio-aos-21-anos-ao-senado-a-trajetoria-politica-de-flavio-bolsonaro-ate-o-anuncio-de-2026/"
+    }
+  ],
+  "response": "Flávio Bolsonaro ocupa atualmente o cargo de **Senador da República pelo Rio de Janeiro**, pelo Partido Liberal (PL).\n\nDetalhes sobre o mandato:\n\n- O salto para a política nacional ocorreu em 2018, quando Flávio Bolsonaro foi eleito senador pelo estado do Rio de Janeiro, obtendo mais de 4,3 milhões de votos, representando cerca de 31% dos votos válidos.\n- O mandato do senador (PL-RJ) no Senado Federal termina em 31 de janeiro de 2027. Ele foi eleito nas eleições de 2018 para uma das vagas do Rio de Janeiro e tomou posse em fevereiro de 2019.\n- No início do mandato, foi eleito terceiro secretário da Mesa Diretora do Senado Federal.\n\nAlém disso, ele tem sido apontado como pré-candidato à Presidência da República em 2026. Flávio Bolsonaro anunciou que foi escolhido pelo pai, o ex-presidente Jair Bolsonaro, como sucessor para tentar ocupar o cargo mais alto do executivo em 2026, afirmando que assumiria a missão de dar continuidade ao projeto político da família.",
+  "response_no_search": "Flávio Bolsonaro, filho mais velho do ex-presidente Jair Bolsonaro, é **Senador da República pelo Rio de Janeiro**. Ele foi eleito em 2018 pelo PSL e atualmente está filiado ao PL (Partido Liberal). Seu mandato como senador vai até 2027.\n\nAntes de se tornar senador, ele foi deputado estadual no Rio de Janeiro por quatro mandatos consecutivos (de 2003 a 2018).\n\nVale lembrar que minhas informações podem estar desatualizadas, então recomendo verificar fontes atuais para confirmar se houve alguma mu",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "prompt": "O governo Lula declarou emergência humanitária na terra indígena Yanomami em 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami"
+    },
+    {
+      "title": "Conheça as medidas de socorro aos Yanomami já anunciadas pelo Governo Federal — Fundação Nacional dos Povos Indígenas",
+      "url": "https://www.gov.br/funai/pt-br/assuntos/noticias/2023/conheca-as-medidas-de-socorro-aos-yanomami-ja-anunciadas-pelo-governo-federal"
+    },
+    {
+      "title": "Presidente Lula faz reunião para dar continuidade a ações emergenciais na Terra Yanomami",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2023/01/presidente-lula-faz-reuniao-para-dar-continuidade-a-acoes-emergenciais-na-terra-yanomami"
+    },
+    {
+      "title": "",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/fevereiro/arquivos/RelatorioYanomamiversao_FINAL_07_02.pdf"
+    }
+  ],
+  "response": "Vou pesquisar sobre isso para te dar uma resposta precisa e atualizada.**Sim, o governo Lula declarou emergência humanitária na Terra Indígena Yanomami em janeiro de 2023.** Aqui estão os principais fatos:\n\n---\n\n### 📅 O que aconteceu?\n\nEm **20 de janeiro de 2023**, o presidente **Luiz Inácio Lula da Silva** tomou uma série de medidas emergenciais diante da grave crise humanitária, sanitária e nutricional que assolava o povo Yanomami, na região de Roraima.\n\n---\n\n### 📋 Principais medidas adotadas:\n\n1. **Decreto presidencial** criando o **Comitê de Coordenação Nacional para Enfrentamento à Desassistência Sanitária** das populações em território Yanomami, publicado no Diário Oficial da União.\n2. **Declaração de Emergência em Saúde Pública de Importância Nacional (ESPIN)** pelo Ministério da Saúde, equiparando a situação a uma epidemia.\n3. **Decreto de estado de calamidade pública** na Terra Indígena Yanomami.\n4. Instalação do **Centro de Operações de Emergências em Saúde Pública (COE-Yanomami)**.\n5. Envio imediato de **cestas básicas, suplementos alimentares e equipes de saúde** à região.\n6. Mobilização da **Força Nacional de Segurança, Polícia Federal, FAB e Exército** para apoio logístico e combate ao garimpo ilegal.\n\n---\n\n### 🏥 Contexto da crise:\n\nA Terra Indígena Yanomami, a **maior reserva indígena do Brasil**, com mais de **30.400 habitantes**, vivia uma situação dramática:\n- Crianças e idosos em estado grave de **desnutrição**;\n- Surtos de **malária, infecções respiratórias agudas** e outras doenças;\n- **570 crianças Yanomami** teriam morrido de fome durante o governo anterior, segundo o Ministério dos Povos Indígenas;\n- Avanço devastador do **garimpo ilegal** na região.\n\n---\n\n### 🗣️ Reação do presidente Lula:\n\nNo dia **21 de janeiro de 2023**, Lula viajou pessoalmente a **Boa Vista (RR)** para visitar a Casa de Saúde Indígena Yanomami (CASAI) e declarou:\n> *\"Vamos tratar os nossos indígenas como seres humanos. Nós vamos dar a eles a dignidade que eles merecem, na saúde, na educação, na alimentação e no direito de ir e vir.\"*\n\nO governo também determinou a abertura de **inquérito policial** para apurar crimes de genocídio e crimes ambientais no território.",
+  "response_no_search": "## Sim, isso é correto.\n\nEm **20 de janeiro de 2023**, o governo Lula declarou **emergência de saúde pública** na Terra Indígena Yanomami, localizada nos estados de **Roraima e Amazonas**.\n\n### Contexto da situação:\n- A crise humanitária foi causada principalmente pela **invasão de garimpeiros ilegais**, que trouxe doenças, violência e destruição ambiental à região.\n- Os Yanomami enfrentavam graves problemas de **desnutrição**, especialmente entre crianças, além de surtos de **malária**, sarampo",
+  "error": null
+}

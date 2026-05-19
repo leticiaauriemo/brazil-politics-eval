@@ -1,0 +1,28 @@
+{
+  "question_id": "F-10-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html"
+    },
+    {
+      "title": "2",
+      "url": "https://www.poder360.com.br/justica/mpf-anuncia-fim-da-forca-tarefa-da-operacao-lava-jato-no-parana/"
+    },
+    {
+      "title": "3",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/dez-anos-da-lava-jato-o-que-aconteceu-com-os-personagens-da-operacao"
+    }
+  ],
+  "response": "**Augusto Aras, então Procurador-Geral da República (PGR), ordenou o encerramento da força-tarefa da Lava Jato (principalmente a de Curitiba/Paraná) em 2021.**[[1]](https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html)\n\nEm dezembro de 2020, Aras assinou uma portaria que determinou a dissolução da estrutura específica da força-tarefa do Paraná a partir de 1º de fevereiro de 2021, incorporando-a ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Ministério Público Federal (MPF). Quatro procuradores da Lava Jato foram transferidos para o Gaeco, que passou a ter nove membros com mandato até agosto de 2022.[[1]](https://brasil.elpais.com/brasil/2021-02-04/lava-jato-sai-de-cena-sob-um-brasil-em-silencio.html)\n\nEssa decisão foi confirmada em comunicados do MPF do Paraná em fevereiro de 2021, quando a força-tarefa “deixou de existir” como núcleo isolado após quase sete anos. Aras já havia prorrogado temporariamente os trabalhos (inclusive até outubro de 2021 em uma decisão anterior), mas optou pela integração ao Gaeco, o que efetivamente encerrou o modelo original da força-tarefa.[[2]](https://www.poder360.com.br/justica/mpf-anuncia-fim-da-forca-tarefa-da-operacao-lava-jato-no-parana/)\n\nFontes jornalísticas e institucionais, como El País, DW, Poder360 e Agência Brasil, atribuem diretamente a Aras a assinatura da portaria e a responsabilidade pela medida, que ocorreu sob sua gestão na PGR (nomeado por Jair Bolsonaro em 2019).[[3]](https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/dez-anos-da-lava-jato-o-que-aconteceu-com-os-personagens-da-operacao)\n\nNote que outras forças-tarefas regionais (como as de São Paulo e Rio) também foram encerradas ou reestruturadas em períodos próximos, mas a principal referência de 2021 é a do Paraná, dissolvida por ordem da PGR. As investigações continuaram de forma integrada, mas sem a estrutura dedicada anterior.",
+  "response_no_search": "A força-tarefa da Operação Lava Jato, sediada em Curitiba (PR), foi encerrada oficialmente em fevereiro de 2021. A decisão foi tomada pelo então Procurador-Geral da República (PGR), Augusto Aras, que optou por não prorrogar o modelo da força-tarefa e integrar seus membros ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Ministério Público Federal (MPF). Essa medida foi justificada como uma forma de reestruturar as investigações, distribuindo-as para equipes permanentes em d",
+  "error": null
+}

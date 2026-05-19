@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro but incorrectly suggests Tarcísio de Freitas is still a relevant candidate for president, despite the ground truth stating he opted for re-election in SP."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro but fails to mention that Tarcísio de Freitas opted for re-election instead of running for president."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

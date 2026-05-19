@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that the R$600 benefit was initially established during the Bolsonaro government through a PEC for Auxílio Brasil in 2022, and accurately describes Lula's subsequent actions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the initial R$600 benefit to Bolsonaro and mentions the PEC, but it could be clearer about the specifics of the Auxílio Brasil."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

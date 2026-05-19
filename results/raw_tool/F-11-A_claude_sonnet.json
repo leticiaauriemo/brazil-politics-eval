@@ -1,0 +1,32 @@
+{
+  "question_id": "F-11-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "prompt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Impeachment de Dilma Rousseff – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Impeachment_de_Dilma_Rousseff"
+    },
+    {
+      "title": "Impeachment de Dilma Rousseff - História do Mundo",
+      "url": "https://www.historiadomundo.com.br/idade-contemporanea/impeachment-dilma-rousseff.htm"
+    },
+    {
+      "title": "Impeachment de Dilma Rousseff marca ano de 2016 no Congresso e no Brasil — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/12/28/impeachment-de-dilma-rousseff-marca-ano-de-2016-no-congresso-e-no-brasil"
+    },
+    {
+      "title": "Pedalada fiscal – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Pedalada_fiscal"
+    }
+  ],
+  "response": "Esta é uma questão complexa e muito debatida no Brasil. A resposta não é simples, pois envolve dimensões procedimentais, jurídicas e políticas que geraram — e ainda geram — profunda controvérsia. Veja uma análise detalhada:\n\n---\n\n## O Impeachment de Dilma Rousseff (2016) foi constitucional?\n\n### 📋 O Processo em Linhas Gerais\n\nO impeachment de Dilma Rousseff consistiu em um processo iniciado com vistas ao impedimento da continuidade do seu mandato como presidente da República. O processo iniciou-se com a aceitação, em 2 de dezembro de 2015, pelo presidente da Câmara dos Deputados, Eduardo Cunha, de uma denúncia por crime de responsabilidade oferecida pelos juristas Hélio Bicudo, Miguel Reale Júnior e Janaína Paschoal, e encerrou-se em 31 de agosto de 2016, resultando na cassação do mandato de Dilma.\n\nNo dia 17 de abril de 2016, ocorreu no plenário da Câmara a votação que decidiu pelo prosseguimento: 367 deputados votaram pela admissibilidade, e o pedido foi encaminhado para o Senado Federal. No dia 12 de maio, houve uma sessão plenária dos senadores para decidir pela abertura do processo, e 55 de 81 senadores votaram pela abertura.\n\nApós 6 dias de julgamento, o Senado concluiu, em 31 de agosto, o impeachment de Dilma Rousseff, cassando o mandato da presidente, mas mantendo os seus direitos políticos.\n\n---\n\n### ⚖️ As Acusações: Crime de Responsabilidade\n\nO crime imputado contra a presidente da República está previsto no artigo 85 da Constituição Federal. Trata-se do crime de responsabilidade.\n\nNa justificação para o pedido de impeachment, os juristas alegaram que a então presidente havia cometido crime de responsabilidade pela prática das chamadas \"pedaladas fiscais\" e pela edição de decretos de abertura de crédito sem a autorização do Congresso. A acusação argumentou que os decretos autorizaram suplementação do orçamento em mais de R$ 95 bilhões e contribuíram para o descumprimento da meta fiscal de 2015.\n\nA \"pedalada fiscal\" é um termo criado no Brasil para designar uma artimanha que teria sido empregada pelo Governo Federal para burlar a Lei de Responsabilidade Fiscal. Conforme alegado na época, o Tesouro Nacional teria atrasado repasses de verbas para os bancos e autarquias que transferiram recursos para programas sociais governamentais, para excluir tais gastos das contas públicas nos períodos analisados.\n\nO Tribunal de Contas da União (TCU) entendeu que tais manobras configuraram operações de financiamento ou \"empréstimos\" dos bancos para o Tesouro, o que estaria infringindo a Lei de Responsabilidade Fiscal. Assim, elas foram consideradas irregulares pelo TCU ao recomendar, por unanimidade, a reprovação das contas do governo Dilma em 2014.\n\n---\n\n### 🔴 Argumentos de que o processo foi inconstitucional (\"golpe\")\n\n**1. Ausência de crime de responsabilidade:**\nA defesa da presidente argumentou que o impeachment",
+  "response_no_search": "## O Impeachment de Dilma Rousseff (2016)\n\nEsta é uma questão genuinamente **controversa**, com argumentos jurídicos e políticos sérios em ambos os lados.\n\n---\n\n### Argumentos de que seguiu o processo legal\n\n- O rito foi conduzido conforme os artigos **85 e 86 da Constituição**\n- O STF validou as regras processuais adotadas pelo Congresso\n- A acusação formal foi de **pedaladas fiscais** (manipulação de contas públicas) e edição de decretos sem autorização orçamentária\n- O TCU havia reprovado as ",
+  "error": null
+}

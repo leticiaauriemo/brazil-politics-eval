@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Mesmo após liquidação, Banco Master ainda mantém cerca de 200 funcionários",
+      "url": "https://www.correiobraziliense.com.br/economia/2025/12/7315134-mesmo-apos-liquidacao-banco-master-ainda-mantem-cerca-de-200-funcionarios.html"
+    },
+    {
+      "title": "Banco Central manda liquidar banco do grupo Master",
+      "url": "https://economia.ig.com.br/2026-03-17/banco-central-manda-liquidar-banco-grupo-master.html"
+    },
+    {
+      "title": "Banco Central extingue última unidade do Master",
+      "url": "https://revistaoeste.com/economia/bc-extingue-ultima-unidade-do-master-e-trava-patrimonio-de-donos/"
+    },
+    {
+      "title": "BC decreta liquidação extrajudicial do Banco Master Múltiplo | Jovem Pan",
+      "url": "https://jovempan.com.br/noticias/economia/bc-decreta-liquidacao-extrajudicial-do-banco-master-multiplo.html"
+    },
+    {
+      "title": "Banco Master: qual a situação das empresas do grupo após a liquidação pelo BC? - Estadão",
+      "url": "https://www.estadao.com.br/economia/banco-master-qual-situacao-empresas-grupo-apos-liquidacao-pelo-bc-npr/"
+    }
+  ],
+  "response": "Com base nas informações obtidas, o Banco Master foi liquidado pelo Banco Central em 2025 e não está mais em funcionamento em 2026. A instituição passou por um processo de liquidação extrajudicial, e suas atividades foram encerradas. Portanto, o Banco Master não está operando em 2026.",
+  "response_no_search": "Em **junho de 2024**, o **Banco Master** continua em pleno funcionamento no Brasil, operando como uma instituição financeira autorizada pelo Banco Central (BC).   \n\nQuanto a **2026**, não há informações oficiais sobre possíveis mudanças na sua operação. Se você está preocupado com a continuidade do banco, recomendo:  \n\n1. **Consultar o site oficial** do Banco Master ([https://www.master.com.br](https://www.master.com.br)) ou seus canais de comunicação.  \n2. Verificar atualizações do **Banco Cent",
+  "error": null
+}

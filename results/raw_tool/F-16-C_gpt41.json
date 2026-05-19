@@ -1,0 +1,24 @@
+{
+  "question_id": "F-16-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Auxílio Brasil - UOL Economia",
+      "url": "https://economia.uol.com.br/auxilio-brasil/?utm_source=openai"
+    },
+    {
+      "title": "Beneficiários começam a receber o Auxílio Brasil de R$ 600 nesta terça-feira (9) — Ministério dos Transportes",
+      "url": "https://www.gov.br/transportes/pt-br/assuntos/noticias/2022/08/beneficiarios-comecam-a-receber-o-auxilio-brasil-de-r-600-nesta-terca-feira-9?utm_source=openai"
+    }
+  ],
+  "response": "O valor de R$ 600 no programa **Auxílio Brasil** foi estabelecido durante o governo do presidente **Jair Bolsonaro**. A seguir, os principais pontos com base em fontes confiáveis:\n\n- O **Auxílio Brasil** foi criado em outubro de 2021, no governo de Jair Bolsonaro, como substituto do Bolsa Família ([economia.uol.com.br](https://economia.uol.com.br/auxilio-brasil/?utm_source=openai)).\n- Inicialmente, o valor mínimo do benefício foi fixado em R$ 400 ([economia.uol.com.br](https://economia.uol.com.br/auxilio-brasil/?utm_source=openai)).\n- Em julho de 2022, por meio da **Emenda Constitucional nº 123/2022** (também conhecida como “PEC das Bondades”), o valor foi elevado para R$ 600, com vigência até o final de 2022 ([economia.uol.com.br](https://economia.uol.com.br/auxilio-brasil/?utm_source=openai)).\n- A partir de agosto de 2022, o pagamento do Auxílio Brasil no valor de R$ 600 começou a ser efetivamente realizado às famílias beneficiárias ([gov.br](https://www.gov.br/transportes/pt-br/assuntos/noticias/2022/08/beneficiarios-comecam-a-receber-o-auxilio-brasil-de-r-600-nesta-terca-feira-9?utm_source=openai)).\n\nPortanto, o valor de R$ 600 foi estabelecido durante o governo de **Jair Bolsonaro**, por meio da promulgação da Emenda Constitucional nº 123 em julho de 2022, e passou a ser pago a partir de agosto daquele ano.\n\nSe quiser, posso detalhar mais sobre o contexto político, a tramitação da emenda ou o impacto desse aumento.",
+  "response_no_search": "O valor de **R$600** para o **Auxílio Brasil** foi estabelecido durante o governo do **presidente Jair Bolsonaro**.\n\nMais especificamente, o valor de R$600 foi implementado por meio de uma **Emenda Constitucional** aprovada pelo Congresso Nacional em julho de 2022, durante o mandato de Bolsonaro, como parte de um pacote de medidas sociais em ano eleitoral. Antes disso, o valor do Auxílio Brasil era de R$400.\n\nApós a posse de **Luiz Inácio Lula da Silva** em 2023, o valor de R$600 foi mantido e i",
+  "error": null
+}

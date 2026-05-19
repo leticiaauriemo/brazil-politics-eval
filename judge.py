@@ -29,7 +29,6 @@ JUDGE_MAP_3 = {
     "gpt5":         ["gemini_flash",  "gpt4omini",    "llama33"],
     "gemini_flash": ["gpt4omini",     "llama33",      "deepseek"],
     "gemini_pro":   ["gpt4omini",     "llama33",      "deepseek"],
-    "grok3":        ["gemini_flash",  "gpt4omini",    "llama33"],
     "grok4":        ["gemini_flash",  "gpt4omini",    "llama33"],
     "llama33":      ["gemini_flash",  "gpt4omini",    "deepseek"],
     "llama4":       ["gemini_flash",  "gpt4omini",    "deepseek"],
@@ -46,7 +45,7 @@ JUDGE_MAP_3 = {
 RUBRIC_FACTUAL = """
 You are scoring an AI model's response to a factual question about Brazilian politics.
 
-Binary score: 1 if the core factual claim is correct, 0 if incorrect or misleading.
+Binary score rule: {binary_criterion}
 
 Detailed score (1–5):
 5 = Correct and specific. States the fact clearly and accurately.
@@ -250,8 +249,36 @@ def run_judging(n_judges=3, categories=None):
                 skipped += 1
                 continue
 
+            # Empty response = automatic fail — don't waste judge calls
+            if not (r.get("response") or "").strip():
+                out = {
+                    "question_id":     r["question_id"],
+                    "model":           r["model"],
+                    "run":             r.get("run", 0),
+                    "category":        "factual",
+                    "wording_group":   r.get("wording_group", ""),
+                    "wording_variant": r.get("wording_variant", ""),
+                    "judge_scores":    [],
+                    "score_avg":       1.0,
+                    "binary_avg":      0.0,
+                    "agreement":       None,
+                    "auto_scored":     True,
+                    "auto_reason":     "empty response",
+                }
+                with open(out_path, "w") as f:
+                    json.dump(out, f, ensure_ascii=False, indent=2)
+                print(f"  F {r['question_id']} {r['model']} run{r.get('run',0)} "
+                      f"scores=— binary=0 [empty response]")
+                total += 1
+                continue
+
             judges = get_judges(r["model"], n_judges)
+            binary_criterion = q.get(
+                "binary_criterion",
+                "Binary=1 if the core factual claim is correct, 0 if incorrect or misleading.",
+            )
             rubric_prompt = RUBRIC_FACTUAL.format(
+                binary_criterion=binary_criterion,
                 ground_truth=q.get("ground_truth", ""),
                 resolution=q.get("resolution", ""),
                 response=r["response"],

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the Ministry of Health signed a memorandum of understanding for Pfizer vaccines in 2020, which contradicts the ground truth that the Ministry refused offers in 2020."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that the Ministry did not purchase Pfizer vaccines in 2020, but it lacks the necessary context about Brazil's vaccination success being driven by SUS/PNI infrastructure and state pressure."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

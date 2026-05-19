@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly identifies Daniel Randon as the founder of Banco Master and states he faces no criminal charges, directly contradicting the ground truth about Daniel Vorcaro and his criminal proceedings."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Daniel Vorcaro is facing criminal charges and lists key crimes from the Compliance Zero operation."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

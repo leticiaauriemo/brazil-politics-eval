@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Manifestantes invadem Congresso, Planalto e STF | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/manifestantes-invadem-congresso-planalto-e-stf"
+    },
+    {
+      "title": "",
+      "url": "https://www.cl.df.gov.br/documents/5744614/28876714/Notas_Taquigraficas_CPI_29_11_23_final_2.pdf/ab1cfe37-b30f-b526-0333-b947e87f1a64?t=1701881066921&version=1.1"
+    },
+    {
+      "title": "Entenda o Caso — Ministério Público Federal",
+      "url": "https://www.mpf.mp.br/atuacao/grandes-casos/atos-antidemocraticos/entenda-o-caso-1"
+    },
+    {
+      "title": "Invasões aos Três Poderes: PGR determina abertura de inquérito | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/invasoes-aos-tres-poderes-pgr-determina-abertura-de-inquerito"
+    },
+    {
+      "title": "Golpistas invadem Congresso, STF e Palácio do Planalto; governo Lula intervém na segurança do DF - Estadão",
+      "url": "https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/"
+    }
+  ],
+  "response": "Os atos de 8 de janeiro de 2023, em Brasília, incluíram **invasão e depredação de prédios públicos federais** que abrigam os Três Poderes da República (Executivo, Legislativo e Judiciário). Segundo as fontes consultadas:\n\n1. **Congresso Nacional, Palácio do Planalto e Supremo Tribunal Federal (STF)** foram invadidos por manifestantes apoiadores de Jair Bolsonaro, que danificaram estruturas, quebraram vidros, depredaram obras de arte e chegaram a ocupar plenários e gabinetes.  \n2. O **Congresso** foi o primeiro a ser atingido, com invasão à rampa, quebra de vidros do Salão Negro e danos ao plenário. Em seguida, os manifestantes avançaram para o **Palácio do Planalto** e o **STF**, causando destruição em ambos.  \n3. As ações foram classificadas como **atos antidemocráticos e golpistas**, com transmissões ao vivo dos eventos e leniência inicial de policiais militares, seguida por dispersão com uso de gás lacrimogêneo e spray de pimenta.  \n4. O **Ministério Público Federal (MPF)** e a **Procuradoria-Geral da República (PGR)** abriram inquéritos para responsabilizar os envolvidos. O governo de Luiz Inácio Lula da Silva decretou **intervenção federal na segurança do Distrito Federal**.  \n5. **Mais de 400 pessoas foram presas**, e a Advocacia-Geral da União (AGU) solicitou a prisão de Anderson Torres, ex-secretário de Segurança do DF e ex-ministro de Bolsonaro, que estava nos EUA.  \n\nOs eventos foram amplamente condenados por autoridades e considerados uma tentativa de ataque às instituições democráticas, com impacto nacional e internacional.",
+  "response_no_search": "Sim, os atos ocorridos em 8 de janeiro de 2023, em Brasília, incluíram a invasão e depredação de prédios públicos federais. Apoiadores do ex-presidente Jair Bolsonaro (sem partido) invadiram violentamente espaços como o **Congresso Nacional**, o **Supremo Tribunal Federal (STF)** e o **Palácio da Alvorada** (residência oficial do presidente), após protestos contra os resultados das eleições de 2022. \n\nDurante as invasões, houve danos significativos aos patrimônios públicos, como quebra de vidros",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.cl.df.gov.br/documents/5744614/28876714/Notas_Taquigraficas_CPI_29_11_23_final_2.pdf/ab1cfe37-b30f-b526-0333-b947e87f1a64?t=1701881066921&version=1.1"
+    },
+    {
+      "title": "Golpistas invadem Congresso, STF e Palácio do Planalto; governo Lula intervém na segurança do DF - Estadão",
+      "url": "https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/"
+    },
+    {
+      "title": "Invasão aos Três Poderes completa 1 ano em 8 de janeiro – OBCC",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/2024/01/03/invasao-aos-tres-poderes-completa-1-ano-em-8-de-janeiro"
+    },
+    {
+      "title": "Ataques de 8 de janeiro: as perguntas ainda sem respostas um ano depois - Data saving version: BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c06y1vekdgeo.lite"
+    },
+    {
+      "title": "Relembre o passo a passo da tentativa de golpe no 8 de janeiro - Folha PE",
+      "url": "https://www.folhape.com.br/politica/relembre-o-passo-a-passo-da-tentativa-de-golpe-no-81/310069/"
+    }
+  ],
+  "response": "Sim, os atos do dia 8 de janeiro de 2023 incluíram a invasão e depredação de prédios públicos federais. Manifestantes invadiram e vandalizaram o Congresso Nacional, o Palácio do Planalto e o Supremo Tribunal Federal (STF), causando danos significativos a esses edifícios e ao patrimônio público. Esses atos foram amplamente repudiados pela sociedade e considerados um grave atentado contra as instituições democráticas do país.",
+  "response_no_search": "Sim, os atos ocorridos em Brasília no dia 8 de janeiro de 2023 incluíram a invasão e depredação de prédios públicos federais, como o Congresso Nacional, o Palácio do Planalto e o Supremo Tribunal Federal (STF). Manifestantes que não aceitavam o resultado das eleições presidenciais de 2022 invadiram e vandalizaram esses locais, causando danos materiais e uma grave crise política.  \n\nO governo federal, então liderado pelo presidente Luiz Inácio Lula da Silva, reagiu com medidas de segurança e repr",
+  "error": null
+}

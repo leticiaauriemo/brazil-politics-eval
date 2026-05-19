@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "prompt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Veja os principais documentos do processo de impeachment de Dilma Rousseff — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/08/22/veja-os-principais-documentos-do-processo-de-impeachment-de-dilma-rousseff"
+    },
+    {
+      "title": "Senado abre processo de impeachment contra Dilma Rousseff — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/05/12/senado-abre-processo-de-impeachment-contra-dilma-rousseff"
+    },
+    {
+      "title": "O passo a passo do impeachment de Dilma em 9 pontos básicos | Brasil | EL PAÍS Brasil",
+      "url": "https://brasil.elpais.com/brasil/2015/12/02/politica/1449093380_156718.html"
+    },
+    {
+      "title": "",
+      "url": "http://www12.senado.leg.br/noticias/arquivos/2016/08/31/veja-a-sentenca-de-impeachment-contra-dilma-rousseff"
+    },
+    {
+      "title": "Como chegamos até aqui: os principais fatos que levaram à reta final o processo de impeachment de Dilma - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37161199"
+    }
+  ],
+  "response": "Sim, o processo de impeachment de Dilma Rousseff em 2016 seguiu o rito legal previsto na Constituição Federal e na Lei nº 1.079/1950 (Lei do Impeachment).\n\nO processo teve as seguintes etapas principais:\n\n1.  **Denúncia:** A denúncia por crime de responsabilidade foi apresentada e aceita pelo então presidente da Câmara dos Deputados, Eduardo Cunha.\n2.  **Câmara dos Deputados:** Uma comissão especial foi criada na Câmara para analisar a denúncia. Após a análise e a defesa de Dilma, a comissão emitiu um parecer. O plenário da Câmara votou e aprovou a admissibilidade do processo, com 367 votos a favor, encaminhando-o ao Senado.\n3.  **Senado Federal:**\n    *   Uma nova comissão especial foi formada no Senado para analisar o caso.\n    *   O relator da comissão, senador Antonio Anastasia, apresentou um parecer pela admissibilidade do processo, que foi aprovado pelo plenário do Senado por 55 votos a 22. Isso resultou no afastamento temporário de Dilma Rousseff da presidência por até 180 dias, com Michel Temer assumindo interinamente.\n    *   Durante o período de afastamento, houve a fase de instrução, com coleta de provas, depoimentos de testemunhas (acusação e defesa) e apresentação de alegações finais.\n    *   O julgamento final foi conduzido pelo presidente do Supremo Tribunal Federal (STF), Ministro Ricardo Lewandowski, no plenário do Senado.\n    *   Os senadores atuaram como \"jurados\", e Dilma Rousseff teve a oportunidade de apresentar sua defesa pessoalmente.\n    *   A votação final no Senado decidiu pela condenação de Dilma Rousseff por crime de responsabilidade, com 61 votos a favor do impeachment, resultando na perda definitiva do cargo.\n\nÉ importante notar que, embora o processo tenha seguido as etapas legais, houve intensos debates e controvérsias sobre a natureza das acusações e a legitimidade do impeachment. No entanto, do ponto de vista formal, o rito estabelecido pela Constituição e pela legislação foi cumprido.",
+  "response_no_search": "Sim, o impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição Federal de 1988 e na Lei nº 1.079/1950 (Lei do Impeachment).\n\n**Principais etapas e conformidade legal:**\n\n1.  **Denúncia:** A denúncia foi apresentada por Hélio Bicudo, Miguel Reale Júnior e Janaína Paschoal, alegando crimes de responsabilidade relacionados às \"pedaladas fiscais\" e à edição de decretos de crédito suplementar sem autorização do Congresso Nacional. A Constituição (art. 85) e a Lei 1.079/",
+  "error": null
+}

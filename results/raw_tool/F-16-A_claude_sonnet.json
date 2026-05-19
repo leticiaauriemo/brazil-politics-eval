@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Câmara aprova MP que recriou o programa Bolsa Família - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/967421-camara-aprova-mp-que-recriou-o-programa-bolsa-familia/"
+    },
+    {
+      "title": "Desvende tudo sobre o Bolsa Família: Novos Valores e Condições! - Jornal Dia",
+      "url": "https://jornaldia.com.br/desvende-tudo-sobre-o-bolsa-familia-novos-valores-e-condicoes/"
+    },
+    {
+      "title": "Bolsa Família: veja novas regras, valor dos benefícios e como se cadastrar",
+      "url": "https://economia.uol.com.br/noticias/redacao/2023/07/13/bolsa-familia-veja-novas-regras-valor-dos-beneficios-e-como-entrar.htm"
+    },
+    {
+      "title": "Lula confirma Bolsa Família com valor MAIOR em Março",
+      "url": "https://www.acheconcursos.com.br/beneficios-sociais/lula-confirma-bolsa-familia-com-valor-maior-em-marco-58980"
+    },
+    {
+      "title": "Câmara aprova auxílio de R$ 600 para pessoas de baixa renda ...",
+      "url": "https://www.camara.leg.br/noticias/648863-camara-aprova-auxilio-de-r-600-para-pessoas-de-baixa-renda-durante-epidemia/"
+    }
+  ],
+  "response": "## Quem aumentou o valor do Bolsa Família para R$ 600?\n\nO valor mínimo do **Bolsa Família de R$ 600** foi estabelecido pelo presidente **Luiz Inácio Lula da Silva (PT)**, no início de seu terceiro mandato, em **2023**.\n\n### Entenda o contexto:\n\n- Ao assumir a presidência em janeiro de 2023, Lula **relançou o programa Bolsa Família**, que havia sido substituído pelo **Auxílio Brasil** durante o governo Bolsonaro.\n- O novo Bolsa Família garantiu um **valor mínimo de R$ 600 por família**, além de um **adicional de R$ 150 por criança de até 6 anos**.\n- A medida foi formalizada por meio da **Medida Provisória nº 1.164/2023**, que foi aprovada pela Câmara dos Deputados e enviada ao Senado.\n- O benefício é composto pelo **Benefício de Renda da Cidadania (R$ 142)** mais um **Benefício Complementar**, que garante que nenhuma família receba menos de R$ 600.\n\n> 💬 Em discurso, Lula afirmou: *\"Semana que vem vamos anunciar um novo Bolsa Família de R$ 600 e mais R$ 150 por criança, para que as famílias tenham condições de comprar alimentos de qualidade para seus filhos.\"*\n\nPortanto, foi o governo **Lula (2023)** o responsável por fixar o piso de **R$ 600** no programa Bolsa Família.",
+  "response_no_search": "O valor do **Bolsa Família de R$ 600** foi estabelecido pelo governo do presidente **Luiz Inácio Lula da Silva** (PT), após sua posse em janeiro de 2023.\n\nVale lembrar que, durante o governo de **Jair Bolsonaro**, o programa foi temporariamente renomeado de **Auxílio Brasil** e teve seu valor aumentado para R$ 600 às vésperas das eleições de 2022. Com o retorno de Lula ao poder, o programa voltou a se chamar Bolsa Família e manteve o valor mínimo de **R$ 600 por família**, com um adicional de **",
+  "error": null
+}

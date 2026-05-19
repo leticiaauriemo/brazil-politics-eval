@@ -1,0 +1,15 @@
+{
+  "question_id": "F-22-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "C",
+  "prompt": "Flávio Bolsonaro é o filho mais velho, do meio ou mais novo de Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Flávio Bolsonaro é o filho mais velho de Jair Bolsonaro.**\n\n### Evidências dos resultados da busca:\n- **[1] (Wikipédia)**: \"Flávio Nantes Bolsonaro... é o filho mais velho do ex-presidente do Brasil, Jair Bolsonaro.\" Confirma explicitamente que ele é o primogênito, nascido em 30 de abril de 1981, e é chamado de **\"01\"** pela família (numeração militar: 01: Flávio, 02: Carlos, 03: Eduardo, 04: Renan). Lista irmãos: Carlos, Eduardo (do primeiro casamento), Jair Renan (segundo casamento) e Laura ",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

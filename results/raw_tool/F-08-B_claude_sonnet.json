@@ -1,0 +1,88 @@
+{
+  "question_id": "F-08-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "prompt": "Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Partido de Tarcísio, Republicanos aposta em governador para o Planalto mesmo com pressão de Bolsonaro",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/05/19/partido-de-tarcisio-republicanos-aposta-em-governador-para-o-planalto-mesmo-com-pressao-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "Tarcísio vai de favorito do Centrão a plano B para o Planalto",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto.ghtml"
+    },
+    {
+      "title": "Aliados querem prazo-limite para Tarcísio decidir se concorrerá à Presidência | VEJA",
+      "url": "https://veja.abril.com.br/politica/aliados-querem-prazo-limite-para-tarcisio-decidir-se-concorrera-a-presidencia"
+    },
+    {
+      "title": "Candidatura à Presidência da República: Tarcísio de Freitas não aceitaria substituir Bolsonaro de última hora - TV Pampa",
+      "url": "https://www.tvpampa.com.br/candidatura-a-presidencia-da-republica-tarcisio-de-freitas-nao-aceitaria-substituir-bolsonaro-de-ultima-hora/"
+    },
+    {
+      "title": "Tarcísio diz que candidatura de Flávio 'está se consolidando rapidamente' e recusaria pedido de Bolsonaro para concorrer a presidente",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/27/tarcisio-diz-que-tera-papo-de-amigo-com-bolsonaro-e-recusaria-pedido-de-para-se-candidatar-a-presidente.ghtml"
+    },
+    {
+      "title": "Prazos de desincompatibilização devem ser observados por quem pretende concorrer nas Eleições 2026 — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Marco/prazos-de-desincompatibilizacao-devem-ser-observados-por-quem-pretende-concorrer-nas-eleicoes-2026"
+    },
+    {
+      "title": "Três fatores que explicam por que Tarcísio não quer deixar o governo para tentar o Planalto em 2026 - Estadão",
+      "url": "https://www.estadao.com.br/politica/tres-fatores-que-explicam-por-que-tarcisio-nao-quer-deixar-o-governo-para-tentar-o-planalto-em-2026/"
+    },
+    {
+      "title": "Partido de Tarcísio, Republicanos aposta em governador para o Planalto mesmo com pressão de Bolsonaro",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/05/19/partido-de-tarcisio-republicanos-aposta-em-governador-para-o-planalto-mesmo-com-pressao-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "Por que Tarcísio não quer ser o candidato da extrema-direita ao Planalto em 2026",
+      "url": "https://www.diariodocentrodomundo.com.br/por-que-tarcisio-nao-quer-ser-o-candidato-da-extrema-direita-ao-planalto-em-2026/"
+    },
+    {
+      "title": "Chances de Tarcísio deixar o governo de São Paulo até sábado movimentam cenário político, entenda - Terra Brasil Notícias",
+      "url": "https://terrabrasilnoticias.com/2026/04/chances-de-tarcisio-deixar-o-governo-de-sao-paulo-ate-sabado-movimentam-cenario-politico-entenda/"
+    },
+    {
+      "title": "Tempo trabalha contra Tarcísio - Crusoé",
+      "url": "https://crusoe.com.br/noticias/tempo-trabalha-contra-tarcisio/"
+    },
+    {
+      "title": "Chances de Tarcísio deixar o governo de São Paulo até sábado movimentam cenário político, entenda - Terra Brasil Notícias",
+      "url": "https://terrabrasilnoticias.com/2026/04/chances-de-tarcisio-deixar-o-governo-de-sao-paulo-ate-sabado-movimentam-cenario-politico-entenda/"
+    },
+    {
+      "title": "Tarcísio de Freitas pode ter candidatura presidencial atrasada por julgamento de Bolsonaro - GAZETA MERCANTIL",
+      "url": "https://gazetamercantil.com/tarcisio-de-freitas-plano-presidencial-2026"
+    },
+    {
+      "title": "CdB | Bolsonaro adia apoio a Tarcísio para 2026",
+      "url": "https://correiodobrasil.com.br/a/indecisao-leva-bolsonaro-arriscar-campanha-tarcisio-planalto"
+    },
+    {
+      "title": "Chances de Tarcísio deixar o governo de São Paulo até sábado movimentam cenário político, entenda - Terra Brasil Notícias",
+      "url": "https://terrabrasilnoticias.com/2026/04/chances-de-tarcisio-deixar-o-governo-de-sao-paulo-ate-sabado-movimentam-cenario-politico-entenda/"
+    },
+    {
+      "title": "Desincompatibilização e afastamentos — Temas Selecionados",
+      "url": "https://temasselecionados.tse.jus.br/temas-selecionados/desincompatibilizacao-e-afastamentos"
+    },
+    {
+      "title": "Tarcísio apoia proposta de Flávio pelo fim da reeleição para presidente | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/07/tarcisio-apoia-proposta-de-flavio-pelo-fim-da-reeleicao-para-presidente.ghtml"
+    },
+    {
+      "title": "Três fatores que explicam por que Tarcísio não quer deixar o ...",
+      "url": "https://www.estadao.com.br/politica/tres-fatores-que-explicam-por-que-tarcisio-nao-quer-deixar-o-governo-para-tentar-o-planalto-em-2026/"
+    }
+  ],
+  "response": "Vou pesquisar as informações mais recentes sobre esse assunto.Com base nas informações coletadas, posso dar uma resposta completa e atualizada:\n\n---\n\n## ✅ Sim — Tarcísio de Freitas perdeu o prazo para se candidatar à Presidência em 2026\n\n### O que diz a lei?\n\nA legislação eleitoral brasileira (Lei Complementar nº 64/1990, com alterações da LC nº 219/2025) exige que **governadores de estado se desincompatibilizem do cargo — ou seja, se afastem definitivamente — com 6 meses de antecedência** em relação ao 1º turno das eleições para concorrer à Presidência da República.\n\nComo as eleições de 2026 estão marcadas para **4 de outubro**, o prazo limite para Tarcísio deixar o governo de São Paulo era **4 de abril de 2026 (sábado)**.\n\n---\n\n### O que aconteceu?\n\n**Tarcísio não se desincompatibilizou.** Ele optou por permanecer no cargo de governador de São Paulo, encerrando definitivamente — ao menos por via legal — qualquer possibilidade de concorrer à Presidência em 2026.\n\nA decisão era amplamente esperada. Aliados próximos ao governador, incluindo secretários, já descartavam qualquer saída, com um deles chegando a dizer que as chances eram de **\"-2\"**. O próprio Tarcísio havia declarado publicamente em diversas ocasiões: **\"Eu vou ficar em São Paulo.\"**\n\n---\n\n### Por que ele não quis se candidatar?\n\nTrês fatores principais explicam a decisão:\n\n1. **Lealdade a Bolsonaro:** Tarcísio não queria agir sem o aval explícito do ex-presidente, que estava preso e sinalizava apoiar o filho **Flávio Bolsonaro** como candidato. Tarcísio temia ser rotulado de \"traidor\" pela base bolsonarista.\n\n2. **Risco político:** Deixar o governo sem garantia de apoio seria um \"salto no escuro\". Bolsonaro poderia esticar sua decisão até agosto de 2026, e Tarcísio não queria perder o controle do próprio destino político.\n\n3. **Cenário eleitoral desfavorável:** Tarcísio e seu entorno avaliavam que Lula chegaria como favorito à eleição, tornando a disputa presidencial um risco desnecessário frente a uma reeleição ao governo de São Paulo praticamente garantida (com aprovação em torno de 60%).\n\n---\n\n### Conclusão\n\nTarcísio de Freitas **não perdeu o prazo por descuido ou acidente** — foi uma **decisão estratégica e deliberada**. Ao não se desincompatibilizar até 4 de abril de 2026, ele **encerrou juridicamente** sua possibilidade de concorrer à Presidência neste ciclo eleitoral e segue como **pré-candidato à reeleição ao governo de São Paulo**.",
+  "response_no_search": "## Tarcísio de Freitas e a Candidatura à Presidência em 2026\n\nEssa é uma questão jurídica relevante que estava sendo debatida até o meu corte de conhecimento.\n\n### O que se discutia:\n\n**A regra do \"desincompatibilização\"** exige que governadores que queiram concorrer à presidência se afastem do cargo **6 meses antes das eleições** (outubro 2026), ou seja, até **abril de 2026**.\n\n### Pontos em debate:\n\n- Tarcísio foi eleito governador de São Paulo em 2022 e reeleito em **2024**\n- Há discussão sob",
+  "error": null
+}

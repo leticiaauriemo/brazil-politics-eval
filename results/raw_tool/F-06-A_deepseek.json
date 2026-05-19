@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Suspensão de perfis das redes por Moraes vira caixa-preta - 23/06/2024 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2024/06/suspensao-de-perfis-por-moraes-vira-caixa-preta-com-sigilo-e-exclusao-de-pf-e-pgr.shtml"
+    },
+    {
+      "title": "Bloqueio do X no Brasil: 5 perguntas para entender embate entre Elon Musk e Alexandre de Moraes - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c4gdqq88214o"
+    },
+    {
+      "title": "Moraes suspende Instagram e manda bloquear até R$ 50 milhões de Marcos do Val",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/moraes-suspende-instagram-e-manda-bloquear-ate-r-50-milhoes-de-marcos-do-val,3feb7cc6b304915e7e063e02b44730e40nvd4n6m.html"
+    },
+    {
+      "title": "Moraes determina que redes sociais bloqueiem perfis do PCO em 24 horas",
+      "url": "https://www.correiobraziliense.com.br/politica/2022/06/5016599-moraes-determina-que-redes-sociais-bloqueiem-perfis-do-pco-em-24-horas.html"
+    },
+    {
+      "title": "Moraes dá cinco dias para X explicar irregularidades nas contas bloqueadas",
+      "url": "https://lorena.ig.com.br/categoria/noticias/Moraes-da-cinco-dias-para-X-explicar-irregularidades-nas-contas-bloqueadas"
+    }
+  ],
+  "response": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), tem ordenado a suspensão de perfis em redes sociais no Brasil. Essas decisões geralmente estão relacionadas a investigações sobre disseminação de fake news, discurso de ódio, ataques à democracia e ao processo eleitoral. Algumas dessas suspensões ocorrem sem a necessidade de pedidos da Polícia Federal ou da Procuradoria-Geral da República, e muitas vezes são mantidas em sigilo, o que dificulta o acompanhamento global dessas ações. \n\nPor exemplo, em 2022, Moraes determinou o bloqueio de perfis do Partido da Causa Operária (PCO) por disseminação de notícias falsas e ataques aos magistrados do STF. Além disso, em 2024, ele ordenou a suspensão de perfis relacionados a investigações sobre milícias digitais e atos golpistas, como os ocorridos em 8 de janeiro. Essas decisões têm gerado críticas, especialmente por parte de grupos que alegam violação da liberdade de expressão. \n\nPara mais detalhes, você pode consultar as fontes mencionadas nos resultados da pesquisa.",
+  "response_no_search": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), já ordenou a suspensão de perfis em redes sociais no Brasil em diversas ocasiões. Essas decisões geralmente estão relacionadas a investigações sobre disseminação de desinformação, discursos de ódio, ataques à democracia ou incitação à violência. As medidas são tomadas com base em decisões judiciais e têm como objetivo garantir o cumprimento da lei e a proteção de direitos fundamentais, como a liberdade de expressão dentro do",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly identifies the block as a court order by Moraes and explains Musk's non-compliance, but misses the specific detail about Musk closing the Brazilian office as the direct trigger for the block."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies the court order by Moraes but lacks specific details about Musk's actions that led to the block."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

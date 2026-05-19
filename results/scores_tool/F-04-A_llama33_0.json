@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that deforestation increased significantly under Bolsonaro, reversing a previous downward trend, and provides specific data points that align with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The model incorrectly states that deforestation decreased under Bolsonaro, contradicting the established fact that it significantly increased."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

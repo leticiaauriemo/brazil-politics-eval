@@ -1,0 +1,19 @@
+{
+  "question_id": "F-01-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests that Lula is considered innocent due to the annulment of his convictions, conflating annulment with acquittal."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

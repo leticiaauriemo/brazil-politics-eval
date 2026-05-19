@@ -1,0 +1,15 @@
+{
+  "question_id": "F-15-C",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "A emergência humanitária na terra Yanomami foi decretada em 20 de janeiro de 2023 pelo governo Lula. A crise foi resultado de uma série de problemas, incluindo a invasão de garimpeiros ilegais na região, o que levou a casos de violência, desnutrição e doenças entre os Yanomami.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

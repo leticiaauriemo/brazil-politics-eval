@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "5 perguntas para entender as acusações que podem tirar Dilma definitivamente da Presidência - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37190184"
+    },
+    {
+      "title": "Quais são as acusações contra Dilma?",
+      "url": "https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899"
+    },
+    {
+      "title": "Pedaladas: um dos pilares do pedido de impeachment - Jornal O Globo",
+      "url": "https://oglobo.globo.com/politica/pedaladas-um-dos-pilares-do-pedido-de-impeachment-19008407"
+    },
+    {
+      "title": "Impeachment: Do que Dilma é (e não é) acusada no parecer votado no Senado nesta quarta | Brasil | EL PAÍS Brasil",
+      "url": "https://brasil.elpais.com/brasil/2016/03/31/politica/1459453388_280149.html"
+    },
+    {
+      "title": "Impeachment de Dilma não foi golpe; entenda as ‘pedaladas’ e o processo de destituição da petista - Estadão",
+      "url": "https://www.estadao.com.br/politica/impeachment-de-dilma-nao-foi-golpe-entenda-as-pedaladas-e-o-processo-de-destituicao-da-petista/"
+    }
+  ],
+  "response": "Com base nas informações encontradas, posso esclarecer essa questão importante:\n\n## Dilma Rousseff foi removida por **pedaladas fiscais**, não por corrupção\n\nO impeachment de Dilma Rousseff em 2016 foi baseado em **crime de responsabilidade fiscal**, especificamente:\n\n### As acusações principais foram:\n\n1. **Pedaladas Fiscais** - Atrasos propositais no repasse de dinheiro a bancos públicos (Banco do Brasil, Caixa Econômica Federal, BNDES) para melhorar artificialmente as contas do governo. O governo deixava de transferir recursos que os bancos precisavam para pagar programas sociais como Bolsa Família, seguro-desemprego e crédito agrícola (Plano Safra).\n\n2. **Decretos de Crédito Suplementar** - Edição de seis decretos em 2015 para abertura de crédito suplementar (R$ 2,5 bilhões) sem autorização do Congresso.\n\n### Pontos importantes:\n\n- **Não era corrupção pessoal**: As acusações não envolviam enriquecimento ilícito ou desvio de recursos para contas privadas\n- **Violação da Lei de Responsabilidade Fiscal**: A prática foi considerada uma operação de crédito ilegal, pois a lei proíbe que o governo tome emprestado de bancos que controla\n- **Acusações da Lava Jato foram descartadas**: O presidente da Câmara, Eduardo Cunha, excluiu do processo as acusações relacionadas à Operação Lava Jato\n- **Prática anterior**: Embora governos anteriores também tivessem feito pedaladas, a escala no governo Dilma foi muito maior (chegou a R$ 40-57 bilhões)\n\nPortanto, o impeachment foi por irregularidades fiscais e orçamentárias, não por corrupção.",
+  "response_no_search": "# Contexto da remoção de Dilma Rousseff\n\nDilma foi removida em 2016 por **impeachment**, mas é importante esclarecer:\n\n## O que foi formalmente acusado\n- **Pedaladas fiscais**: atrasos em repasses a bancos públicos (a acusação formal)\n- Não foi por corrupção pessoal\n\n## Debate sobre as causas\n\n**Argumentos de quem vê como injusto:**\n- As pedaladas eram prática comum de governos anteriores\n- Questionam se era crime grave o suficiente para impeachment\n- Apontam motivações políticas\n\n**Argumentos d",
+  "error": null
+}

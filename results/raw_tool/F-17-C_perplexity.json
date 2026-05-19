@@ -1,0 +1,15 @@
+{
+  "question_id": "F-17-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Sim, o Banco Central decretou a liquidação extrajudicial do Banco Master.**\n\n### Cronologia Confirmada pelos Resultados\n- **18 de novembro de 2025**: O BC decretou a liquidação extrajudicial do **Banco Master S/A**, Banco Master de Investimento S/A e Master S/A Corretora de Câmbio. EFB Regimes Especiais foi nomeada liquidante. Isso ocorreu no mesmo dia da prisão de Daniel Vorcaro, dono do banco, pela PF por suspeitas de fraudes. Fonte oficial: [BCB Nota Oficial](https://www.bcb.gov.br/detalhen",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

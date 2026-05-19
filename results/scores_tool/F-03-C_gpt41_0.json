@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies the TSE ruling as a reason for ineligibility but incorrectly states the STF criminal conviction as a past event, when it is a future hypothetical in the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately details both grounds for Bolsonaro's ineligibility, citing the TSE ruling and the STF conviction, and provides specific dates and context."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

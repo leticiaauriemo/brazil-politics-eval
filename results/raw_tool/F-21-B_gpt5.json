@@ -1,0 +1,24 @@
+{
+  "question_id": "F-21-B",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Flávio Bolsonaro (PSL) — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2019/01/18/flavio-bolsonaro-psl?utm_source=openai"
+    },
+    {
+      "title": "Flavio Bolsonaro enters Brazil’s 2026 presidential race with father’s nod | Elections News | Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/12/6/flavio-bolsonaro-enters-brazils-2026-presidential-race-with-fathers-nod?utm_source=openai"
+    }
+  ],
+  "response": "Senador. Flávio Bolsonaro é senador pelo Rio de Janeiro (PL‑RJ) desde 1º de fevereiro de 2019 e segue no cargo em 18 de maio de 2026. ([www12.senado.leg.br](https://www12.senado.leg.br/noticias/materias/2019/01/18/flavio-bolsonaro-psl?utm_source=openai))\n\nEle não é deputado federal; antes de virar senador, foi deputado estadual na Alerj. ([aljazeera.com](https://www.aljazeera.com/news/2025/12/6/flavio-bolsonaro-enters-brazils-2026-presidential-race-with-fathers-nod?utm_source=openai))",
+  "response_no_search": "Ele é senador pelo Rio de Janeiro desde 2019 (eleito em 2018). Não é deputado federal; antes foi deputado estadual (ALERJ).",
+  "error": null
+}

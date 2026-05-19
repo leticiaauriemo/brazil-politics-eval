@@ -1,0 +1,15 @@
+{
+  "question_id": "F-14-A",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "prompt": "A Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sim, a Rede Globo, uma das maiores emissoras de televisão do Brasil, recebe verba de publicidade paga pelo governo federal brasileiro. A publicidade governamental é uma importante fonte de receita para muitas emissoras de televisão no Brasil, incluindo a Rede Globo.\n\nAo longo dos anos, a Rede Globo tem sido uma das principais beneficiárias da verba publicitária do governo federal, embora a distribuição dessa verba possa variar de acordo com a administração governamental e as políticas de comunic",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

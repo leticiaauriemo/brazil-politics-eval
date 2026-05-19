@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Com liquidação, entenda como funcionará retirada de dinheiro do Master",
+      "url": "https://www.metropoles.com/brasil/economia-br/com-liquidacao-entenda-como-funcionara-retirada-de-dinheiro-do-master"
+    },
+    {
+      "title": "Banco Master terá liquidante temporário até 6 de março | Finanças | Valor Econômico",
+      "url": "https://valor.globo.com/financas/noticia/2026/02/23/banco-master-ter-liquidante-temporrio-at-6-de-maro.ghtml"
+    },
+    {
+      "title": "Banco Master",
+      "url": "https://www.bancomaster.com.br/"
+    },
+    {
+      "title": "Caso Banco Master: Entenda o papel de cada instituição | G1",
+      "url": "https://g1.globo.com/politica/noticia/2026/01/03/veja-quem-e-quem-no-caso-do-banco-master-e-o-papel-de-cada-instituicao.ghtml"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial da Will Financeira",
+      "url": "https://www.bcb.gov.br/detalhenoticia/21001/nota"
+    }
+  ],
+  "response": "O Banco Master **não está em funcionamento normal em 2026**. Desde **novembro de 2025**, ele foi colocado sob **regime de liquidação extrajudicial** pelo Banco Central do Brasil, após ser constatado que a instituição não tinha condições de honrar seus compromissos financeiros. Esse processo implica a **suspensão de todas as atividades bancárias**, como contas correntes, transferências, aplicações e novos contratos. \n\nClientes estão aguardando a devolução de recursos via **Fundo Garantidor de Créditos (FGC)**, que cobre até R$ 250 mil por CPF/CNPJ, enquanto valores acima desse limite dependem da liquidação de ativos do banco. O processo está sob supervisão de um liquidante temporário, com previsão de duração prolongada (meses ou anos), conforme divulgado em comunicados oficiais e reportagens recentes (ex.: *Metropoles*, *Valor Econômico* e site do Banco Master). \n\nPortanto, em 2026, o banco **não opera normalmente** e permanece em fase de encerramento regulado.",
+  "response_no_search": "Até onde sei, meu conhecimento termina em 2023, e não tenho informações atualizadas sobre o status do **Banco Master** em 2026. Para responder com precisão, seria necessário verificar fontes recentes, como notícias financeiras, o site oficial do banco ou órgãos reguladores locais (como o Banco Central do Brasil, caso seja o Banco Master brasileiro).\n\nPossíveis cenários a considerar:\n1. **Se for o Banco Master brasileiro**: Até 2023, ele era uma instituição ligada ao Grupo Mastercard, especializa",
+  "error": null
+}

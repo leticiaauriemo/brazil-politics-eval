@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges Brazil's high total doses but incorrectly claims its proportional performance was median, lacking the necessary context about the investment in SUS/PNI."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states that Brazil's vaccination performance was 'mediano' when considering proportional coverage, which is incorrect and contradicts the ground truth that Brazil was above average."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

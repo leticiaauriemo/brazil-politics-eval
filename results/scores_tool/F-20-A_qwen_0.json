@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Brazil as 4th globally in total doses administered but omits the crucial context regarding the role of SUS/PNI infrastructure versus the Bolsonaro government's stance, which was a key part of the resolution criteria for a higher score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies Brazil as 4th in total vaccine doses but lacks specific attribution to the SUS/PNI infrastructure and focuses more on the numbers."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

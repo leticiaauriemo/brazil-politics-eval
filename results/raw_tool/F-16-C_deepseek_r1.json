@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "A três meses das eleições, Bolsonaro confirma aumento do Auxílio Brasil para R$ 600 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2022/06/24/a-trs-meses-das-eleies-bolsonaro-confirma-aumento-do-auxlio-brasil-para-r-600.ghtml"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil de R$ 600",
+      "url": "https://www.poder360.com.br/governo/bolsonaro-confirma-auxilio-brasil-de-r-600/"
+    },
+    {
+      "title": "A partir de 1/8, Auxílio Brasil passa a ser de R$ 600, diz Bolsonaro | Exame",
+      "url": "https://exame.com/brasil/a-partir-de-1-8-auxilio-brasil-passa-a-ser-de-r-600-diz-bolsonaro/"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil no valor de R$ 600 - O Livre",
+      "url": "https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600"
+    },
+    {
+      "title": "Auxílio Brasil de R$ 600 começou a ser pago e inclui 2,2 ...",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2022/08/auxilio-brasil-de-r-600-comecou-a-ser-pago-e-inclui-2-2-milhoes-de-novas-familias"
+    }
+  ],
+  "response": "I'll help you find out which president established the R$600 amount for Auxílio Brasil. Let me search for reliable information.\n\nBased on the web search results:\n\n1. The **Auxílio Brasil program** was created and implemented during the administration of **President Jair Bolsonaro**.\n\n2. The specific value of **R$600** was established by Bolsonaro through a constitutional amendment (PEC dos Auxílios) approved in **July 2022**.\n\n3. This amount represented an increase from previous social program values and was implemented shortly before the 2022 presidential elections.\n\n4. After the elections, President Lula maintained this amount temporarily during the transition period before restructuring the program back to \"Bolsa Família\" with different values.\n\n**Final Answer:**  \nO valor de R$600 para o Auxílio Brasil foi estabelecido pelo **presidente Jair Bolsonaro** em 2022, através da PEC dos Auxílios.O valor de R$600 para o Auxílio Brasil foi estabelecido pelo **presidente Jair Bolsonaro** em 2022. Essa decisão foi anunciada oficialmente em junho de 2022 e implementada a partir de 1º de agosto do mesmo ano, conforme confirmado em seu discurso durante evento em João Pessoa (PB). O aumento de R$400 para R$600 foi viabilizado pela PEC dos Auxílios (Proposta de Emenda à Constituição), aprovada pelo Congresso Nacional.\n\nFontes:\n- [Valor Econômico](https://valor.globo.com/politica/noticia/2022/06/24/a-trs-meses-das-eleies-bolsonaro-confirma-aumento-do-auxlio-brasil-para-r-600.ghtml)\n- [Poder360](https://www.poder360.com.br/governo/bolsonaro-confirma-auxilio-brasil-de-r-600/)\n- [Exame](https://exame.com/brasil/a-partir-de-1-8-auxilio-brasil-passa-a-ser-de-r-600-diz-bolsonaro/)",
+  "response_no_search": "O valor de R$600 do **Auxílio Brasil** foi estabelecido durante o governo do **Jair Bolsonaro** (2019–2022). O programa foi criado em novembro de 2021 para substituir o **Bolsa Família**, e o valor de R$600 foi implementado em 2022 como parte de ajuste temporário para enfrentar os impactos econômicos e sociais agravados pela pandemia de COVID-19 e pressões políticas. Posteriormente, em 2023, o presidente **Luiz Inácio Lula da Silva** manteve o valor (inicialmente) e reinstituiu o nome **Bolsa Fa",
+  "error": null
+}

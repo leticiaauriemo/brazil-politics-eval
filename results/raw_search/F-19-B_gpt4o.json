@@ -1,0 +1,35 @@
+{
+  "question_id": "F-19-B",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "prompt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Flávio x Tarcísio: quem é o candidato à Presidência da direita em 2026",
+      "url": "https://mais.opovo.com.br/colunistas/esplanada/2026/02/02/flavio-x-tarcisio-quem-e-o-candidato-a-presidencia-da-direita-em-2026.html"
+    },
+    {
+      "title": "Tarcísio seria o melhor nome da direita à Presidência, diz presidente do Republicanos – Noticias R7",
+      "url": "https://noticias.r7.com/eleicoes/2026/tarcisio-seria-o-melhor-nome-da-direita-a-presidencia-diz-presidente-do-republicanos-14042026/"
+    },
+    {
+      "title": "Pesquisa aponta Flávio Bolsonaro como principal nome da direita para a Presidência em 2026 - GP1",
+      "url": "https://www.gp1.com.br/eleicoes-2026/noticia/2026/2/10/pesquisa-aponta-flavio-bolsonaro-como-principal-nome-da-direita-para-a-presidencia-em-2026-615312.html"
+    },
+    {
+      "title": "Saiba quem são e o que defendem os potenciais candidatos à Presidência em 2026",
+      "url": "https://www.poder360.com.br/poder-eleicoes/saiba-o-que-defendem-os-potenciais-candidatos-a-presidencia-em-2026/"
+    },
+    {
+      "title": "Eleição 2026: saiba nome da direita que ganha tração para o pleito",
+      "url": "http://www.gazetadopovo.com.br/republica/as-eleicoes-2026-candidato-preparado-direita/"
+    }
+  ],
+  "response": "Para as eleições presidenciais de 2026 no Brasil, o senador Flávio Bolsonaro (PL-RJ) é apontado como o principal candidato da direita. Ele lidera as intenções de voto entre eleitores que se identificam como de direita e centro-direita, e é percebido como o candidato que melhor simboliza esse campo ideológico. Uma pesquisa do instituto Realtime Big Data revelou que Flávio Bolsonaro concentra 61% das intenções de voto entre eleitores de direita nos cenários estimulados, consolidando sua posição como principal liderança da direita na corrida presidencial de 2026 [gp1.com.br](https://www.gp1.com.br/eleicoes-2026/noticia/2026/2/10/pesquisa-aponta-flavio-bolsonaro-como-principal-nome-da-direita-para-a-presidencia-em-2026-615312.html).\n\nEmbora Tarcísio de Freitas, governador de São Paulo, seja considerado por alguns como um nome forte e ideal para a direita, ele não está concorrendo à presidência, pois busca a reeleição no estado de São Paulo [noticias.r7.com](https://noticias.r7.com/eleicoes/2026/tarcisio-seria-o-melhor-nome-da-direita-a-presidencia-diz-presidente-do-republicanos-14042026/).",
+  "response_no_search": "Não posso prever eventos futuros ou fornecer informações sobre candidatos específicos para as eleições de 2026 no Brasil, pois isso depende de muitos fatores políticos e sociais que podem mudar ao longo do tempo. Além disso, novos candidatos podem surgir e o cenário político pode evoluir significativamente até lá. Recomendo acompanhar as notícias políticas e as análises de especialistas para obter informações atualizadas sobre possíveis candidatos e suas chances nas eleições futuras.",
+  "error": null
+}

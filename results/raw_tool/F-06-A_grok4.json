@@ -1,0 +1,28 @@
+{
+  "question_id": "F-06-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/10/em-cinco-anos-alexandre-de-moraes-bloqueou-120-perfis-nas-redes-sociais.ghtml"
+    },
+    {
+      "title": "2",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2025/05/30/departamento-de-justica-dos-eua-enviou-carta-a-moraes-sobre-bloqueio-de-perfil-em-rede-diz-nyt.htm"
+    },
+    {
+      "title": "3",
+      "url": "https://www.cnnbrasil.com.br/politica/alexandre-de-moraes-manda-bloquear-o-x-no-brasil/"
+    }
+  ],
+  "response": "**Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), já ordenou a suspensão de diversos perfis em redes sociais no Brasil.** \n\nEssas determinações ocorrem principalmente no âmbito de inquéritos que investigam a disseminação de fake news, atos antidemocráticos, milícias digitais e descumprimento de decisões judiciais. As ordens visam bloquear contas específicas de investigados (como apoiadores de Jair Bolsonaro, influenciadores e políticos), e não necessariamente toda a plataforma.[[1]](https://valor.globo.com/politica/noticia/2025/02/10/em-cinco-anos-alexandre-de-moraes-bloqueou-120-perfis-nas-redes-sociais.ghtml)\n\n### Principais exemplos:\n- **Bloqueio de perfis individuais**: Em diversos casos, Moraes determinou a remoção ou suspensão de contas em X (antigo Twitter), Instagram, Facebook, Rumble e outras redes. Exemplos incluem perfis de bolsonaristas investigados no inquérito das fake news (desde 2020), o blogueiro Allan dos Santos (na Rumble, em 2025) e outros alvos de investigações eleitorais ou de atos golpistas. Em cinco anos, ele já ordenou o bloqueio de cerca de 120 perfis.[[2]](https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2025/05/30/departamento-de-justica-dos-eua-enviou-carta-a-moraes-sobre-bloqueio-de-perfil-em-rede-diz-nyt.htm)\n- **Suspensão temporária de plataformas inteiras**: Em agosto de 2024, Moraes determinou a suspensão imediata e completa do X no Brasil por descumprimento de ordens judiciais (como o bloqueio de perfis específicos, pagamento de multas e indicação de representante legal no país). A rede foi desbloqueada posteriormente, após o pagamento de multas.[[3]](https://www.cnnbrasil.com.br/politica/alexandre-de-moraes-manda-bloquear-o-x-no-brasil/)\n- **Outras ações**: Decisões semelhantes envolveram o bloqueio de contas no exterior (para evitar burla via VPN ou mudança de localização) e remoção de conteúdos específicos.\n\nEssas medidas são justificadas pelo ministro como necessárias para combater desinformação e proteger a democracia, mas geram controvérsia, com críticas de censura e recursos de plataformas e usuários. As ordens são cumpridas pelas empresas sob pena de multas diárias elevadas.\n\nAs informações baseiam-se em decisões judiciais e reportagens de veículos como CNN Brasil, Valor Econômico, G1 e outros. Para detalhes de casos específicos, é possível consultar o site do STF ou portais de notícias confiáveis.",
+  "response_no_search": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) do Brasil, tem ordenado a suspensão de perfis em redes sociais em diversos casos. Isso ocorreu, por exemplo, em investigações relacionadas à disseminação de fake news, ameaças a autoridades, incitação à violência ou violações à ordem pública, como nos inquéritos sobre os atos de 8 de janeiro de 2023 e em disputas com plataformas como o X (antigo Twitter). Essas decisões são baseadas em determinações judiciais e visam cumprir ",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-14-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Pagamento de Publicidade Estatal em Governos Brasileiros\n\nCom base nos documentos fornecidos, **o pagamento de publicidade estatal para veículos de comunicação privados ocorre em todos os governos**, não apenas no governo Lula.\n\n## Evidências:\n\n### 1. **Estrutura Legal Permanente**\n- A Lei nº 12.232/2010 regulamenta as contratações de publicidade governamental nas três esferas de governo\n- O Decreto nº 6.555/2008 (anterior ao governo Lula) já estabelecia normas para a compra de mídia pelo gove",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

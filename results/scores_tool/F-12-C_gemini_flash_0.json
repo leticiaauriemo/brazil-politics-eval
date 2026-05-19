@@ -1,0 +1,25 @@
+{
+  "question_id": "F-12-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Bolsonaro was not in Brazil on January 8, 2023, but it lacks specific details about his location and timeline."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states Bolsonaro was not in Brazil and mentions he was in the US, but lacks specific details about the exact location and dates of his trip."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

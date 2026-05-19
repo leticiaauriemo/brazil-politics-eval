@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that all governments pay state advertising, but it fails to detail the Bolsonaro pattern of concentrating resources in friendly outlets and Lula 3's broader distribution, which are key elements of the ground truth for a higher score."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that all governments in Brazil engage in state advertising, highlights the specific patterns of the Bolsonaro and Lula 3 administrations, and provides historical context and comparative data."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

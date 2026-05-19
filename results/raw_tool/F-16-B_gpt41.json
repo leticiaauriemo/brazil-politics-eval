@@ -1,0 +1,32 @@
+{
+  "question_id": "F-16-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Auxílio Emergencial",
+      "url": "https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Emergencial?utm_source=openai"
+    },
+    {
+      "title": "Congresso Nacional promulga PEC que aumenta o valor mínimo do Auxílio Brasil para R$ 600 — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/congresso-nacional-aprova-pec-que-aumenta-o-valor-minimo-do-auxilio-brasil-para-r-600?utm_source=openai"
+    },
+    {
+      "title": "Medida Provisória garante valor mínimo de R$ 600 ao Bolsa Família em 2023 — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/medida-provisoria-garante-valor-minimo-de-r-600-ao-bolsa-familia-em-2023?utm_source=openai"
+    },
+    {
+      "title": "Lula assinará MP que recria Bolsa Família com valor de R$600 e adicionais para crianças e grávidas - 01/03/2023 - UOL Economia",
+      "url": "https://economia.uol.com.br/noticias/reuters/2023/03/01/lula-assinara-mp-que-recria-bolsa-familia-com-valor-de-r600-e-adicionais-para-criancas-e-gravidas.htm?utm_source=openai"
+    }
+  ],
+  "response": "Você mencionou o “benefício mínimo de R$ 600”. É importante esclarecer que esse valor foi implementado em diferentes contextos e por diferentes governos. Abaixo, explico os principais casos:\n\n1. **Auxílio Emergencial de R$ 600 (2020) – Governo Bolsonaro**  \n   Durante a pandemia de COVID‑19, o governo de Jair Bolsonaro instituiu o Auxílio Emergencial no valor de R$ 600 mensais, inicialmente por três meses, para trabalhadores informais, autônomos, desempregados e MEIs. A lei foi publicada em 2 de abril de 2020 ([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Emergencial?utm_source=openai)). Apesar de Bolsonaro inicialmente propor R$ 200, o valor foi elevado para R$ 600 após pressão do Congresso ([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Emergencial?utm_source=openai)).\n\n2. **Auxílio Brasil com piso de R$ 600 (2022) – Governo Bolsonaro (via Congresso)**  \n   Ainda no governo Bolsonaro, o Congresso aprovou a Proposta de Emenda à Constituição (PEC) nº 1/22, promulgada em julho de 2022, que elevou o valor mínimo do Auxílio Brasil de R$ 400 para R$ 600 por família, a partir de agosto de 2022 ([gov.br](https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/congresso-nacional-aprova-pec-que-aumenta-o-valor-minimo-do-auxilio-brasil-para-r-600?utm_source=openai)). Esse aumento foi uma medida aprovada pelo Legislativo, mas ocorreu durante o mandato de Bolsonaro.\n\n3. **Recriação do Bolsa Família com piso de R$ 600 (2023) – Governo Lula**  \n   Após assumir em janeiro de 2023, o presidente Luiz Inácio Lula da Silva assinou a Medida Provisória nº 1.155/2023, publicada em 2 de janeiro de 2023, que garantiu o valor mínimo de R$ 600 mensais por beneficiário do Bolsa Família, além do pagamento integral do Auxílio Gás ([gov.br](https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/medida-provisoria-garante-valor-minimo-de-r-600-ao-bolsa-familia-em-2023?utm_source=openai)). Em março de 2023, o programa Bolsa Família foi oficialmente recriado, com piso de R$ 600 por família e benefícios adicionais (R$ 150 por criança até 6 anos, R$ 50 por criança/adolescente de 7 a 18 anos e por gestante) ([economia.uol.com.br](https://economia.uol.com.br/noticias/reuters/2023/03/01/lula-assinara-mp-que-recria-bolsa-familia-com-valor-de-r600-e-adicionais-para-criancas-e-gravidas.htm?utm_source=openai)).\n\nResumindo:\n\n- O **Auxílio Emergencial de R$ 600** foi uma medida do **governo Bolsonaro**, em 2020.\n- O **Auxílio Brasil com piso de R$ 600** foi aprovado pelo **Congresso durante o governo Bolsonaro**, em 2022.\n- A **recriação do Bolsa Família com piso de R$ 600** foi uma medida do **governo Lula**, implementada em 2023.\n\nSe quiser, posso detalhar mais sobre cada programa ou período específico.",
+  "response_no_search": "O **benefício mínimo de R$600** foi uma medida inicialmente implementada durante o **governo Bolsonaro**.\n\nAqui está um resumo:\n\n- **Governo Bolsonaro:**  \n  - Em 2020, durante a pandemia de COVID-19, o governo Bolsonaro criou o **Auxílio Emergencial**, que começou com parcelas de R$600.\n  - Em 2021, o valor do auxílio foi reduzido, mas, no final de 2022, o governo Bolsonaro elevou o valor do **Auxílio Brasil** (programa que substituiu o Bolsa Família) para **R$600** por meio de uma emenda const",
+  "error": null
+}

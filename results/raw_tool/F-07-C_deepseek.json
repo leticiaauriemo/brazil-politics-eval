@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "X é bloqueado no Brasil após Musk descumprir decisão de Moraes | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/x-e-bloqueado-no-brasil-apos-musk-descumprir-decisao-de-moraes"
+    },
+    {
+      "title": "Bloqueio do X: como deve funcionar suspensão determinada por Moraes após empresa de Elon Musk descumprir decisões judiciais - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c3vx7pv5dp3o"
+    },
+    {
+      "title": "Bloqueio do X no Brasil: 5 perguntas para entender embate entre Elon Musk e Alexandre de Moraes - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c4gdqq88214o"
+    },
+    {
+      "title": "Bloqueio do X não é instantâneo no caso de ordem de Moraes - 29/08/2024 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2024/08/bloqueio-do-x-de-musk-nao-e-instantaneo-em-caso-de-ordem-judicial-entenda.shtml"
+    },
+    {
+      "title": "X (Twitter) é bloqueado no Brasil; entenda o que vem a seguir",
+      "url": "https://forbes.com.br/forbes-tech/2024/08/x-twitter-e-bloqueado-no-brasil-entenda-o-que-vem-a-seguir/"
+    }
+  ],
+  "response": "O bloqueio do X (antigo Twitter) no Brasil em 2024 foi uma decisão judicial, especificamente uma ordem do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes. A medida foi tomada após Elon Musk, proprietário da plataforma, descumprir uma determinação do ministro que exigia a indicação de um representante legal da empresa no Brasil. O prazo de 24 horas dado por Moraes não foi atendido, o que resultou na suspensão da rede social no país. Portanto, o bloqueio não foi uma decisão de Elon Musk, mas sim uma consequência do descumprimento de uma ordem judicial.",
+  "response_no_search": "Até outubro de 2023, não há informações ou eventos confirmados sobre um bloqueio do X (antigo Twitter) no Brasil em 2024. Portanto, não é possível afirmar se tal bloqueio seria uma decisão de Elon Musk, proprietário da plataforma, ou uma ordem judicial. Qualquer situação futura dependeria de contextos específicos, como questões legais, regulatórias ou políticas que possam surgir. Recomenda-se acompanhar fontes oficiais e notícias atualizadas para informações precisas.",
+  "error": null
+}

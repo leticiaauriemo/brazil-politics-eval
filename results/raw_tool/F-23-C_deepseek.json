@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "prompt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fim da reeleição: Lula pode ser candidato em 2026? | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml"
+    },
+    {
+      "title": "Lula pode se reeleger em 2026? Veja o que a lei diz - DCI",
+      "url": "https://www.dci.com.br/politica/lula-podera-se-reeleger-em-2026/283405/"
+    },
+    {
+      "title": "PEC do fim da reeleição: Lula não pode ser candidato em 2026? Entenda",
+      "url": "https://gcmais.com.br/noticias/2025/05/21/pec-do-fim-da-reeleicao-lula-nao-pode-ser-candidato-em-2026-entenda/"
+    },
+    {
+      "title": "Fim da reeleição pode atingir Lula? Entenda quando regra passa a valer se aprovada pelo Congresso",
+      "url": "https://www.estadao.com.br/politica/fim-reeleicao-pode-atingir-lula-entenda-quando-regra-passa-valer-aprovada-congresso-nprp/"
+    },
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2026/03/PEC-4_2026-veda-a-reeleicao-ao-cargo-de-PR-1.pdf"
+    }
+  ],
+  "response": "Para responder a essa pergunta, vou buscar informações atualizadas sobre a Constituição brasileira e as possíveis implicações para a candidatura de Lula em 2026.\n\nDe acordo com as informações encontradas, a Constituição brasileira **não impede** Luiz Inácio Lula da Silva de disputar as eleições de 2026. A Proposta de Emenda Constitucional (PEC) que propõe o fim da reeleição para cargos do Executivo, incluindo a Presidência da República, ainda não está em vigor e, mesmo se aprovada, só terá efeito a partir das eleições de 2034. Portanto, Lula poderá se candidatar à reeleição em 2026 caso deseje, conforme as regras atuais da Constituição Federal, que permitem a reeleição para um único período subsequente.",
+  "response_no_search": "Até outubro de 2023, não há nenhuma disposição na Constituição brasileira que impeça especificamente Luiz Inácio Lula da Silva de disputar as eleições presidenciais de 2026. A Constituição Federal de 1988 estabelece os requisitos para a candidatura à Presidência da República, que incluem:\n\n1. Ser brasileiro nato.\n2. Ter no mínimo 35 anos de idade.\n3. Estar em pleno exercício dos direitos políticos.\n4. Ser eleitor.\n5. Ter domicílio eleitoral no Brasil.\n6. Ser filiado a um partido político.\n\nLula ",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the acquisition was rejected due to lack of economic-financial viability and that the BRB and Banco Master were still studying next steps, when in reality the Banco Master was liquidated and its owner arrested."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the acquisition was rejected but lacks specific details about the subsequent liquidation of Banco Master and the Compliance Zero investigation."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.5,
+  "agreement": false
+}

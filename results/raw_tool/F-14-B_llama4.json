@@ -1,0 +1,15 @@
+{
+  "question_id": "F-14-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Para responder se é legal o governo federal pagar por publicidade para emissoras de TV privadas como a Globo no Brasil, precisamos considerar vários aspectos legais e regulamentares.\n\n1. **Legislação sobre Propaganda Governamental**: A legislação brasileira permite que o governo utilize a propaganda institucional para divulgar suas ações e programas. A Lei nº 9.294/1996, que dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos e outros, e a Lei",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

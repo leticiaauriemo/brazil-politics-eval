@@ -1,0 +1,35 @@
+{
+  "question_id": "F-06-C",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-suspensao-do-x-antigo-twitter-em-todo-o-territorio-nacional-2/"
+    },
+    {
+      "title": "O STF pode determinar o bloqueio de perfis em redes sociais? - JOTA",
+      "url": "https://www.jota.info/stf/supra/o-stf-pode-determinar-o-bloqueio-de-perfis-em-redes-sociais"
+    },
+    {
+      "title": "STF rejeita 39 recursos contra bloqueio de perfis em redes sociais",
+      "url": "https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/"
+    },
+    {
+      "title": "",
+      "url": "https://midias.jb.com.br/_midias/pdf/2024/08/30/a_integra_da_decisao_de_alexandre_de_moraes_suspendendo_o_x-933422.pdf"
+    },
+    {
+      "title": "Moraes dobra a aposta e ordena suspensão da rede social 'X' no Brasil; leia a íntegra da decisão com 51 páginas",
+      "url": "https://www.jb.com.br/brasil/justica/2024/08/1051757-moraes-dobra-a-aposta-e-ordena-suspensao-da-rede-social-x-no-brasil-leia-a-integra-da-decisao-com-51-paginas.html"
+    }
+  ],
+  "response": "Sim, um ministro do Supremo Tribunal Federal (STF) pode, individualmente, ordenar a suspensão de contas em redes sociais no Brasil.\n\nEssa prerrogativa tem sido exercida, por exemplo, pelo ministro Alexandre de Moraes em diversos contextos. Ele tem determinado o bloqueio de perfis e contas em redes sociais, como o X (antigo Twitter), Discord e Rumble, especialmente em casos relacionados à disseminação de notícias falsas e à investigação de atos criminosos, como os ataques às sedes dos Três Poderes em 8 de janeiro de 2023 [noticias.stf.jus.br](https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/).\n\nEm uma decisão notável, o ministro Alexandre de Moraes chegou a determinar a suspensão imediata e completa do funcionamento do X em todo o território nacional. Essa medida foi tomada até que a empresa cumprisse decisões judiciais, pagasse multas fixadas e indicasse um representante legal no país [noticias.stf.jus.br](https://noticias.stf.jus.br/postsnoticias/stf-determina-suspensao-do-x-antigo-twitter-em-todo-o-territorio-nacional-2/). A decisão também intimou a Apple e o Google a bloquear o uso do aplicativo e retirá-lo de suas lojas virtuais [noticias.stf.jus.br](https://noticias.stf.jus.br/postsnoticias/stf-determina-suspensao-do-x-antigo-twitter-em-todo-o-territorio-nacional-2/).\n\nO ministro argumenta que a utilização de perfis em redes sociais para a disseminação de notícias falsas, que desvirtuam criminosamente a liberdade de expressão, autoriza a tomada de medidas repressivas, tanto cautelares quanto definitivas, com base na legislação vigente [noticias.stf.jus.br](https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/).\n\nÉ importante notar que, embora as decisões possam ser tomadas individualmente por um ministro, elas podem ser posteriormente submetidas à análise de uma Turma do STF, que pode confirmar ou reverter a decisão. No caso da suspensão do X, a Primeira Turma do STF confirmou a decisão individual do ministro Alexandre de Moraes [noticias.stf.jus.br](https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/).",
+  "response_no_search": "Sim, um ministro do STF pode, individualmente, ordenar a suspensão de contas em redes sociais no Brasil.\n\nEssa possibilidade decorre de alguns fatores:\n\n*   **Poderes do Relator:** Em processos que tramitam no STF, o ministro relator tem amplos poderes para tomar decisões monocráticas (individuais), especialmente em caráter de urgência ou para garantir a efetividade da decisão final. Isso inclui a concessão de liminares (decisões provisórias) que podem determinar a suspensão de contas.\n*   **Nat",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies the TSE ruling on electoral abuse as a reason for ineligibility but incorrectly states that the STF has already convicted Bolsonaro, when the ground truth indicates a future conviction."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately details both grounds for Jair Bolsonaro's ineligibility, citing the TSE ruling on electoral abuse and the STF criminal conviction."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

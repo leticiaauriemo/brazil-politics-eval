@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "A três meses das eleições, Bolsonaro confirma aumento do Auxílio Brasil para R$ 600 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2022/06/24/a-trs-meses-das-eleies-bolsonaro-confirma-aumento-do-auxlio-brasil-para-r-600.ghtml"
+    },
+    {
+      "title": "Bolsa Família: Banco Mundial propõe fim de R$ 600 - 26/09/2023 - Mercado - Folha",
+      "url": "https://www1.folha.uol.com.br/mercado/2023/09/bolsa-familia-seria-mais-eficaz-com-fim-de-beneficio-minimo-de-r-600-diz-banco-mundial.shtml"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil no valor de R$ 600 - O Livre",
+      "url": "https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600"
+    },
+    {
+      "title": "Decreto presidencial regulamenta o funcionamento do Auxílio Brasil — Casa Civil",
+      "url": "https://www.gov.br/casacivil/pt-br/assuntos/noticias/2021/novembro/decreto-presidencia-regulamenta-o-funcionamento-do-auxilio-brasil"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil de R$ 600",
+      "url": "https://www.poder360.com.br/governo/bolsonaro-confirma-auxilio-brasil-de-r-600/"
+    }
+  ],
+  "response": "O valor de R$ 600 do Auxílio Brasil foi estabelecido pelo ex-presidente Jair Bolsonaro. Ele confirmou o aumento do valor mínimo do Auxílio Brasil de R$ 400 para R$ 600 em junho de 2022, a poucos meses das eleições. O aumento foi anunciado como uma medida para aliviar o sofrimento dos mais humildes, em resposta à inflação e ao aumento de preços.",
+  "response_no_search": "O Auxílio Brasil de R$600 foi estabelecido durante o governo do presidente Jair Bolsonaro. O valor foi inicialmente aumentado para R$600 em 2022 como parte de uma medida temporária, e posteriormente, o governo de Luiz Inácio Lula da Silva, que assumiu em 2023, trabalhou para manter esse valor.",
+  "error": null
+}

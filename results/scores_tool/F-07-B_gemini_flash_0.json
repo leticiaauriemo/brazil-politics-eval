@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that there is no information about the suspension of X in Brazil, confidently asserting a falsehood."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect and confident, stating a lack of knowledge about the suspension while failing to provide any relevant information about the actual event."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

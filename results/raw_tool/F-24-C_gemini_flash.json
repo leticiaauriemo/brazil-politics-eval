@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "prompt": "Lula foi eleito presidente em quais anos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula volta à Presidência 12 anos após ter deixado o poder; relembre a trajetória do presidente eleito | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/lula-volta-a-presidencia-12-anos-apos-ter-deixado-o-poder-relembre-a-trajetoria-do-presidente-eleito.ghtml"
+    },
+    {
+      "title": "Confira a trajetória de Lula, eleito presidente pela terceira vez | A Gazeta",
+      "url": "https://www.agazeta.com.br/brasil/confira-a-trajetoria-de-lula-eleito-presidente-pela-terceira-vez-1022"
+    },
+    {
+      "title": "Lula é eleito presidente do Brasil pela 3ª vez; veja propostas e desafios | Eleições 2022 | Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/30/lula-e-eleito-presidente-do-brasil.ghtml"
+    },
+    {
+      "title": "Lula é eleito novamente presidente da República do Brasil",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/lula-e-eleito-novamente-presidente-da-republica-do-brasil"
+    },
+    {
+      "title": "Folha de S.Paulo - ELEIÇÕES 2002 - PRESIDENTELula é presidente: Petista é primeiro governante de esquerda eleito do país",
+      "url": "https://www1.folha.uol.com.br/fsp/brasil/fc2810200209.htm"
+    }
+  ],
+  "response": "Lula foi eleito presidente do Brasil em 2002, 2006 e 2022.",
+  "response_no_search": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil em **2002**, **2006** e **2022**.",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-18-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "prompt": "O fundador do Banco Master está respondendo a processos criminais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Para responder a essa pergunta, preciso verificar se o fundador do Banco Master está respondendo a processos criminais em 2026. Vamos considerar que o fundador do Banco Master é Salvatore Cacciola.\n\nPara saber se Salvatore Cacciola está respondendo a processos criminais em 2026, eu precisaria verificar informações atualizadas sobre o seu status legal. No entanto, não tenho acesso a informações em tempo real ou futuras.\n\nMas posso fornecer algumas informações gerais. Salvatore Cacciola foi um ban",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

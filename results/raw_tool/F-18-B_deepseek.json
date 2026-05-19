@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "prompt": "O fundador do Banco Master está respondendo a processos criminais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Daniel Vorcaro, dono do Banco Master, é novamente preso em operação da PF | Finanças | Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2026/03/04/vorcaro-dono-do-banco-master-e-preso-em-nova-operacao-da-pf.ghtml"
+    },
+    {
+      "title": "Caso Master: CPI do Crime aprova convocações de ex-dirigentes do BC",
+      "url": "https://www.correiobraziliense.com.br/politica/2026/03/7372990-caso-master-cpi-do-crime-aprova-convocacoes-de-ex-dirigentes-do-bc.html"
+    },
+    {
+      "title": "Caso Master: CPI do Crime convoca Vorcaro, Campos Neto e Paulo Guedes - Portal de Notícias",
+      "url": "https://www.rastilhodepolvora.com.br/noticia/caso-master-cpi-do-crime-convoca-vorcaro-campos-neto-e-paulo-guedes"
+    },
+    {
+      "title": "Vorcaro era 'pau-mandado' de dono oculto do Master, diz ...",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/03/18/vorcaro-era-pau-mandado-de-dono-oculto-do-master-diz-depoente-a-cpi"
+    },
+    {
+      "title": "Caso Master: entenda a prisão de Vorcaro pela segunda vez",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/03/05/banco-master-entenda-o-caso-que-levou-a-prisao-de-daniel-vorcaro-pela-segunda-vez.html"
+    }
+  ],
+  "response": "De acordo com as informações obtidas, **Daniel Vorcaro**, fundador do Banco Master, foi preso novamente em **março de 2026** durante a terceira fase da **Operação Compliance Zero**, deflagrada pela Polícia Federal. Ele já havia sido detido anteriormente em **novembro de 2025**, mas teve a prisão revogada. As investigações envolvem crimes como corrupção, lavagem de dinheiro e invasão de dispositivos informáticos, além de uma possível organização criminosa. O Banco Master foi liquidado pelo Banco Central em 2025 devido a riscos relevantes. \n\nSe precisar de mais detalhes, é só avisar!",
+  "response_no_search": "Até outubro de 2023, não há informações confirmadas sobre o fundador do Banco Master, Carlos Wizard, estar respondendo a processos criminais em 2026. É importante verificar fontes atualizadas e confiáveis para obter informações precisas sobre esse assunto, já que situações jurídicas podem mudar ao longo do tempo. Se você está buscando informações específicas, recomendo consultar notícias recentes ou fontes oficiais.",
+  "error": null
+}

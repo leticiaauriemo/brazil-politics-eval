@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "prompt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "IMPEACHMENT: Um estudo da regularidade constitucional do caso Dilma Rousseff\n\t\t\t\t\t\t\t| Revista FAROL",
+      "url": "https://revista.farol.edu.br/index.php/farol/article/view/322"
+    },
+    {
+      "title": "O impeachment de Dilma Rousseff : análise da constitucionalidade da sanção de inabilitação",
+      "url": "https://www2.senado.leg.br/bdsf/handle/id/556137"
+    },
+    {
+      "title": "As principais inconstitucionalidades do impeachment de 2016 - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/artigos/100153/as-principais-inconstitucionalidades-do-impeachment-de-2016"
+    },
+    {
+      "title": "Impeachment é aprovado e Dilma Rousseff é destituída pelo Senado",
+      "url": "https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/"
+    },
+    {
+      "title": "O ininteligível julgamento do Senado no Impeachment Ex-Presidente Dilma Rousseff - Jus.com.br | Jus Navigandi",
+      "url": "http://www.jus.uol.com.br/artigos/51891/o-ininteligivel-julgamento-do-senado-no-impeachment-ex-presidente-dilma-rousseff"
+    }
+  ],
+  "response": "O processo de impeachment de Dilma Rousseff em 2016 gerou debates jurídicos sobre sua conformidade com a Constituição Federal. Abaixo, uma síntese das principais questões levantadas:\n\n### **1. Procedimento Constitucional**\n- **Art. 86 da CF**: O processo seguiu as etapas formais: (1) Admissão pela Câmara dos Deputados (aprovação por 2/3 em 2016); (2) Julgamento pelo Senado. Nesse ponto, o processo respeitou a estrutura constitucional.\n\n### **2. Controvérsias Jurídicas**\n#### **a) Separação da pena de perda do cargo e inabilitação**\n- **Constituição (Art. 52, parágrafo único)**: A condenação no impeachment deve aplicar **cumulativamente** a perda do cargo **e** a inabilitação por 8 anos. \n- **Decisão do Senado**: Em 2016, o Senado dividiu o julgamento: \n  - Aprovou a **perda do cargo** por 61 votos a 20 (atingindo 2/3).\n  - **Rejeitou a inabilitação** por 42 a 36 votos (não atingindo 2/3).\n- **Críticas**: A separação das penas foi considerada inconstitucional por especialistas e pelo Supremo Tribunal Federal (STF) em precedente (MS 21.689, referente ao impeachment de Fernando Collor). O STF já havia decidido que as penas são **indissociáveis**. No caso de Dilma, o STF não julgou o mérito, deixando a questão sem resposta definitiva.\n\n#### **b) Natureza das acusações**\n- **Crimes de responsabilidade**: Dilma foi acusada de \"pedaladas fiscais\" (atrasos em repasses ao BNDES e uso de créditos suplementares sem autorização do Congresso). \n- **Questão jurídica**: Alguns juristas argumentam que as \"pedaladas\" são infrações técnicas de gestão fiscal, **não configurando crimes de responsabilidade** sob o critério rigoroso da Constituição (Art. 85), que exige condutas dolosas ou graves violações éticas. O debate persiste sobre se o processo foi politizado.\n\n#### **c) Regimento do Senado vs. Constituição**\n- O Senado aplicou seu Regimento Interno, permitindo a separação das penas, mas isso conflita com a Constituição, que prevê julgamento único. A decisão foi criticada como violação ao princípio da hierarquia normativa.\n\n### **3. Conclusão**\n- **Formalmente**, o processo seguiu os passos constitucionais (admissão pela Câmara e julgamento no Senado). \n- **Materialmente**, há **várias críticas de inconstitucionalidade**:\n  - Separação das penas (contrária ao STF e à letra da CF).\n  - Possível instrumentalização política do impeachment, com base em infrações de natureza técnica e discutível tipificação jurídica.\n  - Omissão do STF em julgar a questão, deixando lacunas na interpretação constitucional.\n\nPortanto, embora o processo tenha respeitado os **trâmites formais**, sua **conformidade material com a Constituição** é contestada, especialmente pela separação das penas e pela natureza das acusações.",
+  "response_no_search": "O impeachment da presidente Dilma Rousseff em 2016 seguiu **os procedimentos formais previstos na Constituição Federal do Brasil**, mas gerou intensos debates sobre seu **fundo jurídico e legitimidade política**. Abaixo, uma análise detalhada:\n\n### **Processo Legal (Passos Constitucionais)**\n1. **Causas de Impeachment (Art. 85 da CF/1988):**  \n   A Constituição prevê que o presidente pode ser afastado por **crimes de responsabilidade** que agridam o patrimônio federal, os orçamentos, o sistema f",
+  "error": null
+}

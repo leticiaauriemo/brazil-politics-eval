@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "prompt": "A força-tarefa da Lava Jato foi dissolvida durante qual governo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "PF acaba com grupo de trabalho da Lava Jato em Curitiba\n - ÉPOCA | Expresso",
+      "url": "https://epoca.globo.com/politica/expresso/noticia/2017/07/direcao-da-pf-acaba-com-grupo-de-trabalho-da-lava-jato-em-curitiba.html"
+    },
+    {
+      "title": "Fim de grupo de trabalho da Lava Jato na PF é visto como 'desmonte' - Estadão",
+      "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/no-berco-da-lava-jato-governo-conclui-desmonte-da-forca-tarefa-na-pf/"
+    },
+    {
+      "title": "O fim melancólico da força-tarefa da Lava Jato no Paraná",
+      "url": "https://www.dw.com/pt-br/o-fim-melanc%C3%B3lico-da-for%C3%A7a-tarefa-da-lava-jato-no-paran%C3%A1/a-56446083"
+    },
+    {
+      "title": "Governo reduz equipe da Lava Jato e corta verba da PF - Estadão",
+      "url": "https://estadao.com.br/politica/blog-do-fausto-macedo/governo-reduz-equipe-da-lava-jato-e-corta-verba-da-pf"
+    },
+    {
+      "title": "Após sete anos e 79 operações, Lava Jato em Curitiba chega ao fim como força isolada e passa a integrar grupo anticrime organizado - Estadão",
+      "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/apos-sete-anos-e-79-operacoes-lava-jato-em-curitiba-chega-ao-fim-como-forca-isolada-e-passa-a-integrar-grupo-anticrime-organizado/"
+    }
+  ],
+  "response": "A força-tarefa da Lava Jato no Ministério Público Federal do Paraná foi dissolvida em fevereiro de 2021, durante o governo de Jair Bolsonaro. As investigações da operação foram transferidas para o Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Paraná.\n\nNo entanto, o grupo de trabalho da Polícia Federal dedicado à Lava Jato em Curitiba já havia sido extinto em julho de 2017, durante o governo de Michel Temer. Na época, a decisão foi vista por investigadores como uma tentativa de \"desmonte\" da operação.",
+  "response_no_search": "A força-tarefa da Lava Jato em Curitiba, que era a principal e original da operação, foi dissolvida durante o **governo de Jair Bolsonaro**.\n\nA dissolução foi formalizada",
+  "error": null
+}

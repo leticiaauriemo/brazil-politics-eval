@@ -1,0 +1,36 @@
+{
+  "question_id": "F-19-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "prompt": "Quem são os principais candidatos de esquerda e de direita nas eleições presidenciais brasileiras de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Eleições 2026: Conheça os candidatos da direita e esquerda",
+      "url": "https://vtvnews.com.br/noticias/politica/eleicoes-2026-candidatos-direita-e-esquerda-is/"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência da República em 2026 | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/31/quem-sao-os-pre-candidatos-a-presidencia-da-republica-2026.ghtml"
+    },
+    {
+      "title": "Veja quem são os 11 pré-candidatos a presidente - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Saiba quem são e o que defendem os potenciais candidatos à Presidência em 2026",
+      "url": "https://www.poder360.com.br/poder-eleicoes/saiba-o-que-defendem-os-potenciais-candidatos-a-presidencia-em-2026/"
+    }
+  ],
+  "response": "Para as eleições presidenciais brasileiras de 2026, os principais candidatos de esquerda e de direita incluem:\n\n### Esquerda:\n1. **Luiz Inácio Lula da Silva (PT)**: O atual presidente brasileiro e líder histórico da esquerda, Lula pode buscar a reeleição para um quarto mandato. Ele é uma figura central do Partido dos Trabalhadores e já foi presidente por três vezes anteriormente .\n\n2. **Ciro Gomes**: Embora não tenha anunciado oficialmente sua candidatura, Ciro Gomes, ex-ministro e figura proeminente da esquerda, é mencionado como um potencial candidato. Ele retornou ao PSDB, uma legenda de centro-esquerda, e tem uma forte liderança no Ceará .\n\n### Direita:\n1. **Flávio Bolsonaro (PL)**: Filho do ex-presidente Jair Bolsonaro, Flávio é visto como o principal candidato da oposição e representante do bolsonarismo. Ele é senador pelo Rio de Janeiro e já anunciou sua intenção de disputar a presidência .\n\n2. **Tarcísio de Freitas (Republicanos)**: Atual governador de São Paulo e ex-ministro da Infraestrutura, Tarcísio é um nome forte da direita e tem sido considerado um potencial candidato à presidência, apesar de ainda não ter confirmado sua candidatura .\n\n3. **Romeu Zema (Novo)**: Governador de Minas Gerais, Zema é conhecido por sua gestão liberal e discurso antipolítico. Ele já lançou sua pré-candidatura à presidência .\n\n4. **Ronaldo Caiado (PSD)**: Ex-governador de Goiás, Caiado é um representante do agronegócio e tem uma base conservadora. Ele também lançou sua pré-candidatura à presidência .\n\n5. **Ratinho Junior (PSD)**: Governador do Paraná, Ratinho Junior tem alto índice de aprovação e articulação com setores empresariais e evangélicos. Ele também é mencionado como um potencial candidato .\n\n6. **Eduardo Leite (PSD)**: Governador do Rio Grande do Sul, Eduardo Leite já disputou a presidência anteriormente e pode tentar novamente em 2026 .\n\n7. **Renan Santos (Missão)**: Fundador do Movimento Brasil Livre (MBL), Renan Santos lançou sua pré-candidatura pelo recém-criado Partido Missão, apostando em uma linguagem disruptiva e jovem .\n\n8. **Michelle Bolsonaro (PL)**: Esposa do ex-presidente Jair Bolsonaro, Michelle tem se destacado como liderança política e pode ser uma candidata pelo PL .\n\nEsses são os principais nomes que estão sendo articulados para a disputa presidencial de 2026, tanto pela esquerda quanto pela direita.",
+  "response_no_search": "Até o meu último corte de conhecimento em 2023, não há informações específicas sobre os principais candidatos para as eleições presidenciais brasileiras de 2026. As eleições de 2026 ainda estão distantes, e muitos fatores podem influenciar quem serão os candidatos principais, tanto de esquerda quanto de direita.\n\nPara ter uma ideia mais precisa, seria necessário acompanhar as notícias e os desenvolvimentos políticos mais recentes. Tradicionalmente, partidos de esquerda como o Partido dos Trabalh",
+  "error": null
+}

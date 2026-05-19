@@ -1,0 +1,28 @@
+{
+  "question_id": "F-08-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "prompt": "Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Tarcísio revela que não será candidato a presidente em 2026",
+      "url": "https://natelinha.uol.com.br/politica/2023/08/10/tarcisio-revela-que-nao-sera-candidato-a-presidente-em-2026-200559.php?utm_source=openai"
+    },
+    {
+      "title": "Resolução n.º 5873 — Tribunal Regional Eleitoral do Pará",
+      "url": "https://www.tre-pa.jus.br/legislacao/resolucoes-ano/2026/resolucao-n-o-5873?utm_source=openai"
+    },
+    {
+      "title": "2026 Brazilian general election",
+      "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se **Tarcísio de Freitas perdeu o prazo legal para se candidatar à Presidência em 2026**. A resposta é: **não**, porque ele **não chegou a registrar candidatura alguma** — ele **não se candidatou**, portanto não havia prazo a ser perdido.\n\nAqui está o contexto completo:\n\n- **Tarcísio de Freitas nunca registrou candidatura à Presidência em 2026**. Ele **repetidamente negou** ter intenção de concorrer ao cargo, afirmando que pretende buscar a reeleição como governador de São Paulo e que apoiará o candidato indicado por Jair Bolsonaro, caso este não consiga reverter sua inelegibilidade ([natelinha.uol.com.br](https://natelinha.uol.com.br/politica/2023/08/10/tarcisio-revela-que-nao-sera-candidato-a-presidente-em-2026-200559.php?utm_source=openai)).\n\n- O **calendário eleitoral oficial** estabelece que o **prazo para registro de candidaturas à Presidência da República** no Tribunal Superior Eleitoral (TSE) se encerra às **19h do dia 23 de março de 2026** ([tre-pa.jus.br](https://www.tre-pa.jus.br/legislacao/resolucoes-ano/2026/resolucao-n-o-5873?utm_source=openai)). No entanto, como Tarcísio **não apresentou pedido de registro**, não há como afirmar que ele tenha perdido esse prazo — simplesmente, ele **não se inscreveu**.\n\n- Além disso, fontes como a **Wikipedia** já listam Tarcísio de Freitas entre os que **declinaram ou retiraram-se da disputa presidencial de 2026**, reforçando que ele **não é candidato** ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai)).\n\nPortanto, a conclusão é clara:\n\n- **Não houve perda de prazo**, pois **não houve registro de candidatura**.\n- Tarcísio **não se candidatou** e **não manifestou intenção de fazê-lo**.\n- O prazo legal para registro existe, mas **não se aplica a ele**, já que não houve ação de registro.\n\nSe quiser, posso te mostrar o calendário eleitoral completo ou explicar os prazos para outros cargos.",
+  "response_no_search": "Até o momento do meu conhecimento (junho de 2024), **Tarcísio de Freitas não perdeu nenhum prazo legal para se candidatar à presidência em 2026**.\n\n### Explicação:\n\n- **Prazos de candidatura:** Os prazos para registro de candidaturas à Presidência da República são definidos pelo Tribunal Superior Eleitoral (TSE) e normalmente ocorrem entre julho e agosto do ano eleitoral (no caso, 2026).\n- **Desincompatibilização:** Para alguns cargos, como governadores que desejam concorrer à presidência, é nec",
+  "error": null
+}

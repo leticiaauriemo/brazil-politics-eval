@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "C",
+  "prompt": "O STF declarou Lula inocente dos crimes pelos quais foi condenado em Curitiba?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://infograficos-est.valor.com.br/pdf/decisao_toffoli_provas_odebrecht_06092023.pdf"
+    },
+    {
+      "title": "Por contaminação de provas, STF tranca três ações contra Lula",
+      "url": "https://www.conjur.com.br/2023-fev-18/contaminacao-provas-stf-tranca-tres-acoes-lula/"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "STF anula todas as provas do acordo da Odebrecht",
+      "url": "https://www.dw.com/pt-br/stf-anula-todas-as-provas-do-acordo-de-leni%C3%AAncia-da-odebrecht/a-66737327"
+    },
+    {
+      "title": "Lula inocente: STF anula condenações e julga Moro incompetente – Partido dos Trabalhadores",
+      "url": "https://pt.org.br/lula-inocente-stf-anula-condenacoes-e-julga-moro-incompetente/"
+    }
+  ],
+  "response": "Sim, o Supremo Tribunal Federal (STF) declarou Luiz Inácio Lula da Silva inocente dos crimes pelos quais foi condenado em Curitiba. Em março de 2021, o STF anulou as condenações de Lula, considerando que a 13ª Vara Federal de Curitiba não tinha competência para julgar os casos relacionados à Operação Lava Jato. Essa decisão foi confirmada por uma maioria de votos no STF, que também invalidou as provas obtidas durante as investigações, considerando-as contaminadas e, portanto, nulas.\n\nEmbora Lula não tenha sido formalmente \"absolvido\" em um julgamento de mérito, a anulação das condenações e a declaração de incompetência da Justiça de Curitiba resultaram na presunção de inocência, uma vez que não há mais um juízo de culpa válido e definitivo sobre ele. Isso significa que, atualmente, Lula é considerado inocente perante a Justiça, de acordo com o princípio da presunção de inocência consagrado na Constituição brasileira.\n\nAlém disso, em fevereiro de 2023, o STF trancou três ações contra Lula, que se baseavam em provas consideradas nulas, encerrando formalmente as últimas acusações contra ele originadas na Lava Jato.",
+  "response_no_search": "Sim, em março de 2021, o Supremo Tribunal Federal (STF) do Brasil decidiu que o tribunal de Curitiba não tinha jurisdição para julgar os casos relacionados ao ex-presidente Luiz Inácio Lula da Silva. Essa decisão resultou na anulação das condenações de Lula, tornando-o inocente das acusações que lhe foram feitas naquele tribunal. A decisão foi baseada em questões de competência e jurisdição, e não necessariamente na análise do mérito das acusações.",
+  "error": null
+}

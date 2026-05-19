@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly identifies the 'pedaladas fiscais' as fiscal responsibility violations but is somewhat vague in its explanation of their nature."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Dilma Rousseff was removed for fiscal responsibility violations, specifically pedaladas fiscais, and explains what they were, without mentioning corruption as the reason for her removal."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

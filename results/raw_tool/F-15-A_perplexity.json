@@ -1,0 +1,15 @@
+{
+  "question_id": "F-15-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "prompt": "O governo Lula declarou emergência humanitária na terra indígena Yanomami em 2023?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Yes, the Lula government declared a humanitarian emergency in the Yanomami Indigenous Territory in 2023.**\n\n### Key Facts from Official and Reliable Sources\n- **Date and Actions**: On January 20, 2023, President Luiz Inácio Lula da Silva issued Decree nº 11.384/2023, creating the National Coordination Committee to Address Health Neglect in Yanomami Territory. This was coordinated by the Casa Civil and involved interministerial efforts ([gov.br sources 1, 2, 4](https://www.gov.br/planalto/pt-br",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

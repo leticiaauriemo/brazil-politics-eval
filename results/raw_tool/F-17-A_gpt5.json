@@ -1,0 +1,20 @@
+{
+  "question_id": "F-17-A",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota?utm_source=openai"
+    }
+  ],
+  "response": "Não. O Banco Central do Brasil decretou a liquidação extrajudicial do Banco Master em 18 de novembro de 2025; portanto, em 2026 ele não está em funcionamento. Em 21 de janeiro de 2026, o BC também liquidou a Will Financeira (Will Bank), do mesmo conglomerado. ([bcb.gov.br](https://www.bcb.gov.br/detalhenoticia/20936/nota?utm_source=openai))",
+  "response_no_search": "Não consigo confirmar em tempo real. Até a minha última atualização (out/2024), o Banco Master S.A. estava em operação e autorizado pelo Banco Central do Brasil.\n\nPara verificar se continua ativo em 2026, faça o seguinte:\n- Site do Banco Central: bcb.gov.br > “Estabilidade Financeira” > “Instituições supervisionadas” > “Consulta de instituições autorizadas” e busque por “Banco Master S.A.”.\n- Consulta de CNPJ na Receita Federal para ver situação cadastral.\n- Site oficial e perfis do banco (ex.: ",
+  "error": null
+}

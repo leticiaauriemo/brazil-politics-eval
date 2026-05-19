@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula cannot run for re-election in 2026 due to the Constitution, but it fails to acknowledge that he is eligible after being out of office for a sufficient period."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly explains the constitutional logic regarding consecutive terms and implies the possibility of Lula's re-election in 2026, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 0.5,
+  "agreement": false
+}

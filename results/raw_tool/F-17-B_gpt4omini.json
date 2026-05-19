@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Central reprova compra do Master pelo BRB - G1 - Globo",
+      "url": "https://g1.globo.com/economia/noticia/2025/09/03/bc-banco-master-brb.ghtml"
+    },
+    {
+      "title": "BC rejeita compra do Banco Master pelo BRB",
+      "url": "https://www.jb.com.br/economia/2025/09/1056783-bc-rejeita-compra-do-banco-master-pelo-brb.html"
+    },
+    {
+      "title": "Banco Central reprova compra do Banco Master pelo Banco de Brasília (BRB)",
+      "url": "https://www.terra.com.br/economia/banco-central-reprova-compra-do-banco-master-pelo-banco-de-brasilia-brb,1259ac6320b8120ba33324638acf81a3bst6781n.html"
+    },
+    {
+      "title": "BC recebe documentos de pedido de compra do Banco Master pelo BRB | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-03/bc-recebe-documentos-de-pedido-de-compra-do-banco-master-pelo-brb"
+    },
+    {
+      "title": "TCU vê indícios de improbidade em conduta do BRB na compra do Master",
+      "url": "https://www.metropoles.com/brasil/tcu-ve-indicios-de-improbidade-em-conduta-do-brb-na-compra-do-master"
+    }
+  ],
+  "response": "Após o Banco Central do Brasil rejeitar a compra do Banco Master pelo Banco de Brasília (BRB), a situação das duas instituições se tornou complexa. A decisão do BC foi anunciada em 3 de setembro de 2025, após mais de cinco meses de análise, e foi motivada por preocupações sobre a viabilidade econômico-financeira do Banco Master, que apresentava uma estratégia de captação arriscada.\n\nO BRB, que havia planejado adquirir 49% das ações ordinárias e 100% das preferenciais do Banco Master, comunicou que solicitou acesso à íntegra da decisão do BC para entender os fundamentos da reprovação e avaliar as alternativas cabíveis. O banco estatal considerava a aquisição uma oportunidade estratégica, com potencial de gerar valor para seus clientes e para o Distrito Federal.\n\nPor outro lado, o Banco Master também expressou sua intenção de analisar a decisão do BC e reafirmou sua confiança em sua estratégia de operação, que o destacou em um mercado altamente concentrado.\n\nCom a rejeição da compra, o contrato entre o BRB e o Banco Master será rescindido, e o BRB se comprometeu a manter seus acionistas informados sobre os desdobramentos. Além disso, há preocupações sobre a possibilidade de intervenção do Banco Central no Banco Master, dado seu modelo de negócios arriscado e a necessidade de apresentar um plano de trabalho ao BC.\n\nA situação é ainda mais complicada por indícios de improbidade administrativa na conduta do BRB durante a tentativa de aquisição, conforme apontado por uma auditoria do Tribunal de Contas da União (TCU). A auditoria sugere que a gestão do BRB pode ter agido com falta de diligência e gestão temerária, o que pode levar a investigações adicionais.\n\nPara mais detalhes, você pode acessar as fontes das notícias: [G1](https://g1.globo.com/economia/noticia/2025/09/03/bc-banco-master-brb.ghtml), [Jornal do Brasil](https://www.jb.com.br/economia/2025/09/1056783-bc-rejeita-compra-do-banco-master-pelo-brb.html), e [Terra](https://www.terra.com.br/economia/banco-central-reprova-compra-do-banco-master-pelo-banco-de-brasilia-brb,1259ac6320b8120ba33324638acf81a3bst6781n.html).",
+  "response_no_search": "Após o Banco Central do Brasil rejeitar a compra do Banco Master pelo Banco de Brasília (BRB), a situação do Banco Master se tornou mais complicada. A rejeição da aquisição foi motivada por preocupações regulatórias e de governança. Com isso, o Banco Master enfrentou dificuldades financeiras e operacionais, levando a uma reavaliação de sua estratégia e estrutura.\n\nO Banco Central, em situações como essa, pode intervir para garantir a estabilidade do sistema financeiro, e o Banco Master pode ter ",
+  "error": null
+}

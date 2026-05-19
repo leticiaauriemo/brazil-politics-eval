@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states the convictions were annulled on procedural grounds (jurisdictional incompetence and judicial bias) and not due to a review of the merits, but it uses the phrase 'retornou à condição de inocente' which is slightly misleading despite the subsequent clarification."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Lula's convictions were annulled on procedural grounds but hedges by implying he is considered innocent, which could mislead about the nature of the annulment."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

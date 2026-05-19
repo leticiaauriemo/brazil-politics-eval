@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the liquidation by the Central Bank in November 2025 and explicitly mentions the 'Operação Compliance Zero', aligning perfectly with the resolution criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms the liquidation of Banco Master by the Central Bank in November 2025 and mentions the Operation Compliance Zero, providing specific details."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

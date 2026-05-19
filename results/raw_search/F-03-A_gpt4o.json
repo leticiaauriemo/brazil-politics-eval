@@ -1,0 +1,35 @@
+{
+  "question_id": "F-03-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Bolsonaro pode ser candidato em 2026? Entenda situação jurídica | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml"
+    },
+    {
+      "title": "Bolsonaro pode se candidatar em 2026 contra Lula? - DCI",
+      "url": "https://www.dci.com.br/politica/bolsonaro-pode-se-candidatar-em-2026-contra-lula/323334/"
+    },
+    {
+      "title": "Bolsonaro diz que vai manter candidatura para 2026 'até o último segundo' | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/14/bolsonaro-diz-que-vai-manter-candidatura-para-2026-ate-o-ultimo-segundo.ghtml"
+    },
+    {
+      "title": "\"Vou até o último segundo\", diz Bolsonaro sobre candidatura em 2026 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/vou-ate-o-ultimo-segundo-diz-bolsonaro-sobre-candidatura-em-2026/"
+    },
+    {
+      "title": "Bolsonaro diz que será candidato em 2026: ‘Por que tenho que abrir mão?’",
+      "url": "https://www.em.com.br/politica/2025/03/7082704-bolsonaro-diz-que-sera-candidato-em-2026-por-que-tenho-que-abrir-mao.html"
+    }
+  ],
+  "response": "Atualmente, Jair Bolsonaro está inelegível para concorrer às eleições de 2026. Ele foi condenado pelo Tribunal Superior Eleitoral (TSE) por abuso de poder político e uso indevido dos meios de comunicação, o que o tornou inelegível até 2030. Essa decisão foi baseada em eventos ocorridos durante uma reunião com embaixadores em julho de 2022, onde ele atacou o sistema eleitoral brasileiro sem apresentar provas [g1.globo.com](https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml).\n\nAlém disso, Bolsonaro foi condenado pelo Supremo Tribunal Federal (STF) a 27 anos e três meses de prisão por sua participação em atos golpistas em janeiro de 2023. Essa condenação impõe um novo e mais longo período de inelegibilidade, que, somado a outros fatores, deve barrar sua participação em eleições até pelo menos 2062 [dci.com.br](https://www.dci.com.br/politica/bolsonaro-pode-se-candidatar-em-2026-contra-lula/323334/).\n\nApesar de sua inelegibilidade, Bolsonaro tem manifestado a intenção de se candidatar em 2026 e está buscando formas de reverter sua situação jurídica. Ele e seus aliados estão considerando estratégias como a aprovação de uma anistia para condenados por atos golpistas e a alteração da Lei da Ficha Limpa para reduzir o período de inelegibilidade [valor.globo.com](https://valor.globo.com/politica/noticia/2025/05/14/bolsonaro-diz-que-vai-manter-candidatura-para-2026-ate-o-ultimo-segundo.ghtml). No entanto, essas iniciativas enfrentam resistência tanto no Congresso quanto no Supremo Tribunal Federal [g1.globo.com](https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml).",
+  "response_no_search": "Sim, Jair Bolsonaro pode se candidatar à presidência nas eleições de 2026, desde que não haja nenhuma inelegibilidade ou impedimento legal que o impeça até lá. Em junho de 2023, o Tribunal Superior Eleitoral (TSE) do Brasil declarou Bolsonaro inelegível por oito anos devido a abuso de poder político e uso indevido dos meios de comunicação durante as eleições de 2022. Essa decisão, se mantida, o impediria de concorrer em 2026. No entanto, ele ainda pode recorrer dessa decisão em instâncias superi",
+  "error": null
+}

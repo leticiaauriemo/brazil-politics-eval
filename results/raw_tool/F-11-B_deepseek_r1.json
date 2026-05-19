@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Dilma Rousseff impeachment: How did it go wrong for her? - BBC News",
+      "url": "https://www.bbc.com/news/world-latin-america-36028247"
+    },
+    {
+      "title": "Impeachment Dilma: Sob pressão: quais são as acusações e a defesa da presidenta Dilma | Brasil | EL PAÍS Brasil",
+      "url": "https://brasil.elpais.com/brasil/2015/12/07/politica/1449510934_655994.html"
+    },
+    {
+      "title": "Quais são as acusações contra Dilma?",
+      "url": "https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899"
+    },
+    {
+      "title": "Dilma Rousseff’s impeachment, explained | Vox",
+      "url": "http://www.vox.com/cards/dilma-rousseff-impeachment-suspension/protests"
+    },
+    {
+      "title": "5 perguntas para entender as acusações que podem tirar Dilma definitivamente da Presidência - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37190184"
+    }
+  ],
+  "response": "I'll look up information about Dilma Rousseff's impeachment to clarify the reasons behind it.Dilma Rousseff foi **removida do cargo por \"pedaladas fiscais\"**, não por corrupção direta. Os fatos são:\n\n### 🚨 Razões do impeachment:\n1. **Pedaladas Fiscais**:  \n   - Dilma foi acusada de manipular o orçamento público atrasando repasses a bancos estatais (como Banco do Brasil e Caixa Econômica) para programas sociais e agrícolas.  \n   - Esses atrasos criavam a ilusão de um superávit fiscal, mascarando o déficit real.  \n   - O Tribunal de Contas da União (TCU) considerou essas manobras ilegais sob a Lei de Responsabilidade Fiscal, pois equivaliam a empréstimos não autorizados do governo a bancos públicos.\n\n2. **Decretos de Suplementação Orçamentária**:  \n   - Ela editou decretos para realocar verbas sem aprovação do Congresso, prática considerada irregular.\n\n### ⚖️ Contexto:\n- **Sem acusações de corrupção pessoal**: Nenhuma prova vinculou Dilma diretamente a esquemas de corrupção (como o da Petrobras).  \n- **Prática comum, mas em escala inédita**: As \"pedaladas\" existiam em governos anteriores, mas atingiram R$ 119 bilhões sob Dilma, o que levou à reação jurídica.  \n- **Fator político**: A crise econômica (recessão, inflação alta) e o escândalo da Lava Jato criaram pressão para o impeachment, usando as pedaladas como justificativa legal.\n\n### 🧠 Conclusão:\nO impeachment foi baseado em **crimes de responsabilidade fiscal** (pedaladas e decretos irregulares), não em corrupção comprovada. A defesa de Dilma argumentou que as pedaladas eram \"prestação de serviços\" e que o processo foi um \"golpe político\". O Senado, porém, considerou as manobras incompatíveis com o cargo.",
+  "response_no_search": "A presidente Dilma Rousseff foi **impeachment em 2016 oficialmente por \"pedaladas fiscais\"** (crime de responsabilidade fiscal), **não por corrupção pessoal direta**. Porém, o contexto de corrupção foi crucial. Veja a distinção:\n\n1.  **Motivo Oficial (Impeachment):**\n    *   **\"Pedaladas Fiscais\":** Refere-se à prática de atrasar repasses a bancos públicos (como BNDES e Caixa Econômica Federal) para financiar programas sociais e pagar despesas do governo. Isso era feito sem autorização do Congre",
+  "error": null
+}

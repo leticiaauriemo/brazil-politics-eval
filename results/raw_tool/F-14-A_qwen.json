@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "prompt": "A Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo Lula destina R$ 177,2 mi em publicidade para Globo em 2023 e 2024",
+      "url": "https://guiadoinvestidor.com.br/noticias/governo-lula-destina-r-1772-mi-em-publicidade-para-globo-em-2023-e-2024/"
+    },
+    {
+      "title": "Lula privilegia propaganda na TV e reduz inserções na internet",
+      "url": "https://www.poder360.com.br/midia/lula-privilegia-propaganda-na-tv-e-reduz-insercoes-na-internet/"
+    },
+    {
+      "title": "\"Globo\" recebeu 49% da verba de publicidade de Lula na TV",
+      "url": "https://www.poder360.com.br/poder-midia/globo-recebeu-49-da-verba-de-publicidade-de-lula-na-tv/"
+    },
+    {
+      "title": "Globo, Record ou SBT: o canal que mais conseguiu verba do Governo Lula em 2025",
+      "url": "https://rd1.com.br/globo-record-ou-sbt-o-canal-que-mais-conseguiu-verba-do-governo-lula-em-2025/"
+    },
+    {
+      "title": "CdB | Esquema de publicidade do governo aumenta a verba da Globo",
+      "url": "https://correiodobrasil.com.br/a/esquema-publicidade-governo-aumenta-verba-globo"
+    }
+  ],
+  "response": "Sim, a **Rede Globo** recebe verbas de publicidade paga pelo governo federal brasileiro, e os valores têm aumentado significativamente desde o início do governo Lula (2023). Abaixo, os principais pontos com base nas informações disponíveis:\n\n### 1. **Valores totais nos governos recentes:**\n- **Governo Lula (2023–2025):**  \n  - A Globo recebeu **R$ 461,5 milhões** em verbas publicitárias federais (corrigidos pela inflação) nos três primeiros anos do mandato, superando o valor recebido durante o governo Bolsonaro (2019–2022), que foi de R$ 228,5 milhões (uma alta de **102%**).  \n  - Em 2023, a emissora ficou com **56% do total gasto em publicidade para TV** (R$ 142 milhões, contra R$ 89 milhões em 2022, último ano de Bolsonaro).  \n  - Em 2024, a Globo absorveu **53% dos R$ 164,4 milhões** gastos em publicidade com emissoras de TV.  \n\n- **Governo Bolsonaro (2019–2022):**  \n  - A Globo recebeu **R$ 177 milhões** entre 2019 e 2022, com participação mais equilibrada com outras emissoras, como a Record TV.\n\n### 2. **Participação relativa em 2023–2025:**\n- Em 2023, a Globo concentrou **49,4% de todo o orçamento federal para publicidade em TV** (R$ 175,5 milhões de um total de R$ 345,1 milhões).  \n- Em 2024, manteve a liderança com **R$ 169,8 milhões** (48,5% do total de R$ 351,9 milhões).  \n- Em 2025 (dados parciais), já recebeu **R$ 116,3 milhões** (49,4% do total de R$ 236,9 milhões).\n\n### 3. **Comparação com outras emissoras:**\n- A **Record TV** ficou em segundo lugar em 2024 com R$ 35,8 milhões, seguida pelo **SBT** (R$ 23,2 milhões).  \n- Durante o governo Bolsonaro, a Record liderou os investimentos, mas perdeu espaço para a Globo sob Lula.\n\n### 4. **Contexto e justificativas:**\n- A Secom (Secretaria de Comunicação do Governo) alega que a distribuição é técnica, visando alcançar a população por meio de canais com maior audiência.  \n- Críticos apontam que a concentração de verbas na Globo reflete um reposicionamento ideológico e político, já que a emissora historicamente tem cobertura crítica de governos progressistas, como o de Lula.\n\n### Conclusão:\nA **Rede Globo é a principal beneficiária de verbas publicitárias federais** desde 2023, com um aumento expressivo em comparação ao governo anterior. O governo Lula destinou mais de **R$ 460 milhões** à emissora em três anos, consolidando sua posição de liderança no setor de mídia televisiva no Brasil.",
+  "response_no_search": "A Rede Globo, como uma das principais redes de televisão do Brasil, **pode receber verbas de publicidade institucional paga pelo governo federal**, seguindo as regras estabelecidas por lei para a distribuição de verbas públicas em comunicação. No entanto, esse tema é cercado de debates e controvérsias. Abaixo, uma explicação detalhada:\n\n### 1. **Base Legal e Regras de Distribuição**\n   - A publicidade institucional do governo (para divulgar políticas públicas, campanhas de saúde, segurança, etc.",
+  "error": null
+}

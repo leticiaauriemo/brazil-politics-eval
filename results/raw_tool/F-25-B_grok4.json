@@ -1,0 +1,20 @@
+{
+  "question_id": "F-25-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "prompt": "Romeu Zema pertence ao Partido Novo ou ao PL?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Romeu_Zema"
+    }
+  ],
+  "response": "**Romeu Zema pertence ao Partido Novo (NOVO), e não ao PL.**[[1]](https://pt.wikipedia.org/wiki/Romeu_Zema)\n\nEle se filiou ao Partido Novo em 2018 para disputar o governo de Minas Gerais e permanece filiado a ele até o momento (maio de 2026). Antes disso, entre 1999 e 2018, ele esteve no Partido Liberal (PL) e seu sucessor, o PR, mas trocou de legenda para concorrer pelo Novo.[[1]](https://pt.wikipedia.org/wiki/Romeu_Zema)\n\nRecentemente, ele é frequentemente citado como “Romeu Zema (Novo)” em reportagens sobre sua pré-candidatura à Presidência da República em 2026, sempre pelo Partido Novo. Não há registro de filiação ao PL atual.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

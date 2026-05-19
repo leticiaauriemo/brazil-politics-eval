@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies that Tarcísio is likely to seek re-election in São Paulo and has publicly denied presidential ambitions, but it incorrectly states that the final decision will be revealed in April 2026, implying he is still a potential candidate when he is legally out of the race."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly suggests that Tarcísio de Freitas may still run for president, despite acknowledging his intention to seek reelection in São Paulo and the missed deadline for federal candidacy."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.5,
+  "agreement": true
+}

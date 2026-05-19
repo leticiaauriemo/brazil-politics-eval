@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies that Tarcísio is not running for president and wants to focus on São Paulo, but it misses the crucial detail about the desincompatibilização deadline, which is a key factual reason for his non-candidacy."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Tarcísio de Freitas chose to focus on his reelection as governor of São Paulo and explicitly states he is not running for president, thus addressing both aspects of the core factual claim."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

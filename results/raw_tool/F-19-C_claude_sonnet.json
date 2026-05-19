@@ -1,0 +1,56 @@
+{
+  "question_id": "F-19-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "prompt": "Quem são os principais candidatos de esquerda e de direita nas eleições presidenciais brasileiras de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Eleição para presidente: quem está na corrida e quem já caiu fora",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos-presidente-da-republica-quem-segue-na-corrida-e-quem-ja-caiu-fora/"
+    },
+    {
+      "title": "Hertz Dias presidente: PSTU oficializa pré-candidatura | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/02/24/pstu-lanca-pre-candidatura-de-hertz-dias-para-presidente.ghtml"
+    },
+    {
+      "title": "Saiba quem são os pré-candidatos à Presidência do Brasil",
+      "url": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/04/15/saiba-quem-sao-os-pre-candidatos-a-presidencia-do-brasil.html"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência da República em 2026 | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/03/31/quem-sao-os-pre-candidatos-a-presidencia-da-republica-2026.ghtml"
+    },
+    {
+      "title": "Veja quem são os 11 pré-candidatos a presidente - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "Eleições 2026: quem são os 6 pré-candidatos à Presidência da República",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/eleicoes-2026-quem-sao-os-6-pre-candidatos-a-presidencia-da-republica,d12970024b607989a9597ccda6a68587w89q3q19.html"
+    },
+    {
+      "title": "Quem são os pré-candidatos à Presidência nas eleições de 2026 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidencia-nas-eleicoes-de-2026.ghtml"
+    },
+    {
+      "title": "Veja quem são os 11 pré-candidatos a presidente - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "Análise: Flávio é o principal nome da direita em 2026 pela visibilidade",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/analise-flavio-e-o-principal-nome-da-direita-em-2026-pela-visibilidade/"
+    },
+    {
+      "title": "Saiba quem são e o que defendem os potenciais candidatos à Presidência em 2026",
+      "url": "https://www.poder360.com.br/poder-eleicoes/saiba-o-que-defendem-os-potenciais-candidatos-a-presidencia-em-2026/"
+    }
+  ],
+  "response": "Com base nas informações mais recentes (abril de 2026), aqui está um panorama completo dos principais pré-candidatos às eleições presidenciais brasileiras de 2026, divididos por campo político:\n\n---\n\n## 🗳️ Eleições Presidenciais Brasileiras de 2026\n\nO primeiro turno está marcado para **4 de outubro de 2026** e o segundo turno para **25 de outubro de 2026**. Há atualmente **12 pré-candidatos** declarados, com a disputa polarizada principalmente entre **Lula (PT)** e **Flávio Bolsonaro (PL)**.\n\n---\n\n## 🔴 ESQUERDA\n\n| Candidato | Partido | Perfil |\n|---|---|---|\n| **Luiz Inácio Lula da Silva** | PT | Presidente em exercício, busca o **4º mandato**. Lidera as pesquisas com cerca de **39%** das intenções de voto (Datafolha, abril/2026). É o principal nome da esquerda e da situação. |\n| **Samara Martins** | UP (Unidade Popular) | Vice-presidente da UP, representa a esquerda popular e movimentos sociais. Única mulher pré-candidata até o momento. |\n| **Hertz Dias** | PSTU | Professor de história e ativista do movimento negro. Defende uma alternativa socialista e é crítico tanto do governo Lula quanto da extrema direita. |\n| **Edmilson Costa** | PCB | Doutor em Economia pela Unicamp. Representa a esquerda mais ideológica e comunista. |\n| **Rui Costa Pimenta** | PCO | Fundador do PCO e ex-integrante do PT. Veterano das disputas presidenciais, com linha de esquerda crítica às instituições. |\n\n---\n\n## 🔵 DIREITA E EXTREMA DIREITA\n\n| Candidato | Partido | Perfil |\n|---|---|---|\n| **Flávio Bolsonaro** | PL | Senador e filho do ex-presidente Jair Bolsonaro. **Principal nome da oposição**, com cerca de **35%** nas pesquisas. Herdeiro político do bolsonarismo, tem a anistia ao pai como uma de suas principais bandeiras. |\n| **Ronaldo Caiado** | PSD | Ex-governador de Goiás, conservador e defensor histórico do agronegócio. Tenta se posicionar como alternativa ao PT e ao PL, com cerca de **6%** nas pesquisas. |\n| **Romeu Zema** | Novo | Ex-governador de Minas Gerais (reeleito no 1º turno em 2022). Perfil liberal econômico, defende Estado enxuto e agenda de mercado. Foi o **primeiro** a lançar pré-candidatura (agosto de 2025). |\n| **Renan Santos** | Missão | Cofundador do MBL (Movimento Brasil Livre). Perfil liberal e de renovação política. Já foi chamado de \"Javier Milei brasileiro\". |\n| **Cabo Daciolo** | Mobiliza | Ex-deputado e pastor evangélico. Ficou famoso em 2018 pelo bordão \"Glória a Deus\". Representa o eleitorado religioso conservador. |\n\n---\n\n## 🟡 CENTRO / INDEFINIDOS\n\n| Candidato | Partido | Perfil |\n|---|---|---|\n| **Aldo Rebelo** | DC (Democracia Cristã) | Figura histórica da esquerda (ex-PCdoB por 40 anos), mas que migrou para posições mais conservadoras. Ex-presidente da Câmara e ex-ministro de Lula e Dilma. Hoje é crítico do governo petista. |\n| **Augusto Cury** | Avante | Psiquiatra e escritor de best-sellers. Candidato \"fora da política tradicional\", com discurso voltado à saúde emocional e educação. Cerca de",
+  "response_no_search": "## Eleições Presidenciais Brasileiras de 2026\n\nÉ importante destacar que **as eleições de 2026 ainda estão em fase inicial de articulação**, e o cenário pode mudar significativamente. Com base no que se discutia até meu conhecimento (início de 2025):\n\n---\n\n### 🔴 Campo da Esquerda/Centro-Esquerda\n\n- **Luiz Inácio Lula da Silva** (PT) — presidente em exercício, possível candidato à reeleição, embora sua candidatura dependa de fatores de saúde e popularidade\n- **Fernando Haddad** (PT) — ministro da",
+  "error": null
+}

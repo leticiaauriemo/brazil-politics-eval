@@ -1,0 +1,56 @@
+{
+  "question_id": "F-14-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2821676&filename=RIC+4168%2F2024"
+    },
+    {
+      "title": "TCU vê falta de critério do governo Bolsonaro no rateio de verbas para TVs - 11/08/2020 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2020/08/tcu-ve-falta-de-criterio-do-governo-bolsonaro-no-rateio-de-verbas-para-tvs.shtml"
+    },
+    {
+      "title": "Lula privilegia propaganda na TV e reduz inserções na internet",
+      "url": "https://www.poder360.com.br/midia/lula-privilegia-propaganda-na-tv-e-reduz-insercoes-na-internet/"
+    },
+    {
+      "title": "Publicidade - Governo vai dar R$ 206 mi à Globo - Ricardo Feltrin",
+      "url": "https://ooops.com.br/publicidade-governo-vai-dar-r-206-mi-a-globo/"
+    },
+    {
+      "title": "A publicidade federal concentra recursos na Globo e reacende o debate sobre critérios de distribuição. - Luciana",
+      "url": "https://portalnoticiasbahia.com.br/2026/01/12/a-publicidade-federal-concentra-recursos-na-globo-e-reacende-o-debate-sobre-criterios-de-distribuicao/"
+    },
+    {
+      "title": "Entenda como funciona a publicidade no Governo Federal",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/publicidade"
+    },
+    {
+      "title": "Lei permite que emissoras de rádio e TV comercializem toda programação com terceiros - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/897339-LEI-PERMITE-QUE-EMISSORAS-DE-RADIO-E-TV-COMERCIALIZEM-TODA-PROGRAMACAO-COM-TERCEIROS"
+    },
+    {
+      "title": "L14356",
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14356.htm"
+    },
+    {
+      "title": "L11652",
+      "url": "https://www.presidencia.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11652.htm"
+    },
+    {
+      "title": "Decreto n� 6246",
+      "url": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6246.htm"
+    }
+  ],
+  "response": "Com base nas informações encontradas, posso responder sua pergunta:\n\n## É legal, mas com regulamentações\n\n**Sim, é legal** o governo federal pagar publicidade para emissoras de TV privadas como a Globo no Brasil. No entanto, essa prática é regulamentada por leis e está sujeita a critérios técnicos e fiscalização.\n\n### Marcos legais:\n\n1. **Lei nº 12.232/2010** - Regula as contratações de serviços de publicidade pela administração pública, determinando que os serviços sejam prestados por meio de agências de propaganda.\n\n2. **Lei nº 14.356/2022** - Alterou a Lei 12.232 para dispor sobre contratações de serviços de comunicação institucional.\n\n### Critérios técnicos obrigatórios:\n\nSegundo decisão do **TCU (Tribunal de Contas da União) em 2020**, a distribuição de verbas publicitárias deve seguir **critérios técnicos e impessoais**, como:\n\n- **Audiência** (share de mercado)\n- Alcance populacional\n- Eficiência na comunicação\n- Economicidade\n- Capilaridade nacional\n\n### Situação atual:\n\n- A Globo, como líder de audiência (cerca de 33% do público), recebe proporcionalmente mais recursos\n- Entre 2023-2024, a Globo recebeu aproximadamente **R$ 462 milhões** em publicidade federal\n- Isso representa cerca de **49-56%** de toda a verba destinada à TV aberta\n\n### Pontos de debate:\n\nEmbora legal, a concentração de recursos em uma única emissora gera críticas sobre:\n- Falta de pluralidade informativa\n- Possível desequilíbrio no ecossistema midiático\n- Necessidade de maior transparência nos critérios\n\nA prática é auditável e deve seguir rigorosamente os critérios técnicos estabelecidos pela lei.",
+  "response_no_search": "# Publicidade governamental em TV privada\n\nSim, é legal, mas com regulamentações:\n\n## Marco legal\n- A **Lei 9.504/1997** (Lei Eleitoral) e outras normas permitem publicidade institucional do governo\n- Existe regulamentação sobre como, quando e quanto gastar\n\n## Limitações importantes\n- **Fora de períodos eleitorais**: permitido com mais flexibilidade\n- **Em períodos eleitorais**: restrições significativas para evitar propaganda política disfarçada\n- **Prestação de contas**: gastos devem ser públ",
+  "error": null
+}

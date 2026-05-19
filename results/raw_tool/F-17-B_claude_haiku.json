@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Central reprova compra do Master pelo BRB - G1 - Globo",
+      "url": "https://g1.globo.com/economia/noticia/2025/09/03/bc-banco-master-brb.ghtml"
+    },
+    {
+      "title": "BC rejeita compra do Banco Master pelo BRB",
+      "url": "https://www.jb.com.br/economia/2025/09/1056783-bc-rejeita-compra-do-banco-master-pelo-brb.html"
+    },
+    {
+      "title": "BC rejeita compra do Master pelo Banco de Brasília (BRB)",
+      "url": "https://www.acessa.com/economia/2025/09/283706-bc-rejeita-compra-do-master-pelo-banco-de-brasilia-brb.html"
+    },
+    {
+      "title": "Banco Central reprova compra do Banco Master pelo Banco de Brasília (BRB)",
+      "url": "https://www.terra.com.br/economia/banco-central-reprova-compra-do-banco-master-pelo-banco-de-brasilia-brb,1259ac6320b8120ba33324638acf81a3bst6781n.html"
+    },
+    {
+      "title": "O que levou o BC a rejeitar compra do Banco Master pelo BRB em ...",
+      "url": "https://www.cnnbrasil.com.br/economia/o-que-levou-o-bc-a-rejeitar-compra-do-banco-master-pelo-brb-em-setembro/"
+    }
+  ],
+  "response": "Vou buscar informações sobre esse assunto para você.Com base nas informações encontradas, aqui está o que aconteceu com o Banco Master após a rejeição do Banco Central:\n\n## Rejeição da Compra (Setembro de 2025)\n\nO Banco Central rejeitou a compra do Banco Master pelo BRB em **3 de setembro de 2025**, após mais de 5 meses de análise. O BC apontou **riscos excessivos na operação**, especialmente relacionados aos ativos do Master que não se alinhavam ao perfil do BRB.\n\n## Consequências Imediatas\n\n1. **Rescisão do Contrato**: O BRB rescindiu o contrato de compra conforme seus termos e condições\n2. **Situação Financeira Frágil**: O Master ficou em situação vulnerável, pois:\n   - Não havia publicado balanço desde dezembro do ano anterior\n   - Tinha uma estratégia agressiva de captação (oferecia até 140% do CDI)\n   - Enfrentava desconfiança do mercado\n   - Tentou emissão de títulos em dólares sem sucesso\n\n## Desfecho Final (Dezembro de 2025)\n\nO Banco Central **decretou a liquidação extrajudicial do Banco Master**, após:\n- Operação da Polícia Federal (\"Compliance Zero\") que resultou na **prisão de Daniel Vorcaro**, dono do banco\n- Investigações em cinco estados (SP, RJ, DF, BA e MG) sobre irregularidades na gestão\n\n## Proteção aos Clientes\n\nOs clientes e investidores do Master foram protegidos pelo **Fundo Garantidor de Crédito (FGC)**, que cobre investimentos de até R$ 250 mil por pessoa em cada instituição financeira.",
+  "response_no_search": "# Banco Master - Situação após rejeição do BC\n\nNão tenho informações específicas e atualizadas sobre o que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB (Banco de Brasília).\n\nPara obter informações precisas sobre este caso, recomendo:\n\n1. **Consultar notícias recentes** em portais como:\n   - G1, Folha de S.Paulo, O Globo\n   - Agência Brasil\n   - Valor Econômico\n\n2. **Acessar comunicados oficiais** do:\n   - Banco Central do Brasil\n   - BRB\n   - Banco Master (se aind",
+  "error": null
+}

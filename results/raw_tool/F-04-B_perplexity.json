@@ -1,0 +1,15 @@
+{
+  "question_id": "F-04-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Desmatamento da Amazônia no Século 21\n\nCom base nos dados disponíveis, a resposta depende de como se analisa a questão:\n\n## Em Números Absolutos (Total Desmatado)\n\n**Lula (primeiro mandato, 2003-2006)** teve o maior desmatamento em termos de área total:\n- Três primeiros anos: **71 mil km²** desmatados\n- Comparado aos três primeiros anos de Bolsonaro: 33 mil km²\n\n## Em Termos de Tendência e Taxa\n\n**Bolsonaro (2019-2022)** teve o pior desempenho em relação à tendência:\n- **Aumento de 59,5%** na ",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

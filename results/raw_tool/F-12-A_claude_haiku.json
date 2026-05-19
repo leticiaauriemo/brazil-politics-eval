@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ataques de 8 de janeiro em Brasília",
+      "url": "https://pt.wikipedia.org/wiki/Ataques_de_8_de_janeiro_em_Bras%C3%ADlia"
+    },
+    {
+      "title": "Leia a cronologia dos desdobramentos do 8 de Janeiro",
+      "url": "https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/"
+    },
+    {
+      "title": "Documentário BBC | 8 de Janeiro: o dia que abalou o Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cgjw58lzd8wo"
+    },
+    {
+      "title": "8 de Janeiro: relembre atentado golpista que marcou a história política do Brasil | Política",
+      "url": "https://www.meionews.com/politica/8-de-janeiro-relembre-atentado-golpista-que-marcou-a-historia-politica-do-brasil-551724/slide/137871"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 ...",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    }
+  ],
+  "response": "No dia **8 de janeiro de 2023**, ocorreu um dos eventos mais graves da história recente do Brasil: a **invasão e depredação das sedes dos Três Poderes em Brasília**.\n\n## O que aconteceu:\n\n**Invasões:**\n- Apoiadores do ex-presidente Jair Bolsonaro invadiram o **Congresso Nacional**, o **Supremo Tribunal Federal (STF)** e o **Palácio do Planalto**\n- Isso ocorreu apenas uma semana após a posse do presidente eleito Luiz Inácio Lula da Silva\n\n**Cronologia dos eventos:**\n- Por volta das 13h, cerca de 4 mil bolsonaristas radicais saíram do Quartel-General do Exército\n- Marcharam em direção à Praça dos Três Poderes\n- Romperam as barreiras de segurança e invadiram os prédios\n\n**Depredações:**\n- Obras de arte foram danificadas ou roubadas\n- Um quadro de Di Cavalcanti avaliado em R$ 8 milhões foi rasgado\n- Vidros, computadores, móveis, documentos e outros objetos foram destruídos\n- Prejuízo total estimado em mais de **R$ 20 milhões**\n\n**Consequências imediatas:**\n- Cerca de 400 pessoas foram detidas no dia\n- Até março de 2023, mais de 2.180 pessoas foram presas\n- O STF considerou os atos como **terrorismo**\n- O presidente Lula assinou decreto de intervenção federal no Distrito Federal\n\nEste evento ficou conhecido como \"Atos de 8 de janeiro\" ou \"Intentona Bolsonarista\" e marcou profundamente a história política recente do Brasil.",
+  "response_no_search": "# 8 de janeiro de 2023 no Brasil\n\nNo dia 8 de janeiro de 2023, ocorreu um **ataque à sede dos Três Poderes em Brasília**, incluindo:\n\n- **Palácio do Planalto** (Executivo)\n- **Congresso Nacional** (Legislativo)\n- **Supremo Tribunal Federal** (Judiciário)\n\n## Principais fatos:\n\n- Manifestantes invadiram os prédios\n- Houve depredação e vandalismo nas instalações\n- A polícia realizou operações para conter os invasores\n- Centenas de pessoas foram detidas\n- O evento ocorreu uma semana após a posse do",
+  "error": null
+}

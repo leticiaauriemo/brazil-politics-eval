@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Após dissolver Lava Jato, Aras diz que força-tarefa só mudou de nome - 03/02/2021 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2021/02/apos-dissolver-lava-jato-aras-diz-que-forca-tarefa-so-mudou-de-nome.shtml"
+    },
+    {
+      "title": "Fim da Lava Jato: o caminho que levou ao encerramento da força-tarefa",
+      "url": "https://www.gazetadopovo.com.br/republica/lava-jato-fim-forca-tarefa/"
+    },
+    {
+      "title": "MPF anuncia fim da for�a-tarefa da Opera��o Lava-Jato em Curitiba - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2021/02/03/interna_politica,1234786/mpf-anuncia-fim-da-forca-tarefa-da-operacao-lava-jato-em-curitiba.shtml"
+    },
+    {
+      "title": "O fim da força-tarefa da Lava Jato é uma derrota para o Brasil",
+      "url": "http://www.gazetadopovo.com.br/opiniao/editoriais/fim-forca-tarefa-lava-jato/"
+    },
+    {
+      "title": "O fim melancólico da força-tarefa da Lava Jato no Paraná",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/o-fim-melancolico-da-forca-tarefa-da-lava-jato-no-parana,79578ca1566517120e5edaa69e1515b2lccl1om3.html"
+    }
+  ],
+  "response": "O procurador-geral da República, Augusto Aras, ordenou o encerramento da força-tarefa da Lava Jato em 2021.",
+  "response_no_search": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF).",
+  "error": null
+}

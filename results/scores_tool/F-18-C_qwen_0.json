@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that Operation Compliance Zero resulted in Daniel Vorcaro's arrest, including both instances and the specific dates, and mentions the associated crimes, aligning with the ground truth and resolution criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the arrest of Daniel Vorcaro but lacks details about the influencer scheme and misstates the timing of the operation phases."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

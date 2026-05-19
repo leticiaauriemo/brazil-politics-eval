@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ataques de 8 de janeiro: as perguntas ainda sem respostas um ano depois - Data saving version: BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c06y1vekdgeo.lite"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 ...",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Leia a cronologia dos desdobramentos do 8 de Janeiro",
+      "url": "https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/"
+    },
+    {
+      "title": "Documentário BBC | 8 de Janeiro: o dia que abalou o Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cgjw58lzd8wo"
+    },
+    {
+      "title": "Três anos do 8 de janeiro: relembre a tentativa de golpe e saiba quem já foi condenado",
+      "url": "https://ndmais.com.br/politica/8-de-janeiro-relembre-a-tentativa-de-golpe/"
+    }
+  ],
+  "response": "No dia 8 de janeiro de 2023, o Brasil foi palco de um dos mais graves ataques à sua democracia. Apoiadores radicais do ex-presidente Jair Bolsonaro, insatisfeitos com o resultado da eleição presidencial de 2022, invadiram e depredaram as sedes dos Três Poderes em Brasília: o Congresso Nacional, o Palácio do Planalto e o Supremo Tribunal Federal (STF).\n\nOs manifestantes, que estavam acampados em frente ao Quartel-General do Exército, marcharam até a Praça dos Três Poderes, romperam as barreiras de segurança e vandalizaram os prédios públicos. Obras de arte de valor inestimável, móveis, equipamentos eletrônicos e documentos foram destruídos. O prejuízo estimado ultrapassou os R$ 20 milhões.\n\nA resposta das autoridades foi imediata. O presidente Luiz Inácio Lula da Silva, que havia tomado posse uma semana antes, decretou intervenção federal na segurança pública do Distrito Federal. Nos dias seguintes, cerca de 1.400 pessoas foram presas.\n\nForam abertas investigações para apurar a responsabilidade dos executores, financiadores e incitadores dos atos, culminando na \"Operação Lesa Pátria\". O STF, sob a relatoria do ministro Alexandre de Moraes, tornou-se o centro dos julgamentos. Um ano após o ocorrido, dezenas de pessoas já foram condenadas a penas que chegam a 17 anos de prisão por crimes como tentativa de golpe de Estado",
+  "response_no_search": "No dia **8 de janeiro de 2023**, o Brasil foi palco de um dos mais graves ataques à sua democracia desde a redemocratização. Milhares de apoiadores radica",
+  "error": null
+}

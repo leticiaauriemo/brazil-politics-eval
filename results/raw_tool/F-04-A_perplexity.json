@@ -1,0 +1,15 @@
+{
+  "question_id": "F-04-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**O desmatamento da Amazônia aumentou durante o governo Bolsonaro (2019–2022).**\n\n### Evidências dos dados oficiais (Prodes/INPE e Imazon)\n- **Taxas anuais de desmatamento (km²)**:\n  | Ano | Desmatamento (km²) | Variação em relação ao ano anterior |\n  |-----|---------------------|-------------------------------------|\n  | 2018 (pré-Bolsonaro) | ~7.500 | - |\n  | 2019 | 10.100–10.851 | +34–45% |\n  | 2020 | 10.800–10.851 | +~7–20% |\n  | 2021 | 13.000–13.235 | +20% |\n  | 2022 | 10.573 | -20% (mas 5º",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

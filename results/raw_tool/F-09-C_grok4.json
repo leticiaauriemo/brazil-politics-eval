@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/13/representante-da-pfizer-confirma-governo-nao-respondeu-ofertas-feitas-em-agosto-de-2020"
+    },
+    {
+      "title": "2",
+      "url": "https://www.bbc.com/portuguese/brasil-57104347"
+    },
+    {
+      "title": "3",
+      "url": "https://g1.globo.com/politica/noticia/2021/05/13/governo-federal-nao-aceitou-propostas-que-previam-15-milhao-de-doses-de-vacina-ainda-em-2020-diz-pfizer.ghtml"
+    },
+    {
+      "title": "4",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-12/covid-19-brasil-assina-memorando-com-pfizer-afirma-ministerio"
+    },
+    {
+      "title": "5",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2021/03/pfizer-confirma-que-governo-rejeitou-oferta-de-70-milhoes-de-doses-de-vacinas.shtml"
+    }
+  ],
+  "response": "**Não, o governo federal brasileiro não aceitou as ofertas da Pfizer em 2020.**[[1]](https://www12.senado.leg.br/noticias/materias/2021/05/13/representante-da-pfizer-confirma-governo-nao-respondeu-ofertas-feitas-em-agosto-de-2020)\n\nA Pfizer fez múltiplas propostas oficiais ao Ministério da Saúde em agosto de 2020 (especificamente em 14, 18 e 26 de agosto), oferecendo 30 ou 70 milhões de doses da vacina contra a Covid-19, com possibilidade de entrega de até 1,5 milhão de doses ainda em dezembro de 2020 (ou 500 mil na primeira proposta). Essas ofertas eram vinculantes e tinham validade de 15 dias.[[2]](https://www.bbc.com/portuguese/brasil-57104347)\n\nDe acordo com o depoimento de Carlos Murillo (então presidente da Pfizer no Brasil e gerente-geral para a América Latina) na CPI da Covid, em maio de 2021:\n\n- O governo não respondeu, não aceitou nem rejeitou formalmente as propostas dentro do prazo.\n- Elas expiraram sem qualquer manifestação do Ministério da Saúde.\n- Houve também uma carta enviada pelo CEO da Pfizer, Albert Bourla, ao presidente Jair Bolsonaro em setembro de 2020 (com cópia para autoridades do Executivo), que inicialmente ficou sem resposta.[[3]](https://g1.globo.com/politica/noticia/2021/05/13/governo-federal-nao-aceitou-propostas-que-previam-15-milhao-de-doses-de-vacina-ainda-em-2020-diz-pfizer.ghtml)\n\nContatos iniciais entre a empresa e o governo ocorreram a partir de maio/junho de 2020, mas as propostas formais de agosto foram ignoradas. O primeiro contrato efetivo de compra (100 milhões de doses) só foi assinado em março de 2021, após várias outras tentativas da Pfizer em novembro de 2020 e fevereiro de 2021. Em dezembro de 2020, houve apenas a assinatura de um memorando de entendimento, sem avanço imediato para fornecimento.[[4]](https://agenciabrasil.ebc.com.br/saude/noticia/2020-12/covid-19-brasil-assina-memorando-com-pfizer-afirma-ministerio)\n\nO governo alegou posteriormente que as cláusulas contratuais da Pfizer (como isenção de responsabilidade por efeitos colaterais) eram “abusivas” ou “leoninas”, mas, segundo a empresa, essas condições eram padrão e aplicadas a outros países. O Brasil acabou recebendo as primeiras doses da Pfizer apenas em abril de 2021.[[5]](https://www1.folha.uol.com.br/equilibrioesaude/2021/03/pfizer-confirma-que-governo-rejeitou-oferta-de-70-milhoes-de-doses-de-vacinas.shtml)\n\nEssas informações são amplamente documentadas em reportagens da época, depoimentos na CPI da Covid e comunicados oficiais da Pfizer.",
+  "response_no_search": "Sim, a Pfizer ofereceu vacinas contra a COVID-19 ao Brasil em 2020, mas o governo federal brasileiro, sob a presidência de Jair Bolsonaro, não aceitou a oferta na época. Vou explicar brevemente os fatos principais com base em informações públicas e reportagens da época:\n\n### Contexto:\n- Em agosto de 2020, a Pfizer enviou uma proposta ao Ministério da Saúde brasileiro para fornecer até 70 milhões de doses da vacina Comirnaty (desenvolvida em parceria com a BioNTech), com entregas a partir de deze",
+  "error": null
+}

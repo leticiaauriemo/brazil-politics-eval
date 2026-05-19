@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da Comissão de Segurança Pública do Senado",
+      "url": "https://www.correiobraziliense.com.br/politica/2025/02/7065041-flavio-bolsonaro-e-eleito-presidente-da-comissao-de-seguranca-publica-do-senado.html"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da CSP - Senado Federal",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/02/19/flavio-bolsonaro-e-eleito-presidente-da-csp"
+    },
+    {
+      "title": "De início aos 21 anos ao Senado: a trajetória política de Flávio Bolsonaro | Exame",
+      "url": "https://exame.com/brasil/de-inicio-aos-21-anos-ao-senado-a-trajetoria-politica-de-flavio-bolsonaro-ate-o-anuncio-de-2026/"
+    }
+  ],
+  "response": "Flávio Bolsonaro atualmente ocupa o cargo de **senador da República pelo Rio de Janeiro**, filiado ao partido PL (Liberal Party), com mandato previsto até 2027. Além disso, desde fevereiro de 2025, é o **presidente da Comissão de Segurança Pública (CSP)** do Senado Federal, onde prioriza pautas relacionadas ao endurecimento da legislação penal e à segurança pública.\n\nFontes:  \n- [Senado Federal - Perfil de Flávio Bolsonaro](https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894)  \n- [Correio Braziliense - Eleição à presidência da CSP](https://www.correiobraziliense.com.br/politica/2025/02/7065041-flavio-bolsonaro-e-eleito-presidente-da-comissao-de-seguranca-publica-do-senado.html)  \n- [Senado Notícias - CSP](https://www12.senado.leg.br/noticias/materias/2025/02/19/flavio-bolsonaro-e-eleito-presidente-da-csp)",
+  "response_no_search": "Flávio Bolsonaro é atualmente senador federal pelo Rio de Janeiro, ocupando uma das catorze vagas do estado no Senado Federal do Brasil. Ele foi eleito em 2018 com o apoio do Partido Social Cristão (PSC) e assumiu o cargo em fevereiro de 2019, com mandato previsto até 2026. Seu pai, Jair Bolsonaro, foi presidente do Brasil de 2019 a 2022. \n\nFlávio é conhecido por sua atuação em temas como segurança pública, combate à corrupção e políticas sociais conservadoras. Ele também integra comissões temát",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Dilma Rousseff é cassada pelo Senado",
+      "url": "http://www.dw.com/pt/senado-aprova-afastamento-definitivo-de-dilma/a-19516550"
+    },
+    {
+      "title": "\"Impeachment\": Dilma Rousseff es destituida como presidenta de Brasil - BBC News Mundo",
+      "url": "https://www.bbc.com/mundo/noticias-america-latina-37232414"
+    },
+    {
+      "title": "Impeachment de Dilma Rousseff",
+      "url": "https://pt.wikipedia.org/wiki/Impeachment_de_Dilma_Rousseff"
+    },
+    {
+      "title": "Dilma Rousseff sofre impeachment e deixa o governo | Brasil | O Dia",
+      "url": "https://odia.ig.com.br/brasil/2016-08-31/dilma-rousseff-sofre-impeachment-e-deixa-o-governo.html"
+    },
+    {
+      "title": "Brazil President Dilma Rousseff removed from office by Senate - BBC",
+      "url": "https://www.bbc.com/news/world-latin-america-37237513"
+    }
+  ],
+  "response": "Dilma Rousseff foi removida do cargo de presidente do Brasil por crime de responsabilidade fiscal, após um processo de impeachment que culminou com uma votação no Senado em 31 de agosto de 2016. Ela foi acusada de ter cometido crimes de responsabilidade correspondentes à tomada de empréstimos junto à instituição financeira controlada pela União e à abertura de créditos sem autorização do Congresso Nacional. A votação no Senado resultou em 61 votos a favor da sua remoção e 20 contra, o que significou a perda do seu cargo. No entanto, em uma segunda votação, os senadores decidiram que Dilma não ficaria proibida de exercer funções públicas por oito anos, com 42 votos a favor, 36 contra e três abstenções.",
+  "response_no_search": "Dilma Rousseff foi removida por \"pedaladas fiscais\". As pedaladas fiscais são um tipo de manipulação contábil que envolve o atraso no pagamento de despesas ou o antecipado recebimento de receitas para melhorar artificialmente as contas públicas. No caso de Dilma Rousseff, as pedaladas fiscais referem-se ao atraso no repasse de recursos para bancos públicos, como o Banco do Brasil e a Caixa Econômica Federal, que administravam programas sociais, como o Bolsa Família e o seguro-desemprego. Essa pr",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-22-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Flávio Bolsonaro as Jair Bolsonaro's son, but incorrectly states he was chosen as a political successor and publicly confirmed this, which is not accurate."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a son of Jair Bolsonaro but lacks specificity about him being the eldest and includes misleading information about his political role."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,24 @@
+{
+  "question_id": "F-02-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Moraes declara trânsito em julgado e Bolsonaro pode cumprir pena",
+      "url": "https://www.opovo.com.br/noticias/politica/2025/11/25/moraes-declara-transito-em-julgado-e-bolsonaro-pode-cumprir-pena.html?utm_source=openai"
+    },
+    {
+      "title": "Bolsonaro tem condenação de 27 anos e 3 meses transitada em julgado no STF; saiba o que acontece agora - Gazeta Brasil- Notícias do Brasil e do Mundo",
+      "url": "https://gazetabrasil.com.br/brasil/2025/11/25/bolsonaro-tem-condenacao-de-27-anos-e-3-meses-transitada-em-julgado-no-stf-saiba-o-que-acontece-agora/?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se a condenação de Jair Bolsonaro pelo STF transitou em julgado ou se ainda há recursos pendentes. A resposta é clara:\n\n- Em 25 de novembro de 2025, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), declarou que o processo que condenou o ex-presidente Jair Bolsonaro transitou em julgado. Isso significa que não há mais possibilidade de interposição de recursos — a decisão tornou-se definitiva. ([opovo.com.br](https://www.opovo.com.br/noticias/politica/2025/11/25/moraes-declara-transito-em-julgado-e-bolsonaro-pode-cumprir-pena.html?utm_source=openai))\n\n- A condenação, proferida em 11 de setembro de 2025 pela Primeira Turma do STF, resultou em pena de 27 anos e 3 meses de prisão por crimes como tentativa de golpe de Estado, organização criminosa armada, atentado ao Estado Democrático de Direito, dano qualificado e deterioração de patrimônio tombado. ([gazetabrasil.com.br](https://gazetabrasil.com.br/brasil/2025/11/25/bolsonaro-tem-condenacao-de-27-anos-e-3-meses-transitada-em-julgado-no-stf-saiba-o-que-acontece-agora/?utm_source=openai))\n\n- A defesa não apresentou novos recursos dentro do prazo legal, que se encerrou em 24 de novembro de 2025. Com isso, o trânsito em julgado foi formalizado pela Secretaria Judiciária do STF, abrindo caminho para a execução da pena. ([gazetabrasil.com.br](https://gazetabrasil.com.br/brasil/2025/11/25/bolsonaro-tem-condenacao-de-27-anos-e-3-meses-transitada-em-julgado-no-stf-saiba-o-que-acontece-agora/?utm_source=openai))\n\n- A partir dessa data, o cumprimento da pena passou a ser possível, e o ex-presidente já se encontrava preso preventivamente desde 22 de novembro de 2025, após tentativa de violar a tornozeleira eletrônica. ([gazetabrasil.com.br](https://gazetabrasil.com.br/brasil/2025/11/25/bolsonaro-tem-condenacao-de-27-anos-e-3-meses-transitada-em-julgado-no-stf-saiba-o-que-acontece-agora/?utm_source=openai))\n\nPortanto, **a condenação transitou em julgado em 25 de novembro de 2025**, e **não há mais recursos pendentes**.",
+  "response_no_search": "Até a data do meu conhecimento (junho de 2024), **Jair Bolsonaro não foi condenado pelo Supremo Tribunal Federal (STF)** em nenhum processo criminal que tenha transitado em julgado. O ex-presidente enfrenta investigações e inquéritos no STF, mas **não há condenação definitiva** (transitada em julgado) contra ele nesta Corte.\n\nO que existe de condenação contra Bolsonaro é no âmbito do **Tribunal Superior Eleitoral (TSE)**, que o tornou **inelegível até 2030** por abuso de poder político e uso ind",
+  "error": null
+}

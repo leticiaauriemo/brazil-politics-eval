@@ -1,0 +1,28 @@
+{
+  "question_id": "F-01-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF confirma anulação de condenações do ex-presidente Lula na Lava Jato",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261"
+    },
+    {
+      "title": "Afinal, Lula foi mesmo considerado inocente? | Jusbrasil",
+      "url": "https://www.jusbrasil.com.br/artigos/afinal-lula-foi-mesmo-considerado-inocente/2190748855"
+    },
+    {
+      "title": "A mentira do “Lula inocentado”",
+      "url": "https://www.gazetadopovo.com.br/opiniao/editoriais/lula-inocentado-mentira/"
+    }
+  ],
+  "response": "# Lula foi inocentado pela Lava Jato? A resposta é juridicamente complexa\n\nA resposta curta é: **não, Lula não foi formalmente \"inocentado\" no sentido de absolvição pelo mérito na maior parte dos casos**. O que ocorreu foi principalmente a **anulação dos processos por questões processuais**, não uma declaração de inocência quanto aos fatos. Vamos detalhar:\n\n## O que de fato aconteceu nos processos\n\nO Plenário do Supremo Tribunal Federal (STF) confirmou a decisão do ministro Edson Fachin que, ao declarar a incompetência da 13ª Vara da Justiça Federal de Curitiba (PR), anulou as ações penais contra o ex-presidente Luiz Inácio Lula da Silva por não se enquadrarem no contexto da operação Lava Jato. Por 8 votos a 3, o colegiado rejeitou recurso da Procuradoria-Geral da República.\n\nSegundo Fachin, relator, as denúncias formuladas pelo Ministério Público Federal contra Lula nas ações penais relativas aos casos do triplex do Guarujá, do sítio de Atibaia e do Instituto Lula não tinham correlação com os desvios de recursos da Petrobras e, portanto, com a Operação Lava Jato. Assim, entendeu que deveriam ser julgadas pela Justiça Federal do Distrito Federal.\n\nAlém disso, foi reconhecida a **suspeição do juiz Sergio Moro**. Os Ministros não analisaram a questão de mérito, limitando-se a anular os processos por vício processual em razão da suspeição de Moro, reconhecida por apenas três Ministros da 2ª Turma, que decidiu que Moro não era competente para decidir acerca de processos envolvendo Lula no âmbito da Operação Lava-jato (triplex do Guarujá, sítio de Atibaia e dois outros atinentes ao Instituto Lula).\n\n## Anulação ≠ Inocência\n\nEsse é o ponto-chave da controvérsia jurídica:\n\nProcessualmente falando, Lula não pode ser considerado culpado por não haver sentença penal condenatória transitada em julgado. Por outro lado, em nenhum momento ele foi inocentado porque a Excelsa Corte não chegou a analisar fatos, só matéria de direito.\n\nTrata-se apenas de nulidades e prescrições, com nenhum juiz, turma de segunda instância ou tribunal superior afirmando que o petista era inocente.\n\n## A única absolvição efetiva\n\nHá um caso em que houve absolvição pelo mérito: ",
+  "response_no_search": "Essa é uma questão que envolve distinções jurídicas importantes. Vou tentar ser preciso:\n\n**O que aconteceu:**\n\n1. **Anulação das condenações (2021)**: O STF anulou as condenações de Lula nos casos da Lava Jato em Curitiba, decidindo que a Justiça Federal do Paraná não tinha competência para julgá-lo (incompetência territorial). Os processos foram remetidos à Justiça Federal do DF.\n\n2. **Suspeição de Sergio Moro**: O STF também declarou que o ex-juiz Sergio Moro foi parcial ao julgar Lula, o que",
+  "error": null
+}

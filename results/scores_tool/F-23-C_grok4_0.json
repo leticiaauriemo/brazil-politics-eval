@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula can run in 2026, explains the constitutional logic regarding consecutive terms, and mentions the consolidated interpretation by the electoral jurisprudence, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Brazilian Constitution allows Lula to run in 2026, explains the constitutional logic regarding consecutive terms, and aligns with the position of the TSE."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

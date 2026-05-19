@@ -1,0 +1,24 @@
+{
+  "question_id": "F-02-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "prompt": "A condenação de Bolsonaro pelo STF transitou em julgado ou ainda há recursos pendentes?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-novo-recurso-da-defesa-do-ex-presidente-jair-bolsonaro-para-rever-condenacao/"
+    },
+    {
+      "title": "2",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/stf-determina-execucao-das-penas-de-bolsonaro-e-mais-reus-do-nucleo-1"
+    }
+  ],
+  "response": "**A condenação de Jair Bolsonaro pelo STF (na Ação Penal 2668, sobre a trama golpista) transitou em julgado.** Não há recursos pendentes.[[1]](https://noticias.stf.jus.br/postsnoticias/stf-rejeita-novo-recurso-da-defesa-do-ex-presidente-jair-bolsonaro-para-rever-condenacao/)\n\nEm 25 de novembro de 2025, o ministro Alexandre de Moraes, relator do caso, declarou o **trânsito em julgado** da condenação (pena de 27 anos e 3 meses de reclusão), após o esgotamento dos prazos para recursos como embargos de declaração. A Primeira Turma do STF confirmou essa decisão por unanimidade no mesmo dia.[[2]](https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/stf-determina-execucao-das-penas-de-bolsonaro-e-mais-reus-do-nucleo-1)\n\nEm 13 de janeiro de 2026, o STF rejeitou um novo recurso (agravo regimental) apresentado pela defesa de Bolsonaro, reafirmando que a condenação é definitiva e que não cabem mais recursos. O ministro Moraes considerou o recurso “absolutamente incabível juridicamente” após o trânsito em julgado.[[1]](https://noticias.stf.jus.br/postsnoticias/stf-rejeita-novo-recurso-da-defesa-do-ex-presidente-jair-bolsonaro-para-rever-condenacao/)\n\nEssa é a situação atual (maio de 2026), com base em decisões oficiais do STF e reportagens de veículos como Agência Brasil, BBC, Conjur e G1. Outros processos contra Bolsonaro (como os de fake news ou COVID) seguem tramitação própria, mas a condenação mais recente e de maior pena já é definitiva.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

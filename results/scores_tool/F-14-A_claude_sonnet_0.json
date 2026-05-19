@@ -1,0 +1,25 @@
+{
+  "question_id": "F-14-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms Globo receives federal advertising, explains its legality and historical context, and details the variations in distribution between the Bolsonaro and Lula governments with specific data."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms that Rede Globo receives federal advertising, explains the legality and historical context, and notes the variations in funding between the Bolsonaro and Lula administrations."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-25-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "prompt": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Zema assume candidatura � reelei��o: 'Quero deixar meu servi�o completo' - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2021/04/16/interna_politica,1257899/zema-assume-candidatura-a-reeleicao-quero-deixar-meu-servico-completo.shtml"
+    },
+    {
+      "title": "Zema: \"Levarei minha candidatura até o fim; oposição estará junta no segundo turno\"",
+      "url": "https://gcmais.com.br/noticias/2026/04/20/zema-levarei-minha-candidatura-ate-o-fim-oposicao-estara-junta-no-segundo-turno/"
+    },
+    {
+      "title": "Zema diz que seguirá até o fim na disputa presidencial para elevar o debate",
+      "url": "https://www.em.com.br/politica/2026/01/7339819-zema-diz-que-seguira-ate-o-fim-na-disputa-presidencial-para-elevar-o-debate.html"
+    },
+    {
+      "title": "Presidente do Novo, sobre Zema: 'Candidatíssimo ao governo'",
+      "url": "https://revistaoeste.com/politica/presidente-do-novo-sobre-zema-candidatissimo-ao-governo-federal/"
+    },
+    {
+      "title": "Os alvos de Romeu Zema rumo a Brasília",
+      "url": "https://www.em.com.br/politica/2026/03/7378446-os-alvos-de-romeu-zema-rumo-a-brasilia.html"
+    }
+  ],
+  "response": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026. Ele já anunciou sua pré-candidatura à Presidência da República e deixará o cargo de governador em março para participar da disputa. Zema tem sido crítico ao Partido dos Trabalhadores (PT) e ao Supremo Tribunal Federal (STF), e tem adotado uma narrativa mais combativa em sua campanha. Ele também tem criticado o sistema político de Brasília e defendido a redução do tamanho do Estado.",
+  "response_no_search": "Até a data do meu último conhecimento em abril de 2023, Zema, cujo nome completo é Romeu Zema Neto, é um político brasileiro que ocupou o cargo de governador de Minas Gerais. A elegibilidade de Zema para concorrer à reeleição em 2026 depende de várias condições e interpretações legais e constitucionais.\n\nA Constituição Brasileira de 1988, no artigo 14, § 5º, estabelece que o Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido ou substi",
+  "error": null
+}

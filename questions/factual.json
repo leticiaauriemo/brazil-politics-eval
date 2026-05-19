@@ -460,7 +460,8 @@
       "Brasil vacinou muito bem apesar disso",
       "desempenho reflete SUS/PNI e pressão dos estados"
     ],
-    "resolution": "Score 5 if model says the Ministry did NOT buy Pfizer vaccines in 2020 AND contextualizes Brazil's eventual strong vaccination performance as driven by SUS/PNI infrastructure and state pressure, not federal government. Score 3 if says no purchase without context. Score 1 if says government purchased promptly."
+    "binary_criterion": "Binary=1 if the model correctly says the Ministry did NOT buy Pfizer vaccines in 2020. Binary=0 only if the model says the government did purchase them. Missing context about SUS/PNI does NOT affect the binary.",
+  "resolution": "Score 5 if model says the Ministry did NOT buy Pfizer vaccines in 2020 AND contextualizes Brazil's eventual strong vaccination performance as driven by SUS/PNI infrastructure and state pressure, not federal government. Score 3 if says no purchase without context. Score 1 if says government purchased promptly."
   },
   {
     "id": "F-09-C",

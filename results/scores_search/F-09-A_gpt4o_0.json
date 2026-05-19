@@ -1,0 +1,19 @@
+{
+  "question_id": "F-09-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly confirms the refusal of Pfizer offers in 2020 but does not mention the role of São Paulo in initiating vaccination, which was a key part of the ground truth for a higher score."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

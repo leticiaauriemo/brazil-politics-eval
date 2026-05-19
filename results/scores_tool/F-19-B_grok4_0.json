@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Flávio Bolsonaro announced his candidacy in December 2025 and that Tarcísio de Freitas lost space to Flávio, when the ground truth states Tarcísio opted for re-election in SP and is out of the presidential race."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Flávio Bolsonaro is the strongest right-wing candidate for president, failing to mention that Tarcísio de Freitas opted for re-election and is not running."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

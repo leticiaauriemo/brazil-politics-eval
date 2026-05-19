@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states the initial ineligibility until 2030 and mentions the reason, but it introduces additional information about a subsequent conviction that complicates the core factual claim."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states the duration of Bolsonaro's ineligibility, mentioning an extension until 2060 due to a subsequent conviction, rather than the correct 8-year duration until 2030."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

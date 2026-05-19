@@ -1,0 +1,35 @@
+{
+  "question_id": "F-19-B",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "prompt": "Quem é o candidato mais forte da direita brasileira para as eleições presidenciais de 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Flávio x Tarcísio: quem é o candidato à Presidência da direita em 2026",
+      "url": "https://mais.opovo.com.br/colunistas/esplanada/2026/02/02/flavio-x-tarcisio-quem-e-o-candidato-a-presidencia-da-direita-em-2026.html"
+    },
+    {
+      "title": "Tarcísio seria o melhor nome da direita à Presidência, diz presidente do Republicanos – Noticias R7",
+      "url": "https://noticias.r7.com/eleicoes/2026/tarcisio-seria-o-melhor-nome-da-direita-a-presidencia-diz-presidente-do-republicanos-14042026/"
+    },
+    {
+      "title": "Pesquisa aponta Flávio Bolsonaro como principal nome da direita para a Presidência em 2026 - GP1",
+      "url": "https://www.gp1.com.br/eleicoes-2026/noticia/2026/2/10/pesquisa-aponta-flavio-bolsonaro-como-principal-nome-da-direita-para-a-presidencia-em-2026-615312.html"
+    },
+    {
+      "title": "Saiba quem são e o que defendem os potenciais candidatos à Presidência em 2026",
+      "url": "https://www.poder360.com.br/poder-eleicoes/saiba-o-que-defendem-os-potenciais-candidatos-a-presidencia-em-2026/"
+    },
+    {
+      "title": "Eleição 2026: saiba nome da direita que ganha tração para o pleito",
+      "url": "http://www.gazetadopovo.com.br/republica/as-eleicoes-2026-candidato-preparado-direita/"
+    }
+  ],
+  "response": "A definição do candidato mais forte da direita brasileira para as eleições presidenciais de 2026 ainda é incerta e envolve diversos nomes, com diferentes apoios e cenários.\n\n**Flávio Bolsonaro (PL)** é apontado por uma pesquisa nacional como o principal nome da direita, liderando as intenções de voto entre eleitores de direita e centro-direita, e sendo percebido como o candidato que melhor simboliza esse campo ideológico [gp1.com.br]. Ele foi oficializado como o nome do clã Bolsonaro para a Presidência em dezembro de 2025, após seu pai, Jair Bolsonaro, o ter escolhido [mais.opovo.com.br, poder360.com.br].\n\n**Tarcísio de Freitas (Republicanos)**, atual governador de São Paulo, é visto por muitos como um nome forte e preferido pelo mercado, além de ser elogiado pelo presidente do Republicanos, Marcos Pereira, como o melhor nome da direita para a Presidência. Pereira acredita que Tarcísio estaria à frente de Lula nas pesquisas devido à sua credibilidade, equilíbrio e capacidade de diálogo [noticias.r7.com]. No entanto, Tarcísio tem reiterado seu desejo de buscar a reeleição em São Paulo, e o prazo de desincompatibilização para a disputa presidencial já teria terminado, inviabilizando sua candidatura ao Planalto em 2026 [noticias.r7.com, poder360.com.br]. Apesar disso, setores da direita e aliados do Centrão ainda apostam na possibilidade de ele se lançar à Presidência [poder360.com.br]. Instituições como a Febraban, CNA e CNI, que representam bancos, agronegócio e indústria, também almejam lançar um nome que lhes atenda, e Tarcísio é o preferido por elas [mais.opovo.com.br].\n\nOutros nomes que surgem na discussão incluem:\n\n*   **Michelle Bolsonaro**: A ex-primeira-dama é considerada um nome viável, com capacidade de diminuir a rejeição associada ao sobrenome \"Bolsonaro\" e um forte apelo entre evangélicos [gazetadopovo.com.br].\n*   **Governadores de direita**:\n    *   **Romeu Zema (Novo)**, governador de Minas Gerais, e **Ronaldo Caiado (União Brasil)**, governador de Goiás, já lançaram suas pré-candidaturas. Ambos estão em seu segundo mandato e não podem buscar a reeleição em seus estados. Eles se destacam pelo discurso anti-Lula e anti-PT, com foco na segurança pública [poder360.com.br].\n    *   **Ratinho Junior (PSD)**, governador do Paraná, e **Eduardo Leite (PSD)**, governador do Rio Grande do Sul, também se colocaram à disposição para disputar o Planalto. O presidente do PSD, Gilberto Kassab, busca lançar um nome próprio, mas apoiaria Tarcísio caso ele se candidate [poder360.com.br].\n\nEm resumo, embora Flávio Bolsonaro tenha sido apontado por uma pesquisa como o principal nome da direita e tenha o apoio do ex-presidente, Tarcísio de Freitas é amplamente visto como um candidato ideal por diversos setores, apesar de suas declarações de focar na reeleição em São Paulo. A inelegibilidade de Jair Bolsonaro também abre espaço para outros nomes no campo da direita [gazetadopovo.com.br]. A situação ainda é fluida e a decisão final de Tarcísio de Freitas, esperada para março, pode impactar significativamente o cenário [poder360.com.br].",
+  "response_no_search": "Ainda é cedo para apontar com certeza o candidato mais forte da direita brasileira para as eleições presidenciais de 2026, pois o cenário político está em constante mudança e muitos fatores podem influenciar essa definição. No entanto, alguns nomes já se destacam e são frequentemente mencionados como potenciais candidatos:\n\n**Jair Bolsonaro:** Apesar de sua inelegibilidade atual, Bolsonaro continua sendo uma figura central na direita brasileira. Sua base de apoio é sólida e ele ainda exerce gran",
+  "error": null
+}

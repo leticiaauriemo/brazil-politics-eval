@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Ajustes na idade mínima e nas regras de transição para pedir ...",
+      "url": "https://www.gov.br/inss/pt-br/noticias/ajustes-na-idade-minima-e-nas-regras-de-transicao-para-pedir-aposentadoria-ja-estao-em-vigor-confira"
+    },
+    {
+      "title": "Reforma da Previdência: o que mudou na aposentadoria nos últimos anos",
+      "url": "https://www.em.com.br/politica/2026/05/7415516-reforma-da-previdencia-o-que-mudou-na-aposentadoria-nos-ultimos-anos.html"
+    },
+    {
+      "title": "Regras de aposentadoria mudam em 2026; entenda - Portal Gov.br",
+      "url": "https://www.gov.br/inss/pt-br/noticias/noticias/regras-de-transicao-mudam-os-requisitos-para-aposentadoria-em-2026"
+    },
+    {
+      "title": "Artigo 16 - Emenda Constitucional nº 103 / 2019",
+      "url": "https://modeloinicial.com.br/lei/EMC-103-2019/emenda-constitucional-103/art-16,par-1"
+    }
+  ],
+  "response": "A emenda constitucional que estabeleceu a idade mínima para aposentadoria no Brasil foi a Emenda Constitucional nº 103, aprovada em 2019, durante o governo do presidente Jair Bolsonaro.\n\nA reforma estabeleceu a idade mínima de 62 anos para mulheres e 65 anos para homens, com regras de transição para quem já estava no mercado de trabalho.",
+  "response_no_search": "A emenda constitucional que estabeleceu uma idade mínima para a aposentadoria como regra geral no Brasil foi a **Emenda Constitucional nº 103**, aprovada e promulgada",
+  "error": null
+}

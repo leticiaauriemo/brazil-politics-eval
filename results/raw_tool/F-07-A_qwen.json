@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "CdB | Anatel identifica mecanismo que possibilitou acesso à rede",
+      "url": "https://e.correiodobrasil.com.br/a/anatel-identifica-mecanismo-possibilitou-acesso-rede-social-x"
+    },
+    {
+      "title": "Bloqueio do X no Brasil: a manobra que fez rede de Musk voltar a funcionar no país - Data saving version: BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c5y3xy47jxzo.lite"
+    },
+    {
+      "title": "Entrar no X é ilegal? Quem usou pode ser multado? A rede vai voltar de vez? Veja perguntas e respostas",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/09/18/entrar-no-x-e-ilegal-quem-usou-pode-ser-multado-a-rede-vai-voltar-de-vez-veja-perguntas-e-respostas.ghtml"
+    },
+    {
+      "title": "Usuários brasileiros relatam acessar X no País sem VPNs",
+      "url": "https://www.mobiletime.com.br/noticias/18/09/2024/brasileiros-acessam-x/"
+    },
+    {
+      "title": "Treze dias após decisão de Moraes, X é acessado em 'internet de bairro'",
+      "url": "https://www.em.com.br/politica/2024/09/6941123-treze-dias-apos-decisao-de-moraes-x-e-acessado-em-internet-de-bairro.html"
+    }
+  ],
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024. A decisão foi proferida pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), em 30 de agosto, após a plataforma descumprir ordens judiciais, como não indicar um representante legal no país e fechar seu escritório brasileiro. A suspensão foi confirmada pela Primeira Turma do STF no início de setembro, com multas diárias de R$ 50 mil para quem burlar o bloqueio.\n\nNo entanto, após a suspensão, usuários relataram acesso à plataforma em algumas regiões, especialmente por meio de provedores regionais (\"internet de bairro\") ou redes terceirizadas como a Cloudflare, que hospedaram o conteúdo do X em novos endereços IP não bloqueados inicialmente. A Anatel identificou a manobra e determinou que operadoras bloqueiem esses novos endereços, enquanto investiga empresas que possibilitem o acesso à plataforma. Apesar das tentativas de contorno, a decisão judicial mantém-se válida, e o uso do X no Brasil permanece proibido até que a plataforma cumpra as exigências legais.",
+  "response_no_search": "Em 2024, o acesso ao X (antigo Twitter) **não foi bloqueado novamente no Brasil**, mas é importante contextualizar o histórico recente:\n\n- **Em agosto de 2023**, o Brasil bloqueou temporariamente o acesso ao X após uma decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). A medida foi tomada porque a plataforma, sob a gestão de Elon Musk, se recusou a cumprir exigências legais, como nomear um representante legal no país e remover contas vinculadas a atividades ilegais (como",
+  "error": null
+}

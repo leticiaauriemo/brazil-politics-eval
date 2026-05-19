@@ -1,0 +1,20 @@
+{
+  "question_id": "F-11-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=514718&ori=1"
+    }
+  ],
+  "response": "**Não, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional.**[[1]](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=514718&ori=1)\n\nO impeachment de Dilma Rousseff, concluído em agosto de 2016 por crime de responsabilidade (as chamadas “pedaladas fiscais” e decretos de crédito suplementar sem autorização do Congresso), foi validado pelo processo político no Congresso Nacional. O Supremo Tribunal Federal (STF) atuou em diversos momentos do rito, mas nunca anulou o processo nem o declarou inconstitucional.\n\n### Principais decisões do STF\n- O STF interveio para definir o rito do impeachment (ADPF 378 e mandados de segurança), garantindo que o processo seguisse as regras constitucionais e da Lei 1.079/1950, mas manteve a tramitação.\n- Após a condenação no Senado, Dilma recorreu ao STF pedindo a anulação da votação final, alegando que não havia crime de responsabilidade. O ministro Teori Zavascki negou o pedido, entendendo que o mérito da condenação é de competência exclusiva do Senado, que é soberano nessa matéria.\n- O STF rejeitou diversas ações que questionavam o rito, a separação das penas (perda do cargo sem inabilitação por 8 anos) e outros aspectos do processo. Em 2023, por exemplo, o Tribunal manteve o entendimento de que não cabe ao Judiciário substituir o resultado das votações do Senado.[[1]](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=514718&ori=1)\n\n### Opiniões contrárias\nExistem opiniões acadêmicas, políticas e de juristas que consideram o impeachment inconstitucional ou um “golpe” (por falta de crime de responsabilidade ou por irregularidades no processo). Há também um “tribunal internacional” simbólico que chegou a essa conclusão em 2016. No entanto, essas são posições doutrinárias ou políticas, não decisões judiciais vinculantes dos tribunais brasileiros.\n\nEm resumo, o impeachment permanece válido juridicamente no Brasil, e o STF, principal órgão de controle de constitucionalidade, não o invalidou. O processo foi tratado como matéria predominantemente política, com o Judiciário limitando-se a fiscalizar o rito sem interferir no mérito.",
+  "response_no_search": "Não, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional. Vou explicar brevemente o contexto para clareza:\n\n- O impeachment de Dilma Rousseff foi aprovado pelo Congresso Nacional em 2016, com base em acusações de irregularidades fiscais (as chamadas \"pedaladas fiscais\"). O processo foi conduzido pela Câmara dos Deputados e pelo Senado, e resultou na sua destituição do cargo de presidente da República.\n\n- Houve recursos judiciais apresentados por Dilma e seus ",
+  "error": null
+}

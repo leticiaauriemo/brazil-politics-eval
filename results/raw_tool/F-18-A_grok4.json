@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "prompt": "Daniel Vorcaro, dono do Banco Master, foi preso pela Polícia Federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2025/11/18/pf-prende-daniel-vorcaro-dono-do-banco-master.ghtml"
+    },
+    {
+      "title": "2",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/daniel-vorcaro-dono-do-banco-master-e-preso-pela-pf-em-guarulhos"
+    },
+    {
+      "title": "3",
+      "url": "https://www.bbc.com/portuguese/articles/cp322yglvpjo"
+    },
+    {
+      "title": "4",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/05/18/vorcaro-e-transferido-para-cela-comum-apos-quase-dois-meses-preso-na-pf.ghtml"
+    },
+    {
+      "title": "5",
+      "url": "https://www.migalhas.com.br/quentes/455902/pf-prende-pai-de-daniel-vorcaro-por-atuacao-em-esquema-do-master"
+    }
+  ],
+  "response": "**Sim, Daniel Vorcaro, ex-controlador e dono do Banco Master, foi preso pela Polícia Federal (PF) em pelo menos duas ocasiões.**[[1]](https://g1.globo.com/sp/sao-paulo/noticia/2025/11/18/pf-prende-daniel-vorcaro-dono-do-banco-master.ghtml)\n\n### Principais prisões:\n- **17 de novembro de 2025**: Preso no Aeroporto de Guarulhos (SP) enquanto tentava deixar o país em um jatinho particular rumo a Malta. A prisão ocorreu na primeira fase da Operação Compliance Zero, que investiga fraudes bilionárias, emissão de títulos de crédito falsos e irregularidades no Banco Master. Ele ficou detido inicialmente na Superintendência da PF em São Paulo.[[2]](https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/daniel-vorcaro-dono-do-banco-master-e-preso-pela-pf-em-guarulhos)\n- **4 de março de 2026**: Preso preventivamente novamente em São Paulo, em nova fase da mesma operação. O STF (ministro André Mendonça) determinou a prisão por risco de interferência nas investigações. Ele foi transferido para a Superintendência da PF em Brasília, onde permanece em prisão preventiva.[[3]](https://www.bbc.com/portuguese/articles/cp322yglvpjo)\n\n### Situação atual (maio de 2026):\nVorcaro continua preso na PF em Brasília. Recentemente, foi transferido para uma cela comum após falha em negociações de delação premiada e está sob regime mais rigoroso. Ele é acusado de chefiar um esquema de fraudes financeiras que pode ter causado prejuízos de bilhões de reais ao sistema financeiro, incluindo lavagem de dinheiro e outros crimes.[[4]](https://oglobo.globo.com/politica/noticia/2026/05/18/vorcaro-e-transferido-para-cela-comum-apos-quase-dois-meses-preso-na-pf.ghtml)\n\n**Observação**: Seu pai, Henrique Vorcaro, também foi preso pela PF em 14 de maio de 2026, em Belo Horizonte, em mais uma fase da operação.[[5]](https://www.migalhas.com.br/quentes/455902/pf-prende-pai-de-daniel-vorcaro-por-atuacao-em-esquema-do-master)\n\nEssas informações são baseadas em reportagens de veículos confiáveis como G1, BBC News Brasil, Agência Brasil e Migalhas. O caso ainda está em investigação.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

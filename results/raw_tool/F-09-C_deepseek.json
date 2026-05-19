@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo não aceitou propostas que previam 1,5 milhão de doses ...",
+      "url": "https://g1.globo.com/politica/noticia/2021/05/13/governo-federal-nao-aceitou-propostas-que-previam-15-milhao-de-doses-de-vacina-ainda-em-2020-diz-pfizer.ghtml"
+    },
+    {
+      "title": "Pfizer diz ter oferecido 70 milhões de doses de vacina a governo brasileiro para entrega a partir de dezembro de 2020 | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2021/01/08/pfizer-diz-ter-oferecido-70-milhoes-de-doses-de-vacina-a-governo-brasileiro-para-entrega-em-dezembro-de-2020.ghtml"
+    },
+    {
+      "title": "Pfizer fez oferta com entrega de vacina em 2020 e Brasil não respondeu",
+      "url": "https://www.rtp.pt/noticias/mundo/pfizer-fez-oferta-com-entrega-de-vacina-em-2020-e-brasil-nao-respondeu_n1319844"
+    },
+    {
+      "title": "Pfizer confirma que governo rejeitou oferta de 70 milhões de doses de vacinas - Folha PE",
+      "url": "https://www.folhape.com.br/noticias/pfizer-confirma-que-governo-rejeitou-oferta-de-70-milhoes-de-doses-de/175322/"
+    },
+    {
+      "title": "Após recusar ofertas da Pfizer, governo agora anuncia 14 milhões de doses da empresa até junho | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2021/03/08/bolsonaro-faz-videoconferencia-com-representantes-da-pfizer-para-tratar-de-compra-da-vacina-diz-ministro.ghtml"
+    }
+  ],
+  "response": "De acordo com as informações encontradas, a Pfizer fez várias ofertas de vacinas ao governo brasileiro em 2020, incluindo uma proposta de 70 milhões de doses com entrega prevista a partir de dezembro de 2020. No entanto, o governo federal não respondeu a essas propostas na época. O contrato com a Pfizer só foi firmado em março de 2021, quando o Brasil já enfrentava um grave cenário de pandemia e a vacinação estava em ritmo lento. \n\nPortanto, o governo federal **não aceitou** a oferta da Pfizer em 2020.",
+  "response_no_search": "Em **2020**, a Pfizer ofereceu vacinas contra a COVID-19 ao Brasil, mas o **governo federal, então liderado por Jair Bolsonaro, não aceitou imediatamente a proposta**.  \n\n### Principais pontos sobre o caso:  \n1. **Oferta inicial da Pfizer (2020)**:  \n   - A Pfizer propôs ao Ministério da Saúde, ainda em **agosto de 2020**, um acordo para fornecer até **70 milhões de doses** ainda naquele ano (com entrega prevista para o 1º trimestre de 2021).  \n   - O contrato dependia de aval regulatório da Anv",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-09-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that the Ministry of Health negotiated and signed a memorandum of understanding with Pfizer in December 2020 for vaccine acquisition, which contradicts the ground truth that the Ministry refused offers in 2020."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the Ministry negotiated a purchase in 2020, which implies a purchase was made, contradicting the requirement for a binary score of 1."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

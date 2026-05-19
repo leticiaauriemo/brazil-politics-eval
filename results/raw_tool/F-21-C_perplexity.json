@@ -1,0 +1,15 @@
+{
+  "question_id": "F-21-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "prompt": "Por qual estado Flávio Bolsonaro foi eleito senador?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Flávio Bolsonaro foi eleito senador pelo estado do Rio de Janeiro (RJ).**\n\nEle foi eleito nas eleições de 2018 pelo PSL (atualmente no PL), com 4.380.418 votos (31,36% dos votos válidos), assumindo o mandato em 2019 para o período de 2019-2027. Isso é confirmado consistentemente nas fontes:\n\n- **Resultados eleitorais** ([1], [2], [6]): Com 99,87% das urnas apuradas, eleito como o mais votado no RJ, ao lado de Arolde de Oliveira.\n- **Trajetória política** ([3], [4], [7]): De deputado estadual n",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

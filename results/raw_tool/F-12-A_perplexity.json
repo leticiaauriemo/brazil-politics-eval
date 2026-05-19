@@ -1,0 +1,15 @@
+{
+  "question_id": "F-12-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**No dia 8 de janeiro de 2023, ocorreu uma série de invasões e atos de vandalismo às sedes dos Três Poderes em Brasília, na Praça dos Três Poderes.**\n\n### Contexto e O Que Aconteceu\n- **Motivação**: Apoiadores do ex-presidente Jair Bolsonaro, insatisfeitos com a derrota nas eleições de 2022 e a posse de Luiz Inácio Lula da Silva (em 1º de janeiro), organizaram protestos que escalaram para violência. O objetivo era instigar um golpe militar para derrubar o governo eleito, conforme descrito em fon",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

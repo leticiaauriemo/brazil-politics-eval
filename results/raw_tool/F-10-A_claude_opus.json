@@ -1,0 +1,28 @@
+{
+  "question_id": "F-10-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Pesquisa: Lava Jato acabou por pressão de políticos, acreditam 42% dos brasileiros | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/pesquisa-lava-jato-acabou-por-pressao-de-politicos-acreditam-42-dos-brasileiros/"
+    },
+    {
+      "title": "MPF anuncia fim da força-tarefa da operação Lava Jato no Paraná",
+      "url": "https://www.poder360.com.br/justica/mpf-anuncia-fim-da-forca-tarefa-da-operacao-lava-jato-no-parana/"
+    },
+    {
+      "title": "MPF acaba com a força-tarefa da Lava Jato; investigação continua com estrutura reduzida",
+      "url": "https://www.gazetadopovo.com.br/republica/mpf-acaba-com-a-forca-tarefa-da-lava-jato-investigacao-continua-com-estrutura-reduzida/"
+    }
+  ],
+  "response": "# A força-tarefa da Lava Jato foi encerrada\n\nA força-tarefa da Operação Lava Jato **não está mais ativa** — ela foi oficialmente encerrada há alguns anos.\n\n## Como foi o encerramento\n\nA força-tarefa de procuradores da Lava Jato foi encerrada pelo Ministério Público Federal (MPF) em fevereiro de 2021. O órgão tinha na chefia o então procurador-geral da República Augusto Aras, crítico da operação.\n\nA força-tarefa da operação Lava Jato no Paraná \"deixou de existir\" em 1º de fevereiro de 2021. O anúncio foi feito pelo MPF na manhã de 3 de fevereiro. A força-tarefa foi incorporada ao Gaeco (Grupo de Atuação Especial de Combate ao Crime Organizado) do MPF.\n\nAs outras unidades também foram desativadas:\n- A força-tarefa da Lava Jato em São Paulo terminou em setembro de 2020, após a saída de 11 procuradores que faziam parte do grupo. Pelo menos 7 deles pediram demissão.\n- No Rio de Janeiro, a força-tarefa foi encerrada em abril, quando também foi incorporada ao Gaeco.\n\n## E as investigações continuam?\n\nSim, mas com estrutura muito reduzida. O MPF informou que a investigação, deflagrada em 2014, continua dentro do Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do MPF do Paraná. Mas a estrutura foi reduzida. Apenas alguns dos procuradores que atuavam na operação foram para o Gaeco, que tem uma série de outras atribuições. Na prática, o encerramento da força-tarefa significou que os procuradores que eram da Lava Jato passaram a dividir suas atribuições com outros casos.\n\nO acervo da investigação no Paraná passou para o Gaeco, estrutura em que os procuradores atuam em vários casos, e não mais com dedicação exclusiva a uma apuração, como era com as forças-tarefas.\n\n## Contexto do encerramento\n\nA extinção da força-tarefa foi o golpe final na operação, que vinha sofrendo revezes dentro do próprio MPF desde 2020. A Lava Jato foi alvo de uma série de ataques do procurador-geral da República, Augusto Aras, que nunca escondeu a insatisfação com os métodos utilizados nas forças-tarefa do Ministério",
+  "response_no_search": "A força-tarefa da Operação Lava Jato foi **oficialmente encerrada em 1º de fevereiro de 2021**, em Curitiba, após quase 7 anos de atuação (havia começado em março de 2014).\n\nAlguns pontos importantes sobre o encerramento:\n\n- O Ministério Público Federal anunciou que as investigações em andamento seriam absorvidas pela **Gedec** (Grupo de Atuação Especial de Combate ao Crime Organizado) do MPF no Paraná.\n- As forças-tarefas no **Rio de Janeiro** e no **Distrito Federal** também foram desmobilizad",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-08-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "prompt": "Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Não é possível determinar se Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026, pois o prazo para a declaração de candidatura para as eleições presidenciais de 2026 ainda não ocorreu e depende de várias variáveis, como a data oficial da eleição e a legislação eleitoral vigente na época.\n\nAs eleições presidenciais brasileiras ocorrem a cada quatro anos, e a próxima eleição presidencial está prevista para 2026. A legislação eleitoral brasileira estabelece prazos esp",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

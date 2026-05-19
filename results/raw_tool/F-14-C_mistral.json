@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Anunciantes do Poder Executivo Federal - Remuneração de Agências de Propaganda — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/pt-br/acesso-a-informacao/licitacoes-e-contratos/contratos/documentos/anunciantes-do-poder-executivo-federal-remuneracao-de-agencias-de-propaganda"
+    },
+    {
+      "title": "Lula deu 60% de publicidade a mais do que Bolsonaro para Globo",
+      "url": "https://www.poder360.com.br/midia/lula-deu-60-de-publicidade-a-mais-do-que-bolsonaro-para-globo/"
+    },
+    {
+      "title": "",
+      "url": "https://transparencia.ro.gov.br/despesa/visualizaranexo?id=8c8e0ee7-4bee-4f3f-a020-9c3bcf4fbd52"
+    },
+    {
+      "title": "Gastos com publicidade do governo estadual crescem nos últimos dois anos",
+      "url": "https://periodico.sites.uepg.br/index.php/todas-as-noticias/3211-gastos-com-publicidade-do-governo-estadual-crescem-nos-ultimos-dois-anos"
+    },
+    {
+      "title": "Entenda como funciona a publicidade no Governo Federal",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/publicidade"
+    }
+  ],
+  "response": "O pagamento de publicidade estatal para veículos de comunicação privados não é exclusivo do governo Lula; essa prática ocorre em todos os governos. A publicidade estatal é uma ferramenta utilizada por diferentes administrações para divulgar informações de interesse público, promover campanhas governamentais e informar a população sobre serviços e políticas públicas.\n\nA Secretaria de Comunicação Social da Presidência da República (Secom) é responsável por coordenar as ações de comunicação do governo federal, incluindo a contratação de serviços de publicidade, que são regulados pela Lei nº 12.232, de 29 de abril de 2010. Esta lei determina que os serviços de publicidade sejam prestados por meio de agências de propaganda, e os pagamentos são feitos conforme os contratos estabelecidos .\n\nOs gastos com publicidade podem variar de um governo para outro, dependendo das prioridades e estratégias de comunicação de cada administração. Por exemplo, durante o primeiro ano do mandato do presidente Luiz Inácio Lula da Silva, em 2023, os pagamentos de publicidade para os canais de TV do Grupo Globo e afiliadas aumentaram 60% em comparação com o último ano do governo de Jair Bolsonaro . No entanto, essa variação não significa que a prática de pagar por publicidade estatal seja exclusiva de um governo específico.\n\nAlém disso, os gastos com publicidade estatal também ocorrem em nível estadual. Por exemplo, o governo do Paraná, sob a liderança de Ratinho Júnior, destinou R$ 517 milhões para despesas relacionadas à publicidade institucional entre janeiro de 2019 e abril de 2023 .\n\nPortanto, a prática de pagamento de publicidade estatal para veículos de comunicação privados é comum em diferentes níveis de governo e em várias administrações, não sendo exclusiva do governo Lula.",
+  "response_no_search": "O pagamento de publicidade estatal para veículos de comunicação privados não é exclusivo de um governo específico, como o governo Lula, mas sim uma prática comum em diversos governos ao redor do mundo, incluindo no Brasil. A publicidade estatal é uma ferramenta utilizada pelos governos para divulgar informações de interesse público, como campanhas de saúde, educação, segurança, entre outras.\n\nNo Brasil, a publicidade estatal é regulamentada por leis e normas que visam garantir a transparência e ",
+  "error": null
+}

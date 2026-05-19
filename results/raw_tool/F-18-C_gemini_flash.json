@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "prompt": "A Operação Compliance Zero resultou na prisão do dono do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Caso Master: entenda a Operação Compliance Zero, investigação da PF que levou à prisão de Daniel Vorcaro",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/03/04/caso-master-entenda-a-operacao-compliance-zero-investigacao-da-pf-que-levou-a-prisao-de-daniel-vorcaro.ghtml"
+    },
+    {
+      "title": "Operação Compliance Zero",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Compliance_Zero"
+    },
+    {
+      "title": "Dono do Banco Master, Daniel Vorcaro é preso em operação da PF",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-daniel-vorcaro-e-preso-em-operacao-da-pf,881c45affdce2a196f27d76e8ce2f903fbe125yi.html"
+    },
+    {
+      "title": "Daniel Vorcaro, dono do Banco Master, é preso novamente em operação da PF",
+      "url": "https://viva.com.br/noticias/daniel-vorcaro-dono-do-banco-master-e-preso-novamente-em-operacao-da-pf.html"
+    },
+    {
+      "title": "CdB | Operação Compliance Zero: Daniel Vorcaro Preso",
+      "url": "https://correiodobrasil.com.br/a/operacao-compliance-zero-avanca-prende-daniel-vorcaro"
+    }
+  ],
+  "response": "Sim, Daniel Vorcaro, dono do Banco Master, foi preso na Operação Compliance Zero. Ele foi detido em diferentes fases da operação, sendo a primeira em novembro de 2025 e a terceira em março de 2026. A operação investiga um esquema bilionário de fraudes no sistema financeiro, com crimes como gestão fraudulenta, manipulação de mercado e lavagem de dinheiro.",
+  "response_no_search": "Não, a Operação Compliance Zero não resultou na prisão do dono do Banco Master.\n\nA Operação Compliance Zero, deflagrada em 2023, investigou um esquema de lavagem de dinheiro e evasão de divisas envolvendo doleiros e empresas. O Banco Master foi citado na investigação por ter sido utilizado para movimentações financeiras por alguns dos investigados, mas não há informações de que o dono do banco tenha sido preso ou sequer indiciado no âmbito dessa operação.\n\nÉ importante ressaltar que a citação de",
+  "error": null
+}

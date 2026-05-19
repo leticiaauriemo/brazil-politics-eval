@@ -1,0 +1,15 @@
+{
+  "question_id": "F-23-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "prompt": "Existe algum impedimento legal para Lula concorrer à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Impedimentos Legais para Lula Concorrer em 2026\n\nCom base nos resultados de busca, a situação é **complexa e controversa**:\n\n## Posições Jurídicas Divergentes\n\n**Argumentos de que EXISTE impedimento:**\n- O jurista Ricardo Sayeg (PUC-SP/Insper) sustenta que a Constituição limita o Executivo a uma reeleição consecutiva, impedindo um \"quarto mandato\"\n- Ele interpreta o artigo 14 da Constituição como tendo a intenção de impedir perpetuação no cargo, não apenas mandatos consecutivos imediatos\n- Alg",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

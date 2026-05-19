@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Brazil's vaccination coverage ended up above many developed countries and contextualizes this by mentioning the SUS's logistical capacity and Brazil's vaccination tradition, aligning with the ground truth."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Brazil's vaccination coverage ended up above the average of developed countries and contextualizes this achievement as a result of decades of investment in the SUS and PNI, rather than the Bolsonaro administration's pandemic management."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

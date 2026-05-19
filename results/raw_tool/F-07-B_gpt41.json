@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Moraes determina suspensão da rede social X no Brasil",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2024/08/30/moraes-determina-suspensao-da-rede-social-x-no-brasil.htm?utm_source=openai"
+    },
+    {
+      "title": "Blocking of X in Brazil",
+      "url": "https://en.wikipedia.org/wiki/Blocking_of_X_in_Brazil?utm_source=openai"
+    },
+    {
+      "title": "Bloqueio do X no Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil?utm_source=openai"
+    },
+    {
+      "title": "X says it’s closing operations in Brazil | TechCrunch",
+      "url": "https://techcrunch.com/2024/08/17/x-says-its-closing-operations-in-brazil/?utm_source=openai"
+    },
+    {
+      "title": "X começa a sair do ar no Brasil após decisão de bloqueio de Moraes",
+      "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/08/31/x-twitter-brasil-suspensao-elon-musk-moraes-stf.htm?utm_source=openai"
+    }
+  ],
+  "response": "Entre **30 de agosto e 8 de outubro de 2024**, a rede social **X** (antigo Twitter) ficou suspensa no Brasil por determinação do ministro do Supremo Tribunal Federal (STF), **Alexandre de Moraes**. A seguir, explico os principais motivos e o desenrolar dos acontecimentos:\n\n**1. Falta de representante legal no Brasil e descumprimento de ordens judiciais**  \nO bloqueio foi motivado principalmente pela recusa da empresa em nomear um representante legal no país, conforme exige o **Marco Civil da Internet**. Essa figura é essencial para que a plataforma possa receber intimações judiciais e cumprir decisões da Justiça brasileira. Além disso, o X ignorou ordens para remover conteúdos considerados ilegais, como perfis associados à desinformação e ao extremismo.([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2024/08/30/moraes-determina-suspensao-da-rede-social-x-no-brasil.htm?utm_source=openai))\n\n**2. Decisão judicial de suspensão imediata e integral**  \nEm 30 de agosto de 2024, o ministro Alexandre de Moraes determinou a suspensão “imediata, completa e integral” do funcionamento da X no Brasil. A Agência Nacional de Telecomunicações (Anatel) foi instruída a bloquear o acesso à plataforma em até 24 horas, e as operadoras de internet foram notificadas para cumprir a ordem.([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2024/08/30/moraes-determina-suspensao-da-rede-social-x-no-brasil.htm?utm_source=openai))\n\n**3. Medidas adicionais de pressão**  \nAlém do bloqueio, foram aplicadas multas diárias de R$ 50 mil para usuários ou empresas que tentassem acessar o X por meio de VPNs. Também houve o congelamento de contas bancárias da empresa no Brasil e de ativos da Starlink, outra empresa de Elon Musk.([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2024/08/30/moraes-determina-suspensao-da-rede-social-x-no-brasil.htm?utm_source=openai))\n\n**4. Contexto da investigação e desinformação**  \nA suspensão ocorreu no contexto de uma investigação do STF sobre a disseminação de notícias falsas e a reativação de contas associadas ao ataque ao Congresso em 8 de janeiro de 2023. O X havia restabelecido perfis que haviam sido bloqueados por ordem judicial, o que agravou o conflito com a Justiça brasileira.([en.wikipedia.org](https://en.wikipedia.org/wiki/Blocking_of_X_in_Brazil?utm_source=openai))\n\n**5. Retomada do serviço após cumprimento das exigências**  \nA suspensão foi mantida até que a plataforma cumprisse todas as exigências judiciais: nomear um representante legal no Brasil, pagar multas (no total de R$ 28,6 milhões) e remover os perfis indicados. Após o cumprimento dessas condições, o STF autorizou o desbloqueio em **8 de outubro de 2024**, e a Anatel restabeleceu o acesso à plataforma.([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil?utm_source=openai))\n\n---\n\n**Resumo cronológico:**\n\n- **17 de agosto de 2024**: Elon Musk anuncia o fechamento das operações do X no Brasil, alegando ameaças judiciais.([techcrunch.com](https://techcrunch.com/2024/08/17/x-says-its-closing-operations-in-brazil/?utm_source=openai))  \n- **28 de agosto de 2024**: Moraes dá 24 horas para nomeação de representante legal.([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2024/08/30/moraes-determina-suspensao-da-rede-social-x-no-brasil.htm?utm_source=openai))  \n- **30 de agosto de 2024**: Decisão de suspensão imediata e integral da plataforma.([noticias.uol.com.br](https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2024/08/30/moraes-determina-suspensao-da-rede-social-x-no-brasil.htm?utm_source=openai))  \n- **31 de agosto de 2024**: Início efetivo do bloqueio por operadoras.([noticias.uol.com.br](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/08/31/x-twitter-brasil-suspensao-elon-musk-moraes-stf.htm?utm_source=openai))  \n- **8 de outubro de 2024**: Suspensão é revogada após cumprimento das exigências.([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil?utm_source=openai))\n\n---\n\nSe quiser, posso detalhar mais sobre o processo judicial, os perfis envolvidos ou o impacto da",
+  "response_no_search": "Até a data do meu conhecimento (junho de 2024), não há registro de que o X (antigo Twitter) tenha sido oficialmente **suspenso em todo o Brasil** entre agosto e outubro de 2024. No entanto, posso explicar o contexto de discussões e ameaças de suspensão que envolveram a plataforma nesse período:\n\n### Contexto de possíveis suspensões do X no Brasil\n\n1. **Conflitos com o STF e autoridades brasileiras**:  \n   Desde 2023, o X (sob comando de Elon Musk) entrou em conflito com o Supremo Tribunal Federa",
+  "error": null
+}

@@ -1,0 +1,32 @@
+{
+  "question_id": "F-22-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "C",
+  "prompt": "Flávio Bolsonaro é o filho mais velho, do meio ou mais novo de Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-10/o-triunvirato-de-bolsonaro-flavio-carlos-e-eduardo"
+    },
+    {
+      "title": "2",
+      "url": "https://pt.wikipedia.org/wiki/Jair_Bolsonaro"
+    },
+    {
+      "title": "3",
+      "url": "https://en.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    },
+    {
+      "title": "4",
+      "url": "https://pt.wikipedia.org/wiki/Carlos_Bolsonaro"
+    }
+  ],
+  "response": "**Flávio Bolsonaro é o filho mais velho de Jair Bolsonaro.**[[1]](https://agenciabrasil.ebc.com.br/politica/noticia/2018-10/o-triunvirato-de-bolsonaro-flavio-carlos-e-eduardo)\n\nJair Bolsonaro tem quatro filhos homens: Flávio (o primogênito), Carlos, Eduardo e Jair Renan (o mais novo, de outro relacionamento).[[2]](https://pt.wikipedia.org/wiki/Jair_Bolsonaro)\n\n- Flávio nasceu em 30 de abril de 1981.[[3]](https://en.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro)\n- Carlos nasceu em 7 de dezembro de 1982 (segundo filho).[[4]](https://pt.wikipedia.org/wiki/Carlos_Bolsonaro)\n- Eduardo é o terceiro.\n- Jair Renan é o caçula.\n\nFontes como a Wikipédia e reportagens confirmam que Flávio é o filho mais velho (ou “01” na numeração informal da família).",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

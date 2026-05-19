@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Brazil surpassed the US in double-dose vaccination coverage and provides specific percentages, but it does not mention the role of SUS/PNI as requested by the resolution criteria for a score of 5."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that Brazil surpassed the US in vaccination rates and provides specific percentages, confirming the core factual claim."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

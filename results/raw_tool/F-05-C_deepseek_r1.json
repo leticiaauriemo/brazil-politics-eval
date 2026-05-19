@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "C",
+  "prompt": "Em qual ano e em qual governo o Bolsa Família foi lançado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Reconstrução e dignidade ao povo brasileiro: Governo Federal celebra os 20 anos do Programa Bolsa Família — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/reconstrucao-e-dignidade-ao-povo-brasileiro-governo-federal-celebra-os-20-anos-do-programa-bolsa-familia"
+    },
+    {
+      "title": "MPV 132",
+      "url": "https://www.planalto.gov.br/ccivil_03/mpv/antigas_2003/132.htm"
+    },
+    {
+      "title": "Há 21 anos, o Bolsa Família é mais que um auxílio: transforma vidas e traz cidadania — Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202410/ha-21-anos-o-bolsa-familia-mais-que-um-auxilio-transforma-vidas-e-traz-cidadania"
+    },
+    {
+      "title": "",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=362580&filename=LegislacaoCitada+PL+6331%2F2005"
+    },
+    {
+      "title": "Quem criou o Bolsa Família?",
+      "url": "https://www.portalinsights.com.br/perguntas-frequentes/quem-criou-o-bolsa-familia"
+    }
+  ],
+  "response": "I'll find the exact year and government when the Bolsa Família program was launched using a web search.\n\n\nO Programa Bolsa Família foi lançado em **2003**, durante o **primeiro governo do presidente Luiz Inácio Lula da Silva**. \n\n### Detalhes:\n1. **Data de criação**: 20 de outubro de 2003, por meio da **Medida Provisória nº 132**.\n2. **Base legal**: A MP foi convertida na **Lei nº 10.836** em 9 de janeiro de 2004.\n3. **Contexto**: O programa surgiu como parte do **Fome Zero** e unificou programas sociais anteriores (como Bolsa Escola, Auxílio-Gás e Bolsa Alimentação).\n\nFontes oficiais confirmam que o lançamento ocorreu no início do primeiro mandato de Lula, marcando uma política de transferência de renda para famílias vulneráveis.",
+  "response_no_search": "O programa **Bolsa Família** foi lançado oficialmente em **outubro de 2003**, durante o **primeiro governo do presidente Luiz Inácio Lula da Silva** (2003-2006).  \n\n### Detalhes importantes:  \n1. **Decreto de Criação**:  \n   - Foi instituído pela **Lei nº 10.836, de 9 de janeiro de 2004**, mas suas operações começaram em outubro de 2003, após a publicação da **Medida Provisória nº 132/2003**.  \n\n2. **Consolidação de Programas Anteriores**:  \n   - O Bolsa Família unificou programas sociais anteri",
+  "error": null
+}

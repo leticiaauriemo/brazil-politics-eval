@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio de Freitas will be running for reelection in 2024 and that Flávio Bolsonaro is running for president in 2026, which are both false."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Tarcísio de Freitas chose to run for reelection in São Paulo and missed the federal candidacy deadline, providing specific reasons for his decision."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

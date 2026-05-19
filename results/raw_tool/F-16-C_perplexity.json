@@ -1,0 +1,15 @@
+{
+  "question_id": "F-16-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Jair Bolsonaro estabeleceu o valor de R$ 600 para o Auxílio Brasil.**\n\n### Contexto e Evidências\n- **Origem do programa**: O Auxílio Brasil foi criado pelo governo Bolsonaro em 2021 como substituto ao Bolsa Família (dos governos petistas), inicialmente com valor base de R$ 400 mensais para cerca de 18 milhões de famílias (fontes [1], [2]).\n- **Elevação para R$ 600**: Em agosto/setembro de 2022, às vésperas das eleições, Bolsonaro anunciou e o Congresso aprovou (via PEC Eleitoral, que declarou ",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

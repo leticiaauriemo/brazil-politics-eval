@@ -1,0 +1,32 @@
+{
+  "question_id": "F-17-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://g1.globo.com/economia/noticia/2025/09/03/bc-banco-master-brb.ghtml"
+    },
+    {
+      "title": "2",
+      "url": "https://www.cnnbrasil.com.br/economia/o-que-levou-o-bc-a-rejeitar-compra-do-banco-master-pelo-brb-em-setembro/"
+    },
+    {
+      "title": "3",
+      "url": "https://www.bancomaster.com.br/"
+    },
+    {
+      "title": "4",
+      "url": "https://www.gazetadopovo.com.br/economia/banco-master-o-que-acontece-rejeicao-venda-brb/"
+    }
+  ],
+  "response": "**Após a rejeição do Banco Central (BC) à compra do Banco Master pelo BRB (Banco de Brasília) em 3 de setembro de 2025, o Banco Master enfrentou uma rápida deterioração que culminou em liquidação extrajudicial.**[[1]](https://g1.globo.com/economia/noticia/2025/09/03/bc-banco-master-brb.ghtml)\n\n### Rejeição e consequências imediatas\nO BC indeferiu a operação (anunciada em março de 2025) por riscos excessivos, especialmente relacionados aos ativos do Master, que não se alinhavam ao perfil de risco do BRB e de seus clientes, além de preocupações com sucessão e solidez financeira. O BRB comunicou o fato relevante e solicitou acesso à decisão completa para avaliar alternativas, mas não recorreu formalmente. Tentativas de “Plano B” ou novos compradores não prosperaram.[[2]](https://www.cnnbrasil.com.br/economia/o-que-levou-o-bc-a-rejeitar-compra-do-banco-master-pelo-brb-em-setembro/)\n\n### Liquidação extrajudicial (18 de novembro de 2025)\nEm 18 de novembro de 2025, o BC decretou a **liquidação extrajudicial** do Banco Master S.A., Banco Master de Investimento S.A., Banco Letsbank S.A. e da Master S.A. Corretora de Câmbio, Títulos e Valores Mobiliários (além de regime especial para outra entidade do conglomerado). A EFB Regimes Especiais foi nomeada como liquidante.[[3]](https://www.bancomaster.com.br/)\n\nNo mesmo dia, a Polícia Federal deflagrou a Operação “Compliance Zero”, com prisões (incluindo a do controlador Daniel Vorcaro) e buscas em cinco estados, investigando irregularidades, fraudes e problemas de liquidez/gestão que vinham sendo monitorados pelo BC.[[2]](https://www.cnnbrasil.com.br/economia/o-que-levou-o-bc-a-rejeitar-compra-do-banco-master-pelo-brb-em-setembro/)\n\n### Impactos nos clientes e no sistema\n- Os clientes e investidores contam com a proteção do **Fundo Garantidor de Créditos (FGC)** para depósitos e CDBs (até os limites vigentes, com correção e juros até a data da liquidação). Trata-se do maior socorro da história do FGC, envolvendo dezenas de bilhões de reais em CDBs.[[4]](https://www.gazetadopovo.com.br/economia/banco-master-o-que-acontece-rejeicao-venda-brb/)\n- Rendimentos de aplicações foram congelados na data da liquidação (18/11/2025); o processo de ressarcimento costuma levar semanas ou meses.\n- O caso gerou grande repercussão, com alertas para pequenos investidores e questionamentos posteriores (inclusive no TCU e CPI).\n\nEm resumo, a rejeição do BC acelerou o colapso do Banco Master, que não conseguiu se reestruturar e foi liquidado cerca de dois meses depois, com intervenção policial e acionamento massivo do FGC. O banco deixou de operar normalmente a partir de novembro de 2025.",
+  "response_no_search": "Após a rejeição da compra do Banco Master pelo BRB (Banco de Brasília) pelo Banco Central do Brasil (BCB), em julho de 2023, o Banco Master enfrentou graves dificuldades financeiras e operacionais. Aqui vai um resumo do que aconteceu em seguida, baseado em informações públicas e oficiais:\n\n### Contexto Rápido\n- O BRB havia anunciado a intenção de adquirir o Banco Master (antigo Banco Matone) em 2022, com o objetivo de expandir suas operações. O valor da transação era estimado em cerca de R$ 3 bi",
+  "error": null
+}

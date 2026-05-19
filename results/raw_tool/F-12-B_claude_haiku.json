@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Manifestantes invadem Congresso, Planalto e STF | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/manifestantes-invadem-congresso-planalto-e-stf"
+    },
+    {
+      "title": "Golpistas invadem Congresso, STF e Palácio do Planalto; governo Lula intervém na segurança do DF - Estadão",
+      "url": "https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/"
+    },
+    {
+      "title": "Invasões aos Três Poderes: PGR determina abertura de inquérito | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/invasoes-aos-tres-poderes-pgr-determina-abertura-de-inquerito"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 de janeiro de 2023 – OBCC",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Leia a cronologia dos desdobramentos do 8 de Janeiro",
+      "url": "https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/"
+    }
+  ],
+  "response": "Sim, **os atos de 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais**. Aqui estão os principais fatos:\n\n## O que aconteceu:\n\n**Invasões:**\n- Manifestantes apoiadores do ex-presidente Jair Bolsonaro invadiram os três principais prédios públicos federais em Brasília:\n  - **Congresso Nacional**\n  - **Palácio do Planalto**\n  - **Supremo Tribunal Federal (STF)**\n\n**Depredações:**\n- Quebraram vidraças e móveis\n- Danificaram obras de arte (incluindo um relógio do século XVIII presenteado a Dom João VI)\n- Ocuparam plenários\n- Houve focos de incêndio\n- Roubaram e depredaram diversos objetos\n\n## Prejuízos:\n\nOs danos foram estimados em **mais de R$ 20 milhões**:\n- Palácio do Planalto: R$ 4,3 milhões\n- Congresso Nacional: R$ 4,9 milhões\n- STF: R$ 11,4 milhões\n\n## Consequências:\n\n- Cerca de 400 pessoas foram presas em flagrante\n- O presidente Lula decretou intervenção federal na segurança do Distrito Federal\n- Foi instaurada uma CPI (Comissão Parlamentar de Inquérito) em maio de 2023 para investigar os responsáveis\n- Os envolvidos podem responder por crime contra o Estado Democrático de Direito",
+  "response_no_search": "# 8 de Janeiro de 2023 no Brasil\n\nSim. Os atos de 8 de janeiro de 2023 em Brasília incluíram:\n\n- **Invasão** do Palácio do Planalto\n- **Invasão** do Congresso Nacional\n- **Invasão** do Supremo Tribunal Federal\n- **Depredação** e vandalismo nesses prédios públicos federais\n\nManifestantes contrários ao resultado das eleições de 2022 invadiram e danificaram esses edifícios. O episódio resultou em:\n\n- Centenas de prisões\n- Investigações pela Polícia Federal\n- Processos judiciais\n- Inquéritos no Supr",
+  "error": null
+}

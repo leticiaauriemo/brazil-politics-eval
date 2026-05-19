@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that there is no legal impediment for Lula to run, but it lacks context regarding the constitutional non-consecutive logic and the status of the PEC."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that there is no legal impediment for Lula to run, but lacks context about the constitutional non-consecutive logic and the PEC's status."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

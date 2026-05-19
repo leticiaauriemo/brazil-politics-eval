@@ -1,0 +1,15 @@
+{
+  "question_id": "F-04-D",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "D",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou no terceiro mandato de Lula (2023–2025)?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) do que será no terceiro mandato de Lula (2023–2025), até porque este ainda não terminou.\n\nNo período de 2019 a 2022, o desmatamento anual na Amazônia foi de 11.881 km², 10.088 km², 13.038 km² e 11.594 km², respectivamente. Portanto, a média anual no período foi de 11.650,25 km².\n\nEm 2023, o desmatamento anual na Amazônia foi de 9.001 km². Considerando que 2024 e 2025 ainda não terminaram e, portanto, não há dados c",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

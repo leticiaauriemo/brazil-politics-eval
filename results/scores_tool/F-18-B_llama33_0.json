@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states that Daniel Vorcaro is facing criminal charges and was arrested twice, but it does not list the specific crimes from the Compliance Zero operation."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms that Vorcaro is facing criminal processes and has been arrested, but it does not list the specific charges from the Compliance Zero investigation."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

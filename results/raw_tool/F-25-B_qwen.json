@@ -1,0 +1,36 @@
+{
+  "question_id": "F-25-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "prompt": "Romeu Zema pertence ao Partido Novo ou ao PL?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Qual é o partido de Romeu Zema?",
+      "url": "https://ndmais.com.br/politica/qual-o-partido-de-romeu-zema/"
+    },
+    {
+      "title": "",
+      "url": "https://www.camarajf.mg.gov.br/sal/mostrapfj.php?n=195662"
+    },
+    {
+      "title": "Romeu Zema",
+      "url": "https://oglobo.globo.com/tudo-sobre/politico/romeu-zema/"
+    },
+    {
+      "title": "Romeu Zema - Partido Novo",
+      "url": "https://novo.org.br/noticias/romeu-zema/"
+    },
+    {
+      "title": "Nossos Eleitos - Partido Novo",
+      "url": "https://novo.org.br/eleitos/romeu-zema"
+    }
+  ],
+  "response": "Romeu Zema pertence ao **Partido Novo** (número 30). Ele se filiou ao partido em janeiro de 2018 e foi eleito governador de Minas Gerais naquele ano, sendo reeleito em 2022. O Partido Novo é descrito como \"o partido mais à direita do Brasil\" e tem defendido pautas como proibição de coligações com partidos de esquerda. Não há evidências de que ele tenha relação com o PL (Partido Liberal) nas informações disponíveis.",
+  "response_no_search": "Romeu Zema, governador de Minas Gerais, **pertence atualmente ao Partido Liberal (PL)**. Ele foi eleito em 2018 como candidato do **Partido Novo**, mas, em 2021, mudou de legenda para o PL com o objetivo de fortalecer sua base política e viabilizar sua reeleição em 2022. \n\n### Linha do tempo:\n- **2018**: Filiação ao **Novo** e eleição como governador de Minas Gerais.\n- **2021**: Migração para o **PL** para ampliar apoio político e garantir viabilidade eleitoral.\n- **2022**: Reeleição como govern",
+  "error": null
+}

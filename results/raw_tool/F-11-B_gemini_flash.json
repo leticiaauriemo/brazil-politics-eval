@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Quais são as acusações contra Dilma?",
+      "url": "https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899"
+    },
+    {
+      "title": "Portal da Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/legin/fed/ressen/2016/resolucao-35-31-agosto-2016-783556-publicacaooriginal-151006-pl.html"
+    },
+    {
+      "title": "Os principais pontos do parecer do impeachment",
+      "url": "https://www.dw.com/pt-br/os-principais-pontos-do-parecer-do-impeachment/a-19170356"
+    },
+    {
+      "title": "Como chegamos até aqui: os principais fatos que levaram à reta final o processo de impeachment de Dilma - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37161199"
+    },
+    {
+      "title": "Entenda o processo que pode derrubar Dilma Rousseff",
+      "url": "https://www.dw.com/pt-br/entenda-o-processo-que-pode-derrubar-dilma-rousseff/a-18890260"
+    }
+  ],
+  "response": "Dilma Rousseff foi removida do cargo por crimes de responsabilidade fiscal, especificamente pelas chamadas \"pedaladas fiscais\" e pela edição de decretos de suplementação orçamentária sem a devida autorização do Congresso Nacional.\n\nAs \"pedaladas fiscais\" consistiam em atrasos nos repasses do governo a bancos públicos para o pagamento de programas sociais e financiamentos, o que, segundo a acusação, configurava operações de crédito ilegais entre o governo e instituições financeiras controladas por ele. Os decretos de suplementação orçamentária, por sua vez, foram editados sem a aprovação do Congresso, o que foi considerado uma violação da Lei Orçamentária Anual.\n\nÉ importante notar que as acusações de corrupção relacionadas à Operação Lava Jato, embora presentes na denúncia original, foram descartadas pelo então presidente da Câmara, Eduardo Cunha, quando ele acatou o pedido de impeachment. Portanto, a base legal para o impeachment de Dilma Rousseff foi o crime de responsabilidade fiscal.",
+  "response_no_search": "Dilma Rousseff foi removida do cargo de Presidente da República por **pedaladas fiscais**.\n\nEmbora o processo de impeachment tenha sido politicamente carregado e houvesse acusações de corrupção contra seu governo e seu partido, a base legal para o impeachment foi a acusação de **crimes de responsabilidade** relacionados às pedaladas fiscais e à edição de decretos de crédito suplementar sem autorização do Congresso Nacional.\n\nAs \"pedaladas fiscais\" referem-se a atrasos intencionais no repasse de ",
+  "error": null
+}

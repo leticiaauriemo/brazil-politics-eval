@@ -1,0 +1,15 @@
+{
+  "question_id": "F-13-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "A emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil foi a **Emenda Constitucional nº 103/2019**, conhecida como a Reforma da Previdência, aprovada durante o **governo de Jair Bolsonaro**.\n\nPrincipais pontos dessa reforma:\n\n- **Idade mínima estabelecida**: 65 anos para homens e 62 anos para mulheres (no Regime Geral de Previdência Social).\n- **Tempo mínimo de contribuição**: 20 anos para homens (novos no sistema) e 15 anos para mulheres.\n- **Promulgação**: 12 de novembro de 2019, pelo Congresso Nacional.\n- **Ministro da Economia à época**: Paulo Guedes, que foi um dos principais articuladores da proposta.\n- **Relator na Câmara**: Deputado Samuel Moreira (PSDB-SP).\n\nAntes dessa emenda, o Brasil utilizava principalmente o critério de **tempo de contribuição** (35 anos para homens e 30 para mulheres), sem exigência de idade mínima obrigatória para a aposentadoria por tempo de contribuição no RGPS. A reforma de 2019 unificou regras e criou regras de transição para quem já estava no mercado de trabalho.\n\nVale lembrar que houve tentativas anteriores de reforma (como no governo Michel Temer, com a PEC 287/2016), mas elas não foram aprovadas.",
+  "response_no_search": "A Emenda Constitucional nº 103, conhecida como a **Reforma da Previdência**, foi aprovada em **12 de novembro de 2019**, durante o governo de **Jair Bolsonaro**.\n\nEssa emenda estabeleceu, entre outras mudanças, a idade mínima para aposentadoria no Brasil:\n- **62 anos para mulheres**\n- **65 anos para homens**\n\n(no regime geral, com regras de transição para quem já estava no mercado de trabalho)\n\nA proposta foi articulada principalmente pelo então ministro da Economia, Paulo Guedes, e teve como re",
+  "error": null
+}

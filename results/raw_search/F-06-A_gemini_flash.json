@@ -1,0 +1,35 @@
+{
+  "question_id": "F-06-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Veja perfis citados em decisões de Alexandre Moraes divulgadas por deputados dos EUA e por que foram suspensos - Estadão",
+      "url": "https://www.estadao.com.br/politica/veja-perfis-citados-relatorio-alexandre-de-moraes-deputados-estados-unidos-eua-redes-sociais-x-twitter-stf-tse-nprp/"
+    },
+    {
+      "title": "X divulga decisão de Moraes que suspendeu perfil de Do Val",
+      "url": "https://www.poder360.com.br/poder-tech/x-divulga-decisao-de-moraes-sobre-perfil-de-do-val-e-cita-censura/.modal-box--author"
+    },
+    {
+      "title": "Suspensão de perfis das redes por Moraes vira caixa-preta - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2024/06/suspensao-de-perfis-por-moraes-vira-caixa-preta-com-sigilo-e-exclusao-de-pf-e-pgr.shtml"
+    },
+    {
+      "title": "Moraes suspende Instagram e manda bloquear até R$ 50 milhões de Marcos do Val",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/moraes-suspende-instagram-e-manda-bloquear-ate-r-50-milhoes-de-marcos-do-val,3feb7cc6b304915e7e063e02b44730e40nvd4n6m.html"
+    },
+    {
+      "title": "Moraes determina que redes sociais bloqueiem perfis do PCO em 24 horas",
+      "url": "https://www.correiobraziliense.com.br/politica/2022/06/5016599-moraes-determina-que-redes-sociais-bloqueiem-perfis-do-pco-em-24-horas.html"
+    }
+  ],
+  "response": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) e ex-presidente do Tribunal Superior Eleitoral (TSE), ordenou a suspensão de diversos perfis em redes sociais no Brasil. Essas determinações ocorreram principalmente no âmbito de inquéritos que apuram a disseminação de informações falsas, ataques a ministros do STF e do TSE, e a atuação de milícias digitais, como o inquérito das fake news e o das milícias digitais [estadao.com.br].\n\nAlguns exemplos notáveis de perfis e entidades que tiveram suas contas suspensas por ordem de Moraes incluem:\n\n*   **Senador Marcos do Val:** Teve seus perfis suspensos em junho de 2023, e novamente em agosto de 2024, em meio a investigações por crimes como divulgação de documento confidencial, associação criminosa, abolição violenta do Estado Democrático de Direito, golpe de Estado e organização criminosa. Ele também teve o bloqueio de até R$ 50 milhões de suas contas determinado [estadao.com.br, poder360.com.br, terra.com.br].\n*   **Deputada Federal Carla Zambelli:** Suas contas foram suspensas em novembro de 2022, a pedido do TSE, por publicações que \"incentivavam, com base em falsas acusações de fraude, a recusa dos resultados e intervenção militar\", atingindo a \"integridade e a normalidade do processo eleitoral\" [estadao.com.br].\n*   **Allan dos Santos:** Teve suas contas suspensas em julho de 2020, juntamente com outros 15 nomes ligados ao bolsonarismo, por \"interrupção dos discursos com conteúdo de ódio, subversão da ordem e incentivo à quebra da normalidade institucional e democrática\". Ele tem criado sucessivas contas para burlar a determinação [estadao.com.br].\n*   **Monark:** Em junho de 2023, Moraes determinou a derrubada de seus perfis e o proibiu de criar novas contas, no âmbito do Inquérito 4.923, que investiga os ataques de 8 de janeiro de 2023. Monark divulgou \"notícias fraudulentas\" sobre o STF e o TSE [estadao.com.br].\n*   **Partido da Causa Operária (PCO):** Em junho de 2022, Moraes ordenou o bloqueio dos perfis oficiais do PCO em diversas redes sociais por disseminar ataques e notícias falsas sobre os magistrados da Corte, incluindo chamá-lo de \"skinhead\" [correiobraziliense.com.br].\n\nAs decisões de Moraes, especialmente as relacionadas a inquéritos no STF, muitas vezes tramitam em segredo de Justiça, e os ofícios enviados às plataformas para cumprimento das ordens nem sempre incluem a íntegra das decisões fundamentadas [estadao.com.br, folha.uol.com.br]. Essa prática tem gerado críticas, inclusive de plataformas e de um relatório divulgado por deputados republicanos da Comissão de Justiça da Câmara dos Representantes dos EUA [folha.uol.com.br]. O STF, no entanto, afirma que todas as decisões são fundamentadas e que as partes afetadas têm acesso à fundamentação [folha.uol.com.br].",
+  "response_no_search": "Sim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF) e presidente do Tribunal Superior Eleitoral (TSE), já ordenou a suspensão de perfis em redes sociais no Brasil em diversas ocasiões.\n\nEssas decisões geralmente ocorrem no contexto de investigações sobre:\n\n*   **Disseminação de notícias falsas (fake news):** Especialmente durante períodos eleitorais, para combater a desinformação que pode prejudicar o processo democrático.\n*   **Ataques à democracia e às instituições:** Perfis",
+  "error": null
+}

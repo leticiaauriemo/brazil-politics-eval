@@ -1,0 +1,36 @@
+{
+  "question_id": "F-25-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "prompt": "Romeu Zema pertence ao Partido Novo ou ao PL?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Romeu Zema - Partido Novo",
+      "url": "https://novo.org.br/noticias/romeu-zema/"
+    },
+    {
+      "title": "Romeu Zema se lança pré-candidato à Presidência pelo Partido ...",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2025/08/16/romeu-zema-se-lanca-pre-candidato-a-presidencia-pelo-partido-novo-em-evento-em-sp.ghtml"
+    },
+    {
+      "title": "Romeu Zema",
+      "url": "https://pt.wikipedia.org/wiki/Zema"
+    },
+    {
+      "title": "Romeu Zema",
+      "url": "https://en.wikipedia.org/wiki/Romeu_Zema"
+    },
+    {
+      "title": "Romeu Zema desafia STF e propõe mudanças que podem transformar a política brasileira | Bastidores da Notícia",
+      "url": "https://bastidoresdanoticia.com.br/romeu-zema-desafia-stf-e-propoe-mudancas-que-podem-transformar-a-politica-brasileira/"
+    }
+  ],
+  "response": "Romeu Zema é filiado ao Partido Novo.\n\nEmbora ele já tenha sido filiado ao PL (Partido Liberal) e ao PR (Partido da República) no passado, ele se filiou ao Partido Novo em 2018, ano em que foi eleito governador de Minas Gerais.",
+  "response_no_search": "Romeu Zema pertence ao **Partido Novo (NOVO)**.\n\nEle foi eleito e reeleito governador de Minas Gerais pelo Partido Novo, sendo uma das figuras políticas mais proeminentes do partido.\n\nA confusão com o PL (Partido Liberal) pode surgir devido à sua aliança e proximidade política com o ex-presidente Jair Bolsonaro, que é a principal liderança do PL.",
+  "error": null
+}

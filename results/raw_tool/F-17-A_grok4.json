@@ -1,0 +1,32 @@
+{
+  "question_id": "F-17-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://cooperativismodecredito.coop.br/2026/01/entenda-o-caso-do-banco-master/"
+    },
+    {
+      "title": "2",
+      "url": "https://www.congressoemfoco.com.br/noticia/117317/bc-decreta-liquidacao-do-banco-master-multiplo"
+    },
+    {
+      "title": "3",
+      "url": "https://g1.globo.com/economia/noticia/2026/03/17/bc-anuncia-liquidacao-do-banco-master-multiplo-antes-sob-regime-especial-de-administracao.ghtml"
+    },
+    {
+      "title": "4",
+      "url": "https://www.bancomaster.com.br/"
+    }
+  ],
+  "response": "**Não, o Banco Master não está mais em funcionamento como instituição financeira ativa em 2026.** \n\nO Banco Central do Brasil decretou a **liquidação extrajudicial** do Banco Master e de empresas do conglomerado em 18 de novembro de 2025, devido a grave crise de liquidez, comprometimento econômico-financeiro e violações de normas prudenciais.[[1]](https://cooperativismodecredito.coop.br/2026/01/entenda-o-caso-do-banco-master/)\n\nPosteriormente, em março de 2026, o regime temporário de administração especial (RAET) do Banco Master Múltiplo foi convertido em liquidação extrajudicial definitiva, encerrando formalmente todas as operações.[[2]](https://www.congressoemfoco.com.br/noticia/117317/bc-decreta-liquidacao-do-banco-master-multiplo)\n\n- As atividades normais do banco foram interrompidas, a diretoria foi afastada e a instituição foi retirada do Sistema Financeiro Nacional.[[3]](https://g1.globo.com/economia/noticia/2026/03/17/bc-anuncia-liquidacao-do-banco-master-multiplo-antes-sob-regime-especial-de-administracao.ghtml)\n- O site oficial (bancomaster.com.br) continua ativo, mas apenas sob administração do liquidante nomeado pelo BC, com atendimento ao cliente (SAC) restrito a questões relacionadas à liquidação (como 0800 88 10011).[[4]](https://www.bancomaster.com.br/)\n\nEm resumo, o banco não opera mais como entidade financeira regular — está em processo de liquidação, com clientes sendo atendidos pelo Fundo Garantidor de Créditos (FGC) para ressarcimentos dentro dos limites legais. Isso é confirmado por diversas fontes jornalísticas e comunicados oficiais de 2026.",
+  "response_no_search": "Sim, com base nas informações disponíveis até o meu último treinamento em 2023, o Banco Master (um banco múltiplo brasileiro, anteriormente conhecido como Banco Máxima) continua em funcionamento normal como uma instituição financeira ativa no Brasil. Ele oferece serviços como empréstimos, investimentos e outros produtos bancários.\n\nNo entanto, como estamos falando de 2026 (um ano futuro em relação ao meu conhecimento atual), não posso garantir mudanças que possam ocorrer após 2023, como fusões, ",
+  "error": null
+}

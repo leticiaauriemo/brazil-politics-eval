@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states Brazil was among the top countries for total doses, specifically behind China, India, and the US, and attributes this to population size and SUS coverage, aligning with the ground truth's core claims and context."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states Brazil's position among the top countries in vaccine doses but is somewhat vague about the specific ranking and does not explicitly attribute the performance to the SUS and PNI infrastructure."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

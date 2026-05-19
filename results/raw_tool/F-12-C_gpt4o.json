@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Entrevistas à CNN: as visões de Lula, Bolsonaro, Moraes e outras autoridades sobre o 8/1 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/entrevistas-a-cnn-as-visoes-de-lula-bolsonaro-moraes-e-outras-autoridades-sobre-o-8-1/"
+    },
+    {
+      "title": "Dois anos do 8 de janeiro: relembre a cronologia dos ataques aos Três Poderes - ISTOÉ Independente",
+      "url": "https://istoe.com.br/dois-anos-do-8-de-janeiro-relembre-a-cronologia-dos-ataques-aos-tres-poderes"
+    },
+    {
+      "title": "SciELO  Brazil - Geografia do ressentimento e violência populista: a invasão da Praça dos Três Poderes em 8 de janeiro de 2023  Geografia do ressentimento e violência populista: a invasão da Praça dos Três Poderes em 8 de janeiro de 2023",
+      "url": "https://www.scielo.br/j/op/a/vxNtmzmDjrdnzLvHFDYyzmz/"
+    },
+    {
+      "title": "Bolsonaro depõe à PF sobre atos antidemocráticos de 8 de janeiro | Exame",
+      "url": "https://exame.com/brasil/bolsonaro-depoe-a-pf-sobre-atos-antidemocraticos-de-8-de-janeiro/"
+    },
+    {
+      "title": "Veja como PGR liga Bolsonaro aos atos antidemocráticos de 8 de janeiro | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/veja-como-pgr-liga-bolsonaro-trama-golpista-de-8-de-janeiro"
+    }
+  ],
+  "response": "No dia 8 de janeiro de 2023, Jair Bolsonaro não estava no Brasil. Ele estava em Orlando, na Flórida, nos Estados Unidos. Bolsonaro havia viajado para os EUA antes da posse de Luiz Inácio Lula da Silva e retornou ao Brasil apenas em 30 de março de 2023. Durante os atos antidemocráticos de 8 de janeiro, que envolveram a invasão e depredação das sedes dos Três Poderes em Brasília, Bolsonaro estava fora do país.",
+  "response_no_search": "Não, Jair Bolsonaro não estava no Brasil no dia 8 de janeiro de 2023. Ele havia viajado para os Estados Unidos no final de dezembro de 2022, antes da posse de Luiz Inácio Lula da Silva como presidente, e permaneceu lá por um período após essa data.",
+  "error": null
+}

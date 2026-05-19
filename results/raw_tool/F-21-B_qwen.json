@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "Pessoal de Gabinete de Flávio Bolsonaro em 2023 - Transparência e Prestação de Contas",
+      "url": "https://www6g.senado.leg.br/transparencia/sen/5894/pessoal/?ano=2023&local=gabinete"
+    },
+    {
+      "title": "Participação em Comissões de Flávio Bolsonaro - Senado Federal",
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894/comissoes/1"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio reafirma interesse em concorrer à Prefeitura do Rio",
+      "url": "https://www.poder360.com.br/brasil/flavio-bolsonaro-reafirma-interesse-em-concorrer-a-prefeitura-do-rio/"
+    }
+  ],
+  "response": "Flávio Bolsonaro é **senador federal** desde 2019, representando o Rio de Janeiro pelo partido PL. Atualizado com informações de 2023 e 2025, ele ocupa cargos de liderança em comissões do Senado, como titular da Comissão de Segurança Pública (CSP) e da Comissão de Desenvolvimento Regional (CDR). Ele foi eleito senador em 2018 com 4,3 milhões de votos, após exercer quatro mandatos como deputado estadual no Rio de Janeiro (2002-2018). Atualmente, não é deputado federal.",
+  "response_no_search": "Flávio Bolsonaro é **senador federal** pelo estado do Rio de Janeiro desde fevereiro de 2023. Ele foi eleito nas eleições de 2022, representando o partido Liberal (PL). \n\nAntes disso, ele atuou como **deputado federal** pelo Rio de Janeiro entre 2011 e 2023, sendo reeleito em 2014 e 2018. Sua trajetória política inclui mudanças partidárias ao longo dos anos, incluindo passagens pelo PSC, Patriota e, posteriormente, o PL.\n\nComo senador, ele ocupa uma das três vagas do estado do Rio, com mandato a",
+  "error": null
+}

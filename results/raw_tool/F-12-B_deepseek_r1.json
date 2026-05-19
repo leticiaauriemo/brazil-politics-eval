@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Manifestantes invadem Congresso, Planalto e STF | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/manifestantes-invadem-congresso-planalto-e-stf"
+    },
+    {
+      "title": "Golpistas invadem Congresso, STF e Palácio do Planalto; governo Lula intervém na segurança do DF - Estadão",
+      "url": "https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/"
+    },
+    {
+      "title": "Leia a cronologia dos desdobramentos do 8 de Janeiro",
+      "url": "https://www.poder360.com.br/brasil/leia-a-cronologia-dos-desdobramentos-do-8-de-janeiro/"
+    },
+    {
+      "title": "No 8 de janeiro, golpistas invadiram e depredaram as sedes ... - G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2024/01/08/no-8-de-janeiro-golpistas-invadiram-e-depredaram-as-sedes-dos-tres-poderes-em-brasilia.ghtml"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 de janeiro de 2023 – OBCC",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    }
+  ],
+  "response": "I will search for information about the events of January 8, 2023 in Brazil to answer your question.\n\n\n<!-- I'm now waiting for the tool response with search results -->\n<!-- The tool will return web search results about the January 8 events -->\n<!-- Once I have the results, I'll analyze them to answer the question -->Sim, os atos ocorridos em 8 de janeiro de 2023 no Brasil incluíram **invasão e depredação de prédios públicos federais**. De acordo com as informações:\n\n1. **Invasão dos Três Poderes**: \n   - Manifestantes invadiram e vandalizaram o **Congresso Nacional**, o **Palácio do Planalto** (sede do Executivo) e o **Supremo Tribunal Federal (STF)**.\n   - A invasão começou após romperem barreiras policiais na Esplanada dos Ministérios.\n\n2. **Depredação e Danos**:\n   - **Congresso Nacional**: Vidros do Salão Negro foram quebrados, o plenário foi danificado e houve destruição de mobiliário.\n   - **STF**: Vidraças, móveis e obras de arte foram destruídos, inclusive com invasão do plenário.\n   - **Planalto**: Objetos históricos, como um relógio do século XVIII, foram danificados, além de quebra de vidros e saques.\n   - Os prejuízos foram estimados em mais de **R$ 20 milhões**.\n\n3. **Contexto**:\n   - Os atos foram liderados por apoiadores do ex-presidente Jair Bolsonaro, inconformados com o resultado das eleições de 2022.\n   - Houve omissão inicial da segurança do Distrito Federal, o que levou à **intervenção federal** decretada pelo presidente Lula.\n\n4. **Repercussão**:\n   - Os eventos foram classificados como \"atos golpistas\" e \"antidemocráticos\" por autoridades.\n   - O STF e o Congresso instauraram investigações, resultando em prisões e indiciamentos.\n\nFontes: Agência Brasil, Estadão, Poder360, e UFSM/OBCC.",
+  "response_no_search": "Sim, os eventos ocorridos no Brasil em 8 de janeiro de 2023 incluíram a invasão e depredação de prédios públicos federais em Brasília. Manifestantes que contestavam os resultados das eleições presidenciais de 2022 invadiram e vandalizaram o Congresso Nacional, o Palácio do Planalto e o Supremo Tribunal Federal (STF). Os atos incluíram quebra de vidraças, destruição de mobiliário, danos a obras de arte e outros estragos ao patrimônio público. \n\nO contexto foi marcado por alegações infundadas de f",
+  "error": null
+}

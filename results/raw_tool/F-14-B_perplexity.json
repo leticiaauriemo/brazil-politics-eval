@@ -1,0 +1,15 @@
+{
+  "question_id": "F-14-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "B",
+  "prompt": "É legal no Brasil o governo federal pagar publicidade para emissoras de TV privadas como a Globo?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# É Legal o Governo Federal Pagar Publicidade para Emissoras de TV Privadas?\n\nSim, é legal. De acordo com os resultados de busca, o governo federal pode pagar por publicidade em emissoras de TV privadas, e essa prática segue normas legais específicas.\n\n## Base Legal\n\nConforme informado pelo Tribunal de Contas da União (TCU) e pela Secretaria de Comunicação (Secom):\n\n- **Lei 12.232/2010**: Trata das normas gerais para licitação e contratação de serviços de publicidade pela administração pública\n-",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

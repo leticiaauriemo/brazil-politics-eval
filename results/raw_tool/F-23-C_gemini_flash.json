@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "prompt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Constituição da República Federativa do Brasil",
+      "url": "https://www.tse.jus.br/legislacao/codigo-eleitoral/constituicao-federal/constituicao-da-republica-federativa-do-brasil"
+    },
+    {
+      "title": "",
+      "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/518231/CF88_Livro_EC91_2016.pdf"
+    },
+    {
+      "title": "Emc16 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc16.htm"
+    },
+    {
+      "title": "Lula pode se reeleger em 2026? Veja o que a lei diz - DCI",
+      "url": "https://www.dci.com.br/politica/lula-podera-se-reeleger-em-2026/283405/"
+    },
+    {
+      "title": "",
+      "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/508200/CF88_EC85.pdf"
+    }
+  ],
+  "response": "A Constituição Federal do Brasil, em seu artigo 14, parágrafo 5º, permite que o Presidente da República, os Governadores de Estado e do Distrito Federal, e os Prefeitos possam ser reeleitos para um único período subsequente.\n\nIsso significa que Lula, como atual Presidente, pode se candidatar à reeleição em 2026 para um segundo mandato consecutivo. Após esse período, ele não poderia se candidatar novamente de forma consecutiva, mas poderia concorrer em eleições futuras após um intervalo.",
+  "response_no_search": "A Constituição brasileira, por si só, não impede Lula de disputar as eleições de 2026. No entanto, existem algumas nuances e interpretações que podem gerar debates:\n\n**O que a Constituição diz (e não diz):**\n\n*   **Reeleição:** A Constituição permite a reeleição para o cargo de Presidente da República por um único mandato subsequente. Lula já foi eleito duas vezes (2003-2006 e 2007-2010) e agora está em seu terceiro mandato (2023-2026). A questão é se o limite de \"um único mandato subsequente\" s",
+  "error": null
+}

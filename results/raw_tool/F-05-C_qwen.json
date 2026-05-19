@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "C",
+  "prompt": "Em qual ano e em qual governo o Bolsa Família foi lançado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "L10836",
+      "url": "http://planalto.gov.br/CCIVIL_03/_Ato2004-2006/2004/Lei/L10.836.htm"
+    },
+    {
+      "title": "Entenda a trajetória dos programas de transferência de renda desde a criação do Bolsa Família, no início dos anos 2000",
+      "url": "https://www.infomoney.com.br/politica/entenda-a-trajetoria-dos-programas-de-transferencia-de-renda-desde-a-criacao-do-bolsa-familia-no-inicio-dos-anos-2000/"
+    },
+    {
+      "title": "Há 21 anos, o Bolsa Família é mais que um auxílio: transforma vidas e traz cidadania — Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202410/ha-21-anos-o-bolsa-familia-mais-que-um-auxilio-transforma-vidas-e-traz-cidadania"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    },
+    {
+      "title": "Entenda o que é o Bolsa Família e suas alterações ao longo dos anos - Estadão",
+      "url": "https://www.estadao.com.br/politica/entenda-o-que-e-o-bolsa-familia-e-suas-alteracoes-ao-longo-dos-anos/"
+    }
+  ],
+  "response": "O **Bolsa Família** foi lançado em **2003**, durante o governo de **Luiz Inácio Lula da Silva** (PT). O programa foi instituído por meio de uma **Medida Provisória (MP 132)** em **20 de outubro de 2003**, e posteriormente regulamentado pela **Lei Federal nº 10.836**, de **9 de janeiro de 2004**. Ele unificou programas sociais anteriores, como o Bolsa-Escola e o Bolsa-Alimentação, com o objetivo de combater a pobreza e promover inclusão social.",
+  "response_no_search": "O **Bolsa Família** foi lançado em **2003**, durante o governo do presidente **Luiz Inácio Lula da Silva**, pertencente ao Partido dos Trabalhadores (PT). O programa surgiu como uma iniciativa central do **Plano Fome Zero** e consolidou diversos benefícios sociais anteriores (como o **Bolsa Escola** e o **Auxílio Gás**) em um único modelo de transferência de renda condicionada. \n\nO decreto de criação foi assinado em **outubro de 2003** (Decreto nº 4.886/2003), com início efetivo das operações no",
+  "error": null
+}

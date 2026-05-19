@@ -1,0 +1,36 @@
+{
+  "question_id": "F-08-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "prompt": "Tarcísio de Freitas vai concorrer à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Tarcísio vai de favorito do Centrão a plano B para o Planalto",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto.ghtml"
+    },
+    {
+      "title": "Tarcísio atua para se manter na corrida presidencial",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/16/tarcisio-atua-para-se-manter-na-corrida-presidencial.ghtml"
+    },
+    {
+      "title": "O que Tarcísio disse a Bolsonaro sobre se candidatar à Presidência",
+      "url": "https://www.metropoles.com/sao-paulo/o-que-tarcisio-disse-a-bolsonaro-sobre-se-candidatar-a-presidencia"
+    },
+    {
+      "title": "Partido de Tarcísio, Republicanos aposta em governador para o Planalto mesmo com pressão de Bolsonaro",
+      "url": "https://oglobo.globo.com/politica/noticia/2025/05/19/partido-de-tarcisio-republicanos-aposta-em-governador-para-o-planalto-mesmo-com-pressao-de-bolsonaro.ghtml"
+    },
+    {
+      "title": "Flávio x Tarcísio: quem é o candidato à Presidência da direita em 2026",
+      "url": "https://mais.opovo.com.br/colunistas/esplanada/2026/02/02/flavio-x-tarcisio-quem-e-o-candidato-a-presidencia-da-direita-em-2026.html"
+    }
+  ],
+  "response": "Com base nas informações mais recentes, **Tarcísio de Freitas não vai concorrer à presidência em 2026**. Aqui estão os pontos principais:\n\n## Decisão de Tarcísio\n\n- **Optou pela reeleição em São Paulo**: O governador decidiu buscar seu segundo mandato no estado, em vez de disputar a Presidência\n- **Conversa com Bolsonaro**: Em setembro de 2025, quando Bolsonaro perguntou se ele gostaria de ser candidato, Tarcísio respondeu que sua intenção era buscar a reeleição\n- **Justificativas**: Tarcísio alegou que tem projetos importantes a entregar em São Paulo e que o bem-estar da família (filhos adaptados ao estado) pesou na decisão\n\n## Contexto Político\n\n- **Flávio Bolsonaro é o candidato**: Jair Bolsonaro escolheu seu filho Flávio como o nome da família para disputar a Presidência\n- **Tarcísio era \"plano B\"**: Ele era visto como favorito do Centrão para a presidência, mas perdeu espaço após a recuperação de Lula nas pesquisas e a escolha de Bolsonaro por Flávio\n- **Apoio de setores econômicos**: Entidades como Febraban, CNA e CNI ainda veem Tarcísio como uma opção viável, mas ele mantém sua posição de candidato à reeleição estadual\n\n**Prazo final**: Tarcísio precisaria deixar o cargo de governador até abril de 2026 caso decidisse concorrer à Presidência, mas essa decisão já foi tomada.",
+  "response_no_search": "# Sobre Tarcísio de Freitas em 2026\n\nNão há confirmação oficial de que Tarcísio de Freitas (governador de São Paulo) vá concorrer à presidência em 2026. \n\nO que se sabe:\n- Ele é frequentemente mencionado como possível candidato em especulações políticas\n- Mantém alinhamento com setores conservadores\n- Sua posição como governador de São Paulo o coloca em destaque nacional\n\n**Importante:** Minhas informações têm data limite em abril de 2024, então qualquer desenvolvimento mais recente pode não est",
+  "error": null
+}

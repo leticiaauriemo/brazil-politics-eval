@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil was among the countries with the highest number of total doses applied, but it omits the specific ranking (4th) and the crucial context regarding the SUS/PNI infrastructure versus the Bolsonaro government's stance."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil's high number of vaccine doses but lacks specific attribution to the SUS/PNI infrastructure and does not explicitly state that Brazil was 4th globally."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

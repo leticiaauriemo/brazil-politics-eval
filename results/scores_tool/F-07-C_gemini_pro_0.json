@@ -1,0 +1,25 @@
+{
+  "question_id": "F-07-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the blocking of X was a court order by Minister Alexandre de Moraes and explains Musk's role in the situation clearly and specifically."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the blockage was a result of a court order by Minister Alexandre de Moraes and explains Elon Musk's role in the situation, including the closure of the Brazilian office to avoid compliance with judicial orders."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

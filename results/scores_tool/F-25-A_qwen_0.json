@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies Romeu Zema as the governor of Minas Gerais and his party affiliation, but incorrectly states he resigned in March 2026 and omits his first election year."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Minas Gerais and mentions the Party affiliation, but it inaccurately states the year he assumed office and the year he renounced the position."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

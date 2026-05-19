@@ -1,0 +1,19 @@
+{
+  "question_id": "F-17-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response states that the Central Bank liquidated Banco Master, which contradicts the ground truth that this event is projected for November 2025 and has not yet occurred."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": null
+}

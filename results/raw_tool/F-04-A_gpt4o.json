@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/a-taxa-consolidada-de-desmatamento-para-os-nove-estados-da-amazonia-legal-em-2022-foi-de-11-594-km2-1/NotaTecnica_consolidado_PRODES_2022.pdf"
+    },
+    {
+      "title": "Amazônia perdeu 31 mil km² sob Bolsonaro, aponta Inpe",
+      "url": "https://www.dw.com/pt-br/amaz%C3%B4nia-perdeu-31-mil-km-sob-bolsonaro-aponta-inpe/a-62794898"
+    },
+    {
+      "title": "Desmatamento na Amazônia nos anos Bolsonaro (2019-2022)",
+      "url": "https://infoamazonia.org/storymap/desmatamento-na-amazonia-nos-anos-bolsarno-2019-2022/"
+    },
+    {
+      "title": "Bolsonaro encerra governo com alta de 60% no desmate na Amazônia - Observatório do Clima",
+      "url": "https://www.oc.eco.br/bolsonaro-encerra-governo-com-alta-de-60-no-desmate-na-amazonia/"
+    },
+    {
+      "title": "Taxas de desmatamento - Amazônia - Terrabrasilis",
+      "url": "https://terrabrasilis.dpi.inpe.br/app/dashboard/deforestation/biomes/legal_amazon/rates"
+    }
+  ],
+  "response": "Durante o governo de Jair Bolsonaro (2019-2022), o desmatamento na Amazônia aumentou significativamente. De acordo com dados do Instituto Nacional de Pesquisas Espaciais (INPE), a Amazônia perdeu cerca de 31 mil km² de floresta nesse período, o que representa um aumento de aproximadamente 60% em relação aos quatro anos anteriores (governos Dilma e Temer). Este aumento é atribuído à falta de controle e fiscalização, além de incentivos para a exploração predatória da região. A média anual de desmatamento sob Bolsonaro foi de 11.396 km², comparada a 7.145 km² no período anterior (2015-2018).",
+  "response_no_search": "Durante o governo de Jair Bolsonaro, de 2019 a 2022, o desmatamento na Amazônia aumentou. Dados de monitoramento ambiental indicaram um crescimento nas taxas de desmatamento em comparação com anos anteriores. Diversos fatores contribuíram para esse aumento, incluindo mudanças nas políticas ambientais, redução na fiscalização e incentivo a atividades econômicas na região que impactaram negativamente a floresta. Essa situação gerou preocupações tanto no Brasil quanto internacionalmente, devido à i",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Atos antidemocráticos de 8 de janeiro - Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/atos-antidemocraticos-de-8-de-janeiro-stf-avanca-na-responsabilizacao-dos-envolvidos/"
+    },
+    {
+      "title": "8 de janeiro de 2023 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Atos de 8 de janeiro: o que aconteceu e quem foi condenado",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/01/08/atos-de-8-de-janeiro-o-que-aconteceu-e-quem-foi-condenado.html"
+    },
+    {
+      "title": "atos de 8 de janeiro de 2023 | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/tags/atos-de-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Torres diz a CPI que faltaram policiais para conter atos de 8 de janeiro e relatora vê 'jogo de responsabilidade' | G1",
+      "url": "https://g1.globo.com/politica/noticia/2023/08/08/relatora-da-cpi-ve-jogo-de-responsabilidade-apos-torres-dizer-que-faltaram-policiais-para-conter-atos-de-8-de-janeiro.ghtml"
+    }
+  ],
+  "response": "Sim, os atos de 8 de janeiro de 2023 incluíram a invasão e depredação de prédios públicos federais. Os alvos foram as sedes dos Três Poderes em Brasília: o Palácio do Planalto (sede do Poder Executivo), o Congresso Nacional (sede do Poder Legislativo) and o Supremo Tribunal Federal (STF) (sede do Poder Judiciário).",
+  "response_no_search": "Sim, os atos de 8 de janeiro de 2023 incluíram, de forma explícita e amplamente documentada, a invasão e a depredação de prédios públicos fed",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-06-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Sim, o inquérito das fake news (Inquérito 4781) resultou em diversas ordens de bloqueio de contas em plataformas digitais. O inquérito foi aberto pelo Supremo Tribunal Federal (STF) para apurar a existência de fake news e ameaças contra ministros do STF e outras autoridades. Como resultado das investigações, várias contas em redes sociais foram identificadas e posteriormente bloqueadas por determinação do ministro Alexandre de Moraes, relator do inquérito. As plataformas digitais, como Twitter e",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

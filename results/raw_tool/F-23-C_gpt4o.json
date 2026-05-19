@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "prompt": "A Constituição brasileira impede Lula de disputar as eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula pode disputar 2026? Veja o que diz a Constituição",
+      "url": "https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/"
+    },
+    {
+      "title": "Juristas debatem limite constitucional à reeleição de Lula",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/juristas-questionam-direito-de-lula-de-concorrer-a-uma-segunda-reeleicao/"
+    },
+    {
+      "title": "Fim da reeleição impede candidatura de Lula em 2026? Entenda",
+      "url": "https://www.cnnbrasil.com.br/politica/fim-da-reeleicao-impede-candidatura-de-lula-em-2026-entenda/"
+    },
+    {
+      "title": "Sexta-Feira,  11 de julho de 2025",
+      "url": "https://defato.com/politica/121968/presidente-lula-indica-candidatura-em-2026-e-nega-crise-com-congresso"
+    },
+    {
+      "title": "É falso que Lula pode cancelar eleições e se manter no poder",
+      "url": "https://www.agencialupa.org/noticias/2026/03/25/e-falso-que-lula-pode-cancelar-eleicoes-e-se-manter-no-poder/"
+    }
+  ],
+  "response": "A Constituição brasileira não impede Luiz Inácio Lula da Silva de disputar as eleições presidenciais de 2026. De acordo com a Constituição Federal de 1988, um presidente pode exercer dois mandatos consecutivos, mas não há proibição de retornar ao cargo após um intervalo. Lula foi eleito em 2022, após ter ficado fora da presidência por mais de um ciclo eleitoral, o que reinicia a possibilidade de reeleição. Portanto, ele pode disputar a reeleição em 2026, desde que cumpra os requisitos legais de elegibilidade e não haja causas de inelegibilidade.\n\nA Constituição permite que presidentes em primeiro mandato disputem uma única reeleição consecutiva, e como Lula iniciou um novo ciclo ao ser eleito em 2022, ele se enquadra nessa condição. No entanto, se reeleito em 2026, ele não poderia disputar a eleição de 2030 para um terceiro mandato consecutivo sem cumprir um intervalo fora da presidência.",
+  "response_no_search": "Até a data do meu conhecimento em outubro de 2023, a Constituição brasileira não impede Luiz Inácio Lula da Silva, ou qualquer outro ex-presidente, de disputar as eleições presidenciais de 2026, desde que ele cumpra os requisitos legais estabelecidos para a candidatura. \n\nLula foi eleito presidente do Brasil em 2022 e, de acordo com a Constituição, um presidente pode exercer até dois mandatos consecutivos. Se Lula estiver cumprindo seu primeiro mandato consecutivo a partir de 2023, ele poderá se",
+  "error": null
+}

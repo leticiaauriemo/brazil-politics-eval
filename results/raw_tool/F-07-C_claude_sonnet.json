@@ -1,0 +1,28 @@
+{
+  "question_id": "F-07-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bloqueio do X no Brasil – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Investiga%C3%A7%C3%A3o_do_Supremo_Tribunal_Federal_do_Brasil_sobre_Elon_Musk"
+    },
+    {
+      "title": "Ellon Musk: bloqueio do Twitter (X) no Brasil incompatível com princípios democráticos - Central Press",
+      "url": "https://centralpress.pt/page/45403/redacao/2024/08/31/ellon-musk-bloqueio-do-twitter-x-no-brasil-incompativel-com-principios-democraticos"
+    },
+    {
+      "title": "X é bloqueado no Brasil após Musk descumprir decisão de Moraes | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/x-e-bloqueado-no-brasil-apos-musk-descumprir-decisao-de-moraes"
+    }
+  ],
+  "response": "O bloqueio do X no Brasil em 2024 foi resultado de uma **ordem judicial**, não de uma decisão de Elon Musk. Veja o resumo do que aconteceu:\n\n---\n\n### 📋 O que levou ao bloqueio?\n\nEm abril de 2024, Elon Musk se posicionou contra as decisões do ministro Alexandre de Moraes, alegando que constituíam censura, e ameaçou reativar perfis de usuários bloqueados pela Justiça. Segundo Musk, os perfis estavam sendo censurados por razões políticas.\n\nMoraes havia determinado a suspensão de perfis acusados de disseminar desinformação e de promover ataques às instituições democráticas.\n\n---\n\n### ⚖️ A decisão judicial\n\nO bloqueio do X no Brasil refere-se à suspensão imediata, completa e integral do funcionamento da X Brasil Internet Ltda. e outras empresas relacionadas a Elon Musk no país, determinada em **30 de agosto de 2024** pelo ministro do STF, Alexandre de Moraes. Tal decisão foi tomada após a empresa ter descontinuado suas operações no Brasil e ter desobedecido várias ordens judiciais, ao não nomear um representante legal dentro do prazo estipulado pelo ministro.\n\nA medida foi tomada após o descumprimento do prazo de 24 horas dado pelo ministro ao bilionário Elon Musk para indicar um representante legal do X no país.\n\n---\n\n### 🏛️ Confirmação pelo STF\n\nA Primeira Turma do Supremo Tribunal Federal confirmou, por unanimidade, a decisão de Moraes de suspender o X por descumprimento de ordens judiciais.\n\n---\n\n### 🔓 Fim do bloqueio\n\nA suspensão do X no Brasil acabou na terça-feira, **8 de outubro de 2024**, após a rede social confirmar que cumpriu todas as ordens judiciais, ter nomeado uma representante legal no Brasil e ter pago uma multa de 28,6 milhões de reais.\n\n---\n\n### 📌 Resumo\n\nO bloqueio foi uma **ordem judicial do ministro Alexandre de Moraes (STF)**, motivada pelo descumprimento reiterado de decisões judiciais por parte do X/Elon Musk. Musk, por sua vez, resistiu inicialmente, classificando as ordens como censura e incompatíveis com princípios democráticos, mas o X acabou cedendo e cumprindo as exigências para ter o acesso restaurado.",
+  "response_no_search": "## Bloqueio do X no Brasil (2024)\n\nO bloqueio foi resultado de uma **ordem judicial**, não de uma decisão de Elon Musk.\n\n### O que aconteceu:\n\n- O ministro **Alexandre de Moraes**, do Supremo Tribunal Federal (STF), determinou a suspensão do X no Brasil em **agosto de 2024**\n- A decisão veio após o X/Twitter **descumprir ordens judiciais** que exigiam a remoção de determinadas contas e conteúdos, além de indicar um representante legal no país\n- O X havia **encerrado seu escritório no Brasil** an",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Brazil as the 4th country globally in total COVID-19 vaccine doses and attributes this performance to its robust vaccination infrastructure (PNI), aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately confirms Brazil's 4th position globally in COVID-19 vaccine doses and attributes the performance to the country's robust vaccination infrastructure."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

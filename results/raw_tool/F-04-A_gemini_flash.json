@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Desmatamento na Amazônia nos anos Bolsonaro (2019-2022)",
+      "url": "https://infoamazonia.org/storymap/desmatamento-na-amazonia-nos-anos-bolsarno-2019-2022/"
+    },
+    {
+      "title": "Amazônia perdeu 31 mil km² sob Bolsonaro, aponta Inpe",
+      "url": "https://www.dw.com/pt-br/amaz%C3%B4nia-perdeu-31-mil-km-sob-bolsonaro-aponta-inpe/a-62794898"
+    },
+    {
+      "title": "",
+      "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/a-taxa-consolidada-de-desmatamento-para-os-nove-estados-da-amazonia-legal-em-2022-foi-de-11-594-km2-1/NotaTecnica_consolidado_PRODES_2022.pdf"
+    },
+    {
+      "title": "Bolsonaro encerra governo com alta de 60% no desmate na Amazônia - Observatório do Clima",
+      "url": "https://www.oc.eco.br/bolsonaro-encerra-governo-com-alta-de-60-no-desmate-na-amazonia/"
+    },
+    {
+      "title": "Desmatamento na Amazônia cresceu 56,6% sob governo Bolsonaro - IPAM Amazônia",
+      "url": "https://ipam.org.br/desmatamento-na-amazonia-cresceu-566-sob-governo-bolsonaro/"
+    }
+  ],
+  "response": "Durante o governo Bolsonaro (2019-2022), o desmatamento na Amazônia **aumentou significativamente**.\n\nDe acordo com dados do Instituto Nacional de Pesquisas Espaciais (Inpe) e análises de organizações como o Observatório do Clima e o IPAM Amazônia:\n\n*   O desmatamento acumulado na Amazônia de janeiro de 2019 a julho de 2022 atingiu **31 mil km²**.\n*   A média anual de desmatamento sob Bolsonaro foi de **11.396 km²**, em comparação com 7.145 km² no período anterior (2015-2018).\n*   O Observatório do Clima aponta um aumento de **59,5%** na taxa de desmatamento em relação aos quatro anos anteriores.\n*   O IPAM Amazônia indica um crescimento de **56,6%** no desmatamento entre agosto de 2018 e julho de 2021, comparado ao mesmo período de 2015 a 2018.\n*   Houve recordes de desmatamento mensal em diversos períodos, e as três maiores taxas de desmatamento anual da série histórica do Deter (sistema de monitoramento do Inpe) ocorreram durante esse governo.\n\nAmbientalistas atribuem esse aumento à falta de controle e fiscalização, ao enfraquecimento de órgãos ambientais e a incentivos para a exploração predatória da região.",
+  "response_no_search": "Durante o governo Bolsonaro (2019-2022), o desmatamento na Amazônia **aumentou significativamente**.\n\nDiversos órgãos e instituições, tanto nacionais quanto internacionais, registraram esse aumento. Os dados do Instituto Nacional de Pesquisas Espaciais (INPE), por meio do sistema PRODES (Projeto de Monitoramento do Desmatamento na Amazônia Legal por Satélite), são a principal referência e mostram essa tendência de alta.\n\nAqui estão alguns pontos chave:\n\n*   **Recordes de desmatamento:** O períod",
+  "error": null
+}

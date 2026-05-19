@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Brazil had a high number of doses applied but omits the crucial context of its global ranking (4th) and the attribution to SUS/PNI infrastructure versus the Bolsonaro government's stance."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms Brazil's high vaccination numbers but does not attribute the performance to the SUS/PNI infrastructure or mention the government's initial resistance."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-01-B",
+  "model": "llama4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "prompt": "As condenações de Lula foram anuladas porque o STF concluiu que ele era inocente?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "Não. As condenações de Lula foram anuladas porque o STF entendeu que o juiz Sergio Moro agiu com parcialidade e que a vara da qual ele fazia parte não era competente para julgar o caso. O STF não fez uma análise do mérito das condenações, ou seja, não avaliou se Lula era inocente ou culpado. A decisão do STF foi baseada em questões processuais e não em uma reavaliação das provas ou da culpa de Lula.",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

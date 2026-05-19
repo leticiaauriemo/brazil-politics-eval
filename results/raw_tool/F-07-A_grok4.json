@@ -1,0 +1,28 @@
+{
+  "question_id": "F-07-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://en.wikipedia.org/wiki/Blocking_of_X_in_Brazil"
+    },
+    {
+      "title": "2",
+      "url": "https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil"
+    },
+    {
+      "title": "3",
+      "url": "https://www.aljazeera.com/economy/2024/10/9/brazil-lifts-ban-on-elon-musks-x-platform"
+    }
+  ],
+  "response": "**Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024, de forma temporária.**[[1]](https://en.wikipedia.org/wiki/Blocking_of_X_in_Brazil)\n\nO bloqueio foi determinado pelo ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes em 30 de agosto de 2024, após o X descumprir ordens judiciais, como a nomeação de um representante legal no país e a suspensão de contas associadas a desinformação e ataques antidemocráticos. A Anatel e as operadoras de internet começaram a implementar o bloqueio a partir de 31 de agosto de 2024.[[2]](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil)\n\nO bloqueio durou cerca de 39 dias e foi suspenso em 8 de outubro de 2024, após o X pagar multas (cerca de US$ 5,2 milhões), nomear um representante legal no Brasil e cumprir as determinações judiciais de remoção de contas.[[3]](https://www.aljazeera.com/economy/2024/10/9/brazil-lifts-ban-on-elon-musks-x-platform)\n\nDurante o período, houve multas diárias de R$ 50 mil para quem usasse VPN para burlar o bloqueio, e o caso gerou grande repercussão internacional, envolvendo Elon Musk e questões de liberdade de expressão versus regulação judicial. O acesso foi restabelecido normalmente após a decisão do STF.",
+  "response_no_search": "Sim, o acesso à plataforma X (antigo Twitter) foi bloqueado no Brasil em 2024. Aqui vai um resumo rápido e factual do que aconteceu:\n\n### Contexto:\n- Em 30 de agosto de 2024, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a suspensão das operações da X no Brasil.\n- A decisão veio após uma disputa entre Elon Musk (dono da X) e autoridades brasileiras. A plataforma não cumpriu ordens judiciais para remover conteúdos considerados ilegais, como discursos de ódio, desin",
+  "error": null
+}

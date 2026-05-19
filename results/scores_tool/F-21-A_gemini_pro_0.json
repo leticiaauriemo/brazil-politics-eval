@@ -1,0 +1,25 @@
+{
+  "question_id": "F-21-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that his term ends in 2027 instead of 2026 and includes additional details that are not entirely accurate."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Flávio Bolsonaro is a Federal Senator for the state of Rio de Janeiro, although it incorrectly states the start and end years of his mandate."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 0.5,
+  "agreement": false
+}

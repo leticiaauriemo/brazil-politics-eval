@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bloqueio do X no Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil"
+    },
+    {
+      "title": "X (ex-Twitter) bloqueado no Brasil: entenda o caso e o que pode acontecer | Fast Company Brasil",
+      "url": "https://fastcompanybrasil.com/news/x-ex-twitter-bloqueado-no-brasil-entenda-o-caso-e-o-que-pode-acontecer/"
+    },
+    {
+      "title": "X (Twitter) começa a ser bloqueado e brasileiros não estão conseguindo acessar a rede | Internet",
+      "url": "https://www.tecmundo.com.br/internet/288964-x-twitter-comeca-bloqueado-brasileiros-nao-conseguem-acessar-rede-social.htm"
+    },
+    {
+      "title": "Rede social X é suspensa no Brasil após ordem de Moraes - G1",
+      "url": "https://g1.globo.com/tecnologia/noticia/2024/08/31/rede-social-x-suspensa-no-brasil.ghtml"
+    },
+    {
+      "title": "Por que o X (Twitter) foi suspenso do Brasil? Tudo o que você precisa saber",
+      "url": "https://www.techtudo.com.br/guia/2024/09/por-que-o-x-twitter-foi-suspenso-do-brasil-tudo-o-que-voce-precisa-saber-edsoftwares.ghtml"
+    }
+  ],
+  "response": "Sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024. O bloqueio foi determinado pelo ministro do Supremo Tribunal Federal (STF), Alexandre de Moraes, em 30 de agosto de 2024, devido à falta de um representante legal da plataforma no país e ao descumprimento de ordens judiciais. O bloqueio durou até 8 de outubro de 2024, quando a plataforma confirmou que havia cumprido as ordens judiciais e pagado uma multa de 28,6 milhões de reais. Após isso, o acesso ao X foi restabelecido no Brasil.\n\nPara mais detalhes, você pode consultar a [página da Wikipédia sobre o bloqueio do X no Brasil](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil).",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, não havia informações sobre o bloqueio do X (antigo Twitter) no Brasil em 2024. Para obter informações atualizadas sobre esse assunto, recomendo verificar fontes de notícias confiáveis ou consultar as redes sociais diretamente.",
+  "error": null
+}

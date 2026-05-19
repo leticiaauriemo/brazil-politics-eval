@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "STF confirma anulação de condenações da Lava Jato contra Lula — entenda - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56768338"
+    },
+    {
+      "title": "Após STF anular processos da Lava Jato, Lula foi inocentado ou não? Entenda",
+      "url": "https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    }
+  ],
+  "response": "As condenações do ex-presidente Luiz Inácio Lula da Silva na Operação Lava Jato foram anuladas pelo Supremo Tribunal Federal (STF) em 2021. Essa decisão foi baseada em questões processuais, como a incompetência da 13ª Vara Federal de Curitiba para julgar os casos e a parcialidade do então juiz Sergio Moro. O STF não analisou o mérito das acusações, ou seja, não declarou Lula inocente em relação aos crimes de corrupção e lavagem de dinheiro pelos quais ele havia sido condenado. \n\nPortanto, embora Lula tenha recuperado o status de inocente perante a lei devido à anulação dos processos, não é correto afirmar que ele foi \"inocentado\" pela Justiça, pois não houve uma análise definitiva sobre sua culpa ou inocência nos casos. A decisão do STF foi técnica, focada em irregularidades processuais, e não uma absolvição formal.",
+  "response_no_search": "Sim, Luiz Inácio Lula da Silva foi inocentado das acusações de corrupção relacionadas à Operação Lava Jato. Em março de 2021, o Supremo Tribunal Federal (STF) anulou as condenações de Lula nos processos da Lava Jato, com base no entendimento de que o ex-juiz Sérgio Moro, que conduziu os casos, não era competente para julgar as ações, pois não havia conexão comprovada com o estado do Paraná, onde Moro atuava. Além disso, o STF considerou que Moro agiu com parcialidade, o que violou o direito de L",
+  "error": null
+}

@@ -1,0 +1,15 @@
+{
+  "question_id": "F-21-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Flávio Bolsonaro é atualmente SENADOR.**  \n\nAqui estão os detalhes:  \n1. **Cargo atual:** Senador da República pelo estado do Rio de Janeiro.  \n2. **Mandato:** Eleito em 2018, com início em fevereiro de 2019 e término em fevereiro de 2027.  \n3. **Histórico anterior:**  \n   - Foi **Deputado Estadual** no Rio de Janeiro (2003–2019).  \n   - **Nunca foi Deputado Federal** (cargo na Câmara dos Deputados em Brasília).  \n\n### Resumo:  \n| Cargo               | Período           |  \n|------------------",
+  "error": "Error code: 500 - {'error': {'message': 'Internal Server Error', 'code': 500}}"
+}

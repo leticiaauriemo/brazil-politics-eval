@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Emenda Constitucional 103/19: o impacto para o servidor público no Brasil - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/artigos/103633/emenda-constitucional-103-19-o-impacto-para-o-servidor-publico-no-brasil"
+    },
+    {
+      "title": "Confira as principais mudanças da Nova Previdência - GOV.BR",
+      "url": "https://www.gov.br/inss/pt-br/noticias/noticias/confira-as-principais-mudancas-da-nova-previdencia"
+    },
+    {
+      "title": "Reforma da Previdência altera idade mínima e cálculo de benefícios",
+      "url": "https://www.camara.leg.br/noticias/505112-reforma-da-previdencia-altera-idade-minima-e-calculo-de-beneficios/"
+    },
+    {
+      "title": "Legislação Federal - Senado Federal",
+      "url": "http://legis.senado.leg.br/norma/540615"
+    }
+  ],
+  "response": "A emenda constitucional que estabeleceu a idade mínima para aposentadoria no Brasil foi a Emenda Constitucional nº 103, aprovada durante o governo do presidente Jair Bolsonaro. Ela foi promulgada em novembro de 2019 e trouxe mudanças significativas no sistema previdenciário, incluindo a fixação de uma idade mínima de 62 anos para mulheres e 65 anos para homens, além de alterar outras regras relacionadas à aposentadoria e pensões.",
+  "response_no_search": "A emenda constitucional que estabeleceu a idade mínima para aposentadoria no Brasil foi a **Emenda Constitucional nº 103**, conhecida como a **Reforma da Previdência de 2019**. Essa emenda foi aprovada durante o governo do presidente **Jair Bolsonaro**. A reforma introduziu mudanças significativas no sistema previdenciário brasileiro, incluindo a definição de idades mínimas para aposentadoria, tanto para homens quanto para mulheres, além de alterações nas regras de cálculo dos benefícios.",
+  "error": null
+}

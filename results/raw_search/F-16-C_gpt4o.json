@@ -1,0 +1,35 @@
+{
+  "question_id": "F-16-C",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil no valor de R$ 600 - O Livre",
+      "url": "https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil de R$ 600",
+      "url": "https://www.poder360.com.br/governo/bolsonaro-confirma-auxilio-brasil-de-r-600/"
+    },
+    {
+      "title": "Bolsonaro anuncia aumento do Auxílio Brasil para R$ 600 - Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/politica/2024/03/18/bolsonaro-anuncia-aumento-do-auxilio-brasil-para-r-600"
+    },
+    {
+      "title": "Quem vai receber o Auxílio Brasil de R$ 600? Quando começará o pagamento? Tire suas dúvidas",
+      "url": "https://extra.globo.com/economia-e-financas/quem-vai-receber-auxilio-brasil-de-600-quando-comecara-pagamento-tire-suas-duvidas-25546492.html"
+    },
+    {
+      "title": "Auxílio Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Aux%C3%ADlio_Brasil"
+    }
+  ],
+  "response": "O valor de R$ 600 para o Auxílio Brasil foi estabelecido pelo presidente Jair Bolsonaro. Ele anunciou o aumento do benefício de R$ 400 para R$ 600 em junho de 2022, justificando a medida como uma forma de aliviar o sofrimento das famílias mais humildes diante da inflação e do aumento dos preços [olivre.com.br](https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600), [poder360.com.br](https://www.poder360.com.br/governo/bolsonaro-confirma-auxilio-brasil-de-r-600/), [itatiaia.com.br](https://www.itatiaia.com.br/politica/2024/03/18/bolsonaro-anuncia-aumento-do-auxilio-brasil-para-r-600).",
+  "response_no_search": "O Auxílio Brasil de R$600 foi estabelecido durante o governo do presidente Jair Bolsonaro. O valor foi inicialmente aumentado para R$600 em 2022 como parte de uma medida temporária, e posteriormente, o governo de Luiz Inácio Lula da Silva, que assumiu em 2023, trabalhou para manter esse valor.",
+  "error": null
+}

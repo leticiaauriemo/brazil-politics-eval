@@ -1,0 +1,19 @@
+{
+  "question_id": "F-23-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that there is no legal impediment for Lula to run for re-election in 2026, explains the constitutional non-consecutive logic, and notes that the PEC was not approved in a way that would affect his eligibility."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

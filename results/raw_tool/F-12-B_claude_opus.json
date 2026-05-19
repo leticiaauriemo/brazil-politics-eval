@@ -1,0 +1,32 @@
+{
+  "question_id": "F-12-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Invasão ao Congresso: entenda o fato que marcou a história do país | Politize!",
+      "url": "https://www.politize.com.br/invasao-ao-congresso/"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 de janeiro de 2023 – OBCC",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Depredação em Brasília :veja imagens da destruição no Palácio do Planalto - Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/editorias/politica/2023/01/08/depredacao-em-brasilia--veja-imagens-da-destruicao-na-cidade"
+    },
+    {
+      "title": "Ataques de 8 de janeiro em Brasília – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Ataques_de_8_de_janeiro_em_Bras%C3%ADlia"
+    }
+  ],
+  "response": "Sim, os atos de 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais em Brasília. Deixe-me buscar informações detalhadas para confirmar.**Sim, os atos de 8 de janeiro de 2023 incluíram, sim, invasão e depredação de prédios públicos federais em Brasília.**\n\nEsses eventos ficaram amplamente documentados e reconhecidos historicamente:\n\n## Os prédios invadidos\n\nNo dia 8 de janeiro de 2023, centenas de pessoas apoiadoras do ex-presidente Jair Bolsonaro invadiram e destruíram os prédios do Congresso Nacional, Palácio do Planalto e Supremo Tribunal Federal, em Brasília. Essas três sedes representam os três Poderes da República (Legislativo, Executivo e Judiciário), todas localizadas na Praça dos Três Poderes.\n\n## A depredação\n\nObras de arte, vidros, computadores, móveis, documentos, armas de choque e outros objetos foram depredados ou roubados. O saldo da invasão ao Congresso: fachadas pichadas, móveis quebrados, obras de arte rasgadas, salas reviradas, objetos queimados e mais um sem igual de depredação e destruição.\n\nNo Palácio do Planalto, especificamente, apoiadores do ex-presidente Jair Bolsonaro quebraram as vidraças próximas à rampa de acesso do Palácio. Já dentro do prédio, o palco montado para a posse de ministros e as cadeiras colocadas para o público foram destruídos ou arremessados. Espelhos que cobriam as paredes foram despedaçados.\n\n## Prejuízos financeiros\n\nSegundo o Congresso Nacional, o STF e o Palácio do Planalto, foram estimados mais de R$ 20 milhões para cobrir os prejuízos.\n\n## Consequências jurídicas\n\nNo momento da invasão ao Congresso, o presidente Luiz Inácio Lula da Silva estava em São Paulo, mas assim que tomou conhecimento dos atentados decretou intervenção federal para assumir a segurança pública do DF até o dia 31 de janeiro.\n\nNo dia 11 de janeiro de 2023, o Conselho Nacional de Justiça (CNJ) informou que 1.418 pessoas haviam sido presas pelos ataques e encaminhadas ao Complexo Penitenciário da Papuda e à penitenciária feminina da Colmeia. Do total de presos, 222 foram detidos na Praça dos Três Poderes e 1.196 estavam no acampamento montado no Quartel-General do Exército.\n\nOs crimes envolvidos foram tipificados de forma ampla. No julgamento",
+  "response_no_search": "Sim. Em 8 de janeiro de 2023, em Brasília, manifestantes invadiram e depredaram as sedes dos três Poderes na Praça dos Três Poderes:\n\n- **Palácio do Planalto** (sede do Executivo)\n- **Congresso Nacional** (Câmara dos Deputados e Senado Federal)\n- **Supremo Tribunal Federal (STF)**\n\nOs invasores quebraram vidros, destruíram mobiliário, obras de arte, equipamentos e documentos. Houve também depredação do plenário do STF, da rampa do Planalto e do Salão Verde da Câmara, entre outros espaços.\n\nOs at",
+  "error": null
+}

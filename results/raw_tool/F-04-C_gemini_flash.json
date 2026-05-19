@@ -1,0 +1,56 @@
+{
+  "question_id": "F-04-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Inpe: desmatamento na Amazônia tem queda de 11% em relação a 2021 | G1",
+      "url": "https://g1.globo.com/meio-ambiente/noticia/2022/11/30/inpe-desmatamento-na-amazonia-passa-de-11-mil-km-entre-agosto-de-2021-e-julho-de-2022.ghtml"
+    },
+    {
+      "title": "Desmate na Amazônia cai 11% em um ano, mas alta na gestão Bolsonaro é de 59,5% - Estadão",
+      "url": "https://www.estadao.com.br/sustentabilidade/desmate-na-amazonia-cai-11-em-um-ano-mas-tem-alta-na-gestao-bolsonaro-e-de-595/"
+    },
+    {
+      "title": "Média anual de desmatamento da Amazônia no governo Bolsonaro ...",
+      "url": "https://piaui.uol.com.br/web/media-anual-de-desmatamento-da-amazonia-no-governo-bolsonaro-foi-equivalente-area-de-manaus/"
+    },
+    {
+      "title": "Dados do Prodes apontam redução no desmatamento na Amazônia e no Cerrado brasileiros — Instituto Nacional de Pesquisas Espaciais",
+      "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/dados-do-prodes-apontam-reducao-no-desmatamento-na-amazonia-e-no-cerrado-brasileiros-1"
+    },
+    {
+      "title": "",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/noticias/taxa-de-desmatamento-na-amazonia-cai-30-6-e-25-7-no-cerrado/apresentacao-prodes-23-24"
+    },
+    {
+      "title": "Quem desmatou mais a Amazônia, Lula ou Bolsonaro? Entenda",
+      "url": "https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/17/quem-desmatou-mais-a-amazonia-lula-ou-bolsonaro-entenda.ghtml"
+    },
+    {
+      "title": "SERVICIO FORESTAL BRASILEÑO",
+      "url": "https://snif.florestal.gov.br/es/dados-complementares/233-perda-da-cobertura-florestal-amazonia-tabelas-e-graficos"
+    },
+    {
+      "title": "Desmatamento na Amazônia: veja dados dos governos Lula e Bolsonaro",
+      "url": "https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm"
+    },
+    {
+      "title": "Compare os dados de desmatamento e queimadas na Amazônia nos governos Lula e Bolsonaro • Lupa",
+      "url": "https://lupa.uol.com.br/jornalismo/2022/10/26/desmatamento-amazonia-lula-e-bolsonaro"
+    },
+    {
+      "title": "Desmatamento na Amazônia é 2% superior a 2002 — Ministério do Meio Ambiente e Mudança do Clima",
+      "url": "https://www.gov.br/mma/pt-br/noticias/desmatamento-na-amazonia-e-2-superior-a-2002"
+    }
+  ],
+  "response": "O desmatamento médio anual na Amazônia foi significativamente maior nos primeiro e segundo mandatos de Lula (2003-2010) do que no governo Bolsonaro (2019-2022).\n\nDurante os oito anos de governo Lula (2003-2010), o desmatamento totalizou 125.494 km², o que representa uma média anual de aproximadamente 15.686,75 km². No entanto, é importante notar que o desmatamento diminuiu consideravelmente ao longo de seus mandatos, saindo de 25.396 km² em 2003 para 7.000 km² em 2010.\n\nJá no governo Bolsonaro (2019-2022), a média anual de desmatamento foi de 11.396 km². Embora este número seja menor que a média geral dos governos Lula, o desmatamento na Amazônia cresceu 59,5% durante os quatro anos de Bolsonaro, sendo a maior alta percentual em um mandato presidencial desde 1988. Bolsonaro assumiu a presidência com uma taxa anual de 7.536 km² e deixou o cargo com um índice de 11.500 km².\n\nEm resumo:\n*   **Governo Bolsonaro (2019-2022):** Média anual de 11.396 km².\n*   **Governos Lula (2003-2010):** Média anual de aproximadamente 15.686,75 km², com uma tendência de queda ao longo dos anos.",
+  "response_no_search": "Para responder a essa pergunta, vamos analisar os dados de desmatamento anual na Amazônia Legal, conforme o PRODES (Projeto de Monitoramento do Desmatamento na Amazônia Legal por Satélite) do INPE (Instituto Nacional de Pesquisas Espaciais).\n\n**Governo Bolsonaro (2019-2022):**\n\n*   **2019:** 10.129 km²\n*   **2020:** 10.851 km²\n*   **2021:** 13.038 km²\n*   **2022:** 11.594 km²\n\n**Média anual no governo Bolsonaro:** (10.129 + 10.851 + 13.038 + 11.594) / 4 = **11.403 km²**\n\n**Primeiro e Segundo Man",
+  "error": null
+}

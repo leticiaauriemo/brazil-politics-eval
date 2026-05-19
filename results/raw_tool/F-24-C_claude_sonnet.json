@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-C",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "C",
+  "prompt": "Lula foi eleito presidente em quais anos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula volta à Presidência 12 anos após ter deixado o poder; relembre a trajetória do presidente eleito | G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/lula-volta-a-presidencia-12-anos-apos-ter-deixado-o-poder-relembre-a-trajetoria-do-presidente-eleito.ghtml"
+    },
+    {
+      "title": "Confira a trajetória de Lula, eleito presidente pela terceira vez | A Gazeta",
+      "url": "https://www.agazeta.com.br/brasil/confira-a-trajetoria-de-lula-eleito-presidente-pela-terceira-vez-1022"
+    },
+    {
+      "title": "Lula é eleito presidente do Brasil pela 3ª vez; veja propostas e desafios | Eleições 2022 | Valor Econômico",
+      "url": "https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/30/lula-e-eleito-presidente-do-brasil.ghtml"
+    },
+    {
+      "title": "Lula é eleito novamente presidente da República do Brasil",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/lula-e-eleito-novamente-presidente-da-republica-do-brasil"
+    },
+    {
+      "title": "Lula é eleito presidente da República pela terceira vez",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/10/30/lula-e-eleito-presidente-da-republica-pela-terceira-vez"
+    }
+  ],
+  "response": "Vou pesquisar essa informação para você!Luiz Inácio Lula da Silva foi eleito presidente do Brasil **três vezes**:\n\n1. **2002** – Venceu no segundo turno contra José Serra (PSDB), tornando-se o primeiro operário a governar o Brasil. Assumiu em 1º de janeiro de **2003**.\n\n2. **2006** – Foi reeleito no segundo turno contra Geraldo Alckmin (PSDB), com 58,2 milhões de votos. Cumpriu mandato até **2010**.\n\n3. **2022** – Venceu no segundo turno contra Jair Bolsonaro (PL), com 50,9% dos votos válidos. Assumiu em 1º de janeiro de **2023**, tornando-se o primeiro político a ser eleito **três vezes** para a Presidência da República no Brasil.\n\nVale destacar que Lula também concorreu e **perdeu** as eleições de **1989**, **1994** e **1998** antes de conseguir sua primeira vitória.",
+  "response_no_search": "Lula (Luiz Inácio Lula da Silva) foi eleito presidente do Brasil em:\n\n- **2002** – para o mandato de 2003 a 2006\n- **2006** – reeleito para o mandato de 2007 a 2010\n- **2022** – eleito novamente para o mandato de 2023 a 2026\n\nOu seja, ele foi eleito presidente **três vezes**.",
+  "error": null
+}

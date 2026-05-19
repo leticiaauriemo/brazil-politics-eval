@@ -1,0 +1,25 @@
+{
+  "question_id": "F-02-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the conviction is final as of November 25, 2025, and correctly explains that no further appeals can suspend the execution of the sentence."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states the conviction is final, providing the specific date of November 25, 2025, and implies that no suspensive appeals are pending, allowing for the execution of the penalty."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

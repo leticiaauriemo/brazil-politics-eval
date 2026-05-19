@@ -1,0 +1,24 @@
+{
+  "question_id": "F-05-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "C",
+  "prompt": "Em qual ano e em qual governo o Bolsa Família foi lançado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia"
+    },
+    {
+      "title": "2",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/bolsa-familia-completa-22-anos-uma-politica-publica-consolidada-e-um-futuro-com-mais-oportunidades"
+    }
+  ],
+  "response": "**O Bolsa Família foi lançado em 2003, durante o primeiro governo de Luiz Inácio Lula da Silva (PT).**[[1]](https://pt.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)\n\nEle foi instituído por meio de Medida Provisória em outubro de 2003 e unificou programas anteriores (como Bolsa Escola, Bolsa Alimentação e Cartão Alimentação), que existiam desde o governo Fernando Henrique Cardoso. O programa foi consolidado como uma política federal de transferência de renda condicionada no Ministério do Desenvolvimento Social.[[2]](https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/bolsa-familia-completa-22-anos-uma-politica-publica-consolidada-e-um-futuro-com-mais-oportunidades)\n\nFontes oficiais e históricas, incluindo a Wikipédia e sites do governo, confirmam consistentemente essa data e autoria.",
+  "response_no_search": "O Bolsa Família foi lançado em outubro de 2003, durante o primeiro mandato do presidente Luiz Inácio Lula da Silva (PT), que assumiu o cargo em janeiro daquele ano. O programa unificou e expandiu iniciativas anteriores de transferência de renda, como o Bolsa Escola e o Bolsa Alimentação, com o objetivo de combater a pobreza e a fome no Brasil.",
+  "error": null
+}

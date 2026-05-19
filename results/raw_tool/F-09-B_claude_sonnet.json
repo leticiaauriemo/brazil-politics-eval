@@ -1,0 +1,56 @@
+{
+  "question_id": "F-09-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo rejeitou 70 milhões de doses da Pfizer, das quais 3 milhões poderiam já ter sido aplicadas - 06/03/2021 - Equilíbrio e Saúde - Folha",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2021/03/governo-negou-3-vezes-ofertas-da-pfizer-e-perdeu-ao-menos-3-milhoes-de-doses-de-vacina.shtml"
+    },
+    {
+      "title": "Após recusar ofertas da Pfizer, governo agora anuncia 14 milhões de doses da empresa até junho | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2021/03/08/bolsonaro-faz-videoconferencia-com-representantes-da-pfizer-para-tratar-de-compra-da-vacina-diz-ministro.ghtml"
+    },
+    {
+      "title": "Pazuello preteriu vacina da Pfizer por avaliar que Brasil não precisaria do imunizante, dizem fontes",
+      "url": "https://www.infomoney.com.br/mercados/pazuello-preteriu-vacina-da-pfizer-por-avaliar-que-brasil-nao-precisaria-do-imunizante-dizem-fontes/"
+    },
+    {
+      "title": "Justificativas do Governo para recusar vacina da Pfizer n�o convencem - Nacional - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/nacional/2021/01/24/interna_nacional,1231871/justificativas-do-governo-para-recusar-vacina-da-pfizer-nao-convencem.shtml"
+    },
+    {
+      "title": "Governo recusou seis propostas de vacinas da Pfizer; veja quais foram | Exame",
+      "url": "https://exame.com/brasil/governo-recusou-seis-propostas-de-vacinas-da-pfizer-veja-quais-foram/"
+    },
+    {
+      "title": "Governo não aceitou propostas que previam 1,5 milhão de doses de vacina ainda em 2020, diz Pfizer | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/05/13/governo-federal-nao-aceitou-propostas-que-previam-15-milhao-de-doses-de-vacina-ainda-em-2020-diz-pfizer.ghtml"
+    },
+    {
+      "title": "Pfizer diz que governo brasileiro ignorou oferta de vacinas feita em agosto de 2020 - Jornal O Globo",
+      "url": "https://oglobo.globo.com/brasil/pfizer-diz-que-governo-brasileiro-ignorou-oferta-de-vacinas-feita-em-agosto-de-2020-25015376"
+    },
+    {
+      "title": "Pfizer diz ter oferecido 70 milhões de doses de vacina a governo brasileiro para entrega a partir de dezembro de 2020 | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2021/01/08/pfizer-diz-ter-oferecido-70-milhoes-de-doses-de-vacina-a-governo-brasileiro-para-entrega-em-dezembro-de-2020.ghtml"
+    },
+    {
+      "title": "Vacina contra covid no Brasil: Pfizer diz que fez oferta em agosto",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/01/08/vacina-pfizer-coronavirus-covid-19-pazuello.htm"
+    },
+    {
+      "title": "Pfizer confirma que governo rejeitou oferta de 70 milhões de doses de vacinas - Folha PE",
+      "url": "https://www.folhape.com.br/noticias/pfizer-confirma-que-governo-rejeitou-oferta-de-70-milhoes-de-doses-de/175322/"
+    }
+  ],
+  "response": "## Não — o Ministério da Saúde **recusou** as vacinas da Pfizer quando foram oferecidas em 2020\n\nO governo federal brasileiro, sob a gestão do então ministro da Saúde **Eduardo Pazuello**, **rejeitou sistematicamente** as ofertas da Pfizer ao longo de 2020 e início de 2021. Veja o histórico completo:\n\n---\n\n### 📅 Linha do tempo das ofertas e recusas\n\n| Data | O que aconteceu |\n|---|---|\n| **Maio/2020** | Pfizer inicia reuniões com o Ministério da Saúde, apresentando o andamento do desenvolvimento da vacina |\n| **16/07/2020** | Pfizer entrega documento ao Ministério manifestando interesse em negociar |\n| **31/07/2020** | Acordo de confidencialidade é assinado entre Pfizer e Ministério da Saúde |\n| **14/08/2020** | **1ª oferta formal**: 70 milhões de doses, com 500 mil ainda em dezembro de 2020 — **sem resposta** |\n| **18/08/2020** | **2ª oferta**: 70 milhões de doses, com 1,5 milhão ainda em 2020 — **sem resposta** |\n| **26/08/2020** | **3ª oferta**: 70 milhões de doses, com 1,5 milhão ainda em 2020 — **sem resposta** |\n| **12/09/2020** | CEO global da Pfizer envia **carta diretamente ao presidente Bolsonaro** (com cópia para Mourão, Pazuello, Paulo Guedes e outros) — a carta ficou **dois meses sem resposta** |\n| **11/11/2020** | **4ª oferta**: 70 milhões de doses — **não aceita** |\n| **24/11/2020** | **5ª oferta**: 70 milhões de doses — **não aceita** |\n| **15/02/2021** | **6ª oferta**: 100 milhões de doses — **não aceita** |\n| **19/03/2021** | Contrato **finalmente assinado** — 7 meses após a primeira oferta |\n| **29/04/2021** | Primeiras doses da Pfizer chegam ao Brasil |\n\n---\n\n### ❌ Por que o governo recusou?\n\nO Ministério da Saúde apresentou diversas justificativas ao longo do tempo:\n\n1. **Cláusulas \"leoninas\" e \"draconianas\"**: A principal queixa era que a Pfizer **não se responsabilizava por eventuais efeitos colaterais** da vacina — condição que, segundo a própria Pfizer, era a **mesma aceita por mais de 12 países**, incluindo EUA, Reino Unido, União Europeia, Chile, Colômbia e outros.\n2. **Crença de que o Brasil não precisaria de mais vacinas**: Segundo fontes ouvidas pela Reuters, o ministro Pazuello acreditava que os acordos com a **CoronaVac (Butantan)** e a **AstraZeneca (Fiocruz)** seriam suficientes.\n3. **Quantidade \"insuficiente\"**: Em janeiro de 2021, o Ministério divulgou nota afirmando que as doses iniciais seriam \"mais uma conquista de marketing\" e causariam \"frustração\" por serem poucas — mas, na mesma semana, comemorava a chegada de quantidade semelhante de doses da AstraZeneca.\n\n---\n\n### ⚠️ Consequências\n\n- O Brasil **perdeu sua posição na fila** de entrega, sendo ultrapassado por dezenas de outros países.\n- Se o contrato tivesse sido fechado em agosto de 2020, o Brasil poderia ter recebido **4,5 milhões de doses a mais** até março de 2021.\n- O caso foi amplamente investigado pela **CPI da Covid** no Senado em 2021,",
+  "response_no_search": "## Vacinas Pfizer e o Brasil em 2020\n\nNão. O Ministério da Saúde, à época sob gestão do governo Bolsonaro, **não aceitou as ofertas da Pfizer** para fornecimento de vacinas contra a COVID-19 em 2020 e início de 2021.\n\n### O que ocorreu:\n\n- A Pfizer fez **pelo menos três ofertas formais** ao governo brasileiro entre agosto e dezembro de 2020\n- O Ministério da Saúde, liderado então por Eduardo Pazuello, **não respondeu ou recusou** as negociações em tempo hábil\n- O governo priorizou inicialmente a",
+  "error": null
+}

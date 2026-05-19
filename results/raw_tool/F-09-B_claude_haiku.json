@@ -1,0 +1,56 @@
+{
+  "question_id": "F-09-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério confirma memorando com a Pfizer para aquisição de 70 milhões de doses da vacina - Estadão",
+      "url": "https://www.estadao.com.br/saude/ministerio-confirma-memorando-com-a-pfizer-para-aquisicao-de-70-milhoes-de-doses-da-vacina/"
+    },
+    {
+      "title": "Covid-19: Brasil assina memorando com Pfizer, afirma Ministério | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-12/covid-19-brasil-assina-memorando-com-pfizer-afirma-ministerio"
+    },
+    {
+      "title": "Governo negocia compra de 70 milhões de doses de vacina da Pfizer, diz Ministério da Saúde | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2020/12/07/vacina-contra-covid-ministerio-da-saude-diz-que-deve-assinar-nesta-semana-intencao-de-compra-de-70-milhoes-de-doses.ghtml"
+    },
+    {
+      "title": "Ministério da Saúde já assinou memorando para compra de vacina da Pfizer",
+      "url": "https://www.correiobraziliense.com.br/brasil/2020/12/4894237-ministerio-da-saude-ja-assinou-memorando-para-compra-de-vacina-da-pfizer.html"
+    },
+    {
+      "title": "Brasil assina memorando para compra de 70 milhões de doses da vacina da Pfizer",
+      "url": "https://www.poder360.com.br/coronavirus/brasil-assina-memorando-para-compra-de-70-milhoes-de-doses-da-vacina-da-pfizer/.modal-box--author"
+    },
+    {
+      "title": "Pfizer diz que governo brasileiro ignorou oferta de vacinas feita em agosto de 2020 - Jornal O Globo",
+      "url": "https://oglobo.globo.com/brasil/pfizer-diz-que-governo-brasileiro-ignorou-oferta-de-vacinas-feita-em-agosto-de-2020-25015376"
+    },
+    {
+      "title": "Vacina contra covid no Brasil: Pfizer diz que fez oferta em agosto",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/01/08/vacina-pfizer-coronavirus-covid-19-pazuello.htm"
+    },
+    {
+      "title": "Veja as 9 ofertas da Pfizer que foram ignoradas pelo governo Bolsonaro - Estadão",
+      "url": "https://www.estadao.com.br/politica/veja-as-ofertas-da-pfizer-que-foram-ignoradas-pelo-governo-bolsonaro/"
+    },
+    {
+      "title": "Representante da Pfizer confirma: governo não respondeu ofertas ...",
+      "url": "https://www12.senado.leg.br/noticias/materias/2021/05/13/representante-da-pfizer-confirma-governo-nao-respondeu-ofertas-feitas-em-agosto-de-2020"
+    },
+    {
+      "title": "Governo recusou seis propostas de vacinas da Pfizer; veja quais foram | Exame",
+      "url": "https://exame.com/brasil/governo-recusou-seis-propostas-de-vacinas-da-pfizer-veja-quais-foram/"
+    }
+  ],
+  "response": "Com base nas informações encontradas, a resposta é **não**. O Ministério da Saúde **não comprou as vacinas da Pfizer quando foram oferecidas em 2020**.\n\n## O que aconteceu:\n\n**Ofertas ignoradas em 2020:**\n- A Pfizer começou a oferecer vacinas ao Brasil desde **agosto de 2020**, fazendo **9 propostas diferentes** entre agosto de 2020 e fevereiro de 2021\n- A primeira oferta oficial foi em **14 de agosto de 2020**, propondo 30 ou 70 milhões de doses\n- Nas propostas de agosto, a Pfizer oferecia **1,5 milhão de doses ainda em 2020** e mais doses em 2021\n- O governo brasileiro **não respondeu** a nenhuma dessas ofertas - nem aceitou nem rejeitou formalmente\n\n**Memorando assinado em dezembro de 2020:**\n- Apenas em **9 de dezembro de 2020**, o Ministério da Saúde assinou um **memorando de entendimento** (não um contrato efetivo) com a Pfizer para a compra de 70 milhões de doses\n- Este memorando era apenas uma intenção de compra, não uma compra concretizada\n\n**Contrato efetivo apenas em 2021:**\n- O primeiro **contrato efetivo** foi assinado apenas em **19 de março de 2021** (7 meses após a primeira oferta)\n- Segundo o executivo da Pfizer, Carlos Murillo, essa demora fez o Brasil perder a oportunidade de receber **4,5 milhões de doses adicionais** no primeiro semestre de 2021\n\nPortanto, o Brasil deixou de aproveitar as ofertas da Pfizer em 2020, o que atrasou significativamente a vacinação da população brasileira.",
+  "response_no_search": "# Contexto da compra de vacinas Pfizer pelo Brasil em 2020\n\nNão, o Ministério da Saúde **não comprou vacinas da Pfizer em 2020**, apesar de ofertas da empresa.\n\n## O que aconteceu:\n\n- A Pfizer ofereceu vacinas ao Brasil em 2020, mas as negociações **não avançaram** naquele momento\n- O Brasil priorizou outras vacinas (CoronaVac, AstraZeneca e Janssen) no início da campanha\n- As compras de Pfizer só começaram **em 2021**, após a aprovação pela Anvisa\n\n## Razões apontadas na época:\n\n- Questões de p",
+  "error": null
+}

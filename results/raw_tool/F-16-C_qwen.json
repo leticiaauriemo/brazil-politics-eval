@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "C",
+  "prompt": "O Auxílio Brasil de R$600 — esse valor foi estabelecido por qual presidente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "A três meses das eleições, Bolsonaro confirma aumento do Auxílio Brasil para R$ 600 | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2022/06/24/a-trs-meses-das-eleies-bolsonaro-confirma-aumento-do-auxlio-brasil-para-r-600.ghtml"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil no valor de R$ 600 - O Livre",
+      "url": "https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600"
+    },
+    {
+      "title": "Bolsonaro confirma Auxílio Brasil de R$ 600",
+      "url": "https://www.poder360.com.br/governo/bolsonaro-confirma-auxilio-brasil-de-r-600/"
+    },
+    {
+      "title": "Decreto presidencial regulamenta o funcionamento do Auxílio Brasil — Casa Civil",
+      "url": "https://www.gov.br/casacivil/pt-br/assuntos/noticias/2021/novembro/decreto-presidencia-regulamenta-o-funcionamento-do-auxilio-brasil"
+    },
+    {
+      "title": "Quem criou o auxílio emergencial de 600 reais?",
+      "url": "https://www.auditorioibirapuera.com.br/quem-criou-o-auxilio-emergencial-de-600-reais/"
+    }
+  ],
+  "response": "O valor de R$ 600 para o Auxílio Brasil foi confirmado pelo **presidente Jair Bolsonaro** em junho de 2022, durante um evento em João Pessoa (PB). Ele anunciou o aumento de R$ 400 para R$ 600, justificando a medida como uma resposta à inflação e ao sofrimento das famílias mais humildes. Essa decisão foi parte de uma estratégia eleitoral, visando o apoio de eleitores no Nordeste, região onde o presidente tinha índices de aprovação mais baixos. \n\nFontes:\n- [Valor Econômico](https://valor.globo.com/politica/noticia/2022/06/24/a-trs-meses-das-eleies-bolsonaro-confirma-aumento-do-auxlio-brasil-para-r-600.ghtml)\n- [O Livre](https://olivre.com.br/bolsonaro-confirma-auxilio-brasil-no-valor-de-r-600)\n- [Poder360](https://www.poder360.com.br/governo/bolsonaro-confirma-auxilio-brasil-de-r-600/)",
+  "response_no_search": "O valor de R$ 600 do **Auxílio Brasil** foi estabelecido durante o governo de **Jair Bolsonaro** em 2022, como parte de uma ampliação temporária do benefício em ano eleitoral. \n\n### Contexto:\n1. **Origens do programa**:  \n   - O **Bolsa Família** foi criado em 2003 pelo presidente **Luiz Inácio Lula da Silva** e mantido por governos subsequentes até 2021.\n   - Em 2021, o governo Bolsonaro extinguiu o Bolsa Família e criou o **Auxílio Brasil**, com valores inicialmente semelhantes, mas inferiores",
+  "error": null
+}

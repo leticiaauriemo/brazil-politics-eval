@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly states Tarcísio's intention to seek reelection for São Paulo governor, but it misses the crucial detail about the missed federal candidacy deadline, which is a key part of the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Tarcísio de Freitas chose to run for reelection as governor of São Paulo and implied that this decision would prevent him from running for federal executive office, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

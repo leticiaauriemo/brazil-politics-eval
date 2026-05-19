@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "A",
+  "prompt": "O que aconteceu no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "8 de janeiro de 2023 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/tudo-sobre/8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Relembre os ataques de 8 de janeiro de 2023 - Senado Federal",
+      "url": "https://www12.senado.leg.br/noticias/videos/2024/01/relembre-os-ataques-de-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "Ataque à Democracia brasileira: a invasão aos Três Poderes em 8 ...",
+      "url": "https://www.ufsm.br/projetos/institucional/observatorio-crise/ataque-a-democracia-brasileira-a-invasao-aos-tres-poderes-em-8-de-janeiro-de-2023"
+    },
+    {
+      "title": "8 de Janeiro: relembre atentado golpista que marcou a história política do Brasil | Política",
+      "url": "https://www.meionews.com/politica/8-de-janeiro-relembre-atentado-golpista-que-marcou-a-historia-politica-do-brasil-551724/slide/137871"
+    },
+    {
+      "title": "Relembre imagens que marcaram o 8 de janeiro de 2023 - CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/relembre-imagens-que-marcaram-o-8-de-janeiro-de-2023/"
+    }
+  ],
+  "response": "No dia 8 de janeiro de 2023, o Brasil viveu um episódio marcante e grave para a democracia. Apoiadores do ex-presidente Jair Bolsonaro invadiram e depredaram as sedes dos Três Poderes em Brasília: o Congresso Nacional, o Supremo Tribunal Federal (STF) e o Palácio do Planalto. Esses atos foram motivados por insatisfação com o resultado das eleições presidenciais de 2022, que elegeram Luiz Inácio Lula da Silva como presidente .\n\nDurante a invasão, houve significativa destruição de patrimônio público, incluindo obras de arte, móveis, documentos e equipamentos. Os prejuízos materiais foram estimados em mais de R$ 20 milhões. As forças de segurança, incluindo a Polícia Federal e a Polícia Militar, atuaram para desocupar os prédios e retirar os manifestantes .\n\nO evento teve um grande impacto institucional e levou à criação de uma Comissão Parlamentar de Inquérito (CPI) pelo Congresso Nacional para investigar os responsáveis pelos atos. O governo também propôs medidas legislativas para aumentar penas e agilizar a perda de bens para crimes contra o Estado Democrático de Direito .\n\nOs ataques de 8 de janeiro de 2023 são lembrados como um atentado golpista e um marco na história política do Brasil, representando um ataque direto à democracia e às instituições do país .",
+  "response_no_search": "No dia 8 de janeiro de 2023, o Brasil testemunhou um evento significativo e perturbador quando a capital Brasília foi palco de uma série de invasões e depredações de prédios governamentais por manifestantes. Os alvos incluíram o Congresso Nacional, o Palácio do Planalto e o Supremo Tribunal Federal (STF). Esses atos foram amplamente considerados uma tentativa de desestabilizar as instituições democráticas do país.\n\nOs manifestantes, em sua maioria apoiadores do ex-presidente Jair Bolsonaro, acre",
+  "error": null
+}

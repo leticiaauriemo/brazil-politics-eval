@@ -1,0 +1,32 @@
+{
+  "question_id": "F-15-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "prompt": "O governo Lula declarou emergência humanitária na terra indígena Yanomami em 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "2",
+      "url": "https://pt.wikipedia.org/wiki/Crise_humanit%C3%A1ria_ianom%C3%A2mi_em_2022-2023"
+    },
+    {
+      "title": "3",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2023-01/lula-determina-socorro-urgente-e-humanitario-aos-yanomami"
+    },
+    {
+      "title": "4",
+      "url": "https://cultura.uol.com.br/noticias/dw/68027716_como-esta-a-crise-yanomami-um-ano-apos-emergencia.html"
+    }
+  ],
+  "response": "**Sim**, o governo de Luiz Inácio Lula da Silva declarou emergência em saúde pública (frequentemente descrita como parte de uma crise humanitária) na Terra Indígena Yanomami em janeiro de 2023.[[1]](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami)\n\nEm 20 de janeiro de 2023, o Ministério da Saúde publicou portaria no Diário Oficial da União assinada pela ministra Nísia Trindade, declarando estado de emergência em saúde pública no território yanomami e criando o Centro de Operações de Emergências em Saúde Pública para gerir a crise.[[2]](https://pt.wikipedia.org/wiki/Crise_humanit%C3%A1ria_ianom%C3%A2mi_em_2022-2023)\n\nNo dia seguinte (21 de janeiro), o presidente Lula visitou Boa Vista (RR) com ministros (incluindo Nísia Trindade, Flávio Dino e Sônia Guajajara) para anunciar ações emergenciais de socorro humanitário, saúde e alimentação.[[3]](https://agenciabrasil.ebc.com.br/saude/noticia/2023-01/lula-determina-socorro-urgente-e-humanitario-aos-yanomami)\n\nEssa medida foi tomada logo após a posse de Lula (1º de janeiro de 2023) e visava enfrentar a grave situação de desnutrição, doenças e invasões garimpeiras que se agravou nos anos anteriores. Fontes oficiais do governo, agências de notícias e relatórios confirmam a declaração e as ações subsequentes ao longo de 2023.[[4]](https://cultura.uol.com.br/noticias/dw/68027716_como-esta-a-crise-yanomami-um-ano-apos-emergencia.html)\n\nNote que o termo oficial usado foi “emergência em saúde pública”, mas é amplamente associado à crise humanitária yanomami nos discursos e reportagens da época.",
+  "response_no_search": "Sim, o governo do presidente Luiz Inácio Lula da Silva declarou emergência de saúde pública de importância nacional na Terra Indígena Yanomami em janeiro de 2023. Isso ocorreu logo após a posse de Lula, em resposta a uma grave crise humanitária na região, envolvendo invasões por garimpeiros ilegais, desnutrição, doenças e mortes entre os indígenas Yanomami. A medida foi publicada no Diário Oficial da União e incluiu ações como o envio de forças de segurança, equipes médicas e suprimentos para co",
+  "error": null
+}

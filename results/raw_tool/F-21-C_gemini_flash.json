@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "prompt": "Por qual estado Flávio Bolsonaro foi eleito senador?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "De início aos 21 anos ao Senado: a trajetória política de Flávio Bolsonaro | Exame",
+      "url": "https://exame.com/brasil/de-inicio-aos-21-anos-ao-senado-a-trajetoria-politica-de-flavio-bolsonaro-ate-o-anuncio-de-2026/"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro: conheça sua trajetória na política do Rio",
+      "url": "https://ndmais.com.br/politica/flavio-bolsonaro-trajetoria/"
+    },
+    {
+      "title": "Flavio Nantes Bolsonaro",
+      "url": "https://www.politicos.org.br/Parlamentar/6882"
+    }
+  ],
+  "response": "Flávio Bolsonaro foi eleito senador pelo estado do Rio de Janeiro.",
+  "response_no_search": "Flávio Bolsonaro foi eleito senador pelo estado do **Rio de Janeiro**.",
+  "error": null
+}

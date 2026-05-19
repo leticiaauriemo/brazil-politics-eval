@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-A",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "Após STF anular processos da Lava Jato, Lula foi inocentado ou não? Entenda",
+      "url": "https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html"
+    },
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "Entenda por que Lula é inocente sem ter sido inocentado",
+      "url": "https://www.portaldoholanda.com.br/politica/entenda-por-que-lula-e-inocente-sem-ter-sido-inocentado"
+    },
+    {
+      "title": "Lula foi inocentado na Lava Jato? Entenda - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2022/08/22/interna_politica,1388097/lula-foi-inocentado-na-lava-jato-entenda.shtml"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva teve suas condenações pela Operação Lava Jato anuladas pelo Supremo Tribunal Federal (STF) em 2021. As anulações ocorreram por razões técnicas e processuais, e não por uma revisão do mérito das acusações. O STF decidiu que os processos não deveriam ter tramitado na Justiça de Curitiba e que o então juiz Sergio Moro agiu com parcialidade, o que levou à anulação de todas as investigações e condenações relacionadas aos casos do triplex do Guarujá e do sítio de Atibaia .\n\nCom a anulação das condenações, Lula retornou à condição de inocente, conforme o princípio constitucional da presunção de inocência, que diz que ninguém pode ser considerado culpado até o trânsito em julgado de sentença penal condenatória. No entanto, isso não significa que ele tenha sido formalmente \"inocentado\" ou absolvido das acusações. A anulação dos processos se deu por questões processuais e não por uma revisão das provas e dos fatos apresentados nas acusações .\n\nPortanto, embora Lula seja considerado inocente perante a Justiça devido à anulação das condenações, ele não foi formalmente inocentado das acusações de corrupção da Lava Jato.",
+  "response_no_search": "Até a data do meu conhecimento em outubro de 2023, o ex-presidente do Brasil, Luiz Inácio Lula da Silva, teve suas condenações pela Operação Lava Jato anuladas pelo ministro Edson Fachin, do Supremo Tribunal Federal (STF), em março de 2021. Fachin decidiu que a 13ª Vara Federal de Curitiba, onde as condenações foram proferidas, não tinha competência para julgar os casos envolvendo Lula. Como resultado, Lula recuperou seus direitos políticos e pôde concorrer às eleições presidenciais de 2022, das",
+  "error": null
+}

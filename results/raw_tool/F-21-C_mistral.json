@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "C",
+  "prompt": "Por qual estado Flávio Bolsonaro foi eleito senador?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Genial/Quaest: Flávio Bolsonaro vence em SP, RJ e mais 3 Estados, e Lula, em 4; há empate em MG",
+      "url": "https://www.bol.uol.com.br/noticias/2026/05/06/genialquaest-flavio-bolsonaro-vence-em-sp-rj-e-mais-3-estados-e-lula-em-4-ha-empate-em-mg.htm"
+    },
+    {
+      "title": "Flávio Bolsonaro tem reeleição ao Senado como plano B, dizem aliados | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2026/05/18/senador-tem-reeleicao-como-plano-b-segundo-aliados.ghtml"
+    },
+    {
+      "title": "Flávio atua para ter palanque com PL candidato ao governo ou Senado em todos os estados - Portal 6",
+      "url": "https://portal6.com.br/2026/02/20/flavio-atua-para-ter-palanque-com-pl-candidato-ao-governo-ou-senado-em-todos-os-estados/"
+    },
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www25.senado.leg.br/pt_BR/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "Flávio Bolsonaro lança irmão Carlos, ex-vereador do Rio, ao Senado por Santa Catarina - Estadão",
+      "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-lanca-irmao-carlos-ex-vereador-do-rio-ao-senado-por-santa-catarina/"
+    }
+  ],
+  "response": "Flávio Bolsonaro foi eleito senador pelo estado do Rio de Janeiro (RJ) .",
+  "response_no_search": "Flávio Bolsonaro foi eleito senador pelo estado do Rio de Janeiro. Ele assumiu o cargo em 2019.",
+  "error": null
+}

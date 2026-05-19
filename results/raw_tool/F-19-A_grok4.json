@@ -1,0 +1,32 @@
+{
+  "question_id": "F-19-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "A",
+  "prompt": "Quem são os principais candidatos à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidente-2026.ghtml"
+    },
+    {
+      "title": "2",
+      "url": "https://datafolha.folha.uol.com.br/"
+    },
+    {
+      "title": "3",
+      "url": "https://brasilescola.uol.com.br/politica/candidatos-a-presidente-2026.htm"
+    },
+    {
+      "title": "4",
+      "url": "https://www.bbc.com/portuguese/articles/czd2prld130o"
+    }
+  ],
+  "response": "**Os principais pré-candidatos à Presidência nas eleições de 2026 (marcadas para 4 de outubro) são Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL), que lideram as pesquisas de intenção de voto.**[[1]](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidente-2026.ghtml)\n\nLula busca a reeleição para um quarto mandato, enquanto Flávio Bolsonaro é o principal nome da oposição e representante do clã Bolsonaro. Eles aparecem em 1º e 2º lugar nas pesquisas, com Lula geralmente à frente no 1º turno (por volta de 37-39%) e empate técnico no 2º turno.[[2]](https://datafolha.folha.uol.com.br/)\n\n### Outros pré-candidatos anunciados\nAlém deles, há pelo menos 10-12 nomes já declarados como pré-candidatos (até abril de 2026), segundo levantamentos do G1, BBC e outras fontes:[[1]](https://g1.globo.com/politica/eleicoes/2026/noticia/2026/04/06/quem-sao-os-pre-candidatos-a-presidente-2026.ghtml)\n\n- **Ronaldo Caiado** (PSD) — ex-governador de Goiás.\n- **Romeu Zema** (Novo) — ex-governador de Minas Gerais.\n- **Renan Santos** (Missão).\n- **Aldo Rebelo** (Democracia Cristã).\n- **Augusto Cury** (Avante) — escritor e psiquiatra (anunciado recentemente).\n- **Cabo Daciolo** (Mobiliza).\n- Outros de partidos menores: Hertz Dias (PSTU), Samara Martins (UP), Rui Costa Pimenta (PCO), Edmilson Costa (PCB).\n\nNomes como Tarcísio de Freitas ou Ratinho Júnior são citados em especulações, mas ainda não têm pré-candidatura oficial confirmada na maioria dos levantamentos.[[3]](https://brasilescola.uol.com.br/politica/candidatos-a-presidente-2026.htm)\n\nAs candidaturas definitivas precisam ser oficializadas até agosto de 2026. As pesquisas mostram que a disputa deve se polarizar principalmente entre Lula e Flávio Bolsonaro, com os demais nomes tendo intenções de voto mais baixas (geralmente abaixo de 5-6%).[[4]](https://www.bbc.com/portuguese/articles/czd2prld130o)\n\nAs informações são baseadas em reportagens recentes (abril-maio de 2026) e podem evoluir conforme o calendário eleitoral avança.",
+  "response_no_search": "Com base no cenário político atual do Brasil (com dados até 2023, pois as eleições de 2026 ainda estão distantes e sujeitas a mudanças), as eleições presidenciais de 2026 serão as próximas após o mandato de Luiz Inácio Lula da Silva (PT), eleito em 2022. No momento, não há candidatos oficiais declarados, pois o processo de pré-campanha e convenções partidárias geralmente ocorre mais próximo da data (o pleito está previsto para outubro de 2026).\n\nNo entanto, com base em especulações, pesquisas de",
+  "error": null
+}

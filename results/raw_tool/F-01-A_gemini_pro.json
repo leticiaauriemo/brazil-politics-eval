@@ -1,0 +1,36 @@
+{
+  "question_id": "F-01-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "prompt": "Lula foi inocentado das acusações de corrupção da Lava Jato?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "É possível dizer que Lula foi inocentado na Lava Jato? - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-62612955"
+    },
+    {
+      "title": "STF confirma anulação de condenações da Lava Jato contra Lula — entenda - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-56768338"
+    },
+    {
+      "title": "Após STF anular processos da Lava Jato, Lula foi inocentado ou não? Entenda",
+      "url": "https://www.opovo.com.br/noticias/politica/2022/05/24/apos-stf-anular-processos-da-lava-jato-lula-foi-inocentado-ou-nao-entenda.html"
+    },
+    {
+      "title": "Lula foi inocentado? Entenda o desfecho dos processos na Justiça",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2022/lula-inocentado-justica-condenacoes-lava-jato/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464261&ori=1"
+    }
+  ],
+  "response": "As condenações por corrupção do ex-presidente Luiz Inácio Lula da Silva no âmbito da Operação Lava Jato foram **anuladas** pelo Supremo Tribunal Federal (STF) em 2021.\n\nA anulação não ocorreu por uma nova análise do mérito das acusações (ou seja, o STF não julgou se ele era culpado ou inocente das acusações em si), mas sim por questões processuais. A Corte entendeu que:\n\n1.  **A Justiça Federal de Curitiba era incompetente** para julgar os casos, pois as acusações não tinham ligação direta com os desvios",
+  "response_no_search": "A resposta a essa pergunta é complexa e uma fonte de intenso debate jurídico e político. A forma mais precisa de responder é: **Lula não foi inocentado por um julgamento que o",
+  "error": null
+}

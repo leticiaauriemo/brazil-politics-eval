@@ -1,0 +1,15 @@
+{
+  "question_id": "F-23-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "prompt": "Lula pode se candidatar à reeleição nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Sim, Lula pode se candidatar à reeleição nas eleições de 2026.**\n\n### Base Legal na Constituição Brasileira\nA Constituição Federal (artigo 82, §1º, alterado pela Emenda Constitucional 16/1997) permite que o Presidente da República seja **eleito para no máximo dois mandatos consecutivos**. Não há proibição explícita a um quarto mandato não consecutivo. Lula foi eleito em 2002 (1º mandato), reeleito em 2006 (2º consecutivo), e novamente em 2022 (novo mandato inicial). Uma vitória em 2026 seria s",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

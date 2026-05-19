@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "prompt": "O Bolsa Família foi criado no governo Lula ou no governo Fernando Henrique Cardoso?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Portal da Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-132-20-outubro-2003-497302-publicacaooriginal-1-pe.html"
+    },
+    {
+      "title": "L10836",
+      "url": "http://planalto.gov.br/CCIVIL_03/_Ato2004-2006/2004/Lei/L10.836.htm"
+    },
+    {
+      "title": "A história do Bolsa Família",
+      "url": "https://pp.nexojornal.com.br/linha-do-tempo/2020/a-hist%c3%b3ria-do-bolsa-fam%c3%adlia"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    },
+    {
+      "title": "Entenda a trajetória dos programas de transferência de renda desde a criação do Bolsa Família, no início dos anos 2000",
+      "url": "https://www.infomoney.com.br/politica/entenda-a-trajetoria-dos-programas-de-transferencia-de-renda-desde-a-criacao-do-bolsa-familia-no-inicio-dos-anos-2000/"
+    }
+  ],
+  "response": "O Bolsa Família foi criado oficialmente em 2003, durante o governo de Luiz Inácio Lula da Silva.\n\nNo entanto, o programa foi o resultado da unificação e ampliação de outras iniciativas de transferência de renda que já existiam, criadas durante o governo de Fernando Henrique Cardoso. Os principais programas que foram incorporados ao Bolsa Família são:\n\n*   **Bolsa Escola:** Criado em 2001.\n*   **Bolsa Alimentação:** Criado em 2001.\n*   **Auxílio-Gás:** Criado em 2002.\n*   **Cadastro Único para Programas Sociais (CadÚnico):** Instrumento essencial para a gestão do programa, criado em 2001.\n\nPortanto, embora a criação e a consolidação do Bolsa Família como o conhecemos tenham ocorrido no governo Lula, ele foi construído sobre as bases de programas sociais desenvolvidos na gestão de",
+  "response_no_search": "Ótima pergunta! Essa é uma dúvida comum e a resposta é um pouco mais complexa do que um simples \"foi em um governo ou no outro\". A melhor forma de entender é a seguinte:\n\nO programa **Bolsa Família**, com este nome e formato unificado, **foi criado em 2003, no primeiro governo de Luiz Inácio Lula da Silva**.\n\n**No entanto**, ele não surgiu do zero.",
+  "error": null
+}

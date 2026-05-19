@@ -1,0 +1,28 @@
+{
+  "question_id": "F-20-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "B",
+  "prompt": "O Brasil superou os Estados Unidos na proporção de pessoas vacinadas com duas doses contra COVID-19?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Brasil ultrapassa EUA em proporção de pessoas com vacinação completa",
+      "url": "https://www.correiobraziliense.com.br/brasil/2021/11/4963466-brasil-ultrapassa-eua-em-proporcao-de-pessoas-com-vacinacao-completa.html"
+    },
+    {
+      "title": "Brasil supera EUA na proporção de pessoas completamente vacinadas contra covid - 16/11/2021 | Diário do Grande ABC",
+      "url": "https://www.dgabc.com.br/noticia/3807381/brasil-supera-eua-na-proporcao-de-pessoas-completamente-vacinadas-contra-covid"
+    },
+    {
+      "title": "Brasil supera EUA na proporção de pessoas imunizadas contra covid | Exame",
+      "url": "https://exame.com/brasil/brasil-supera-eua-na-proporcao-de-pessoas-imunizadas-contra-covid/"
+    }
+  ],
+  "response": "# Sim, o Brasil superou os Estados Unidos na vacinação completa contra a COVID-19\n\nO Brasil superou os Estados Unidos na taxa de população totalmente vacinada contra o covid-19. De acordo com a plataforma Our World in Data, vinculada à Universidade de Oxford, atualmente 59,75% dos brasileiros receberam duas doses ou dose única, contra 57,62% dos americanos.\n\n## Como o Brasil chegou lá\n\nMesmo tendo largado atrás e enfrentado problemas de falta de vacinas, o Brasil acelerou o ritmo da vacinação principalmente a partir de agosto. Com aumento na disponibilização de doses, a adesão da população brasileira passou a ser determinante para o cenário de hoje. Esse aspecto é reflexo de um forte histórico de campanhas de vacinação no País e da atuação capilarizada do Sistema Único de Saúde (SUS), que, além de disponibilizar as vacinas, faz com que elas cheguem a áreas remotas.\n\nEm números absolutos, porém, os EUA aplicaram mais doses: a diferença na proporção acontece porque a população estadunidense é maior. O Brasil tem 127,9 milhões de pessoas que receberam as duas doses ou o imunizante de dose única. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), a população brasileira é de 213,2 milhões. Já nos Estados Unidos, 195.275.904 de cidadãos foram imunizados completamente, com uma população de 331,8 milhões, segundo o censo americano, o US Census Bureau.\n\n## Cronologia da vacinação\n\nDados do Our World in Data apontam que os Estados Unidos ultrapassaram a marca de 50% de vacinados com duas doses em 7 de agosto, quando a cobertura vacinal no Brasil era menos da metade que isso, cerca de 21%. Para se fazer um paralelo, segundo informações reunidas pelo consórcio de veículos de imprensa, o qual o Estadão integra, o Brasil bateu a marca de 50% de vacinados no dia 21 de outubro.\n\nA vacinação começou antes nos EUA: a primeira vacina aplicada foi em 14 de dezembro de 2020, quando uma enfermeira de um hospital do Queens, em Nova York, recebeu a aplicação da primeira dose da Pfizer. Enquanto isso, no Brasil, a primeira dose contra a covid-19 foi aplicada em 17 de janeiro, pouco mais de um mês após os estadunidenses, quando a func",
+  "response_no_search": "Sim, o Brasil superou os Estados Unidos nesse indicador. Esse marco ocorreu por volta de **novembro de 2021**, quando a proporção da população brasileira totalmente vacinada (com duas doses ou dose única) ultrapassou a dos EUA.\n\nAlguns pontos importantes sobre esse contexto:\n\n**Fatores que contribuíram para isso:**\n- **Alta adesão histórica à vacinação no Brasil**, fruto de décadas do SUS e do PNI (Programa Nacional de Imunizações)\n- **Menor resistência antivacina** no Brasil em comparação aos E",
+  "error": null
+}

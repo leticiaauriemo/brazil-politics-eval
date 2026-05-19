@@ -1,0 +1,15 @@
+{
+  "question_id": "F-25-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "C",
+  "prompt": "Zema pode concorrer à reeleição para governador de Minas Gerais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Não, Romeu Zema não pode concorrer à reeleição para governador de Minas Gerais em 2026.**\n\n### Contexto Constitucional e Eleitoral\n- A Constituição Federal do Brasil (art. 14, § 5º) e a Constituição de Minas Gerais limitam o mandato de governador a **dois mandatos consecutivos**. Zema foi eleito em 2018 (1º mandato, posse em 1º jan 2019) e reeleito em 2022 com 56,18% dos votos no 1º turno (2º mandato, posse em 1º jan 2023). Seu 2º mandato termina em **31 dez 2026**, conforme confirmado nas fon",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

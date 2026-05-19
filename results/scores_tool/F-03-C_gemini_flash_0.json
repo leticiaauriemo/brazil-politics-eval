@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly mentions the TSE ruling on electoral abuse but does not include the STF criminal conviction as a second ground for ineligibility."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model mentions only one ground for ineligibility, the TSE ruling on electoral abuse, and although it mentions a potential STF conviction, it does not acknowledge the actual STF criminal conviction as a current ground for ineligibility."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

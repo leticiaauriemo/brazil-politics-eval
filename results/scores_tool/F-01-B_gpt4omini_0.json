@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that the annulment was procedural and not a declaration of innocence, aligning with the ground truth. However, it introduces recent developments (Toffoli's decision) that, while related, are not directly part of the core annulment decision by Fachin/STF regarding Lula's innocence, making it slightly less precise than a perfect 5."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula is considered juridically innocent and implies the STF found the accusations themselves to be invalid, which misrepresents the procedural nature of the annulments."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.5,
+  "agreement": false
+}

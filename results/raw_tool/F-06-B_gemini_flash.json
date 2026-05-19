@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "B",
+  "prompt": "O inquérito das fake news (Inquérito 4781) resultou em ordens de bloqueio de contas em plataformas digitais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "",
+      "url": "https://static.poder360.com.br/2020/07/Decisao-Bloqueio.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://politica.estadao.com.br/blogs/fausto-macedo/wp-content/uploads/sites/41/2021/02/inq4781pet_030220213402.pdf"
+    },
+    {
+      "title": "[PDF] O objeto do Inq. 4.781/DF é a investigação de notícias fraudulentas ...",
+      "url": "https://static.poder360.com.br/2023/05/Telegram-Moraes-10mai2023.pdf"
+    },
+    {
+      "title": "Twitter cumpre nova ordem de Moraes em inquérito das fake news ...",
+      "url": "https://www.jota.info/stf/do-supremo/twitter-cumpre-nova-ordem-de-moraes-em-inquerito-das-fake-news-para-bloquear-perfis"
+    },
+    {
+      "title": "Inquérito das Fake News ultrapassa cem perfis bloqueados em ...",
+      "url": "https://oglobo.globo.com/politica/noticia/2023/04/inquerito-das-fake-news-ultrapassa-cem-perfis-bloqueados-em-quatro-anos-e-vira-arma-politica-de-governo-e-oposicao.ghtml"
+    }
+  ],
+  "response": "Sim, o Inquérito 4781, conhecido como Inquérito das Fake News, resultou em ordens de bloqueio de contas em plataformas digitais.\n\nO ministro Alexandre de Moraes, responsável pelo inquérito, determinou o bloqueio de mais de cem perfis em redes sociais, principalmente de figuras alinhadas ao ex-presidente Jair Bolsonaro, incluindo parlamentares. Essas decisões visavam interromper discursos de ódio, subversão da ordem e incentivo à quebra da normalidade institucional e democrática.\n\nHouve casos em que as plataformas, como o Twitter, inicialmente não cumpriram as ordens por considerá-las genéricas, o que levou a novas intimações com a especificação das URLs dos perfis a serem bloqueados. Em algumas situações, como no caso do Telegram, a empresa foi multada e teve suas atividades suspensas temporariamente por descumprimento de ordens judiciais.\n\nO inquérito também determinou o bloqueio de endereços eletrônicos que comercializavam dados pessoais e sigilosos de autoridades, e a remoção de remissões a esses sites em sistemas de busca.",
+  "response_no_search": "Sim, o Inquérito 4781, conhecido como o \"Inquérito das Fake News\", resultou em ordens de bloqueio de contas em plataformas digitais.\n\nAo longo de sua tramitação, o Supremo Tribunal Federal (STF), por meio do ministro Alexandre de Moraes, determinou o bloqueio de contas de diversos indivíduos e grupos em redes sociais como Twitter, Facebook, Instagram e YouTube. Essas decisões foram tomadas sob a justificativa de combater a disseminação de notícias falsas, discursos de ódio e ameaças contra as in",
+  "error": null
+}

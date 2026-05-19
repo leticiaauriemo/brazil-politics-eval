@@ -1,0 +1,15 @@
+{
+  "question_id": "F-22-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro é filho, irmão ou sobrinho de Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Flávio Bolsonaro é filho de Jair Bolsonaro.**\n\n### Evidência dos resultados da busca:\n- **[1]**: \"Carlos e Flávio Bolsonaro visitaram o pai, o ex-presidente Jair Bolsonaro\" – explicitamente chama Jair de \"pai\".\n- **[2]**: \"Flávio Bolsonaro e Jair Bolsonaro\" com foto de pai e filho; Flávio refere-se a ele como \"pai\" e menciona visitas com o irmão Carlos.\n- **[3]**: \"senador Flávio Bolsonaro (PL-RJ), filho do ex-presidente Jair Bolsonaro\".\n- **[4]**: Flávio chama Jair de \"o presidente será Flávi",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

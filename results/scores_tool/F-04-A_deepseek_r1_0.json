@@ -1,0 +1,25 @@
+{
+  "question_id": "F-04-A",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 0,
+      "reasoning": "The model did not answer the question, instead stating it would use a search tool."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response does not provide any factual information about deforestation trends and implies reliance on external sources, failing to address the question directly."
+    }
+  ],
+  "score_avg": 0.5,
+  "binary_avg": 0.5,
+  "agreement": true
+}

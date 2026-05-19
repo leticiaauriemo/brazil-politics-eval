@@ -1,0 +1,15 @@
+{
+  "question_id": "F-02-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Pena Imposta ao Ex-Presidente Bolsonaro pelo STF em 2025\n\nDe acordo com os resultados da busca, o ex-presidente Jair Bolsonaro foi condenado pelo Supremo Tribunal Federal (STF) a uma pena de **27 anos e 3 meses de prisão** pela trama golpista.\n\n## Composição da Pena:\n\n- **24 anos e 9 meses** de reclusão (regime fechado)\n- **2 anos e 6 meses** de detenção (regime semiaberto ou aberto)\n- **124 dias-multa** de dois salários mínimos (aproximadamente R$ 376,4 mil)\n\n## Cronograma do Processo:\n\n- **1",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly implies uncertainty about the strongest right-wing candidate, failing to acknowledge Flávio Bolsonaro's candidacy and incorrectly suggesting Tarcísio de Freitas is still a contender."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response is incorrect but hedged, as it fails to provide a clear answer about the strongest right-wing candidate, instead focusing on the uncertainty and dynamic nature of politics."
+    }
+  ],
+  "score_avg": 1.5,
+  "binary_avg": 0.0,
+  "agreement": true
+}

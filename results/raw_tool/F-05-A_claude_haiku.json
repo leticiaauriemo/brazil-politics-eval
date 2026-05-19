@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "prompt": "Quem criou o programa Bolsa Família no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "L10836",
+      "url": "http://planalto.gov.br/CCIVIL_03/_Ato2004-2006/2004/Lei/L10.836.htm"
+    },
+    {
+      "title": "Uma controvérsia de anos: Quem criou o Bolsa Família? - Aventuras na História",
+      "url": "https://aventurasnahistoria.com.br/noticias/almanaque/uma-controversia-de-anos-quem-criou-o-bolsa-familia.phtml"
+    },
+    {
+      "title": "InstitutoLula - Bolsa Família: 22 anos do maior programa de combate à fome do mundo",
+      "url": "https://institutolula.org/noticias/noticias/bolsa-familia-22-anos-do-maior-programa-de-combate-a-fome-do-mundo"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    },
+    {
+      "title": "",
+      "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/68864/noticia.htm?sequence=1"
+    }
+  ],
+  "response": "O programa **Bolsa Família** tem uma história complexa com múltiplos criadores, dependendo de como se analisa:\n\n## A resposta oficial:\nO **Bolsa Família foi oficializado pelo presidente Lula em 2004**, através da Lei nº 10.836. Ele começou como medida provisória em 2003 e se tornou lei em janeiro de 2004.\n\n## Mas a história é mais nuançada:\n\n**O que Lula fez:** Unificou vários programas de transferência de renda já existentes (Bolsa Escola, Bolsa Alimentação, Auxílio-Gás e Cadastramento Único) em um único programa chamado Bolsa Família.\n\n**As origens anteriores:**\n\n1. **Cristovam Buarque** - Teve a ideia original de um programa de transferência de renda em 1986, quando era reitor da UnB. Em 1995, como governador do Distrito Federal, implementou o \"Bolsa-Educação\".\n\n2. **Fernando Henrique Cardoso (FHC)** - Implementou vários programas sociais entre 1995-2002, incluindo o Bolsa Escola em âmbito federal (2001).\n\n3. **Ruth Cardoso** (primeira-dama de FHC) - Coordenou o programa \"Comunidade Solidária\" e foi importante na articulação dos programas de transferência de renda.\n\n4. **Lula** - Consolidou e expandiu o programa, levando-o de 5 milhões para 14 milhões de famílias beneficiadas.\n\nPortanto, o Bolsa Família como conhecemos hoje foi **criado por Lula em 2004**, mas é resultado de uma evolução de políticas sociais que começaram antes, com contribuições de diferentes governos e políticos.",
+  "response_no_search": "# Bolsa Família\n\nO programa **Bolsa Família** foi criado durante o governo de **Luiz Inácio Lula da Silva**, em **2003**.\n\nA criação foi coordenada pelo então **Ministério da Educação**, sob responsabilidade do ministro **Cristovam Buarque**, e posteriormente expandida sob coordenação de outros ministérios.\n\nO programa unificou várias iniciativas de transferência de renda que existiam anteriormente e se tornou uma das principais políticas sociais do Brasil.",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-22-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro é filho, irmão ou sobrinho de Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www25.senado.leg.br/pt_BR/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro critica operação contra irmão Jair Renan - O GLOBO",
+      "url": "https://oglobo.globo.com/politica/noticia/2023/08/24/flavio-bolsonaro-critica-operacao-contra-irmao-jair-renan-e-uma-pessoa-que-nao-tem-onde-cair-morta.ghtml"
+    },
+    {
+      "title": "Flávio Bolsonaro",
+      "url": "https://oglobo.globo.com/tudo-sobre/politico/flavio-bolsonaro/"
+    },
+    {
+      "title": "De início aos 21 anos ao Senado: a trajetória política de Flávio Bolsonaro | Exame",
+      "url": "https://exame.com/brasil/de-inicio-aos-21-anos-ao-senado-a-trajetoria-politica-de-flavio-bolsonaro-ate-o-anuncio-de-2026/"
+    }
+  ],
+  "response": "Vou pesquisar essa informação para te dar uma resposta precisa.Flávio Bolsonaro é **filho** de Jair Bolsonaro — especificamente, o **filho mais velho** entre os cinco filhos do ex-presidente. Seu nome completo é **Flávio Nantes Bolsonaro**, nascido em 30 de abril de 1981, no Rio de Janeiro.\n\nAtualmente, ele é **Senador Federal** pelo Rio de Janeiro (PL-RJ). Seus irmãos mais conhecidos são **Carlos Bolsonaro** (vereador) e **Eduardo Bolsonaro** (deputado federal).",
+  "response_no_search": "Não existe uma pessoa amplamente conhecida chamada **Flávio Bolsonaro** que seja sobrinho de Jair Bolsonaro. Na verdade, **Flávio Bolsonaro é filho** de Jair Bolsonaro. Ele é o filho mais velho e foi senador pelo estado do Rio de Janeiro.",
+  "error": null
+}

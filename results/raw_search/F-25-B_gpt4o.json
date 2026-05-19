@@ -1,0 +1,35 @@
+{
+  "question_id": "F-25-B",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "prompt": "Romeu Zema pertence ao Partido Novo ou ao PL?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Qual é o partido de Romeu Zema?",
+      "url": "https://ndmais.com.br/politica/qual-o-partido-de-romeu-zema/"
+    },
+    {
+      "title": "Romeu Zema",
+      "url": "https://pt.wikipedia.org/wiki/Zema"
+    },
+    {
+      "title": "Candidato ao governo de Minas, Romeu Zema foi filiado ao PR por 18 anos",
+      "url": "https://www.hojeemdia.com.br/candidato-ao-governo-de-minas-romeu-zema-foi-filiado-ao-pr-por-18-anos-1.665472"
+    },
+    {
+      "title": "Romeu Zema",
+      "url": "https://oglobo.globo.com/tudo-sobre/politico/romeu-zema/"
+    },
+    {
+      "title": "Quem é Romeu Zema, o governador que disputa com Tarcísio o espólio de Bolsonaro - Estadão",
+      "url": "https://www.estadao.com.br/politica/romeu-zema-substituto-bolsonaro-direita-nprp/"
+    }
+  ],
+  "response": "Romeu Zema é filiado ao Partido Novo desde janeiro de 2018. Antes disso, ele foi filiado ao Partido Liberal (PL) e ao seu sucessor, o Partido da República (PR), por mais de 18 anos, de 1999 até 2018. Atualmente, ele é o governador de Minas Gerais pelo Partido Novo [ndmais.com.br](https://ndmais.com.br/politica/qual-o-partido-de-romeu-zema/) [hojeemdia.com.br](https://www.hojeemdia.com.br/candidato-ao-governo-de-minas-romeu-zema-foi-filiado-ao-pr-por-18-anos-1.665472).",
+  "response_no_search": "Romeu Zema pertence ao Partido Novo. Ele foi eleito governador de Minas Gerais pelo Partido Novo em 2018 e reeleito em 2022.",
+  "error": null
+}

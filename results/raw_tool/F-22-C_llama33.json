@@ -1,0 +1,36 @@
+{
+  "question_id": "F-22-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "C",
+  "prompt": "Flávio Bolsonaro é o filho mais velho, do meio ou mais novo de Jair Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www25.senado.leg.br/pt_BR/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "Flávio Bolsonaro: conheça sua trajetória na política do Rio",
+      "url": "https://ndmais.com.br/politica/flavio-bolsonaro-trajetoria/"
+    },
+    {
+      "title": "A vida política de Flávio Bolsonaro",
+      "url": "https://www1.folha.uol.com.br/webstories/politica/2025/12/a-vida-politica-de-flavio-bolsonaro/"
+    },
+    {
+      "title": "Flávio Bolsonaro",
+      "url": "https://oglobo.globo.com/tudo-sobre/politico/flavio-bolsonaro/"
+    },
+    {
+      "title": "Flávio Bolsonaro – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    }
+  ],
+  "response": "Flávio Bolsonaro é o filho mais velho de Jair Bolsonaro.",
+  "response_no_search": "Flávio Bolsonaro é o filho mais velho de Jair Bolsonaro.",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "C",
+  "prompt": "Em qual ano e em qual governo o Bolsa Família foi lançado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Reconstrução e dignidade ao povo brasileiro: Governo Federal celebra os 20 anos do Programa Bolsa Família — Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",
+      "url": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/reconstrucao-e-dignidade-ao-povo-brasileiro-governo-federal-celebra-os-20-anos-do-programa-bolsa-familia"
+    },
+    {
+      "title": "Lula lança Bolsa-Família, mas recursos não estão garantidos - 20/10/2003 | Diário do Grande ABC",
+      "url": "https://www.dgabc.com.br/Noticia/264453/lula-lanca-bolsa-familia-mas-recursos-nao-estao-garantidos"
+    },
+    {
+      "title": "Há 21 anos, o Bolsa Família é mais que um auxílio: transforma vidas e traz cidadania — Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202410/ha-21-anos-o-bolsa-familia-mais-que-um-auxilio-transforma-vidas-e-traz-cidadania"
+    },
+    {
+      "title": "L10836",
+      "url": "http://planalto.gov.br/CCIVIL_03/_Ato2004-2006/2004/Lei/L10.836.htm"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    }
+  ],
+  "response": "O Bolsa Família foi lançado em 2003, durante o governo do presidente Luiz Inácio Lula da Silva.",
+  "response_no_search": "O Bolsa Família foi lançado em 2003, durante o governo do presidente Luiz Inácio Lula da Silva.",
+  "error": null
+}

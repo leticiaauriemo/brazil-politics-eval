@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-B",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately states the rejection of the BRB acquisition, the subsequent liquidation of Banco Master in November 2025 (though it says December, which is a minor discrepancy), and mentions the 'Compliance Zero' operation leading to the owner's arrest, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the BRB acquisition of Banco Master was rejected in September 2025, details the subsequent liquidation in December 2025, and mentions the Compliance Zero investigation."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

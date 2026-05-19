@@ -1,0 +1,56 @@
+{
+  "question_id": "F-15-C",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério aponta que governo Bolsonaro ignorou alertas sobre yanomami",
+      "url": "https://www.terra.com.br/nos/ministerio-aponta-que-governo-bolsonaro-ignorou-alertas-sobre-yanomami,df67592e598451bd89b51908d312a6333gnsno1h.html"
+    },
+    {
+      "title": "Entenda a crise humanitária dos yanomamis e como está a situação atualmente - 19/06/2023 - Ambiente - Folha",
+      "url": "https://www1.folha.uol.com.br/ambiente/2023/06/entenda-a-crise-humanitaria-dos-yanomamis-e-como-esta-a-situacao-atualmente.shtml"
+    },
+    {
+      "title": "A crise Yanomami na Funai de Bolsonaro",
+      "url": "https://apublica.org/2023/05/baixo-orcamento-culpa-terceirizada-como-a-funai-de-bolsonaro-respondia-a-crise-yanomami/"
+    },
+    {
+      "title": "Sob Bolsonaro, mortes de yanomami por desnutrição ...",
+      "url": "https://www.bbc.com/portuguese/articles/cw011x9rpldo"
+    },
+    {
+      "title": "Yanomami: Governo Federal apresenta à Corte Interamericana de Direitos Humanos medidas de enfrentamento à crise na TI — Fundação Nacional dos Povos Indígenas",
+      "url": "https://www.gov.br/funai/pt-br/assuntos/noticias/2024/yanomami-governo-federal-apresenta-a-corte-interamericana-de-direitos-humanos-medidas-de-enfrentamento-a-crise-na-ti"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Proteção e construção de um novo futuro marcam os três anos da Emergência Yanomami",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/noticias/2026/01/protecao-e-construcao-de-um-novo-futuro-marcam-os-tres-anos-da-emergencia-yanomami"
+    },
+    {
+      "title": "Dois anos de ações federais na Terra Yanomami: garimpo ilegal despenca e mortes por desnutrição caem 68% — Ibama",
+      "url": "https://www.gov.br/ibama/pt-br/assuntos/noticias/2025/dois-anos-de-acoes-federais-na-terra-yanomami-garimpo-ilegal-despenca-e-mortes-por-desnutricao-caem-68"
+    },
+    {
+      "title": "Ministros voltam à Terra Indígena Yanomami após reunião com Lula | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-01/ministros-voltam-terra-indigena-yanomami-apos-reuniao-com-lula"
+    },
+    {
+      "title": "O que mudou em três anos da crise Yanomami | G1",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/01/20/o-que-mudou-em-tres-anos-da-crise-yanomami-liderancas-apontam-o-que-ainda-falta-na-maior-terra-indigena-do-pais.ghtml"
+    }
+  ],
+  "response": "A emergência humanitária na Terra Yanomami foi declarada pelo governo de Luiz Inácio Lula da Silva. Em janeiro de 2023, após assumir a presidência, Lula visitou a região e decretou emergência em saúde pública devido à grave crise de desassistência sanitária e nutricional enfrentada pelos povos Yanomami. O governo de Lula implementou uma série de medidas emergenciais para enfrentar a situação, incluindo a criação de um comitê de coordenação nacional e a declaração de Emergência em Saúde Pública de Importância Nacional.",
+  "response_no_search": "A emergência humanitária na terra Yanomami foi declarada pelo governo Lula. Em janeiro de 2023, o governo de Luiz Inácio Lula da Silva declarou emergência em saúde pública na região Yanomami, em resposta à grave crise de desnutrição e saúde enfrentada pelos povos indígenas devido, em parte, ao garimpo ilegal e à falta de assistência adequada durante o governo anterior.",
+  "error": null
+}

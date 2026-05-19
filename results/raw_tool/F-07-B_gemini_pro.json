@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF determina suspensão do X, antigo Twitter, em todo o território",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-suspensao-do-x-antigo-twitter-em-todo-o-territorio-nacional-2/"
+    },
+    {
+      "title": "Rede social X é suspensa no Brasil após ordem de Moraes - G1",
+      "url": "https://g1.globo.com/tecnologia/noticia/2024/08/31/rede-social-x-suspensa-no-brasil.ghtml"
+    },
+    {
+      "title": "Moraes determina bloqueio do X no Brasil após Elon Musk ... - BBC",
+      "url": "https://www.bbc.com/portuguese/articles/c4gz28359d4o"
+    },
+    {
+      "title": "O que está por trás da suspensão do X no Brasil? - 03/09/2024 - Tv Folha - Folha",
+      "url": "https://www1.folha.uol.com.br/tv/2024/09/o-que-esta-por-tras-da-suspensao-do-x-no-brasil.shtml"
+    },
+    {
+      "title": "Alexandre de Moraes ordena suspensão imediata do X no Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/alexandre-de-moraes-manda-bloquear-o-x-no-brasil/"
+    }
+  ],
+  "response": "O X (antigo Twitter) foi suspenso no Brasil a partir de 30 de agosto de 2024 por determinação do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). A decisão foi mantida de forma unânime pela Primeira Turma do STF.\n\nOs principais motivos para a suspensão foram:\n\n1.  **Descumprimento de Ordens Judiciais:** A plataforma estava se recusando a cumprir decisões judiciais brasileiras, como o bloqueio de perfis investigados por disseminar desinformação e ataques às instituições.\n2.  **Falta de Representante Legal no Brasil:** Em 17 de agosto, o X anunciou",
+  "response_no_search": "É importante esclarecer que, até a data atual (maio de 2024), o X (antigo Twitter) **não foi suspenso no Brasil**. A sua pergunta se refere",
+  "error": null
+}

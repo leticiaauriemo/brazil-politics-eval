@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Romeu Zema as a member of the Partido Novo and provides accurate context about his political history."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Romeu Zema's current affiliation as Partido Novo and distinguishes it from PL, the party of Jair Bolsonaro."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

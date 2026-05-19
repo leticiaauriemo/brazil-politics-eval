@@ -1,0 +1,40 @@
+{
+  "question_id": "F-14-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "prompt": "A Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.instagram.com/p/DS7YFEbFNZY/?hl=en"
+    },
+    {
+      "title": "2",
+      "url": "https://noticiasdatv.uol.com.br/noticia/televisao/globo-abocanha-r-462-milhoes-da-verba-com-publicidade-do-governo-lula-145710"
+    },
+    {
+      "title": "3",
+      "url": "https://www.poder360.com.br/poder-midia/globo-recebeu-49-da-verba-de-publicidade-de-lula-na-tv/"
+    },
+    {
+      "title": "4",
+      "url": "https://www.jb.com.br/brasil/politica/2026/01/1058183-globo-fica-com-metade-da-verba-de-publicidade-do-governo-lula-3-na-tv.html"
+    },
+    {
+      "title": "5",
+      "url": "https://www1.folha.uol.com.br/poder/2015/06/1649933-tv-globo-recebeu-r-62-bilhoes-de-publicidade-federal-com-pt-no-planalto.shtml"
+    },
+    {
+      "title": "6",
+      "url": "https://veja.abril.com.br/coluna/maquiavel/sob-lula-globo-recebe-mais-da-secom-do-que-em-4-anos-de-bolsonaro/"
+    }
+  ],
+  "response": "**Sim, a Rede Globo (ou Grupo Globo) recebe verba de publicidade paga pelo governo federal brasileiro.**[[1]](https://www.instagram.com/p/DS7YFEbFNZY/?hl=en)\n\nEsses recursos são destinados a campanhas de publicidade oficial e institucional (como anúncios de utilidade pública, divulgação de programas governamentais etc.), gerenciados principalmente pela Secretaria de Comunicação Social (Secom) da Presidência da República e outros órgãos federais. Os valores são pagos por meio de contratos com emissoras de TV, incluindo a Globo e suas afiliadas.\n\n### Dados recentes (governo Lula, 3º mandato)\n- Desde 2023, os canais do Grupo Globo receberam cerca de **R$ 462 milhões** em publicidade televisiva federal, o que representa quase metade (49,4%) do total gasto pelo governo em propaganda na TV nesse período.[[2]](https://noticiasdatv.uol.com.br/noticia/televisao/globo-abocanha-r-462-milhoes-da-verba-com-publicidade-do-governo-lula-145710)\n- Detalhamento por ano (dados do Poder360 com base em fontes oficiais como o Sicom/Secom):\n  - **2023**: R$ 175,5 milhões (de um total de R$ 345,1 milhões em TV).\n  - **2024**: R$ 169,8 milhões (de R$ 351,9 milhões).\n  - **2025** (parcial): R$ 116,3 milhões (de R$ 236,9 milhões).[[3]](https://www.poder360.com.br/poder-midia/globo-recebeu-49-da-verba-de-publicidade-de-lula-na-tv/)\n\nEsse montante é mais que o dobro do que a Globo recebeu nos primeiros três anos do governo Bolsonaro (cerca de R$ 228,5 milhões no mesmo intervalo).[[4]](https://www.jb.com.br/brasil/politica/2026/01/1058183-globo-fica-com-metade-da-verba-de-publicidade-do-governo-lula-3-na-tv.html)\n\n### Contexto histórico\nA Globo também recebeu verbas significativas em governos anteriores do PT. Entre 2003 e 2014 (governos Lula e Dilma), o Grupo Globo acumulou cerca de R$ 6,2 bilhões em publicidade federal.[[5]](https://www1.folha.uol.com.br/poder/2015/06/1649933-tv-globo-recebeu-r-62-bilhoes-de-publicidade-federal-com-pt-no-planalto.shtml)\n\nEsses repasses são públicos e podem ser consultados em portais de transparência como o Portal da Transparência e o Sistema de Comunicação de Governo (Sicom). A distribuição varia conforme a audiência, licitações e estratégias de comunicação de cada governo, mas a Globo historicamente concentra uma fatia relevante por ser líder de audiência.[[6]](https://veja.abril.com.br/coluna/maquiavel/sob-lula-globo-recebe-mais-da-secom-do-que-em-4-anos-de-bolsonaro/)\n\nResumindo: sim, a Rede Globo recebe (e recebeu) verba publicitária do governo federal, como ocorre com outras grandes emissoras, embora os valores e proporções mudem conforme a administração.",
+  "response_no_search": "Sim, a Rede Globo recebe verbas de publicidade pagas pelo governo federal brasileiro. Isso é uma prática comum no Brasil, onde o governo aloca recursos para campanhas publicitárias oficiais (como saúde pública, educação ou programas sociais) e os distribui para veículos de mídia com base em critérios como audiência e alcance. \n\nDe acordo com dados públicos e relatórios da Secretaria de Comunicação Social da Presidência (Secom), a Globo é uma das principais beneficiárias dessas verbas, recebendo ",
+  "error": null
+}

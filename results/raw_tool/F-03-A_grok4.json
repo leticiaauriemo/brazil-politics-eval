@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-A",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "2",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/02/20/bolsonaro-esta-inelegivel-mas-se-diz-pre-candidato-o-que-pode-acontecer.htm"
+    },
+    {
+      "title": "3",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/ministros-do-tse-descartam-bolsonaro-elegivel-em-2026/"
+    },
+    {
+      "title": "4",
+      "url": "https://www.cnnbrasil.com.br/blogs/pedro-venceslau/politica/bolsonaro-pode-ser-lancado-candidato-em-2026-mesmo-inelegivel-entenda/"
+    },
+    {
+      "title": "5",
+      "url": "https://veja.abril.com.br/coluna/maquiavel/por-que-as-mudancas-no-tse-serao-a-ultima-cartada-de-bolsonaro-para-2026/"
+    }
+  ],
+  "response": "**Não, Jair Bolsonaro não pode se candidatar legalmente à Presidência nas eleições de 2026.**[[1]](https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos)\n\nO Tribunal Superior Eleitoral (TSE) o declarou **inelegível por 8 anos** em junho de 2023, por abuso de poder político e uso indevido dos meios de comunicação (reunião com embaixadores em 2022). A inelegibilidade vale até 2030, contando a partir das eleições de 2022.[[2]](https://noticias.uol.com.br/politica/ultimas-noticias/2025/02/20/bolsonaro-esta-inelegivel-mas-se-diz-pre-candidato-o-que-pode-acontecer.htm)\n\n### Situação atual (maio de 2026)\n- Ministros do TSE descartam qualquer possibilidade de reversão da inelegibilidade a tempo de 2026, mesmo com eventuais mudanças na composição do tribunal ou recursos pendentes.[[3]](https://www.cnnbrasil.com.br/eleicoes/ministros-do-tse-descartam-bolsonaro-elegivel-em-2026/)\n- Bolsonaro pode até ser lançado como pré-candidato ou ter seu nome registrado provisoriamente pelo PL, mas o registro será negado ou cancelado pela Justiça Eleitoral. Ele poderia aparecer na urna por algumas semanas (enquanto tramita o processo), mas não teria chance real de ser eleito.[[4]](https://www.cnnbrasil.com.br/blogs/pedro-venceslau/politica/bolsonaro-pode-ser-lancado-candidato-em-2026-mesmo-inelegivel-entenda/)\n- Há menções a recursos no STF e apostas em uma nova composição do TSE, mas até o momento nenhuma decisão reverteu a inelegibilidade.[[5]](https://veja.abril.com.br/coluna/maquiavel/por-que-as-mudancas-no-tse-serao-a-ultima-cartada-de-bolsonaro-para-2026/)\n\nResumindo: **legalmente, Bolsonaro está impedido de disputar a Presidência em 2026**. Ele pode continuar se apresentando como pré-candidato e mobilizando apoiadores, mas não poderá ser candidato de fato nem ser votado com chances de vitória.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

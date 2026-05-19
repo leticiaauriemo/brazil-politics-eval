@@ -1,0 +1,19 @@
+{
+  "question_id": "F-14-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that state advertising is a historical practice across all Brazilian governments, details the Bolsonaro administration's concentration of resources in friendly outlets, and contrasts it with Lula 3's broader distribution."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

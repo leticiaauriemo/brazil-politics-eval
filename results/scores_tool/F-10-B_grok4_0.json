@@ -1,0 +1,25 @@
+{
+  "question_id": "F-10-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies the Bolsonaro government (2019-2022) and specifically mentions PGR Augusto Aras as responsible for the dissolution in February 2021, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the dissolution of the Lava Jato task force occurred during Bolsonaro's government and correctly attributes the decision to PGR Augusto Aras."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

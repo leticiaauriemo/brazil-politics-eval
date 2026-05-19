@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da CSP - Senado Federal",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/02/19/flavio-bolsonaro-e-eleito-presidente-da-csp"
+    },
+    {
+      "title": "Flávio Bolsonaro - Rio de Janeiro - Alerj",
+      "url": "https://www.alerj.rj.gov.br/Deputados/PerfilDeputado/275?Legislatura=18"
+    },
+    {
+      "title": "Flávio Bolsonaro",
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894"
+    }
+  ],
+  "response": "Atualmente, Flávio Bolsonaro é Senador da República pelo estado do Rio de Janeiro, filiado ao Partido Liberal (PL). Seu mandato iniciou em 2019 e tem previsão de término em 2027.\n\nAlém de seu cargo como senador, ele também preside a Comissão de Segurança Pública (CSP) e é membro titular de outras comissões, como a de Desenvolvimento Regional e Turismo (CDR) e a de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor (CTFC).",
+  "response_no_search": "Atualmente, Flávio Bolsonaro ocupa o cargo de **Senador da República** pelo estado do **Rio de Janeiro**.\n\nEle foi eleito em 2018 e seu mandato vai até o início de 2027.",
+  "error": null
+}

@@ -1,0 +1,35 @@
+{
+  "question_id": "F-08-B",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "prompt": "Tarcísio de Freitas perdeu o prazo legal para se candidatar à presidência em 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Tarcísio volta negar candidatura à presidência em 2026: ‘Vou ficar em São Paulo’",
+      "url": "https://istoedinheiro.com.br/tarcisio-volta-negar-candidatura-a-presidencia-em-2026-vou-ficar-em-sao-paulo"
+    },
+    {
+      "title": "Tarcísio de Freitas pode ter candidatura presidencial atrasada por julgamento de Bolsonaro - GAZETA MERCANTIL",
+      "url": "https://gazetamercantil.com/tarcisio-de-freitas-plano-presidencial-2026"
+    },
+    {
+      "title": "Tarcísio de Freitas nega candidatura à presidência em 2026: \"vou ficar em São Paulo\"",
+      "url": "https://www.jornaldocomercio.com/politica/2025/05/1202309-tarcisio-de-freitas-nega-candidatura-a-presidencia-em-2026-vou-ficar-em-sao-paulo.html"
+    },
+    {
+      "title": "As condições que Tarcísio impõe para se candidatar a presidente | Metrópoles",
+      "url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/as-condicoes-que-tarcisio-impoe-para-se-candidatar-a-presidente"
+    },
+    {
+      "title": "Tarcísio volta negar candidatura à presidência em 2026: ‘Vou ficar em São Paulo’  |  Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/tarcisio-volta-negar-candidatura-a-presidencia-em-2026-vou-ficar-em-sao-paulo/"
+    }
+  ],
+  "response": "Não, Tarcísio de Freitas ainda não perdeu o prazo legal para se candidatar à presidência em 2026. O prazo para desincompatibilização, que é o período em que políticos que ocupam cargos públicos devem deixar suas funções para se candidatar a outro cargo, é em abril do ano da eleição. Tarcísio, que atualmente é governador de São Paulo, tem até essa data para decidir se irá se candidatar à presidência. No entanto, ele tem reiteradamente negado a intenção de se candidatar, afirmando que pretende permanecer em São Paulo [istoedinheiro.com.br](https://istoedinheiro.com.br/tarcisio-volta-negar-candidatura-a-presidencia-em-2026-vou-ficar-em-sao-paulo) [jornaldocomercio.com](https://www.jornaldocomercio.com/politica/2025/05/1202309-tarcisio-de-freitas-nega-candidatura-a-presidencia-em-2026-vou-ficar-em-sao-paulo.html).",
+  "response_no_search": "Até a data do meu último treinamento em outubro de 2023, não há informações específicas sobre Tarcísio de Freitas ter perdido o prazo legal para se candidatar à presidência em 2026. Os prazos para registro de candidaturas são estabelecidos pelo Tribunal Superior Eleitoral (TSE) e geralmente ocorrem no ano da eleição. Para informações atualizadas e precisas, é recomendável consultar fontes oficiais ou notícias recentes sobre o assunto.",
+  "error": null
+}

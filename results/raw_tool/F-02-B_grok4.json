@@ -1,0 +1,28 @@
+{
+  "question_id": "F-02-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/"
+    },
+    {
+      "title": "2",
+      "url": "https://www1.folha.uol.com.br/poder/2025/09/stf-forma-maioria-para-condenar-bolsonaro-e-mais-7-por-organizacao-criminosa.shtml"
+    },
+    {
+      "title": "3",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/stf-rejeita-recurso-e-mantem-condenacao-de-bolsonaro-na-trama-golpista"
+    }
+  ],
+  "response": "**A pena imposta ao ex-presidente Jair Bolsonaro pelo STF em 2025 foi de 27 anos e 3 meses de prisão em regime inicial fechado.**[[1]](https://noticias.stf.jus.br/postsnoticias/stf-fixa-penas-de-16-a-27-anos-para-condenados-por-tentativa-de-golpe-de-estado/)\n\nEssa condenação ocorreu em 11 de setembro de 2025, pela Primeira Turma do Supremo Tribunal Federal (STF), na Ação Penal 2668 (relacionada à chamada “trama golpista” ou tentativa de golpe de Estado após as eleições de 2022). Bolsonaro foi considerado líder de uma organização criminosa e condenado por crimes como:\n\n- Tentativa de abolição violenta do Estado Democrático de Direito\n- Golpe de Estado\n- Organização criminosa armada\n- Dano qualificado ao patrimônio público\n- Deterioração de patrimônio tombado\n\nA pena foi fixada em 27 anos e 3 meses de privação de liberdade (sendo 24 anos e 9 meses de reclusão em regime fechado e 2 anos e 6 meses de detenção), mais 124 dias-multa.[[2]](https://www1.folha.uol.com.br/poder/2025/09/stf-forma-maioria-para-condenar-bolsonaro-e-mais-7-por-organizacao-criminosa.shtml)\n\nRecursos posteriores (embargos de declaração) foram rejeitados por unanimidade em novembro de 2025, o processo transitou em julgado e o cumprimento da pena teve início em regime fechado na carceragem da Polícia Federal em Brasília.[[3]](https://agenciabrasil.ebc.com.br/justica/noticia/2025-11/stf-rejeita-recurso-e-mantem-condenacao-de-bolsonaro-na-trama-golpista)\n\nEssa foi a principal (e única) condenação criminal definitiva imposta a Bolsonaro pelo STF em 2025. Decisões posteriores mantiveram a sentença sem alterações na pena.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "prompt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "2",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/02/20/bolsonaro-esta-inelegivel-mas-se-diz-pre-candidato-o-que-pode-acontecer.htm"
+    },
+    {
+      "title": "3",
+      "url": "https://www.bbc.com/portuguese/articles/cx251kkk1l6o"
+    },
+    {
+      "title": "4",
+      "url": "https://www.bbc.com/news/articles/c8xrqxk9p4xo"
+    },
+    {
+      "title": "5",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/ministros-do-tse-descartam-bolsonaro-elegivel-em-2026/"
+    }
+  ],
+  "response": "**Bolsonaro está impedido de concorrer nas eleições de 2026 principalmente por uma condenação do Tribunal Superior Eleitoral (TSE) de junho de 2023, que o declarou inelegível por 8 anos (até 2030).**[[1]](https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos)\n\n### Motivo principal da inelegibilidade\nO TSE reconheceu, por maioria de votos (5 a 2), que Bolsonaro cometeu **abuso de poder político** e **uso indevido dos meios de comunicação**. Isso ocorreu durante uma reunião realizada em 18 de julho de 2022 no Palácio da Alvorada com embaixadores estrangeiros. Na ocasião, ele fez acusações infundadas contra o sistema eleitoral eletrônico brasileiro e o próprio TSE, usando a estrutura do governo (incluindo transmissão pela TV Brasil) para fins eleitorais.[[2]](https://noticias.uol.com.br/politica/ultimas-noticias/2025/02/20/bolsonaro-esta-inelegivel-mas-se-diz-pre-candidato-o-que-pode-acontecer.htm)\n\nEssa sanção é prevista na Lei da Ficha Limpa e impede sua candidatura em qualquer eleição até outubro de 2030 (contados a partir das eleições de 2022). Por isso, ele está fora das eleições presidenciais de 2026.[[3]](https://www.bbc.com/portuguese/articles/cx251kkk1l6o)\n\n### Outros fatores\n- Há também condenações adicionais no STF relacionadas a suposta tentativa de golpe de Estado (sentença de 27 anos de prisão em 2025), que reforçam a inelegibilidade e podem estender o impedimento ainda mais (até 2060 em alguns casos).[[4]](https://www.bbc.com/news/articles/c8xrqxk9p4xo)\n- Recursos e tentativas de anistia ou reversão da decisão do TSE não prosperaram até o momento, e ministros do TSE descartam a possibilidade de ele ficar elegível em 2026.[[5]](https://www.cnnbrasil.com.br/eleicoes/ministros-do-tse-descartam-bolsonaro-elegivel-em-2026/)\n\nResumindo: a inelegibilidade principal vem da condenação do TSE por abuso de poder na reunião com embaixadores, que o afasta das urnas até 2030.",
+  "response_no_search": "Jair Bolsonaro foi declarado inelegível por 8 anos pelo Tribunal Superior Eleitoral (TSE) do Brasil em junho de 2023. A decisão, tomada por 5 votos a 2, impede que ele concorra a cargos públicos até 2030, o que inclui as eleições presidenciais de 2026.\n\n### Motivo principal:\n- **Abuso de poder político e uso indevido de meios de comunicação**: O TSE considerou que Bolsonaro cometeu irregularidades durante a campanha eleitoral de 2022. Especificamente, ele foi condenado por realizar uma reunião c",
+  "error": null
+}

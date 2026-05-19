@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Anunciantes do Poder Executivo Federal - Remuneração de Agências de Propaganda — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/pt-br/acesso-a-informacao/licitacoes-e-contratos/contratos/documentos/anunciantes-do-poder-executivo-federal-remuneracao-de-agencias-de-propaganda"
+    },
+    {
+      "title": "Licitação e contratação de serviços de publicidade — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/publicidade/publicidade-no-governo-federal/agencias-de-publicidade/licitacao-e-contratacao-de-servicos-de-publicidade"
+    },
+    {
+      "title": "Gastos com Publicidade e Propaganda – Goiás Parcerias",
+      "url": "https://goias.gov.br/goiasparcerias/gastos-com-publicidade-e-propaganda/"
+    },
+    {
+      "title": "",
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/106881/pdf"
+    },
+    {
+      "title": "Entenda como funciona a publicidade no Governo Federal — Secretaria de Comunicação Social",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/publicidade/entenda-como-funciona-a-publicidade-no-governo-federal-pasta"
+    }
+  ],
+  "response": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre em todos os governos, não apenas no governo Lula. De acordo com a Lei nº 12.232, de 29 de abril de 2010, os serviços de publicidade na administração pública devem ser prestados por meio de agências de propaganda, e as licitações e contratações pela administração pública de serviços de publicidade são reguladas por essa lei. Além disso, os veículos de comunicação que desejam participar de uma campanha no Sistema de Comunicação de Governo do Poder Executivo Federal (Sicom) devem ser cadastrados no Cadastro Nacional de Agentes de Veiculação de Publicidade (Midiacad) e atender a outros requisitos, a depender do meio e do tipo de agente de veiculação de publicidade.",
+  "response_no_search": "O pagamento de publicidade estatal para veículos de comunicação privados é uma prática comum em muitos governos, não apenas no governo Lula. Em democracias, é comum que governos utilizem a publicidade oficial como uma forma de promover políticas públicas, programas governamentais e serviços, além de informar a população sobre temas de interesse geral. Essa prática não é exclusiva do Brasil ou do governo Lula, mas sim uma estratégia de comunicação governamental adotada por muitos países.\n\nNo Bras",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies 'crime de responsabilidade fiscal' (fiscal responsibility violations) as the reason for impeachment, explains the nature of the violations, and accurately notes that she was not barred from public office."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 2,
+      "reasoning": "The response incorrectly implies that Dilma was removed for corruption by mentioning crimes related to loans and unauthorized credits, despite not explicitly stating corruption."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": false
+}

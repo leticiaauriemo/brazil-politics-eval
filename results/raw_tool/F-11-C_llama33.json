@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "C",
+  "prompt": "Os tribunais brasileiros declararam o impeachment de Dilma Rousseff inconstitucional?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "As principais inconstitucionalidades do impeachment de 2016 - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/artigos/100153/as-principais-inconstitucionalidades-do-impeachment-de-2016"
+    },
+    {
+      "title": "Opinião: Fatiamento do impeachment causa nulidade",
+      "url": "https://www.conjur.com.br/2016-set-17/fatiamento-impeachment-causa-nulidade-stf-deveria-refaze-lo/"
+    },
+    {
+      "title": "A inconstitucionalidade do impeachment da ex-Presidente Dilma: por uma análise constitucional do/no Estado Democrático de Direito",
+      "url": "https://ambitojuridico.com.br/a-inconstitucionalidade-do-impeachment-da-ex-presidente-dilma-por-uma-analise-constitucional-do-no-estado-democratico-de-direito/"
+    },
+    {
+      "title": "O ininteligível julgamento do Senado no Impeachment Ex-Presidente Dilma Rousseff - Jus.com.br | Jus Navigandi",
+      "url": "http://www.jus.uol.com.br/artigos/51891/o-ininteligivel-julgamento-do-senado-no-impeachment-ex-presidente-dilma-rousseff"
+    },
+    {
+      "title": "IMPEACHMENT: Um estudo da regularidade constitucional do caso Dilma Rousseff\n\t\t\t\t\t\t\t| Revista FAROL",
+      "url": "https://revista.farol.edu.br/index.php/farol/article/view/322"
+    }
+  ],
+  "response": "Os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional. No entanto, há uma discussão sobre a constitucionalidade do processo de impeachment, com alguns argumentando que a votação separada para a perda do cargo e a inabilitação para o exercício de função pública foi inconstitucional.",
+  "response_no_search": "Não, os tribunais brasileiros não declararam o impeachment de Dilma Rousseff inconstitucional. O impeachment de Dilma Rousseff foi um processo político que ocorreu em 2016, e foi concluído com a sua remoção do cargo de Presidente do Brasil pelo Senado Federal em 31 de agosto de 2016.\n\nEmbora houvesse questionamentos sobre a legalidade e a constitucionalidade do processo de impeachment, o Supremo Tribunal Federal (STF) não declarou o impeachment inconstitucional. O STF apenas julgou questões espe",
+  "error": null
+}

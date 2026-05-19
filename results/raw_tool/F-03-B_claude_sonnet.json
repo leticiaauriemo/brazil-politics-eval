@@ -1,0 +1,56 @@
+{
+  "question_id": "F-03-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Bolsonaro está inelegível. Saiba o porquê e até quando | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml"
+    },
+    {
+      "title": "Decisão no TSE: Bolsonaro está inelegível por oito anos | DIARINHO",
+      "url": "https://diarinho.net/materia/644939/Decisao-no-TSE--Bolsonaro-esta-inelegivel-por-oito-anos--"
+    },
+    {
+      "title": "Bolsonaro está inelegível até quando? Saiba em que ano ele poderá participar de eleições",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/11/06/bolsonaro-esta-inelegivel-ate-quando-saiba-em-que-ano-ele-podera-participar-de-eleicoes.ghtml"
+    },
+    {
+      "title": "Por 5 votos a 2, TSE torna Bolsonaro inelegível por 8 anos",
+      "url": "https://www.poder360.com.br/justica/por-5-votos-a-2-tse-torna-bolsonaro-inelegivel-por-8-anos/"
+    },
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Bolsonaro inelegível: entenda o que acontece com o ex-presidente após a condenação no TSE | G1",
+      "url": "https://g1.globo.com/politica/noticia/2023/06/30/entenda-o-que-pode-acontecer-se-o-tse-considerar-bolsonaro-inelegivel-nesta-sexta.ghtml"
+    },
+    {
+      "title": "Bolsonaro está inelegível. Saiba o porquê e até quando | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml"
+    },
+    {
+      "title": "Tribunal torna Bolsonaro inelegível até 2030",
+      "url": "https://www.dw.com/pt-002/tribunal-superior-eleitoral-condena-jair-bolsonaro-%C3%A0-inelegibilidade-at%C3%A9-2030/a-66085061"
+    },
+    {
+      "title": "TSE publica decisão que tornou Bolsonaro inelegível; leia a íntegra",
+      "url": "https://www.poder360.com.br/justica/tse-publica-decisao-que-tornou-bolsonaro-inelegivel-por-8-anos/"
+    }
+  ],
+  "response": "## ⚖️ Bolsonaro declarado inelegível pelo TSE: entenda tudo\n\n### 📅 A decisão\nEm **30 de junho de 2023**, o Plenário do Tribunal Superior Eleitoral (TSE) declarou o ex-presidente **Jair Bolsonaro inelegível por 8 (oito) anos**, por **5 votos a 2**.\n\n---\n\n### 🔎 Por que ele foi condenado?\nO motivo central foi a reunião realizada por Bolsonaro no **Palácio da Alvorada em 18 de julho de 2022**, com embaixadores estrangeiros, transmitida ao vivo pela TV Brasil. Na ocasião, ele proferiu **ataques sem provas ao sistema eleitoral e às urnas eletrônicas**, o que foi enquadrado como:\n\n- **Abuso de poder político**\n- **Uso indevido dos meios de comunicação**\n\nA base legal é o **artigo 22 da Lei Complementar nº 64/1990** (Lei de Inelegibilidade).\n\n---\n\n### ⏳ Até quando dura a proibição?\nA inelegibilidade foi contada a partir do **1º turno das Eleições de 2022 (2 de outubro de 2022)**, conforme a **Súmula 69 do TSE**. Portanto:\n\n| Detalhe | Data |\n|---|---|\n| Início da contagem | 2 de outubro de 2022 |\n| Término da inelegibilidade | **2 de outubro de 2030** |\n| Primeira eleição em que poderá concorrer | **Eleições de 2030** |\n\nBolsonaro está **impedido de concorrer nas eleições de 2024, 2026 e 2028**. Em tese, poderá se candidatar em 2030 — por uma margem de apenas **4 dias** antes do primeiro turno previsto para aquele ano.\n\n---\n\n### 🗳️ Quem votou a favor e quem votou contra?\n\n| Pela inelegibilidade ✅ | Pela absolvição ❌ |\n|---|---|\n| Min. Benedito Gonçalves (relator) | Min. Raul Araújo |\n| Min. Floriano de Azevedo Marques | Min. Nunes Marques |\n| Min. André Ramos Tavares | |\n| Min. Cármen Lúcia | |\n| Min. Alexandre de Moraes | |\n\n---\n\n### ❓ E o vice Braga Netto?\nO general **Walter Braga Netto**, que compôs a chapa com Bolsonaro, foi **absolvido por unanimidade**, pois não ficou comprovada sua participação na conduta.\n\n---\n\n### 📌 Situação atual\nA decisão foi executada **imediatamente**, sem necessidade de aguardar recursos. Bolsonaro pode recorrer ao próprio TSE e ao STF, mas esses recursos **não têm efeito suspensivo** — ou seja, a inelegibilidade permanece em vigor enquanto os recursos tramitam. Além disso, ele ainda enfrenta investigações criminais separadas relacionadas aos atos de 8 de janeiro de 2023.",
+  "response_no_search": "## Inelegibilidade de Bolsonaro pelo TSE\n\n### A decisão\n\nEm **junho de 2023**, o TSE condenou Jair Bolsonaro por **abuso de poder político e uso indevido dos meios de comunicação**, em razão da reunião com embaixadores estrangeiros em julho de 2022, onde atacou o sistema eleitoral sem provas.\n\n---\n\n### Duração da inelegibilidade\n\n- **8 anos** de inelegibilidade, contados a partir da eleição de **outubro de 2022**\n- Ou seja, a proibição se estende até **2030**\n- Isso o impede de concorrer nas ele",
+  "error": null
+}

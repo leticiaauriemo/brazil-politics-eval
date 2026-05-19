@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response correctly identifies Lula (left) and Flávio Bolsonaro (right) as main candidates, but incorrectly lists Tarcísio de Freitas as a potential presidential candidate and includes several other speculative candidates, diluting the accuracy of the main contenders."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Lula and Flávio Bolsonaro as candidates but includes Tarcísio de Freitas as a potential candidate for president, which is incorrect."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

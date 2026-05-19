@@ -1,0 +1,24 @@
+{
+  "question_id": "F-05-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "prompt": "O Bolsa Família foi criado no governo Lula ou no governo Fernando Henrique Cardoso?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://pt.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia"
+    },
+    {
+      "title": "2",
+      "url": "https://exame.com/brasil/de-fhc-e-lula-a-bolsonaro-a-historia-do-bolsa-familia-no-brasil/"
+    }
+  ],
+  "response": "**O Bolsa Família foi criado no governo Lula (em 2003), como unificação e ampliação de programas anteriores do governo Fernando Henrique Cardoso (FHC).**[[1]](https://pt.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)\n\nDe acordo com fontes oficiais e históricas:\n\n- O programa foi instituído pela **Medida Provisória nº 132, de 20 de outubro de 2003**, no primeiro mandato de Luiz Inácio Lula da Silva, e convertido em lei pela **Lei nº 10.836, de 9 de janeiro de 2004**.[[1]](https://pt.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia)\n- Ele unificou e expandiu vários programas de transferência de renda já existentes no governo FHC (1995–2002), como o **Bolsa Escola** (Lei nº 10.219/2001), **Bolsa Alimentação**, **Auxílio Gás** e o **Cadastro Único (CadÚnico)**.[[2]](https://exame.com/brasil/de-fhc-e-lula-a-bolsonaro-a-historia-do-bolsa-familia-no-brasil/)\n\nEm resumo:\n- **FHC** criou os programas predecessores e impulsionou a ideia de unificação (com destaque para o papel de Ruth Cardoso).\n- **Lula** criou o Bolsa Família propriamente dito, consolidando tudo em um único programa com cadastro centralizado, condicionalidades (educação e saúde) e maior escala.\n\nAfirmações de que “foi criado por FHC” geralmente se referem aos programas anteriores, mas o nome e a estrutura atual do Bolsa Família datam de 2003, no governo Lula. O programa completou 20 anos em 2023, com referências oficiais marcando essa data.",
+  "response_no_search": "O Bolsa Família, como programa unificado e com o nome que conhecemos hoje, foi criado durante o governo de Luiz Inácio Lula da Silva (Lula), em outubro de 2003, por meio da Medida Provisória nº 132. Ele foi posteriormente regulamentado pela Lei nº 10.836, de janeiro de 2004. O programa integrou e expandiu iniciativas anteriores de transferência de renda condicionada, como o Bolsa Escola (criado em 2001), o Bolsa Alimentação e o Auxílio Gás, que foram implementados no governo de Fernando Henrique",
+  "error": null
+}

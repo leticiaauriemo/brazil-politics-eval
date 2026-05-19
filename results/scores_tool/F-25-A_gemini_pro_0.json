@@ -1,0 +1,25 @@
+{
+  "question_id": "F-25-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Romeu Zema as the governor of Minas Gerais but lacks details about his party affiliation and the context of his elections."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly identifies Romeu Zema as the governor of Minas Gerais and mentions his re-election for a second term in 2022, aligning with the ground truth."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

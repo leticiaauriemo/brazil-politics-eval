@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model accurately explains that Lula's convictions were annulled due to procedural issues (jurisdiction and partiality) and not because he was found innocent, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 2,
+      "reasoning": "The response incorrectly states that Lula's status of innocence was restored due to the annulment, which misrepresents the court's decision."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 0.5,
+  "agreement": false
+}

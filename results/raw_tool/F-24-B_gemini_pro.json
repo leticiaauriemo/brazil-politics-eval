@@ -1,0 +1,36 @@
+{
+  "question_id": "F-24-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "B",
+  "prompt": "Lula está em seu segundo ou terceiro mandato presidencial?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Congresso empossa Lula e Alckmin na Presidência da República — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/01/01/congresso-empossa-lula-e-alckmin-na-presidencia-da-republica"
+    },
+    {
+      "title": "Veja quando termina o 3º mandato de Lula como presidente da ...",
+      "url": "https://valor.globo.com/politica/noticia/2023/01/01/veja-quando-termina-o-3o-mandato-de-lula-como-presidente-da-republica.ghtml"
+    },
+    {
+      "title": "Lula é eleito presidente da República pela terceira vez",
+      "url": "https://www12.senado.leg.br/noticias/materias/2022/10/30/lula-e-eleito-presidente-da-republica-pela-terceira-vez"
+    },
+    {
+      "title": "Período de mandato do ex-presidente Lula: datas e informações relevantes",
+      "url": "https://reyabogado.com/brasil/qual-ano-o-lula-saiu-do-governo/"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"
+    }
+  ],
+  "response": "Lula está em seu terceiro mandato presidencial. Seus dois primeiros mandatos foram de 2003 a 2011, e o atual começou em 2023.",
+  "response_no_search": "Lula está em seu **terceiro** mandato presidencial.\n\nOs mandatos dele são:\n\n*   **Primeiro mandato:** 2003 a 200",
+  "error": null
+}

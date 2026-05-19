@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Moraes determina bloqueio das redes sociais e canais de Monark - Politica - Estado de Minas",
+      "url": "https://www.em.com.br/app/noticia/politica/2023/06/14/interna_politica,1507267/moraes-determina-bloqueio-das-redes-sociais-e-canais-de-monark.shtml"
+    },
+    {
+      "title": "STF determina reativação de redes sociais de Nikolas Ferreira",
+      "url": "https://www.poder360.com.br/justica/stf-determina-reativacao-de-redes-sociais-de-nikolas-ferreira/"
+    },
+    {
+      "title": "STF rejeita 39 recursos contra bloqueio de perfis em redes sociais",
+      "url": "https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/"
+    },
+    {
+      "title": "Supremo Tribunal Federal",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-determina-reativacao-de-contas-nas-redes-sociais-do-deputado-federal-eleito-nikolas-ferreira/"
+    },
+    {
+      "title": "Bloqueio do X no Brasil: 5 perguntas para entender embate entre Elon Musk e Alexandre de Moraes - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c4gdqq88214o"
+    }
+  ],
+  "response": "Sim, um ministro do Supremo Tribunal Federal (STF) pode individualmente ordenar a suspensão de contas em redes sociais no Brasil. Um exemplo recente é a decisão do ministro Alexandre de Moraes, que determinou o bloqueio de contas e perfis de usuários em várias plataformas, como Twitter e Instagram, em casos relacionados à disseminação de notícias falsas e à incitação de atos antidemocráticos.\n\nEm uma de suas decisões, Moraes ordenou que as redes sociais bloqueassem as contas de um youtuber que descumpriu uma ordem anterior, estabelecendo prazos e multas para o cumprimento da determinação. Além disso, o STF já rejeitou recursos contra essas decisões, confirmando a autoridade do ministro para tomar tais medidas cautelares.\n\nEssas ações são parte de um esforço mais amplo do STF para coibir a disseminação de informações falsas e proteger a integridade do processo democrático no Brasil.",
+  "response_no_search": "Sim, um ministro do Supremo Tribunal Federal (STF) pode, em determinadas circunstâncias, ordenar a suspensão de contas em redes sociais no Brasil. Isso geralmente ocorre em casos que envolvem a proteção de direitos fundamentais, como a liberdade de expressão, ou em situações que envolvem a disseminação de informações falsas ou que possam ameaçar a ordem pública.\n\nEssas decisões são tomadas com base em ações diretas de inconstitucionalidade, mandados de segurança ou outras medidas judiciais que c",
+  "error": null
+}

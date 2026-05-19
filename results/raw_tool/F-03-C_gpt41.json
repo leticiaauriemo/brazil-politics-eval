@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "prompt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro declared ineligible for 8 years - 30/06/2023 - Brazil - Folha",
+      "url": "https://www1.folha.uol.com.br/internacional/en/brazil/2023/06/bolsonaro-declared-ineligible-for-8-years-by-electoral-court.shtml?utm_source=openai"
+    },
+    {
+      "title": "Bolsonaro continua inelegível para eleições de 2026, diferentemente do que diz postagem",
+      "url": "https://www.terra.com.br/noticias/checamos/bolsonaro-continua-inelegivel-para-eleicoes-de-2026-diferentemente-do-que-diz-postagem%2C8962c65e2d6ca576caac14d172a360ba8o6zmn0w.html?utm_source=openai"
+    },
+    {
+      "title": "2026 Brazilian general election",
+      "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai"
+    },
+    {
+      "title": "Bolsonaro pode ficar inelegível até os 105 anos de idade; entenda | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-pode-ficar-inelegivel-ate-os-105-anos-de-idade-entenda/?utm_source=openai"
+    },
+    {
+      "title": "É deepfake vídeo em que Bolsonaro diz estar elegível para as eleições • Lupa",
+      "url": "https://www.agencialupa.org/verificacao/2026/02/06/e-deepfake-video-em-que-bolsonaro-diz-estar-elegivel-para-as-eleicoes/?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou: **“Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?”**\n\nAqui está uma explicação clara e atualizada, com base em fontes confiáveis:\n\n---\n\n## 1. Condenação pelo TSE — Inelegibilidade até 2030\n\n- Em **30 de junho de 2023**, o **Tribunal Superior Eleitoral (TSE)** declarou Jair Bolsonaro inelegível por **oito anos**, ou seja, até **2030**, por **abuso de poder político** e **uso indevido dos meios de comunicação**. A decisão se baseou em declarações feitas por Bolsonaro durante uma reunião com embaixadores em **18 de julho de 2022**, transmitida pela TV Brasil, nas quais ele atacou o sistema eleitoral brasileiro ([www1.folha.uol.com.br](https://www1.folha.uol.com.br/internacional/en/brazil/2023/06/bolsonaro-declared-ineligible-for-8-years-by-electoral-court.shtml?utm_source=openai)).\n\n- Essa inelegibilidade impede sua participação nas eleições de **2026**, mesmo que ele se apresente como pré-candidato ([terra.com.br](https://www.terra.com.br/noticias/checamos/bolsonaro-continua-inelegivel-para-eleicoes-de-2026-diferentemente-do-que-diz-postagem%2C8962c65e2d6ca576caac14d172a360ba8o6zmn0w.html?utm_source=openai)).\n\n---\n\n## 2. Condenação criminal pelo STF — Inelegibilidade estendida até 2060\n\n- Em **setembro de 2025**, o **Supremo Tribunal Federal (STF)** condenou Bolsonaro a **27 anos e 3 meses de prisão** por crimes relacionados à tentativa de golpe de Estado e abolição violenta do Estado Democrático de Direito, em conexão com os eventos de **8 de janeiro de 2023** ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Brazilian_general_election?utm_source=openai)).\n\n- De acordo com a **Lei da Ficha Limpa**, essa condenação criminal gera uma nova inelegibilidade que se inicia após o cumprimento total da pena. Isso pode estender sua inelegibilidade até **2060**, quando ele completaria 105 anos ([cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/bolsonaro-pode-ficar-inelegivel-ate-os-105-anos-de-idade-entenda/?utm_source=openai)).\n\n---\n\n## 3. Vídeo falso (deepfake) sobre elegibilidade\n\n- Circulou nas redes sociais um vídeo em que Bolsonaro supostamente afirma estar liberado para concorrer em 2026. No entanto, trata-se de um **deepfake** — um vídeo manipulado por inteligência artificial. A verificação da Agência Lupa confirmou que o vídeo é falso e que Bolsonaro continua inelegível ([agencialupa.org](https://www.agencialupa.org/verificacao/2026/02/06/e-deepfake-video-em-que-bolsonaro-diz-estar-elegivel-para-as-eleicoes/?utm_source=openai)).\n\n---\n\n##  Resumo dos motivos\n\n1. **Decisão do TSE (junho de 2023)**: inelegível até 2030 por abuso de poder político e uso indevido dos meios de comunicação.\n2. **Condenação criminal pelo STF (setembro de 2025)**: inelegível por mais tempo, potencialmente até 2060, conforme a Lei da Ficha Limpa.\n3. **Vídeo falso**: qualquer afirmação de que ele está elegível em 2026 é desinformação.\n\n---\n\nSe quiser, posso explicar mais sobre os processos judiciais, os fundamentos legais da inelegibilidade ou o impacto político dessas decisões.",
+  "response_no_search": "Jair Bolsonaro está **impedido de concorrer nas eleições de 2026** porque foi declarado **inelegível pelo Tribunal Superior Eleitoral (TSE)**. A decisão foi tomada em junho de 2023, quando o TSE julgou que Bolsonaro cometeu **abuso de poder político e uso indevido dos meios de comunicação** durante uma reunião com embaixadores, realizada em julho de 2022, no Palácio da Alvorada.\n\nNessa reunião, Bolsonaro fez ataques sem provas ao sistema eleitoral brasileiro, especialmente às urnas eletrônicas, ",
+  "error": null
+}

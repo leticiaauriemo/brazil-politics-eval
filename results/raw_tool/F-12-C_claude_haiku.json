@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Moraes inclui Bolsonaro em inquérito sobre ataques antidemocráticos | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-01/moraes-inclui-bolsonaro-em-inquerito-sobre-ataques-antidemocraticos"
+    },
+    {
+      "title": "Entrevistas à CNN: as visões de Lula, Bolsonaro, Moraes e outras autoridades sobre o 8/1 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/entrevistas-a-cnn-as-visoes-de-lula-bolsonaro-moraes-e-outras-autoridades-sobre-o-8-1/"
+    },
+    {
+      "title": "Bolsonaro depõe à PF sobre atos antidemocráticos de 8 de janeiro | Exame",
+      "url": "https://exame.com/brasil/bolsonaro-depoe-a-pf-sobre-atos-antidemocraticos-de-8-de-janeiro/"
+    },
+    {
+      "title": "Bolsonaro volta a lamentar atos de 8 de janeiro e diz que seu governo teve alguns “furos” - ISTOÉ Independente",
+      "url": "https://istoe.com.br/bolsonaro-volta-a-lamentar-atos-de-8-de-janeiro-e-diz-que-seu-governo-teve-alguns-furos"
+    },
+    {
+      "title": "Dois anos do 8 de janeiro: relembre a cronologia dos ataques aos Três Poderes - ISTOÉ Independente",
+      "url": "https://istoe.com.br/dois-anos-do-8-de-janeiro-relembre-a-cronologia-dos-ataques-aos-tres-poderes"
+    }
+  ],
+  "response": "Com base nos resultados da busca, **não, Bolsonaro não estava no Brasil no dia 8 de janeiro de 2023**.\n\nSegundo as informações encontradas:\n\n- **Bolsonaro estava nos Estados Unidos** (especificamente em Orlando, Flórida) no dia dos ataques aos Três Poderes\n- Ele havia viajado para os EUA **antes da posse de Lula** (que ocorreu em 1º de janeiro de 2023)\n- Bolsonaro só retornou ao Brasil em **30 de março de 2023**\n\nO dia 8 de janeiro de 2023 foi marcado pela invasão e depredação dos prédios do Palácio do Planalto, Congresso Nacional e Supremo Tribunal Federal por apoiadores de Bolsonaro. Embora o ex-presidente não estivesse fisicamente no Brasil, ele foi posteriormente investigado por possível incitação aos atos, especialmente após publicar um vídeo em suas redes sociais no dia 11 de janeiro questionando os resultados das eleições.",
+  "response_no_search": "# 8 de janeiro de 2023 - Bolsonaro no Brasil\n\nNão, Bolsonaro **não estava no Brasil** naquela data.\n\nEle estava nos **Estados Unidos** quando ocorreram os ataques à sede do Poder Executivo, Legislativo e Judiciário em Brasília no dia 8 de janeiro de 2023.\n\nBolsonaro havia deixado o Brasil em 30 de dezembro de 2022, dias antes do término de seu mandato presidencial (31 de dezembro), e estava em Orlando, Flórida, quando os eventos daquele dia aconteceram.",
+  "error": null
+}

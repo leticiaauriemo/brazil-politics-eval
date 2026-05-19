@@ -1,0 +1,15 @@
+{
+  "question_id": "F-25-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "A",
+  "prompt": "Romeu Zema é governador de qual estado?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Romeu Zema foi governador do estado de Minas Gerais (MG) de 2019 a 2026.**\n\n### Detalhes da Trajetória\n- **Eleição e Mandatos**: Eleito em 2018 no segundo turno com 72% dos votos (fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Romeu_Zema) e [Portal MG](https://www.mg.gov.br/governador/romeu-zema-neto)), assumiu em 2019 em meio a uma crise fiscal. Reeleito em 2022, com Mateus Simões como vice (fonte: [Casa Civil MG](https://www.casacivil.mg.gov.br/Institucional/Governador)).\n- **Renúncia Rece",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

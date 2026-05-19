@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ordem para suspender X completa um mês; STF aguarda pagamento de multa - Folha do País",
+      "url": "https://www.folhadopais.com/politica-41480"
+    },
+    {
+      "title": "Suspensão de perfis das redes por Moraes vira caixa-preta - 23/06/2024 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2024/06/suspensao-de-perfis-por-moraes-vira-caixa-preta-com-sigilo-e-exclusao-de-pf-e-pgr.shtml"
+    },
+    {
+      "title": "X obedece decisão de Moraes e suspende contas no Brasil",
+      "url": "https://www.gazetadopovo.com.br/republica/x-alexandre-moraes-suspende-contas-no-brasil-allan-dos-santos-paulo-figueiredo/"
+    },
+    {
+      "title": "Após novos ataques ao STF, Moraes suspende rede social e bloqueia até R$ 50 milhões de Marcos do Val",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/08/13/apos-novos-ataques-ao-stf-moraes-suspende-rede-social-e-bloqueia-ate-r-50-milhoes-de-marcos-do-val.ghtml"
+    },
+    {
+      "title": "MINISTRO DO STF MANDA SUSPENDER O X (TWITTER) DO BRASIL - VZ1 Notícias",
+      "url": "https://www.vz1.com.br/noticia/ministro-do-stf-manda-suspender-o-x-twitter-do-brasil"
+    }
+  ],
+  "response": "Sim, um ministro do Supremo Tribunal Federal (STF) pode, individualmente, ordenar a suspensão de contas em redes sociais no Brasil. O ministro Alexandre de Moraes, por exemplo, tem tomado várias decisões nesse sentido, determinando a suspensão de contas e até mesmo o bloqueio de plataformas de redes sociais, como o X (antigo Twitter), em todo o território nacional .\n\nEssas decisões são fundamentadas em descumprimentos de ordens judiciais e tentativas de não submissão ao sistema jurídico brasileiro, visando evitar um ambiente de impunidade nas redes sociais . Além disso, o ministro pode impor multas e outras medidas coercitivas para garantir o cumprimento de suas determinações .\n\nVale ressaltar que tais decisões podem ser contestadas e revisadas pelo próprio STF ou por outras instâncias judiciais, como ocorreu em alguns casos onde houve recursos apresentados por partidos e pela Ordem dos Advogados do Brasil (OAB) .",
+  "response_no_search": "No Brasil, a possibilidade de um ministro do Supremo Tribunal Federal (STF) ordenar a suspensão de contas em redes sociais é um tema complexo e controverso, envolvendo questões de liberdade de expressão, direitos individuais e a autoridade do Judiciário.\n\nEm teoria, um ministro do STF pode emitir decisões liminares (provisórias) com base em pedidos apresentados em ações judiciais, incluindo ações que envolvem a suspensão de contas em redes sociais. No entanto, essas decisões devem ser fundamenta",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "question_id": "F-23-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains Lula's eligibility to run for re-election in 2026, clarifies the non-consecutive mandate logic, and mentions the ongoing constitutional debate without overstating it."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

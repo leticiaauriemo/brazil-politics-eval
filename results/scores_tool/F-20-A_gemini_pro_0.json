@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states Brazil was 5th in total doses applied, contradicting the claim that it was 4th, and does not address the context of the vaccination performance."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Brazil was 5th globally in total COVID-19 vaccine doses applied, contradicting the ground truth that Brazil was 4th."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

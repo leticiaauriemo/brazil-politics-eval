@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies both arrests of Daniel Vorcaro, the dates, the operation name, and the types of crimes investigated, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly confirms two arrests of Daniel Vorcaro under Operation Compliance Zero, mentions the crimes investigated, and provides specific dates and details about the operation."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

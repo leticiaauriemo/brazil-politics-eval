@@ -1,0 +1,28 @@
+{
+  "question_id": "F-15-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "B",
+  "prompt": "Em qual ano o governo brasileiro declarou emergência de saúde pública na terra Yanomami?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "2",
+      "url": "https://cimi.org.br/2023/07/crise-sanitaria-e-humanitaria-na-ti-yanomami-seis-meses-apos-a-declaracao-de-emergencia/"
+    },
+    {
+      "title": "3",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2025/01/20/dois-anos-de-emergencia-na-terra-yanomami-o-que-foi-feito-e-o-que-ainda-falta-para-garantir-saude-e-seguranca-a-indigenas.ghtml"
+    }
+  ],
+  "response": "**2023.**\n\nO Ministério da Saúde do Brasil declarou Emergência em Saúde Pública de Importância Nacional (ESPIN) na Terra Indígena Yanomami em 20 de janeiro de 2023, por meio da Portaria GM/MS nº 28.[[1]](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami)[[2]](https://cimi.org.br/2023/07/crise-sanitaria-e-humanitaria-na-ti-yanomami-seis-meses-apos-a-declaracao-de-emergencia/)\n\nEssa medida foi tomada devido à grave crise sanitária e humanitária na região, marcada por desnutrição severa (especialmente em crianças), surtos de malária, infecções respiratórias e alta mortalidade evitável, agravada pelo garimpo ilegal. A declaração permitiu a criação do Centro de Operações de Emergências em Saúde Pública (COE-Yanomami) e a mobilização de recursos federais para assistência imediata.[[3]](https://g1.globo.com/rr/roraima/noticia/2025/01/20/dois-anos-de-emergencia-na-terra-yanomami-o-que-foi-feito-e-o-que-ainda-falta-para-garantir-saude-e-seguranca-a-indigenas.ghtml)\n\nFontes oficiais e reportagens confirmam consistentemente essa data e o ano de 2023 como o da declaração.",
+  "response_no_search": "O governo brasileiro declarou emergência de saúde pública na Terra Indígena Yanomami em **2023**. Especificamente, o decreto foi assinado pelo Ministério da Saúde em 20 de janeiro de 2023, durante o governo do presidente Luiz Inácio Lula da Silva, em resposta à crise humanitária causada por garimpo ilegal, desnutrição e surtos de doenças na região.",
+  "error": null
+}

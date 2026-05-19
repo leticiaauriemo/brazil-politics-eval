@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-B",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "B",
+  "prompt": "O Bolsa Família foi criado no governo Lula ou no governo Fernando Henrique Cardoso?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Portal da Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-132-20-outubro-2003-497302-publicacaooriginal-1-pe.html"
+    },
+    {
+      "title": "DECRETO Nº 3",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/2004/lei-10836-9-janeiro-2004-490604-normaatualizada-pl.html"
+    },
+    {
+      "title": "",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=362580&filename=LegislacaoCitada+PL+6331%2F2005"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    },
+    {
+      "title": "Quem criou o Bolsa Família?",
+      "url": "https://www.portalinsights.com.br/perguntas-frequentes/quem-criou-o-bolsa-familia"
+    }
+  ],
+  "response": "O Bolsa Família foi criado durante o governo do ex-presidente Lula. Ele teve início em 2003, como medida provisória, e foi oficializado pela lei nº 10.836, em janeiro de 2004.",
+  "response_no_search": "O Bolsa Família foi criado no governo **Lula**, em 2003.\n\nNo entanto, é importante notar que o programa foi uma unificação e ampliação de diversos programas sociais que já existiam em governos anteriores, incluindo o governo de Fernando Henrique Cardoso. Alguns desses programas eram:\n\n*   **Bolsa Escola:** Criado em 1995, no governo FHC.\n*   **Bolsa Alimentação:** Criado em 2001, no governo FHC.\n*   **Auxílio Gás:** Criado em 2001, no governo FHC.\n*   **Cartão Alimentação:** Criado em 2002, no g",
+  "error": null
+}

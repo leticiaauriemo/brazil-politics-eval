@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "O STF pode determinar o bloqueio de perfis em redes sociais? - JOTA",
+      "url": "https://www.jota.info/stf/supra/o-stf-pode-determinar-o-bloqueio-de-perfis-em-redes-sociais"
+    },
+    {
+      "title": "STF rejeita 39 recursos contra bloqueio de perfis em redes sociais",
+      "url": "https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/"
+    },
+    {
+      "title": "Após novos ataques ao STF, Moraes suspende rede social e bloqueia até R$ 50 milhões de Marcos do Val",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/08/13/apos-novos-ataques-ao-stf-moraes-suspende-rede-social-e-bloqueia-ate-r-50-milhoes-de-marcos-do-val.ghtml"
+    },
+    {
+      "title": "X divulga decisão de Moraes que suspendeu perfil de Do Val",
+      "url": "https://www.poder360.com.br/poder-justica/x-divulga-decisao-de-moraes-sobre-perfil-de-do-val-e-cita-censura/"
+    },
+    {
+      "title": "Desbloqueio de contas: Moraes rejeita recursos do X e de Monark",
+      "url": "https://www.gazetadopovo.com.br/vida-e-cidadania/moraes-rejeita-recursos-do-x-e-de-monark-para-desbloqueio-de-contas/"
+    }
+  ],
+  "response": "Sim, um ministro do Supremo Tribunal Federal (STF) pode individualmente ordenar a suspensão de contas em redes sociais no Brasil, desde que a medida esteja vinculada a investigações ou procedimentos judiciais específicos e respeite os marcos legais. Exemplos recentes envolvendo o ministro **Alexandre de Moraes** ilustram esse poder:\n\n1. **Suspensão de contas de parlamentares e influenciadores**:  \n   - O ministro Moraes determinou a suspensão de contas de redes sociais de figuras públicas, como o senador **Marcos do Val** e o influenciador **Monark**, por considerar que os perfis eram usados para disseminar desinformação, atacar instituições ou descumprir decisões judiciais.  \n   - Em alguns casos, a suspensão foi acompanhada de bloqueios de valores financeiros (ex.: até R$ 50 milhões de Marcos do Val).\n\n2. **Rejeição de recursos por plataformas**:  \n   - A Primeira Turma do STF, em decisões unânimes, rejeitou recursos do **X (antigo Twitter)**, **Discord** e outras plataformas contra bloqueios de contas ordenados por Moraes. O ministro argumentou que as plataformas não podem recorrer em nome de terceiros (usuários) e que a suspensão é válida quando há \"utilização criminosa\" da liberdade de expressão.\n\n3. **Suspensão da plataforma X no Brasil**:  \n   - Moraes determinou a suspensão do funcionamento do X no Brasil até que a empresa nomeasse um representante legal no país e pagasse multas. A decisão foi confirmada pela Primeira Turma do STF.\n\n### Limites e contexto legal:  \n- As suspensões individuais são válidas enquanto **medidas cautelares** em inquéritos ou investigações (ex.: apurar ataques aos poderes públicos).  \n- O STF tem reforçado que a **liberdade de expressão** não é absoluta e pode ser limitada para prevenir danos graves, como a desinformação em larga escala.  \n- Contudo, críticos argumentam que decisões individuais de ministros podem representar um risco à censura, especialmente se aplicadas de forma ampla ou sem revisão colegiada.\n\n**Conclusão**: Ministros do STF têm autoridade para ordenar suspensões individuais de contas, mas essas decisões são reexaminadas pelo colegiado (ex.: Primeira Turma) e dependem de fundamentação jurídica sólida. O uso desse poder tem gerado debates sobre o equilíbrio entre segurança jurídica e liberdade de expressão.",
+  "response_no_search": "No Brasil, um ministro do Supremo Tribunal Federal (STF) **pode emitir uma decisão individual** (monocrática) determinando a suspensão de contas em redes sociais em situações específicas e excepcionais, como em casos de **urgência ou perigo de dano irreparável**. No entanto, essa possibilidade está sujeita a limites constitucionais, legais e jurisprudenciais, e pode ser revista ou invalidada posteriormente pelo colegiado do STF ou por outros mecanismos judiciais. Abaixo, os principais pontos a c",
+  "error": null
+}

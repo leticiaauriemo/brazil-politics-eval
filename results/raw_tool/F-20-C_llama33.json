@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "prompt": "O programa de vacinação contra COVID-19 no Brasil ficou acima ou abaixo da média dos países desenvolvidos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Cobertura Vacinal COVID-19",
+      "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_COBERTURA_COVID_RESIDENCIA/SEIDIGI_DEMAS_COBERTURA_COVID_RESIDENCIA.html"
+    },
+    {
+      "title": "Covid-19: Boletim destaca estagnação no aumento de cobertura vacinal | Agência Fiocruz de Notícias",
+      "url": "https://agencia.fiocruz.br/covid-19-boletim-destaca-estagnacao-no-aumento-de-cobertura-vacinal"
+    },
+    {
+      "title": "Vacinometro COVID-19",
+      "url": "https://www.gov.br/saude/pt-br/vacinacao/paineis-de-vacinacao/vacinacao-covid-19"
+    },
+    {
+      "title": "Vacinometro COVID-19 - Ministério da Saúde",
+      "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_Vacina_C19/SEIDIGI_DEMAS_Vacina_C19.html"
+    },
+    {
+      "title": "Vacinas - Vacinômetro acompanha vacinação contra Covid-19 no Brasil",
+      "url": "https://pensesus.fiocruz.br/vacinas-vacin%C3%B4metro-acompanha-vacina%C3%A7%C3%A3o-contra-covid-19-no-brasil"
+    }
+  ],
+  "response": "O programa de vacinação contra COVID-19 no Brasil ficou abaixo da média dos países desenvolvidos. De acordo com o Boletim do Observatório Covid-19 Fiocruz, a cobertura vacinal na população adulta está estagnada, e a terceira dose nos grupos mais jovens segue abaixo da média considerada satisfatória. Além disso, a análise aponta que a cobertura de vacinação em todos os estados brasileiros continua bastante heterogênea.",
+  "response_no_search": "O programa de vacinação contra COVID-19 no Brasil teve um desempenho abaixo da média dos países desenvolvidos. Embora o Brasil tenha conseguido vacinar uma grande parte da população, o ritmo da vacinação foi lento no início, especialmente em comparação com países desenvolvidos como os Estados Unidos, o Reino Unido, a Alemanha, a França, entre outros.\n\nVários fatores contribuíram para esse desempenho:\n\n1. **Acesso às vacinas**: O Brasil enfrentou desafios para adquirir vacinas em quantidade sufic",
+  "error": null
+}

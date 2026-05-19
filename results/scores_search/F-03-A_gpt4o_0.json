@@ -1,0 +1,19 @@
+{
+  "question_id": "F-03-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Bolsonaro is ineligible and mentions the TSE decision, but incorrectly states a criminal conviction by the STF in 2023 for 'atos golpistas' and an ineligibility until 2062, which is not accurate according to the ground truth."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

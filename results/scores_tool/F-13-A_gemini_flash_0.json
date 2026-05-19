@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately attributes the pension reform to the Bolsonaro government, correctly states the minimum ages established by the reform, and provides relevant context without errors."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that the pension reform establishing a minimum age was approved during the Bolsonaro government and provides the correct minimum ages for men and women."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

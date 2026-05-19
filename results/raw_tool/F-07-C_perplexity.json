@@ -1,0 +1,15 @@
+{
+  "question_id": "F-07-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Foi uma ordem judicial do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF).**\n\n### Contexto e Cronologia\n- **28 de agosto de 2024**: Moraes intimou Elon Musk diretamente no X, dando 24 horas para a plataforma indicar um representante legal no Brasil (obrigação legal para empresas estrangeiras operando no país). Em caso de descumprimento, determinou a suspensão imediata da rede. Isso ocorreu após o X fechar seu escritório no Brasil (17/08) e descumprir ordens anteriores para bloq",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

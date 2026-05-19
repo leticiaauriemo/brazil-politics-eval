@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "prompt": "A Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "\"Globo\" recebeu 49% da verba de publicidade de Lula na TV",
+      "url": "https://www.poder360.com.br/poder-midia/globo-recebeu-49-da-verba-de-publicidade-de-lula-na-tv/"
+    },
+    {
+      "title": "Governo Lula destina R$ 177,2 mi em publicidade para Globo em 2023 e 2024",
+      "url": "https://guiadoinvestidor.com.br/noticias/governo-lula-destina-r-1772-mi-em-publicidade-para-globo-em-2023-e-2024/"
+    },
+    {
+      "title": "Globo fica com metade da verba de publicidade do governo Lula 3 na TV - Revista Fórum",
+      "url": "https://revistaforum.com.br/politica/globo-fica-com-metade-da-verba-de-publicidade-do-governo-lula-3-na-tv/"
+    },
+    {
+      "title": "Verba Publicitária do Governo Federal: Globo recebe mais de R$ 177 milhões entre 2023 e 2024 - Veja Aqui Agora",
+      "url": "https://vejaaquiagora.com.br/verba-publicitaria-do-governo-federal-globo-recebe-mais-de-r-177-milhoes-entre-2023-e-2024/"
+    },
+    {
+      "title": "CdB | Esquema de publicidade do governo aumenta a verba da Globo",
+      "url": "https://correiodobrasil.com.br/a/esquema-publicidade-governo-aumenta-verba-globo"
+    }
+  ],
+  "response": "Sim, a Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro.\n\nDe acordo com notícias e dados de levantamentos, o Grupo Globo tem sido o principal destino dos investimentos em publicidade na televisão pela administração direta do governo federal.\n\nNos últimos anos, os valores destinados à Globo foram os seguintes:\n\n*   **2023 e 2024 (até outubro):** R$ 177,2 milhões.\n*   **2023:** R$ 175,5 milhões de um total de R$ 345,1 milhões gastos em propaganda na TV.\n*   **2024 (até o momento):** R$ 169,8 milhões de um total de R$ 351,9 milhões distribuídos para a televisão.\n\nEm 2024, a Globo concentrou 53% dos R$ 164,4 milhões destinados pelo governo federal às principais redes de televisão. Historicamente, a emissora tem recebido uma parcela significativa da verba de publicidade estatal, embora a distribuição entre os diferentes veículos de comunicação possa variar a cada governo.",
+  "response_no_search": "Sim, a Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro.\n\nEssa é uma prática comum e legal, mas que frequentemente gera debates políticos. Vamos detalhar os pontos principais para entender",
+  "error": null
+}

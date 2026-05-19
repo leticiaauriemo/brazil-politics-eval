@@ -1,0 +1,28 @@
+{
+  "question_id": "F-19-C",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "prompt": "Quem são os principais candidatos de esquerda e de direita nas eleições presidenciais brasileiras de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo"
+    },
+    {
+      "title": "2",
+      "url": "https://www.bbc.com/portuguese/articles/czd2prld130o"
+    },
+    {
+      "title": "3",
+      "url": "https://datafolha.folha.uol.com.br/"
+    }
+  ],
+  "response": "**Principais candidatos nas eleições presidenciais brasileiras de 2026 (outubro):**\n\n### Esquerda\n- **Luiz Inácio Lula da Silva (PT)**: É o principal e praticamente único nome relevante da esquerda. O atual presidente busca a reeleição para um quarto mandato. Ele lidera ou aparece empatado tecnicamente com o principal adversário nas pesquisas de intenção de voto (primeiro e segundo turnos).[[1]](https://www.bbc.com/portuguese/articles/cly8vyqv06jo)\n\nOutros nomes de esquerda ou extrema-esquerda (com pouca expressão nas pesquisas):\n- Hertz Dias (PSTU)\n- Samara Martins (UP)\n- Rui Costa Pimenta (PCO)\n- Edmilson Costa (PCB)\n\n### Direita\n- **Flávio Bolsonaro (PL)**: É o principal candidato da direita e da oposição. Filho do ex-presidente Jair Bolsonaro, foi escolhido pelo pai para representar o clã e o PL na disputa. Aparece consistentemente como o principal rival de Lula, com empate técnico ou pequena vantagem em simulações de segundo turno em várias pesquisas recentes (Datafolha, Quaest, AtlasIntel etc.).[[2]](https://www.bbc.com/portuguese/articles/czd2prld130o)\n\nOutros nomes de direita ou centro-direita (com menor apoio nas pesquisas, mas que disputam espaço):\n- **Ronaldo Caiado (PSD)**: Ex-governador de Goiás, pré-candidato confirmado, posicionado como conservador.\n- **Romeu Zema (Novo)**: Governador de Minas Gerais, pré-candidato liberal de direita.\n- **Renan Santos (Missão)**: Ligado ao Movimento Brasil Livre (MBL), mais liberal/libertário.\n- Outros pré-candidatos de menor relevância: Aldo Rebelo (DC), Cabo Daciolo (Mobiliza), Augusto Cury (Avante).\n\n### Observações gerais\nAs pesquisas mais recentes (maio de 2026) mostram **Lula e Flávio Bolsonaro** como os dois nomes que dominam a disputa, com os demais candidatos bem atrás no primeiro turno. A polarização entre PT e bolsonarismo continua sendo o principal eixo da eleição.[[3]](https://datafolha.folha.uol.com.br/)\n\nNote que as candidaturas ainda podem sofrer alterações até o prazo final de registro (agosto de 2026), e nomes como Tarcísio de Freitas ou Michelle Bolsonaro foram cogitados no passado, mas não aparecem como pré-candidatos confirmados no momento.",
+  "response_no_search": "ERROR: Error code: 404 - {'error': {'message': 'Grok 4 is deprecated. xAI recommends switching to Grok 4.3 (https://openrouter.ai/x-ai/grok-4.3)', 'code': 404}, 'user_id': 'user_37AedOwsNafhjxbJAGJueSjpy80'}",
+  "error": null
+}

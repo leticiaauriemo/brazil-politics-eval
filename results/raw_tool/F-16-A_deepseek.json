@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-A",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Câmara aprova MP que recriou o programa Bolsa Família - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/967421-camara-aprova-mp-que-recriou-o-programa-bolsa-familia/"
+    },
+    {
+      "title": "Lula confirma Bolsa Família com valor MAIOR em Março",
+      "url": "https://www.acheconcursos.com.br/beneficios-sociais/lula-confirma-bolsa-familia-com-valor-maior-em-marco-58980"
+    },
+    {
+      "title": "Bolsonaro anuncia aumento do Auxílio Brasil para R$ 600 - Rádio Itatiaia",
+      "url": "https://www.itatiaia.com.br/politica/2024/03/18/bolsonaro-anuncia-aumento-do-auxilio-brasil-para-r-600"
+    },
+    {
+      "title": "Aumento confirmado do Bolsa Família 2024: Saiba o novo valor atualizado  |  Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/aumento-confirmado-do-bolsa-familia-2024-saiba-o-novo-valor-atualizado/"
+    },
+    {
+      "title": "Desvende tudo sobre o Bolsa Família: Novos Valores e Condições! - Jornal Dia",
+      "url": "https://jornaldia.com.br/desvende-tudo-sobre-o-bolsa-familia-novos-valores-e-condicoes/"
+    }
+  ],
+  "response": "O aumento do valor do Bolsa Família para R$ 600 foi aprovado pela Câmara dos Deputados através da Medida Provisória 1164/23, que retomou o programa Bolsa Família e extinguiu o Auxílio Brasil. O relator da MP foi o deputado Dr. Francisco (PT-PI). O valor mínimo de R$ 600 por família foi garantido, com um adicional de R$ 150 por criança de até seis anos. A MP foi enviada ao Senado para aprovação final.",
+  "response_no_search": "O valor do **Bolsa Família** foi aumentado para **R$ 600** pelo **presidente Luiz Inácio Lula da Silva** em 2023, como parte de uma das principais promessas de sua campanha eleitoral. Esse aumento foi implementado por meio do **Programa Auxílio Brasil**, que foi renomeado novamente para **Bolsa Família** após a posse de Lula. O valor de R$ 600 foi estabelecido para beneficiar famílias em situação de vulnerabilidade social, com um adicional de **R$ 150** por criança de até 6 anos. Essa medida vis",
+  "error": null
+}

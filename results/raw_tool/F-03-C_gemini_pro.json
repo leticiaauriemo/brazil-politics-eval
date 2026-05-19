@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "prompt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "TSE declara inelegíveis Bolsonaro e Braga Netto por abuso de ...",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Outubro/tse-declara-inelegiveis-bolsonaro-e-braga-netto-por-abuso-de-poder-no-bicentenario-da-independencia"
+    },
+    {
+      "title": "",
+      "url": "https://sjur-servicos.tse.jus.br/sjur-servicos/rest/download/pdf/3305895"
+    },
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Por que Bolsonaro está inelegível? Aliados pretendem mudar lei para beneficiá-lo",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/04/em-meio-a-articulacao-de-aliados-entenda-a-inelegibilidade-aplicada-pela-justica-eleitoral-a-bolsonaro.ghtml"
+    },
+    {
+      "title": "Relator vota pela inelegibilidade de Jair Bolsonaro por abuso de poder no 7 de setembro de 2022 – LEX EDITORA",
+      "url": "https://www.lex.com.br/relator-vota-pela-inelegibilidade-de-jair-bolsonaro-por-abuso-de-poder-no-7-de-setembro-de-2022/"
+    }
+  ],
+  "response": "Jair Bolsonaro está impedido de concorrer nas eleições de 2026 por ter sido condenado pelo Tribunal Superior Eleitoral (TSE) em dois processos distintos, que o declararam",
+  "response_no_search": "Claro. Jair Bolsonaro está impedido de concorrer a cargos eletivos até 2030 devido a uma condenação no **Tribunal Superior Eleitoral (TSE)**.\n\nO motivo",
+  "error": null
+}

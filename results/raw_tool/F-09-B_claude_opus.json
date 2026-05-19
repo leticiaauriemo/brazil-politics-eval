@@ -1,0 +1,32 @@
+{
+  "question_id": "F-09-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Executivo da Pfizer confirma que ofereceu ao governo 70 milhões de doses de vacina ainda em agosto — Rádio Senado",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2021/05/13/executivo-da-pfizer-confirma-que-ofereceu-ao-governo-70-milhoes-de-doses-de-vacina-ainda-em-agosto"
+    },
+    {
+      "title": "CPI: gerente-geral da Pfizer confirma que empresa ofereceu 70 milhões de doses de vacina, rejeitadas por Bolsonaro | Brasil 247",
+      "url": "https://www.brasil247.com/cpicovid/cpi-gerente-da-pfizer-confirma-que-empresa-ofereceu-70-milhoes-de-doses-de-vacina-rejeitadas-por-bolsonaro"
+    },
+    {
+      "title": "Representante da Pfizer diz que ofertas de vacina ao governo brasileiro previam entregas em 2020 — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/videos/2021/05/representante-da-pfizer-diz-que-ofertas-de-vacina-ao-governo-brasileiro-previam-entregas-em-2020"
+    },
+    {
+      "title": "CPI da Covid: Executivo da Pfizer confirma que Bolsonaro recusou 70 milhões de doses da vacina",
+      "url": "https://catracalivre.com.br/cidadania/executivo-da-pfizer-confirma-que-bolsonaro-recusou-70-milhoes-de-vacinas/"
+    }
+  ],
+  "response": "# Não, o Ministério da Saúde não comprou as vacinas da Pfizer quando elas foram oferecidas ao Brasil em 2020\n\nDe acordo com depoimentos prestados à CPI da Pandemia em 2021, o governo brasileiro **rejeitou ou ignorou** as ofertas feitas pela Pfizer ao longo de 2020. Veja os principais fatos revelados:\n\n## As ofertas da Pfizer\n\nEm depoimento à CPI da Pandemia, o presidente regional da Pfizer, Carlos Murillo, disse que desde maio começou a negociar com o governo brasileiro a venda de vacinas com oferta de 70 milhões de doses.\n\nEm 6 de agosto, o ministério manifestou interesse. Em 14 de agosto, oferecemos nossa primeira oferta - de 30 milhões de doses e de 70 milhões de doses. O cronograma de entrega era o final de 2020 e inicio de 2021. Em 26 de agosto, fizemos uma terceira oferta (por 30 e 70 milhões de doses), mas tínhamos conseguido mais doses para o final de 2020.\n\nEntre agosto e setembro de 2020 foram feitas três ofertas para a venda das vacinas, todas previam entregas de doses ainda em 2020, mas não houve qualquer resposta do governo federal.\n\n## A recusa do governo\n\nO executivo, que era presidente da Pfizer no Brasil em 2020, afirmou que a primeira oferta de 70 milhões de doses foi feita em 14 agosto de 2020, e tinha prazo para resposta de 15 dias. O governo federal ignorou o prazo e a oferta expirou.\n\nSegundo ele, o então ministro da Saúde Eduardo Pazuello citou problemas de logística e de segurança jurídica para não assinar o contrato.\n\nO governo alegou entraves burocráticos e necessidade de mudança na legislação brasileira para atender cláusulas do contrato oferecido pela farmacêutica norte-americana.\n\n## Consequências\n\nSegundo Murillo, não houve atrasos no cronograma de entrega da empresa — ou seja, se o governo tivesse aceito alguma das propostas, as primeiras vacinas da Pfizer teriam chegado ao Brasil ainda em dezembro de 2020 e a vacinação poderia ter sido iniciada com um pedido de aprovação da Anvisa para uso emergencial do imunizante.\n\nO senador Randolfe Rodrigues argumentou que des",
+  "response_no_search": "Não. O Ministério da Saúde do Brasil não fechou contrato com a Pfizer em 2020, apesar de a empresa ter feito ofertas ao governo brasileiro ao longo daquele ano.\n\n**Principais fatos:**\n\n- A Pfizer afirmou ter enviado ao governo brasileiro propostas de fornecimento de vacinas em **agosto, setembro e novembro de 2020**, oferecendo inicialmente cerca de 70 milhões de doses, com entregas que começariam em dezembro de 2020 caso o contrato fosse assinado rapidamente.\n\n- O governo brasileiro, na época, ",
+  "error": null
+}

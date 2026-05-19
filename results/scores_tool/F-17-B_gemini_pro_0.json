@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that the acquisition was rejected and implies uncertainty for Banco Master, but it does not mention the subsequent liquidation or the Compliance Zero investigation."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model states the acquisition was rejected but fails to mention the subsequent liquidation of Banco Master and the involvement of Operação Compliance Zero, providing an incomplete and misleading account of the events."
+    }
+  ],
+  "score_avg": 2.5,
+  "binary_avg": 0.5,
+  "agreement": false
+}

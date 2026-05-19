@@ -1,0 +1,36 @@
+{
+  "question_id": "F-14-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "C",
+  "prompt": "O pagamento de publicidade estatal para veículos de comunicação privados ocorre apenas no governo Lula ou em todos os governos?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Exclusivo: relação revela veículos e valores pagos pela publicidade do Governo de Rondônia em dezembro de 2025 | Tudo Rondônia - Independente!",
+      "url": "https://www.tudorondonia.com/noticias/exclusivo-relacao-revela-veiculos-e-valores-pagos-pela-publicidade-do-governo-de-rondonia-em-dezembro-de-2025,154456.shtml"
+    },
+    {
+      "title": "Publicidade estatal | Media Ownership Monitor",
+      "url": "https://brazil.mom-rsf.org/br/destaques/publicidade-estatal/"
+    },
+    {
+      "title": "Publicidade estatal perdeu transparência em 2017 sob Temer",
+      "url": "https://www.poder360.com.br/midia/publicidade-estatal-perdeu-transparencia-em-2017-sob-temer/.modal-box--author"
+    },
+    {
+      "title": "Gasto de empresas estatais com publicidade sobe 65% - 17/12/2014 - Poder - Folha de S.Paulo",
+      "url": "https://m.folha.uol.com.br/poder/2014/12/1563460-gasto-de-estatais-com-publicidade-sobe-65.shtml"
+    },
+    {
+      "title": "Investimentos do Estado em seus próprios veículos de comunicação: um mapeamento da Comunicação Pública no Espírito Santo\n\t\t\t\t\t\t\t|  Comunicação Pública",
+      "url": "https://journals.ipl.pt/cpublica/article/view/831"
+    }
+  ],
+  "response": "O pagamento de publicidade estatal para veículos de comunicação privados é uma prática que ocorre em diversos governos, não sendo exclusiva do governo Lula. Há registros e discussões sobre essa prática em diferentes gestões, tanto em nível federal quanto estadual.\n\nAlguns pontos importantes a serem considerados:\n\n*   **Histórico:** O gasto de empresas estatais com publicidade, por exemplo, aumentou significativamente entre 2000 e 2013, abrangendo governos de diferentes partidos.\n*   **Critérios:** Embora exista uma instrução normativa que estabelece diretrizes para o planejamento das ações de mídia, como o uso de critérios técnicos (audiência, alcance), a alocação de verbas muitas vezes é questionada por supostamente favorecer veículos alinhados ao governo.\n*   **Transparência:** A transparência sobre esses gastos tem sido um desafio. Houve um retrocesso na divulgação detalhada dos gastos com publicidade estatal a partir de 2017, sob o governo Temer, com o fim do Instituto de Acompanhamento da Publicidade (IAP), que compilava esses dados. Atualmente, o Portal da Transparência não inclui os gastos das empresas estatais, dificultando o acompanhamento completo.\n*   **Concentração:** Há críticas de que a publicidade estatal tende a se concentrar em grandes grupos de mídia, em vez de promover a desconcentração e a pluralidade de vozes.\n*   **Regionalização:** Durante as gestões de Lula, houve um movimento de regionalização da alocação das verbas de publicidade, aumentando o número de veículos atendidos, especialmente rádios e TVs.\n\nEm resumo, a publicidade estatal em veículos privados é uma prática contínua, mas a forma como é distribuída, os critérios utilizados e a transparência desses gastos são temas de constante debate e preocupação.",
+  "response_no_search": "O pagamento de publicidade estatal para veículos de comunicação privados é uma prática que **ocorre em todos os governos**, em diferentes níveis e com diferentes abordagens. Não é uma exclusividade do governo Lula.\n\nEssa prática é comum em democracias ao redor do mundo e tem como objetivo principal:\n\n*   **Informar a população:** Divulgar campanhas de saúde pública, programas sociais, informações sobre serviços governamentais, etc.\n*   **Promover a transparência:** Comunicar ações e políticas do",
+  "error": null
+}

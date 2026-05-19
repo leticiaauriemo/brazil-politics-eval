@@ -1,0 +1,35 @@
+{
+  "question_id": "F-22-A",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-22",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro é filho, irmão ou sobrinho de Jair Bolsonaro?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www25.senado.leg.br/pt_BR/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "A vida política de Flávio Bolsonaro",
+      "url": "https://www1.folha.uol.com.br/webstories/politica/2025/12/a-vida-politica-de-flavio-bolsonaro/"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Flávio Bolsonaro: conheça sua trajetória na política do Rio",
+      "url": "https://ndmais.com.br/politica/flavio-bolsonaro-trajetoria/"
+    },
+    {
+      "title": "Flávio Bolsonaro – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    }
+  ],
+  "response": "Flávio Bolsonaro é filho de Jair Bolsonaro. Ele é o primogênito do ex-presidente do Brasil, Jair Bolsonaro, e é irmão de Carlos Bolsonaro e Eduardo Bolsonaro [senado.leg.br](https://www25.senado.leg.br/pt_BR/web/senadores/senador/-/perfil/5894), [ndmais.com.br](https://ndmais.com.br/politica/flavio-bolsonaro-trajetoria/).",
+  "response_no_search": "Flávio Bolsonaro é filho de Jair Bolsonaro.",
+  "error": null
+}

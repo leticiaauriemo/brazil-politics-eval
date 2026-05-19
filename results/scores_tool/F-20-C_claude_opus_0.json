@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that Brazil's final vaccination coverage was above average compared to many developed countries, and contextualizes this by mentioning the historical strength of the SUS and PNI, while also acknowledging the initial delays due to political choices."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Brazil's final vaccination coverage was comparable or above several developed countries, but it lacks the specific context about the investment in SUS/PNI and focuses more on the initial delay."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-A",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "prompt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senado abre processo de impeachment contra Dilma Rousseff — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/05/12/senado-abre-processo-de-impeachment-contra-dilma-rousseff"
+    },
+    {
+      "title": "A guerra jurídica do impeachment: do que Dilma é acusada? | Brasil | EL PAÍS Brasil",
+      "url": "https://brasil.elpais.com/brasil/2016/08/28/politica/1472412248_958761.html"
+    },
+    {
+      "title": "Impeachment é aprovado e Dilma Rousseff é destituída pelo Senado",
+      "url": "https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/"
+    },
+    {
+      "title": "Dilma Rousseff perde o mandato de presidente da República, mas mantém direitos políticos — Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/08/31/dilma-rousseff-perde-o-mandato-de-presidente-da-republica-mas-mantem-direitos-politicos"
+    },
+    {
+      "title": "",
+      "url": "http://www12.senado.leg.br/noticias/arquivos/2016/08/31/veja-a-sentenca-de-impeachment-contra-dilma-rousseff"
+    }
+  ],
+  "response": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição. A presidente foi acusada de cometer crimes de responsabilidade, incluindo a edição de decretos de créditos suplementares sem autorização do Congresso Nacional e a contratação de operações de crédito com instituições financeiras controladas pela União. O processo de impeachment foi aprovado pelo Senado Federal em 31 de agosto de 2016, com 61 votos a favor e 20 contra, e Dilma Rousseff foi condenada à perda do cargo de Presidente da República. No entanto, ela manteve seus direitos políticos, pois não foi alcançada a maioria absoluta necessária para a inabilitação.",
+  "response_no_search": "**O Impeachment de Dilma Rousseff: Um Processo Legal ou Político?**\n\nO impeachment de Dilma Rousseff em 2016 foi um evento político marcante no Brasil, que gerou muitas discussões e controvérsias. A pergunta que você fez é fundamental para entender se o processo seguiu o caminho legal previsto na Constituição.\n\n**O Processo de Impeachment na Constituição**\n\nA Constituição Brasileira de 1988 estabelece o processo de impeachment em seu artigo 85, que define os crimes de responsabilidade que podem ",
+  "error": null
+}

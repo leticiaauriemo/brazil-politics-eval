@@ -1,0 +1,15 @@
+{
+  "question_id": "F-16-B",
+  "model": "gpt5",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "prompt": "O benefício mínimo de R$600 foi uma medida do governo Lula ou do governo Bolsonaro?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "Ambos, em momentos diferentes:\n\n- Governo Bolsonaro: elevou temporariamente o Auxílio Brasil para R$600 entre agosto e dezembro de 2022, via Emenda Constitucional 123/2022 (a medida valia só até 31 de dezembro de 2022).\n- Governo Lula: manteve o piso de R$600 a partir de 2023. Para isso, aprovou a “PEC da Transição” (Emenda Constitucional 126/2022, em dezembro de 2022) e, já no governo, reestruturou o programa ao recriar o Bolsa Família em março de 2023, com um benefício complementar que garante no mínimo R$600 por família (posteriormente consolidado",
+  "response_no_search": "Dos dois, em momentos diferentes.\n\n- Governo Bolsonaro:\n  - 2020: Auxílio Emergencial de R$600 (benefício temporário da pandemia).\n  - 2022: Piso de R$600 no Auxílio Brasil de agosto a dezembro, por medida excepcional (PEC).\n- Governo Lula:\n  - 2023 em diante: manteve o piso de R$600 ao relançar o Bolsa Família e o tornou contínuo, com adicionais por criança, gestantes etc.\n\nOu seja, Bolsonaro instituiu o valor de R$600 de forma temporária; Lula manteve e institucionalizou o piso no programa",
+  "error": null
+}

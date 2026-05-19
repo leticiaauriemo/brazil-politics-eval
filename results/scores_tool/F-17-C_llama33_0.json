@@ -1,0 +1,25 @@
+{
+  "question_id": "F-17-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model's response is incorrect as the ground truth states the liquidation occurred in November 2025, while the model implies it has already happened without specifying a date, and it omits the crucial 'Operação Compliance Zero' detail."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the liquidation of Banco Master but lacks specific details about the Compliance Zero investigation."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

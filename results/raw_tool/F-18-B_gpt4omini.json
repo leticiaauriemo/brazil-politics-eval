@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "prompt": "O fundador do Banco Master está respondendo a processos criminais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Daniel Vorcaro, dono do Banco Master, é novamente preso em operação da PF | Finanças | Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2026/03/04/vorcaro-dono-do-banco-master-e-preso-em-nova-operacao-da-pf.ghtml"
+    },
+    {
+      "title": "Daniel Vorcaro preso: investigação revelou existência de organização criminosa no Banco Master",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/03/04/daniel-vorcaro-preso-investigacao-revelou-existencia-de-organizacao-criminosa-no-banco-master.ghtml"
+    },
+    {
+      "title": "Caso Master: investigação revela 'milícia', espionagem e propina | G1",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/04/caso-master-investigacao-revela-milicia-para-ameacar-autoridades-e-jornalistas-esquema-de-espionagem-e-propina-para-funcionarios-do-bc.ghtml"
+    },
+    {
+      "title": "Operação da PF prende Daniel Vorcaro, fundador do Banco Master",
+      "url": "https://www.poder360.com.br/poder-justica/operacao-da-pf-prende-daniel-vorcaro-fundador-do-banco-master/"
+    },
+    {
+      "title": "Dono do Banco Master deve responder por crime de estelionato",
+      "url": "https://www.metropoles.com/colunas/andreza-matais/dono-do-master-deve-ser-enquadrado-como-estelionatario"
+    }
+  ],
+  "response": "Sim, o fundador do Banco Master, Daniel Vorcaro, está respondendo a processos criminais em 2026. Ele foi preso novamente em 4 de março de 2026, durante a terceira fase da Operação Compliance Zero, que investiga uma série de crimes, incluindo corrupção, lavagem de dinheiro e ameaças. A operação foi conduzida pela Polícia Federal e contou com mandados de prisão e busca e apreensão em São Paulo e Minas Gerais.\n\nAs investigações revelaram a existência de uma organização criminosa que operava no Banco Master, com indícios de que as irregularidades financeiras não eram isoladas, mas parte de um esquema planejado que se estende por anos. A defesa de Vorcaro nega as acusações, afirmando que ele agiu para proteger a instituição.\n\nAlém disso, a investigação apontou para práticas de intimidação e obstrução de justiça, incluindo a utilização de uma \"milícia\" para ameaçar autoridades e jornalistas. A situação do Banco Master é crítica, com a instituição tendo sido liquidada pelo Banco Central em novembro de 2025 devido a uma grave crise de liquidez e violações das normas financeiras.\n\nPara mais detalhes, você pode acessar as seguintes matérias:\n- [Valor Econômico](https://valor.globo.com/brasil/noticia/2026/03/04/vorcaro-dono-do-banco-master-e-preso-em-nova-operacao-da-pf.ghtml)\n- [G1](https://g1.globo.com/politica/noticia/2026/03/04/caso-master-investigacao-revela-milicia-para-ameacar-autoridades-e-jornalistas-esquema-de-espionagem-e-propina-para-funcionarios-do-bc.ghtml)",
+  "response_no_search": "Desculpe, mas não tenho acesso a informações em tempo real ou eventos que ocorreram após outubro de 2023. Para saber sobre a situação legal de qualquer indivíduo ou entidade, recomendo consultar fontes de notícias atualizadas ou registros públicos.",
+  "error": null
+}

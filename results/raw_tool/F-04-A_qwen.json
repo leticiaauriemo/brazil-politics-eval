@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "A",
+  "prompt": "O desmatamento da Amazônia aumentou ou diminuiu durante o governo Bolsonaro (2019–2022)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Deforestation in the Legal Amazon during the Bolsonaro government (2019-2022) - InfoAmazonia",
+      "url": "https://infoamazonia.org/en/storymap/deforestation-in-the-legal-amazon-during-the-bolsonaro-government-2019-2022/"
+    },
+    {
+      "title": "Four years of Bolsonaro's Amazon destruction, in satellite imagery",
+      "url": "https://infoamazonia.org/en/2022/10/28/four-years-of-bolsonaros-amazon-destruction-in-pictures"
+    },
+    {
+      "title": "What Jair Bolsonaro did to the Amazon rainforest, in 2 charts | Vox",
+      "url": "https://www.vox.com/down-to-earth/2022/9/29/23373427/amazon-rainforest-brazil-jair-bolsonaro-lula-deforestation"
+    },
+    {
+      "title": "Deforestation in the Amazon in the month of July increases by 160% during the past three years of the Bolsonaro administration - InfoAmazonia",
+      "url": "https://infoamazonia.org/en/2022/08/29/deforestation-in-the-amazon-in-the-month-of-july-increases-by-160-during-the-past-three-years-of-the-bolsonaro-administration/"
+    },
+    {
+      "title": "",
+      "url": "https://www.nature.com/articles/s43247-024-01542-0.pdf"
+    }
+  ],
+  "response": "Durante o governo Bolsonaro (2019–2022), o desmatamento da Amazônia **aumentou significativamente**, atingindo níveis históricos. Dados de satélites e análises de organizações como a InfoAmazonia, Carbon Brief e a Nature indicam:\n\n1. **Aumento exponencial**:  \n   - Entre 2019 e 2021, o desmatamento anual **mais que dobrou** em comparação com o período 2016–2018.  \n   - Em 2021, **13.000 km²** de floresta foram destruídos, o maior valor em 15 anos.  \n   - Projeções para 2022 sugerem um novo recorde, próximo a **15.000 km²**.  \n\n2. **Políticas ambientais fragilizadas**:  \n   - O governo Bolsonaro reduziu fiscalização, cortou orçamentos de agências ambientais (como IBAMA e INPE), e enfraqueceu direitos indígenas, facilitando invasões e atividades ilegais (mineração, grilagem, desmatamento para agropecuária).  \n   - O Fundo Amazônia foi paralisado, e multas ambientais deixaram de ser aplicadas.  \n\n3. **Impacto regional**:  \n   - Áreas como o sul do Amazonas e o norte de Rondônia tornaram-se novas fronteiras do desmatamento, com avanço acelerado próximo a rodovias como a BR-319 e BR-230.  \n   - Em julho de 2022, o desmatamento mensal foi **160% maior** que o registrado em anos anteriores (período 2016–2018).  \n\n4. **Contexto global**:  \n   - Em 2022, a Amazônia brasileira perdia área equivalente ao tamanho de São Paulo **por mês**.  \n   - Estudos apontam que a combinação de desmatamento e perda de vegetação não florestal (como savanas) atingiu **19% do bioma Amazônia** até 2022.  \n\n**Conclusão**: O governo Bolsonaro foi marcado por um aumento dramático no desmatamento, revertendo décadas de redução gradual e posicionando o Brasil como um dos principais responsáveis pela destruição da floresta tropical mais crítica do planeta.",
+  "response_no_search": "Durante o governo Jair Bolsonaro (2019–2022), o desmatamento na Amazônia **aumentou significativamente**, atingindo níveis recordes em vários anos. A seguir, um resumo com base em dados oficiais e análises independentes:\n\n### **Tendência de desmatamento (dados do INPE - Instituto Nacional de Pesquisas Espaciais):**\n1. **2019**:  \n   - O desmatamento anual foi de **9.742 km²**, um aumento de **29,5%** em relação a 2018.  \n   - Houve um **aumento de 84% nos focos de queimadas** em agosto, gerando ",
+  "error": null
+}

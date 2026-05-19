@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "A",
+  "prompt": "O governo Lula declarou emergência humanitária na terra indígena Yanomami em 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ministério da Saúde declara emergência em saúde pública em território Yanomami — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami"
+    },
+    {
+      "title": "Conheça as medidas de socorro aos Yanomami já anunciadas pelo Governo Federal — Fundação Nacional dos Povos Indígenas",
+      "url": "https://www.gov.br/funai/pt-br/assuntos/noticias/2023/conheca-as-medidas-de-socorro-aos-yanomami-ja-anunciadas-pelo-governo-federal"
+    },
+    {
+      "title": "Governo Federal decreta estado de calamidade pública na TI Yanomami",
+      "url": "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami"
+    },
+    {
+      "title": "Governo adota ações emergenciais em socorro aos Yanomami: \"vamos dar a eles a dignidade que eles merecem\", diz Lula — Ministério da Saúde",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula"
+    },
+    {
+      "title": "Ministério da Saúde decreta emergência de saúde pública para combater desassistência de indígenas Yanomami | G1",
+      "url": "https://g1.globo.com/saude/noticia/2023/01/20/ministerio-da-saude-decreta-emergencia-de-saude-publica-para-combater-desassistencia-de-indigenas-yanomami.ghtml"
+    }
+  ],
+  "response": "Sim, o governo do presidente Luiz Inácio Lula da Silva declarou uma **emergência humanitária e sanitária** na Terra Indígena Yanomami em janeiro de 2023. As principais ações incluíram:\n\n1. **Declaração de Emergência em Saúde Pública**: O Ministério da Saúde declarou uma \"Emergência em Saúde Pública de Importância Nacional\" em 20 de janeiro de 2023, em resposta à grave crise de desnutrição, doenças como malária e infecções respiratórias, e à desassistência sanitária da população Yanomami.  \n   - Fonte: [Ministério da Saúde](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/ministerio-da-saude-declara-emergencia-em-saude-publica-em-territorio-yanomami).\n\n2. **Decisão Presidencial**: O presidente Lula editou um decreto criando o **Comitê de Coordenação Nacional** para enfrentar a crise, com medidas emergenciais de saúde, nutrição e assistência social.  \n   - Fonte: [FUNAI](https://www.gov.br/funai/pt-br/assuntos/noticias/2023/conheca-as-medidas-de-socorro-aos-yanomami-ja-anunciadas-pelo-governo-federal).\n\n3. **Ações Imediatas**: Envio de cestas básicas, medicamentos, suplementos alimentares e a instalação do **Centro de Operações de Emergência em Saúde Pública (COE-Yanomami)**, gerido pela Secretaria de Saúde Indígena (SESAI).  \n   - Fonte: [Ministério dos Povos Indígenas](https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2023/01/governo-federal-decreta-estado-de-calamidade-publica-na-ti-yanomami).\n\n4. **Visita de Lula à Região**: Em 21 de janeiro de 2023, o presidente visitou a Casa de Saúde Indígena Yanomami em Boa Vista (RR), reafirmando o compromisso do governo com a \"dignidade\" do povo Yanomami.  \n   - Fonte: [Ministério da Saúde](https://www.gov.br/saude/pt-br/assuntos/noticias/2023/janeiro/governo-adota-acoes-emergenciais-em-socorro-aos-yanomami-vamos-dar-a-eles-a-dignidade-que-eles-merecem-diz-lula).\n\nA crise foi atribuída à desassistência histórica e agravada por políticas públicas insuficientes nos anos anteriores, com milhares de pessoas afetadas por desnutrição e doenças evitáveis.",
+  "response_no_search": "Sim, o governo do presidente Luiz Inácio Lula da Silva declarou, em fevereiro de 2023, uma **emergência de saúde pública** na Terra Indígena Yanomami, localizada no Amazonas e Roraima, após relatos de graves crises humanitárias e ambientais na região. A decisão foi anunciada pelo Ministério da Saúde e faz parte de uma ampla operação coordenada pelo governo federal para enfrentar os impactos da **invasão de garimpeiros ilegais** na área, que vêm contaminando rios com mercúrio, degradando o ambien",
+  "error": null
+}

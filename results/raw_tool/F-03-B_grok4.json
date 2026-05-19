@@ -1,0 +1,24 @@
+{
+  "question_id": "F-03-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "2",
+      "url": "https://pt.wikipedia.org/wiki/Inelegibilidade_de_Jair_Bolsonaro"
+    }
+  ],
+  "response": "**A inelegibilidade declarada pelo TSE em junho de 2023 dura até 2 de outubro de 2030.**[[1]](https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos)\n\nEm 30 de junho de 2023, o Tribunal Superior Eleitoral (TSE) condenou Jair Bolsonaro por abuso de poder político e uso indevido dos meios de comunicação (reunião com embaixadores em julho de 2022). Por 5 votos a 2, o plenário aplicou a sanção de inelegibilidade por **oito anos**, contados a partir das eleições de 2022.[[1]](https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos)\n\nIsso significa que Bolsonaro fica impedido de disputar eleições até **2 de outubro de 2030** (data em que completam oito anos desde o primeiro turno de 2022). A decisão não cassou seus direitos políticos, apenas o tornou inelegível nesse período.[[2]](https://pt.wikipedia.org/wiki/Inelegibilidade_de_Jair_Bolsonaro)\n\n### Observação importante\nExistem outras condenações posteriores (no STF, relacionadas à “trama golpista”) que, pela Lei da Ficha Limpa, podem estender a inelegibilidade por mais oito anos após o cumprimento da pena — potencialmente até 2060. No entanto, a pergunta se refere especificamente à decisão do TSE, cuja proibição original termina em 2030.",
+  "response_no_search": "Sim, o Tribunal Superior Eleitoral (TSE) do Brasil declarou o ex-presidente Jair Bolsonaro inelegível em junho de 2023, por abuso de poder político e uso indevido dos meios de comunicação durante as eleições de 2022. Essa decisão foi confirmada pelo Supremo Tribunal Federal (STF) em outubro de 2023.\n\n### Duração da inelegibilidade:\n- A proibição dura **8 anos**, contados a partir da eleição de 2022 (que ocorreu em outubro de 2022).\n- Isso significa que Bolsonaro fica inelegível até **2030**. Ele",
+  "error": null
+}

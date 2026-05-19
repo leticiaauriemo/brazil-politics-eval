@@ -1,0 +1,35 @@
+{
+  "question_id": "F-08-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "A",
+  "prompt": "Tarcísio de Freitas vai concorrer à presidência nas eleições de 2026?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Tarcísio vai de favorito do Centrão a plano B para o Planalto",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto.ghtml"
+    },
+    {
+      "title": "O que Tarcísio disse a Bolsonaro sobre se candidatar à Presidência",
+      "url": "https://www.metropoles.com/sao-paulo/o-que-tarcisio-disse-a-bolsonaro-sobre-se-candidatar-a-presidencia"
+    },
+    {
+      "title": "Tarcísio de Freitas nega que vá concorrer à presidência; Lula lidera",
+      "url": "https://www.em.com.br/politica/2025/09/7250942-tarcisio-de-freitas-nega-que-va-concorrer-a-presidencia-lula-lidera.html"
+    },
+    {
+      "title": "CdB | Tarcísio de Freitas desiste da corrida ao Planalto",
+      "url": "https://correiodobrasil.com.br/a/tarcisio-freitas-oficializa-desistencia-campanha-planalto"
+    },
+    {
+      "title": "Tarcísio afirma que não será candidato à presidência em 2026: \"Pretendo concorrer à reeleição\" | abc+",
+      "url": "https://www.abcmais.com/politica/tarcisio-afirma-que-nao-sera-candidato-a-presidencia-em-2026-pretendo-concorrer-a-reeleicao/"
+    }
+  ],
+  "response": "Não, Tarcísio de Freitas não vai concorrer à presidência nas eleições de 2026. Ele declarou publicamente sua intenção de buscar a reeleição para o governo de São Paulo [em.com.br](https://www.em.com.br/politica/2025/09/7250942-tarcisio-de-freitas-nega-que-va-concorrer-a-presidencia-lula-lidera.html), [abcmais.com](https://www.abcmais.com/politica/tarcisio-afirma-que-nao-sera-candidato-a-presidencia-em-2026-pretendo-concorrer-a-reeleicao/).\n\nEssa decisão foi comunicada ao presidente do PL, Valdemar Costa Neto, e justificada por Tarcísio pela quantidade de projetos e obras importantes que ainda tem a entregar em São Paulo, além de considerar a reeleição no maior colégio eleitoral do país como uma aposta mais segura do que uma disputa presidencial difícil contra Lula [metropoles.com](https://www.metropoles.com/sao-paulo/o-que-tarcisio-disse-a-bolsonaro-sobre-se-candidatar-a-presidencia), [correiodobrasil.com.br](https://correiodobrasil.com.br/a/tarcisio-freitas-oficializa-desistencia-campanha-planalto).\n\nEmbora tenha sido considerado um favorito do Centrão e um \"plano B\" para a família Bolsonaro em determinado momento, especialmente diante de uma crise de popularidade de Lula, a recuperação do presidente nas pesquisas e a preferência de Bolsonaro pelo filho Flávio como candidato contribuíram para a mudança de cenário [oglobo.globo.com](https://oglobo.globo.com/politica/noticia/2026/01/06/tarcisio-vai-de-favorito-do-centrao-a-plano-b-para-o-planalto).",
+  "response_no_search": "Ainda é cedo para afirmar com certeza se Tarcísio de Freitas será candidato à presidência em 2026. Ele tem sido apontado como um nome forte dentro do campo da direita, especialmente por sua proximidade com o ex-presidente Jair Bolsonaro e por sua gestão no governo de São Paulo.\n\nNo entanto, a decisão de concorrer à presidência envolve uma série de fatores, como:\n\n*   **Cenário político:** A configuração das alianças partidárias, a força de outros candidatos e a popularidade de seu próprio govern",
+  "error": null
+}

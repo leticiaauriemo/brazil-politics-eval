@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Lula is not prevented from running in 2026 and explains the re-election rule, but it introduces an irrelevant PEC and doesn't explicitly mention the 'consecutive' aspect of the constitutional limit or the TSE's position."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Constitution does not prevent Lula from running in 2026 and explains the relevant constitutional provisions clearly."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

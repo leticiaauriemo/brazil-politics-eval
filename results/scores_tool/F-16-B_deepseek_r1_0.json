@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies that the R$600 benefit was established by the Bolsonaro government in 2022 as part of Auxílio Brasil, and details Lula's subsequent actions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the R$600 minimum benefit was established by Bolsonaro in 2022 under the Auxílio Brasil program and correctly details Lula's actions in 2023."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

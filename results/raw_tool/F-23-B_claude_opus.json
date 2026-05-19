@@ -1,0 +1,28 @@
+{
+  "question_id": "F-23-B",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "prompt": "Existe algum impedimento legal para Lula concorrer à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lula pode ser candidato em 2026? Veja o que diz a Constituição sobre reeleição",
+      "url": "https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/"
+    },
+    {
+      "title": "Inelegibilidade de Lula: a inconstitucionalidade do quarto mandato",
+      "url": "https://www.conjur.com.br/2026-fev-20/inelegibilidade-presidencial-de-lula-a-inconstitucionalidade-do-4-mandato/"
+    },
+    {
+      "title": "Juristas debatem limite constitucional à reeleição de Lula",
+      "url": "https://www.gazetadopovo.com.br/eleicoes/2026/juristas-questionam-direito-de-lula-de-concorrer-a-uma-segunda-reeleicao/"
+    }
+  ],
+  "response": "# Impedimento legal para Lula concorrer à presidência em 2026\n\n**Resposta direta: Não há impedimento legal vigente que impeça Lula de disputar a presidência em 2026.** Contudo, há debates jurídicos e propostas legislativas em curso. Veja os detalhes:\n\n## 1. A regra constitucional atual permite a candidatura\n\nDo ponto de vista jurídico, não há dúvida: Lula pode ser candidato à reeleição em 2026. A Constituição Federal permite que presidentes em primeiro mandato disputem uma única reeleição consecutiva e, como Lula iniciou um novo ciclo ao ser eleito em 2022, ele se enquadra exatamente nessa condição.\n\nEmbora Lula já tenha exercido dois mandatos (2003-2010), a Constituição da República autoriza expressamente que o presidente da República seja reeleito para um único período subsequente e nada mais dispõe a respeito. Como os mandatos anteriores não foram consecutivos ao atual, ele se enquadra na regra de reeleição.\n\n## 2. Situação dos direitos políticos\n\nAtualmente, não há decisão judicial que torne Lula inelegível. Pelo contrário: o Supremo Tribunal Federal já anulou condenações anteriores relacionadas à Operação Lava Jato, restabelecendo seus direitos políticos.\n\n## 3. Debate jurídico sobre o \"quarto mandato\"\n\nExiste controvérsia doutrinária. Para o jurista Ricardo Sayeg, professor da PUC-SP e do Insper, Lula já estaria impedido legalmente de ser candidato em 2026. Em artigo publicado no portal Consultor Jurídico, ele sustenta que a Constituição limita o exercício do poder Executivo a uma reeleição consecutiva, tal qual o atual presidente já havia conquistado em 2006, a exemplo do que ocorre nos Estados Unidos. Sayeg argumenta que a vedação alcançaria a hipótese de \"quarto mandato presidencial\".\n\nPor outro lado, a professora de Direito Constitucional Vera Chemim não vê qualquer impedimento à reeleição de Lula embasado na Constituição e na legislação eleitoral. Ela afirma que seria preciso um artigo complementar para impedir mais de uma reeleição, como faz a Constituição americana, e lembra que a Emenda Constitucional 16/1997 veda somente um terceiro mandato presidencial consecutivo, omitindo-se sobre a chance de quarto mandato, mesmo que decorrente de nova eleição não seguida.\n\n## 4.",
+  "response_no_search": "Não há impedimento legal para Lula concorrer à presidência em 2026. Vou explicar a situação:\n\n**Situação atual de elegibilidade:**\n\n1. **Anulação das condenações**: Em 2021, o STF anulou as condenações de Lula nos casos da Lava Jato, declarando que a 13ª Vara Federal de Curitiba era incompetente para julgá-lo. Com isso, ele recuperou seus direitos políticos.\n\n2. **Eleição em 2022**: Lula foi eleito presidente em 2022, o que comprova sua elegibilidade.\n\n3. **Reeleição**: A Constituição permite um",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-16-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "A",
+  "prompt": "Quem aumentou o valor do Bolsa Família para R$600?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Câmara aprova MP que recriou o programa Bolsa Família - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/967421-camara-aprova-mp-que-recriou-o-programa-bolsa-familia/"
+    },
+    {
+      "title": "Desvende tudo sobre o Bolsa Família: Novos Valores e Condições! - Jornal Dia",
+      "url": "https://jornaldia.com.br/desvende-tudo-sobre-o-bolsa-familia-novos-valores-e-condicoes/"
+    },
+    {
+      "title": "Bolsa Família: veja novas regras, valor dos benefícios e como se cadastrar",
+      "url": "https://economia.uol.com.br/noticias/redacao/2023/07/13/bolsa-familia-veja-novas-regras-valor-dos-beneficios-e-como-entrar.htm"
+    },
+    {
+      "title": "Lula confirma Bolsa Família com valor MAIOR em Março",
+      "url": "https://www.acheconcursos.com.br/beneficios-sociais/lula-confirma-bolsa-familia-com-valor-maior-em-marco-58980"
+    },
+    {
+      "title": "Câmara aprova auxílio de R$ 600 para pessoas de baixa renda ...",
+      "url": "https://www.camara.leg.br/noticias/648863-camara-aprova-auxilio-de-r-600-para-pessoas-de-baixa-renda-durante-epidemia/"
+    }
+  ],
+  "response": "O valor do Bolsa Família foi aumentado para R$600 com a recriação do programa em 2023, por meio da Medida Provisória 1164/23. Essa MP foi aprovada pela Câmara dos Deputados e garante um valor mínimo de R$600 por família, além de adicionais para crianças de zero a seis anos e outros benefícios. O presidente Lula confirmou o relançamento do programa com esses novos valores.",
+  "response_no_search": "O valor do Bolsa Família foi aumentado para R$600 pelo governo do presidente **Luiz Inácio Lula da Silva**, em 2023.\n\nÉ importante notar que, antes disso, o governo de Jair Bolsonaro havia implementado o Auxílio Brasil, que também pagava R$600 em seus últimos meses de existência. No entanto, o programa Bolsa Família, com seu nome original e suas características reformuladas, foi relançado e teve seu valor mínimo fixado em R$600 pelo governo Lula.",
+  "error": null
+}

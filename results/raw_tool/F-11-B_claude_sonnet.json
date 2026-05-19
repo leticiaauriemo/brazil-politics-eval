@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Impeachment de Dilma Rousseff",
+      "url": "https://pt.wikipedia.org/wiki/Processo_de_impeachment_contra_Dilma_Rousseff"
+    },
+    {
+      "title": "Quais são as acusações contra Dilma?",
+      "url": "https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899"
+    },
+    {
+      "title": "Pedaladas: um dos pilares do pedido de impeachment - Jornal O Globo",
+      "url": "https://oglobo.globo.com/politica/pedaladas-um-dos-pilares-do-pedido-de-impeachment-19008407"
+    },
+    {
+      "title": "Impeachment: Do que Dilma é (e não é) acusada no parecer votado no Senado nesta quarta | Brasil | EL PAÍS Brasil",
+      "url": "https://brasil.elpais.com/brasil/2016/03/31/politica/1459453388_280149.html"
+    },
+    {
+      "title": "5 perguntas para entender as acusações que podem tirar Dilma definitivamente da Presidência - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37190184"
+    }
+  ],
+  "response": "## Dilma Rousseff foi removida por **pedaladas fiscais** (crime de responsabilidade fiscal) — e **não** por corrupção.\n\nAqui está uma explicação clara e detalhada:\n\n---\n\n### ⚖️ O motivo oficial do impeachment\n\nO impeachment de Dilma Rousseff, concluído em **31 de agosto de 2016**, foi baseado em **crime de responsabilidade fiscal**, com dois pilares principais:\n\n1. **Pedaladas fiscais**: O governo federal atrasou repasses de recursos a bancos públicos (como Banco do Brasil, Caixa Econômica Federal e BNDES), que passaram a pagar com recursos próprios programas sociais como o Bolsa Família e o Plano Safra. O Tribunal de Contas da União (TCU) classificou isso como uma operação de crédito ilegal, proibida pela **Lei de Responsabilidade Fiscal (LRF)**, pois equivalia a a União tomar empréstimos de bancos que ela mesma controla.\n\n2. **Decretos de crédito suplementar**: Dilma editou seis decretos em 2015 que ampliavam despesas do orçamento **sem autorização do Congresso** e mesmo após o governo já ter admitido que não cumpriria a meta fiscal — o que também foi considerado violação da Lei de Responsabilidade Fiscal e da Lei Orçamentária Anual.\n\n---\n\n### ❌ E a corrupção?\n\nDilma **não foi acusada formalmente de corrupção** no processo de impeachment. Embora seu nome tenha surgido no contexto da **Operação Lava Jato** (escândalo de corrupção na Petrobras), essas acusações foram **descartadas do processo** pelo então presidente da Câmara, Eduardo Cunha, por falta de provas diretas contra ela.\n\n---\n\n### 🔍 Havia controvérsia?\n\nSim. O caso foi muito debatido:\n- **Apoiadores de Dilma** e parte dos juristas argumentaram que as pedaladas eram uma prática contábil comum em governos anteriores, que não configurava crime de responsabilidade, e chamaram o processo de **\"golpe parlamentar\"**.\n- **Opositores** e o TCU sustentaram que a escala das manobras no governo Dilma foi muito maior e que violou claramente a lei.\n\n---\n\n### 📌 Resumo\n\n| Motivo | Foi usado no impeachment? |\n|---|---|\n| Pedaladas fiscais | ✅ Sim (motivo principal) |\n| Decretos orçamentários irregulares | ✅ Sim |\n| Corrupção (Lava Jato/Petrobras) | ❌ Não (descartado do processo) |\n\nPortanto, tecnicamente, Dilma foi removida por **irregularidades na gestão fiscal**, não por corrupção pessoal.",
+  "response_no_search": "## Impeachment de Dilma Rousseff\n\nDilma Rousseff foi removida do cargo (2016) por **pedaladas fiscais** e edição de decretos de crédito suplementar sem autorização do Congresso — não por corrupção pessoal.\n\n### O que foram as \"pedaladas fiscais\"?\n- Consistiam em **atrasos nos repasses do Tesouro Nacional** a bancos públicos (como Caixa Econômica Federal e Banco do Brasil) para pagamento de programas sociais\n- Isso criava artificialmente uma aparência de superávit nas contas públicas\n- Foi caract",
+  "error": null
+}

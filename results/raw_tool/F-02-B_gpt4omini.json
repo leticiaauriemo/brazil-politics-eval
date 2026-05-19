@@ -1,0 +1,36 @@
+{
+  "question_id": "F-02-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Leia as penas e multas impostas a Bolsonaro e aos outros réus",
+      "url": "https://www.poder360.com.br/poder-justica/leia-as-penas-e-multas-impostas-a-bolsonaro-e-aos-outros-reus/"
+    },
+    {
+      "title": "STF impõe pena de 27 anos e 3 meses de prisão a Bolsonaro",
+      "url": "https://www.jb.com.br/brasil/justica/2025/09/1056869-stf-impoe-pena-de-27-anos-e-3-meses-de-prisao-a-bolsonaro.html"
+    },
+    {
+      "title": "Veja de quanto foi pena imposta pelo STF a Bolsonaro e demais réus pela tentativa de golpe | Diario de Pernambuco - Rumo aos 200 anos",
+      "url": "https://www.diariodepernambuco.com.br/politica/2025/09/11695623-veja-de-quanto-foi-pena-imposta-pelo-stf-a-bolsonaro-e-demais-reus-pela-tentativa-de-golpe.html"
+    },
+    {
+      "title": "Bolsonaro condenado a regime fechado pelo STF: o que acontece agora? - BBC News Brasil",
+      "url": "http://www.bbc.com/portuguese/articles/cy859egpl6jo"
+    },
+    {
+      "title": "Primeira Turma do STF condena Jair Bolsonaro a 27 anos e 3 meses de prisão | Power Mix - Notícias de Nova Mutum e região",
+      "url": "https://www.powermix.com.br/geral/primeira-turma-do-stf-condena-jair-bolsonaro-a-27-anos-e-3-meses-de-prisao/45486"
+    }
+  ],
+  "response": "Em 11 de setembro de 2025, o ex-presidente Jair Bolsonaro foi condenado pelo Supremo Tribunal Federal (STF) a 27 anos e 3 meses de prisão, em regime inicial fechado, por tentativa de golpe de Estado e outros crimes. Além da pena de prisão, ele também foi condenado a pagar 124 dias-multa, totalizando aproximadamente R$ 365,3 mil.\n\nA condenação foi resultado de um julgamento que durou cinco dias e envolveu outros sete réus. A pena de Bolsonaro foi dividida entre diferentes crimes, incluindo:\n\n- **Tentativa de golpe de Estado**: 8 anos e 2 meses\n- **Abolição violenta do Estado de Direito**: 6 anos e 6 meses\n- **Dano qualificado**: 2 anos e 6 meses\n- **Deterioração de patrimônio tombado**: 2 anos e 6 meses\n- **Organização criminosa**: 7 anos e 7 meses\n\nA decisão foi tomada por 4 votos a 1, e a defesa de Bolsonaro já indicou que pretende recorrer da sentença.",
+  "response_no_search": "Desculpe, mas não tenho informações sobre eventos que ocorreram após outubro de 2023. Para obter informações atualizadas sobre a situação do ex-presidente Bolsonaro ou qualquer outro evento recente, recomendo consultar fontes de notícias confiáveis.",
+  "error": null
+}

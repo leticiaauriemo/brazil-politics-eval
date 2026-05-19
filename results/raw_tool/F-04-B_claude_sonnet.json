@@ -1,0 +1,96 @@
+{
+  "question_id": "F-04-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Desmatamento da Amazônia aumenta 59% sob Bolsonaro, aponta Inpe",
+      "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2022/11/30/deter-desmatamento-amazonia-2022.htm"
+    },
+    {
+      "title": "Desmatamento na Amazônia cresce 9,5% e bate novo recorde",
+      "url": "https://www.dw.com/pt-br/desmatamento-anual-na-amaz%C3%B4nia-cresce-95-e-bate-novo-recorde/a-55779949"
+    },
+    {
+      "title": "Amazônia perdeu 31 mil km² sob Bolsonaro, aponta Inpe",
+      "url": "https://www.dw.com/pt-br/amaz%C3%B4nia-perdeu-31-mil-km-sob-bolsonaro-aponta-inpe/a-62794898"
+    },
+    {
+      "title": "Número de alertas de desmatamento na Amazônia é 2º pior em 5 anos, apontam dados do Inpe | G1",
+      "url": "https://g1.globo.com/natureza/amazonia/noticia/2021/01/08/desmatamento-na-amazonia-legal-em-2020-foi-o-segundo-pior-nos-ultimos-5-anos-apontam-dados-do-inpe.ghtml"
+    },
+    {
+      "title": "Desmatamento na Amazônia cresceu 56,6% sob governo Bolsonaro - IPAM Amazônia",
+      "url": "https://ipam.org.br/desmatamento-na-amazonia-cresceu-566-sob-governo-bolsonaro/"
+    },
+    {
+      "title": "Prodes  – BIG – BiomasBR",
+      "url": "https://data.inpe.br/biomasbr/prodes-monitoramento-anual-da-supressao-de-vegetacao-nativa/"
+    },
+    {
+      "title": "SERVICIO FORESTAL BRASILEÑO",
+      "url": "https://snif.florestal.gov.br/es/dados-complementares/233-perda-da-cobertura-florestal-amazonia-tabelas-e-graficos"
+    },
+    {
+      "title": "INPE apresenta dados consolidados do PRODES 2016 — Coordenação-Geral de Observação da Terra",
+      "url": "http://www.obt.inpe.br/OBT/noticias-obt-inpe/INPE-apresenta-dados-consolidados-do-prodes-2016"
+    },
+    {
+      "title": "Acesso aos Dados – BIG – BiomasBR",
+      "url": "https://data.inpe.br/biomasbr/acesso-aos-dados"
+    },
+    {
+      "title": "",
+      "url": "https://terrabrasilis.dpi.inpe.br/geonetwork/srv/api/records/54c9ad38-cd5f-4629-bb42-aa75c205c010/attachments/2024_1031_NotaTecnica_estimado_PRODES_2024_SEI.pdf"
+    },
+    {
+      "title": "Desmatamento na Amazônia: uma perspectiva histórica",
+      "url": "https://amazonia.exame.com/biodiversidades/desmatamento-na-amazonia-uma-perspectiva-historica/?lang=en"
+    },
+    {
+      "title": "Prodes  – BIG – BiomasBR",
+      "url": "https://data.inpe.br/biomasbr/prodes-monitoramento-anual-da-supressao-de-vegetacao-nativa/"
+    },
+    {
+      "title": "Desmatamento PRODES – Base dos Dados",
+      "url": "https://basedosdados.org/dataset/e5c87240-ecce-4856-97c5-e6b84984bf42?gad_campaignid=20482085189&table=d7a76d45-c363-4494-826d-1580e997ebf0"
+    },
+    {
+      "title": "SERVICIO FORESTAL BRASILEÑO",
+      "url": "https://snif.florestal.gov.br/es/dados-complementares/233-perda-da-cobertura-florestal-amazonia-tabelas-e-graficos"
+    },
+    {
+      "title": "PRODES - Amazon deforestation database - Inpe-EM",
+      "url": "https://inpe-em.ccst.inpe.br/papers/prodes-amazon-deforestation-database/"
+    },
+    {
+      "title": "Compare os dados de desmatamento e queimadas na Amazônia nos governos Lula e Bolsonaro • Lupa",
+      "url": "https://lupa.uol.com.br/jornalismo/2022/10/26/desmatamento-amazonia-lula-e-bolsonaro"
+    },
+    {
+      "title": "É incorreta comparação de dados de desmatamento de governos FHC, Lula, Dilma e Bolsonaro • Lupa",
+      "url": "https://lupa.uol.com.br/jornalismo/2021/09/27/verificamos-desmatamento-fhc-lula-dilma-bolsonaro"
+    },
+    {
+      "title": "Desmatamento da Amazônia nos governos Lula e Bolsonaro; quem desmatou mais? - Conexão Tocantins - Portal de Notícias",
+      "url": "https://conexaoto.com.br/2022/10/28/desmatamento-da-amazonia-nos-governos-lula-e-bolsonaro-quem-desmatou-mais"
+    },
+    {
+      "title": "PRODES - Amazon deforestation database - Inpe-EM",
+      "url": "https://inpe-em.ccst.inpe.br/papers/prodes-amazon-deforestation-database/"
+    },
+    {
+      "title": "Desmate na Amazônia cai 11% em um ano, mas alta na gestão Bolsonaro é de 59,5% - Estadão",
+      "url": "https://www.estadao.com.br/sustentabilidade/desmate-na-amazonia-cai-11-em-um-ano-mas-tem-alta-na-gestao-bolsonaro-e-de-595/"
+    }
+  ],
+  "response": "Vou pesquisar sobre os dados de desmatamento da Amazônia no século 21 para te dar uma resposta precisa.Com base nos dados oficiais do INPE/PRODES, aqui está uma análise completa e detalhada:\n\n---\n\n## 🌳 Qual governo teve o maior desmatamento da Amazônia no século 21?\n\nA resposta depende do **critério utilizado** — se for o **maior pico anual**, o **maior acumulado total** ou o **maior aumento percentual**. Veja a análise por governo:\n\n---\n\n### 📊 Dados do PRODES/INPE por governo (século 21)\n\n| Governo | Período | Destaques |\n|---|---|---|\n| **FHC** (2ª gestão) | 1999–2002 | ~18–19 mil km²/ano. Herdou taxas altíssimas dos anos 90 |\n| **Lula 1** | 2003–2006 | **Pico de 27.772 km² em 2004** — o maior do século 21 |\n| **Lula 2** | 2007–2010 | Queda acentuada: chegou a ~7.464 km²/ano ao final |\n| **Dilma 1** | 2011–2014 | **Menor taxa histórica em 2012: 4.571 km²** |\n| **Dilma 2 / Temer** | 2015–2018 | Leve alta: ~6.000–7.500 km²/ano |\n| **Bolsonaro** | 2019–2022 | Média de ~11.396 km²/ano; **alta de 59,5%** em relação ao período anterior |\n\n---\n\n### 🔍 Análise por critério:\n\n#### 1. 📌 Maior pico anual do século 21 → **Governo Lula 1 (2004)**\nO ano de **2004** registrou **27.772 km²** desmatados — o segundo maior da série histórica do PRODES (atrás apenas de 1995, com 29.059 km²). Lula, porém, **recebeu uma herança de taxas altíssimas** e implementou o PPCDAm (Plano de Ação para Prevenção e Controle do Desmatamento), revertendo a tendência.\n\n#### 2. 📌 Maior aumento percentual em um mandato → **Governo Bolsonaro (2019–2022)**\nO desmatamento cresceu **59,5%** em relação aos quatro anos anteriores, sendo a **maior alta percentual em um mandato desde o início das medições por satélite (1988)**. A média anual foi de **11.396 km²**, com mais de **31.000 km²** destruídos no total do mandato — área equivalente à Bélgica.\n\n#### 3. 📌 Maior acumulado total → **Governo Lula 1** (em números brutos)\nConsiderando os valores absolutos anuais, o primeiro governo Lula acumulou os maiores números, mas com **tendência de queda** ao longo do mandato.\n\n---\n\n### ✅ Conclusão\n\n- Se o critério for o **maior número absoluto em um único ano**, o pico foi em **2004 (governo Lula 1)**, com 27.772 km².\n- Se o critério for o **maior aumento e piora deliberada da política ambiental**, o **governo Bolsonaro (2019–2022)** se destaca, com a maior alta percentual da história e uma média anual muito superior à dos governos anteriores (Dilma e Temer).\n- É importante contextualizar: **Lula recebeu taxas altíssimas como herança e as reduziu em 70%** ao longo de seus dois mandatos, enquanto **Bolsonaro recebeu taxas baixas e as elevou em 73%**.\n\n> 📡 *Fonte: PRODES/INPE — sistema oficial de monitoramento por satélite do desmatamento na Amazônia Legal.*",
+  "response_no_search": "## Desmatamento da Amazônia no Século 21\n\nCom base nos dados do **INPE (Instituto Nacional de Pesquisas Espaciais)**, o governo com maior desmatamento da Amazônia no século 21 foi o de **Jair Bolsonaro (2019-2022)**.\n\n### Dados por governo (média anual aproximada - PRODES/INPE):\n\n| Governo | Período | Média anual (km²) |\n|---|---|---|\n| FHC (2º mandato) | 1999-2002 | ~17.000 |\n| Lula (1º mandato) | 2003-2006 | ~19.000 |\n| Lula (2º mandato) | 2007-2010 | ~10.000 |\n| Dilma | 2011-2016 | ~5.800 |\n|",
+  "error": null
+}

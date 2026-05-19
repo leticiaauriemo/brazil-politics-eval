@@ -1,0 +1,15 @@
+{
+  "question_id": "F-09-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "C",
+  "prompt": "A Pfizer ofereceu vacinas ao Brasil em 2020 — o governo federal aceitou a oferta na época?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**No, the Brazilian federal government did not accept Pfizer's vaccine offers in 2020.**\n\n### Key Evidence from Multiple Sources\nAll provided search results (from Brazilian news outlets like O Globo, G1, CNN Brasil, Senado, Exame, and others, dated 2021) consistently report testimony from Pfizer's Latin America executive Carlos Murillo to the Senate's CPI da Covid on May 13, 2021. They confirm:\n\n- **Pfizer's Offers in 2020**:\n  | Date       | Offer Details                          | Delivery Tim",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

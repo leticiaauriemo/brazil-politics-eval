@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-B",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Da suspensão à autorização para voltar ao ar: veja a cronologia do período do X sem operar no Brasil | G1",
+      "url": "https://g1.globo.com/politica/noticia/2024/10/08/da-suspensao-a-volta-ao-ar-veja-a-cronologia-do-periodo-do-x-sem-operar-no-brasil.ghtml"
+    },
+    {
+      "title": "Moraes autoriza o retorno do X, bloqueado há 39 dias no Brasil. Saiba quando a rede deve voltar",
+      "url": "https://www.otempo.com.br/politica/judiciario/2024/10/8/moraes-autoriza-o-retorno-do-x--bloqueado-ha-39-dias-no-brasil--"
+    },
+    {
+      "title": "Multas e bloqueios: como foram os 39 dias sem X no Brasil",
+      "url": "https://www.metropoles.com/brasil/multas-e-bloqueios-como-foram-os-mais-de-30-dias-sem-x-no-brasil"
+    },
+    {
+      "title": "Da suspensão à retomada: relembre como foram os 40 dias sem Twitter/X no Brasil",
+      "url": "https://www.infomoney.com.br/politica/da-suspensao-a-retomada-relembre-como-foram-os-40-dias-sem-twitter-x-no-brasil/"
+    },
+    {
+      "title": "Multas milionárias, 39 dias de bloqueio e recuo de Musk: saiba tudo sobre o fim da novela envolvendo o X",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/10/09/multas-milionarias-39-dias-de-bloqueio-e-recuo-de-musk-saiba-tudo-sobre-o-fim-da-novela-envolvendo-o-x.ghtml"
+    }
+  ],
+  "response": "O X, rede social anteriormente conhecida como Twitter, foi suspenso no Brasil entre agosto e outubro de 2024 devido ao não cumprimento de exigências legais brasileiras. A suspensão foi determinada pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), em 30 de agosto de 2024. As razões para a suspensão incluíram:\n\n1. **Descumprimento de Ordens Judiciais**: A empresa não bloqueou contas específicas conforme exigido por decisões judiciais.\n\n2. **Falta de Representante Legal**: O X fechou seu escritório no Brasil e não manteve um representante legal no país, o que é uma exigência do Código Civil brasileiro para empresas estrangeiras operarem no território nacional.\n\n3. **Multas Não Pagas**: A empresa acumulou multas significativas por não cumprir as ordens judiciais, totalizando R$ 28,6 milhões.\n\nApós cumprir todas as exigências, incluindo o pagamento das multas e a nomeação de um representante legal no Brasil, o X foi autorizado a retomar suas operações no país em 8 de outubro de 2024. A decisão de permitir o retorno foi tomada após a Procuradoria-Geral da República (PGR) recomendar a liberação, afirmando que todas as condições impostas haviam sido atendidas. A Agência Nacional de Telecomunicações (Anatel) foi responsável por notificar as operadoras para desativar o bloqueio e permitir o acesso à plataforma.",
+  "response_no_search": "Sinto muito, mas não tenho informações sobre eventos que ocorreram após outubro de 2023. Recomendo verificar fontes de notícias atualizadas ou sites oficiais para obter informações sobre a suspensão do X no Brasil entre agosto e outubro de 2024.",
+  "error": null
+}

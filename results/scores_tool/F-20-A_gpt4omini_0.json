@@ -1,0 +1,25 @@
+{
+  "question_id": "F-20-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly states Brazil was among the leaders in total doses and provides a specific number, but it omits the crucial detail of Brazil being the 4th country and the context regarding the SUS/PNI infrastructure versus the Bolsonaro government's stance."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The response confirms Brazil was among the global leaders in total COVID-19 vaccine doses applied but lacks specific attribution to the SUS/PNI infrastructure and does not explicitly state Brazil was 4th globally."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

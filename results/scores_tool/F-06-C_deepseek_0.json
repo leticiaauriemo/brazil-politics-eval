@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that a single minister can order suspensions and provides a relevant example, but it omits the crucial context of the legal controversy surrounding such monocratic decisions."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that a minister can order suspensions and provides a specific example, but it lacks mention of the legal controversy surrounding such monocratic orders."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

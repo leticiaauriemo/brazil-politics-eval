@@ -1,0 +1,35 @@
+{
+  "question_id": "F-11-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "prompt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Impeachment é aprovado e Dilma Rousseff é destituída pelo Senado",
+      "url": "https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/"
+    },
+    {
+      "title": "Portal da Câmara dos Deputados",
+      "url": "https://www2.camara.leg.br/legin/fed/ressen/2016/resolucao-35-31-agosto-2016-783556-publicacaooriginal-151006-pl.html"
+    },
+    {
+      "title": "Como chegamos até aqui: os principais fatos que levaram à reta final o processo de impeachment de Dilma - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37161199"
+    },
+    {
+      "title": "",
+      "url": "http://www12.senado.leg.br/noticias/arquivos/2016/08/31/veja-a-sentenca-de-impeachment-contra-dilma-rousseff"
+    },
+    {
+      "title": "Entenda rito de impeachment de Dilma após julgamento do STF | Exame",
+      "url": "https://exame.com/brasil/entenda-rito-de-impeachment-de-dilma-apos-julgamento-do-stf/"
+    }
+  ],
+  "response": "Sim, o impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição Federal e na Lei nº 1.079/1950, que dispõe sobre os crimes de responsabilidade [exame.com](https://exame.com/brasil/entenda-rito-de-impeachment-de-dilma-apos-julgamento-do-stf/).\n\nO processo teve início em 2 de dezembro de 2015, quando o então presidente da Câmara dos Deputados, Eduardo Cunha, aceitou o pedido de impeachment assinado pelos juristas Miguel Reale Júnior, Janaína Paschoal e Hélio Bicudo [bbc.com](https://www.bbc.com/portuguese/brasil-37161199/). A justificativa para o pedido foram as \"pedaladas fiscais\" e a abertura de créditos suplementares por decreto presidencial sem autorização do Congresso Nacional, atos considerados crimes de responsabilidade [exame.com](https://exame.com/brasil/entenda-rito-de-impeachment-de-dilma-apos-julgamento-do-stf/), [camara.leg.br](https://www2.camara.leg.br/legin/fed/ressen/2016/resolucao-35-31-agosto-2016-783556-publicacaooriginal-151006-pl.html).\n\nAs etapas do processo foram as seguintes:\n\n1.  **Câmara dos Deputados:**\n    *   Uma Comissão Especial foi formada para analisar a admissibilidade do pedido [exame.com](https://exame.com/brasil/entenda-rito-de-impeachment-de-dilma-apos-julgamento-do-stf/).\n    *   Em 17 de abril de 2016, a Câmara dos Deputados aprovou o prosseguimento do impeachment por 367 votos a 137, encaminhando o processo ao Senado [conjur.com.br](https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/), [bbc.com](https://www.bbc.com/portuguese/brasil-37161199/).\n\n2.  **Senado Federal:**\n    *   Uma comissão de senadores foi formada para analisar o caso, e o relator, Antonio Anastasia, concluiu haver indícios \"robustos\" de crimes fiscais [bbc.com](https://www.bbc.com/portuguese/brasil-37161199/).\n    *   Em 11 de maio de 2016, o Plenário do Senado Federal aprovou a admissibilidade do processo por 55 votos a 22, o que resultou no afastamento temporário de Dilma Rousseff de suas funções por até 180 dias para julgamento [conjur.com.br](https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/), [bbc.com](https://www.bbc.com/portuguese/brasil-37161199/), [senado.leg.br](http://www12.senado.leg.br/noticias/arquivos/2016/08/31/veja-a-sentenca-de-impeachment-contra-dilma-rousseff).\n    *   Durante a fase de julgamento, o processo foi presidido pelo Presidente do Supremo Tribunal Federal (STF) [bbc.com](https://www.bbc.com/portuguese/brasil-37161199/).\n    *   Em 31 de agosto de 2016, o Senado Federal votou pela condenação de Dilma Rousseff por crimes de responsabilidade, com 61 votos favoráveis e 20 contrários, resultando na perda do cargo de Presidente da República [conjur.com.br](https://www.conjur.com.br/2016-ago-31/impeachment-aprovado-dilma-rousseff-destituida-senado/), [camara.leg.br](https://www2.camara.leg.br/legin/fed/ressen/2016/resolucao-35-3",
+  "response_no_search": "Sim, o impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição Federal de 1988 e na Lei nº 1.079/1950 (Lei do Impeachment).\n\n**Principais etapas e conformidade legal:**\n\n1.  **Denúncia:** A denúncia foi apresentada por Hélio Bicudo, Miguel Reale Júnior e Janaína Paschoal, alegando crimes de responsabilidade relacionados às \"pedaladas fiscais\" e à edição de decretos de crédito suplementar sem autorização do Congresso Nacional. A Constituição (art. 85) e a Lei 1.079/",
+  "error": null
+}

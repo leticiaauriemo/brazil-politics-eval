@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "B",
+  "prompt": "O que aconteceu com o Banco Master após o Banco Central rejeitar a compra pelo BRB?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Analysis: Why regulators saw too much risk in BRB-Master deal",
+      "url": "https://valorinternational.globo.com/business/news/2025/09/05/analysis-why-regulators-saw-too-much-risk-in-brb-master-deal.ghtml"
+    },
+    {
+      "title": "Central Bank orders liquidation of Banco Master as owner faces arrest",
+      "url": "https://valorinternational.globo.com/markets/news/2025/11/18/central-bank-orders-liquidation-of-banco-master-as-owner-faces-arrest.ghtml"
+    },
+    {
+      "title": "Valor International / Markets",
+      "url": "https://valorinternational.globo.com/markets/news/2025/09/04/analysis-banco-master-situation-stays-far-from-over.ghtml"
+    },
+    {
+      "title": "Why Central Bank was slow to spot fraud at Master",
+      "url": "https://valorinternational.globo.com/markets/news/2026/02/02/why-central-bank-was-slow-to-spot-fraud-at-master.ghtml"
+    },
+    {
+      "title": "How Central Bank unraveled Banco Master fraud",
+      "url": "https://valorinternational.globo.com/markets/news/2025/11/24/how-central-bank-unraveled-banco-master-fraud.ghtml"
+    }
+  ],
+  "response": "Após a rejeição pelo Banco Central da compra do Banco Master pelo BRB, os eventos seguiram os seguintes desdobramentos:\n\n1. **Motivos da rejeição**:  \n   O Banco Central rejeitou o acordo devido a riscos relacionados à incapacidade dos acionistas de cumprir requisitos de capitalização e à estrutura complexa e opaca do grupo controlador do Master, liderado por Daniel Vorcaro. A injeção de R$ 1 bilhão por Vorcaro foi considerada insuficiente, e a redução do escopo da transação (de R$ 50 bilhões para R$ 23,9 bilhões em ativos) não resolveu os problemas estruturais.\n\n2. **Tentativas de ajuste**:  \n   BRB e Master submeteram pelo menos três propostas revisadas, mas o Banco Central insistiu em um balanço patrimonial mais sólido e na exclusão do controle de Vorcaro. A última proposta removeu totalmente seu envolvimento, mas foi rejeitada em 3 de setembro de 2025.\n\n3. **Crisis e fraude revelada**:  \n   Após a rejeição, investigações apontaram operações fraudulentas, como a venda de R$ 12,2 bilhões em créditos inexistentes pelo Master ao BRB. O Banco Central ordenou a reversão dessas transações, deixando o Master insolvente.\n\n4. **Liquidation e prisão de Vorcaro**:  \n   Em 18 de novembro de 2025, o Banco Central decretou a liquidação extrajudicial do Master, a maior da história do sistema financeiro brasileiro. Na mesma data, Vorcaro foi preso pela Polícia Federal sob acusação de fraude. A liquidação foi justificada por violações graves às normas legais e pela impossibilidade de recuperação.\n\n5. **Impacto no sistema financeiro**:  \n   O Master tinha R$ 86,396 bilhões em ativos e R$ 62,2 bilhões em depósitos cobertos pelo FGC. A liquidação evitou riscos sistêmicos, mas o Fundo Garantidor poderá arcar com perdas significativas, dependendo da liquidação dos ativos.\n\nEm resumo, a rejeição do acordo BRB-Master resultou na liquidação do Banco Master devido à combinação de insolvência, fraude e pressões regulatórias, culminando na prisão de seu controlador e na maior intervenção já realizada pelo Banco Central no setor financeiro brasileiro.",
+  "response_no_search": "Após o **Banco Central do Brasil (BACEN)** rejeitar, em outubro de 2021, a tentativa de aquisição do **Banco Master** pelo **Banco de Brasília (BRB)**, o banco Master passou por uma sequência de eventos que culminaram em sua **liquidação extrajudicial**. Abaixo, os principais pontos:\n\n### 1. **Rejeição da aquisição pelo BRB**\n   - O Banco Central **negou a operação** devido a **requisitos de governança corporativa e riscos sistêmicos**. O BRB, controlado pelo governo do Distrito Federal, pretend",
+  "error": null
+}

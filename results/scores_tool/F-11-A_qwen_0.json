@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-A",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model correctly identifies the formal steps of the impeachment process but then extensively details 'controvérsias jurídicas' and 'críticas de inconstitucionalidade' which contradict the ground truth that the process followed the constitutional framework and was not declared unconstitutional by the STF."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response acknowledges that the impeachment process followed formal constitutional steps but raises significant legal controversies and criticisms, leading to a partially correct assessment."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 0.5,
+  "agreement": true
+}

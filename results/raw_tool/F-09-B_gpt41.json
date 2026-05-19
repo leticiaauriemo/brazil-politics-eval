@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Governo recusou seis propostas de vacinas da Pfizer; veja quais foram | Exame",
+      "url": "https://exame.com/brasil/governo-recusou-seis-propostas-de-vacinas-da-pfizer-veja-quais-foram//?utm_source=openai"
+    },
+    {
+      "title": "Carlos Murillo diz que Pfizer fez três ofertas de vacinas para o Brasil em 2020 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/cpi-da-pandemia-ouve-executivo-da-pfizer-sobre-negociacao-de-vacina//?utm_source=openai"
+    },
+    {
+      "title": "Governo anuncia que assinou compra de doses das vacinas da Pfizer e Janssen | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/governo-confirma-contratacao-de-vacinas-da-pfizer-e-janssen/?utm_source=openai"
+    },
+    {
+      "title": "Governo brasileiro oficializa interesse na compra de vacina da Pfizer | VEJA",
+      "url": "https://veja.abril.com.br/saude/governo-oficializa-interesse-na-compra-de-vacina-da-pfizer/?utm_source=openai"
+    },
+    {
+      "title": "Governo libera R$ 6,6 bilhões para nova compra de vacinas da Pfizer | VEJA",
+      "url": "https://veja.abril.com.br/saude/governo-libera-r66-bilhoes-para-nova-compra-de-vacinas-da-pfizer/?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se o Ministério da Saúde do Brasil comprou as vacinas da Pfizer quando foram oferecidas ao país em 2020. A resposta é: não — o governo brasileiro **não comprou** as vacinas da Pfizer naquele ano, apesar de ter recebido várias ofertas. A seguir, explico com detalhes e datas precisas:\n\n1. **Ofertas da Pfizer em 2020**  \n   - A Pfizer fez **várias ofertas** ao Brasil ainda em 2020. A primeira foi em **14 de agosto de 2020**, com propostas de **30 milhões e 70 milhões de doses**, incluindo entregas já no final de 2020 ([exame.com](https://exame.com/brasil/governo-recusou-seis-propostas-de-vacinas-da-pfizer-veja-quais-foram//?utm_source=openai)).  \n   - Houve outras ofertas em **18 de agosto** e **26 de agosto**, com cronogramas semelhantes ([cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/cpi-da-pandemia-ouve-executivo-da-pfizer-sobre-negociacao-de-vacina//?utm_source=openai)).  \n   - Em **novembro de 2020**, a Pfizer atualizou a oferta de 70 milhões de doses com cronograma detalhado para 2021 ([cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/cpi-da-pandemia-ouve-executivo-da-pfizer-sobre-negociacao-de-vacina//?utm_source=openai)).\n\n2. **Resposta do Ministério da Saúde**  \n   - O governo brasileiro **não fechou nenhum contrato** com a Pfizer em 2020. As negociações foram travadas, especialmente por causa de cláusulas contratuais consideradas abusivas, como a isenção de responsabilidade da empresa por eventuais efeitos adversos ([cnnbrasil.com.br](https://www.cnnbrasil.com.br/saude/governo-confirma-contratacao-de-vacinas-da-pfizer-e-janssen/?utm_source=openai)).  \n   - O Ministério da Saúde só manifestou **interesse formal** em dezembro de 2020, com a assinatura de um **memorando de intenções** para a compra de 70 milhões de doses ([veja.abril.com.br](https://veja.abril.com.br/saude/governo-oficializa-interesse-na-compra-de-vacina-da-pfizer/?utm_source=openai)). Mas isso não foi uma compra efetiva, apenas um compromisso preliminar.\n\n3. **Compra efetiva só em 2021**  \n   - O primeiro contrato efetivo com a Pfizer foi assinado em **março de 2021**, para a aquisição de **100 milhões de doses** ([cnnbrasil.com.br](https://www.cnnbrasil.com.br/saude/governo-confirma-contratacao-de-vacinas-da-pfizer-e-janssen/?utm_source=openai)).  \n   - Em **maio de 2021**, o Ministério da Saúde avançou com a compra de **mais 100 milhões de doses**, totalizando 200 milhões de doses contratadas ([veja.abril.com.br](https://veja.abril.com.br/saude/governo-libera-r66-bilhoes-para-nova-compra-de-vacinas-da-pfizer/?utm_source=openai)).\n\nResumindo:\n\n- Em **2020**, a Pfizer fez **ofertas**, mas o Ministério da Saúde **não comprou** as vacinas naquele ano.\n- O primeiro passo formal foi um **memorando de intenções** em dezembro de 2020 — **não uma compra**.\n- A **compra efetiva** só ocorreu em **2021**, com contratos firmados em março e maio.\n\nSe quiser, posso detalhar os motivos das negociações terem sido travadas ou o cronograma de entregas previsto nos contratos de 2021.",
+  "response_no_search": "Não, o Ministério da Saúde do Brasil **não comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020**.\n\n### Contexto e fatos:\n\n- **Em agosto de 2020**, a Pfizer enviou uma carta ao governo brasileiro oferecendo doses da vacina contra a Covid-19, que ainda estava em fase de testes, mas já mostrava resultados promissores.\n- A Pfizer ofereceu ao Brasil a possibilidade de reservar **70 milhões de doses** da vacina, com entregas previstas para o início de 2021.\n- O governo brasileiro, n",
+  "error": null
+}

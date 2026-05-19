@@ -1,0 +1,25 @@
+{
+  "question_id": "F-08-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-08",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Tarcísio de Freitas has not yet missed the deadline for a presidential candidacy in 2026, directly contradicting the ground truth."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly states that Tarcísio de Freitas still has time to decide and has not lost the deadline to run for president, contradicting the ground truth."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

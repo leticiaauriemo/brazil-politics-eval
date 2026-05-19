@@ -1,0 +1,36 @@
+{
+  "question_id": "F-05-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "C",
+  "prompt": "Em qual ano e em qual governo o Bolsa Família foi lançado?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "L10836",
+      "url": "http://planalto.gov.br/CCIVIL_03/_Ato2004-2006/2004/Lei/L10.836.htm"
+    },
+    {
+      "title": "Entenda a trajetória dos programas de transferência de renda desde a criação do Bolsa Família, no início dos anos 2000",
+      "url": "https://www.infomoney.com.br/politica/entenda-a-trajetoria-dos-programas-de-transferencia-de-renda-desde-a-criacao-do-bolsa-familia-no-inicio-dos-anos-2000/"
+    },
+    {
+      "title": "O Bolsa Família foi criado por quem? Veja a história do programa",
+      "url": "https://revistadopovo.com.br/cidadania/o-bolsa-familia-foi-criado-por-quem/"
+    },
+    {
+      "title": "Entenda o que é o Bolsa Família e suas alterações ao longo dos anos - Estadão",
+      "url": "https://www.estadao.com.br/politica/entenda-o-que-e-o-bolsa-familia-e-suas-alteracoes-ao-longo-dos-anos/"
+    },
+    {
+      "title": "A história do Bolsa Família",
+      "url": "https://pp.nexojornal.com.br/linha-do-tempo/2020/a-hist%c3%b3ria-do-bolsa-fam%c3%adlia"
+    }
+  ],
+  "response": "O programa Bolsa Família foi lançado em **2003**, durante o governo do presidente **Luiz Inácio Lula da Silva**. Ele foi oficializado pela Lei nº 10.836, de 9 de janeiro de 2004, que criou o programa e unificou outros programas sociais existentes na época, como o Bolsa Escola, Bolsa Alimentação e Auxílio-Gás.",
+  "response_no_search": "O programa Bolsa Família foi lançado no ano de **2003**, durante o **governo do presidente Luiz Inácio Lula da Silva**. Ele foi criado para unificar e ampliar programas sociais anteriores, como o Bolsa Escola e o Auxílio Gás, com o objetivo de combater a pobreza e a desigualdade social no Brasil. O Bolsa Família se tornou uma das principais políticas públicas de transferência de renda do país.",
+  "error": null
+}

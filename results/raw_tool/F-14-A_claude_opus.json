@@ -1,0 +1,24 @@
+{
+  "question_id": "F-14-A",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-14",
+  "wording_variant": "A",
+  "prompt": "A Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "\"Globo\" recebeu 49% da verba de publicidade de Lula na TV",
+      "url": "https://www.poder360.com.br/poder-midia/globo-recebeu-49-da-verba-de-publicidade-de-lula-na-tv/"
+    },
+    {
+      "title": "Globo fica com metade da verba de publicidade do governo Lula 3 na TV",
+      "url": "https://www.jb.com.br/brasil/politica/2026/01/1058183-globo-fica-com-metade-da-verba-de-publicidade-do-governo-lula-3-na-tv.html"
+    }
+  ],
+  "response": "# Sim, a Rede Globo recebe verba de publicidade do governo federal brasileiro\n\nSim, a Rede Globo recebe verba de publicidade paga pelo governo federal brasileiro — e, atualmente, é a maior beneficiária entre as emissoras de televisão. Essa prática, no entanto, não é exclusiva da Globo: todas as principais emissoras recebem recursos públicos para veicular campanhas oficiais, embora a distribuição varie significativamente conforme o governo no poder.\n\n## Panorama atual (governo Lula, 3º mandato)\n\nOs canais do Grupo Globo ganharam quase metade (49,4%) do valor gasto em publicidade via televisão pela administração direta do governo do presidente Luiz Inácio Lula da Silva (PT) neste 3º mandato até agora.\n\nEm valores corrigidos pela inflação, as emissoras de TV do Grupo Globo ganharam R$ 461,5 milhões nos primeiros 3 anos de Lula até agora.\n\nA distribuição ano a ano foi a seguinte: em 2023, foram R$ 345,1 milhões em propaganda via TV, sendo que R$ 175,5 milhões ficaram com as emissoras da Globo; em 2024, o conglomerado de mídia levou R$ 169,8 milhões dos R$ 351,9 milhões distribuídos para televisão; em 2025, os canais da Globo ganharam R$ 116,3 milhões dos R$ 236,9 milhões do total da TV.\n\n## Comparação com o governo Bolsonaro\n\nA participação da Globo variou bastante entre as administrações. Durante o governo anterior, de Jair Bolsonaro (PL), a participação da Globo nunca ultrapassou 30% do total. Naquele período, os recursos eram distribuídos de forma mais equilibrada entre Globo, Record e SBT, com leve desvantagem para a emissora da família Abravanel.\n\nSob Lula, os canais da Globo foram os únicos que cresceram na participação da publicidade estatal federal. Todos os outros grandes grupos perderam espaço na comparação com 2022.\n\n## Quais órgãos pagam essa publicidade\n\nA Secretaria de Comunicação da Presidência administrou 69,1% da verba gasta com publicidade pelo governo e ministérios até agora em 2025. O Ministério da Saúde ficou com 25,0%. No total, R$ 533 milhões foram desembolsados no ano até agora.\n\n## Limites da transparência\n\nÉ importante destacar que os números públicos não",
+  "response_no_search": "Sim, a Rede Globo recebe verbas de publicidade do governo federal brasileiro, assim como outras emissoras e veículos de comunicação do país. Isso ocorre por meio da chamada **publicidade legal** e da **publicidade institucional**, distribuídas principalmente pela Secretaria de Comunicação Social (Secom) da Presidência da República e por estatais como Caixa, Banco do Brasil, Petrobras e Correios.\n\nAlguns pontos relevantes:\n\n1. **Critérios de distribuição**: A Secom utiliza critérios como audiênci",
+  "error": null
+}

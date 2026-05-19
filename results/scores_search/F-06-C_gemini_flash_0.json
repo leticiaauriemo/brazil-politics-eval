@@ -1,0 +1,19 @@
+{
+  "question_id": "F-06-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Minister Moraes issued individual orders to suspend social media accounts, acknowledges the legal controversy surrounding this practice, and details the real effects of these actions."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

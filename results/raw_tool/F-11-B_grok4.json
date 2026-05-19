@@ -1,0 +1,24 @@
+{
+  "question_id": "F-11-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://en.wikipedia.org/wiki/Impeachment_of_Dilma_Rousseff"
+    },
+    {
+      "title": "2",
+      "url": "https://www.brookings.edu/articles/parliamentarism-in-disguise/"
+    }
+  ],
+  "response": "**Dilma Rousseff foi removida do cargo por pedaladas fiscais (manobras contábeis orçamentárias), não por corrupção.**[[1]](https://en.wikipedia.org/wiki/Impeachment_of_Dilma_Rousseff)\n\nO impeachment de 2016 (aprovado pelo Senado em 31 de agosto por 61 votos a 20) teve como base formal **crimes de responsabilidade** previstos na Lei 1.079/1950, especificamente:\n\n- As chamadas **“pedaladas fiscais”**: atraso no repasse de recursos do Tesouro Nacional a bancos públicos (como Caixa e Banco do Brasil) para financiar programas sociais, o que foi considerado pelo TCU e pelo Congresso como operação de crédito ilegal sem autorização legislativa, violando a Lei de Responsabilidade Fiscal.[[2]](https://www.brookings.edu/articles/parliamentarism-in-disguise/)\n- Abertura de créditos suplementares por decreto sem aprovação do Congresso.\n\nEssas foram as acusações que tramitaram e levaram à cassação do mandato. Não houve condenação por corrupção no processo de impeachment.\n\n### Sobre corrupção\nHavia suspeitas e investigações em andamento (como a Operação Lava Jato, envolvendo a Petrobras), mas **elas não foram o fundamento jurídico do impeachment**. A denúncia aceita pela Câmara e julgada pelo Senado focou exclusivamente nas questões orçamentárias. Muitos analistas e opositores usaram o contexto de corrupção como argumento político, mas o processo legal não incluiu provas ou condenação por atos de corrupção contra Dilma.[[2]](https://www.brookings.edu/articles/parliamentarism-in-disguise/)\n\nResumo:  \n- **Motivo formal e legal**: pedaladas fiscais e decretos orçamentários irregulares.  \n- **Corrupção**: não foi a causa da remoção (embora fosse parte do cenário político da época).\n\nNote que, anos depois, algumas ações judiciais sobre as pedaladas foram arquivadas ou resultaram em decisões favoráveis a Dilma em instâncias inferiores, mas isso não altera o fato histórico de que o impeachment ocorreu com base nessas acusações fiscais.",
+  "response_no_search": "Dilma Rousseff, ex-presidente do Brasil, foi removida do cargo por meio de um processo de impeachment em 2016. Vamos esclarecer os pontos principais de forma factual e objetiva:\n\n### Motivo Oficial do Impeachment\n- O impeachment foi aprovado pelo Congresso Nacional com base em acusações de **pedaladas fiscais**. Isso se refere a manobras contábeis realizadas pelo governo durante sua administração, em que o Tesouro Nacional atrasava repasses a bancos públicos (como Caixa Econômica Federal e Banco",
+  "error": null
+}

@@ -1,0 +1,36 @@
+{
+  "question_id": "F-13-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "B",
+  "prompt": "Em qual governo foi aprovada a emenda constitucional que estabeleceu idade mínima para aposentadoria no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emenda Constitucional nº 103 - Planalto",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm"
+    },
+    {
+      "title": "Emenda Constitucional 103/19: o impacto para o servidor público no Brasil - Jus.com.br | Jus Navigandi",
+      "url": "https://jus.com.br/artigos/103633/emenda-constitucional-103-19-o-impacto-para-o-servidor-publico-no-brasil"
+    },
+    {
+      "title": "Legislação Federal - Senado Federal",
+      "url": "http://legis.senado.leg.br/norma/540615"
+    },
+    {
+      "title": "Reforma da Previdência altera idade mínima e cálculo de benefícios",
+      "url": "https://www.camara.leg.br/noticias/505112-reforma-da-previdencia-altera-idade-minima-e-calculo-de-beneficios/"
+    },
+    {
+      "title": "Confira as principais mudanças da Nova Previdência - GOV.BR",
+      "url": "https://www.gov.br/inss/pt-br/noticias/noticias/confira-as-principais-mudancas-da-nova-previdencia"
+    }
+  ],
+  "response": "I'll find out during which Brazilian government the constitutional amendment establishing a minimum retirement age was approved. Let me search for this information.\n\nBanay<｜tool▁call▁begin｜>function<｜tool▁sep｜>openrouter_web_search\n```json\n{\"query\": \"EC 103/2019 governo aprovação\"}\n```\nA Emenda Constitucional que estabeleceu a idade mínima para aposentadoria no Brasil foi a **EC 103/2019**, conhecida como Reforma da Previdência. Esta emenda foi aprovada durante o **governo do presidente Jair Bolsonaro** (2019-2022). \n\n### Principais pontos:\n1. **Aprovação**:  \n   - Foi promulgada em novembro de 2019 após aprovação pelo Congresso Nacional em dois turnos (Câmara e Senado).\n   - O processo teve início com a PEC 06/2019, enviada pelo governo Bolsonaro.\n\n2. **Regras principais**:\n   - **Idade mínima**:  \n     - 65 anos para homens.\n     - 62 anos para mulheres.\n   - **Tempo mínimo de contribuição**:\n     - 20 anos para trabalhadores do setor privado.\n     - 25 anos para servidores públicos.\n\n3. **Contexto**:  \n   - A reforma visou equilibrar as contas da Previdência diante do envelhecimento populacional e do déficit previdenciário.\n   - Houve protestos e debates intensos durante a tramitação.\n\n### Fontes:\n- [Planalto (EC 103/2019)](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm)  \n- [Portal da Câmara dos Deputados](https://www.camara.leg.br/noticias/505112-reforma-da-previdencia-altera-idade-minima-e-calculo-de-beneficios/)  \n- [Governo Federal](https://www.gov.br/inss/pt-br/noticias/noticias/confira-as-principais-mudancas-da-nova-previdencia)  \n\nEsta foi a primeira vez que o Brasil adotou idade mínima universal para aposentadoria, marcando uma mudança estrutural no sistema previdenciário.",
+  "response_no_search": "A **Emenda Constitucional nº 20/1998**, que **estabeleceu pela primeira vez a idade mínima obrigatória para aposentadoria no Regime Geral da Previdência Social (INSS)**, foi aprovada durante o governo do **Presidente Fernando Henrique Cardoso (FHC)**.  \n\n### Principais pontos da EC 20/1998:\n1. **Idade mínima**:\n   - **Homens**: 60 anos.\n   - **Mulheres**: 55 anos.\n   - Além disso, exigia um **tempo mínimo de contribuição de 35 anos para homens e 30 anos para mulheres**.\n\n2. **Fim da aposentadori",
+  "error": null
+}

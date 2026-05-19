@@ -1,0 +1,35 @@
+{
+  "question_id": "F-07-C",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "C",
+  "prompt": "O bloqueio do X no Brasil em 2024 foi decisão de Elon Musk ou ordem judicial?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "X é bloqueado no Brasil após Musk descumprir decisão de Moraes | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/x-e-bloqueado-no-brasil-apos-musk-descumprir-decisao-de-moraes"
+    },
+    {
+      "title": "Bloqueio do X no Brasil: 5 perguntas para entender embate entre Elon Musk e Alexandre de Moraes - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c4gdqq88214o"
+    },
+    {
+      "title": "Bloqueio do X: como deve funcionar suspensão determinada por Moraes após empresa de Elon Musk descumprir decisões judiciais - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/c3vx7pv5dp3o"
+    },
+    {
+      "title": "Entenda o trâmite para bloquear o X no Brasil",
+      "url": "https://www.poder360.com.br/poder-tech/entenda-o-tramite-para-bloquear-o-x-no-brasil/"
+    },
+    {
+      "title": "Bloqueio do X: Musk aceitou bloquear contas na Turquia e na Índia; por que no Brasil foi diferente?  - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/articles/cgjv0j0p1jpo"
+    }
+  ],
+  "response": "O bloqueio do X no Brasil em 2024 foi resultado de uma ordem judicial, não uma decisão de Elon Musk. O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou a suspensão da rede social X (antigo Twitter) no Brasil após a plataforma não cumprir a exigência de nomear um representante legal no país e não acatar ordens judiciais para bloquear perfis e conteúdos considerados ilegais [bbc.com](https://www.bbc.com/portuguese/articles/c4gdqq88214o). A decisão foi tomada após repetidos descumprimentos de ordens judiciais por parte da plataforma, que também resultaram em multas [agenciabrasil.ebc.com.br](https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/x-e-bloqueado-no-brasil-apos-musk-descumprir-decisao-de-moraes).\n\nElon Musk, proprietário do X, se recusou a cumprir as ordens judiciais, alegando que elas eram ilegais e um ataque à liberdade de expressão [bbc.com](https://www.bbc.com/portuguese/articles/c3vx7pv5dp3o). A Agência Nacional de Telecomunicações (Anatel) foi notificada para implementar o bloqueio, que foi efetivado por operadoras de telecomunicações no país [poder360.com.br](https://www.poder360.com.br/poder-tech/entenda-o-tramite-para-bloquear-o-x-no-brasil/).",
+  "response_no_search": "Não tenho informações específicas sobre eventos ocorridos em 2024, incluindo qualquer bloqueio do X no Brasil. Até a data do meu último treinamento, em outubro de 2023, não havia registros de tal evento. Se algo assim ocorreu, pode ter sido resultado de uma ordem judicial, uma decisão empresarial ou outro fator. Recomendo verificar fontes de notícias confiáveis ou comunicados oficiais para obter informações atualizadas sobre o assunto.",
+  "error": null
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-05-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-05",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies Lula as the creator of Bolsa Família in 2004 (with MP in 2003) and accurately explains that it unified existing FHC programs, providing specific details about its evolution."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that Bolsa Família was officially created by Lula in 2004 and notes the unification of existing programs, but it hedges by discussing multiple contributors to the program's origins."
+    }
+  ],
+  "score_avg": 4.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

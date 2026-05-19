@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-A",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "A",
+  "prompt": "O ministro Alexandre de Moraes ordenou a suspensão de perfis em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Veja perfis citados em decisões de Alexandre Moraes divulgadas por deputados dos EUA e por que foram suspensos - Estadão",
+      "url": "https://www.estadao.com.br/politica/veja-perfis-citados-relatorio-alexandre-de-moraes-deputados-estados-unidos-eua-redes-sociais-x-twitter-stf-tse-nprp/"
+    },
+    {
+      "title": "Aqui, alguns dos perfis já suspensos por Alexandre de Moraes nas redes sociais - Blog Dellas",
+      "url": "https://blogdellas.com.br/aqui-alguns-dos-perfis-ja-suspensos-por-alexandre-de-moraes-nas-redes-sociais/"
+    },
+    {
+      "title": "Suspensão de perfis das redes por Moraes vira caixa-preta - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2024/06/suspensao-de-perfis-por-moraes-vira-caixa-preta-com-sigilo-e-exclusao-de-pf-e-pgr.shtml"
+    },
+    {
+      "title": "Em cinco anos, Alexandre de Moraes bloqueou 120 perfis nas ...",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/10/em-cinco-anos-alexandre-de-moraes-bloqueou-120-perfis-nas-redes-sociais.ghtml"
+    },
+    {
+      "title": "Moraes suspende Instagram e manda bloquear até R$ 50 milhões de Marcos do Val",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/moraes-suspende-instagram-e-manda-bloquear-at%C3%A9-r-50-milh%C3%B5es-de-marcos-do-val-1.1522742"
+    }
+  ],
+  "response": "Sim, o ministro **Alexandre de Moraes**, do Supremo Tribunal Federal (STF), ordenou a suspensão de diversos perfis em redes sociais no Brasil. Aqui estão os principais pontos:\n\n## Contexto das Suspensões\n\n**Motivos principais:**\n- Disseminação de informações falsas (fake news)\n- Ataques a ministros do STF\n- Divulgação de conteúdo relacionado aos ataques golpistas de 8 de janeiro de 2023\n- Incitação à violência e desestabilização democrática\n\n## Perfis Suspensos\n\nEntre os casos mais conhecidos estão:\n- **Senador Marcos do Val** (Podemos-ES) - suspenso em junho de 2023\n- **Deputada Carla Zambelli** (PL-SP) - suspensa em novembro de 2022\n- **Influenciadores** como Allan dos Santos, Paulo Figueiredo e Monark\n- Diversos perfis anônimos ligados ao bolsonarismo\n\n## Números\n\n- Em 2022: pelo menos 77 decisões para derrubada de perfis\n- Em 2023: 136 contas suspensas (107 delas entre janeiro e março)\n- Até 2025: aproximadamente 120 perfis bloqueados em cinco anos\n\n## Controvérsias\n\nAs decisões geraram críticas sobre:\n- **Sigilo processual**: muitas decisões são mantidas em sigilo, dificultando o acompanhamento público\n- **Falta de fundamentação pública**: as plataformas recebem apenas ofícios, não as decisões completas\n- **Questionamentos sobre censura**: críticos argumentam que há excesso de poder concentrado\n\nO STF afirma que todas as decisões são fundamentadas conforme a Constituição.",
+  "response_no_search": "# Suspensões de Perfis no Brasil\n\nSim, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), ordenou suspensões de perfis em redes sociais em várias ocasiões, particularmente:\n\n## Contextos principais:\n\n- **Investigações de fake news e desinformação** - relacionadas a ataques às instituições democráticas\n- **Inquérito sobre milícias digitais** - perfis acusados de coordenar campanhas de ódio\n- **Operações contra contas ligadas a extremismo** - incluindo apoiadores de atos antidemocr",
+  "error": null
+}

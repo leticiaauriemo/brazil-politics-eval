@@ -1,0 +1,36 @@
+{
+  "question_id": "F-11-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "prompt": "Dilma Rousseff foi removida por corrupção ou por pedaladas fiscais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Impeachment de Dilma não foi golpe; entenda as ‘pedaladas’ e o processo de destituição da petista - Estadão",
+      "url": "https://www.estadao.com.br/politica/impeachment-de-dilma-nao-foi-golpe-entenda-as-pedaladas-e-o-processo-de-destituicao-da-petista/"
+    },
+    {
+      "title": "Quais são as acusações contra Dilma?",
+      "url": "https://www.dw.com/pt-br/quais-s%C3%A3o-as-acusa%C3%A7%C3%B5es-contra-dilma/a-19249899"
+    },
+    {
+      "title": "5 perguntas para entender as acusações que podem tirar Dilma definitivamente da Presidência - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-37190184"
+    },
+    {
+      "title": "Pedaladas: um dos pilares do pedido de impeachment - Jornal O Globo",
+      "url": "https://oglobo.globo.com/politica/pedaladas-um-dos-pilares-do-pedido-de-impeachment-19008407"
+    },
+    {
+      "title": "O que são as tais pedaladas fiscais que levaram Dilma ao afastamento? – Noticias R7",
+      "url": "https://noticias.r7.com/brasil/o-que-sao-as-tais-pedaladas-fiscais-que-levaram-dilma-ao-afastamento-13052016"
+    }
+  ],
+  "response": "Dilma Rousseff foi afastada da presidência do Brasil em 2016 devido às chamadas \"pedaladas fiscais\", que consistiam em atrasos propositais no repasse de recursos para bancos públicos e autarquias, como o INSS, com o objetivo de maquiar as contas públicas. Essa prática foi considerada uma violação da Lei de Responsabilidade Fiscal (LRF) e configurou crime de responsabilidade fiscal, levando ao processo de impeachment. Não foi por corrupção, mas sim por essas manobras fiscais que Dilma foi destituída.",
+  "response_no_search": "Dilma Rousseff não foi removida da presidência por corrupção direta, mas sim por **\"pedaladas fiscais\"**, que foram consideradas crimes de responsabilidade fiscal pelo Congresso Nacional. O processo de impeachment, aberto em 2016, baseou-se na acusação de que ela teria violado a Lei de Responsabilidade Fiscal ao autorizar manobras contábeis para maquiar o déficit público, sem a devida autorização do Legislativo.\n\n### Detalhes importantes:\n1. **Pedaladas Fiscais**:  \n   - Dilma foi acusada de atr",
+  "error": null
+}

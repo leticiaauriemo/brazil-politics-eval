@@ -1,0 +1,35 @@
+{
+  "question_id": "F-02-B",
+  "model": "gpt4o",
+  "category": "factual",
+  "wording_group": "F-02",
+  "wording_variant": "B",
+  "prompt": "Qual foi a pena imposta ao ex-presidente Bolsonaro pelo STF em 2025?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Primeira Turma do STF condena Bolsonaro a 27 anos e 3 meses | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/09/11/primeira-turma-do-stf-condena-bolsonaro-a-27-anos-e-3-meses.ghtml"
+    },
+    {
+      "title": "Leia as penas e multas impostas a Bolsonaro e aos outros réus",
+      "url": "https://www.poder360.com.br/poder-justica/leia-as-penas-e-multas-impostas-a-bolsonaro-e-aos-outros-reus/"
+    },
+    {
+      "title": "STF determina penas de dois a 27 anos para Bolsonaro e outros 7 condenados; veja lista | Exame",
+      "url": "https://exame.com/brasil/stf-condenados-8-de-janeiro-penas/"
+    },
+    {
+      "title": "STF condena Bolsonaro a 27 anos de prisão por tentativa de golpe de Estado",
+      "url": "http://www.terra.com.br/noticias/brasil/politica/stf-condena-bolsonaro-a-27-anos-de-prisao-por-tentativa-de-golpe-de-estado,6684977ab24d90620abb006dfd46e2aap5ph2vdh.html"
+    },
+    {
+      "title": "STF impõe pena de 27 anos e 3 meses de prisão a Bolsonaro",
+      "url": "https://www.jb.com.br/brasil/justica/2025/09/1056869-stf-impoe-pena-de-27-anos-e-3-meses-de-prisao-a-bolsonaro.html"
+    }
+  ],
+  "response": "Em 2025, a Primeira Turma do Supremo Tribunal Federal (STF) condenou o ex-presidente Jair Bolsonaro a 27 anos e três meses de prisão em regime fechado. A condenação foi por cinco crimes, incluindo tentativa de golpe de Estado, organização criminosa armada, abolição violenta do Estado Democrático de Direito, dano qualificado pela violência e grave ameaça, e deterioração de patrimônio tombado. Além da pena de prisão, Bolsonaro foi condenado a pagar uma multa de 124 dias-multa, com cada dia-multa equivalente a dois salários mínimos da época dos fatos, totalizando aproximadamente R$ 365,3 mil [valor.globo.com](https://valor.globo.com/politica/noticia/2025/09/11/primeira-turma-do-stf-condena-bolsonaro-a-27-anos-e-3-meses.ghtml) [poder360.com.br](https://www.poder360.com.br/poder-justica/leia-as-penas-e-multas-impostas-a-bolsonaro-e-aos-outros-reus/) [exame.com](https://exame.com/brasil/stf-condenados-8-de-janeiro-penas/) [terra.com.br](http://www.terra.com.br/noticias/brasil/politica/stf-condena-bolsonaro-a-27-anos-de-prisao-por-tentativa-de-golpe-de-estado,6684977ab24d90620abb006dfd46e2aap5ph2vdh.html).",
+  "response_no_search": "Sinto muito, mas não tenho informações sobre eventos ou decisões judiciais que ocorreram após outubro de 2023. Para obter informações atualizadas sobre esse assunto, recomendo consultar fontes de notícias confiáveis ou sites oficiais relacionados ao sistema judiciário brasileiro.",
+  "error": null
+}

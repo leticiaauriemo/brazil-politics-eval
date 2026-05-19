@@ -1,0 +1,25 @@
+{
+  "question_id": "F-03-B",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 3,
+      "reasoning": "The model's response is a search query, not an answer to the question, so it cannot be fully correct. However, it correctly identifies the key terms for a relevant search."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response does not provide any factual information about the duration of Bolsonaro's ineligibility or the reasons behind it."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.0,
+  "agreement": false
+}

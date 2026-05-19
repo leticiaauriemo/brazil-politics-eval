@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "A",
+  "prompt": "A força-tarefa da operação Lava Jato ainda está ativa ou foi encerrada?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fim da Lava Jato: o caminho que levou ao encerramento da força-tarefa",
+      "url": "http://www.gazetadopovo.com.br/republica/lava-jato-fim-forca-tarefa/"
+    },
+    {
+      "title": "O fim melancólico da força-tarefa da Lava Jato no Paraná",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/o-fim-melancolico-da-forca-tarefa-da-lava-jato-no-parana,79578ca1566517120e5edaa69e1515b2lccl1om3.html"
+    },
+    {
+      "title": "Após sete anos e 79 operações, Lava Jato em Curitiba chega ao fim como força isolada e passa a integrar grupo anticrime organizado - Estadão",
+      "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/apos-sete-anos-e-79-operacoes-lava-jato-em-curitiba-chega-ao-fim-como-forca-isolada-e-passa-a-integrar-grupo-anticrime-organizado/"
+    },
+    {
+      "title": "Força-tarefa da Lava Jato no Paraná é extinta após quase 6 anos",
+      "url": "https://www.jb.com.br/pais/informe-jb/2021/02/1028049-forca-tarefa-da-lava-jato-no-parana-e-extinta-apos-quase-6-anos.html"
+    },
+    {
+      "title": "MPF anuncia fim da força-tarefa da operação Lava Jato no Paraná",
+      "url": "https://poder360.com.br/lava-jato/mpf-anuncia-fim-da-forca-tarefa-da-operacao-lava-jato-no-parana"
+    }
+  ],
+  "response": "A força-tarefa da Operação Lava Jato, como ficou conhecida, foi encerrada. As investigações, no entanto, continuam, mas foram incorporadas ao Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Ministério Público Federal no Paraná, com uma estrutura mais reduzida.\n\nAs forças-tarefas em outros estados, como Rio de Janeiro e São Paulo, também foram encerradas ou incorporadas a outras estruturas.",
+  "response_no_search": "Ótima pergunta. A resposta curta e direta é: **a força-tarefa original da Operação Lava Jato, como ficou conhecida em Curitiba, foi oficialmente encerrada.**\n\n",
+  "error": null
+}

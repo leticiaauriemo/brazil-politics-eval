@@ -1,0 +1,36 @@
+{
+  "question_id": "F-07-B",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "B",
+  "prompt": "Por que o X ficou suspenso no Brasil entre agosto e outubro de 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por que Moraes suspendeu o X no Brasil? Entenda argumentos",
+      "url": "https://www.em.com.br/politica/2024/08/6931790-por-que-moraes-suspendeu-o-x-no-brasil-entenda-argumentos.html"
+    },
+    {
+      "title": "O X vai voltar? Por que ele caiu? Entenda o que levou à suspensão da plataforma no Brasil",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/09/02/o-x-vai-voltar-por-que-ele-caiu-entenda-o-que-levou-a-suspensao-da-plataforma-no-brasil.ghtml"
+    },
+    {
+      "title": "Entenda polêmica que levou à ordem de suspensão do X no Brasil – Noticias R7",
+      "url": "https://noticias.r7.com/brasilia/entenda-polemica-que-levou-a-ordem-de-suspensao-do-x-no-brasil-31082024/"
+    },
+    {
+      "title": "Da suspensão à autorização para voltar ao ar: veja a cronologia do ...",
+      "url": "https://g1.globo.com/politica/noticia/2024/10/08/da-suspensao-a-volta-ao-ar-veja-a-cronologia-do-periodo-do-x-sem-operar-no-brasil.ghtml"
+    },
+    {
+      "title": "Moraes autoriza o retorno do X, bloqueado há 39 dias no Brasil. Saiba quando a rede deve voltar",
+      "url": "https://www.otempo.com.br/politica/judiciario/2024/10/8/moraes-autoriza-o-retorno-do-x--bloqueado-ha-39-dias-no-brasil--"
+    }
+  ],
+  "response": "A suspensão do X (antigo Twitter) no Brasil entre agosto e outubro de 2024 ocorreu devido ao descumprimento de ordens judiciais por parte da empresa, conforme determinado pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). Entre as principais razões para a suspensão estão:\n\n1. **Descumprimento de decisões judiciais**: O X não bloqueou perfis que atacavam as instituições democráticas, conforme determinado por Moraes, e também não pagou multas aplicadas por essas infrações.\n\n2. **Falta de representante legal no Brasil**: Moraes exigiu que a empresa indicasse um representante legal no país dentro de 24 horas, sob pena de bloqueio. A empresa não cumpriu essa determinação.\n\n3. **Disseminação de discursos de ódio e desinformação**: O ministro considerou que a plataforma estava sendo instrumentalizada por grupos extremistas para divulgar discursos antidemocráticos, racistas e de ódio, especialmente no período que antecedia as eleições municipais de 2024.\n\n4. **Confronto com Elon Musk**: O empresário Elon Musk, dono do X, vinha travando embates públicos com Moraes e o STF, incluindo ameaças de retirar a empresa do Brasil e críticas às decisões judiciais.\n\nA suspensão foi mantida até que todas as ordens judiciais fossem cumpridas e as multas pagas. O X só foi autorizado a retornar ao ar em outubro de 2024, após atender às exigências do STF.",
+  "response_no_search": "Até outubro de 2023, não há registros ou informações sobre o X (antigo Twitter) ter sido suspenso no Brasil entre agosto e outubro de 2024. É importante destacar que eventos futuros não podem ser previstos com precisão, e qualquer afirmação sobre isso seria especulativa.\n\nSe você está se referindo a uma situação hipotética ou a um cenário fictício, seria necessário mais contexto para entender os motivos. Suspensões de plataformas como o X geralmente ocorrem devido a questões legais, regulatórias",
+  "error": null
+}

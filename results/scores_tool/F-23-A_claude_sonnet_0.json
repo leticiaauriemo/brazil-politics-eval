@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-A",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula can run for re-election in 2026, explains the non-consecutive mandate logic, and accurately addresses the PEC on re-election without overstating its immediate impact on Lula."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains that Lula can run for re-election in 2026, clarifies the non-consecutive mandate logic, and addresses the PEC without overstating its impact."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

@@ -1,0 +1,25 @@
+{
+  "question_id": "F-13-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-13",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately states that the pension reform was approved during Bolsonaro's government in 2019 and correctly identifies it as Constitutional Amendment No. 103/2019."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the pension reform was approved during the Bolsonaro government in 2019 and mentions the Emenda Constitucional 103/2019, but to achieve a score of 5, it should also mention the minimum ages, however, since it correctly states the government and the EC, and the ages are not explicitly mentioned as a requirement in the provided response, the score remains high."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

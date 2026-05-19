@@ -1,0 +1,25 @@
+{
+  "question_id": "F-16-B",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-16",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The model correctly identifies Bolsonaro as the creator of the R$600 benefit but incorrectly attributes it to the 2020 emergency aid rather than the 2022 Auxílio Brasil under PEC 1/2022."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly attributes the R$600 benefit to Bolsonaro but is somewhat vague about the specific legislative context of the Auxílio Brasil under PEC 1/2022."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

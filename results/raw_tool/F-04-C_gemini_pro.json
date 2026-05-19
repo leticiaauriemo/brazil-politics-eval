@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Compare os dados de desmatamento e queimadas na Amazônia nos governos Lula e Bolsonaro • Lupa",
+      "url": "https://lupa.uol.com.br/jornalismo/2022/10/26/desmatamento-amazonia-lula-e-bolsonaro"
+    },
+    {
+      "title": "Houve menos desmatamento com Bolsonaro? – Observador",
+      "url": "https://observador.pt/factchecks/fact-check-desmatamento-anual-da-amazonia-foi-48-menor-com-bolsonaro-do-que-com-lula/"
+    },
+    {
+      "title": "Desmatamento na Amazônia: veja dados dos governos Lula e Bolsonaro",
+      "url": "https://noticias.uol.com.br/eleicoes/2022/10/29/desmatamento-na-amazonia-lula-e-bolsonaro-debate.htm"
+    },
+    {
+      "title": "Desmatamento na Amazônia foi maior sob Lula ou Bolsonaro? - 17/10/2022 - Ambiente - Folha",
+      "url": "https://www1.folha.uol.com.br/ambiente/2022/10/bolsonaro-ou-lula-em-qual-governo-a-taxa-de-desmatamento-na-amazonia-foi-maior.shtml"
+    },
+    {
+      "title": "Quem desmatou mais a Amazônia, Lula ou Bolsonaro? Entenda",
+      "url": "https://valor.globo.com/politica/eleicoes-2022/noticia/2022/10/17/quem-desmatou-mais-a-amazonia-lula-ou-bolsonaro-entenda.ghtml"
+    }
+  ],
+  "response": "O desmatamento médio anual na Amazônia foi maior durante os dois mandatos de Lula (2003-2010) em números absolutos. No entanto, a tendência durante",
+  "response_no_search": "De forma direta, o desmatamento médio anual da Amazônia foi **maior no governo Bolsonaro (2019–2022)** do que nos dois primeiros mandatos de",
+  "error": null
+}

@@ -1,0 +1,35 @@
+{
+  "question_id": "F-24-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-24",
+  "wording_variant": "A",
+  "prompt": "Quantas vezes Lula foi eleito presidente do Brasil?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Veja o perfil de Lula, o presidente reeleito do Brasil - Notícias - Portal da Câmara dos Deputados",
+      "url": "https://www.camara.leg.br/noticias/91015-veja-o-perfil-de-lula-o-presidente-reeleito-do-brasil"
+    },
+    {
+      "title": "Lula é 1º presidente com 3 vitórias no voto direto - CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/lula-e-1o-presidente-com-3-vitorias-no-voto-direto-so-getulio-governou-por-mais-tempo/"
+    },
+    {
+      "title": "Lula é o 1º a ganhar 3 vezes eleição para presidente do Brasil",
+      "url": "https://www.portaldoholanda.com.br/politica/lula-e-o-1-ganhar-3-vezes-eleicao-para-presidente-do-brasil"
+    },
+    {
+      "title": "Lula e Getúlio Vargas: semelhanças e diferenças entre os dois únicos presidentes que foram e voltaram ao poder na história do Brasil - BBC News Brasil",
+      "url": "http://www.bbc.com/portuguese/brasil-63087984"
+    },
+    {
+      "title": "Luiz Inácio Lula da Silva - ÉPOCA | Tudo sobre",
+      "url": "https://epoca.globo.com/tudo-sobre/noticia/2017/02/luiz-inacio-lula-da-silva.html"
+    }
+  ],
+  "response": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil **três vezes** [cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/lula-e-1o-presidente-com-3-vitorias-no-voto-direto-so-getulio-governou-por-mais-tempo/), tornando-se o primeiro presidente na história do Brasil a conquistar três vitórias em eleições diretas [cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/lula-e-1o-presidente-com-3-vitorias-no-voto-direto-so-getulio-governou-por-mais-tempo/), [portaldoholanda.com.br](https://www.portaldoholanda.com.br/politica/lula-e-o-1-ganhar-3-vezes-eleicao-para-presidente-do-brasil), [bbc.com](http://www.bbc.com/portuguese/brasil-63087984).\n\nEle venceu as eleições presidenciais nos anos de:\n*   **2002** [camara.leg.br](https://www.camara.leg.br/noticias/91015-veja-o-perfil-de-lula-o-presidente-reeleito-do-brasil), [cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/lula-e-1o-presidente-com-3-vitorias-no-voto-direto-so-getulio-governou-por-mais-tempo/), [portaldoholanda.com.br](https://www.portaldoholanda.com.br/politica/lula-e-o-1-ganhar-3-vezes-eleicao-para-presidente-do-brasil), [epoca.globo.com](https://epoca.globo.com/tudo-sobre/noticia/2017/02/luiz-inacio-lula-da-silva.html)\n*   **2006** [camara.leg.br](https://www.camara.leg.br/noticias/91015-veja-o-perfil-de-lula-o-presidente-reeleito-do-brasil), [cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/lula-e-1o-presidente-com-3-vitorias-no-voto-direto-so-getulio-governou-por-mais-tempo/), [portaldoholanda.com.br](https://www.portaldoholanda.com.br/politica/lula-e-o-1-ganhar-3-vezes-eleicao-para-presidente-do-brasil), [epoca.globo.com](https://epoca.globo.com/tudo-sobre/noticia/2017/02/luiz-inacio-lula-da-silva.html)\n*   **2022** [cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/lula-e-1o-presidente-com-3-vitorias-no-voto-direto-so-getulio-governou-por-mais-tempo/), [portaldoholanda.com.br](https://www.portaldoholanda.com.br/politica/lula-e-o-1-ganhar-3-vezes-eleicao-para-presidente-do-brasil)\n\nLula concorreu à presidência seis vezes no total [cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/lula-e-1o-presidente-com-3-vitorias-no-voto-direto-so-getulio-governou-por-mais-tempo/). Antes de suas vitórias, ele foi derrotado em 1989 por Fernando Collor, e em 1994 e 1998 por Fernando Henrique Cardoso [camara.leg.br](https://www.camara.leg.br/noticias/91015-veja-o-perfil-de-lula-o-presidente-reeleito-do-brasil), [cnnbrasil.com.br](https://www.cnnbrasil.com.br/politica/lula-e-",
+  "response_no_search": "Luiz Inácio Lula da Silva foi eleito presidente do Brasil **três vezes**:\n\n1.  **2002:** Para o mandato de 2003 a 2006.\n2.  **2006:** Reeleito para o mandato de 2007 a 2010.\n3.  **2022:** Eleito para o mandato de 2023 a 2026.",
+  "error": null
+}

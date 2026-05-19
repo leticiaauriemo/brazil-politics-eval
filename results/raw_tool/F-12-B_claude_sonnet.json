@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-B",
+  "model": "claude_sonnet",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "B",
+  "prompt": "Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Manifestantes invadem Congresso, Planalto e STF | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/manifestantes-invadem-congresso-planalto-e-stf"
+    },
+    {
+      "title": "CGU orientará órgãos a apurar e punir eventual envolvimento de servidores federais nos atos de invasão e depredação de patrimônio público — Controladoria-Geral da União",
+      "url": "https://www.gov.br/cgu/pt-br/assuntos/noticias/2023/01/cgu-orientara-orgaos-a-apurar-e-punir-eventual-envolvimento-de-servidores-federais-nos-atos-de-invasao-e-depredacao-de-patrimonio-publico"
+    },
+    {
+      "title": "Invasões aos Três Poderes: PGR determina abertura de inquérito | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-01/invasoes-aos-tres-poderes-pgr-determina-abertura-de-inquerito"
+    },
+    {
+      "title": "Golpistas invadem Congresso, STF e Palácio do Planalto; governo Lula intervém na segurança do DF - Estadão",
+      "url": "https://www.estadao.com.br/politica/manifestantes-invadem-congresso-e-seguem-para-palacio-do-planalto/"
+    },
+    {
+      "title": "AGU pede ao STF prisão de invasores e do ex-secretário de Segurança do DF - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-64205791"
+    }
+  ],
+  "response": "Vou pesquisar informações sobre os atos do 8 de janeiro de 2023 para responder com precisão.## Sim! Os atos do 8 de janeiro de 2023 incluíram invasão e depredação de prédios públicos federais.\n\nTrata-se de um dos episódios mais graves da história recente da democracia brasileira. Veja o que ocorreu:\n\n---\n\n### 🏛️ Quais prédios foram invadidos e depredados?\n\nOs manifestantes — apoiadores do ex-presidente Jair Bolsonaro inconformados com o resultado das eleições de 2022 — invadiram e depredaram as sedes dos **Três Poderes da República**, localizadas na Praça dos Três Poderes, em Brasília (DF):\n\n1. **Congresso Nacional** (Câmara dos Deputados e Senado Federal)\n2. **Palácio do Planalto** (sede do Poder Executivo)\n3. **Supremo Tribunal Federal – STF** (sede do Poder Judiciário)\n\n---\n\n### 💥 O que foi feito nos prédios?\n\n- Quebra de vidraças, móveis e obras de arte\n- Invasão de gabinetes e plenários (Câmara, Senado e STF)\n- Focos de incêndio\n- Depredação de patrimônio histórico e cultural\n- Transmissão ao vivo dos atos pelos próprios invasores nas redes sociais\n\n---\n\n### ⚖️ Quais foram as respostas institucionais imediatas?\n\n- O presidente **Lula** decretou **intervenção federal na segurança pública do Distrito Federal**\n- A **PGR** (Procuradoria-Geral da República) determinou a abertura imediata de **inquérito criminal**\n- A **AGU** (Advocacia-Geral da União) pediu ao STF a **prisão em flagrante** de todos os envolvidos\n- A **CGU** (Controladoria-Geral da União) anunciou apuração e punição de servidores públicos federais envolvidos\n- Forças de segurança (PF, PM, Força Nacional, Polícia Civil e Polícia do Exército) controlaram a situação cerca de **3h30 após o início dos atos**\n- Ao menos **400 pessoas foram presas em flagrante** no dia\n\n---\n\n### 📌 Contexto\n\nOs atos foram motivados pela recusa de parte dos apoiadores de Bolsonaro em aceitar o resultado das eleições presidenciais de outubro de 2022, vencidas pelo presidente **Luiz Inácio Lula da Silva**. O episódio foi amplamente comparado ao ataque ao **Capitólio dos EUA**, ocorrido em 6 de janeiro de 2021.",
+  "response_no_search": "Sim. Em 8 de janeiro de 2023, grupos de manifestantes — em sua maioria apoiadores do ex-presidente Jair Bolsonaro — invadiram e depredaram as sedes dos três Poderes da República, em Brasília:\n\n- **Palácio do Planalto** (sede do Poder Executivo)\n- **Congresso Nacional** (sede do Poder Legislativo)\n- **Supremo Tribunal Federal – STF** (sede do Poder Judiciário)\n\n## O que ocorreu\n\n- Quebra de vidraças, portas e mobiliário\n- Destruição de obras de arte e peças do patrimônio histórico\n- Depredação de",
+  "error": null
+}

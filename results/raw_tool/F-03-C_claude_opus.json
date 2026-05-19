@@ -1,0 +1,32 @@
+{
+  "question_id": "F-03-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "C",
+  "prompt": "Por qual motivo Bolsonaro está impedido de concorrer nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos — Tribunal Superior Eleitoral",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Inelegível, Bolsonaro diz que se ele não concorrer, Lula será reeleito | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/inelegivel-bolsonaro-diz-que-se-ele-nao-concorrer-lula-sera-reeleito/"
+    },
+    {
+      "title": "Ministros do TSE descartam Bolsonaro elegível em 2026 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/eleicoes/ministros-do-tse-descartam-bolsonaro-elegivel-em-2026/"
+    },
+    {
+      "title": "Bolsonaro: eleições em 2026 sem Bolsonaro é negar democracia | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/noticias/bolsonaro-eleicoes-em-2026-sem-bolsonaro-e-negar-democracia/"
+    }
+  ],
+  "response": "# Por que Bolsonaro está impedido de concorrer em 2026\n\nJair Bolsonaro está inelegível por decisões do Tribunal Superior Eleitoral (TSE) e também enfrenta uma condenação criminal pelo Supremo Tribunal Federal (STF). Veja os principais motivos:\n\n## 1ª condenação no TSE — Reunião com embaixadores (junho de 2023)\n\nPor maioria de votos (5 a 2), o Plenário do Tribunal Superior Eleitoral (TSE) declarou a inelegibilidade do ex-presidente da República Jair Bolsonaro por oito anos, contados a partir das Eleições 2022. Ficou reconhecida a prática de abuso de poder político e uso indevido dos meios de comunicação durante reunião realizada no Palácio da Alvorada com embaixadores estrangeiros no dia 18 de julho do ano passado.\n\nNessa reunião, Bolsonaro lançou dúvidas, sem qualquer prova, sobre a confiabilidade das urnas eletrônicas e da Justiça Eleitoral, condutora das eleições, em um evento que teve transmissão ao vivo pela emissora estatal TV Brasil e também em redes sociais.\n\n## 2ª condenação no TSE — Desfile do 7 de Setembro\n\nMeses depois, o ex-presidente foi condenado novamente à inelegibilidade pelo TSE, desta vez por abuso de poder político e econômico durante as cerimônias do Bicentenário da Independência, em 7 de setembro de 2022, durante a campanha eleitoral. As duas condenações não se somam, ele permanece inelegível por oito anos a partir de 2022, ou seja, só poderá voltar a disputar uma eleição em 2030.\n\n## Condenação criminal no STF — Trama golpista\n\nAlém disso, há um terceiro motivo de inelegibilidade decorrente da condenação penal: \"Bolsonaro foi condenado a 27 anos e 3 meses de prisão em setembro, pela primeira turma do STF, por conta da ação penal do golpe - por conta dela, ele também está inelegível\". Essa ação trata da tentativa de golpe de Estado após as eleições de 2022, para impedir a posse de Lula.\n\n## Possibilidade de reversão\n\nSegundo a apuração jornalística, ministros do Tribunal Superior Eleitoral (TSE) descartam a possibilidade de Jair Bolsonaro se tornar elegível para disputar as eleições presidenciais de 2026. Ainda que houvesse u",
+  "response_no_search": "Jair Bolsonaro está inelegível até 2030 devido a duas decisões do Tribunal Superior Eleitoral (TSE) tomadas em 2023:\n\n**1ª condenação (junho de 2023):**\nPor maioria (5x2), o TSE julgou que Bolsonaro cometeu **abuso de poder político** e **uso indevido dos meios de comunicação** durante uma reunião com embaixadores estrangeiros realizada em julho de 2022, no Palácio da Alvorada. Na ocasião, ele fez ataques sem provas ao sistema eletrônico de votação brasileiro, com transmissão pela TV Brasil (emi",
+  "error": null
+}

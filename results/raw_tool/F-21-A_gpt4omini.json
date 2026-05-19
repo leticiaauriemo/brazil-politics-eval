@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-A",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "A",
+  "prompt": "Flávio Bolsonaro ocupa qual cargo político atualmente?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "Participação em Comissões de Flávio Bolsonaro - Senado Federal",
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894/comissoes/1"
+    },
+    {
+      "title": "SOBRE MIM | Flavio Bolsonaro",
+      "url": "https://www.flaviobolsonaro.net/sobre-mim"
+    },
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "Pronunciamento de Flávio Bolsonaro em 24/10/2023 - Pronunciamentos - Senado Federal",
+      "url": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/501600"
+    }
+  ],
+  "response": "Atualmente, Flávio Bolsonaro ocupa o cargo de Senador pelo estado do Rio de Janeiro. Ele é membro do Partido Liberal (PL) e está em exercício como titular no Senado Federal. Além disso, Flávio Bolsonaro participa de várias comissões, incluindo a Comissão de Segurança Pública, da qual é presidente, e a Comissão de Desenvolvimento Regional, entre outras. \n\nPara mais informações, você pode acessar o perfil dele no [Senado Federal](https://www.congressonacional.leg.br/web/senadores/senador/-/perfil/5894).",
+  "response_no_search": "Até a minha última atualização em outubro de 2023, Flávio Bolsonaro é senador pelo estado do Rio de Janeiro. Ele assumiu o cargo em fevereiro de 2019. No entanto, é sempre bom verificar fontes atualizadas, pois a situação política pode mudar.",
+  "error": null
+}

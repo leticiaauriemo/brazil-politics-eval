@@ -1,0 +1,24 @@
+{
+  "question_id": "F-21-B",
+  "model": "grok4",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "1",
+      "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "2",
+      "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+    }
+  ],
+  "response": "**Flávio Bolsonaro é senador.** \n\nEle foi eleito senador pelo Rio de Janeiro em 2018 (pelo então PSL, hoje PL) e exerce o mandato desde fevereiro de 2019, com previsão de término em 2027.[[1]](https://www25.senado.leg.br/web/senadores/senador/-/perfil/5894)\n\nAntes disso, ele foi deputado estadual no Rio de Janeiro por quatro mandatos (2003–2019), mas nunca foi deputado federal.[[2]](https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro)\n\nFontes oficiais do Senado Federal e biografias atualizadas confirmam que ele continua no cargo de senador em 2026.",
+  "response_no_search": "ERROR: 'NoneType' object is not subscriptable",
+  "error": null
+}

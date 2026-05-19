@@ -1,0 +1,36 @@
+{
+  "question_id": "F-18-C",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "prompt": "A Operação Compliance Zero resultou na prisão do dono do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Operação Compliance Zero avança e mira corrupção no alto escalão do sistema financeiro — Ministério da Justiça e Segurança Pública",
+      "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/operacao-compliance-zero-avanca-e-mira-corrupcao-no-alto-escalao-do-sistema-financeiro"
+    },
+    {
+      "title": "Operação Compliance Zero – Wikipédia, a enciclopédia livre",
+      "url": "https://pt.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Compliance_Zero"
+    },
+    {
+      "title": "Compliance Zero chega à 4ª fase com prisão de ex-BRB; confira o foco de cada etapa das investigações | Finanças | Valor Econômico",
+      "url": "https://valor.globo.com/financas/noticia/2026/04/16/compliance-zero-chega-a-4a-fase-com-prisao-de-ex-brb-confira-o-foco-de-cada-etapa-das-investigacoes.ghtml"
+    },
+    {
+      "title": "Compliance Zero: veja o que alvos da operação da PF disseram | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/11/19/compliance-zero-veja-o-que-disseram-os-alvos-da-operacao-que-investiga-fraudes-financeiras.ghtml"
+    },
+    {
+      "title": "Relembre o que é a operação Compliance Zero, que investiga dono do Master | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/relembre-o-que-e-a-operacao-compliance-zero-que-investiga-dono-do-master/"
+    }
+  ],
+  "response": "Sim, a Operação Compliance Zero resultou na prisão de Daniel Vorcaro, dono do Banco Master.\n\nEle foi preso preventivamente em novembro de 2025, na primeira fase da operação, no Aeroporto Internacional de Guarulhos, quando se preparava para embarcar para Dubai. Vorcaro foi solto posteriormente, mas voltou a ser preso na terceira fase da operação, em março de 2026, por ordem do Supremo Tribunal Federal (STF).\n\nA Operação Compliance Zero investiga um esquema de fraudes financeiras, incluindo a emissão de títulos de crédito falsos, gestão fraudulenta, lavagem de dinheiro e organização criminosa, envolvendo o Banco Master. Além de Vorcaro, outros executivos e pessoas ligadas ao banco também foram alvos de mandados de prisão e de busca e apreensão.",
+  "response_no_search": "Não, o dono do Banco Master, Daniel Vorcaro, **não foi preso** na Operação Compliance Zero.\n\nEle foi o principal alvo da operação, deflagrada pela Polícia Federal e",
+  "error": null
+}

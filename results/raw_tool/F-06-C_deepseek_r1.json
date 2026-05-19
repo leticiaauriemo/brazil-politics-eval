@@ -1,0 +1,36 @@
+{
+  "question_id": "F-06-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "prompt": "Um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "STF rejeita 39 recursos contra bloqueio de perfis em redes ...",
+      "url": "https://noticias.stf.jus.br/postsnoticias/primeira-turma-rejeita-39-recursos-contra-bloqueio-de-perfis-em-redes-sociais/"
+    },
+    {
+      "title": "O STF pode determinar o bloqueio de perfis em redes ...",
+      "url": "https://www.jota.info/stf/supra/o-stf-pode-determinar-o-bloqueio-de-perfis-em-redes-sociais"
+    },
+    {
+      "title": "Suspensão de rede social: liberdade de expressão e direitos fundamentais",
+      "url": "https://www.conjur.com.br/2024-set-12/analise-da-decisao-do-stf-sob-a-perspectiva-da-liberdade-de-expressao-no-ambito-das-redes-sociais/"
+    },
+    {
+      "title": "Censura de Moraes a perfis bolsonaristas incomoda ministros do STF, mas corte não deve confrontar decisão - 27/07/2020 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2020/07/censura-de-moraes-a-perfis-bolsonaristas-incomoda-ministros-do-stf-mas-corte-nao-deve-confrontar-decisao.shtml"
+    },
+    {
+      "title": "Suspensão de perfis das redes por Moraes vira caixa-preta",
+      "url": "https://www1.folha.uol.com.br/poder/2024/06/suspensao-de-perfis-por-moraes-vira-caixa-preta-com-sigilo-e-exclusao-de-pf-e-pgr.shtml"
+    }
+  ],
+  "response": "Para responder sua pergunta, vou pesquisar informações atualizadas sobre os poderes individuais dos ministros do Supremo Tribunal Federal (STF) em relação à suspensão de contas em redes sociais no Brasil.\n\nCom base nas informações obtidas, a resposta é **sim**, um ministro do STF pode individualmente ordenar a suspensão de contas em redes sociais no Brasil, conforme demonstrado pelas seguintes evidências:\n\n1. **Decisões Individuais de Ministros**:  \n   - O ministro Alexandre de Moraes emitiu diversas decisões individuais determinando o bloqueio de perfis em redes sociais, como no caso da suspensão da plataforma X (antigo Twitter) em setembro de 2024 e a rejeição de 39 recursos contra bloqueios de contas (STF Notícias).  \n   - Essas decisões foram posteriormente validadas pela Primeira Turma do STF, confirmando que ministros têm competência para adotar medidas cautelares desse tipo.\n\n2. **Fundamentação Jurídica**:  \n   - O STF entende que a disseminação de notícias falsas, discurso de ódio ou ataques às instituições democráticas justificam medidas restritivas, conforme previsto na legislação brasileira (ConJur, Folha).  \n   - O ministro Moraes argumentou que as plataformas digitais têm responsabilidade sobre conteúdos ilícitos e que a suspensão de contas é uma medida \"proporcional e necessária\" para proteger a ordem pública e a segurança nacional (JOTA).\n\n3. **Controvérsias e Críticas**:  \n   - A prática tem gerado debates sobre liberdade de expressão, com críticas sobre a falta de transparência em alguns casos (Folha).  \n   - Ministros como Gilmar Mendes e Edson Fachin já alertaram que restrições devem ser excepcionais e proporcionalmente fundamentadas para evitar censura prévia.\n\n**Resumo Final**:  \nUm ministro do STF pode, de forma individual, ordenar a suspensão de contas em redes sociais quando houver indícios de crimes como disseminação de fake news, incitação à violência ou ataques à democracia. Tais decisões são passíveis de revisão pelo colegiado do STF e devem respeitar os limites constitucionais da liberdade de expressão. A prática é mais comum em contextos de investigações sobre desinformação ou ameaças institucionais, como no inquérito das fake news e nos casos relacionados aos ataques de 8 de janeiro de 2023.",
+  "response_no_search": "A capacidade de um ministro do Supremo Tribunal Federal (STF) ordenar individualmente a suspensão de contas em redes sociais no Brasil é um tema complexo e sujeito a controvérsias jurídicas. Eis os pontos-chave:\n\n1.  **Competência Monocrática:**  \n    Um ministro do STF pode, **em caráter excepcional e provisório**, determinar medidas como a suspensão de contas em redes sociais **quando atuando como relator de um caso específico em seu gabinete**. Isso está previsto no art. 43 do Regimento Inter",
+  "error": null
+}

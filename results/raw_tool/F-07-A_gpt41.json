@@ -1,0 +1,24 @@
+{
+  "question_id": "F-07-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-07",
+  "wording_variant": "A",
+  "prompt": "O acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bloqueio do X no Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil?utm_source=openai"
+    },
+    {
+      "title": "X começa a sair do ar no Brasil após decisão de bloqueio de Moraes",
+      "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/08/31/x-twitter-brasil-suspensao-elon-musk-moraes-stf.htm?utm_source=openai"
+    }
+  ],
+  "response": "Você está correto em perguntar — sim, o acesso ao X (antigo Twitter) foi bloqueado no Brasil em 2024. A seguir, um resumo claro e com datas precisas:\n\n- Em 30 de agosto de 2024, o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou o bloqueio imediato e integral do funcionamento da plataforma X no Brasil. A decisão foi motivada pela recusa da empresa em nomear um representante legal no país, conforme exige a legislação brasileira ([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil?utm_source=openai)).\n\n- A partir da madrugada de 31 de agosto de 2024, provedores de internet começaram a bloquear o acesso à plataforma, tanto via web quanto por aplicativo ([noticias.uol.com.br](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/08/31/x-twitter-brasil-suspensao-elon-musk-moraes-stf.htm?utm_source=openai)).\n\n- A suspensão permaneceu em vigor até 8 de outubro de 2024, quando o bloqueio foi oficialmente levantado. Isso ocorreu após a plataforma cumprir as exigências judiciais: nomear representante legal no Brasil, pagar as multas aplicadas e desativar perfis que violavam ordens judiciais ([pt.wikipedia.org](https://pt.wikipedia.org/wiki/Bloqueio_do_X_no_Brasil?utm_source=openai)).\n\nPortanto, o bloqueio ocorreu entre 30 de agosto e 8 de outubro de 2024. Se quiser mais detalhes sobre os motivos, as multas ou o processo judicial, posso te ajudar!",
+  "response_no_search": "Até a data do meu conhecimento, em junho de 2024, **não houve um bloqueio generalizado do acesso ao X (antigo Twitter) no Brasil**. No entanto, o X esteve envolvido em diversas controvérsias judiciais no país, especialmente relacionadas a decisões do Supremo Tribunal Federal (STF) e do Tribunal Superior Eleitoral (TSE) sobre a remoção de conteúdos e perfis considerados desinformativos ou que violam a legislação brasileira.\n\nEm alguns momentos, houve **ameaças ou discussões públicas sobre a possi",
+  "error": null
+}

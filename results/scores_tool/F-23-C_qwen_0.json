@@ -1,0 +1,25 @@
+{
+  "question_id": "F-23-C",
+  "model": "qwen",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly states that Lula can run for re-election in 2026, explaining the constitutional distinction between consecutive and non-consecutive terms and mentioning the TSE's stance, aligning perfectly with the ground truth and resolution criteria."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 1,
+      "reasoning": "The response incorrectly states that the Constitution prevents Lula from running in 2026, despite the fact that he is eligible due to the constitutional provisions regarding consecutive terms."
+    }
+  ],
+  "score_avg": 3.0,
+  "binary_avg": 1.0,
+  "agreement": false
+}

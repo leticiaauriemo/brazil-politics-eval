@@ -1,0 +1,36 @@
+{
+  "question_id": "F-10-C",
+  "model": "claude_haiku",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-10",
+  "wording_variant": "C",
+  "prompt": "Quem ordenou o encerramento da força-tarefa da Lava Jato em 2021?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Lava Jato: Após fim da força-tarefa no Paraná, Fachin divulga balanço da operação no STF | G1",
+      "url": "https://g1.globo.com/politica/noticia/2021/02/08/apos-fim-da-lava-jato-no-parana-fachin-divulga-balanco-da-operacao-no-stf.ghtml"
+    },
+    {
+      "title": "Força-Tarefa da Lava Jato deixa de existir no Paraná e passa para o Gaeco",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2021-02-03/forca-tarefa-da-lava-jato-deixa-de-existir-no-parana-e-passa-para-o-gaeco.html"
+    },
+    {
+      "title": "Fachin chama lavajatismo de \"doença infantil\", mas nega fim da operação",
+      "url": "https://www.poder360.com.br/lava-jato/fachin-chama-lavajatismo-de-doenca-infantil-mas-nega-fim-da-operacao/.modal-box--author"
+    },
+    {
+      "title": "Fim da Lava Jato: o caminho que levou ao encerramento da força-tarefa",
+      "url": "https://www.gazetadopovo.com.br/republica/lava-jato-fim-forca-tarefa/"
+    },
+    {
+      "title": "O fim melancólico da força-tarefa da Lava Jato no Paraná",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/o-fim-melancolico-da-forca-tarefa-da-lava-jato-no-parana,79578ca1566517120e5edaa69e1515b2lccl1om3.html"
+    }
+  ],
+  "response": "Com base nos resultados da busca, posso responder sua pergunta:\n\n**O encerramento da força-tarefa da Lava Jato em 2021 foi ordenado pela Procuradoria-Geral da República (PGR)**, sob a gestão do procurador-geral da República **Augusto Aras**.\n\nOs detalhes principais são:\n\n- **Portaria de 7 de dezembro de 2020**: A PGR emitiu uma portaria determinando a integração dos procuradores da Lava Jato ao Gaeco (Grupo de Atuação Especial de Combate ao Crime Organizado)\n\n- **Anúncio oficial**: Em 3 de fevereiro de 2021, o Ministério Público Federal do Paraná anunciou oficialmente que a força-tarefa deixava de existir como núcleo isolado\n\n- **Transferência de atribuições**: Os procuradores que atuavam na Lava Jato passaram a integrar o Gaeco do Paraná, com dedicação reduzida\n\nA gestão de Augusto Aras era crítica ao modelo de força-tarefa e havia travado embates com os procuradores do Paraná, especialmente sobre o acesso aos dados da operação. Assim, a decisão de encerrar a força-tarefa refletia a posição da PGR naquele momento.",
+  "response_no_search": "# Encerramento da Lava Jato em 2021\n\nO encerramento da força-tarefa da Lava Jato foi ordenado pelo **Procurador-Geral da República (PGR) Augusto Aras** em **maio de 2021**.\n\nA decisão foi formalizada através de uma portaria que extinguiu o grupo de trabalho que coordenava as investigações e ações penais da operação.\n\nEssa decisão foi controversa e gerou críticas de integrantes da própria força-tarefa e de setores que apoiavam a operação.",
+  "error": null
+}

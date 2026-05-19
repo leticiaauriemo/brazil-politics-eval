@@ -1,0 +1,15 @@
+{
+  "question_id": "F-18-B",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "B",
+  "prompt": "O fundador do Banco Master está respondendo a processos criminais em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Resposta: Daniel Vorcaro e Processos Criminais em 2026\n\nSim, **Daniel Vorcaro, fundador e controlador do Banco Master, está respondendo a processos criminais em 2026**.\n\n## Situação Atual:\n\n**Prisão Preventiva**: Daniel Vorcaro encontra-se preso preventivamente desde **4 de março de 2026**, por ordem do ministro André Mendonça do Supremo Tribunal Federal (STF). A segunda turma do STF manteve sua prisão preventiva em **13 de março de 2026**.\n\n## Acusações:\n\nVorcaro enfrenta investigações pela *",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

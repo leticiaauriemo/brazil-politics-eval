@@ -1,0 +1,25 @@
+{
+  "question_id": "F-11-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The model correctly identifies 'pedaladas fiscais' and the issuance of supplementary credit decrees as the reasons for impeachment, explains what 'pedaladas fiscais' were, and explicitly states that the impeachment was not due to personal corruption."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response accurately explains the 'pedaladas fiscais' as violations of fiscal responsibility, clarifies that the impeachment was not due to personal corruption, and provides specific details about the accusations."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

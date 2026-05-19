@@ -1,0 +1,36 @@
+{
+  "question_id": "F-21-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-21",
+  "wording_variant": "B",
+  "prompt": "Flávio Bolsonaro é senador ou deputado federal?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Senador Flávio Bolsonaro - Senado Federal",
+      "url": "https://www25.senado.leg.br/pt_BR/web/senadores/senador/-/perfil/5894"
+    },
+    {
+      "title": "Flávio Bolsonaro é eleito presidente da Comissão de Segurança Pública do Senado",
+      "url": "https://www.correiobraziliense.com.br/politica/2025/02/7065041-flavio-bolsonaro-e-eleito-presidente-da-comissao-de-seguranca-publica-do-senado.html"
+    },
+    {
+      "title": "Flávio Bolsonaro diz que, se eleito, dará cargo ao pai: 'Se ele quiser, é óbvio que vai ter'",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/05/08/flavio-bolsonaro-diz-que-se-eleito-dara-cargo-ao-pai-se-ele-quiser-e-obvio-que-vai-ter.ghtml"
+    },
+    {
+      "title": "Como Flávio Bolsonaro ocupou um cargo na Câmara dos ... - BBC",
+      "url": "https://www.bbc.com/portuguese/brasil-46828487"
+    },
+    {
+      "title": "De início aos 21 anos ao Senado: a trajetória política de Flávio Bolsonaro | Exame",
+      "url": "https://exame.com/brasil/de-inicio-aos-21-anos-ao-senado-a-trajetoria-politica-de-flavio-bolsonaro-ate-o-anuncio-de-2026/"
+    }
+  ],
+  "response": "Flávio Bolsonaro é senador. Ele representa o estado do Rio de Janeiro no Senado Federal do Brasil .",
+  "response_no_search": "Flávio Bolsonaro é senador. Ele foi eleito para o Senado Federal do Brasil em 2018, representando o estado do Rio de Janeiro. Anteriormente, ele serviu como deputado estadual na Assembleia Legislativa do Rio de Janeiro (ALERJ).",
+  "error": null
+}

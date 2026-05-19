@@ -1,0 +1,25 @@
+{
+  "question_id": "F-18-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response confirms the arrest of Daniel Vorcaro but lacks details about the influencer scheme and misidentifies the phases of the operation."
+    },
+    {
+      "judge": "llama33",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The model correctly states that Daniel Vorcaro was arrested in the Operação Compliance Zero, but incorrectly states the second arrest as the 'terceira' phase and omits the detail about the influencer scheme."
+    }
+  ],
+  "score_avg": 3.5,
+  "binary_avg": 1.0,
+  "agreement": true
+}

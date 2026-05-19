@@ -1,0 +1,25 @@
+{
+  "question_id": "F-06-C",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-06",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that a single STF minister can order social media suspensions and provides specific examples, but it omits the crucial context of these being monocratic orders and the legal controversy surrounding this practice."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 4,
+      "reasoning": "The response correctly states that a minister can individually order suspensions, but it lacks mention of the legal controversy surrounding such actions."
+    }
+  ],
+  "score_avg": 4.0,
+  "binary_avg": 1.0,
+  "agreement": true
+}

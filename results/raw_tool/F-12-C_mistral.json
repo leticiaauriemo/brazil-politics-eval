@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-C",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Moraes inclui Bolsonaro em inquérito sobre ataques antidemocráticos | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2023-01/moraes-inclui-bolsonaro-em-inquerito-sobre-ataques-antidemocraticos"
+    },
+    {
+      "title": "Entrevistas à CNN: as visões de Lula, Bolsonaro, Moraes e outras autoridades sobre o 8/1 | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/entrevistas-a-cnn-as-visoes-de-lula-bolsonaro-moraes-e-outras-autoridades-sobre-o-8-1/"
+    },
+    {
+      "title": "Veja como PGR liga Bolsonaro aos atos antidemocráticos de 8 de janeiro | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/veja-como-pgr-liga-bolsonaro-trama-golpista-de-8-de-janeiro"
+    },
+    {
+      "title": "Dois anos do 8 de janeiro: relembre a cronologia dos ataques aos Três Poderes - ISTOÉ Independente",
+      "url": "https://istoe.com.br/dois-anos-do-8-de-janeiro-relembre-a-cronologia-dos-ataques-aos-tres-poderes"
+    },
+    {
+      "title": "Bolsonaro volta a lamentar atos de 8 de janeiro e diz que seu governo teve alguns “furos” - ISTOÉ Independente",
+      "url": "https://istoe.com.br/bolsonaro-volta-a-lamentar-atos-de-8-de-janeiro-e-diz-que-seu-governo-teve-alguns-furos"
+    }
+  ],
+  "response": "Não, Jair Bolsonaro não estava no Brasil no dia 8 de janeiro de 2023. Ele estava nos Estados Unidos desde pouco antes da mudança de governo, que ocorreu no início de janeiro de 2023 .",
+  "response_no_search": "Não, Jair Bolsonaro não estava no Brasil no dia 8 de janeiro de 2023. Ele estava em Orlando, Flórida, nos Estados Unidos. Bolsonaro viajou para os Estados Unidos antes do final de seu mandato como presidente do Brasil, que terminou em 1º de janeiro de 2023, quando Luiz Inácio Lula da Silva assumiu a presidência.",
+  "error": null
+}

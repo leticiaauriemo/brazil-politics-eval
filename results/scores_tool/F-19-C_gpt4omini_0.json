@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-C",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly identifies Ciro Gomes as a left-wing candidate (he is not in PSDB and is not a main candidate), incorrectly lists Tarcísio de Freitas as a right-wing presidential candidate, and includes several other non-mainstream or incorrect candidates, failing to meet the criteria for identifying the main candidates and clarifying Tarcísio's status."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The response incorrectly suggests Tarcísio de Freitas is a candidate for president, which contradicts the ground truth that he is not running for president and instead opting for re-election in São Paulo."
+    }
+  ],
+  "score_avg": 1.0,
+  "binary_avg": 0.0,
+  "agreement": true
+}

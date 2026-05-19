@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-A",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "A",
+  "prompt": "Bolsonaro pode se candidatar à presidência nas eleições de 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro pode ser candidato em 2026? Entenda situação jurídica | G1",
+      "url": "https://g1.globo.com/politica/noticia/2025/02/18/bolsonaro-se-diz-pre-candidato-mas-esta-proibido-de-concorrer-entenda-sua-situacao-juridica.ghtml"
+    },
+    {
+      "title": "Bolsonaro pode se candidatar em 2026 contra Lula? - DCI",
+      "url": "https://www.dci.com.br/politica/bolsonaro-pode-se-candidatar-em-2026-contra-lula/323334/"
+    },
+    {
+      "title": "Inelegível, Bolsonaro pode disputar em 2026? Especialistas explicam",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/02/20/bolsonaro-esta-inelegivel-mas-se-diz-pre-candidato-o-que-pode-acontecer.htm"
+    },
+    {
+      "title": "Reforma da ficha limpa pode tornar Bolsonaro elegível",
+      "url": "https://www.gazetadopovo.com.br/republica/bolsonaro-elegivel-em-2026-domina-o-debate-da-reforma-da-ficha-limpa/"
+    },
+    {
+      "title": "Bolsonaro diz que vai manter candidatura para 2026 'até o último segundo' | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/14/bolsonaro-diz-que-vai-manter-candidatura-para-2026-ate-o-ultimo-segundo.ghtml"
+    }
+  ],
+  "response": "Não, Jair Bolsonaro não pode se candidatar à presidência nas eleições de 2026.\n\nEle foi condenado pelo Tribunal Superior Eleitoral (TSE) por abuso de poder político e uso indevido dos meios de comunicação, o que o tornou inelegível por oito anos, até 2030. A condenação ocorreu devido a uma reunião com embaixadores em 2022, na qual ele atacou o sistema eleitoral brasileiro sem apresentar provas.\n\nApesar de estar inelegível, Bolsonaro tem se declarado \"pré-candidato\" como uma estratégia política para se manter relevante e tentar reverter a decisão na justiça. Seus aliados também tentam articular mudanças na legislação, como uma anistia ou uma reforma na Lei da Ficha Limpa, mas essas propostas enfrentam grande resistência.\n\nAlém disso, Bolsonaro enfrenta outras investigações no Supremo Tribunal Federal (STF) que, se resultarem em condenação, podem estender ainda mais o período de sua inelegibilidade.",
+  "response_no_search": "Não, **Jair Bolsonaro não pode se candidatar à presidência nas eleições de 2026.**\n\nEle foi declarado **inelegível por 8 anos** pelo Tribunal Superior",
+  "error": null
+}

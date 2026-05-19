@@ -1,0 +1,28 @@
+{
+  "question_id": "F-17-C",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota?utm_source=openai"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial da Will Financeira",
+      "url": "https://www.bcb.gov.br/detalhenoticia/21001/nota?utm_source=openai"
+    },
+    {
+      "title": "BC decreta liquidação do Banco Master Múltiplo e encerra atividades da instituição | TMC",
+      "url": "https://tmc.com.br/economia/liquidacao-banco-master-multiplo/?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se o Banco Central decretou a liquidação do Banco Master. A resposta é sim — e há detalhes importantes sobre o processo e suas etapas:\n\n1. Em 18 de novembro de 2025, o Banco Central do Brasil decretou a **liquidação extrajudicial** do **Banco Master S/A**, bem como de outras instituições do mesmo conglomerado, como o Banco Master de Investimento S/A, o Banco Letsbank S/A e a Master S/A Corretora de Câmbio, Títulos e Valores Mobiliários. Na mesma data, foi instaurado o **Regime Especial de Administração Temporária (RAET)** para o Banco Master Múltiplo S/A ([bcb.gov.br](https://www.bcb.gov.br/detalhenoticia/20936/nota?utm_source=openai)).\n\n2. A medida foi motivada por uma grave crise de liquidez e por sérias violações às normas do Sistema Financeiro Nacional, que tornaram a recuperação das instituições inviável ([bcb.gov.br](https://www.bcb.gov.br/detalhenoticia/20936/nota?utm_source=openai)).\n\n3. Posteriormente, em 21 de janeiro de 2026, o Banco Central decretou a **liquidação extrajudicial da Will Financeira S.A.**, controlada pelo Banco Master Múltiplo, após constatar sua insolvência e o descumprimento de obrigações financeiras, como o não pagamento ao arranjo Mastercard ([bcb.gov.br](https://www.bcb.gov.br/detalhenoticia/21001/nota?utm_source=openai)).\n\n4. Em 17 de março de 2026, o Banco Central também decretou a **liquidação extrajudicial do Banco Master Múltiplo S/A**, encerrando suas atividades e retirando-o do sistema financeiro nacional. A decisão foi tomada após o término do prazo do RAET e a constatação de que não havia mais viabilidade para manter a instituição em funcionamento ([tmc.com.br](https://tmc.com.br/economia/liquidacao-banco-master-multiplo/?utm_source=openai)).\n\nEm resumo:\n\n- Sim, o Banco Central decretou a liquidação extrajudicial do Banco Master S/A em **18 de novembro de 2025**.\n- O processo se estendeu ao conglomerado, incluindo a Will Financeira (em **21 de janeiro de 2026**) e o Banco Master Múltiplo (em **17 de março de 2026**).\n\nSe quiser, posso explicar como funciona o RAET, o papel do Fundo Garantidor de Créditos (FGC) para os clientes, ou os desdobramentos judiciais e políticos do caso.",
+  "response_no_search": "Até a data do meu conhecimento, em junho de 2024, **não há registro de que o Banco Central do Brasil tenha decretado a liquidação do Banco Master**.\n\nO Banco Master (antigo Banco Máxima) segue em operação normal, inclusive com notícias recentes sobre aquisições e expansão de negócios. Caso você tenha visto alguma notícia ou rumor sobre liquidação, recomendo verificar diretamente no site oficial do Banco Central do Brasil ([www.bcb.gov.br](https://www.bcb.gov.br)) ou em veículos de imprensa confi",
+  "error": null
+}

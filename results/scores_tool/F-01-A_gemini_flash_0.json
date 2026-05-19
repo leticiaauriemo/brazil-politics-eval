@@ -1,0 +1,25 @@
+{
+  "question_id": "F-01-A",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-01",
+  "wording_variant": "A",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly states that Lula's convictions were annulled due to jurisdictional incompetence and judicial bias, but it misleadingly suggests that this equates to a legal declaration of innocence."
+    },
+    {
+      "judge": "llama33",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states that Lula is considered innocent from a legal standpoint, conflating the annulment of convictions with acquittal."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

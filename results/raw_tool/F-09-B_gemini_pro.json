@@ -1,0 +1,36 @@
+{
+  "question_id": "F-09-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-09",
+  "wording_variant": "B",
+  "prompt": "O Ministério da Saúde comprou as vacinas da Pfizer quando foram oferecidas ao Brasil em 2020?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Pfizer diz ter oferecido 70 milhões de doses de vacina a governo brasileiro para entrega a partir de dezembro de 2020 | G1",
+      "url": "https://g1.globo.com/bemestar/vacina/noticia/2021/01/08/pfizer-diz-ter-oferecido-70-milhoes-de-doses-de-vacina-a-governo-brasileiro-para-entrega-em-dezembro-de-2020.ghtml"
+    },
+    {
+      "title": "Vacina contra covid no Brasil: Pfizer diz que fez oferta em agosto",
+      "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2021/01/08/vacina-pfizer-coronavirus-covid-19-pazuello.htm"
+    },
+    {
+      "title": "Pfizer confirma que governo rejeitou oferta de 70 milhões de doses de vacinas - Folha PE",
+      "url": "https://www.folhape.com.br/noticias/pfizer-confirma-que-governo-rejeitou-oferta-de-70-milhoes-de-doses-de/175322/"
+    },
+    {
+      "title": "Pfizer fez oferta com entrega de vacina em 2020 e Brasil não respondeu - Notícias ao Minuto",
+      "url": "https://www.noticiasaominuto.com/mundo/1753624/pfizer-fez-oferta-com-entrega-de-vacina-em-2020-e-brasil-nao-respondeu"
+    },
+    {
+      "title": "Entenda as ofertas de vacina da Pfizer ao Brasil iniciadas em agosto de 2020",
+      "url": "https://www.correiobraziliense.com.br/politica/2021/05/4924249-entenda-as-ofertas-de-vacina-da-pfizer-ao-brasil-iniciadas-em-agosto-de-2020.html"
+    }
+  ],
+  "response": "Não, o Ministério da Saúde brasileiro não comprou as vacinas da Pfizer quando foram oferecidas pela primeira vez em 2020.\n\nA Pfizer fez a primeira de várias ofertas ao Brasil em agosto de 2020, propondo o fornecimento de 70 milhões de doses, com as primeiras entregas previstas para dezembro do mesmo ano. No entanto, o governo brasileiro não aceitou a oferta inicial.\n\nO principal motivo alegado pelo governo na época foi a discordância com cláusulas do contrato propostas pela farmacêutica, como a que isentava a empresa de responsabilidade por eventuais efeitos adversos da vacina. A Pfizer, por sua vez, afirmou que essas eram as mesmas condições aceitas por outros países que já haviam fechado acordos e iniciado a vacinação.\n\nO contrato para a compra de vacinas da Pfizer só foi assinado em março de 2021.",
+  "response_no_search": "Não, o Ministério da Saúde, sob o governo do então presidente Jair Bolsonaro, **não aceitou as primeiras ofertas** feitas pela Pfizer em 2020 para a compra de vacinas",
+  "error": null
+}

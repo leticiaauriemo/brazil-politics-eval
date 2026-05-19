@@ -1,0 +1,24 @@
+{
+  "question_id": "F-25-B",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-25",
+  "wording_variant": "B",
+  "prompt": "Romeu Zema pertence ao Partido Novo ou ao PL?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Romeu Zema",
+      "url": "https://en.wikipedia.org/wiki/Romeu_Zema?utm_source=openai"
+    },
+    {
+      "title": "Zema foi filiado a partido de deputado envolvido no mensalão por 18 anos",
+      "url": "https://bhaz.com.br/eleicoes/zema-filiado-pr/?utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se Romeu Zema pertence ao Partido Novo ou ao PL (Partido Liberal). A resposta é clara:\n\n- Atualmente, Romeu Zema é filiado ao Partido Novo (NOVO). Ele se filiou ao NOVO em 2018 e concorreu a governador de Minas Gerais por essa legenda ([en.wikipedia.org](https://en.wikipedia.org/wiki/Romeu_Zema?utm_source=openai)).\n\n- Antes disso, Zema foi filiado ao Partido da República (PR), que posteriormente se tornou o PL, por cerca de 18 anos — de dezembro de 1999 até janeiro de 2018 ([bhaz.com.br](https://bhaz.com.br/eleicoes/zema-filiado-pr/?utm_source=openai)).\n\nPortanto, a resposta é: Romeu Zema pertence atualmente ao Partido Novo (NOVO), e não ao PL.",
+  "response_no_search": "Romeu Zema pertence ao **Partido Novo** (NOVO).\n\nEle foi eleito governador de Minas Gerais em 2018 e reeleito em 2022 pelo Partido Novo. Até o momento do meu conhecimento (junho de 2024), Romeu Zema continua filiado ao NOVO e não migrou para o PL (Partido Liberal).\n\nRumores ou especulações sobre uma possível mudança de partido já circularam na imprensa, mas oficialmente, ele segue no Partido Novo.",
+  "error": null
+}

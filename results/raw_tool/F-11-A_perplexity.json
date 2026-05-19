@@ -1,0 +1,15 @@
+{
+  "question_id": "F-11-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-11",
+  "wording_variant": "A",
+  "prompt": "O impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "**Sim, o impeachment de Dilma Rousseff em 2016 seguiu o processo legal previsto na Constituição Federal brasileira, com uma exceção menor no procedimento de votação que não alterou o resultado substancial.**\n\n### Passos Constitucionais Cumpridos\nA Constituição Federal (CF/1988) regula o impeachment por crimes de responsabilidade no **art. 85** (definição dos crimes), **art. 51, I** (competência da Câmara dos Deputados para autorizar a instauração), **art. 52, I** (competência do Senado para proc",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

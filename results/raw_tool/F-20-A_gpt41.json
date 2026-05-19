@@ -1,0 +1,36 @@
+{
+  "question_id": "F-20-A",
+  "model": "gpt41",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-20",
+  "wording_variant": "A",
+  "prompt": "O Brasil estava entre os países com maior número total de doses de vacina contra COVID-19 aplicadas no mundo?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Covid-19 vaccination by country: ranking per doses administered | Atlas Magazine",
+      "url": "https://www.atlas-mag.net/en/articles/covid-19-vaccination-country-ranking-doses-administered?utm_source=openai"
+    },
+    {
+      "title": "Painel da Vacina: Brasil está em 60º no ranking global e é 4º no total de doses | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/painel-da-vacina-brasil-esta-em-60o-no-ranking-global-e-e-4o-no-total-de-doses/?utm_source=openai"
+    },
+    {
+      "title": "RedeTV! Em rede com você",
+      "url": "https://www.redetv.uol.com.br/jornalismo/mundo/covid-19-mundo-ultrapassa-10-milhoes-de-doses-de-vacinas-aplicadas?utm_source=openai"
+    },
+    {
+      "title": "COVID-19 vaccination doses by country Latin America 2024| Statista",
+      "url": "https://www.statista.com/statistics/1194802/latin-america-covid-19-vaccination-doses-country/?utm_source=openai"
+    },
+    {
+      "title": "Revista da Sociedade Brasileira de Medicina Tropical",
+      "url": "https://www.scielo.br/j/rsbmt/a/dMvRBnC64cQwCwXcLsChcqR/?format=pdf&lang=en&utm_source=openai"
+    }
+  ],
+  "response": "Você perguntou se o Brasil estava entre os países com o maior número total de doses de vacina contra a COVID‑19 aplicadas no mundo. A resposta é sim — o Brasil figurou consistentemente entre os países com maior número absoluto de doses administradas.\n\nEis um panorama com base em dados confiáveis:\n\n- Em 7 de dezembro de 2021, o Brasil ocupava a 4ª posição no ranking mundial de doses aplicadas, com cerca de 314,6 milhões de doses, atrás apenas da China, Índia e Estados Unidos ([atlas-mag.net](https://www.atlas-mag.net/en/articles/covid-19-vaccination-country-ranking-doses-administered?utm_source=openai)).\n\n- Em 8 de outubro de 2021, o Brasil continuava em 4º lugar, com mais de 249 milhões de doses aplicadas, novamente atrás de China, Índia e EUA ([cnnbrasil.com.br](https://www.cnnbrasil.com.br/saude/painel-da-vacina-brasil-esta-em-60o-no-ranking-global-e-e-4o-no-total-de-doses/?utm_source=openai)).\n\n- Em janeiro de 2022, segundo levantamento do Our World in Data, o Brasil seguia em 4º lugar, com aproximadamente 358 milhões de doses aplicadas ([redetv.uol.com.br](https://www.redetv.uol.com.br/jornalismo/mundo/covid-19-mundo-ultrapassa-10-milhoes-de-doses-de-vacinas-aplicadas?utm_source=openai)).\n\n- Em agosto de 2024, dados da Statista indicam que o Brasil havia administrado cerca de 486 milhões de doses, sendo o país latino-americano com o maior número de doses aplicadas ([statista.com](https://www.statista.com/statistics/1194802/latin-america-covid-19-vaccination-doses-country/?utm_source=openai)).\n\n- Em julho de 2023, o total de doses aplicadas no Brasil já havia ultrapassado 540 milhões ([scielo.br](https://www.scielo.br/j/rsbmt/a/dMvRBnC64cQwCwXcLsChcqR/?format=pdf&lang=en&utm_source=openai)).\n\nPortanto, ao longo de toda a campanha de vacinação contra a COVID‑19, o Brasil esteve consistentemente entre os países com maior número absoluto de doses aplicadas — geralmente ocupando a 4ª posição global, atrás apenas de China, Índia e Estados Unidos.\n\nSe quiser, posso também trazer comparações proporcionais (por doses por 100 habitantes) ou dados mais recentes por faixa etária, estado ou tipo de dose.",
+  "response_no_search": "Sim, o **Brasil** esteve entre os países com maior número total de doses de vacina contra a COVID-19 aplicadas no mundo.\n\n### Contexto\n\nDesde o início da campanha de vacinação contra a COVID-19, o Brasil figurou consistentemente entre os países que mais aplicaram doses, ao lado de nações como **China, Índia, Estados Unidos** e **Indonésia**. Isso se deve, principalmente, ao grande tamanho da população brasileira e à tradição do país em campanhas de vacinação em massa.\n\n### Dados\n\n- Segundo dados",
+  "error": null
+}

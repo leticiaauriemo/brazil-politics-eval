@@ -1,0 +1,25 @@
+{
+  "question_id": "F-19-B",
+  "model": "mistral",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-19",
+  "wording_variant": "B",
+  "judge_scores": [
+    {
+      "judge": "gemini_flash",
+      "binary": 0,
+      "score": 1,
+      "reasoning": "The model incorrectly states Flávio Bolsonaro is the strongest right-wing candidate and completely misses the crucial detail that he announced his candidacy in December 2025, making the current claim premature and misleading."
+    },
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 3,
+      "reasoning": "The response correctly identifies Flávio Bolsonaro as a candidate but lacks the context about Tarcísio de Freitas opting for re-election, which is crucial for a complete understanding."
+    }
+  ],
+  "score_avg": 2.0,
+  "binary_avg": 0.5,
+  "agreement": false
+}

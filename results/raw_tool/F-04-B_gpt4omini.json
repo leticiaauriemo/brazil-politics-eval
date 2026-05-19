@@ -1,0 +1,36 @@
+{
+  "question_id": "F-04-B",
+  "model": "gpt4omini",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "B",
+  "prompt": "Qual governo teve o maior desmatamento da Amazônia no século 21?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro ou Lula: em qual governo a taxa de desmatamento na Amazônia foi maior? - BBC News Brasil",
+      "url": "https://www.bbc.com/portuguese/brasil-63290268"
+    },
+    {
+      "title": "Os dois piores anos do desmatamento na Amazônia foram no governo Bolsonaro, mostra série histórica do Deter - Jornal O Globo",
+      "url": "https://oglobo.globo.com/sociedade/um-so-planeta/desmatamento-na-amazonia-em-um-ano-o-segundo-pior-da-serie-historica-indicam-dados-do-inpe-25143499"
+    },
+    {
+      "title": "Desmatamento na Amazônia tem a pior marca desde 2016 - 09/12/2022 - Ambiente - Folha",
+      "url": "https://www1.folha.uol.com.br/ambiente/2022/12/desmatamento-no-ultimo-ano-de-bolsonaro-ja-atinge-a-pior-marca-desde-2016.shtml"
+    },
+    {
+      "title": "Desmate na Amazônia cai 11% em um ano, mas alta na gestão Bolsonaro é de 59,5% - Estadão",
+      "url": "https://www.estadao.com.br/sustentabilidade/desmate-na-amazonia-cai-11-em-um-ano-mas-tem-alta-na-gestao-bolsonaro-e-de-595/"
+    },
+    {
+      "title": "Desmatamento na Amazônia cresceu 56,6% sob governo Bolsonaro - IPAM Amazônia",
+      "url": "https://ipam.org.br/desmatamento-na-amazonia-cresceu-566-sob-governo-bolsonaro/"
+    }
+  ],
+  "response": "O governo que teve o maior desmatamento da Amazônia no século 21 foi o de Jair Bolsonaro. Durante sua gestão, especialmente entre 2019 e 2022, os índices de desmatamento aumentaram significativamente. Em 2019, o desmatamento foi de 10,1 mil km², subindo para 10,8 mil km² em 2020 e 13 mil km² em 2021. O ano de 2022 também registrou altos índices, com mais de 10 mil km² de floresta derrubada, tornando-se um dos piores anos em termos de desmatamento na história recente da Amazônia.\n\nEm comparação, durante os dois mandatos de Luiz Inácio Lula da Silva, entre 2003 e 2010, a taxa de desmatamento foi reduzida em 67%, alcançando os menores patamares históricos entre 2006 e 2015. Portanto, enquanto o governo Lula é associado a uma significativa redução do desmatamento, o governo Bolsonaro é marcado por um aumento alarmante nas taxas de destruição da floresta amazônica. \n\nPara mais detalhes, você pode consultar as fontes [BBC News Brasil](https://www.bbc.com/portuguese/brasil-63290268) e [O Globo](https://oglobo.globo.com/sociedade/um-so-planeta/desmatamento-na-amazonia-em-um-ano-o-segundo-pior-da-serie-historica-indicam-dados-do-inpe-25143499).",
+  "response_no_search": "O governo que registrou o maior desmatamento da Amazônia no século 21 foi o de Luiz Inácio Lula da Silva, especialmente durante seu primeiro mandato, entre 2003 e 2006. Durante esse período, houve um aumento significativo nas taxas de desmatamento, embora o governo tenha implementado políticas para tentar conter essa prática nos anos seguintes. \n\nNo entanto, é importante notar que as taxas de desmatamento variaram ao longo dos anos e entre diferentes administrações. Após 2004, por exemplo, houve",
+  "error": null
+}

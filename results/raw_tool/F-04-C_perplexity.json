@@ -1,0 +1,15 @@
+{
+  "question_id": "F-04-C",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-04",
+  "wording_variant": "C",
+  "prompt": "O desmatamento médio anual da Amazônia foi maior no governo Bolsonaro (2019–2022) ou nos primeiro e segundo mandatos de Lula (2003–2010)?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Comparação do Desmatamento Médio Anual: Bolsonaro vs. Lula\n\nCom base nos dados apresentados, a resposta depende do período analisado:\n\n## Governo Bolsonaro (2019–2022)\n- **Média anual: 11.396 km²**\n- Total de 4 anos: 45.586 km²\n\n## Governos Lula (2003–2010)\n\n### Primeiro mandato (2003–2006)\n- **Média dos 3 primeiros anos: 24 mil km²** (71 mil km² no total)\n- Picos recordes: 25,3 mil km² (2003) e 27,7 mil km² (2004)\n\n### Segundo mandato (2007–2010)\n- Dados indicam redução significativa em relaç",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

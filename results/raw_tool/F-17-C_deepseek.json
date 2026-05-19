@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-C",
+  "model": "deepseek",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "C",
+  "prompt": "O Banco Central decretou a liquidação do Banco Master?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Liquidação Extrajudicial do Banco Master - Banco Central do Brasil",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/banco-master-liquidacao"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Banco Master",
+      "url": "https://www.bcb.gov.br/detalhenoticia/20936/nota"
+    },
+    {
+      "title": "Banco Central decreta liquidação extrajudicial do Master e preserva sistema financeiro nacional | G1",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2025/11/18/banco-central-decreta-liquidacao-extrajudicial-do-master-e-preserva-sistema-financeiro-nacional.ghtml"
+    },
+    {
+      "title": "Entenda por que o BC decretou a liquidação do Banco Master | CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/entenda-por-que-o-bc-decretou-a-liquidacao-do-banco-master/"
+    },
+    {
+      "title": "BC decreta liquidação do Banco Master e põe fim a acordo com Fictor",
+      "url": "https://mais.opovo.com.br/jornal/economia/2025/11/19/bc-decreta-liquidacao-do-banco-master-e-poe-fim-a-acordo-com-fictor.html"
+    }
+  ],
+  "response": "Sim, o Banco Central do Brasil decretou a liquidação extrajudicial do Banco Master. A decisão foi tomada devido a uma grave crise de liquidez e violações às normas do sistema financeiro. A liquidação implica que o Banco Master deixará de operar e será retirado do mercado de forma organizada. Um liquidante foi nomeado para administrar o processo, que inclui a venda de ativos e o pagamento de credores, seguindo uma ordem estabelecida por lei. Para mais detalhes, você pode consultar as fontes oficiais do Banco Central.",
+  "response_no_search": "Até o momento, **não há informações oficiais** de que o Banco Central do Brasil (BCB) tenha decretado a liquidação do Banco Master. O BCB costuma anunciar medidas dessa natureza em comunicados formais em seu site ou por meio de notas à imprensa.\n\n### O que se sabe:\n1. **Banco Master**: É uma instituição financeira de médio porte no Brasil, focada em serviços bancários para PJ e clientes de alta renda.\n2. **Situação regulatória**: Caso o BCB identifique problemas graves em um banco (como insolvên",
+  "error": null
+}

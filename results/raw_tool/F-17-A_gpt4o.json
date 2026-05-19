@@ -1,0 +1,36 @@
+{
+  "question_id": "F-17-A",
+  "model": "gpt4o",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-17",
+  "wording_variant": "A",
+  "prompt": "O Banco Master ainda está em funcionamento em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Banco Master",
+      "url": "https://www.bancomaster.com.br/"
+    },
+    {
+      "title": "Com liquidação, entenda como funcionará retirada de dinheiro do Master",
+      "url": "https://www.metropoles.com/brasil/economia-br/com-liquidacao-entenda-como-funcionara-retirada-de-dinheiro-do-master"
+    },
+    {
+      "title": "Caso Banco Master: Entenda o papel de cada instituição | G1",
+      "url": "https://g1.globo.com/politica/noticia/2026/01/03/veja-quem-e-quem-no-caso-do-banco-master-e-o-papel-de-cada-instituicao.ghtml"
+    },
+    {
+      "title": "Liquidação do Banco Master já atinge 8 instituições; saiba quais",
+      "url": "https://economicnewsbrasil.com.br/2026/02/18/liquidacao-do-banco-master-conheca-as-oito-instituicoes-ja-encerradas/"
+    },
+    {
+      "title": "Caso Banco Master: o que aconteceu e o que vai acontecer para quem investiu",
+      "url": "https://www.easyfin.blog/post/caso-banco-master-o-que-aconteceu-e-o-que-vai-acontecer-para-quem-investiu"
+    }
+  ],
+  "response": "O Banco Master não está mais em funcionamento em 2026. Em novembro de 2025, o Banco Central do Brasil decretou a liquidação extrajudicial do Banco Master devido a problemas financeiros e operacionais graves. Isso significa que o banco deixou de realizar operações bancárias e entrou em um processo de liquidação, onde seus ativos e passivos estão sendo geridos para pagar os credores. Durante esse processo, o Fundo Garantidor de Créditos (FGC) foi acionado para ressarcir os investidores dentro do limite legal. Portanto, o Banco Master não está operando como uma instituição financeira ativa em 2026.",
+  "response_no_search": "Sinto muito, mas não posso prever eventos futuros ou fornecer informações sobre o estado de empresas em anos futuros, como 2026. Recomendo verificar fontes confiáveis ou o próprio site do Banco Master para obter informações atualizadas sobre sua operação.",
+  "error": null
+}

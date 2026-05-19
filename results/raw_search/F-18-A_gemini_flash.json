@@ -1,0 +1,35 @@
+{
+  "question_id": "F-18-A",
+  "model": "gemini_flash",
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "prompt": "Daniel Vorcaro, dono do Banco Master, foi preso pela Polícia Federal?",
+  "search_enabled": true,
+  "searched": true,
+  "citations": [
+    {
+      "title": "Daniel Vorcaro, dono do Banco Master, é novamente preso em operação da PF | Finanças | Valor Econômico",
+      "url": "https://valor.globo.com/brasil/noticia/2026/03/04/vorcaro-dono-do-banco-master-e-preso-em-nova-operacao-da-pf.ghtml"
+    },
+    {
+      "title": "Quem é Daniel Vorcaro, dono do Banco Master, que foi preso pela PF?",
+      "url": "https://www.infomoney.com.br/business/quem-e-daniel-vorcaro-dono-do-banco-master-que-foi-preso-pela-pf/"
+    },
+    {
+      "title": "Quem é Daniel Vorcaro, dono do Banco Master preso pela Polícia Federal",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/03/04/quem-e-daniel-vorcaro-dono-do-banco-master-preso-pela-policia-federal.ghtml"
+    },
+    {
+      "title": "Caso Master: quem é o banqueiro Daniel Vorcaro preso hoje pela Polícia Federal",
+      "url": "https://extra.globo.com/economia/noticia/2026/03/caso-master-quem-e-o-banqueiro-daniel-vorcaro-preso-hoje-pela-policia-federal.ghtml"
+    },
+    {
+      "title": "PF prende Daniel Vorcaro, do Banco Master, de novo - BBC",
+      "url": "https://www.bbc.com/portuguese/articles/cp322yglvpjo"
+    }
+  ],
+  "response": "Sim, Daniel Vorcaro, dono do Banco Master, foi preso pela Polícia Federal. Ele foi detido em 4 de março de 2026, em São Paulo, durante a terceira fase da Operação Compliance Zero [valor.globo.com](https://valor.globo.com/brasil/noticia/2026/03/04/vorcaro-dono-do-banco-master-e-preso-em-nova-operacao-da-pf.ghtml), [infomoney.com.br](https://www.infomoney.com.br/business/quem-e-daniel-vorcaro-dono-do-banco-master-que-foi-preso-pela-pf/), [oglobo.globo.com](https://oglobo.globo.com/economia/financas/noticia/2026/03/04/quem-e-daniel-vorcaro-dono-do-banco-master-preso-pela-policia-federal.ghtml), [extra.globo.com](https://extra.globo.com/economia/noticia/2026/03/caso-master-quem-e-o-banqueiro-daniel-vorcaro-preso-hoje-pela-policia-federal.ghtml).\n\nEssa foi a segunda vez que Vorcaro foi preso. A primeira ocorreu em 17 de novembro de 2025, no Aeroporto Internacional de Guarulhos, quando ele tentava embarcar para Dubai [valor.globo.com](https://valor.globo.com/brasil/noticia/2026/03/04/vorcaro-dono-do-banco-master-e-preso-em-nova-operacao-da-pf.ghtml), [oglobo.globo.com](https://oglobo.globo.com/economia/financas/noticia/2026/03/04/quem-e-daniel-vorcaro-dono-do-banco-master-preso-pela-policia-federal.ghtml), [extra.globo.com](https://extra.globo.com/economia/notancas/noticia/2026/03/04/quem-e-daniel-vorcaro-dono-do-banco-master-preso-pela-policia-federal.ghtml), [bbc.com](https://www.bbc.com/portuguese/articles/cp322yglvpjo). Ele foi solto em 29 de novembro do mesmo ano, com a condição de usar tornozeleira eletrônica e proibição de se ausentar de sua cidade e de administrar suas empresas [valor.globo.com](https://valor.globo.com/brasil/noticia/2026/03/04/vorcaro-dono-do-banco-master-e-preso-em-nova-operacao-da-pf.ghtml).\n\nA Operação Compliance Zero investiga suspeitas de irregularidades na gestão do Banco Master [oglobo.globo.com](https://oglobo.globo.com/economia/financas/noticia/2026/03/04/quem-e-daniel-vorcaro-dono-do-banco-master-preso-pela-policia-federal.ghtml), [extra.globo.com](https://extra.globo.com/economia/noticia/2026/03/caso-master-quem-e-o-banqueiro-daniel-vorcaro-preso-hoje-pela-policia-federal.ghtml). A prisão mais recente foi autorizada pelo ministro André Mendonça, do Supremo Tribunal Federal (STF) [oglobo.globo.com](https://oglobo.globo.com/economia/financas/noticia/2026/03/04/quem-e-daniel-vorcaro-dono-do-banco-master-preso-pela-policia-federal.ghtml), [extra.globo.com](https://extra.globo.com/economia/noticia/2026/03/caso-master-quem-e-o-banqueiro-daniel-vorcaro-preso-hoje-pela-policia-federal.ghtml).",
+  "response_no_search": "Não, Daniel Vorcaro, dono do Banco Master, não foi preso pela Polícia Federal.\n\nHouve uma confusão em 2023, quando o nome de Daniel Vorcaro foi associado a uma operação da Polícia Federal que investigava fraudes em fundos de pensão. No entanto, a PF esclareceu que o Daniel Vorcaro investigado não era o banqueiro, mas sim um homônimo.\n\nO Daniel Vorcaro do Banco Master não tem qualquer envolvimento com essa investigação.",
+  "error": null
+}

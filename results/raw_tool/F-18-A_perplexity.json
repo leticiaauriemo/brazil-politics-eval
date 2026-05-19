@@ -1,0 +1,15 @@
+{
+  "question_id": "F-18-A",
+  "model": "perplexity",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-18",
+  "wording_variant": "A",
+  "prompt": "Daniel Vorcaro, dono do Banco Master, foi preso pela Polícia Federal?",
+  "search_mode": "opportunistic",
+  "did_search": false,
+  "citations": [],
+  "response": "",
+  "response_no_search": "# Daniel Vorcaro foi preso pela Polícia Federal\n\nSim, **Daniel Vorcaro, dono do Banco Master, foi preso pela Polícia Federal em múltiplas ocasiões**:\n\n## Histórico de Prisões:\n\n1. **Primeira prisão - Novembro de 2025**\n   - Preso na primeira fase da Operação Compliance Zero\n   - Tentava deixar o país pelo Aeroporto de Guarulhos\n   - Ficou 10 dias preso e foi liberado com monitoramento por tornozeleira eletrônica\n\n2. **Segunda prisão - Março de 2026**\n   - Preso novamente no dia 4 de março de 202",
+  "error": "Error code: 404 - {'error': {'message': 'No endpoints found that support tool use. To learn more about provider routing, visit: https://openrouter.ai/docs/guides/routing/provider-selection', 'code': 404}}"
+}

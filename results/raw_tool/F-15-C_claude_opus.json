@@ -1,0 +1,36 @@
+{
+  "question_id": "F-15-C",
+  "model": "claude_opus",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-15",
+  "wording_variant": "C",
+  "prompt": "A emergência humanitária na terra Yanomami foi declarada pelo governo Bolsonaro ou pelo governo Lula?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Emergência Yanomami completa 3 anos com avanços na saúde e na proteção do território - Greenpeace Brasil",
+      "url": "https://www.greenpeace.org/brasil/blog/emergencia-yanomami-completa-3-anos-com-avancos-na-saude-e-na-protecao-do-territorio/"
+    },
+    {
+      "title": "Crise humanitária yanomami: 3 mil mortes em 10 anos alarmam o Brasil",
+      "url": "https://diario.dopovo.com.br/2025/09/27/crise-humanitaria-entre-os-yanomami-quase-3-mil-mortes-em-10-anos/"
+    },
+    {
+      "title": "O que você precisa saber para entender a crise na Terra Indígena Yanomami | Instituto Socioambiental",
+      "url": "https://www.socioambiental.org/noticias-socioambientais/o-que-voce-precisa-saber-para-entender-crise-na-terra-indigena-yanomami"
+    },
+    {
+      "title": "Crise sanitária e humanitária na TI Yanomami: seis meses após a declaração de emergência | Cimi",
+      "url": "https://cimi.org.br/2023/07/crise-sanitaria-e-humanitaria-na-ti-yanomami-seis-meses-apos-a-declaracao-de-emergencia/"
+    },
+    {
+      "title": "Operação Yanomami derruba garimpo, ergue infraestrutura e salva vidas — Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/noticias/202501/acoes-do-governo-federal-na-terra-yanomami-derrubam-garimpo-e-reerguem-infraestrutura"
+    }
+  ],
+  "response": "A emergência humanitária na Terra Indígena Yanomami foi declarada pelo **governo Lula**, e não pelo governo Bolsonaro.\n\nEm 20 de janeiro de 2023, o Governo Federal decretou estado de emergência em saúde pública na Terra Indígena Yanomami, reconhecendo oficialmente uma das maiores crises humanitárias da história recente do Brasil. A decisão foi tomada poucas semanas após a posse do presidente Luiz Inácio Lula da Silva (PT), que havia assumido o cargo em 1º de janeiro de 2023.\n\nA crise humanitária no local ganhou destaque quando o governo de Luiz Inácio Lula da Silva (PT) decretou Estado de Emergência em Saúde Pública de Importância Nacional (Espin) em 2023. Essa decisão ocorreu após uma visita técnica do Ministério da Saúde, que encontrou crianças em estado crítico, afetadas por malária, infecções respiratórias agudas e desnutrição.\n\n### Contexto importante\n\nEmbora a declaração de emergência tenha sido feita pelo governo Lula, a crise se agravou durante o governo Bolsonaro:\n\n- Notoriamente anti-indígena, Bolsonaro foi o primeiro presidente da República desde a Redemocratização a não demarcar \"nenhum centímetro\" de TIs, como prometeu em campanha. Durante todo o governo, ele estimulou o crime ambiental e sua regularização, em especial o garimpo ilegal nas TIs.\n\n- Dados do site Sumaúma mostram que, durante o governo do extremista de direita Jair Bolsonaro, o número de mortes de crianças com menos de cinco anos por causas evitáveis aumentou 29% no território Yanomami: 570 pequenos indígenas morreram nos últimos quatro anos por doenças que têm tratamento.\n\n- \"O que está acontecendo na Terra Indígena Yanomami é muito triste, é fruto da invasão dos garimpeiros, os conflitos, mortes, água envenenada por mercúrio\" · A Terra Indígena Yanomami teve Emergência em Saúde Pública de Importância Nacional (ESPIN) declarada pelo Ministério da Saúde (MS), em 20 de janeiro deste ano – a portaria foi publicada no Diário Oficial da União.\n\n### Ações após a declaração\n\nA resposta do governo envolveu a articulação de 33 órgãos, sob a coordenação da Casa Civil da Presidência da República. Atendendo a uma determinação do presidente Luiz Inácio Lula da Sil",
+  "response_no_search": "A emergência em saúde pública de importância nacional na Terra Indígena Yanomami foi declarada pelo **governo Lula**, em 20 de janeiro de 2023, por meio de portaria do Ministério da Saúde, poucos dias após o início do terceiro mandato do presidente Luiz Inácio Lula da Silva.\n\nA declaração veio após denúncias e relatórios que expunham a grave crise sanitária enfrentada pelos Yanomami, com casos generalizados de desnutrição severa (especialmente entre crianças), malária, contaminação por mercúrio ",
+  "error": null
+}

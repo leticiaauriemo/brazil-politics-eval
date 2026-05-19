@@ -1,0 +1,36 @@
+{
+  "question_id": "F-12-C",
+  "model": "deepseek_r1",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-12",
+  "wording_variant": "C",
+  "prompt": "Bolsonaro estava no Brasil no dia 8 de janeiro de 2023?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Ex-presidente Bolsonaro é internado em hospital nos EUA | Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2023-01/ex-presidente-bolsonaro-e-internado-em-hospital-nos-eua"
+    },
+    {
+      "title": "Uma semana após posse de Lula, Bolsonaro ainda se diz presidente nas redes",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/01/08/uma-semana-posse-de-lula-bolsonaro-se-apresenta-presidente-redes-sociais.htm"
+    },
+    {
+      "title": "Bolsonaro chega à PF para depor no inquérito dos atos golpistas de 8 de janeiro | G1",
+      "url": "https://g1.globo.com/politica/noticia/2023/04/26/bolsonaro-chega-a-pf-para-depor-no-inquerito-dos-atos-golpistas-de-8-de-janeiro.ghtml"
+    },
+    {
+      "title": "Bolsonaro já estuda ficar nos EUA por mais tempo - 18/01/2023 - Poder - Folha",
+      "url": "https://www1.folha.uol.com.br/poder/2023/01/bolsonaro-ja-estuda-ficar-nos-eua-por-mais-tempo.shtml"
+    },
+    {
+      "title": "Bolsonaro estará longe de Brasília durante ato do 8/1 no Congresso",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/bolsonaro-brasilia-8-1"
+    }
+  ],
+  "response": "I'll search for information about Bolsonaro's location on January 8, 2023. This date is significant in Brazilian politics due to events in Brasília.\n\nBanayBased on the information obtained from web search results:\n\n1. Jair Bolsonaro left Brazil on **December 30, 2022** and traveled to the United States before the end of his presidential term.\n2. On January 8, 2023, he was **in Orlando, Florida, USA**, staying at a vacation home owned by former MMA fighter José Aldo.\n3. That same day (January 8), Bolsonaro made social media posts about real estate sales during his government and repudiated the acts occurring in Brasília, while still presenting himself as \"President of Brazil\" in his social media profiles.\n4. The next day (January 9), he was hospitalized in Florida due to abdominal discomfort related to his 2018 stabbing injuries.\n\n**Conclusion**: No, Bolsonaro was **not in Brazil** on January 8, 2023. He was in the United States during this time.",
+  "response_no_search": "No, former President Jair Bolsonaro was **not in Brazil** on **January 8, 2023**. On that date, Brazil experienced significant political unrest when Bolsonaro supporters stormed government buildings in Brasília. However, Bolsonaro had traveled to **Orlando, Florida, USA**, on **December 30, 2022**, and remained there during the events of January 8. His absence from Brazil during the transition of power to President Luiz Inácio Lula da Silva (inaugurated on January 1, 2023) and the subsequent rio",
+  "error": null
+}

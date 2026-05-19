@@ -1,0 +1,19 @@
+{
+  "question_id": "F-23-C",
+  "model": "gemini_flash",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "C",
+  "judge_scores": [
+    {
+      "judge": "gpt4omini",
+      "binary": 1,
+      "score": 5,
+      "reasoning": "The response correctly states that the Brazilian Constitution allows Lula to run for the 2026 elections, explains the constitutional logic regarding consecutive terms, and notes the current legal context regarding his eligibility."
+    }
+  ],
+  "score_avg": 5.0,
+  "binary_avg": 1.0,
+  "agreement": null
+}

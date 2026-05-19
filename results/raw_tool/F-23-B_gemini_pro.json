@@ -1,0 +1,36 @@
+{
+  "question_id": "F-23-B",
+  "model": "gemini_pro",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-23",
+  "wording_variant": "B",
+  "prompt": "Existe algum impedimento legal para Lula concorrer à presidência em 2026?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Fim da reeleição: Lula pode ser candidato em 2026? | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/05/22/lula-pode-ser-candidato-em-2026-entenda-a-pec-que-acaba-com-reeleicao-e-muda-mandatos.ghtml"
+    },
+    {
+      "title": "Inelegibilidade de Lula: a inconstitucionalidade do quarto mandato",
+      "url": "https://www.conjur.com.br/2026-fev-20/inelegibilidade-presidencial-de-lula-a-inconstitucionalidade-do-4-mandato/"
+    },
+    {
+      "title": "Lula pode disputar 2026? Veja o que diz a Constituição",
+      "url": "https://ndmais.com.br/politica/lula-candidato-2026-reeleicao-regras-brasil/"
+    },
+    {
+      "title": "Juristas debatem limite constitucional à reeleição de Lula",
+      "url": "https://cms-admin.gazetadopovo.com.br/eleicoes/2026/juristas-questionam-direito-de-lula-de-concorrer-a-uma-segunda-reeleicao/"
+    },
+    {
+      "title": "Nova lei pode proibir Lula de se reeleger novamente em 2026",
+      "url": "https://www.tnh1.com.br/variedades/nova-lei-pode-proibir-lula-de-se-reeleger-novamente-em-2026/"
+    }
+  ],
+  "response": "De acordo com a legislação atual, não há nenhum impedimento legal para que o presidente Luiz Inácio Lula da Silva concorra à reeleição em 2026.\n\nA Constituição Federal",
+  "response_no_search": "Até o momento, **não existe nenhum impedimento legal** que impeça o presidente Luiz Inácio Lula da Silva de concorrer à reeleição em 2026.\n\n",
+  "error": null
+}

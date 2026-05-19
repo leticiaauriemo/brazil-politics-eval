@@ -1,0 +1,36 @@
+{
+  "question_id": "F-03-B",
+  "model": "llama33",
+  "run": 0,
+  "category": "factual",
+  "wording_group": "F-03",
+  "wording_variant": "B",
+  "prompt": "O TSE declarou Bolsonaro inelegível — até quando dura essa proibição?",
+  "search_mode": "opportunistic",
+  "did_search": true,
+  "citations": [
+    {
+      "title": "Bolsonaro inelegível: Veja como fica a situação eleitoral do ex-presidente, condenado pelo STF - Estadão",
+      "url": "https://www.estadao.com.br/politica/como-fica-a-inelegibilidade-jair-bolsonaro-com-decisao-do-stf-entenda-nprp/"
+    },
+    {
+      "title": "Bolsonaro ficará inelegível até quando? Entenda decisões que condenaram ex-presidente - Estadão",
+      "url": "https://www.estadao.com.br/politica/inelegivel-jair-bolsonaro-relembre-decisoes-condenacoes-ex-presidente-nprp/"
+    },
+    {
+      "title": "Por maioria de votos, TSE declara Bolsonaro inelegível por 8 anos",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Junho/por-maioria-de-votos-tse-declara-bolsonaro-inelegivel-por-8-anos"
+    },
+    {
+      "title": "Bolsonaro está inelegível. Saiba o porquê e até quando | Política | Valor Econômico",
+      "url": "https://valor.globo.com/politica/noticia/2025/02/19/bolsonaro-esta-inelegivel-saiba-o-porque-e-ate-quando.ghtml"
+    },
+    {
+      "title": "Bolsonaro está inelegível até quando? Saiba em que ano ele poderá participar de eleições",
+      "url": "https://oglobo.globo.com/politica/noticia/2024/11/06/bolsonaro-esta-inelegivel-ate-quando-saiba-em-que-ano-ele-podera-participar-de-eleicoes.ghtml"
+    }
+  ],
+  "response": "Bolsonaro está inelegível até 2030 devido à condenação pelo Tribunal Superior Eleitoral (TSE) por abuso de poder político e uso indevido dos meios de comunicação. Ele foi condenado a 27 anos e 3 meses de prisão em regime fechado e está sujeito à suspensão dos direitos políticos enquanto cumpre a pena. Além disso, ele pode ficar ainda mais oito anos inelegível após cumprir a pena, o que o tornaria inelegível até 2060. No entanto, é importante notar que a decisão do TSE pode ser alterada ou revogada em caso de recurso ou mudança na legislação.",
+  "response_no_search": "Até a data do meu último conhecimento em 2023, o Tribunal Superior Eleitoral (TSE) do Brasil havia declarado Jair Bolsonaro inelegível por 8 anos, contados a partir da data da decisão, devido a uma condenação por abuso de poder político e econômico nas eleições de 2018.\n\nNo entanto, é importante notar que a situação pode ter mudado desde então, e é sempre recomendável verificar as fontes mais atualizadas para obter informações precisas e atualizadas.\n\nAlém disso, é importante lembrar que a inele",
+  "error": null
+}
