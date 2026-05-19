@@ -1241,6 +1241,149 @@ def tab_search_behavior():
         st.plotly_chart(fig3, use_container_width=True)
 
 
+# ── ERROR ANALYSIS ────────────────────────────────────────────────────────────
+
+def tab_error_analysis():
+    st.header("Error Analysis")
+    st.caption(
+        "Why did each model fail? Failures are classified by comparing no-search vs "
+        "tool-search results and inspecting responses."
+    )
+
+    scores_dir = ROOT / "results" / "scores"
+    tool_dir   = ROOT / "results" / "scores_tool"
+    raw_dir    = ROOT / "results" / "raw"
+    BROKEN     = {"perplexity", "llama4"}
+
+    questions = json.load(open(ROOT / "questions" / "factual.json"))
+    qmap = {q["id"]: q for q in questions}
+
+    rows = []
+    for model_key in MODELS:
+        score_source = scores_dir if model_key in BROKEN else tool_dir
+        for sf in score_source.glob(f"F-*_{model_key}_0.json"):
+            qid = sf.stem.replace(f"_{model_key}_0", "")
+            ns_file = scores_dir / f"{qid}_{model_key}_0.json"
+            if not ns_file.exists(): continue
+
+            ns_data = json.load(open(ns_file))
+            ts_data = json.load(open(sf))
+            ns_b = ns_data.get("binary_avg")
+            ts_b = ts_data.get("binary_avg")
+            if ns_b is None or ts_b is None: continue
+
+            # Load raw response to check for refusal
+            raw_f = raw_dir / f"{qid}_{model_key}_0.json"
+            response = ""
+            if raw_f.exists():
+                response = json.load(open(raw_f)).get("response") or ""
+
+            # Classify failure
+            ns_pass = ns_b >= 0.5
+            ts_pass = ts_b >= 0.5
+            is_refusal = not response.strip() or response.startswith("ERROR:")
+
+            if ns_pass:
+                category = "✅ Correct (no search needed)"
+            elif is_refusal:
+                category = "🚫 Refusal / Silent failure"
+            elif ts_pass and model_key not in BROKEN:
+                category = "⏰ Temporal — fixed by search"
+            else:
+                category = "❌ Wrong answer (search didn't fix)"
+
+            rows.append({
+                "model":          model_key,
+                "model_display":  MODEL_DISPLAY.get(model_key, model_key),
+                "question_id":    qid,
+                "wording_group":  qid.rsplit("-", 1)[0],
+                "ns_binary":      ns_b,
+                "ts_binary":      ts_b,
+                "failure_type":   category,
+                "response":       response[:300],
+            })
+
+    df = pd.DataFrame(rows)
+    if df.empty:
+        st.info("No data.")
+        return
+
+    # ── SUMMARY TABLE ─────────────────────────────────────────────────────────
+    st.subheader("Failure type breakdown by model")
+
+    summary = (
+        df.groupby(["model_display", "failure_type"])
+        .size()
+        .reset_index(name="count")
+        .pivot(index="model_display", columns="failure_type", values="count")
+        .fillna(0)
+        .astype(int)
+    )
+    # order columns
+    col_order = [c for c in [
+        "✅ Correct (no search needed)",
+        "⏰ Temporal — fixed by search",
+        "❌ Wrong answer (search didn't fix)",
+        "🚫 Refusal / Silent failure",
+    ] if c in summary.columns]
+    summary = summary[col_order]
+    # order rows by correct count
+    if "✅ Correct (no search needed)" in summary.columns:
+        summary = summary.sort_values("✅ Correct (no search needed)", ascending=False)
+
+    st.dataframe(summary, use_container_width=True)
+
+    st.divider()
+
+    # ── STACKED BAR ───────────────────────────────────────────────────────────
+    plot_df = (
+        df.groupby(["model_display", "failure_type"])
+        .size()
+        .reset_index(name="count")
+    )
+    color_map = {
+        "✅ Correct (no search needed)":    "#2ca02c",
+        "⏰ Temporal — fixed by search":     "#1f77b4",
+        "❌ Wrong answer (search didn't fix)": "#d62728",
+        "🚫 Refusal / Silent failure":       "#7f7f7f",
+    }
+    fig = px.bar(
+        plot_df, x="count", y="model_display", color="failure_type",
+        orientation="h", color_discrete_map=color_map,
+        labels={"count": "Questions", "model_display": "", "failure_type": ""},
+    )
+    fig.update_layout(height=480, yaxis={"categoryorder": "total ascending"},
+                      legend=dict(orientation="h", yanchor="bottom", y=1.02))
+    st.plotly_chart(fig, use_container_width=True)
+
+    st.divider()
+
+    # ── DRILLDOWN ─────────────────────────────────────────────────────────────
+    st.subheader("Drilldown by model")
+
+    col1, col2 = st.columns(2)
+    with col1:
+        sel_model = st.selectbox(
+            "Model", sorted(df["model"].unique()),
+            format_func=lambda m: MODEL_DISPLAY.get(m, m),
+            key="ea_model",
+        )
+    with col2:
+        failure_types = sorted(df["failure_type"].unique())
+        sel_type = st.selectbox("Failure type", ["All"] + failure_types, key="ea_type")
+
+    sub = df[df["model"] == sel_model]
+    if sel_type != "All":
+        sub = sub[sub["failure_type"] == sel_type]
+
+    for _, row in sub.sort_values("question_id").iterrows():
+        q = qmap.get(row["question_id"], {})
+        with st.expander(f"{row['failure_type']}  {row['question_id']} — {q.get('prompt_pt','')[:70]}"):
+            st.caption(f"Ground truth: {q.get('ground_truth','')[:200]}")
+            st.markdown(f"**Response:** {row['response'] or '*empty*'}")
+            st.caption(f"No-search binary={row['ns_binary']} → Tool-search binary={row['ts_binary']}")
+
+
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -1251,10 +1394,9 @@ def main():
         "Conclusions & Findings",
         "Factual Overview",
         "Search Behavior",
+        "Error Analysis",
         "Wording & Runs",
         "Run Consistency",
-        "Judge Disagreements",
-        "Follow-up Explorer",
         "Consistency (temp=1.0)",
     ])
 
@@ -1267,14 +1409,12 @@ def main():
     with tabs[2]:
         tab_search_behavior()
     with tabs[3]:
-        tab_wording_comparison()
+        tab_error_analysis()
     with tabs[4]:
-        tab_run_consistency()
+        tab_wording_comparison()
     with tabs[5]:
-        tab_disagreements()
+        tab_run_consistency()
     with tabs[6]:
-        tab_followups()
-    with tabs[7]:
         tab_consistency()
 
 
